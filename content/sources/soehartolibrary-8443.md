@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.8443
-entity_kind: source
 title: "1975-01-Sambutan Presiden Soeharto Pada Peringatan Hari Ulang Tahun II PDI"
-date: "2013-11-10T09:00:15"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["PDI", "Presiden Soeharto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: ""
-slug_sumber: "1975-01"
-sumber: ["https://soehartolibrary.id/1975-01/"]
-ringkasan: "Sambutan Presiden Soeharto Pada Peringatan Hari Ulang Tahun II PDI Sambutan Presiden Soeharto pada Peringatan Hari Ulang Tahun II Partai Demokrasi Indonesia (PDI) tanggal 10 Januari 1975 di Jakarta."
+description: "Sambutan Presiden Soeharto Pada Peringatan Hari Ulang Tahun II PDI Sambutan Presiden Soeharto pada Peringatan Hari Ulang..."
+date: 2013-11-10
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1975-01"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1975-01/
+    judul: "1975-01-Sambutan Presiden Soeharto Pada Peringatan Hari Ulang Tahun II PDI"
+    tanggal: 2013-11-10
+relasi: []
 ---
 
 Artikel sumber: [1975-01-Sambutan Presiden Soeharto Pada Peringatan Hari Ulang Tahun II PDI](https://soehartolibrary.id/1975-01/) — diterbitkan di soehartolibrary.id pada 2013-11-10T09:00:15.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-11-10]):** [1975-01-Sambutan Presiden Soeharto Pada Peringatan Hari Ulang Tahun II PDI](https://soehartolibrary.id/1975-01/)

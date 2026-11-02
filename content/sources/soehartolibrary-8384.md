@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.8384
-entity_kind: source
 title: "1974-10-17 Sambutan Presiden Soeharto Sesudah Sembahyang Idul Fitri"
-date: "2013-11-08T09:00:00"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Idul Fitri", "Presiden Soeharto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1974-10-17"
-slug_sumber: "1974-10-17-sambutan-presiden-soeharto-sesudah-sembahyang-idul-fitri"
-sumber: ["https://soehartolibrary.id/1974-10-17-sambutan-presiden-soeharto-sesudah-sembahyang-idul-fitri/"]
-ringkasan: "pada tanggal 17 Oktober 1974 di Masjid Istiqlal, Jakarta."
+description: "pada tanggal 17 Oktober 1974 di Masjid Istiqlal, Jakarta...."
+date: 1974-10-17
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1974-10-17-sambutan-presiden-soeharto-sesudah-sembahyang-idul-fitri"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1974-10-17-sambutan-presiden-soeharto-sesudah-sembahyang-idul-fitri/
+    judul: "1974-10-17 Sambutan Presiden Soeharto Sesudah Sembahyang Idul Fitri"
+    tanggal: 1974-10-17
+relasi: []
 ---
 
 Artikel sumber: [1974-10-17 Sambutan Presiden Soeharto Sesudah Sembahyang Idul Fitri](https://soehartolibrary.id/1974-10-17-sambutan-presiden-soeharto-sesudah-sembahyang-idul-fitri/) — diterbitkan di soehartolibrary.id pada 2013-11-08T09:00:00.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1974-10-17]):** [1974-10-17 Sambutan Presiden Soeharto Sesudah Sembahyang Idul Fitri](https://soehartolibrary.id/1974-10-17-sambutan-presiden-soeharto-sesudah-sembahyang-idul-fitri/)
