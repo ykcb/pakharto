@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.13949
-entity_kind: source
 title: "1988-04-13 Pidato Presiden Soeharto Pada Jamuan Santap Malam Kenegaraan Untuk Menghormat Presiden Venezuela"
-date: "2014-03-28T05:00:47"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Pidato Presiden", "Presiden", "Presiden Soeharto", "Presiden Venezuela", "Soeharto", "Venezuela"]
-tanggal_subjek: "1988-04-13"
-slug_sumber: "1988-04-13-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-venezuela"
-sumber: ["https://soehartolibrary.id/1988-04-13-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-venezuela/"]
-ringkasan: "Pidato Presiden Soeharto pada Jamuan Santap MalamKenegaraan untuk Menghormat Yang Mulia Presiden Republik Venezuela, DR. Jaime Lusinchi tanggal 13 April 1988 di Istana Negara, Jakarta."
+description: "Pidato Presiden Soeharto pada Jamuan Santap MalamKenegaraan untuk Menghormat Yang Mulia Presiden Republik Venezuela, DR...."
+date: 1988-04-13
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1988-04-13-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-venezuela"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1988-04-13-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-venezuela/
+    judul: "1988-04-13 Pidato Presiden Soeharto Pada Jamuan Santap Malam Kenegaraan Untuk Menghormat Presiden Venezuela"
+    tanggal: 1988-04-13
+relasi: []
 ---
 
 Artikel sumber: [1988-04-13 Pidato Presiden Soeharto Pada Jamuan Santap Malam Kenegaraan Untuk Menghormat Presiden Venezuela](https://soehartolibrary.id/1988-04-13-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-venezuela/) — diterbitkan di soehartolibrary.id pada 2014-03-28T05:00:47.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1988-04-13]):** [1988-04-13 Pidato Presiden Soeharto Pada Jamuan Santap Malam Kenegaraan Untuk Menghormat Presiden Venezuela](https://soehartolibrary.id/1988-04-13-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-venezuela/)
