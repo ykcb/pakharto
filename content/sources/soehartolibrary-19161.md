@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.19161
-entity_kind: source
 title: "1995-04-11 Pidato Balasan Presiden Soeharto Pada Jamuan Santap Malam Kanegaraan Yang Diselenggarakan Oleh Presiden Turkmenisten"
-date: "2014-09-22T05:00:50"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Pidato Presiden", "Presiden", "Presiden Soeharto", "Presiden Turkmenisten", "Soeharto", "Turkmenisten"]
-tanggal_subjek: "1995-04-11"
-slug_sumber: "1995-04-11-pidato-balasan-presiden-soeharto-pada-jamuan-santap-malam-kanegaraan-yang-diselenggarakan-oleh-presiden-turkmenisten"
-sumber: ["https://soehartolibrary.id/1995-04-11-pidato-balasan-presiden-soeharto-pada-jamuan-santap-malam-kanegaraan-yang-diselenggarakan-oleh-presiden-turkmenisten/"]
-ringkasan: "Pidato Balasan Presiden Soeharto pada Jamuan Santap Malam Kanegaraan yang Diselenggarakan oleh Yang Mulia Presiden Niyazov (beserta terjemahan dalam bahasa Inggrls) tanggal 11 April 1995 di Ashgabat, Turkmenisten."
+description: "Pidato Balasan Presiden Soeharto pada Jamuan Santap Malam Kanegaraan yang Diselenggarakan oleh Yang Mulia Presiden Niyaz..."
+date: 1995-04-11
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1995-04-11-pidato-balasan-presiden-soeharto-pada-jamuan-santap-malam-kanegaraan-yang-diselenggarakan-oleh-presiden-turkmenisten"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1995-04-11-pidato-balasan-presiden-soeharto-pada-jamuan-santap-malam-kanegaraan-yang-diselenggarakan-oleh-presiden-turkmenisten/
+    judul: "1995-04-11 Pidato Balasan Presiden Soeharto Pada Jamuan Santap Malam Kanegaraan Yang Diselenggarakan Oleh Presiden Turkmenisten"
+    tanggal: 1995-04-11
+relasi: []
 ---
 
 Artikel sumber: [1995-04-11 Pidato Balasan Presiden Soeharto Pada Jamuan Santap Malam Kanegaraan Yang Diselenggarakan Oleh Presiden Turkmenisten](https://soehartolibrary.id/1995-04-11-pidato-balasan-presiden-soeharto-pada-jamuan-santap-malam-kanegaraan-yang-diselenggarakan-oleh-presiden-turkmenisten/) — diterbitkan di soehartolibrary.id pada 2014-09-22T05:00:50.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1995-04-11]):** [1995-04-11 Pidato Balasan Presiden Soeharto Pada Jamuan Santap Malam Kanegaraan Yang Diselenggarakan Oleh Presiden Turkmenisten](https://soehartolibrary.id/1995-04-11-pidato-balasan-presiden-soeharto-pada-jamuan-santap-malam-kanegaraan-yang-diselenggarakan-oleh-presiden-turkmenisten/)

@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.19292
-entity_kind: source
 title: "1995-07-18 Pidato Presiden Soeharto Pada Jamuan Santap Malam Kenegaraan Untuk Menghormat Presiden Kyrghyzstan"
-date: "2014-09-29T13:00:40"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Kyrghyzstan", "Pidato Presiden", "Presiden", "Presiden Kyrghyzstan", "Presiden Soeharto", "Soeharto"]
-tanggal_subjek: "1995-07-18"
-slug_sumber: "1995-07-18-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-kyrghyzstan"
-sumber: ["https://soehartolibrary.id/1995-07-18-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-kyrghyzstan/"]
-ringkasan: "Pidato Presiden Soeharto pada Jamuan Santap Malam Kenegaraan untuk Menghormat Yang Mulia Presiden Republik Kyrghyzstan dan Nyonya Mairam Akayeva tanggal 18 Juli 1995 di Istana Negara, Jakarta."
+description: "Pidato Presiden Soeharto pada Jamuan Santap Malam Kenegaraan untuk Menghormat Yang Mulia Presiden Republik Kyrghyzstan d..."
+date: 1995-07-18
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1995-07-18-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-kyrghyzstan"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1995-07-18-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-kyrghyzstan/
+    judul: "1995-07-18 Pidato Presiden Soeharto Pada Jamuan Santap Malam Kenegaraan Untuk Menghormat Presiden Kyrghyzstan"
+    tanggal: 1995-07-18
+relasi: []
 ---
 
 Artikel sumber: [1995-07-18 Pidato Presiden Soeharto Pada Jamuan Santap Malam Kenegaraan Untuk Menghormat Presiden Kyrghyzstan](https://soehartolibrary.id/1995-07-18-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-kyrghyzstan/) — diterbitkan di soehartolibrary.id pada 2014-09-29T13:00:40.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1995-07-18]):** [1995-07-18 Pidato Presiden Soeharto Pada Jamuan Santap Malam Kenegaraan Untuk Menghormat Presiden Kyrghyzstan](https://soehartolibrary.id/1995-07-18-pidato-presiden-soeharto-pada-jamuan-santap-malam-kenegaraan-untuk-menghormat-presiden-kyrghyzstan/)
