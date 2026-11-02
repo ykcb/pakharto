@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.13569
-entity_kind: source
 title: "1987-09-07 Sambutan Tertulis Presiden Soeharto Pada Pembukaan Kongres X Ikatan Sarjana Ekonomi Indonesia"
-date: "2014-03-21T19:00:44"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Ikatan Sarjana Ekonomi", "Presiden", "Presiden Soeharto", "sambutan presiden", "Sarjana Ekonomi", "Soeharto"]
-tanggal_subjek: "1987-09-07"
-slug_sumber: "1987-09-07-sambutan-tertulis-presiden-soeharto-pada-pembukaan-kongres-x-ikatan-sarjana-ekonomi-indonesia"
-sumber: ["https://soehartolibrary.id/1987-09-07-sambutan-tertulis-presiden-soeharto-pada-pembukaan-kongres-x-ikatan-sarjana-ekonomi-indonesia/"]
-ringkasan: "Sambutan Tertulis Presiden Soeharto pada Upacara Pembukaan Kongres X Ikatan Sarjana Ekonomi Indonesia, pada tanggal 7 September 1987 di Denpasar, Bali."
+description: "Sambutan Tertulis Presiden Soeharto pada Upacara Pembukaan Kongres X Ikatan Sarjana Ekonomi Indonesia, pada tanggal 7 Se..."
+date: 1987-09-07
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1987-09-07-sambutan-tertulis-presiden-soeharto-pada-pembukaan-kongres-x-ikatan-sarjana-ekonomi-indonesia"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1987-09-07-sambutan-tertulis-presiden-soeharto-pada-pembukaan-kongres-x-ikatan-sarjana-ekonomi-indonesia/
+    judul: "1987-09-07 Sambutan Tertulis Presiden Soeharto Pada Pembukaan Kongres X Ikatan Sarjana Ekonomi Indonesia"
+    tanggal: 1987-09-07
+relasi: []
 ---
 
 Artikel sumber: [1987-09-07 Sambutan Tertulis Presiden Soeharto Pada Pembukaan Kongres X Ikatan Sarjana Ekonomi Indonesia](https://soehartolibrary.id/1987-09-07-sambutan-tertulis-presiden-soeharto-pada-pembukaan-kongres-x-ikatan-sarjana-ekonomi-indonesia/) — diterbitkan di soehartolibrary.id pada 2014-03-21T19:00:44.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1987-09-07]):** [1987-09-07 Sambutan Tertulis Presiden Soeharto Pada Pembukaan Kongres X Ikatan Sarjana Ekonomi Indonesia](https://soehartolibrary.id/1987-09-07-sambutan-tertulis-presiden-soeharto-pada-pembukaan-kongres-x-ikatan-sarjana-ekonomi-indonesia/)

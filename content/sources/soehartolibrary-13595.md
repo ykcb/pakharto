@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.13595
-entity_kind: source
 title: "1987-10-25 Sambutan Presiden Soeharto Pada Pembukaan Lomba Napak Tilas Route Gerilya Jenderal (Purn) Soeharto Yang Ke-2"
-date: "2014-03-22T23:00:28"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Jenderal Soeharto", "Napak Tilas", "Pidato Presiden", "Presiden Soeharto", "Route Gerilya", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1987-10-25"
-slug_sumber: "1987-10-25-sambutan-presiden-soeharto-pada-pembukaan-lomba-napak-tilas-route-gerilya-jenderal-purn-soeharto-yang-ke-2"
-sumber: ["https://soehartolibrary.id/1987-10-25-sambutan-presiden-soeharto-pada-pembukaan-lomba-napak-tilas-route-gerilya-jenderal-purn-soeharto-yang-ke-2/"]
-ringkasan: "Sambutan Presiden Soeharto pada Upacara Pembukaan Lomba Napak Tilas Route Gerilya Jenderal (Purn) Soeharto yang ke-2, pada tanggal 25 Oktober 1987 di Yogyakarta."
+description: "Sambutan Presiden Soeharto pada Upacara Pembukaan Lomba Napak Tilas Route Gerilya Jenderal (Purn) Soeharto yang ke-2, pa..."
+date: 1987-10-25
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1987-10-25-sambutan-presiden-soeharto-pada-pembukaan-lomba-napak-tilas-route-gerilya-jenderal-purn-soeharto-yang-ke-2"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1987-10-25-sambutan-presiden-soeharto-pada-pembukaan-lomba-napak-tilas-route-gerilya-jenderal-purn-soeharto-yang-ke-2/
+    judul: "1987-10-25 Sambutan Presiden Soeharto Pada Pembukaan Lomba Napak Tilas Route Gerilya Jenderal (Purn) Soeharto Yang Ke-2"
+    tanggal: 1987-10-25
+relasi: []
 ---
 
 Artikel sumber: [1987-10-25 Sambutan Presiden Soeharto Pada Pembukaan Lomba Napak Tilas Route Gerilya Jenderal (Purn) Soeharto Yang Ke-2](https://soehartolibrary.id/1987-10-25-sambutan-presiden-soeharto-pada-pembukaan-lomba-napak-tilas-route-gerilya-jenderal-purn-soeharto-yang-ke-2/) — diterbitkan di soehartolibrary.id pada 2014-03-22T23:00:28.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1987-10-25]):** [1987-10-25 Sambutan Presiden Soeharto Pada Pembukaan Lomba Napak Tilas Route Gerilya Jenderal (Purn) Soeharto Yang Ke-2](https://soehartolibrary.id/1987-10-25-sambutan-presiden-soeharto-pada-pembukaan-lomba-napak-tilas-route-gerilya-jenderal-purn-soeharto-yang-ke-2/)
