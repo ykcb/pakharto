@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.12142
-entity_kind: source
 title: "1984-03-12 Sambutan Presiden Soeharto Pada Pembukaan Pekan Orientasi Dan Raker Depsos"
-date: "2014-02-16T23:00:32"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Depsos", "Presiden Soeharto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1984-03-12"
-slug_sumber: "1984-03-12-sambutan-presiden-soeharto-pada-pembukaan-pekan-orientasi-dan-raker-depsos"
-sumber: ["https://soehartolibrary.id/1984-03-12-sambutan-presiden-soeharto-pada-pembukaan-pekan-orientasi-dan-raker-depsos/"]
-ringkasan: "Sambutan Presiden Soeharto pada Upacara Pembukaan Pekan Orientasi dan Rapat Kerja Departemen Sosial tanggal 12 Maret 1984 di Istana Negara, Jakarta."
+description: "Sambutan Presiden Soeharto pada Upacara Pembukaan Pekan Orientasi dan Rapat Kerja Departemen Sosial tanggal 12 Maret 198..."
+date: 1984-03-12
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1984-03-12-sambutan-presiden-soeharto-pada-pembukaan-pekan-orientasi-dan-raker-depsos"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1984-03-12-sambutan-presiden-soeharto-pada-pembukaan-pekan-orientasi-dan-raker-depsos/
+    judul: "1984-03-12 Sambutan Presiden Soeharto Pada Pembukaan Pekan Orientasi Dan Raker Depsos"
+    tanggal: 1984-03-12
+relasi: []
 ---
 
 Artikel sumber: [1984-03-12 Sambutan Presiden Soeharto Pada Pembukaan Pekan Orientasi Dan Raker Depsos](https://soehartolibrary.id/1984-03-12-sambutan-presiden-soeharto-pada-pembukaan-pekan-orientasi-dan-raker-depsos/) — diterbitkan di soehartolibrary.id pada 2014-02-16T23:00:32.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1984-03-12]):** [1984-03-12 Sambutan Presiden Soeharto Pada Pembukaan Pekan Orientasi Dan Raker Depsos](https://soehartolibrary.id/1984-03-12-sambutan-presiden-soeharto-pada-pembukaan-pekan-orientasi-dan-raker-depsos/)
