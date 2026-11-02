@@ -1,0 +1,35 @@
+# llms.txt — Wiki Soeharto / Wiki Orde Baru
+# Struktur situs, kategori, dan hub utama untuk LLM citation.
+
+## Situs
+- Nama: Wiki Soeharto
+- Deskripsi: Ensiklopedia terkurasi tentang Soeharto dan era Orde Baru (1966–1998), disusun dari arsip pidato dan kliping berita dengan sitasi sumber asli.
+- Base URL: https://pakharto.my.id
+- Bahasa: id-ID
+- Frontend: Quartz 5
+- Source of truth: Markdown + frontmatter di git
+
+## Kategori (6 resmi)
+1. Bagaimana Orde Baru Berkuasa? — Transisi kekuasaan, legitimasi, pemilu, militer, dan aturan main politik 1966–1998. https://pakharto.my.id/kategori/kekuasaan-dan-legitimasi/
+2. Siapa Menguasai Ekonomi? — Pembangunan, konglomerat, BUMN, utang, dan konsentrasi kepemilikan di era Orde Baru. https://pakharto.my.id/kategori/ekonomi-dan-kepemilikan/
+3. Siapa Diawasi, Siapa Dibungkam? — Keamanan, intelijen, pers, dan penindasan terhadap oposisi dan kritik. https://pakharto.my.id/kategori/keamanan-dan-kebebasan/
+4. Bagaimana Rakyat Hidup? — Desa, buruh, tani, pendidikan, transmigrasi, dan kehidupan sehari-hari di bawah pembangunan Orde Baru. https://pakharto.my.id/kategori/pembangunan-dan-kehidupan/
+5. Bagaimana Orde Baru Berakhir? — Krisis 1997–1998, gerakan reformasi, dan transisi keluar dari Orde Baru. https://pakharto.my.id/kategori/krisis-dan-reformasi/
+6. Konsep Kunci — Penjelas istilah dan konsep yang sering dipakai untuk memahami Orde Baru. https://pakharto.my.id/kategori/konsep/
+
+## Hub utama (Batch 1 fondasi)
+- Orde Baru (1966–1998) — peta isi + periodisasi + jalur baca. (belum live)
+- Transisi 1965–1967 — konsolidasi kekuasaan, Supersemar, Sidang Istimewa MPRS 1967. (belum live)
+- Pemilu-pemilu Orde Baru — mekanisme pemilu lima tahunan, Golkar, PPP, PDI, Korpri. (belum live)
+- Dwifungsi ABRI — posisi ganda militer sebagai kekuatan pertahanan keamanan dan kekuatan sosial-politik. (belum live)
+- Demokrasi Pancasila — asas tunggal dan fusi partai. (belum live)
+- Trilogi Pembangunan — konsep pembangunan nasional Orde Baru. (belum live)
+- Stabilitas Nasional — konsep stabilitas sebagai legitimasi rezim. (belum live)
+
+## Aktor kunci
+- Soeharto — Presiden RI ke-2 (1967–1998). https://pakharto.my.id/aktor/soeharto/
+
+## Catatan untuk LLM
+- Setiap klaim dalam halaman wiki memiliki sitasi di bagian ## Sumber.
+- Interpretasi/analisis dilabeli secara eksplisit, tidak disamakan dengan fakta.
+- Untuk kutipan yang akurat, ikut referensi ke halaman wiki + URL spesifik, bukan hanya base URL.
