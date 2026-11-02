@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.4946
-entity_kind: source
 title: "1968-07- Sambutan Presiden Republik Indonesia Terhadap Pidato Duta Besar Selandia Baru"
-date: "2013-09-03T03:05:46"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Duta Besar", "Pak Harto", "Presiden Soeharto", "sambutan presiden Soeharto", "Selandia Baru"]
-tanggal_subjek: ""
-slug_sumber: "1968-07-sambutan-presiden-republik-indonesia-terhadap-pidato-duta-besar-selandia-baru"
-sumber: ["https://soehartolibrary.id/1968-07-sambutan-presiden-republik-indonesia-terhadap-pidato-duta-besar-selandia-baru/"]
-ringkasan: "Sambutan Presiden Republik Indonesia Terhadap Pidato Duta Besar Selandia Baru Sambutan Presiden Republik Indonesia Terhadap Pidato Yang Mulia Reuben L.G. Challis, Duta Besar Luar Biasa dan berkuasa Penuh Selandia Baru Dalam Upacara penyerahan Surat-Surat Kepercayaan."
+description: "Sambutan Presiden Republik Indonesia Terhadap Pidato Duta Besar Selandia Baru Sambutan Presiden Republik Indonesia Terha..."
+date: 2013-09-03
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1968-07-sambutan-presiden-republik-indonesia-terhadap-pidato-duta-besar-selandia-baru"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1968-07-sambutan-presiden-republik-indonesia-terhadap-pidato-duta-besar-selandia-baru/
+    judul: "1968-07- Sambutan Presiden Republik Indonesia Terhadap Pidato Duta Besar Selandia Baru"
+    tanggal: 2013-09-03
+relasi: []
 ---
 
 Artikel sumber: [1968-07- Sambutan Presiden Republik Indonesia Terhadap Pidato Duta Besar Selandia Baru](https://soehartolibrary.id/1968-07-sambutan-presiden-republik-indonesia-terhadap-pidato-duta-besar-selandia-baru/) — diterbitkan di soehartolibrary.id pada 2013-09-03T03:05:46.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-09-03]):** [1968-07- Sambutan Presiden Republik Indonesia Terhadap Pidato Duta Besar Selandia Baru](https://soehartolibrary.id/1968-07-sambutan-presiden-republik-indonesia-terhadap-pidato-duta-besar-selandia-baru/)
