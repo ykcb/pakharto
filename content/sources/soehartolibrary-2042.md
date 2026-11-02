@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.2042
-entity_kind: source
 title: "1967-6 Sambutan Pejabat Presiden Soeharto Pada Seminar Hukum Di UGM"
-date: "2013-04-28T12:00:31"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Pejabat Presiden", "Pidato Presiden", "Sambutan", "Seminar Hukum", "Soeharto", "UGM", "Yogyakarta"]
-tanggal_subjek: ""
-slug_sumber: "1967-6-sambutan-pejabat-presiden-soeharto-pada-seminar-hukum-di-ugm"
-sumber: ["https://soehartolibrary.id/1967-6-sambutan-pejabat-presiden-soeharto-pada-seminar-hukum-di-ugm/"]
-ringkasan: "Sambutan Pak Harto: Seminar Hukum Di UGM Sambutan Pejabat Presiden Soeharto pada Seminar Hukum yang Diselenggarakan Oleh Fakultas Hukum Universitas Gajahmada (UGM) Yogyakarta pada bulan Juni 1967 di Jakarta. Pidato selengkapnya dikemukakan sebagai berikut:"
+description: "Sambutan Pak Harto: Seminar Hukum Di UGM Sambutan Pejabat Presiden Soeharto pada Seminar Hukum yang Diselenggarakan Oleh..."
+date: 2013-04-28
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1967-6-sambutan-pejabat-presiden-soeharto-pada-seminar-hukum-di-ugm"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1967-6-sambutan-pejabat-presiden-soeharto-pada-seminar-hukum-di-ugm/
+    judul: "1967-6 Sambutan Pejabat Presiden Soeharto Pada Seminar Hukum Di UGM"
+    tanggal: 2013-04-28
+relasi: []
 ---
 
 Artikel sumber: [1967-6 Sambutan Pejabat Presiden Soeharto Pada Seminar Hukum Di UGM](https://soehartolibrary.id/1967-6-sambutan-pejabat-presiden-soeharto-pada-seminar-hukum-di-ugm/) — diterbitkan di soehartolibrary.id pada 2013-04-28T12:00:31.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-04-28]):** [1967-6 Sambutan Pejabat Presiden Soeharto Pada Seminar Hukum Di UGM](https://soehartolibrary.id/1967-6-sambutan-pejabat-presiden-soeharto-pada-seminar-hukum-di-ugm/)
