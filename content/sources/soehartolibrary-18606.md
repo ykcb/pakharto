@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.18606
-entity_kind: source
 title: "1994-10-12 Sambutan Presiden Soeharto Pada Pembukaan Munas IV Ikatan Keluarga Besar Laskar Ampera Arief Rachman Hakim"
-date: "2014-09-10T07:00:43"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Arief Rachman Hakim", "Ikatan Keluarga Besar Laskar Ampera", "Laskar Ampera", "Presiden", "Presiden Soeharto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1994-10-12"
-slug_sumber: "1994-10-12-sambutan-presiden-soeharto-pada-pembukaan-munas-iv-ikatan-keluarga-besar-laskar-ampera-arief-rachman-hakim"
-sumber: ["https://soehartolibrary.id/1994-10-12-sambutan-presiden-soeharto-pada-pembukaan-munas-iv-ikatan-keluarga-besar-laskar-ampera-arief-rachman-hakim/"]
-ringkasan: "Sambutan Presiden Soeharto pada Pembukaan Musyawarah Nasional IV Ikatan Keluarga Besar Laskar Ampera Arief Rachman Hakim tanggal 12 Oktober 1994 di Istana Negara, Jakarta."
+description: "Sambutan Presiden Soeharto pada Pembukaan Musyawarah Nasional IV Ikatan Keluarga Besar Laskar Ampera Arief Rachman Hakim..."
+date: 1994-10-12
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1994-10-12-sambutan-presiden-soeharto-pada-pembukaan-munas-iv-ikatan-keluarga-besar-laskar-ampera-arief-rachman-hakim"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1994-10-12-sambutan-presiden-soeharto-pada-pembukaan-munas-iv-ikatan-keluarga-besar-laskar-ampera-arief-rachman-hakim/
+    judul: "1994-10-12 Sambutan Presiden Soeharto Pada Pembukaan Munas IV Ikatan Keluarga Besar Laskar Ampera Arief Rachman Hakim"
+    tanggal: 1994-10-12
+relasi: []
 ---
 
 Artikel sumber: [1994-10-12 Sambutan Presiden Soeharto Pada Pembukaan Munas IV Ikatan Keluarga Besar Laskar Ampera Arief Rachman Hakim](https://soehartolibrary.id/1994-10-12-sambutan-presiden-soeharto-pada-pembukaan-munas-iv-ikatan-keluarga-besar-laskar-ampera-arief-rachman-hakim/) — diterbitkan di soehartolibrary.id pada 2014-09-10T07:00:43.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1994-10-12]):** [1994-10-12 Sambutan Presiden Soeharto Pada Pembukaan Munas IV Ikatan Keluarga Besar Laskar Ampera Arief Rachman Hakim](https://soehartolibrary.id/1994-10-12-sambutan-presiden-soeharto-pada-pembukaan-munas-iv-ikatan-keluarga-besar-laskar-ampera-arief-rachman-hakim/)
