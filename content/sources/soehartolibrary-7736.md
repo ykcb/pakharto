@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.7736
-entity_kind: source
 title: "1973-04-04 Pidato Jawaban Presiden Soeharto Atas Pidato Yang Mulia Kasem S. Kasemsri, Duta Besar Kerajaan Thailand"
-date: "2013-10-27T01:01:43"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Duta Besar", "Kasem S. Kasemsri", "Kerajaan Thailand", "Pidato Jawaban Presiden", "Presiden Soeharto", "Soeharto"]
-tanggal_subjek: "1973-04-04"
-slug_sumber: "1973-04-04-pidato-jawaban-presiden-soeharto-atas-pidato-yang-mulia-kasem-s-kasemsri-duta-besar-kerajaan-thailand"
-sumber: ["https://soehartolibrary.id/1973-04-04-pidato-jawaban-presiden-soeharto-atas-pidato-yang-mulia-kasem-s-kasemsri-duta-besar-kerajaan-thailand/"]
-ringkasan: "Pidato Jawaban Presiden Soeharto atas Pidato Yang Mulia Kasem S. Kasemsri, Duta Besar Luar Biasa dan Berkuasa Penuh Kerajaan Thailand untuk Republik Indonesia, pada Upacara Penyerahan Surat-surat Kepercayaan pada tanggal 4 April 1972 di stana Merdeka, Jakarta."
+description: "Pidato Jawaban Presiden Soeharto atas Pidato Yang Mulia Kasem S. Kasemsri, Duta Besar Luar Biasa dan Berkuasa Penuh Kera..."
+date: 1973-04-04
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1973-04-04-pidato-jawaban-presiden-soeharto-atas-pidato-yang-mulia-kasem-s-kasemsri-duta-besar-kerajaan-thailand"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1973-04-04-pidato-jawaban-presiden-soeharto-atas-pidato-yang-mulia-kasem-s-kasemsri-duta-besar-kerajaan-thailand/
+    judul: "1973-04-04 Pidato Jawaban Presiden Soeharto Atas Pidato Yang Mulia Kasem S. Kasemsri, Duta Besar Kerajaan Thailand"
+    tanggal: 1973-04-04
+relasi: []
 ---
 
 Artikel sumber: [1973-04-04 Pidato Jawaban Presiden Soeharto Atas Pidato Yang Mulia Kasem S. Kasemsri, Duta Besar Kerajaan Thailand](https://soehartolibrary.id/1973-04-04-pidato-jawaban-presiden-soeharto-atas-pidato-yang-mulia-kasem-s-kasemsri-duta-besar-kerajaan-thailand/) — diterbitkan di soehartolibrary.id pada 2013-10-27T01:01:43.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1973-04-04]):** [1973-04-04 Pidato Jawaban Presiden Soeharto Atas Pidato Yang Mulia Kasem S. Kasemsri, Duta Besar Kerajaan Thailand](https://soehartolibrary.id/1973-04-04-pidato-jawaban-presiden-soeharto-atas-pidato-yang-mulia-kasem-s-kasemsri-duta-besar-kerajaan-thailand/)
