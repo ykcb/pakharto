@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.8807
-entity_kind: source
 title: "1975-11-10 Sambutan Presiden Soeharto Pada Peresmian “Gedung Joang 45” Sumtera Utara"
-date: "2013-11-18T05:00:57"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Gedung Joang 45", "Presiden Soeharto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1975-11-10"
-slug_sumber: "1975-11-10-sambutan-presiden-soeharto-pada-peresmian-gedung-joang-45-sumtera-utara"
-sumber: ["https://soehartolibrary.id/1975-11-10-sambutan-presiden-soeharto-pada-peresmian-gedung-joang-45-sumtera-utara/"]
-ringkasan: "Sambutan Presiden Soeharto Pada Peresmian “Gedung Joang 45” Sumatera Utara Sambutan Presiden Soeharto pada Peresmian “Gedung Joang 45” tanggal 10 November 1975 di Medan, Sumatera Utara."
+description: "Sambutan Presiden Soeharto Pada Peresmian “Gedung Joang 45” Sumatera Utara Sambutan Presiden Soeharto pada Peresmian “Ge..."
+date: 1975-11-10
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1975-11-10-sambutan-presiden-soeharto-pada-peresmian-gedung-joang-45-sumtera-utara"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1975-11-10-sambutan-presiden-soeharto-pada-peresmian-gedung-joang-45-sumtera-utara/
+    judul: "1975-11-10 Sambutan Presiden Soeharto Pada Peresmian “Gedung Joang 45” Sumtera Utara"
+    tanggal: 1975-11-10
+relasi: []
 ---
 
 Artikel sumber: [1975-11-10 Sambutan Presiden Soeharto Pada Peresmian “Gedung Joang 45” Sumtera Utara](https://soehartolibrary.id/1975-11-10-sambutan-presiden-soeharto-pada-peresmian-gedung-joang-45-sumtera-utara/) — diterbitkan di soehartolibrary.id pada 2013-11-18T05:00:57.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1975-11-10]):** [1975-11-10 Sambutan Presiden Soeharto Pada Peresmian “Gedung Joang 45” Sumtera Utara](https://soehartolibrary.id/1975-11-10-sambutan-presiden-soeharto-pada-peresmian-gedung-joang-45-sumtera-utara/)

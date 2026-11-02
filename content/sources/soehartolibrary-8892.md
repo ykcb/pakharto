@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.8892
-entity_kind: source
 title: "1976-04-15 Pidato Jawaban Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Papua New Guinea"
-date: "2013-11-20T17:00:13"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Dubes", "Duta Besar", "Papua New Guinea", "Pidato Presiden", "Soeharto"]
-tanggal_subjek: "1976-04-15"
-slug_sumber: "1976-04-15-pidato-jawaban-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-papua-new-guinea"
-sumber: ["https://soehartolibrary.id/1976-04-15-pidato-jawaban-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-papua-new-guinea/"]
-ringkasan: "Pidato Jawaban Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Papua New Guinea Pidato Jawaban Presiden Soeharto pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Rubin V. Kumaina, Duta Besar Luar Biasa dan Berkuasa Penuh Papua New Guinea tanggal 15 April 1976 di Istana Negara Jakarta."
+description: "Pidato Jawaban Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Papua New Guinea Pidato Jawaban P..."
+date: 1976-04-15
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1976-04-15-pidato-jawaban-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-papua-new-guinea"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1976-04-15-pidato-jawaban-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-papua-new-guinea/
+    judul: "1976-04-15 Pidato Jawaban Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Papua New Guinea"
+    tanggal: 1976-04-15
+relasi: []
 ---
 
 Artikel sumber: [1976-04-15 Pidato Jawaban Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Papua New Guinea](https://soehartolibrary.id/1976-04-15-pidato-jawaban-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-papua-new-guinea/) — diterbitkan di soehartolibrary.id pada 2013-11-20T17:00:13.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1976-04-15]):** [1976-04-15 Pidato Jawaban Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Papua New Guinea](https://soehartolibrary.id/1976-04-15-pidato-jawaban-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-papua-new-guinea/)
