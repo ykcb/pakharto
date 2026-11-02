@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.11131
-entity_kind: source
 title: "1981-07-25 Sambutan Presiden Soeharto Pada Peringatan Ultah Ke-74 Wafatnya Pahlawan Nasional Raja Sisingamangaraja XII"
-date: "2014-01-17T05:00:34"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Presiden Soeharto", "Raja Sisingamangaraja", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1981-07-25"
-slug_sumber: "1981-06"
-sumber: ["https://soehartolibrary.id/1981-06/"]
-ringkasan: "Sambutan Presiden Soeharto pada Peringatan Hari Ulang Tahun ke-74 Wafatnya Pahlawan Nasional Raja Sisingamangaraja XII tanggal 25 Juli 1981 di Balai Sidang Senayan, Jakarta."
+description: "Sambutan Presiden Soeharto pada Peringatan Hari Ulang Tahun ke-74 Wafatnya Pahlawan Nasional Raja Sisingamangaraja XII t..."
+date: 1981-07-25
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1981-06"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1981-06/
+    judul: "1981-07-25 Sambutan Presiden Soeharto Pada Peringatan Ultah Ke-74 Wafatnya Pahlawan Nasional Raja Sisingamangaraja XII"
+    tanggal: 1981-07-25
+relasi: []
 ---
 
 Artikel sumber: [1981-07-25 Sambutan Presiden Soeharto Pada Peringatan Ultah Ke-74 Wafatnya Pahlawan Nasional Raja Sisingamangaraja XII](https://soehartolibrary.id/1981-06/) — diterbitkan di soehartolibrary.id pada 2014-01-17T05:00:34.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1981-07-25]):** [1981-07-25 Sambutan Presiden Soeharto Pada Peringatan Ultah Ke-74 Wafatnya Pahlawan Nasional Raja Sisingamangaraja XII](https://soehartolibrary.id/1981-06/)
