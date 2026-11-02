@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.4724
-entity_kind: source
 title: "1968-05-06 Sambutan Presiden Soeharto Pada Kongres IKAPI VI"
-date: "2013-08-28T23:45:53"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["IKAPI", "Orde Baru", "Pak Harto", "Pidato Presiden", "Pidato Soeharto", "Presiden Soeharto", "sambutan presiden", "sambutan presiden Soeharto"]
-tanggal_subjek: "1968-05-06"
-slug_sumber: "1968-05-06-sambutan-presiden-soeharto-pada-kongres-ikapi-vi"
-sumber: ["https://soehartolibrary.id/1968-05-06-sambutan-presiden-soeharto-pada-kongres-ikapi-vi/"]
-ringkasan: "Sambutan Presiden Soeharto Pada Sambutan Pada Kongres IKAPI VI Sambutan Pada Sambutan Pada Kongres IKAPI VI Pada Tanggal 6 Mei 1968 di Jakarta."
+description: "Sambutan Presiden Soeharto Pada Sambutan Pada Kongres IKAPI VI Sambutan Pada Sambutan Pada Kongres IKAPI VI Pada Tanggal..."
+date: 1968-05-06
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1968-05-06-sambutan-presiden-soeharto-pada-kongres-ikapi-vi"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1968-05-06-sambutan-presiden-soeharto-pada-kongres-ikapi-vi/
+    judul: "1968-05-06 Sambutan Presiden Soeharto Pada Kongres IKAPI VI"
+    tanggal: 1968-05-06
+relasi: []
 ---
 
 Artikel sumber: [1968-05-06 Sambutan Presiden Soeharto Pada Kongres IKAPI VI](https://soehartolibrary.id/1968-05-06-sambutan-presiden-soeharto-pada-kongres-ikapi-vi/) — diterbitkan di soehartolibrary.id pada 2013-08-28T23:45:53.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1968-05-06]):** [1968-05-06 Sambutan Presiden Soeharto Pada Kongres IKAPI VI](https://soehartolibrary.id/1968-05-06-sambutan-presiden-soeharto-pada-kongres-ikapi-vi/)
