@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.5255
-entity_kind: source
 title: "1968-11- 16 Sambutan Presiden Soeharto Pada Sidang Dewan Pleno Pengurus Besar Pelajar Islam Indonesia"
-date: "2013-09-08T23:04:01"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Pak Harto", "PII", "Presiden Soeharto", "sambutan presiden"]
-tanggal_subjek: ""
-slug_sumber: "1968-11-16-sambutan-presiden-soeharto-pada-sidang-dewan-pleno-pengurus-besar-pelajar-islam-indonesia"
-sumber: ["https://soehartolibrary.id/1968-11-16-sambutan-presiden-soeharto-pada-sidang-dewan-pleno-pengurus-besar-pelajar-islam-indonesia/"]
-ringkasan: "Sambutan Presiden Soeharto Pada Sidang Dewan Pleno Pengurus Besar Pelajar Islam Indonesia Sabutan Presiden Soeharto Pada Sidang Dewan Pleno Pengurus Besar Pelajar Islam Indonesia (PII) di Pekalongan Jawa Tengah pada tanggal 16 November 1968."
+description: "Sambutan Presiden Soeharto Pada Sidang Dewan Pleno Pengurus Besar Pelajar Islam Indonesia Sabutan Presiden Soeharto Pada..."
+date: 2013-09-08
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1968-11-16-sambutan-presiden-soeharto-pada-sidang-dewan-pleno-pengurus-besar-pelajar-islam-indonesia"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1968-11-16-sambutan-presiden-soeharto-pada-sidang-dewan-pleno-pengurus-besar-pelajar-islam-indonesia/
+    judul: "1968-11- 16 Sambutan Presiden Soeharto Pada Sidang Dewan Pleno Pengurus Besar Pelajar Islam Indonesia"
+    tanggal: 2013-09-08
+relasi: []
 ---
 
 Artikel sumber: [1968-11- 16 Sambutan Presiden Soeharto Pada Sidang Dewan Pleno Pengurus Besar Pelajar Islam Indonesia](https://soehartolibrary.id/1968-11-16-sambutan-presiden-soeharto-pada-sidang-dewan-pleno-pengurus-besar-pelajar-islam-indonesia/) — diterbitkan di soehartolibrary.id pada 2013-09-08T23:04:01.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-09-08]):** [1968-11- 16 Sambutan Presiden Soeharto Pada Sidang Dewan Pleno Pengurus Besar Pelajar Islam Indonesia](https://soehartolibrary.id/1968-11-16-sambutan-presiden-soeharto-pada-sidang-dewan-pleno-pengurus-besar-pelajar-islam-indonesia/)
