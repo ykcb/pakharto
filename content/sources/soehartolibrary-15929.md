@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.15929
-entity_kind: source
 title: "1991-12-19 Sambutan Presiden Soeharto Saat Menertma Para Peserta Kursus Reguler Angkatan XXIV Lemhannas"
-date: "2014-05-15T15:00:11"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["LEMHANNAS", "Presiden", "Presiden Soeharto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1991-12-19"
-slug_sumber: "1991-12-19-sambutan-presiden-soeharto-saat-menertma-para-peserta-kursus-reguler-angkatan-xxiv-lemhannas"
-sumber: ["https://soehartolibrary.id/1991-12-19-sambutan-presiden-soeharto-saat-menertma-para-peserta-kursus-reguler-angkatan-xxiv-lemhannas/"]
-ringkasan: "Sambutan Presiden Soeharto Saat Menerima Para Peserta Kursus Reguler Angkatan XXIV Lemhannas Sambutan Presiden Soeharto pada waktu Menerima Para Peserta Kursus Reguler Angkatan XXIV Lemhannas tanggal 19 Desember 1991 di Bina Graha, Jakarta."
+description: "Sambutan Presiden Soeharto Saat Menerima Para Peserta Kursus Reguler Angkatan XXIV Lemhannas Sambutan Presiden Soeharto ..."
+date: 1991-12-19
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1991-12-19-sambutan-presiden-soeharto-saat-menertma-para-peserta-kursus-reguler-angkatan-xxiv-lemhannas"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1991-12-19-sambutan-presiden-soeharto-saat-menertma-para-peserta-kursus-reguler-angkatan-xxiv-lemhannas/
+    judul: "1991-12-19 Sambutan Presiden Soeharto Saat Menertma Para Peserta Kursus Reguler Angkatan XXIV Lemhannas"
+    tanggal: 1991-12-19
+relasi: []
 ---
 
 Artikel sumber: [1991-12-19 Sambutan Presiden Soeharto Saat Menertma Para Peserta Kursus Reguler Angkatan XXIV Lemhannas](https://soehartolibrary.id/1991-12-19-sambutan-presiden-soeharto-saat-menertma-para-peserta-kursus-reguler-angkatan-xxiv-lemhannas/) — diterbitkan di soehartolibrary.id pada 2014-05-15T15:00:11.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1991-12-19]):** [1991-12-19 Sambutan Presiden Soeharto Saat Menertma Para Peserta Kursus Reguler Angkatan XXIV Lemhannas](https://soehartolibrary.id/1991-12-19-sambutan-presiden-soeharto-saat-menertma-para-peserta-kursus-reguler-angkatan-xxiv-lemhannas/)
