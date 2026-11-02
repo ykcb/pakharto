@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.9679
-entity_kind: source
 title: "1977-01-28 Pidato Soeharto Saat Resmikan Sekolah Peternakan Menengah Atas Negeri Cinagara"
-date: "2013-12-13T21:00:40"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Cinagara", "Pidato Presiden", "Sekolah Peternakan", "Soeharto"]
-tanggal_subjek: "1977-01-28"
-slug_sumber: "sekolah-peternakan-menengah-atas-negeri-cinagara"
-sumber: ["https://soehartolibrary.id/sekolah-peternakan-menengah-atas-negeri-cinagara/"]
-ringkasan: "Pidato Presiden Soeharto Pada Upacara Peresmian Sekolah Peternakan Menengah Atas Negeri Cinagara Pidato Presiden Soeharto pada Upacara Peresmian Sekolah Peternakan Menengah Atas Negeri Cinagara 28 Januari 1978 di Cinagara, Jawa Barat."
+description: "Pidato Presiden Soeharto Pada Upacara Peresmian Sekolah Peternakan Menengah Atas Negeri Cinagara Pidato Presiden Soehart..."
+date: 1977-01-28
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "sekolah-peternakan-menengah-atas-negeri-cinagara"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/sekolah-peternakan-menengah-atas-negeri-cinagara/
+    judul: "1977-01-28 Pidato Soeharto Saat Resmikan Sekolah Peternakan Menengah Atas Negeri Cinagara"
+    tanggal: 1977-01-28
+relasi: []
 ---
 
 Artikel sumber: [1977-01-28 Pidato Soeharto Saat Resmikan Sekolah Peternakan Menengah Atas Negeri Cinagara](https://soehartolibrary.id/sekolah-peternakan-menengah-atas-negeri-cinagara/) — diterbitkan di soehartolibrary.id pada 2013-12-13T21:00:40.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1977-01-28]):** [1977-01-28 Pidato Soeharto Saat Resmikan Sekolah Peternakan Menengah Atas Negeri Cinagara](https://soehartolibrary.id/sekolah-peternakan-menengah-atas-negeri-cinagara/)

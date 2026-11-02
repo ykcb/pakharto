@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.9838
-entity_kind: source
 title: "1978-06-13 Sambutan Presiden Soeharto Pada Peringatan Hari Ulang HKTI V"
-date: "2013-12-17T11:00:55"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Himpunan Kerukunan Tani Indonesia", "HKTI", "Presiden Soeharto", "Soeharto"]
-tanggal_subjek: "1978-06-13"
-slug_sumber: "1978-06-13-sambutan-presiden-soeharto-pada-peringatan-hari-ulang-hkti-v"
-sumber: ["https://soehartolibrary.id/1978-06-13-sambutan-presiden-soeharto-pada-peringatan-hari-ulang-hkti-v/"]
-ringkasan: "Sambutan Presiden Soeharto Pada Peringatan Hari Ulang Tahun Himpunan Kerukunan Tani Indonesia (HKTI) V Sambutan Presiden Soeharto pada Peringatan Hari Ulang Tahun Himpunan Kerukunan Tani Indonesia (HKTI) V tanggal 13 Juni 1978 di Desa Ragunan, Jakarta."
+description: "Sambutan Presiden Soeharto Pada Peringatan Hari Ulang Tahun Himpunan Kerukunan Tani Indonesia (HKTI) V Sambutan Presiden..."
+date: 1978-06-13
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1978-06-13-sambutan-presiden-soeharto-pada-peringatan-hari-ulang-hkti-v"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1978-06-13-sambutan-presiden-soeharto-pada-peringatan-hari-ulang-hkti-v/
+    judul: "1978-06-13 Sambutan Presiden Soeharto Pada Peringatan Hari Ulang HKTI V"
+    tanggal: 1978-06-13
+relasi: []
 ---
 
 Artikel sumber: [1978-06-13 Sambutan Presiden Soeharto Pada Peringatan Hari Ulang HKTI V](https://soehartolibrary.id/1978-06-13-sambutan-presiden-soeharto-pada-peringatan-hari-ulang-hkti-v/) — diterbitkan di soehartolibrary.id pada 2013-12-17T11:00:55.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1978-06-13]):** [1978-06-13 Sambutan Presiden Soeharto Pada Peringatan Hari Ulang HKTI V](https://soehartolibrary.id/1978-06-13-sambutan-presiden-soeharto-pada-peringatan-hari-ulang-hkti-v/)
