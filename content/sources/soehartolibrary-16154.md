@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.16154
-entity_kind: source
 title: "1992-06-25 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes India"
-date: "2014-05-22T09:00:34"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Dubes", "Dubes India", "India", "Pidato Presiden", "Presiden", "Presiden Soeharto", "Soeharto"]
-tanggal_subjek: "1992-06-25"
-slug_sumber: "1992-06-25-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-india"
-sumber: ["https://soehartolibrary.id/1992-06-25-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-india/"]
-ringkasan: "Pidato Balasan Presiden Soeharto pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Vinay Kumar Verma, Duta Besar Luar Biasa dan Berkuasa Penuh Republik India untuk Republik Indonesia tanggal 25 Juni 1992 di Istana Merdeka, Jakarta."
+description: "Pidato Balasan Presiden Soeharto pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Vinay Kumar Verma, Duta Besa..."
+date: 1992-06-25
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1992-06-25-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-india"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1992-06-25-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-india/
+    judul: "1992-06-25 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes India"
+    tanggal: 1992-06-25
+relasi: []
 ---
 
 Artikel sumber: [1992-06-25 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes India](https://soehartolibrary.id/1992-06-25-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-india/) — diterbitkan di soehartolibrary.id pada 2014-05-22T09:00:34.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1992-06-25]):** [1992-06-25 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes India](https://soehartolibrary.id/1992-06-25-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-india/)
