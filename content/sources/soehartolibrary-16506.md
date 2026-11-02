@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.16506
-entity_kind: source
 title: "1992-12-29 Sambutan Presiden Soeharto Pada Acara Pencanangan Peningkatan Pelaksanaan Jamsostek"
-date: "2014-05-30T01:00:59"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Jamsostek", "Presiden", "Presiden Soeharto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1992-12-29"
-slug_sumber: "1992-12-29-sambutan-presiden-soeharto-pada-acara-pencanangan-peningkatan-pelaksanaan-jamsostek"
-sumber: ["https://soehartolibrary.id/1992-12-29-sambutan-presiden-soeharto-pada-acara-pencanangan-peningkatan-pelaksanaan-jamsostek/"]
-ringkasan: "Sambutan Presiden Soeharto pada Acara Pencanangan Peningkatan Pelaksanaan Jaminan Sosial Tenaga Kerja tanggal 29 Desember 1992 di Istana Negara, Jakarta."
+description: "Sambutan Presiden Soeharto pada Acara Pencanangan Peningkatan Pelaksanaan Jaminan Sosial Tenaga Kerja tanggal 29 Desembe..."
+date: 1992-12-29
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1992-12-29-sambutan-presiden-soeharto-pada-acara-pencanangan-peningkatan-pelaksanaan-jamsostek"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1992-12-29-sambutan-presiden-soeharto-pada-acara-pencanangan-peningkatan-pelaksanaan-jamsostek/
+    judul: "1992-12-29 Sambutan Presiden Soeharto Pada Acara Pencanangan Peningkatan Pelaksanaan Jamsostek"
+    tanggal: 1992-12-29
+relasi: []
 ---
 
 Artikel sumber: [1992-12-29 Sambutan Presiden Soeharto Pada Acara Pencanangan Peningkatan Pelaksanaan Jamsostek](https://soehartolibrary.id/1992-12-29-sambutan-presiden-soeharto-pada-acara-pencanangan-peningkatan-pelaksanaan-jamsostek/) — diterbitkan di soehartolibrary.id pada 2014-05-30T01:00:59.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1992-12-29]):** [1992-12-29 Sambutan Presiden Soeharto Pada Acara Pencanangan Peningkatan Pelaksanaan Jamsostek](https://soehartolibrary.id/1992-12-29-sambutan-presiden-soeharto-pada-acara-pencanangan-peningkatan-pelaksanaan-jamsostek/)
