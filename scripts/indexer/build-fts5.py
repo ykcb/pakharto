@@ -113,7 +113,7 @@ def build_index(files):
             c.execute(
                 'INSERT INTO pages (path,title,description,body,entity_type,entity_id,kategori,tags,content_hash) VALUES (?,?,?,?,?,?,?,?,?)',
                 (path, title, desc, body, entity_type, entity_id, kategori,
-                 ','.join(tags) if isinstance(tags, list) else str(tags),
+                 ','.join(str(t) for t in tags) if isinstance(tags, list) else str(tags),
                  chash)
             )
 
@@ -122,8 +122,8 @@ def build_index(files):
                 c.execute(
                     'INSERT OR REPLACE INTO entities (entity_id,entity_type,title,description,path,kategori,aliases,tags,content_hash) VALUES (?,?,?,?,?,?,?,?,?)',
                     (entity_id, entity_type, title, desc, path, kategori,
-                     ','.join(aliases) if isinstance(aliases, list) else str(aliases),
-                     ','.join(tags) if isinstance(tags, list) else str(tags),
+                     ','.join(str(a) for a in aliases) if isinstance(aliases, list) else str(aliases),
+                     ','.join(str(t) for t in tags) if isinstance(tags, list) else str(tags),
                      chash)
                 )
 

@@ -38,10 +38,16 @@ Repo & Kontribusi: https://github.com/ykcb/pakharto
 - [Trilogi Pembangunan](https://pakharto.my.id/konsep/trilogi-pembangunan): Doktrin pembangunan terencana: Stabilitas Nasional, Pertumbuhan Ekonomi, dan Pemerataan.
 - [Stabilitas Nasional](https://pakharto.my.id/konsep/stabilitas-nasional): Doktrin keamanan sebagai prasyarat mutlak kelancaran pembangunan ekonomi.
 - [Soeharto](https://pakharto.my.id/aktor/soeharto): Rekam jejak, jaringan relasi kekuasaan, dan peran sentral Soeharto dalam sistem Orde Baru.
+- [Ekonomi Orde Baru](https://pakharto.my.id/hub/ekonomi-orde-baru): Stabilisasi moneter, Repelita, konglomerasi, dan utang luar negeri.
+- [Peristiwa Malari 1974](https://pakharto.my.id/peristiwa/malari-1974): Aksi mahasiswa anti-modal asing, kerusuhan Senen, dan pengetatan pers/kampus.
+- [Floating Mass](https://pakharto.my.id/konsep/floating-mass): Doktrin depolitisasi pedesaan dan pengebirian partai di akar rumput.
+- [KKN](https://pakharto.my.id/konsep/kkn): Anatomi korupsi, kolusi, dan nepotisme yang melandasi tuntutan Reformasi 1998.
+- [Kopkamtib](https://pakharto.my.id/lembaga/kopkamtib): Komando keamanan ekstra-yudisial terkuat era Orde Baru.
+- [Bakin](https://pakharto.my.id/lembaga/bakin): Badan koordinasi intelijen strategis dan operasi politik Orde Baru.
 
 ## Dokumen Tambahan & Arsip
 
-- [llms-full.txt](https://pakharto.my.id/llms-full.txt): Teks kurasi lengkap dari seluruh hub fondasi, konsep kunci, dan kategori untuk konteks penuh model bahasa.
+- [llms-full.txt](https://pakharto.my.id/llms-full.txt): Teks kurasi lengkap dari seluruh hub fondasi, konsep kunci, lembaga, dan kategori untuk konteks penuh model bahasa.
 - [Sitemap](https://pakharto.my.id/sitemap.xml): Peta seluruh 2.700+ artikel pidato, peristiwa, dan kliping berita terindeks.
 """
 
@@ -59,14 +65,18 @@ CORE_PAGES = [
     "content/konsep/demokrasi-pancasila.md",
     "content/konsep/trilogi-pembangunan.md",
     "content/konsep/stabilitas-nasional.md",
-    "content/aktor/soeharto.md"
+    "content/aktor/soeharto.md",
+    "content/hub/ekonomi-orde-baru.md",
+    "content/peristiwa/malari-1974.md",
+    "content/konsep/floating-mass.md",
+    "content/konsep/kkn.md",
+    "content/lembaga/kopkamtib.md",
+    "content/lembaga/bakin.md"
 ]
 
 
 def clean_markdown_for_llm(text: str) -> str:
-    # Hilangkan tags HTML berlebih
     text = re.sub(r'<[^>]+>', '', text)
-    # Ubah wikilink [[Target|Alias]] -> Alias atau [[Target]] -> Target
     text = re.sub(r'\[\[([^\]\|]+)\|([^\]]+)\]\]', r'\2', text)
     text = re.sub(r'\[\[([^\]]+)\]\]', r'\1', text)
     return text.strip()
@@ -75,12 +85,10 @@ def clean_markdown_for_llm(text: str) -> str:
 def build():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     
-    # 1. Tulis llms.txt
     llms_txt_path = OUTPUT_DIR / "llms.txt"
     llms_txt_path.write_text(LLMS_TXT_HEADER.strip() + "\n", encoding="utf-8")
     print(f"Generated: {llms_txt_path} ({len(LLMS_TXT_HEADER)} chars)")
 
-    # 2. Tulis llms-full.txt
     full_sections = [
         "# Wiki Soeharto (pakharto.my.id) — Naskah Konteks Penuh Fondasi Sejarah\n",
         "> Dokumen ini memuat kumpulan naskah lengkap halaman hub, peristiwa milestone, konsep kunci, dan kategori kanonikal untuk inferensi LLM yang akurat.\n"

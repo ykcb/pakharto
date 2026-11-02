@@ -387,3 +387,314 @@ Soeharto bukan sekadar pemilik jabatan tertinggi; ia adalah arsitek dan penjaga 
 
 - **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan kliping berita Soeharto](https://soehartolibrary.id/)
 - **[pakharto.my.id] ([2026-10-18]):** [Wiki Soeharto — aktor](https://pakharto.my.id/aktor/soeharto)
+
+
+======================================================================
+DOKUMEN: Ekonomi Orde Baru
+Kategori: ekonomi-dan-kepemilikan | Path: content/hub/ekonomi-orde-baru.md
+======================================================================
+
+> **Ringkasan:** Ekonomi Orde Baru adalah model pembangunan terpusat yang dipelopori oleh teknokrat ekonomi (Tim Ahli Ekonomi Presiden / "Mafia Berkeley") di bawah pimpinan Presiden Soeharto. Dimulai dengan stabilisasi hiperinflasi 650% pada 1966, rezim menerapkan undang-undang penanaman modal liberal, pembiayaan utang via IGGI/CGI, dan Rencana Pembangunan Lima Tahun (Repelita) yang berhasil mencatat pertumbuhan ekonomi rata-rata 7% per tahun serta swasembada beras pada 1984, namun rapuh akibat konsentrasi kepemilikan konglomerasi, utang jangka pendek perbankan, dan KKN yang berujung pada keruntuhan moneter 1997–1998.
+
+## Apa relevansinya dengan anak muda?
+Struktur ekonomi Indonesia hari ini—mulai dari dominasi konglomerasi swasta skala besar di sektor sumber daya alam, ketergantungan APBN pada utang luar negeri, hingga format kepemilikan tanah skala perkebunan dan tambang—merupakan warisan langsung dari kerangka hukum dan konsesi yang diterbitkan pada masa Orde Baru. 
+
+Krisis 1998 yang mewariskan beban obligasi rekapitalisasi perbankan (BLBI) puluhan tahun hingga ke generasi milenial dan Gen Z menunjukkan bagaimana ketiadaan transparansi kelembagaan antara regulator dan konglomerasi bisnis dapat melumpuhkan daya beli, lapangan kerja, dan stabilitas mata uang dalam hitungan bulan.
+
+## Fakta kunci
+
+| Periode | Kebijakan / Peristiwa Kunci | Indikator Utama | Status Historis |
+|---|---|---|---|
+| **1966–1968** | Stabilisasi moneter & UU Penanaman Modal Asing (UU No. 1/1967) | Inflasi turun dari 650% ke ~10% | Pembukaan keran investasi Barat |
+| **1969–1974** | Repelita I: Fokus pangan dan infrastruktur pertanian | Rehabilitasi irigasi, pembentukan Bulog | Peletakan fondasi pangan |
+| **1974–1981** | *Oil Boom* (Lonjakan harga minyak mentah global) | Penerimaan devisa migas melimpah | Pembangunan industri berat & SD Inpres |
+| **1983–1988** | Deregulasi Perbankan (Pakjun 1983, Pakto 1988) | Bank swasta menjamur (200+ bank baru) | Liberalisasi moneter tanpa pengawasan ketat |
+| **1984** | Swasembada Pangan / Penghargaan FAO di Roma | Produksi padi melampaui kebutuhan domestik | Capaian puncak sektor pertanian |
+| **1997–1998** | Krisis Moneter Asia & Penandatanganan Letter of Intent IMF | Rupiah jatuh dari Rp2.450 ke Rp16.000/USD | Runtuhnya fondasi moneter rezim |
+
+## Kronologi
+
+### 1966-10-03
+- Deklarasi Kebijakan Ekonomi Baru pemerintah transisi pimpinan Jenderal Soeharto: beralih dari ekonomi komando tertutup (etatisme) ke orientasi ekonomi pasar terbuka dan reintegrasi ke lembaga keuangan internasional (IMF dan Bank Dunia).
+
+### 1967-01-10
+- Pengesahan UU No. 1 Tahun 1967 tentang Penanaman Modal Asing (UU PMA), membuka pintu bagi masuknya investasi korporasi multinasional pertama di sektor pertambangan (Freeport) dan perminyakan.
+
+### 1967-02-23
+- Pembentukan konsorsium kreditor internasional *Inter-Governmental Group on Indonesia* (IGGI) di Amsterdam untuk merestrukturisasi utang warisan era Sukarno dan menjamin aliran pinjaman pembangunan tahunan ke kas negara Orde Baru.
+
+### 1969-04-01
+- Peluncuran Rencana Pembangunan Lima Tahun Pertama (Repelita I: 1969–1974) dengan penekanan utama pada rehabilitasi prasarana, swasembada beras, dan pemulihan industri perkebunan.
+
+### 1974-01-15
+- Meletusnya Peristiwa Malari 1974 di Jakarta sebagai protes mahasiswa terhadap dominasi modal asing Jepang dan kecemburuan sosial atas keistimewaan konglomerat kroni istana. Pemerintah merespons dengan mewajibkan kepemilikan saham mitra pribumi minimal 51%.
+
+### 1984-11-14
+- Presiden Soeharto menerima medali penghargaan dari Organisasi Pangan dan Pertanian Dunia (FAO) di Roma, Italia, atas keberhasilan Indonesia mengubah status dari importir beras terbesar di dunia menjadi negara yang berswasembada beras.
+
+### 1988-10-27
+- Paket Kebijakan 27 Oktober 1988 (Pakto 88): pelonggaran izin pendirian bank swasta nasional hanya dengan modal setor awal Rp10 miliar. Kebijakan ini memicu ekspansi agresif kredit kelompok konglomerasi kepada bisnis mereka sendiri (*affiliated lending*).
+
+### 1998-01-15
+- Presiden Soeharto menandatangani perjanjian penyesuaian struktural (*Letter of Intent*) ke-2 dengan Direktur Pelaksana IMF Michel Camdessus di kediaman Jl. Cendana, yang mensyaratkan pembongkaran monopoli perdagangan komoditas penting dan privatisasi BUMN.
+
+## Aktor yang terlibat
+- Soeharto — Presiden dan "Bapak Pembangunan Nasional", penentu arah kebijakan ekonomi tertinggi.
+- **Widjojo Nitisastro** — Menteri Perencanaan Pembangunan Nasional/Ketua Bappenas, arsitek utama tim teknokrat ekonomi Orde Baru.
+- **Ali Wardhana** — Menteri Keuangan (1968–1983) dan Menteri Koordinator Bidang Ekonomi, perancang disiplin anggaran berimbang.
+- **Sumitro Djojohadikusumo** — Menteri Perdagangan (1968–1973) dan Menteri Riset, peletak dasar strategi industrialisasi.
+- **B. J. Habibie** — Menteri Riset dan Teknologi/Kepala BPPT, pemimpin kubu "teknolog" yang mengusung lompatan industri teknologi tinggi dirgantara.
+- **Sudwikatmono, Liem Sioe Liong (Sudono Salim), Prajogo Pangestu** — Tokoh-tokoh pengusaha kunci yang memimpin konglomerasi swasta terkemuka era Orde Baru.
+
+## Sumber
+- **Arsip Pidato Kenegaraan RI (1969–1997):** Naskah Pidato Nota Keuangan dan Keterangan APBN tahunan di hadapan DPR-RI.
+- **Dokumen Resmi Bappenas:** Naskah Buku Rencana Pembangunan Lima Tahun (Repelita I hingga Repelita VI).
+- **World Bank Country Study (1993):** *The East Asian Miracle: Economic Growth and Public Policy* — Analisis pertumbuhan ekonomi Indonesia dan Asia Timur.
+- **Bank Indonesia (1998):** Laporan Tahunan Krisis Perbankan dan Penanganan Likuiditas Nasional.
+
+## Catatan presisi
+- **Angka Pertumbuhan vs Pemerataan:** Pertumbuhan ekonomi riil tercatat tinggi (6–8% stabil selama dua dekade), namun rasio Gini dan konsentrasi aset perbankan terkonsentrasi pada segelintir kelompok bisnis nasional (kurang dari 200 grup konglomerasi menguasai lebih dari 60% perputaran aset swasta nasional pada 1996).
+- **Status Swasembada Pangan:** Swasembada beras 1984 tercapai secara kuantitatif dalam siklus panen puncak, namun pada era 1990-an Indonesia kembali terpaksa mengimpor beras secara berkala akibat konversi lahan pertanian subur di Jawa menjadi kawasan industri dan permukiman.
+- **Utang Luar Negeri:** Kebijakan anggaran berimbang (*balanced budget*) Orde Baru secara formal tidak mencatat defisit, karena selisih antara belanja negara dan penerimaan pajak/migas ditutup langsung oleh pinjaman luar negeri program IGGI/CGI yang dicatat sebagai "penerimaan pembangunan".
+
+
+======================================================================
+DOKUMEN: Peristiwa Malari 1974
+Kategori: keamanan-dan-kebebasan | Path: content/peristiwa/malari-1974.md
+======================================================================
+
+> **Ringkasan:** Peristiwa Malari (Malapetaka Lima Belas Januari 1974) adalah gelombang demonstrasi mahasiswa terbesar pada dekade pertama Orde Baru yang memprotes penetrasi modal asing Jepang, korupsi lingkaran istana, dan lembaga Asisten Pribadi (Aspri) Presiden saat kunjungan Perdana Menteri Jepang Kakuei Tanaka ke Jakarta. Aksi damai berujung pada pembakaran pusat perbelanjaan Pasar Senen, korban jiwa 11 orang, dan dimanfaatkan rezim untuk menyingkirkan faksi militer oposan Jenderal Soemitro, membubarkan dewan mahasiswa lewat konsep Normalisasi Kehidupan Kampus (NKK/BKK), serta membredel 12 surat kabar independen.
+
+## Apa relevansinya dengan anak muda?
+Peristiwa Malari adalah titik balik struktural yang mematikan kebebasan politik mahasiswa dan ruang pers bebas di Indonesia selama hampir seperempat abad. Kebijakan Normalisasi Kehidupan Kampus/Badan Koordinasi Kemahasiswaan (NKK/BKK) yang diberlakukan pasca-Malari secara sengaja mencabut hak mahasiswa untuk berorganisasi dan bersuara kritis di lingkungan akademik, mengubah watak kampus dari pusat aktivisme sosial menjadi sekadar pabrik tenaga kerja teknis.
+
+Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral mahasiswa yang sah mengenai kemandirian ekonomi dan keadilan sosial dapat dibelokkan oleh rekayasa konflik intelijen antar-elit bersenjata untuk melegitimasi tindakan represif negara.
+
+## Fakta kunci
+
+| Parameter | Data Terverifikasi | Sumber / Keterangan |
+|---|---|---|
+| **Waktu Kejadian** | 15–16 Januari 1974 | Jakarta Pusat (kawasan Senen, Glodok, Salemba) |
+| **Pemicu Utama** | Kunjungan PM Jepang Kakuei Tanaka & kritik monopoli modal asing | Delegasi Dewan Mahasiswa UI |
+| **Korban Jiwa & Luka** | 11 orang tewas, 300 luka-luka, 775 orang ditangkap | Laporan resmi Pangkopkamtib |
+| **Kerusakan Material** | 144 bangunan rusak/terbakar (Pasar Senen terbakar), 807 mobil dan motor dibakar | Mayoritas kendaraan bermerek pabrikan Jepang |
+| **Dampak Media** | 12 media massa dicabut izin terbitnya (SIT) | Termasuk *Harian Abadi*, *Pedoman*, *Indonesia Raya*, *Mahasiswa Indonesia* |
+| **Restrukturisasi Militer** | Jenderal Soemitro mundur dari Pangkopkamtib, jabatan Aspri dibubarkan | Presiden Soeharto mengambil alih kendali langsung Kopkamtib |
+
+## Kronologi
+
+### 1973-10-24
+- Dewan Mahasiswa Universitas Indonesia (DM-UI) pimpinan Hariman Siregar membacakan Petisi 24 Oktober yang menuntut peninjauan kembali strategi pembangunan nasional yang dianggap mengorbankan rakyat demi kepentingan modal multinasional dan pejabat korup.
+
+### 1974-01-14
+- Kedatangan Perdana Menteri Jepang Kakuei Tanaka di Bandara Halim Perdanakusuma disambut oleh aksi unjuk rasa ribuan mahasiswa yang membentangkan spanduk anti-imperialisme modal dan menuntut pembubaran lembaga Aspri pimpinan Mayjen Ali Moertopo dan Mayjen Soedjono Hoemardani.
+
+### 1974-01-15
+- Aksi long-march mahasiswa dari Salemba menuju Universitas Trisakti. Pada siang hingga sore hari, massa tak dikenal mulai melakukan pembakaran mobil buatan Jepang di jalanan protokol dan menjarah kompleks pertokoan Pasar Senen, Jakarta Pusat.
+
+### 1974-01-16
+- Kerusuhan meluas hingga ke kawasan Glodok dan Hayam Wuruk. Pasukan militer di bawah Pangkopkamtib Jenderal Soemitro diterjunkan secara penuh untuk mengamankan ibu kota dan memberlakukan jam malam. PM Tanaka terpaksa dievakuasi ke bandara menggunakan helikopter dari Istana Merdeka.
+
+### 1974-01-22
+- Presiden Soeharto resmi membubarkan lembaga Asisten Pribadi Presiden (Aspri) untuk meredam kecaman publik, namun di saat yang sama memberhentikan Jenderal Soemitro dari jabatan Panglima Kopkamtib.
+
+### 1974-01-28
+- Kopkamtib mengumumkan pembatalan Surat Izin Terbit (SIT) terhadap surat kabar dan majalah terkemuka di Jakarta yang dinilai memprovokasi kerusuhan, termasuk surat kabar legendaris *Indonesia Raya* asuhan Mochtar Lubis dan *Pedoman* asuhan Rosihan Anwar.
+
+### 1978-04-19
+- Kelanjutan dari penertiban mahasiswa pasca-Malari: Menteri Pendidikan dan Kebudayaan Daoed Joesoef mengesahkan SK No. 0156/U/1978 tentang Normalisasi Kehidupan Kampus (NKK), membubarkan Dewan Mahasiswa universitas dan melarang seluruh bentuk kegiatan politik praktis di dalam kampus.
+
+## Aktor yang terlibat
+- Soeharto — Presiden RI yang mengambil tindakan politik pembersihan faksi militer dan pengetatan kendali negara.
+- **Hariman Siregar** — Ketua Dewan Mahasiswa Universitas Indonesia (DM-UI), diadili dan dijatuhi hukuman penjara 6 tahun sebagai penggerak aksi.
+- **Jenderal Soemitro** — Wakil Panglima ABRI dan Panglima Kopkamtib, rival faksi politik istana yang dicopot dan dipensiunkan pasca-kerusuhan.
+- **Mayjen Ali Moertopo** — Asisten Pribadi Presiden Bidang Khusus (Aspri) dan Kepala Opsus/Bakin, sasaran utama kritik mahasiswa terkait dominasi modal Jepang dan manipulasi politik.
+- **Mochtar Lubis & Rosihan Anwar** — Tokoh jurnalis senior nasional yang media cetaknya dibredel secara permanen oleh penguasa militer.
+- **Kakuei Tanaka** — Perdana Menteri Jepang yang menjadi simbol sasaran protes penetrasi modal asing di Asia Tenggara.
+
+## Sumber
+- **Laporan Resmi Sidang Parlemen DPR-RI (Februari 1974):** Keterangan Pemerintah tentang Peristiwa 15 Januari 1974.
+- **Berkas Pengadilan Negeri Jakarta Pusat (1974–1975):** Naskah Tuntutan dan Putusan Perkara Subversi Hariman Siregar dkk.
+- **Biografi Jenderal Soemitro (1998):** *Dari Pangdam Mulawarman sampai Pangkopkamtib* — Kesaksian faksi militer mengenai persaingan kekuasaan di balik Malari.
+- **PWI / Dewan Pers (1974):** Dokumentasi Pembredelan Surat Kabar Harian Ibu Kota.
+
+## Catatan presisi
+- **Dalang Kerusuhan Senen:** Hingga hari ini terdapat dua narasi utama sejarah mengenai pemicu kerusuhan: narasi resmi penguasa Orde Baru menuduh adanya konspirasi elemen sisa PSI dan Masyumi bersama Dewan Mahasiswa untuk menggulingkan Presiden Soeharto; sedangkan narasi independen dan kalangan aktivis meyakini kerusuhan Pasar Senen diprovokasi oleh jaringan binaan intelijen (Opsus) untuk memojokkan Jenderal Soemitro dan melegitimasi pembersihan politik secara total.
+- **Perbedaan Sikap Demonstrasi vs Kerusuhan:** Aksi mahasiswa pada pagi 15 Januari berlangsung tertib di dalam lingkungan kampus dan jalan raya, sementara pembakaran Pasar Senen dilakukan oleh kelompok massa luar yang bergerak secara terorganisir beberapa jam setelah unjuk rasa mahasiswa dibubarkan.
+
+
+======================================================================
+DOKUMEN: Floating Mass (Massa Mengambang)
+Kategori: kekuasaan-dan-legitimasi | Path: content/konsep/floating-mass.md
+======================================================================
+
+> **Ringkasan:** *Floating Mass* (Massa Mengambang) adalah doktrin politik resmi Orde Baru yang digagas pasca-Pemilu 1971 oleh faksi militer dan intelektual CSIS di bawah Jenderal Ali Moertopo. Doktrin ini melarang seluruh partai politik (Partai Persatuan Pembangunan dan Partai Demokrasi Indonesia) memiliki komisariat atau cabang pengurus di tingkat kecamatan, desa, dan kelurahan, dengan dalih agar masyarakat pedesaan tidak terpecah-belah oleh konflik ideologis dan dapat fokus sepenuhnya pada program pembangunan ekonomi.
+
+## Apa relevansinya dengan anak muda?
+Konsep *floating mass* menciptakan budaya politik pasif (*apolitis*) yang masih membekas hingga hari ini, di mana warga masyarakat di luar lingkaran elit kota sering kali diposisikan hanya sebagai objek mobilisasi elektoral berkala lima tahunan, bukan subjek politik berdaya yang mengawasi kebijakan anggaran publik.
+
+Memahami *floating mass* membantu generasi muda membaca mengapa struktur masyarakat pedesaan Indonesia selama puluhan tahun kehilangan daya tawar kolektif dalam menghadapi sengketa agraria, penggusuran lahan perkebunan, dan perusakan lingkungan, karena wadah organisasi politik mandiri di tingkat desa sengaja dieliminasi oleh undang-undang negara.
+
+## Cara kerja dalam praktik
+
+Dalam penerapannya, doktrin ini menciptakan ketimpangan struktural yang sangat besar antara partai politik oposisi dan instrumen pemerintah:
+
+1. **Pembatasan bagi Partai Politik (PPP dan PDI):**
+   Berdasarkan UU No. 3 Tahun 1975 tentang Partai Politik dan Golongan Karya, kepengurusan PPP dan PDI dibatasi hanya sampai tingkat Daerah Tingkat II (Kabupaten/Kotamadya). Di tingkat kecamatan dan desa, partai hanya diperkenankan menunjuk satu orang "komisaris" tanpa boleh membentuk cabang atau menggelar kegiatan rapat umum di luar masa kampanye resmi pemilu.
+
+2. **Akses Istimewa Golongan Karya (Golkar):**
+   Meskipun aturan formal berlaku bagi Golkar, mesin Golkar menumpang pada struktur hierarki birokrasi pemerintahan desa dan korps pegawai negeri (KORPRI) yang dipimpin oleh Kepala Desa (Lurah), Camat, dan Bupati. Kepala Desa bertindak sebagai pembina politik desa yang otomatis mengarahkan pemilih ke Golkar, menciptakan ilusi "massa yang bebas dari politik" padahal secara de facto dimonopoli oleh kekuasaan negara.
+
+3. **Mobilisasi Tertutup:**
+   Rakyat hanya "diizinkan" bersentuhan dengan aktivitas politik selama masa kampanye resmi pemilu (biasanya 25 hingga 30 hari). Di luar periode itu, setiap upaya pengorganisasian petani atau warga desa di luar jalur organisasi tunggal bentukan pemerintah (seperti HKTI untuk petani atau KUD untuk koperasi) dapat dituduh sebagai tindakan subversif pemecah-belah stabilitas nasional.
+
+## Landasan hukum dan dokumen historis
+- **Hasil Seminar Angkatan Darat II (1966):** Dokumen doktrin awal ABRI mengenai pemulihan stabilitas politik dan penolakan terhadap kepartaian liberal masa Demokrasi Terpimpin.
+- **UU No. 3 Tahun 1975 tentang Partai Politik dan Golongan Karya:** Pelembagaan legal larangan pembentukan kepengurusan partai di tingkat kecamatan dan pedesaan.
+- **UU No. 5 Tahun 1979 tentang Pemerintahan Desa:** Penyeragaman struktur desa di seluruh Indonesia yang menempatkan Kepala Desa sebagai aparatur tunggal pemerintah pusat di garda depan.
+
+## Aktor yang terlibat
+- Soeharto — Mengesahkan doktrin sebagai bagian integral dari pemeliharaan Stabilitas Nasional.
+- **Mayjen Ali Moertopo** — Perancang strategis konsep *floating mass* dan fusi kepartaian melalui Operasi Khusus (Opsus).
+- **Panglima ABRI & Pangkopkamtib** — Pelaksana penertiban di lapangan yang menindak pembentukan komisariat partai ilegal di desa-desa.
+
+## Sumber
+- **Ali Moertopo (1974):** *Strategi Pembangunan Nasional* — Penjelasan filosofis mengenai perlunya mensterilkan pedesaan dari benturan ideologi.
+- **Naskah UU No. 3/1975:** Lembaran Negara Republik Indonesia Tahun 1975 No. 32.
+- **Alfian (1981):** *Pemikiran dan Perubahan Politik Indonesia* — Analisis kritis ilmu politik mengenai dampak massa mengambang terhadap partisipasi publik.
+
+## Catatan presisi
+- **Pencabutan Pasca-Reformasi:** Konsep *floating mass* secara resmi berakhir pasca-tumbangnya Orde Baru dengan disahkannya UU No. 2 Tahun 1999 tentang Partai Politik yang kembali membolehkan partai mendirikan struktur kepengurusan hingga ke tingkat desa dan rukun warga.
+
+
+======================================================================
+DOKUMEN: KKN (Korupsi, Kolusi, dan Nepotisme)
+Kategori: ekonomi-dan-kepemilikan | Path: content/konsep/kkn.md
+======================================================================
+
+> **Ringkasan:** KKN (Korupsi, Kolusi, dan Nepotisme) adalah akronim dan istilah politik historis yang lahir pada paruh kedua dekade 1990-an untuk mendeskripsikan integrasi antara kekuasaan birokrasi negara, fasilitas keuangan perbankan pemerintah, dan imperium bisnis keluarga istana beserta lingkaran pengusaha kroni. Fenomena ini menjadi sasaran kritik paling keras mahasiswa dalam Gerakan Reformasi 1998 dan kemudian dilembagakan sebagai mandat pembersihan aparatur negara melalui Ketetapan MPR No. XI/MPR/1998.
+
+## Apa relevansinya dengan anak muda?
+Istilah KKN bukan sekadar jargon politik jalanan, melainkan diagnosis atas penyakit struktural yang membuat sistem ekonomi nasional kolaps pada 1997–1998. Praktik kredit perbankan tanpa agunan yang layak bagi konglomerat kroni (*connected lending*) pada era itu harus ditalangi oleh uang rakyat melalui dana Bantuan Likuiditas Bank Indonesia (BLBI) yang beban pokok dan bunganya membebani Anggaran Pendapatan dan Belanja Negara (APBN) selama berpuluh-puluh tahun.
+
+Bagi generasi muda, memahami anatomis KKN pada era Orde Baru memberikan pemahaman kritis untuk mengenali pola-pola kartel bisnis, konflik kepentingan pejabat publik yang merangkap pengusaha (*conflict of interest*), serta privatisasi aset-aset publik yang masih kerap berulang dengan bentuk baru di era modern.
+
+## Anatomi praktik KKN era Orde Baru
+
+Dalam dokumen-dokumen resmi pasca-1998 dan kajian ekonomi politik, KKN di era Orde Baru bekerja melalui tiga pilar mekanisme:
+
+1. **Monopoli Tata Niaga dan Konsesi Khusus:**
+   Pemerintah menerbitkan izin khusus, kuota impor, atau hak monopoli distribusi komoditas strategis kepada perusahaan keluarga atau kroni tertentu. Contoh terdokumentasi mencakup Badan Penyangga dan Pemasar Cengkeh (BPPC), monopoli tata niaga terigu dan kedelai, proyek Mobil Nasional Timor, hingga konsesi Hak Pengusahaan Hutan (HPH) jutaan hektare di luar Jawa.
+
+2. **Penyalahgunaan Fasilitas Keuangan & Yayasan:**
+   Pengerahan dana dari yayasan-yayasan non-bujeter yang diketuai langsung oleh Presiden (antara lain Yayasan Supersemar, Yayasan Dakab, Yayasan Dharmais) yang menghimpun potongan laba BUMN dan dana wajib perbankan untuk dialirkan ke proyek-proyek non-transparan dan investasi konglomerasi terafiliasi.
+
+3. **Perlindungan Politik atas Pelanggaran Batas Maksimum Pemberian Kredit (BMPK):**
+   Bank-bank swasta milik konglomerat melanggar ketentuan perbankan nasional dengan menyalurkan dana simpanan masyarakat kepada grup perusahaan milik pemilik bank itu sendiri tanpa batasan risiko yang wajar. Ketika krisis moneter 1997 melanda, bank-bank ini mengalami gagal bayar dan diselamatkan oleh kucuran likuiditas darurat negara.
+
+## Landasan hukum pasca-Orde Baru
+- **Ketetapan MPR No. XI/MPR/1998:** Penyelenggara Negara yang Bersih dan Bebas Korupsi, Kolusi, dan Nepotisme — Mengamanatkan pengusutan tuntas terhadap kekayaan mantan Presiden Soeharto, kroni, dan keluarga istana.
+- **UU No. 28 Tahun 1999:** Penyelenggaraan Negara yang Bersih dan Bebas dari Korupsi, Kolusi, dan Nepotisme — Menjadi dasar pembentukan Komisi Pemeriksa Kekayaan Penyelenggara Negara (KPKPN) yang menjadi cikal bakal Komisi Pemberantasan Korupsi (KPK).
+
+## Sumber
+- **Naskah Ketetapan MPR RI No. XI/MPR/1998:** Sekretariat Jenderal MPR-RI.
+- **Kejaksaan Agung RI (1998–2000):** Berkas Penyidikan Perkara Dugaan Korupsi Dana Yayasan Mantan Presiden Soeharto.
+- **Richard Robison (1986):** *Indonesia: The Rise of Capital* — Analisis pembentukan kelas kapitalis kroni dan birokrat di Indonesia.
+- **Kwik Kian Gie (1999):** *Analisis Ekonomi Politik Indonesia* — Dokumentasi skandal perbankan nasional dan konglomerasi.
+
+## Catatan presisi
+- **Perbedaan Istilah Hukum vs Sejarah:** Sebelum 1998, kata "KKN" tidak dikenal dalam perundang-undangan pidana Indonesia (hanya ada delik tindak pidana korupsi biasa). Penggunaan istilah KKN adalah konstruksi politik gerakan reformasi yang baru memperoleh definisi yuridis formal lewat UU No. 28/1999.
+- **Status Proses Hukum:** Pemeriksaan perkara hukum mantan Presiden Soeharto terkait dana yayasan sempat bergulir di pengadilan pada tahun 2000, namun proses peradilan pidananya dihentikan (SKP3) oleh Kejaksaan Agung karena alasan kesehatan fisik dan mental terdakwa yang permanen, dilanjutkan dengan gugatan perdata atas aset Yayasan Supersemar yang dimenangkan oleh Mahkamah Agung RI pada 2015.
+
+
+======================================================================
+DOKUMEN: Kopkamtib (Komando Operasi Pemulihan Keamanan dan Ketertiban)
+Kategori: keamanan-dan-kebebasan | Path: content/lembaga/kopkamtib.md
+======================================================================
+
+> **Ringkasan:** Kopkamtib (Komando Operasi Pemulihan Keamanan dan Ketertiban) adalah badan keamanan militer ekstra-konstitusional yang dibentuk pasca-peristiwa 30 September 1965 dan dipimpin pertama kali oleh Mayjen Soeharto. Memiliki kewenangan tak terbatas melampaui hukum acara pidana biasa, Kopkamtib menjadi instrumen utama negara untuk menangkap dan menahan ratusan ribu tahanan politik tanpa proses peradilan, memberlakukan penyaringan ideologi (*Litsus*), membredel media massa, menertibkan unjuk rasa, serta menjamin stabilitas politik selama 23 tahun sebelum dibubarkan pada September 1988.
+
+## Apa relevansinya dengan anak muda?
+Kopkamtib adalah contoh nyata di mana kekuasaan negara di bidang keamanan beroperasi di atas hukum (*above the law*). Melalui lembaga ini, status hak asasi warga negara dapat ditangguhkan sewaktu-waktu atas nama "stabilitas nasional" dan "keamanan negara".
+
+Pengalaman historis keberadaan Kopkamtib menjadi alasan mengapa Undang-Undang Dasar 1945 pasca-amandemen dan UU Pertahanan Negara secara tegas melarang militer aktif memiliki kewenangan penegakan hukum dan penahanan warga sipil di masa damai—sebuah proteksi hukum vital yang dinikmati oleh generasi muda hari ini.
+
+## Wewenang dan instrumen operasional
+
+Kopkamtib beroperasi dengan jaringan hierarkis dari pusat hingga ke daerah:
+
+1. **Kekuasaan Ekstra-Yudisial:**
+   Panglima Kopkamtib (Pangkopkamtib) dan Pelaksana Khusus Daerah (Laksusda/Pangdam) memiliki wewenang untuk menangkap, menginterogasi, dan menahan siapa pun yang diduga terlibat kegiatan subversi atau mengganggu ketertiban umum tanpa batas waktu penahanan KUHAP dan tanpa surat perintah pengadilan.
+
+2. **Penelitian Khusus (Litsus) & Surat Keterangan Bersih Diri (SKBD):**
+   Kopkamtib menyelenggarakan sistem skrining latar belakang politik bagi jutaan warga negara yang hendak melamar pekerjaan sebagai pegawai negeri (PNS), anggota ABRI, guru, wartawan, hingga calon anggota legislatif, untuk memastikan tidak adanya keterkaitan hingga derajat keluarga tertentu dengan organisasi terlarang (PKI).
+
+3. **Penyensoran Pers dan Larangan Pemogokan:**
+   Kopkamtib berhak membekukan izin penerbitan surat kabar (Surat Izin Terbit/SIT) yang memuat laporan kritis serta mengintervensi langsung sengketa ketenagakerjaan dan demonstrasi buruh di pabrik-pabrik demi menjaga kelancaran investasi modal.
+
+## Pimpinan kunci per periode
+
+| Periode | Panglima Kopkamtib (Pangkopkamtib) | Catatan Kebijakan Utama |
+|---|---|---|
+| **1965–1973** | Jenderal Soeharto | Konsolidasi kekuasaan militer pasca-G30S, pembentukan Laksusda |
+| **1973–1974** | Jenderal Soemitro | Pendekatan dialogis awal dengan mahasiswa hingga meletusnya Peristiwa Malari 1974 |
+| **1974–1978** | Jenderal Soeharto (Diambil alih langsung) | Pembubaran Aspri, pembersihan kampus, dan penertiban pers nasional |
+| **1978–1983** | Laksamana Sudomo | Operasi Tertib (Opstib), penanganan kasus pembajakan pesawat Woyla 1981 |
+| **1983–1988** | Jenderal L. B. Moerdani | Pendekatan keamanan terintegrasi ABRI, penanganan Peristiwa Tanjung Priok 1984 |
+
+## Pembubaran
+Pada tanggal 5 September 1988, Presiden Soeharto menandatangani Keputusan Presiden No. 29 Tahun 1988 yang secara resmi membubarkan Kopkamtib dan membentuk **Badan Koordinasi Bantuan Pemantapan Stabilitas Nasional (Bakorstanas)** sebagai penggantinya, dengan fungsi yang lebih bersifat koordinatif daripada operasional langsung.
+
+## Sumber
+- **Keppres No. 179/1965:** Pembentukan Komando Pemulihan Keamanan dan Ketertiban.
+- **Keppres No. 29/1988:** Pembubaran Kopkamtib dan Pembentukan Bakorstanas.
+- **Sudomo (1983):** *Kebijaksanaan dan Langkah-langkah Kopkamtib dalam Pemulihan Keamanan Nasional*.
+- **Harold Crouch (1978):** *The Army and Politics in Indonesia* — Analisis kelembagaan Kopkamtib dalam politik militer Orde Baru.
+
+## Catatan presisi
+- **Perbedaan Kopkamtib vs Hankam:** Kopkamtib bukan bagian dari struktur organik Departemen Pertahanan Keamanan (Hankam) maupun Mabes ABRI, melainkan komando operasi darurat khusus yang bertanggung jawab langsung kepada Presiden/Panglima Tertinggi ABRI.
+
+
+======================================================================
+DOKUMEN: Bakin (Badan Koordinasi Intelijen Negara)
+Kategori: keamanan-dan-kebebasan | Path: content/lembaga/bakin.md
+======================================================================
+
+> **Ringkasan:** Bakin (Badan Koordinasi Intelijen Negara) adalah badan intelijen utama era Orde Baru yang dibentuk oleh Penjabat Presiden Soeharto melalui Keppres No. 17 Tahun 1967 untuk menggantikan Badan Pusat Intelijen (BPI) era Sukarno. Di bawah pimpinan perwira-perwira kepercayaan istana seperti Sutopo Juwono dan Yoga Soegomo, serta keterkaitannya yang erat dengan unsur Operasi Khusus (Opsus) pimpinan Ali Moertopo, Bakin memainkan peran sentral dalam memetakan ancaman komunisme, merekayasa fusi partai politik 1973, mengkondisikan kemenangan Golkar dalam pemilu, dan memantau kelompok oposisi kritis.
+
+## Apa relevansinya dengan anak muda?
+Bakin mencerminkan bagaimana fungsi intelijen negara pada masa otoriter diarahkan bukan hanya untuk menghadapi spionase atau ancaman asing, melainkan dipergunakan untuk memantau, membelah (*divide and rule*), dan merekayasa kehidupan politik warga negara sendiri.
+
+Bagi generasi masa kini yang hidup di era digital dan pemantauan data pribadi (*surveillance capitalism*), sejarah Bakin menjadi pengingat penting mengenai batasan wewenang intelijen sipil/militer dan perlunya akuntabilitas pengawasan parlemen agar alat intelijen tidak disalahgunakan untuk melanggengkan kekuasaan rezim yang berkuasa.
+
+## Sejarah pembentukan dan fungsi
+
+1. **Transformasi dari BPI ke Bakin (1967):**
+   Pasca-G30S, Presiden Soeharto membubarkan BPI yang sebelumnya dipimpin oleh mantan Wakil Perdana Menteri I Dr. Subandrio. Untuk mencegah sentralisasi kekuasaan intelijen di satu figur tunggal di luar presiden, dibentuk Komando Intelijen Negara (KIN) yang kemudian disempurnakan menjadi Badan Koordinasi Intelijen Negara (Bakin) pada Mei 1967, langsung bertanggung jawab kepada Presiden.
+
+2. **Peran Ganda dengan Opsus:**
+   Melalui unit khusus semi-rahasia Operasi Khusus (Opsus) yang dipimpin oleh Deputi Kepala Bakin Mayjen Ali Moertopo, lembaga ini tidak hanya pasif mengumpulkan data intelijen, melainkan aktif melakukan manuver politik: membina faksi-faksi dalam tubuh Partai Katolik, Parkindo, PNI, dan NU agar bersedia melebur ke dalam format fusi kepartaian PPP dan PDI pada 1973.
+
+3. **Koordinasi Intelijen Wilayah (Bakorinda):**
+   Di tingkat provinsi dan daerah, Bakin membentuk Badan Koordinasi Intelijen Daerah (Bakorinda) yang beranggotakan perwira intelijen kejaksaan, kepolisian, dan ketiga matra ABRI untuk memastikan deteksi dini atas riak-riak penentangan kebijakan pemerintah.
+
+## Kepala Bakin masa Orde Baru
+
+| Periode | Kepala Bakin | Latar Belakang / Catatan Kunci |
+|---|---|---|
+| **1967–1970** | Mayjen Soedirgo | Peletakan fondasi kelembagaan awal intelijen Orde Baru |
+| **1970–1974** | Mayjen Sutopo Juwono | Pembangunan koordinasi intelijen profesional, dicopot pasca-Malari 1974 |
+| **1974–1989** | Jenderal Yoga Soegomo | Kepala terlama (15 tahun), menstabilkan intelijen strategis dan diplomasi rahasia |
+| **1989–1996** | Letjen Soedibyo | Masa transisi keterbukaan terbatas dekade 1990-an |
+| **1996–1998** | Letjen Moetojib | Pengawasan situasi keamanan menjelang krisis dan SU MPR 1998 |
+
+## Transformasi pasca-Orde Baru
+Pada tahun 2000 di masa pemerintahan Presiden Abdurrahman Wahid, Bakin dilebur bersama Badan Intelijen ABRI (BIA/BAIS) dalam aspek koordinatif, dan kemudian pada era Presiden Megawati Soekarnoputri disahkan menjadi **Badan Intelijen Negara (BIN)** melalui Keppres No. 103 Tahun 2001 yang menempatkan BIN sebagai lembaga sipil negara.
+
+## Sumber
+- **Keppres No. 17 Tahun 1967:** Pembentukan Badan Koordinasi Intelijen Negara.
+- **Yoga Soegomo (1990):** *Memori Jenderal Yoga* — Catatan memoar Kepala Bakin terlama mengenai operasi rahasia Orde Baru.
+- **Ken Conboy (2004):** *Intel: Inside Indonesia’s Intelligence Service* — Sejarah komprehensif intelijen Indonesia modern.
+
+## Catatan presisi
+- **Perbedaan Bakin vs BAIS:** Bakin adalah badan intelijen negara strategis yang berfokus pada dinamika politik, ekonomi, dan sosial nasional/internasional, sedangkan Badan Intelijen Strategis (BAIS) ABRI berfokus pada doktrin militer operasional, persenjataan, dan operasi pertahanan teritorial ABRI.
