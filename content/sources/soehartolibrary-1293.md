@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.1293
-entity_kind: source
 title: "1966-9-6 Ceramah Ketua Presidium AMPERA Jenderal Soeharto Pada Briefing Nasional Presidium KAMI Pusat"
-date: "2013-04-01T02:40:55"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Ampera", "Jenderal Soeharto", "Kabinet Ampera", "KAMI", "Nasional", "Pidato Presiden", "Pidato Soeharto", "Presidium"]
-tanggal_subjek: ""
-slug_sumber: "1966-9-6-ceramah-ketua-presidium-ampera-jenderal-soeharto-pada-briefing-nasional-presidium-kami-pusat"
-sumber: ["https://soehartolibrary.id/1966-9-6-ceramah-ketua-presidium-ampera-jenderal-soeharto-pada-briefing-nasional-presidium-kami-pusat/"]
-ringkasan: "Ceramah Ketua Presidium AMPERA Jenderal Soeharto Pada Briefing Nasional Presidium KAMI Pusat Ceramah Ketua Presidium Kabinet Ampera Jenderal Soeharto pada Briefing Nasional Presidium KAMI pusat pada tanggal 6 September 1966. Selengkapnya, ceramah tersebut dikemukakan sebagai berikut:"
+description: "Ceramah Ketua Presidium AMPERA Jenderal Soeharto Pada Briefing Nasional Presidium KAMI Pusat Ceramah Ketua Presidium Kab..."
+date: 2013-04-01
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1966-9-6-ceramah-ketua-presidium-ampera-jenderal-soeharto-pada-briefing-nasional-presidium-kami-pusat"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1966-9-6-ceramah-ketua-presidium-ampera-jenderal-soeharto-pada-briefing-nasional-presidium-kami-pusat/
+    judul: "1966-9-6 Ceramah Ketua Presidium AMPERA Jenderal Soeharto Pada Briefing Nasional Presidium KAMI Pusat"
+    tanggal: 2013-04-01
+relasi: []
 ---
 
 Artikel sumber: [1966-9-6 Ceramah Ketua Presidium AMPERA Jenderal Soeharto Pada Briefing Nasional Presidium KAMI Pusat](https://soehartolibrary.id/1966-9-6-ceramah-ketua-presidium-ampera-jenderal-soeharto-pada-briefing-nasional-presidium-kami-pusat/) — diterbitkan di soehartolibrary.id pada 2013-04-01T02:40:55.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-04-01]):** [1966-9-6 Ceramah Ketua Presidium AMPERA Jenderal Soeharto Pada Briefing Nasional Presidium KAMI Pusat](https://soehartolibrary.id/1966-9-6-ceramah-ketua-presidium-ampera-jenderal-soeharto-pada-briefing-nasional-presidium-kami-pusat/)

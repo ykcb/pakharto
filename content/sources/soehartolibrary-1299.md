@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.1299
-entity_kind: source
 title: "1966-9-8 Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja Departemen PU"
-date: "2013-04-01T09:00:18"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Departemen", "Jenderal Soeharto", "Kabinet Ampera", "Musyawarah Kerja", "Pidato Soeharto", "Presidium", "Presidium Ampera", "PU"]
-tanggal_subjek: ""
-slug_sumber: "1966-9-8-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-departemen-pu"
-sumber: ["https://soehartolibrary.id/1966-9-8-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-departemen-pu/"]
-ringkasan: "Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja Departemen PU Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto pada Musyawarah Kerja Departemen Pekerjaan Umum tanggal 8 September 1966. Sambutan tersebut dikemukakan sebagai berikut:"
+description: "Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja Departemen PU Sambutan Ketua Presidium Kabinet A..."
+date: 2013-04-01
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1966-9-8-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-departemen-pu"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1966-9-8-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-departemen-pu/
+    judul: "1966-9-8 Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja Departemen PU"
+    tanggal: 2013-04-01
+relasi: []
 ---
 
 Artikel sumber: [1966-9-8 Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja Departemen PU](https://soehartolibrary.id/1966-9-8-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-departemen-pu/) — diterbitkan di soehartolibrary.id pada 2013-04-01T09:00:18.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-04-01]):** [1966-9-8 Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja Departemen PU](https://soehartolibrary.id/1966-9-8-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-departemen-pu/)
