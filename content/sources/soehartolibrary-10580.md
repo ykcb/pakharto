@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.10580
-entity_kind: source
 title: "1980-04-08 Pidato Presiden Soeharto pada Pembukaan Rakernas BKKBN"
-date: "2014-01-03T09:00:11"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["BKKBN", "Pidato Presiden", "Soeharto"]
-tanggal_subjek: "1980-04-08"
-slug_sumber: "1980-04-08-pidato-presiden-soeharto-pada-pembukaan-rakernas-bkkbn"
-sumber: ["https://soehartolibrary.id/1980-04-08-pidato-presiden-soeharto-pada-pembukaan-rakernas-bkkbn/"]
-ringkasan: "Pidato Presiden Soeharto Pada Pembukaan Rapat Kerja Nasional BKKBN Pidato Presiden Soeharto pada Pembukaan Rapat Kerja Nasional Badan Koordinasi Keluarga Berencana Nasional (BKKBN) tanggal 8 April 1980 di Jakarta."
+description: "Pidato Presiden Soeharto Pada Pembukaan Rapat Kerja Nasional BKKBN Pidato Presiden Soeharto pada Pembukaan Rapat Kerja N..."
+date: 1980-04-08
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1980-04-08-pidato-presiden-soeharto-pada-pembukaan-rakernas-bkkbn"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1980-04-08-pidato-presiden-soeharto-pada-pembukaan-rakernas-bkkbn/
+    judul: "1980-04-08 Pidato Presiden Soeharto pada Pembukaan Rakernas BKKBN"
+    tanggal: 1980-04-08
+relasi: []
 ---
 
 Artikel sumber: [1980-04-08 Pidato Presiden Soeharto pada Pembukaan Rakernas BKKBN](https://soehartolibrary.id/1980-04-08-pidato-presiden-soeharto-pada-pembukaan-rakernas-bkkbn/) — diterbitkan di soehartolibrary.id pada 2014-01-03T09:00:11.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1980-04-08]):** [1980-04-08 Pidato Presiden Soeharto pada Pembukaan Rakernas BKKBN](https://soehartolibrary.id/1980-04-08-pidato-presiden-soeharto-pada-pembukaan-rakernas-bkkbn/)
