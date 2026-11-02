@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.11501
-entity_kind: source
 title: "1982-07- Kata Sambutan Presiden Soeharto Pada Peringatan Ultah ke-32 RS Gatot Soebroto"
-date: "2014-01-31T21:00:56"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Presiden Soeharto", "RS Gatot Soebroto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: ""
-slug_sumber: "1982-07-kata-sambutan-presiden-soeharto-pada-peringatan-ultah-ke-32-rs-gatot-soebroto"
-sumber: ["https://soehartolibrary.id/1982-07-kata-sambutan-presiden-soeharto-pada-peringatan-ultah-ke-32-rs-gatot-soebroto/"]
-ringkasan: "Kata Sambutan Presiden Soeharto Pada Peringatan Ultah ke-32 RS Gatot Soebroto Kata Sambutan Presiden Soeharto pada Peringatan Hari Ulang Tahun ke-32 Rumah Sakit Gatot Soebroto pada Juli 1982 di Jakarta."
+description: "Kata Sambutan Presiden Soeharto Pada Peringatan Ultah ke-32 RS Gatot Soebroto Kata Sambutan Presiden Soeharto pada Perin..."
+date: 2014-01-31
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1982-07-kata-sambutan-presiden-soeharto-pada-peringatan-ultah-ke-32-rs-gatot-soebroto"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1982-07-kata-sambutan-presiden-soeharto-pada-peringatan-ultah-ke-32-rs-gatot-soebroto/
+    judul: "1982-07- Kata Sambutan Presiden Soeharto Pada Peringatan Ultah ke-32 RS Gatot Soebroto"
+    tanggal: 2014-01-31
+relasi: []
 ---
 
 Artikel sumber: [1982-07- Kata Sambutan Presiden Soeharto Pada Peringatan Ultah ke-32 RS Gatot Soebroto](https://soehartolibrary.id/1982-07-kata-sambutan-presiden-soeharto-pada-peringatan-ultah-ke-32-rs-gatot-soebroto/) — diterbitkan di soehartolibrary.id pada 2014-01-31T21:00:56.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2014-01-31]):** [1982-07- Kata Sambutan Presiden Soeharto Pada Peringatan Ultah ke-32 RS Gatot Soebroto](https://soehartolibrary.id/1982-07-kata-sambutan-presiden-soeharto-pada-peringatan-ultah-ke-32-rs-gatot-soebroto/)
