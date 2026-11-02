@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.6030
-entity_kind: source
 title: "1969-10-25 Sambutan Presiden Soeharto Pada Pembukaan Musabaqah Tilawatil Qur’an Tingkat Nasional II"
-date: "2013-09-21T23:00:20"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Musabaqah Tilawatil Qur’an", "Presiden Soeharto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1969-10-25"
-slug_sumber: "1968-10-25-sambutan-presiden-soeharto-pada-pembukaan-musabaqah-tilawatil-quran-tingkat-nasional-ii"
-sumber: ["https://soehartolibrary.id/1968-10-25-sambutan-presiden-soeharto-pada-pembukaan-musabaqah-tilawatil-quran-tingkat-nasional-ii/"]
-ringkasan: "pada tanggal 25 Oktober 1969 di Bandung Jawa Barat."
+description: "pada tanggal 25 Oktober 1969 di Bandung Jawa Barat...."
+date: 1969-10-25
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1968-10-25-sambutan-presiden-soeharto-pada-pembukaan-musabaqah-tilawatil-quran-tingkat-nasional-ii"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1968-10-25-sambutan-presiden-soeharto-pada-pembukaan-musabaqah-tilawatil-quran-tingkat-nasional-ii/
+    judul: "1969-10-25 Sambutan Presiden Soeharto Pada Pembukaan Musabaqah Tilawatil Qur’an Tingkat Nasional II"
+    tanggal: 1969-10-25
+relasi: []
 ---
 
 Artikel sumber: [1969-10-25 Sambutan Presiden Soeharto Pada Pembukaan Musabaqah Tilawatil Qur’an Tingkat Nasional II](https://soehartolibrary.id/1968-10-25-sambutan-presiden-soeharto-pada-pembukaan-musabaqah-tilawatil-quran-tingkat-nasional-ii/) — diterbitkan di soehartolibrary.id pada 2013-09-21T23:00:20.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1969-10-25]):** [1969-10-25 Sambutan Presiden Soeharto Pada Pembukaan Musabaqah Tilawatil Qur’an Tingkat Nasional II](https://soehartolibrary.id/1968-10-25-sambutan-presiden-soeharto-pada-pembukaan-musabaqah-tilawatil-quran-tingkat-nasional-ii/)
