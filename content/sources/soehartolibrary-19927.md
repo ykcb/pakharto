@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.19927
-entity_kind: source
 title: "1996-01-15 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Korea"
-date: "2014-10-30T09:00:07"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Dubes", "Korea", "Pidato Presiden", "Presiden", "Soeharto"]
-tanggal_subjek: "1996-01-15"
-slug_sumber: "1996-01-15-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-korea"
-sumber: ["https://soehartolibrary.id/1996-01-15-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-korea/"]
-ringkasan: "Pidato Balasan Presiden Soeharto pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Jo Gyu II, Duta Besar Luar Biasa dan Berkuasa Penuh Republik Demokrasi Rakyat Korea untuk Republik Indonesia tanggal 15 Januari 1996 di Istana Merdeka, Jakarta."
+description: "Pidato Balasan Presiden Soeharto pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Jo Gyu II, Duta Besar Luar B..."
+date: 1996-01-15
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1996-01-15-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-korea"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1996-01-15-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-korea/
+    judul: "1996-01-15 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Korea"
+    tanggal: 1996-01-15
+relasi: []
 ---
 
 Artikel sumber: [1996-01-15 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Korea](https://soehartolibrary.id/1996-01-15-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-korea/) — diterbitkan di soehartolibrary.id pada 2014-10-30T09:00:07.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1996-01-15]):** [1996-01-15 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Korea](https://soehartolibrary.id/1996-01-15-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-korea/)

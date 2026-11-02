@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.1971
-entity_kind: source
 title: "1967-05 Sambutan Pejabat Presiden Soeharto Pada Peresmian IIP"
-date: "2013-04-26T17:38:11"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["IIP", "Ilmu Pemerintahan", "Institut", "Pejabat Presiden", "Pidato Presiden", "Soeharto"]
-tanggal_subjek: ""
-slug_sumber: "1967-05-sambutan-pejabat-presiden-soeharto-pada-peresmian-iip"
-sumber: ["https://soehartolibrary.id/1967-05-sambutan-pejabat-presiden-soeharto-pada-peresmian-iip/"]
-ringkasan: "Sambutan Pak Harto: Peresmian IIP Sambutan Pejabat Presiden Republik Indonesia Jenderal Soeharto pada Peresmian Pembukaan Institut Ilmu Pemerintahan (IIP) bulan Mei 1967 di Jakarta. Pidato selengkapnya dikemukakan sebagai berikut:"
+description: "Sambutan Pak Harto: Peresmian IIP Sambutan Pejabat Presiden Republik Indonesia Jenderal Soeharto pada Peresmian Pembukaa..."
+date: 2013-04-26
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1967-05-sambutan-pejabat-presiden-soeharto-pada-peresmian-iip"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1967-05-sambutan-pejabat-presiden-soeharto-pada-peresmian-iip/
+    judul: "1967-05 Sambutan Pejabat Presiden Soeharto Pada Peresmian IIP"
+    tanggal: 2013-04-26
+relasi: []
 ---
 
 Artikel sumber: [1967-05 Sambutan Pejabat Presiden Soeharto Pada Peresmian IIP](https://soehartolibrary.id/1967-05-sambutan-pejabat-presiden-soeharto-pada-peresmian-iip/) — diterbitkan di soehartolibrary.id pada 2013-04-26T17:38:11.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-04-26]):** [1967-05 Sambutan Pejabat Presiden Soeharto Pada Peresmian IIP](https://soehartolibrary.id/1967-05-sambutan-pejabat-presiden-soeharto-pada-peresmian-iip/)
