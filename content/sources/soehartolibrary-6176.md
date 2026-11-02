@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.6176
-entity_kind: source
 title: "1970-03-o7 Amanat Presiden Soeharto Pada Pelantikan Duta-Duta Besar Republik Indonesia Untuk Republik Philipina, Australia Dan Republik Arab Syria"
-date: "2013-09-25T15:00:05"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Amanat Presiden", "Australia", "Duta Besar Republik Indonesia", "Presiden Soeharto", "Republik Arab Syria", "Republik Philipina", "Soeharto"]
-tanggal_subjek: ""
-slug_sumber: "1970-03-o7-amanat-presiden-soeharto-pada-pelantikan-duta-duta-besar-republik-indonesia-untuk-republik-philipina-australia-dan-republik-arab-syria"
-sumber: ["https://soehartolibrary.id/1970-03-o7-amanat-presiden-soeharto-pada-pelantikan-duta-duta-besar-republik-indonesia-untuk-republik-philipina-australia-dan-republik-arab-syria/"]
-ringkasan: "Amanat Presiden Soeharto Pada Pelantikan Duta-Duta Besar Republik Indonesia Untuk Republik Philipina, Australia Dan Republik Arab Syria Amanat Presiden Soeharto pada Pelantikan Duta-Duta Besar Luar Biasa dan Berkuasa Penuh Republik Indonesia Masing –masing untuk Republik Philipina, Australia dan Republik Arab Syria pada tanggal 7 Maret 1970 di Istana Negara Jakarta."
+description: "Amanat Presiden Soeharto Pada Pelantikan Duta-Duta Besar Republik Indonesia Untuk Republik Philipina, Australia Dan Repu..."
+date: 2013-09-25
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1970-03-o7-amanat-presiden-soeharto-pada-pelantikan-duta-duta-besar-republik-indonesia-untuk-republik-philipina-australia-dan-republik-arab-syria"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1970-03-o7-amanat-presiden-soeharto-pada-pelantikan-duta-duta-besar-republik-indonesia-untuk-republik-philipina-australia-dan-republik-arab-syria/
+    judul: "1970-03-o7 Amanat Presiden Soeharto Pada Pelantikan Duta-Duta Besar Republik Indonesia Untuk Republik Philipina, Australia Dan Republik Arab Syria"
+    tanggal: 2013-09-25
+relasi: []
 ---
 
 Artikel sumber: [1970-03-o7 Amanat Presiden Soeharto Pada Pelantikan Duta-Duta Besar Republik Indonesia Untuk Republik Philipina, Australia Dan Republik Arab Syria](https://soehartolibrary.id/1970-03-o7-amanat-presiden-soeharto-pada-pelantikan-duta-duta-besar-republik-indonesia-untuk-republik-philipina-australia-dan-republik-arab-syria/) — diterbitkan di soehartolibrary.id pada 2013-09-25T15:00:05.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-09-25]):** [1970-03-o7 Amanat Presiden Soeharto Pada Pelantikan Duta-Duta Besar Republik Indonesia Untuk Republik Philipina, Australia Dan Republik Arab Syria](https://soehartolibrary.id/1970-03-o7-amanat-presiden-soeharto-pada-pelantikan-duta-duta-besar-republik-indonesia-untuk-republik-philipina-australia-dan-republik-arab-syria/)
