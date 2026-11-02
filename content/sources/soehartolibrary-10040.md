@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.10040
-entity_kind: source
 title: "1978-10-15 Sambutan Presiden Soeharto Pada Penutupan Penataran Calon Penatar PGRI"
-date: "2013-12-20T19:00:02"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["PGRI", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1978-10-15"
-slug_sumber: "1978-10-15-sambutan-presiden-soeharto-pada-penutupan-penataran-calon-penatar-pgri"
-sumber: ["https://soehartolibrary.id/1978-10-15-sambutan-presiden-soeharto-pada-penutupan-penataran-calon-penatar-pgri/"]
-ringkasan: "Sambutan Presiden Soeharto pada Penutupan Penataran Calon Penatar Pegawai Republik Indonesia (PGRI) tanggal 15 Oktober 1978 di Istana Bogor."
+description: "Sambutan Presiden Soeharto pada Penutupan Penataran Calon Penatar Pegawai Republik Indonesia (PGRI) tanggal 15 Oktober 1..."
+date: 1978-10-15
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1978-10-15-sambutan-presiden-soeharto-pada-penutupan-penataran-calon-penatar-pgri"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1978-10-15-sambutan-presiden-soeharto-pada-penutupan-penataran-calon-penatar-pgri/
+    judul: "1978-10-15 Sambutan Presiden Soeharto Pada Penutupan Penataran Calon Penatar PGRI"
+    tanggal: 1978-10-15
+relasi: []
 ---
 
 Artikel sumber: [1978-10-15 Sambutan Presiden Soeharto Pada Penutupan Penataran Calon Penatar PGRI](https://soehartolibrary.id/1978-10-15-sambutan-presiden-soeharto-pada-penutupan-penataran-calon-penatar-pgri/) — diterbitkan di soehartolibrary.id pada 2013-12-20T19:00:02.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1978-10-15]):** [1978-10-15 Sambutan Presiden Soeharto Pada Penutupan Penataran Calon Penatar PGRI](https://soehartolibrary.id/1978-10-15-sambutan-presiden-soeharto-pada-penutupan-penataran-calon-penatar-pgri/)
