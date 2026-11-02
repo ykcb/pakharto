@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.9898
-entity_kind: source
 title: "978-07-15 Pidato Presiden Soeharto Saat Menerima Surat-Surat Kepercayaan Dubes Yordania"
-date: "2013-12-18T09:00:00"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Dubes", "Duta Besar", "Pidato Presiden", "Presiden Soeharto", "Soeharto", "Yordania"]
-tanggal_subjek: ""
-slug_sumber: "978-07-15-pidato-presiden-soeharto-saat-menerima-surat-surat-kepercayaan-dubes-yordania"
-sumber: ["https://soehartolibrary.id/978-07-15-pidato-presiden-soeharto-saat-menerima-surat-surat-kepercayaan-dubes-yordania/"]
-ringkasan: "Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat KepercayaanDubes Yordania Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Riyad Sobri, Duta Besar Luar Biasa dan Berkuasa Penuh Kerajaan Yordania untuk Indonesia tanggal 15 Juli 1978 di Istana Merdeka, Jakarta."
+description: "Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat KepercayaanDubes Yordania Pidato Balasan Presiden S..."
+date: 2013-12-18
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "978-07-15-pidato-presiden-soeharto-saat-menerima-surat-surat-kepercayaan-dubes-yordania"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/978-07-15-pidato-presiden-soeharto-saat-menerima-surat-surat-kepercayaan-dubes-yordania/
+    judul: "978-07-15 Pidato Presiden Soeharto Saat Menerima Surat-Surat Kepercayaan Dubes Yordania"
+    tanggal: 2013-12-18
+relasi: []
 ---
 
 Artikel sumber: [978-07-15 Pidato Presiden Soeharto Saat Menerima Surat-Surat Kepercayaan Dubes Yordania](https://soehartolibrary.id/978-07-15-pidato-presiden-soeharto-saat-menerima-surat-surat-kepercayaan-dubes-yordania/) — diterbitkan di soehartolibrary.id pada 2013-12-18T09:00:00.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-12-18]):** [978-07-15 Pidato Presiden Soeharto Saat Menerima Surat-Surat Kepercayaan Dubes Yordania](https://soehartolibrary.id/978-07-15-pidato-presiden-soeharto-saat-menerima-surat-surat-kepercayaan-dubes-yordania/)

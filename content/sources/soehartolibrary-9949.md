@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.9949
-entity_kind: source
 title: "1978-08-03 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Turki"
-date: "2013-12-19T01:00:19"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Dubes Turki", "Pidato Presiden", "Presiden Soeharto", "Soeharto"]
-tanggal_subjek: "1978-08-03"
-slug_sumber: "1978-08-03-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-turki"
-sumber: ["https://soehartolibrary.id/1978-08-03-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-turki/"]
-ringkasan: "Pidato Balasan Presiden Soeharto pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Haluk Kocaman, Duta Besar Luar Biasa dan Berkuasa Penuh Republik Turki untuk Republik Indonesia tanggal 3 Agustus 1978 di Istana Merdeka, Jakarta."
+description: "Pidato Balasan Presiden Soeharto pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Haluk Kocaman, Duta Besar Lu..."
+date: 1978-08-03
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1978-08-03-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-turki"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1978-08-03-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-turki/
+    judul: "1978-08-03 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Turki"
+    tanggal: 1978-08-03
+relasi: []
 ---
 
 Artikel sumber: [1978-08-03 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Turki](https://soehartolibrary.id/1978-08-03-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-turki/) — diterbitkan di soehartolibrary.id pada 2013-12-19T01:00:19.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1978-08-03]):** [1978-08-03 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-Surat Kepercayaan Dubes Turki](https://soehartolibrary.id/1978-08-03-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-turki/)
