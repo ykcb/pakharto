@@ -44,6 +44,12 @@ Repo & Kontribusi: https://github.com/ykcb/pakharto
 - [KKN](https://pakharto.my.id/konsep/kkn): Anatomi korupsi, kolusi, dan nepotisme yang melandasi tuntutan Reformasi 1998.
 - [Kopkamtib](https://pakharto.my.id/lembaga/kopkamtib): Komando keamanan ekstra-yudisial terkuat era Orde Baru.
 - [Bakin](https://pakharto.my.id/lembaga/bakin): Badan koordinasi intelijen strategis dan operasi politik Orde Baru.
+- [Kehidupan Rakyat & Pembangunan](https://pakharto.my.id/hub/kehidupan-rakyat): Swasembada pangan, revolusi hijau, SD Inpres, KB, Puskesmas, dan dinamika pedesaan.
+- [Krisis & Reformasi 1998](https://pakharto.my.id/hub/krisis-dan-reformasi-1998): Krisis moneter, kerusuhan Mei 1998, mundurnya 14 menteri, dan pengunduran diri Soeharto.
+- [Peristiwa Tanjung Priok 1984](https://pakharto.my.id/peristiwa/peristiwa-tanjung-priok-1984): Tragedi bentrokan aparat dengan massa berlatar ketegangan asas tunggal.
+- [Penembakan Misterius (Petrus)](https://pakharto.my.id/peristiwa/penembakan-misterius-petrus): Operasi penindakan premanisme ekstra-yudisial (1982–1985) dengan metode shock therapy.
+- [Kasus Kedung Ombo](https://pakharto.my.id/peristiwa/kasus-kedung-ombo): Konflik agraria penggusuran lahan waduk dan tonggak advokasi HAM akar rumput.
+- [Asas Tunggal Pancasila](https://pakharto.my.id/konsep/asas-tunggal-pancasila): Kewajiban formal Pancasila sebagai satu-satunya asas ormas dan parpol lewat Paket UU Politik 1985.
 
 ## Dokumen Tambahan & Arsip
 
@@ -71,14 +77,20 @@ CORE_PAGES = [
     "content/konsep/floating-mass.md",
     "content/konsep/kkn.md",
     "content/lembaga/kopkamtib.md",
-    "content/lembaga/bakin.md"
+    "content/lembaga/bakin.md",
+    "content/hub/kehidupan-rakyat.md",
+    "content/hub/krisis-dan-reformasi-1998.md",
+    "content/peristiwa/peristiwa-tanjung-priok-1984.md",
+    "content/peristiwa/penembakan-misterius-petrus.md",
+    "content/peristiwa/kasus-kedung-ombo.md",
+    "content/konsep/asas-tunggal-pancasila.md"
 ]
 
 
 def clean_markdown_for_llm(text: str) -> str:
-    text = re.sub(r'<[^>]+>', '', text)
-    text = re.sub(r'\[\[([^\]\|]+)\|([^\]]+)\]\]', r'\2', text)
-    text = re.sub(r'\[\[([^\]]+)\]\]', r'\1', text)
+    text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"\[\[([^\]\|]+)\|([^\]]+)\]\]", r"\2", text)
+    text = re.sub(r"\[\[([^\]]+)\]\]", r"\1", text)
     return text.strip()
 
 
