@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.4335
-entity_kind: source
 title: "1968-08-05 Sambutan Pejabat Presiden Soeharto dalam Mukernas HMI"
-date: "2013-08-14T18:07:11"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["HMI", "Jenderal Soeharto", "Mukernas", "Pak Harto", "Pidato Presiden", "Presiden Soeharto", "soeharto.co"]
-tanggal_subjek: "1968-08-05"
-slug_sumber: "1968-08-05-sambutan-pejabat-presiden-soeharto-dalam-mukernas-hmi"
-sumber: ["https://soehartolibrary.id/1968-08-05-sambutan-pejabat-presiden-soeharto-dalam-mukernas-hmi/"]
-ringkasan: "Sambutan Pejabat Presiden Republik Indonesia Jenderal Soeharto dalam Penutupan Mukernas HMI, tanggal 5 Maret 1968 di Jakarta."
+description: "Sambutan Pejabat Presiden Republik Indonesia Jenderal Soeharto dalam Penutupan Mukernas HMI, tanggal 5 Maret 1968 di Jak..."
+date: 1968-08-05
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1968-08-05-sambutan-pejabat-presiden-soeharto-dalam-mukernas-hmi"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1968-08-05-sambutan-pejabat-presiden-soeharto-dalam-mukernas-hmi/
+    judul: "1968-08-05 Sambutan Pejabat Presiden Soeharto dalam Mukernas HMI"
+    tanggal: 1968-08-05
+relasi: []
 ---
 
 Artikel sumber: [1968-08-05 Sambutan Pejabat Presiden Soeharto dalam Mukernas HMI](https://soehartolibrary.id/1968-08-05-sambutan-pejabat-presiden-soeharto-dalam-mukernas-hmi/) — diterbitkan di soehartolibrary.id pada 2013-08-14T18:07:11.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1968-08-05]):** [1968-08-05 Sambutan Pejabat Presiden Soeharto dalam Mukernas HMI](https://soehartolibrary.id/1968-08-05-sambutan-pejabat-presiden-soeharto-dalam-mukernas-hmi/)
