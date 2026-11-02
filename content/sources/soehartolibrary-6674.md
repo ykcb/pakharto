@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.6674
-entity_kind: source
 title: "1970-12-31 Pidato Akhir Tahun 1970"
-date: "2013-10-06T07:00:23"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Pidato Akhir Tahun", "Pidato Presiden", "Presiden Soeharto"]
-tanggal_subjek: "1970-12-31"
-slug_sumber: "1970-12-31-pidato-akhir-tahun-1970"
-sumber: ["https://soehartolibrary.id/1970-12-31-pidato-akhir-tahun-1970/"]
-ringkasan: "pada tanggal 31 Desember 1970 di Jakarta."
+description: "pada tanggal 31 Desember 1970 di Jakarta...."
+date: 1970-12-31
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1970-12-31-pidato-akhir-tahun-1970"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1970-12-31-pidato-akhir-tahun-1970/
+    judul: "1970-12-31 Pidato Akhir Tahun 1970"
+    tanggal: 1970-12-31
+relasi: []
 ---
 
 Artikel sumber: [1970-12-31 Pidato Akhir Tahun 1970](https://soehartolibrary.id/1970-12-31-pidato-akhir-tahun-1970/) — diterbitkan di soehartolibrary.id pada 2013-10-06T07:00:23.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1970-12-31]):** [1970-12-31 Pidato Akhir Tahun 1970](https://soehartolibrary.id/1970-12-31-pidato-akhir-tahun-1970/)
