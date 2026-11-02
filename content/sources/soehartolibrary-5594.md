@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.5594
-entity_kind: source
 title: "1969-04-05 Amanat Presiden Soeharto Pada Penganugerahan Bintang-Bintang Tanda Kehormatan"
-date: "2013-09-14T13:00:36"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Amanat Presiden", "Bintang Tanda Kehormatan", "Jalasena", "Kartika Eka Paksi", "Maha Putera", "Soeharto", "Swa Bhuwana"]
-tanggal_subjek: "1969-04-05"
-slug_sumber: "1969-04-05-amanat-presiden-soeharto-pada-penganugerahan-bintang-bintang-tanda-kehormatan"
-sumber: ["https://soehartolibrary.id/1969-04-05-amanat-presiden-soeharto-pada-penganugerahan-bintang-bintang-tanda-kehormatan/"]
-ringkasan: "pada tanggal 05 April 1969 di Istana Negara. Tanda-tanda kehormatan yang dianugerahkan Presiden berupa Bintang Swa Bhuwana Paksa Kelas I, Bintang Jalasena Kelas I, Bintang Kartika Eka Paksi dan Bintang Maha Putera Kelas II."
+description: "pada tanggal 05 April 1969 di Istana Negara. Tanda-tanda kehormatan yang dianugerahkan Presiden berupa Bintang Swa Bhuwa..."
+date: 1969-04-05
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1969-04-05-amanat-presiden-soeharto-pada-penganugerahan-bintang-bintang-tanda-kehormatan"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1969-04-05-amanat-presiden-soeharto-pada-penganugerahan-bintang-bintang-tanda-kehormatan/
+    judul: "1969-04-05 Amanat Presiden Soeharto Pada Penganugerahan Bintang-Bintang Tanda Kehormatan"
+    tanggal: 1969-04-05
+relasi: []
 ---
 
 Artikel sumber: [1969-04-05 Amanat Presiden Soeharto Pada Penganugerahan Bintang-Bintang Tanda Kehormatan](https://soehartolibrary.id/1969-04-05-amanat-presiden-soeharto-pada-penganugerahan-bintang-bintang-tanda-kehormatan/) — diterbitkan di soehartolibrary.id pada 2013-09-14T13:00:36.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1969-04-05]):** [1969-04-05 Amanat Presiden Soeharto Pada Penganugerahan Bintang-Bintang Tanda Kehormatan](https://soehartolibrary.id/1969-04-05-amanat-presiden-soeharto-pada-penganugerahan-bintang-bintang-tanda-kehormatan/)
