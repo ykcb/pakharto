@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.1318
-entity_kind: source
 title: "1966-9-22 Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Seminar Statistik"
-date: "2013-04-01T22:54:37"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Jakarta", "Jenderal Soeharto", "Kabinet Ampera", "Pidato Presiden", "Pidato Soeharto", "Presidium", "Seminar", "statistik"]
-tanggal_subjek: ""
-slug_sumber: "1966-9-22-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-seminar-statistik"
-sumber: ["https://soehartolibrary.id/1966-9-22-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-seminar-statistik/"]
-ringkasan: "Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Seminar Statistik Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto pada Seminar Statistik pada tanggal 22 September 1966 di Jakarta. Selengkapnya pidato tersebut dikemukakan sebagai berikut:"
+description: "Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Seminar Statistik Sambutan Ketua Presidium Kabinet Ampera..."
+date: 2013-04-01
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1966-9-22-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-seminar-statistik"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1966-9-22-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-seminar-statistik/
+    judul: "1966-9-22 Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Seminar Statistik"
+    tanggal: 2013-04-01
+relasi: []
 ---
 
 Artikel sumber: [1966-9-22 Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Seminar Statistik](https://soehartolibrary.id/1966-9-22-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-seminar-statistik/) — diterbitkan di soehartolibrary.id pada 2013-04-01T22:54:37.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-04-01]):** [1966-9-22 Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Seminar Statistik](https://soehartolibrary.id/1966-9-22-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-seminar-statistik/)

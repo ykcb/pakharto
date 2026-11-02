@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.1334
-entity_kind: source
 title: "1966-11-5 Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Dies Natalis Perguruan Tinggi Dinas Ilmu Administrasi Negara"
-date: "2013-04-02T17:16:11"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Kabinet Ampera", "Pidato Soeharto", "Presiden Soeharto"]
-tanggal_subjek: ""
-slug_sumber: "1966-11-5-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-dies-natalis-perguruan-tinggi-dinas-ilmu-administrasi-negara"
-sumber: ["https://soehartolibrary.id/1966-11-5-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-dies-natalis-perguruan-tinggi-dinas-ilmu-administrasi-negara/"]
-ringkasan: "Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Dies Natalis Perguruan Tinggi Dinas Ilmu Administrasi Negara pada tanggal 5 November 1966. Selengkapnya, ceramah tersebut dikemukakan sebagai berikut:"
+description: "Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Dies Natalis Perguruan Tinggi Dinas Ilmu Administrasi Neg..."
+date: 2013-04-02
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1966-11-5-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-dies-natalis-perguruan-tinggi-dinas-ilmu-administrasi-negara"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1966-11-5-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-dies-natalis-perguruan-tinggi-dinas-ilmu-administrasi-negara/
+    judul: "1966-11-5 Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Dies Natalis Perguruan Tinggi Dinas Ilmu Administrasi Negara"
+    tanggal: 2013-04-02
+relasi: []
 ---
 
 Artikel sumber: [1966-11-5 Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Dies Natalis Perguruan Tinggi Dinas Ilmu Administrasi Negara](https://soehartolibrary.id/1966-11-5-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-dies-natalis-perguruan-tinggi-dinas-ilmu-administrasi-negara/) — diterbitkan di soehartolibrary.id pada 2013-04-02T17:16:11.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-04-02]):** [1966-11-5 Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto Pada Dies Natalis Perguruan Tinggi Dinas Ilmu Administrasi Negara](https://soehartolibrary.id/1966-11-5-sambutan-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-dies-natalis-perguruan-tinggi-dinas-ilmu-administrasi-negara/)
