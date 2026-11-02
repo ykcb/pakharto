@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.9581
-entity_kind: source
 title: "1977-12-07 Pidato Presiden Soeharto Pada Peresmian Jalan Tembus Sentani-Genyem"
-date: "2013-12-12T07:00:52"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Genyem", "Pidato Presiden", "Presiden Soeharto", "Sentani", "Soeharto"]
-tanggal_subjek: "1977-12-07"
-slug_sumber: "1977-12-07-pidato-presiden-soeharto-pada-peresmian-jalan-tembus-sentani-genyem"
-sumber: ["https://soehartolibrary.id/1977-12-07-pidato-presiden-soeharto-pada-peresmian-jalan-tembus-sentani-genyem/"]
-ringkasan: "tanggal 7 Desember di Sentani, Irian Jaya."
+description: "tanggal 7 Desember di Sentani, Irian Jaya...."
+date: 1977-12-07
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1977-12-07-pidato-presiden-soeharto-pada-peresmian-jalan-tembus-sentani-genyem"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1977-12-07-pidato-presiden-soeharto-pada-peresmian-jalan-tembus-sentani-genyem/
+    judul: "1977-12-07 Pidato Presiden Soeharto Pada Peresmian Jalan Tembus Sentani-Genyem"
+    tanggal: 1977-12-07
+relasi: []
 ---
 
 Artikel sumber: [1977-12-07 Pidato Presiden Soeharto Pada Peresmian Jalan Tembus Sentani-Genyem](https://soehartolibrary.id/1977-12-07-pidato-presiden-soeharto-pada-peresmian-jalan-tembus-sentani-genyem/) — diterbitkan di soehartolibrary.id pada 2013-12-12T07:00:52.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1977-12-07]):** [1977-12-07 Pidato Presiden Soeharto Pada Peresmian Jalan Tembus Sentani-Genyem](https://soehartolibrary.id/1977-12-07-pidato-presiden-soeharto-pada-peresmian-jalan-tembus-sentani-genyem/)

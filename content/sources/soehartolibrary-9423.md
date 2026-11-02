@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.9423
-entity_kind: source
 title: "1977-07-09 Amanat Presiden Soehart pada Upacara Pelantikan Duta Besar RI Untuk Polandia Dan Turki"
-date: "2013-12-08T17:00:32"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Amanat Presiden", "Dubes RI", "Duta Besar RI", "Polandia", "Presiden Soehart", "Soeharto", "Turki"]
-tanggal_subjek: "1977-07-09"
-slug_sumber: "1977-07-09-amanat-presiden-soehart-pada-upacara-pelantikan-duta-besar-ri-untuk-polandia-dan-turki"
-sumber: ["https://soehartolibrary.id/1977-07-09-amanat-presiden-soehart-pada-upacara-pelantikan-duta-besar-ri-untuk-polandia-dan-turki/"]
-ringkasan: "Amanat Presiden Soehart pada Upacara Pelantikan Duta Besar Luar Biasa dan Berkuasa Penuh Republik Indonesia Masing- masing untuk Republik Rakyat Polandia dan Republik Turki tanggal 9 Juli 1977 di Istana Negara, Jakarta."
+description: "Amanat Presiden Soehart pada Upacara Pelantikan Duta Besar Luar Biasa dan Berkuasa Penuh Republik Indonesia Masing- masi..."
+date: 1977-07-09
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1977-07-09-amanat-presiden-soehart-pada-upacara-pelantikan-duta-besar-ri-untuk-polandia-dan-turki"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1977-07-09-amanat-presiden-soehart-pada-upacara-pelantikan-duta-besar-ri-untuk-polandia-dan-turki/
+    judul: "1977-07-09 Amanat Presiden Soehart pada Upacara Pelantikan Duta Besar RI Untuk Polandia Dan Turki"
+    tanggal: 1977-07-09
+relasi: []
 ---
 
 Artikel sumber: [1977-07-09 Amanat Presiden Soehart pada Upacara Pelantikan Duta Besar RI Untuk Polandia Dan Turki](https://soehartolibrary.id/1977-07-09-amanat-presiden-soehart-pada-upacara-pelantikan-duta-besar-ri-untuk-polandia-dan-turki/) — diterbitkan di soehartolibrary.id pada 2013-12-08T17:00:32.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1977-07-09]):** [1977-07-09 Amanat Presiden Soehart pada Upacara Pelantikan Duta Besar RI Untuk Polandia Dan Turki](https://soehartolibrary.id/1977-07-09-amanat-presiden-soehart-pada-upacara-pelantikan-duta-besar-ri-untuk-polandia-dan-turki/)
