@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.1311
-entity_kind: source
 title: "1966-9-12 Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja II Ikatan Mahasiswa Administrasi Niaga"
-date: "2013-04-01T18:14:00"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Administrasi Niaga", "Jenderal Soeharto", "Kabinet Ampera", "Mahasiswa", "Musyawarah Kerja", "Pidato Presiden", "Presidium"]
-tanggal_subjek: ""
-slug_sumber: "1966-9-12-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-ii-ikatan-mahasiswa-administrasi-niaga"
-sumber: ["https://soehartolibrary.id/1966-9-12-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-ii-ikatan-mahasiswa-administrasi-niaga/"]
-ringkasan: "Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja II Ikatan Mahasiswa Administrasi Niaga Sambutan Ketua Presidium Kabinet Ampera Jenderal Soeharto pada Musyawarah Kerja II Mahasiswa Administrasi Niaga Negeri pada tanggal 12 September 1966 di Jakarta. Selengkapnya pidato tersebut dikemukakan sebagai berikut:"
+description: "Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja II Ikatan Mahasiswa Administrasi Niaga Sambutan ..."
+date: 2013-04-01
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1966-9-12-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-ii-ikatan-mahasiswa-administrasi-niaga"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1966-9-12-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-ii-ikatan-mahasiswa-administrasi-niaga/
+    judul: "1966-9-12 Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja II Ikatan Mahasiswa Administrasi Niaga"
+    tanggal: 2013-04-01
+relasi: []
 ---
 
 Artikel sumber: [1966-9-12 Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja II Ikatan Mahasiswa Administrasi Niaga](https://soehartolibrary.id/1966-9-12-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-ii-ikatan-mahasiswa-administrasi-niaga/) — diterbitkan di soehartolibrary.id pada 2013-04-01T18:14:00.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([2013-04-01]):** [1966-9-12 Sambutan Ketua Presidium AMPERA Jenderal Soeharto Pada Musyawarah Kerja II Ikatan Mahasiswa Administrasi Niaga](https://soehartolibrary.id/1966-9-12-sambutan-ketua-presidium-ampera-jenderal-soeharto-pada-musyawarah-kerja-ii-ikatan-mahasiswa-administrasi-niaga/)
