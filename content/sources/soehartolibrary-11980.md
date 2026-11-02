@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.11980
-entity_kind: source
 title: "1983-09-09 Sambutan Presiden Soeharto Pada Peresmian selesainya Pemugaran Stadion Sriwedari"
-date: "2014-02-12T01:00:03"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Presiden Soeharto", "sambutan presiden", "Soeharto", "Stadion Sriwedari"]
-tanggal_subjek: "1983-09-09"
-slug_sumber: "1983-09-09"
-sumber: ["https://soehartolibrary.id/1983-09-09/"]
-ringkasan: "Sambutan Presiden Soeharto pada Upacara Peresmian selesainya Pemugaran Stadion Sriwedari Surakarta tanggal 9 September 1983 di Surakarta, Jawa Tengah."
+description: "Sambutan Presiden Soeharto pada Upacara Peresmian selesainya Pemugaran Stadion Sriwedari Surakarta tanggal 9 September 1..."
+date: 1983-09-09
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1983-09-09"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1983-09-09/
+    judul: "1983-09-09 Sambutan Presiden Soeharto Pada Peresmian selesainya Pemugaran Stadion Sriwedari"
+    tanggal: 1983-09-09
+relasi: []
 ---
 
 Artikel sumber: [1983-09-09 Sambutan Presiden Soeharto Pada Peresmian selesainya Pemugaran Stadion Sriwedari](https://soehartolibrary.id/1983-09-09/) — diterbitkan di soehartolibrary.id pada 2014-02-12T01:00:03.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1983-09-09]):** [1983-09-09 Sambutan Presiden Soeharto Pada Peresmian selesainya Pemugaran Stadion Sriwedari](https://soehartolibrary.id/1983-09-09/)
