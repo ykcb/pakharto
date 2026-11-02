@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.15487
-entity_kind: source
 title: "1991-03-14 Sambutan Presiden Soeharto Pada Peresmian 21 Buah Pabrik Kelompok Industri Kimia Dasar Dan Sebuah Kawasan Industri"
-date: "2014-05-07T03:00:16"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Industri Kimia Dasar", "Kawasan Industri", "Presiden", "Presiden Soeharto", "sambutan presiden", "Soeharto"]
-tanggal_subjek: "1991-03-14"
-slug_sumber: "1991-03-14-sambutan-presiden-soeharto-pada-peresmian-21-buah-pabrik-kelompok-industri-kimia-dasar-dan-sebuah-kawasan-industri"
-sumber: ["https://soehartolibrary.id/1991-03-14-sambutan-presiden-soeharto-pada-peresmian-21-buah-pabrik-kelompok-industri-kimia-dasar-dan-sebuah-kawasan-industri/"]
-ringkasan: "Sambutan Presiden Soeharto pada Upacara Peresmian 21 Buah Pabrik Kelompok Industri Kimia Dasar dan Sebuah Kawasan Industri tanggal 14 Maret 1991 di Cikampek, Jawa Barat."
+description: "Sambutan Presiden Soeharto pada Upacara Peresmian 21 Buah Pabrik Kelompok Industri Kimia Dasar dan Sebuah Kawasan Indust..."
+date: 1991-03-14
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1991-03-14-sambutan-presiden-soeharto-pada-peresmian-21-buah-pabrik-kelompok-industri-kimia-dasar-dan-sebuah-kawasan-industri"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1991-03-14-sambutan-presiden-soeharto-pada-peresmian-21-buah-pabrik-kelompok-industri-kimia-dasar-dan-sebuah-kawasan-industri/
+    judul: "1991-03-14 Sambutan Presiden Soeharto Pada Peresmian 21 Buah Pabrik Kelompok Industri Kimia Dasar Dan Sebuah Kawasan Industri"
+    tanggal: 1991-03-14
+relasi: []
 ---
 
 Artikel sumber: [1991-03-14 Sambutan Presiden Soeharto Pada Peresmian 21 Buah Pabrik Kelompok Industri Kimia Dasar Dan Sebuah Kawasan Industri](https://soehartolibrary.id/1991-03-14-sambutan-presiden-soeharto-pada-peresmian-21-buah-pabrik-kelompok-industri-kimia-dasar-dan-sebuah-kawasan-industri/) — diterbitkan di soehartolibrary.id pada 2014-05-07T03:00:16.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1991-03-14]):** [1991-03-14 Sambutan Presiden Soeharto Pada Peresmian 21 Buah Pabrik Kelompok Industri Kimia Dasar Dan Sebuah Kawasan Industri](https://soehartolibrary.id/1991-03-14-sambutan-presiden-soeharto-pada-peresmian-21-buah-pabrik-kelompok-industri-kimia-dasar-dan-sebuah-kawasan-industri/)

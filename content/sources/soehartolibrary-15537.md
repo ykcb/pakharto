@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.15537
-entity_kind: source
 title: "1991-05-18 Sambutan Presiden Soeharto Pada Peresmian Penggunaan Waduk Serbaguna Kedung Ombo"
-date: "2014-05-08T21:00:58"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Kedung Ombo", "Presiden", "Presiden Soeharto", "sambutan presiden", "Soeharto", "Waduk Serbaguna"]
-tanggal_subjek: "1991-05-18"
-slug_sumber: "1991-05-18-sambutan-presiden-soeharto-pada-peresmian-penggunaan-waduk-serbaguna-kedung-ombo"
-sumber: ["https://soehartolibrary.id/1991-05-18-sambutan-presiden-soeharto-pada-peresmian-penggunaan-waduk-serbaguna-kedung-ombo/"]
-ringkasan: "Sambutan Presiden Soeharto pada Upacara Peresmian Penggunaan Waduk Serbaguna Kedung Ombo tanggal 18 Mei 1991 di Desa Kedung Ombo, Purwodadi Grobogan, Jawa Tengah."
+description: "Sambutan Presiden Soeharto pada Upacara Peresmian Penggunaan Waduk Serbaguna Kedung Ombo tanggal 18 Mei 1991 di Desa Ked..."
+date: 1991-05-18
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1991-05-18-sambutan-presiden-soeharto-pada-peresmian-penggunaan-waduk-serbaguna-kedung-ombo"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1991-05-18-sambutan-presiden-soeharto-pada-peresmian-penggunaan-waduk-serbaguna-kedung-ombo/
+    judul: "1991-05-18 Sambutan Presiden Soeharto Pada Peresmian Penggunaan Waduk Serbaguna Kedung Ombo"
+    tanggal: 1991-05-18
+relasi: []
 ---
 
 Artikel sumber: [1991-05-18 Sambutan Presiden Soeharto Pada Peresmian Penggunaan Waduk Serbaguna Kedung Ombo](https://soehartolibrary.id/1991-05-18-sambutan-presiden-soeharto-pada-peresmian-penggunaan-waduk-serbaguna-kedung-ombo/) — diterbitkan di soehartolibrary.id pada 2014-05-08T21:00:58.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1991-05-18]):** [1991-05-18 Sambutan Presiden Soeharto Pada Peresmian Penggunaan Waduk Serbaguna Kedung Ombo](https://soehartolibrary.id/1991-05-18-sambutan-presiden-soeharto-pada-peresmian-penggunaan-waduk-serbaguna-kedung-ombo/)

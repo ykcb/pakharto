@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.15488
-entity_kind: source
 title: "1991-03-16 Sambutan Presiden Soeharto Saat Menerima Para Peserta Seminar TNI-AU 1991"
-date: "2014-05-07T05:00:30"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Presiden", "Presiden Soeharto", "sambutan presiden", "Soeharto", "TNI AU"]
-tanggal_subjek: "1991-03-16"
-slug_sumber: "1991-03-16-sambutan-presiden-soeharto-saat-menerima-para-peserta-seminar-tni-au-1991"
-sumber: ["https://soehartolibrary.id/1991-03-16-sambutan-presiden-soeharto-saat-menerima-para-peserta-seminar-tni-au-1991/"]
-ringkasan: "Sambutan Presiden Soeharto pada waktu Menerima Para Peserta Seminar TNI-AU 1991 tanggal 16 Maret 1991 di Bina Graha, Jakarta."
+description: "Sambutan Presiden Soeharto pada waktu Menerima Para Peserta Seminar TNI-AU 1991 tanggal 16 Maret 1991 di Bina Graha, Jak..."
+date: 1991-03-16
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1991-03-16-sambutan-presiden-soeharto-saat-menerima-para-peserta-seminar-tni-au-1991"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1991-03-16-sambutan-presiden-soeharto-saat-menerima-para-peserta-seminar-tni-au-1991/
+    judul: "1991-03-16 Sambutan Presiden Soeharto Saat Menerima Para Peserta Seminar TNI-AU 1991"
+    tanggal: 1991-03-16
+relasi: []
 ---
 
 Artikel sumber: [1991-03-16 Sambutan Presiden Soeharto Saat Menerima Para Peserta Seminar TNI-AU 1991](https://soehartolibrary.id/1991-03-16-sambutan-presiden-soeharto-saat-menerima-para-peserta-seminar-tni-au-1991/) — diterbitkan di soehartolibrary.id pada 2014-05-07T05:00:30.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1991-03-16]):** [1991-03-16 Sambutan Presiden Soeharto Saat Menerima Para Peserta Seminar TNI-AU 1991](https://soehartolibrary.id/1991-03-16-sambutan-presiden-soeharto-saat-menerima-para-peserta-seminar-tni-au-1991/)
