@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.10798
-entity_kind: source
 title: "1980-09-30 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-surat Kepercayaan Dubes Guinea"
-date: "2014-01-07T19:00:08"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Guinea"]
-tanggal_subjek: "1980-09-30"
-slug_sumber: "1980-09-30-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-guinea"
-sumber: ["https://soehartolibrary.id/1980-09-30-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-guinea/"]
-ringkasan: "Pidato Balasan Presiden Soeharto pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Mandiou Toure, Duta Besar Luar Biasa dan Berkuasa Penuh Republik Rakyat Revolusioner Guinea untuk Republik Indonesia tanggal 30 September 1980 di Istana Merdeka, Jakarta"
+description: "Pidato Balasan Presiden Soeharto pada Upacara Penyerahan Surat-surat Kepercayaan Yang Mulia Mandiou Toure, Duta Besar Lu..."
+date: 1980-09-30
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1980-09-30-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-guinea"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1980-09-30-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-guinea/
+    judul: "1980-09-30 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-surat Kepercayaan Dubes Guinea"
+    tanggal: 1980-09-30
+relasi: []
 ---
 
 Artikel sumber: [1980-09-30 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-surat Kepercayaan Dubes Guinea](https://soehartolibrary.id/1980-09-30-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-guinea/) — diterbitkan di soehartolibrary.id pada 2014-01-07T19:00:08.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1980-09-30]):** [1980-09-30 Pidato Balasan Presiden Soeharto Pada Upacara Penyerahan Surat-surat Kepercayaan Dubes Guinea](https://soehartolibrary.id/1980-09-30-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-guinea/)
