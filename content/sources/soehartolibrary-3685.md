@@ -1,19 +1,28 @@
 ---
-id: source.soehartolibrary.3685
-entity_kind: source
 title: "1967-11-25 Briefing Pejabat Presiden Soeharto di Kupang"
-date: "2013-07-24T18:00:32"
-status: draft
-source_ids: []
-relations: []
-kategori_sumber: "Pidato"
-tag_sumber: ["Briefing", "Jenderal Soeharto", "Kupang", "Nusa Tenggara Timur", "Pejabat Presiden", "Pidato"]
-tanggal_subjek: "1967-11-25"
-slug_sumber: "1967-11-25-briefing-pejabat-presiden-soeharto-di-kupang"
-sumber: ["https://soehartolibrary.id/1967-11-25-briefing-pejabat-presiden-soeharto-di-kupang/"]
-ringkasan: "Briefing Pejabat Presiden Republik Indonesia Jenderal Soeharto di Kupang pada tanggal 25 November 1967 di Kupang Nusa Tenggara Timur. Naskah pidato secara keseluruhan dikemukakan sebagai berikut"
+description: "Briefing Pejabat Presiden Republik Indonesia Jenderal Soeharto di Kupang pada tanggal 25 November 1967 di Kupang Nusa Te..."
+date: 1967-11-25
+updated: 2026-11-02
+last_updated: "2026-11-02"
+entity_type: topik
+entity_id: "1967-11-25-briefing-pejabat-presiden-soeharto-di-kupang"
+aliases: []
+tags: ['sumber', 'orde-baru', 'pidato']
+kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: sedang
+status: ""
+confidence: medium
+sumber:
+  - url: https://soehartolibrary.id/1967-11-25-briefing-pejabat-presiden-soeharto-di-kupang/
+    judul: "1967-11-25 Briefing Pejabat Presiden Soeharto di Kupang"
+    tanggal: 1967-11-25
+relasi: []
 ---
 
 Artikel sumber: [1967-11-25 Briefing Pejabat Presiden Soeharto di Kupang](https://soehartolibrary.id/1967-11-25-briefing-pejabat-presiden-soeharto-di-kupang/) — diterbitkan di soehartolibrary.id pada 2013-07-24T18:00:32.
 
 Halaman ini dibuat otomatis (pilot kurasi) dari arsip korpus; ringkasan di frontmatter adalah kutipan verbatim pembuka artikel.
+
+## Sumber
+- **[soehartolibrary.id] ([1967-11-25]):** [1967-11-25 Briefing Pejabat Presiden Soeharto di Kupang](https://soehartolibrary.id/1967-11-25-briefing-pejabat-presiden-soeharto-di-kupang/)
