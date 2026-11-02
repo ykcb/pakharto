@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
-Indexer SQLite FTS5 untuk Wiki Soeharto.
+Indexer SQLite FTS5 + Entities + Relations untuk Wiki Soeharto.
 Membangun index pencarian dari content/*.md dan content/**/*.md.
 """
 
 import sqlite3
 import re
+import hashlib
 from pathlib import Path
 from datetime import datetime, timezone
+import yaml
 
 REPO = Path('/home/ubuntu/quartz')
 CONTENT = REPO / 'content'
@@ -15,33 +17,25 @@ DB_PATH = REPO / 'scripts/indexer/wiki-fts5.db'
 
 SKIP_FILES = {'_index.md', 'index.md'}
 
-FM_RE = re.compile(r'^---\n(.*?)\n---\n(.*)$', re.DOTALL)
-FIELD_RE = re.compile(r'^(\w[\w-]*):\s*(.*)$', re.MULTILINE)
-
 
 def parse_frontmatter(text):
-    m = FM_RE.match(text)
+    m = re.match(r'^---\n(.*?)\n---\n(.*)$', text, re.DOTALL)
     if not m:
         return {}, text
     fm_text, body = m.group(1), m.group(2)
-    data = {}
-    for line in fm_text.splitlines():
-        fm = FIELD_RE.match(line)
-        if fm:
-            k, v = fm.group(1), fm.group(2).strip()
-            if v.startswith('[') and v.endswith(']'):
-                try:
-                    v = eval(v)
-                except Exception:
-                    pass
-            elif v.startswith('"') and v.endswith('"'):
-                v = v[1:-1]
-            data[k] = v
+    try:
+        data = yaml.safe_load(fm_text) or {}
+    except Exception:
+        data = {}
     return data, body
 
 
 def collect_files():
     return sorted(set(f for f in CONTENT.rglob('*.md') if f.name not in SKIP_FILES))
+
+
+def content_hash(text):
+    return hashlib.sha256(text.encode('utf-8', errors='ignore')).hexdigest()
 
 
 def build_index(files):
@@ -61,7 +55,31 @@ def build_index(files):
             entity_id UNINDEXED,
             kategori UNINDEXED,
             tags UNINDEXED,
+            content_hash UNINDEXED,
             tokenize = 'porter unicode61'
+        )
+    ''')
+    c.execute('''
+        CREATE TABLE entities (
+            entity_id TEXT PRIMARY KEY,
+            entity_type TEXT,
+            title TEXT,
+            description TEXT,
+            path TEXT UNIQUE,
+            kategori TEXT,
+            aliases TEXT,
+            tags TEXT,
+            content_hash TEXT
+        )
+    ''')
+    c.execute('''
+        CREATE TABLE relations (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            source_entity TEXT,
+            predikat TEXT,
+            target_entity TEXT,
+            sumber TEXT,
+            UNIQUE(source_entity, predikat, target_entity, sumber)
         )
     ''')
     c.execute('''
@@ -70,6 +88,9 @@ def build_index(files):
             value TEXT
         )
     ''')
+    c.execute('CREATE INDEX IF NOT EXISTS idx_relations_source ON relations(source_entity)')
+    c.execute('CREATE INDEX IF NOT EXISTS idx_relations_target ON relations(target_entity)')
+    c.execute('CREATE INDEX IF NOT EXISTS idx_relations_predikat ON relations(predikat)')
 
     now = datetime.now(timezone.utc).isoformat()
     count = 0
@@ -84,11 +105,58 @@ def build_index(files):
             entity_type = fm.get('entity_type', '')
             entity_id = fm.get('entity_id', '')
             kategori = fm.get('kategori', '')
-            tags = ','.join(fm.get('tags', [])) if isinstance(fm.get('tags'), list) else str(fm.get('tags', ''))
+            aliases = fm.get('aliases', [])
+            tags = fm.get('tags', [])
+            chash = content_hash(text)
+
+            # FTS5
             c.execute(
-                'INSERT INTO pages (path,title,description,body,entity_type,entity_id,kategori,tags) VALUES (?,?,?,?,?,?,?,?)',
-                (path, title, desc, body, entity_type, entity_id, kategori, tags)
+                'INSERT INTO pages (path,title,description,body,entity_type,entity_id,kategori,tags,content_hash) VALUES (?,?,?,?,?,?,?,?,?)',
+                (path, title, desc, body, entity_type, entity_id, kategori,
+                 ','.join(tags) if isinstance(tags, list) else str(tags),
+                 chash)
             )
+
+            # Entities
+            if entity_id:
+                c.execute(
+                    'INSERT OR REPLACE INTO entities (entity_id,entity_type,title,description,path,kategori,aliases,tags,content_hash) VALUES (?,?,?,?,?,?,?,?,?)',
+                    (entity_id, entity_type, title, desc, path, kategori,
+                     ','.join(aliases) if isinstance(aliases, list) else str(aliases),
+                     ','.join(tags) if isinstance(tags, list) else str(tags),
+                     chash)
+                )
+
+            # Relations from frontmatter relasi[]
+            rels = fm.get('relasi', [])
+            if isinstance(rels, list):
+                for r in rels:
+                    if isinstance(r, dict):
+                        src = entity_id or path
+                        pred = r.get('predikat', '')
+                        obj = r.get('objek', '')
+                        src_url = r.get('sumber', '')
+                        if src and pred and obj:
+                            try:
+                                c.execute(
+                                    'INSERT OR IGNORE INTO relations (source_entity,predikat,target_entity,sumber) VALUES (?,?,?,?)',
+                                    (src, pred, obj, src_url)
+                                )
+                            except Exception:
+                                pass
+
+            # Also extract relations from wikilinks in body: [[Target]]
+            for m in re.finditer(r'\[\[([^\]]+)\]\]', body):
+                target = m.group(1).split('|')[0].strip()
+                if target:
+                    try:
+                        c.execute(
+                            'INSERT OR IGNORE INTO relations (source_entity,predikat,target_entity,sumber) VALUES (?,?,?,?)',
+                            (entity_id or title, 'wikilink', target, path)
+                        )
+                    except Exception:
+                        pass
+
             count += 1
         except Exception as e:
             errors.append(f'{f}: {e}')
@@ -104,7 +172,7 @@ def main():
     print('Mengumpulkan file markdown...')
     files = collect_files()
     print(f'Ditemukan {len(files)} file')
-    print('Membangun index FTS5...')
+    print('Membangun index FTS5 + entities + relations...')
     count, errors = build_index(files)
     print(f'Index selesai: {count} file masuk, {len(errors)} error')
     if errors:
