@@ -108,6 +108,14 @@ flowchart TD
 
 ---
 
+## 📚 Track Pelajaran: Apa yang Bisa Dipelajari?
+
+Track baru yang menggali *best practices* era Orde Baru yang masih relevan hari ini — dari kebijakan negara hingga perilaku bermasyarakat seperti gotong royong. Setiap halaman disusun tiga lapis: **Fakta** (data terverifikasi), **Inferensi** berlabel (tafsir tim kurasi, bukan fakta), dan **Batas data** — plus disclaimer di setiap halaman.
+
+- [[pelajaran|Jelajahi Track Pelajaran]] — halaman perdana: [[pelajaran/gotong-royong|Pelajaran: Gotong Royong]]
+
+---
+
 ## 📌 Halaman Induk & Aktor Utama
 
 - **Peta Sistemik Lengkap**: [[hub/orde-baru|Orde Baru (1966–1998)]] — Ringkasan periodisasi 32 tahun, perbandingan capaian vs kelemahan, dan warisan kelembagaan.

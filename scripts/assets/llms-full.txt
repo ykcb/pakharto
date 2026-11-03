@@ -45,21 +45,21 @@ Kategori ini menelusuri arsitektur ekonomi Orde Baru: perumusan kebijakan pemban
 
 
 ======================================================================
-DOKUMEN: Siapa Diawasi, Siapa Dibungkam?
+DOKUMEN: Keamanan dan Kebebasan
 Kategori: keamanan-dan-kebebasan | Path: content/kategori/keamanan-dan-kebebasan.md
 ======================================================================
 
-# Siapa Diawasi, Siapa Dibungkam?
+# Keamanan dan Kebebasan
 
-> **Deskriptor:** Keamanan negara, intelijen, sensor pers, Kopkamtib/Bakin, dan penindakan terhadap kritik serta oposisi politik.
+> **Deskriptor:** Keamanan negara, intelijen, pengaturan pers, Kopkamtib/Bakin, dan penanganan kritik serta oposisi politik.
 
 Kategori ini menyajikan fakta dan dokumentasi historis mengenai aparatus keamanan negara, pengawasan terhadap masyarakat sipil, pembatasan kebebasan pers, dan penanganan konflik internal.
 
 ## Ruang Lingkup
-- **Aparatus Keamanan Ekstra-Yudisial:** Kopkamtib, Bakin, Bais, dan mekanisme Litsus (Penelitian Khusus).
-- **Pengawasan Pers & Ruang Publik:** Sistem SIUPP, sensor media massa, dan peristiwa pembredelan (1974, 1978, 1994).
+- **Aparatus Keamanan Negara:** Kopkamtib, Bakin, Bais, dan mekanisme Litsus (Penelitian Khusus).
+- **Pengawasan Pers & Ruang Publik:** Sistem SIUPP, pembatasan media massa, dan peristiwa pembredelan (1974, 1978, 1994).
 - **Penindakan & Peristiwa Keamanan:** Dokumentasi peristiwa Malari 1974, Petrus (1983–1985), Tanjung Priok 1984, Talangsari 1989, dan Operasi Militer di Aceh/Timor Timur.
-- **Pembatasan Oposisi Politik:** Kasus Petisi 50, pembungkaman aktivis mahasiswa, dan pengawasan ketat terhadap eks-tapol.
+- **Pembatasan Oposisi Politik:** Kasus Petisi 50, penindakan terhadap aktivis mahasiswa, dan pengawasan ketat terhadap eks-tapol.
 
 ## Daftar Entri
 *(Halaman hub dan analisis akan ditautkan secara bertahap melalui proses review PR)*
@@ -323,11 +323,11 @@ DOKUMEN: Stabilitas Nasional
 Kategori: kekuasaan-dan-legitimasi | Path: content/konsep/stabilitas-nasional.md
 ======================================================================
 
-**Stabilitas Nasional** adalah konsep sentral Orde Baru yang menempatkan ketahanan politik, keamanan, dan sosial sebagai prasyarat utama pembangunan ekonomi dan legitimasi rezim.
+**Stabilitas Nasional** adalah konsep sentral Orde Baru yang menempatkan ketahanan politik, keamanan, dan sosial sebagai prasyarat utama pembangunan ekonomi dan legitimasi pemerintahan.
 
 ## Definisi
 
-Stabilitas Nasional didefinisikan sebagai kondisi di mana sistem politik, ekonomi, dan sosial berjalan tanpa gangguan serius yang dapat membatalkan tujuan pembangunan. Konsep ini digunakan untuk membenarkan pembatasan kebebasan politik dan keamanan yang ketat.
+Stabilitas Nasional didefinisikan sebagai kondisi di mana sistem politik, ekonomi, dan sosial berjalan tanpa gangguan serius yang dapat membatalkan tujuan pembangunan. Konsep ini menjadi dasar pembatasan kebebasan politik dan pengamanan yang ketat.
 
 ## Mekanisme
 
@@ -338,7 +338,7 @@ Stabilitas Nasional didefinisikan sebagai kondisi di mana sistem politik, ekonom
 
 ## Kritik
 
-- Kritik menekankan bahwa stabilitas digunakan sebagai dalih untuk menekan oposisi dan membungkam kritik.
+- Para kritik menilai stabilitas dipakai untuk menekan oposisi dan membatasi kritik.
 - Meskipun indikator ekonomi tumbuh, stabilitas politik dibangun dengan biaya pembatasan hak politik.
 
 ## Warisan
@@ -463,12 +463,12 @@ DOKUMEN: Peristiwa Malari 1974
 Kategori: keamanan-dan-kebebasan | Path: content/peristiwa/malari-1974.md
 ======================================================================
 
-> **Ringkasan:** Peristiwa Malari (Malapetaka Lima Belas Januari 1974) adalah gelombang demonstrasi mahasiswa terbesar pada dekade pertama Orde Baru yang memprotes penetrasi modal asing Jepang, korupsi lingkaran istana, dan lembaga Asisten Pribadi (Aspri) Presiden saat kunjungan Perdana Menteri Jepang Kakuei Tanaka ke Jakarta. Aksi damai berujung pada pembakaran pusat perbelanjaan Pasar Senen, korban jiwa 11 orang, dan dimanfaatkan rezim untuk menyingkirkan faksi militer oposan Jenderal Soemitro, membubarkan dewan mahasiswa lewat konsep Normalisasi Kehidupan Kampus (NKK/BKK), serta membredel 12 surat kabar independen.
+> **Ringkasan:** Peristiwa Malari (Malapetaka Lima Belas Januari 1974) adalah gelombang demonstrasi mahasiswa terbesar pada dekade pertama Orde Baru yang memprotes penetrasi modal asing Jepang, korupsi lingkaran istana, dan lembaga Asisten Pribadi (Aspri) Presiden saat kunjungan Perdana Menteri Jepang Kakuei Tanaka ke Jakarta. Aksi damai berujung pada pembakaran pusat perbelanjaan Pasar Senen, korban jiwa 11 orang, dan dimanfaatkan pemerintah untuk menyingkirkan faksi militer oposan Jenderal Soemitro, membubarkan dewan mahasiswa lewat konsep Normalisasi Kehidupan Kampus (NKK/BKK), serta membredel 12 surat kabar independen.
 
 ## Apa relevansinya dengan anak muda?
-Peristiwa Malari adalah titik balik struktural yang mematikan kebebasan politik mahasiswa dan ruang pers bebas di Indonesia selama hampir seperempat abad. Kebijakan Normalisasi Kehidupan Kampus/Badan Koordinasi Kemahasiswaan (NKK/BKK) yang diberlakukan pasca-Malari secara sengaja mencabut hak mahasiswa untuk berorganisasi dan bersuara kritis di lingkungan akademik, mengubah watak kampus dari pusat aktivisme sosial menjadi sekadar pabrik tenaga kerja teknis.
+Peristiwa Malari adalah titik balik struktural yang mematikan kebebasan politik mahasiswa dan ruang pers bebas di Indonesia selama hampir seperempat abad. Kebijakan Normalisasi Kehidupan Kampus/Badan Koordinasi Kemahasiswaan (NKK/BKK) yang diberlakukan pasca-Malari mencabut hak mahasiswa untuk berorganisasi dan bersuara kritis di lingkungan akademik, mengubah watak kampus dari pusat aktivisme sosial menjadi lembaga pendidikan yang depolitisasi.
 
-Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral mahasiswa yang sah mengenai kemandirian ekonomi dan keadilan sosial dapat dibelokkan oleh rekayasa konflik intelijen antar-elit bersenjata untuk melegitimasi tindakan represif negara.
+Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral mahasiswa yang sah mengenai kemandirian ekonomi dan keadilan sosial dapat dimanfaatkan oleh konflik intelijen antar-elit bersenjata untuk melegitimasi pengetatan keamanan negara.
 
 ## Fakta kunci
 
@@ -505,11 +505,11 @@ Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral maha
 - Kelanjutan dari penertiban mahasiswa pasca-Malari: Menteri Pendidikan dan Kebudayaan Daoed Joesoef mengesahkan SK No. 0156/U/1978 tentang Normalisasi Kehidupan Kampus (NKK), membubarkan Dewan Mahasiswa universitas dan melarang seluruh bentuk kegiatan politik praktis di dalam kampus.
 
 ## Aktor yang terlibat
-- Soeharto — Presiden RI yang mengambil tindakan politik pembersihan faksi militer dan pengetatan kendali negara.
+- Soeharto — Presiden RI yang mencopot faksi militer oposan dan mengetatkan kendali negara.
 - **Hariman Siregar** — Ketua Dewan Mahasiswa Universitas Indonesia (DM-UI), diadili dan dijatuhi hukuman penjara 6 tahun sebagai penggerak aksi.
-- **Jenderal Soemitro** — Wakil Panglima ABRI dan Panglima Kopkamtib, rival faksi politik istana yang dicopot dan dipensiunkan pasca-kerusuhan.
+- **Jenderal Soemitro** — Wakil Panglima ABRI dan Panglima Kopkamtib, yang dicopot dan dipensiunkan pasca-kerusuhan.
 - **Mayjen Ali Moertopo** — Asisten Pribadi Presiden Bidang Khusus (Aspri) dan Kepala Opsus/Bakin, sasaran utama kritik mahasiswa terkait dominasi modal Jepang dan manipulasi politik.
-- **Mochtar Lubis & Rosihan Anwar** — Tokoh jurnalis senior nasional yang media cetaknya dibredel secara permanen oleh penguasa militer.
+- **Mochtar Lubis & Rosihan Anwar** — Tokoh jurnalis senior nasional yang media cetaknya dibredel secara permanen oleh pemerintah.
 - **Kakuei Tanaka** — Perdana Menteri Jepang yang menjadi simbol sasaran protes penetrasi modal asing di Asia Tenggara.
 
 ## Sumber
@@ -519,7 +519,7 @@ Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral maha
 - **PWI / Dewan Pers (1974):** Dokumentasi Pembredelan Surat Kabar Harian Ibu Kota.
 
 ## Catatan presisi
-- **Dalang Kerusuhan Senen:** Hingga hari ini terdapat dua narasi utama sejarah mengenai pemicu kerusuhan: narasi resmi penguasa Orde Baru menuduh adanya konspirasi elemen sisa PSI dan Masyumi bersama Dewan Mahasiswa untuk menggulingkan Presiden Soeharto; sedangkan narasi independen dan kalangan aktivis meyakini kerusuhan Pasar Senen diprovokasi oleh jaringan binaan intelijen (Opsus) untuk memojokkan Jenderal Soemitro dan melegitimasi pembersihan politik secara total.
+- **Dalang Kerusuhan Senen:** Hingga hari ini terdapat dua narasi utama sejarah mengenai pemicu kerusuhan: narasi resmi penguasa Orde Baru menuduh adanya konspirasi elemen sisa PSI dan Masyumi bersama Dewan Mahasiswa untuk menggulingkan Presiden Soeharto; sedangkan narasi independen dan kalangan aktivis meyakini kerusuhan Pasar Senen diprovokasi oleh jaringan binaan intelijen (Opsus) untuk mendiskreditkan Jenderal Soemitro dan melegitimasi penindakan politik.
 - **Perbedaan Sikap Demonstrasi vs Kerusuhan:** Aksi mahasiswa pada pagi 15 Januari berlangsung tertib di dalam lingkungan kampus dan jalan raya, sementara pembakaran Pasar Senen dilakukan oleh kelompok massa luar yang bergerak secara terorganisir beberapa jam setelah unjuk rasa mahasiswa dibubarkan.
 
 
@@ -528,12 +528,12 @@ DOKUMEN: Floating Mass (Massa Mengambang)
 Kategori: kekuasaan-dan-legitimasi | Path: content/konsep/floating-mass.md
 ======================================================================
 
-> **Ringkasan:** *Floating Mass* (Massa Mengambang) adalah doktrin politik resmi Orde Baru yang digagas pasca-Pemilu 1971 oleh faksi militer dan intelektual CSIS di bawah Jenderal Ali Moertopo. Doktrin ini melarang seluruh partai politik (Partai Persatuan Pembangunan dan Partai Demokrasi Indonesia) memiliki komisariat atau cabang pengurus di tingkat kecamatan, desa, dan kelurahan, dengan dalih agar masyarakat pedesaan tidak terpecah-belah oleh konflik ideologis dan dapat fokus sepenuhnya pada program pembangunan ekonomi.
+> **Ringkasan:** *Floating Mass* (Massa Mengambang) adalah doktrin politik resmi Orde Baru yang digagas pasca-Pemilu 1971 oleh faksi militer dan intelektual CSIS di bawah Jenderal Ali Moertopo. Doktrin ini melarang seluruh partai politik (Partai Persatuan Pembangunan dan Partai Demokrasi Indonesia) memiliki komisariat atau cabang pengurus di tingkat kecamatan, desa, dan kelurahan, dengan alasan agar masyarakat pedesaan tidak terpecah-belah oleh konflik ideologis dan dapat fokus sepenuhnya pada program pembangunan ekonomi.
 
 ## Apa relevansinya dengan anak muda?
 Konsep *floating mass* menciptakan budaya politik pasif (*apolitis*) yang masih membekas hingga hari ini, di mana warga masyarakat di luar lingkaran elit kota sering kali diposisikan hanya sebagai objek mobilisasi elektoral berkala lima tahunan, bukan subjek politik berdaya yang mengawasi kebijakan anggaran publik.
 
-Memahami *floating mass* membantu generasi muda membaca mengapa struktur masyarakat pedesaan Indonesia selama puluhan tahun kehilangan daya tawar kolektif dalam menghadapi sengketa agraria, penggusuran lahan perkebunan, dan perusakan lingkungan, karena wadah organisasi politik mandiri di tingkat desa sengaja dieliminasi oleh undang-undang negara.
+Memahami *floating mass* membantu generasi muda membaca mengapa struktur masyarakat pedesaan Indonesia selama puluhan tahun kehilangan daya tawar kolektif dalam menghadapi sengketa agraria, penggusuran lahan perkebunan, dan perusakan lingkungan, karena wadah organisasi politik mandiri di tingkat desa dihilangkan oleh undang-undang negara.
 
 ## Cara kerja dalam praktik
 
@@ -543,7 +543,7 @@ Dalam penerapannya, doktrin ini menciptakan ketimpangan struktural yang sangat b
    Berdasarkan UU No. 3 Tahun 1975 tentang Partai Politik dan Golongan Karya, kepengurusan PPP dan PDI dibatasi hanya sampai tingkat Daerah Tingkat II (Kabupaten/Kotamadya). Di tingkat kecamatan dan desa, partai hanya diperkenankan menunjuk satu orang "komisaris" tanpa boleh membentuk cabang atau menggelar kegiatan rapat umum di luar masa kampanye resmi pemilu.
 
 2. **Akses Istimewa Golongan Karya (Golkar):**
-   Meskipun aturan formal berlaku bagi Golkar, mesin Golkar menumpang pada struktur hierarki birokrasi pemerintahan desa dan korps pegawai negeri (KORPRI) yang dipimpin oleh Kepala Desa (Lurah), Camat, dan Bupati. Kepala Desa bertindak sebagai pembina politik desa yang otomatis mengarahkan pemilih ke Golkar, menciptakan ilusi "massa yang bebas dari politik" padahal secara de facto dimonopoli oleh kekuasaan negara.
+   Meskipun aturan formal berlaku bagi Golkar, mesin Golkar menumpang pada struktur hierarki birokrasi pemerintahan desa dan korps pegawai negeri (KORPRI) yang dipimpin oleh Kepala Desa (Lurah), Camat, dan Bupati. Kepala Desa bertindak sebagai pembina politik desa yang otomatis mengarahkan pemilih ke Golkar, menciptakan kesan massa yang bebas dari politik, sementara secara de facto dimobilisasi oleh kekuasaan negara.
 
 3. **Mobilisasi Tertutup:**
    Rakyat hanya "diizinkan" bersentuhan dengan aktivitas politik selama masa kampanye resmi pemilu (biasanya 25 hingga 30 hari). Di luar periode itu, setiap upaya pengorganisasian petani atau warga desa di luar jalur organisasi tunggal bentukan pemerintah (seperti HKTI untuk petani atau KUD untuk koperasi) dapat dituduh sebagai tindakan subversif pemecah-belah stabilitas nasional.
@@ -572,10 +572,10 @@ DOKUMEN: KKN (Korupsi, Kolusi, dan Nepotisme)
 Kategori: ekonomi-dan-kepemilikan | Path: content/konsep/kkn.md
 ======================================================================
 
-> **Ringkasan:** KKN (Korupsi, Kolusi, dan Nepotisme) adalah akronim dan istilah politik historis yang lahir pada paruh kedua dekade 1990-an untuk mendeskripsikan integrasi antara kekuasaan birokrasi negara, fasilitas keuangan perbankan pemerintah, dan imperium bisnis keluarga istana beserta lingkaran pengusaha kroni. Fenomena ini menjadi sasaran kritik paling keras mahasiswa dalam Gerakan Reformasi 1998 dan kemudian dilembagakan sebagai mandat pembersihan aparatur negara melalui Ketetapan MPR No. XI/MPR/1998.
+> **Ringkasan:** KKN (Korupsi, Kolusi, dan Nepotisme) adalah akronim dan istilah politik historis yang lahir pada paruh kedua dekade 1990-an untuk mendeskripsikan integrasi antara kekuasaan birokrasi negara, fasilitas keuangan perbankan pemerintah, dan jaringan bisnis keluarga serta pengusaha yang dekat dengan lingkaran kekuasaan. Fenomena ini menjadi sasaran kritik paling keras mahasiswa dalam Gerakan Reformasi 1998 dan kemudian dilembagakan sebagai mandat pembersihan aparatur negara melalui Ketetapan MPR No. XI/MPR/1998.
 
 ## Apa relevansinya dengan anak muda?
-Istilah KKN bukan sekadar jargon politik jalanan, melainkan diagnosis atas penyakit struktural yang membuat sistem ekonomi nasional kolaps pada 1997–1998. Praktik kredit perbankan tanpa agunan yang layak bagi konglomerat kroni (*connected lending*) pada era itu harus ditalangi oleh uang rakyat melalui dana Bantuan Likuiditas Bank Indonesia (BLBI) yang beban pokok dan bunganya membebani Anggaran Pendapatan dan Belanja Negara (APBN) selama berpuluh-puluh tahun.
+Istilah KKN bukan sekadar jargon politik jalanan, melainkan sebutan bagi persoalan struktural — kedekatan penguasa-pengusaha dan lemahnya pengawasan — yang menurut para pengkritik memperparah keruntuhan ekonomi 1997–1998. Praktik kredit perbankan tanpa agunan yang layak bagi konglomerat kroni (*connected lending*) pada era itu ditalangi oleh dana publik melalui Bantuan Likuiditas Bank Indonesia (BLBI) yang beban pokok dan bunganya membebani Anggaran Pendapatan dan Belanja Negara (APBN) selama berpuluh-puluh tahun.
 
 Bagi generasi muda, memahami anatomis KKN pada era Orde Baru memberikan pemahaman kritis untuk mengenali pola-pola kartel bisnis, konflik kepentingan pejabat publik yang merangkap pengusaha (*conflict of interest*), serta privatisasi aset-aset publik yang masih kerap berulang dengan bentuk baru di era modern.
 
@@ -587,7 +587,7 @@ Dalam dokumen-dokumen resmi pasca-1998 dan kajian ekonomi politik, KKN di era Or
    Pemerintah menerbitkan izin khusus, kuota impor, atau hak monopoli distribusi komoditas strategis kepada perusahaan keluarga atau kroni tertentu. Contoh terdokumentasi mencakup Badan Penyangga dan Pemasar Cengkeh (BPPC), monopoli tata niaga terigu dan kedelai, proyek Mobil Nasional Timor, hingga konsesi Hak Pengusahaan Hutan (HPH) jutaan hektare di luar Jawa.
 
 2. **Penyalahgunaan Fasilitas Keuangan & Yayasan:**
-   Pengerahan dana dari yayasan-yayasan non-bujeter yang diketuai langsung oleh Presiden (antara lain Yayasan Supersemar, Yayasan Dakab, Yayasan Dharmais) yang menghimpun potongan laba BUMN dan dana wajib perbankan untuk dialirkan ke proyek-proyek non-transparan dan investasi konglomerasi terafiliasi.
+   Pengerahan dana dari yayasan-yayasan non-bujeter yang diketuai langsung oleh Presiden (antara lain Yayasan Supersemar, Yayasan Dakab, Yayasan Dharmais) yang menghimpun potongan laba BUMN dan dana wajib perbankan untuk dialirkan ke berbagai proyek dan investasi konglomerasi terafiliasi.
 
 3. **Perlindungan Politik atas Pelanggaran Batas Maksimum Pemberian Kredit (BMPK):**
    Bank-bank swasta milik konglomerat melanggar ketentuan perbankan nasional dengan menyalurkan dana simpanan masyarakat kepada grup perusahaan milik pemilik bank itu sendiri tanpa batasan risiko yang wajar. Ketika krisis moneter 1997 melanda, bank-bank ini mengalami gagal bayar dan diselamatkan oleh kucuran likuiditas darurat negara.
@@ -740,14 +740,14 @@ Secara bersamaan, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahu
 - Federasi Buruh Seluruh Indonesia (FBSI) diubah secara sepihak oleh pemerintah menjadi Serikat Pekerja Seluruh Indonesia (SPSI), menjadikannya wadah korporatis tunggal serikat pekerja di bawah binaan Departemen Tenaga Kerja dan Kopkamtib.
 
 ### 1993-05-08
-- Terbunuhnya Marsinah, aktivis buruh PT Catur Putra Surya di Porong, Sidoarjo, Jawa Timur, setelah memimpin aksi pemogokan menuntut kenaikan upah sesuai instruksi gubernur. Kasus ini menjadi simbol internasional penindasan hak-hak buruh oleh aparat militer teritorial Orde Baru.
+- Terbunuhnya Marsinah, aktivis buruh PT Catur Putra Surya di Porong, Sidoarjo, Jawa Timur, setelah memimpin aksi pemogokan menuntut kenaikan upah sesuai instruksi gubernur. Kasus ini menjadi sorotan internasional mengenai perlakuan terhadap hak-hak buruh oleh aparat militer teritorial Orde Baru.
 
 ## Aktor yang terlibat
 - Soeharto — Pemrakarsa utama program Inpres (SD Inpres, Pasar Inpres, Jalan Inpres) dan tokoh sentral di balik penghargaan kependudukan PBB (*UN Population Award* 1989).
 - **Haryono Suyono** — Kepala BKKBN terlama (1983–1998) yang memimpin orkestrasi kampanye sosial KB hingga ke tingkat desa.
 - **Daoed Joesoef & Fuad Hassan** — Menteri Pendidikan dan Kebudayaan yang mengelola program Wajib Belajar 6 Tahun (1984) dan penataan sistem sekolah nasional.
 - **Cosmas Batubara & Sudomo** — Menteri Tenaga Kerja era 1980–1990-an yang memberlakukan sistem Hubungan Industrial Pancasila dan intervensi aparat keamanan dalam aksi pemogokan pabrik.
-- **Marsinah** — Buruh pabrik arloji di Jawa Timur, martir perjuangan hak buruh Indonesia.
+- **Marsinah** — Buruh pabrik di Jawa Timur yang tewas setelah memimpin aksi pemogokan; kasusnya menjadi simbol perjuangan hak buruh Indonesia.
 
 ## Sumber
 - **BPS & BKKBN (1998):** *Tiga Puluh Tahun Gerakan KB di Indonesia* — Data statistik kependudukan dan fertilitas nasional.
@@ -834,12 +834,12 @@ DOKUMEN: Peristiwa Tanjung Priok 1984
 Kategori: keamanan-dan-kebebasan | Path: content/peristiwa/peristiwa-tanjung-priok-1984.md
 ======================================================================
 
-> **Ringkasan:** Peristiwa Tanjung Priok 1984 adalah insiden kekerasan negara paling berdarah dalam dinamika hubungan antara pemerintah Orde Baru dan kelompok Islam politik pada dekade 1980-an. Bermula dari ketegangan lokal pencopotan poster di Musholla As-Sa'adah dan penahanan empat warga oleh Babinsa, aksi massa pimpinan Amir Biki yang menuntut pembebasan tahanan dihadang oleh pasukan Batalyon Arhanudse-6 pimpinan militer teritorial pada malam 12 September 1984. Aparat melepaskan tembakan amunisi tajam otomatis ke arah ribuan demonstran, menewaskan puluhan hingga ratusan orang menurut laporan investigasi independen, dan disusul penangkapan tokoh-tokoh kritis penandatangan Petisi 50.
+> **Ringkasan:** Peristiwa Tanjung Priok 1984 adalah insiden kekerasan paling berdarah yang melibatkan aparat negara dalam dinamika hubungan antara pemerintah Orde Baru dan kelompok Islam politik pada dekade 1980-an. Bermula dari ketegangan lokal pencopotan poster di Musholla As-Sa'adah dan penahanan empat warga oleh Babinsa, aksi massa pimpinan Amir Biki yang menuntut pembebasan tahanan dihadang oleh pasukan Batalyon Arhanudse-6 pimpinan militer teritorial pada malam 12 September 1984. Aparat melepaskan tembakan amunisi tajam otomatis ke arah ribuan demonstran, menewaskan puluhan hingga ratusan orang menurut laporan investigasi independen, dan disusul penangkapan tokoh-tokoh kritis penandatangan Petisi 50.
 
 ## Apa relevansinya dengan anak muda?
 Peristiwa Tanjung Priok adalah contoh paling nyata bagaimana polarisasi antara negara dan kelompok keagamaan yang dipicu oleh pemaksaan ideologi seragam (*asas tunggal*) dapat berujung pada pertumpahan darah warga sipil.
 
-Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog yang inklusif antara negara dan kelompok minoritas/kritis, serta menyoroti proses peradilan HAM ad-hoc di era pasca-reformasi yang sering kali berakhir dengan impunitas (pembebasan terdakwa perwira di tingkat banding/kasasi) akibat lemahnya pembuktian rantai komando militer di pengadilan.
+Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog yang inklusif antara negara dan kelompok minoritas/kritis, serta menyoroti proses peradilan HAM ad-hoc di era pasca-reformasi yang kerap berakhir dengan pembebasan terdakwa perwira di tingkat banding/kasasi akibat lemahnya pembuktian rantai komando militer di pengadilan.
 
 ## Fakta kunci
 
@@ -871,7 +871,7 @@ Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog ya
 - Aparat keamanan menangkap sejumlah tokoh oposisi kritis yang mengedarkan "Lembaran Putih" yang mempertanyakan versi resmi pemerintah tentang Priok, termasuk mantan Sekretaris Jenderal ASEAN H. R. Dharsono dan Menteri Perindustrian Tekstil era Sukarno, Sanusi.
 
 ## Aktor yang terlibat
-- Soeharto — Presiden RI yang mendukung penuh penanganan tegas Pangab terhadap radikalisme berdalih agama.
+- Soeharto — Presiden RI yang mendukung langkah Pangab dalam menangani peristiwa tersebut.
 - **Jenderal L. B. Moerdani** — Panglima ABRI dan Pangkopkamtib yang mengeluarkan pernyataan resmi dan bertanggung jawab atas kebijakan keamanan nasional saat itu.
 - **Mayjen Try Sutrisno** — Pangdam V/Jaya (Panglima Komando Daerah Militer Jakarta Raya) yang memegang komando teritorial ibu kota.
 - **Amir Biki** — Tokoh aktivis masyarakat Tanjung Priok yang memimpin aksi long march dan tewas tertembak di lokasi.
@@ -1015,7 +1015,7 @@ Kategori: kekuasaan-dan-legitimasi | Path: content/konsep/asas-tunggal-pancasila
 
 **Asas Tunggal Pancasila** adalah kebijakan politik-ideologis era Orde Baru yang mewajibkan seluruh partai politik, organisasi massa (ormas), dan organisasi kemasyarakatan di Indonesia untuk mencantumkan Pancasila sebagai satu-satunya asas ideologi dalam anggaran dasar mereka. Kebijakan ini diundangkan secara formal melalui **UU No. 3 Tahun 1985 tentang Partai Politik dan Golongan Karya** serta **UU No. 8 Tahun 1985 tentang Organisasi Kemasyarakatan**.
 
-Kebijakan asas tunggal merupakan puncak dari sentralisasi ideologis rezim Presiden Soeharto demi menegakkan stabilitas nasional dan mengunci model Demokrasi Pancasila. Penerapan asas tunggal memicu polarisasi tajam, resistensi luas di kalangan umat Islam, pemecahan internal organisasi kepemudaan, serta menjadi latar ketegangan politik berdarah seperti Peristiwa Tanjung Priok 1984.
+Kebijakan asas tunggal merupakan puncak dari sentralisasi ideologis pemerintahan Presiden Soeharto demi menegakkan stabilitas nasional dan mengunci model Demokrasi Pancasila. Penerapan asas tunggal memicu polarisasi tajam, resistensi luas di kalangan umat Islam, pemecahan internal organisasi kepemudaan, serta menjadi latar ketegangan politik berdarah seperti Peristiwa Tanjung Priok 1984.
 
 ---
 
@@ -1071,8 +1071,8 @@ Bagi sebagian kelompok mubaligh dan aktivis akar rumput, pemaksaan asas tunggal 
 | Dimensi | Dampak Nyata |
 | :--- | :--- |
 | **Monolitik Ideologi** | Semua institusi publik, keagamaan, dan profesi memiliki asas seragam, mengeliminasi diferensiasi politik otentik di parlemen maupun masyarakat. |
-| **Penyalahgunaan Tafsir** | Tafsir Pancasila dimonopoli oleh BP-7 melalui doktrinasi Penataran P-4. Kritik terhadap rezim kerap dikategorikan sebagai tindakan "anti-Pancasila". |
-| **Pelemahan Oposisi** | Parpol kehilangan basis diferensiasi ideologis; Pemilu Orde Baru semakin terkonsolidasi untuk kemenangan mutlak Golkar. |
+| **Penyalahgunaan Tafsir** | Tafsir Pancasila dimonopoli oleh BP-7 melalui doktrinasi Penataran P-4. Kritik terhadap pemerintah kerap dikategorikan sebagai tindakan "anti-Pancasila". |
+| **Pelemahan Oposisi** | Parpol kehilangan basis diferensiasi ideologis; Pemilu Orde Baru semakin terkonsolidasi dengan kemenangan berulang Golkar. |
 | **Migrasi Perlawanan** | Polarisasi mendorong lahirnya gerakan keagamaan transnasional dan aktivisme kampus bawah tanah yang terlepas dari kontrol kooptasi negara. |
 
 ---
