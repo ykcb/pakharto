@@ -4,7 +4,7 @@ description: "DRAF POLA — apa yang bisa dipelajari generasi kini dari praktik 
 date: 2026-11-03
 updated: 2026-11-03
 last_updated: "2026-11-03"
-entity_type: topik
+entity_type: pelajaran
 entity_id: "pelajaran-gotong-royong"
 aliases:
   - "Gotong Royong sebagai Pelajaran"
@@ -37,9 +37,11 @@ relasi:
     objek: "Floating Mass"
 ---
 
-# DRAF — Pelajaran: Gotong Royong
+# Pelajaran: Gotong Royong
 
-> **Status draf (untuk tim kurasi internal):** Ini adalah *draf pola* — contoh pertama track konten "Pelajaran" yang membedakan pakharto.my.id dari irawiki. Jangan terbitkan sebelum: (1) ~~verifikasi angka ke publikasi primer~~ **SELESAI 2026-11-03** — 6 dari 8 angka terverifikasi primer (BPS 2025, Riskesdas, I-NAMHS, pernikahan); 2 angka (kecanduan gadget, screen time) ditandai [perlu sumber primer]; angka desa (>70rb) belum dicek, (2) tim menyepakati apakah `entity_type: pelajaran` perlu dijadikan tipe tersendiri atau cukup tag, (3) folder `content/pelajaran/` dibuat dan halaman ini dipindah ke sana. Struktur tiga lapis (Fakta → Inferensi berlabel → Batas data) adalah pola yang wajib ditiru halaman Pelajaran lain.
+> **Disclaimer:** Halaman ini bagian dari track **"Pelajaran"** Wiki Soeharto — menggali apa yang bisa dipelajari generasi kini dari era Orde Baru. Isinya disusun tiga lapis: **Fakta** (data terverifikasi dengan sumber), **Inferensi** (pelajaran yang ditarik tim kurasi — dilabeli eksplisit, bukan fakta), dan **Batas data** (apa yang tidak bisa disimpulkan dari data). Inferensi adalah tafsir tim kurasi internal, bukan konsensus akademik dan bukan sikap resmi wiki terhadap Orde Baru.
+
+> **Status:** Halaman Pelajaran perdana — pola disetujui user 2026-11-03, `entity_type: pelajaran` terintegrasi ke sistem wiki. Catatan: 2 angka masih [perlu sumber primer] (kecanduan gadget, screen time); angka desa (>70rb) belum dicek. Struktur tiga lapis (Fakta → Inferensi berlabel → Batas data) + disclaimer baku adalah pola wajib halaman Pelajaran lain.
 
 > **Ringkasan:** Gotong royong — kerja kolektif rutin di tingkat lingkungan — adalah praktik yang dilembagakan negara pada era Orde Baru dan masih hidup hingga kini (BPS 2025: 88,87% warga terlibat kegiatan sosial kemasyarakatan). Di tengah krisis kesehatan mental remaja dan ledakan screen time, praktik ini menyimpan pelajaran yang bisa dipetik generasi kini — dengan catatan jujur bahwa data tidak membuktikan hubungan sebab-akibat langsung.
 

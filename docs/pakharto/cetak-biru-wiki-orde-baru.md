@@ -125,6 +125,7 @@ content/
 ├── lembaga/        # lembaga/organisasi khas Orde Baru (Kopkamtib, Bakin, Bulog era Orba, dsb.)
 ├── regulasi/       # UU, Tap MPR, Keppres, Inpres yang menjadi tonggak (ringkas + tautan naskah)
 ├── kategori/       # halaman arsip 6 kategori publik (§10)
+├── pelajaran/      # track Pelajaran: apa yang bisa dipelajari generasi kini — pola Fakta → Inferensi berlabel → Batas data + disclaimer (§5.4)
 ├── index.md        # homepage: blok "Mulai dari Sini!" (6 kategori) + "Baru Update"
 └── ...             # halaman root lain hanya bila perlu, jangan menumpuk di root
 docs/
@@ -157,7 +158,7 @@ description: "Penjelasan 1–2 kalimat: definisi + status/posisi dalam sistem Or
 date: 1966-03-11
 updated: 2026-11-01
 last_updated: "2026-11-01"
-entity_type: topik        # aktor | peristiwa | organisasi | regulasi | lokasi | topik
+entity_type: topik        # aktor | peristiwa | organisasi | regulasi | lokasi | topik | pelajaran
 entity_id: "dwifungsi-abri"
 aliases:
   - "Dwi Fungsi ABRI"

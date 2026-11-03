@@ -15,7 +15,7 @@ description: "Penjelasan ringkas 1–2 kalimat: definisi + signifikansi sejarah.
 date: 1966-03-11 # Tanggal kejadian/berlakunya konsep (YYYY-MM-DD)
 updated: 2026-11-02 # Tanggal revisi artikel (YYYY-MM-DD)
 last_updated: "2026-11-02"
-entity_type: topik # aktor | peristiwa | organisasi | regulasi | lokasi | topik
+entity_type: topik # aktor | peristiwa | organisasi | regulasi | lokasi | topik | pelajaran
 entity_id: "slug-halaman-baku"
 aliases:
   - "Varian Nama 1"
@@ -86,6 +86,19 @@ Hanya 8 predikat berikut yang diizinkan dalam field `relasi`:
 4. `## Apa relevansinya dengan anak muda?`
 5. Halaman yang merujuk konsep ini.
 6. Sumber + Catatan presisi.
+
+### 3.5 Halaman Pelajaran (Track Pelajaran — pola tiga lapis)
+- `> **Disclaimer:**` (blok baku di bawah — wajib verbatim di setiap halaman Pelajaran)
+- `> **Ringkasan:**` (2–3 kalimat: praktik yang dipelajari + relevansi kini + catatan jujur batas data)
+- `## 1. Fakta: praktik era Orde Baru` (pelembagaan, skala, **termasuk fakta kritis** yang wajib dicatat)
+- `## 2. Fakta: data masa kini` (tabel indikator + angka + sumber; sitasi primer diutamakan)
+- `## 3. Apa yang bisa dipelajari anak muda? (INFERENSI — bukan fakta)` (setiap butir dilabeli inferensi + menunjuk nomor fakta sumbernya)
+- `## 4. Batas data` (apa yang TIDAK bisa disimpulkan: korelasi≠kausalitas, scope populasi, hipotesis belum diuji)
+- `## Sumber` (sumber primer diutamakan; sekunder ditandai; belum terverifikasi ditandai [perlu sumber primer])
+- `## Catatan presisi` (status verifikasi angka, definisi istilah)
+
+**Teks disclaimer baku (wajib verbatim):**
+> **Disclaimer:** Halaman ini bagian dari track **"Pelajaran"** Wiki Soeharto — menggali apa yang bisa dipelajari generasi kini dari era Orde Baru. Isinya disusun tiga lapis: **Fakta** (data terverifikasi dengan sumber), **Inferensi** (pelajaran yang ditarik tim kurasi — dilabeli eksplisit, bukan fakta), dan **Batas data** (apa yang tidak bisa disimpulkan dari data). Inferensi adalah tafsir tim kurasi internal, bukan konsensus akademik dan bukan sikap resmi wiki terhadap Orde Baru.
 
 ---
 

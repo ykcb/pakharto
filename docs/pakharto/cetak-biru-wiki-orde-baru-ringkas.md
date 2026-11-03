@@ -46,7 +46,7 @@ prioritas FTS.
 
 title, description (1-2 kalimat), date, updated, last_updated,
 entity_type (aktor | peristiwa | organisasi | regulasi | lokasi |
-topik), entity_id, aliases, tags (HANYA dari daftar canonical),
+topik | pelajaran), entity_id, aliases, tags (HANYA dari daftar canonical),
 kategori (tepat satu) + kategori_tambahan (opsional),
 risiko_editorial (rendah | sedang | tinggi), status, sumber
 (url + judul + tanggal), relasi (predikat + objek + sumber wajib).
