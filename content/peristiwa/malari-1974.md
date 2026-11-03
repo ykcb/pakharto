@@ -2,8 +2,8 @@
 title: "Peristiwa Malari 1974"
 description: "Demonstrasi mahasiswa menentang dominasi modal asing Jepang dan hegemoni Asisten Pribadi Presiden yang berujung pada kerusuhan sosial Jakarta 15–16 Januari 1974, pembredelan pers, dan pengetatan politik kampus."
 date: 1974-01-15
-updated: 2026-11-02
-last_updated: "2026-11-02"
+updated: 2026-11-03
+last_updated: "2026-11-03"
 entity_type: peristiwa
 entity_id: "malari-1974"
 aliases:
@@ -35,12 +35,12 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-> **Ringkasan:** Peristiwa Malari (Malapetaka Lima Belas Januari 1974) adalah gelombang demonstrasi mahasiswa terbesar pada dekade pertama Orde Baru yang memprotes penetrasi modal asing Jepang, korupsi lingkaran istana, dan lembaga Asisten Pribadi (Aspri) Presiden saat kunjungan Perdana Menteri Jepang Kakuei Tanaka ke Jakarta. Aksi damai berujung pada pembakaran pusat perbelanjaan Pasar Senen, korban jiwa 11 orang, dan dimanfaatkan rezim untuk menyingkirkan faksi militer oposan Jenderal Soemitro, membubarkan dewan mahasiswa lewat konsep Normalisasi Kehidupan Kampus (NKK/BKK), serta membredel 12 surat kabar independen.
+> **Ringkasan:** Peristiwa Malari (Malapetaka Lima Belas Januari 1974) adalah gelombang demonstrasi mahasiswa terbesar pada dekade pertama Orde Baru yang memprotes penetrasi modal asing Jepang, korupsi lingkaran istana, dan lembaga Asisten Pribadi (Aspri) Presiden saat kunjungan Perdana Menteri Jepang Kakuei Tanaka ke Jakarta. Aksi damai berujung pada pembakaran pusat perbelanjaan Pasar Senen, korban jiwa 11 orang, dan dimanfaatkan pemerintah untuk menyingkirkan faksi militer oposan Jenderal Soemitro, membubarkan dewan mahasiswa lewat konsep Normalisasi Kehidupan Kampus (NKK/BKK), serta membredel 12 surat kabar independen.
 
 ## Apa relevansinya dengan anak muda?
-Peristiwa Malari adalah titik balik struktural yang mematikan kebebasan politik mahasiswa dan ruang pers bebas di Indonesia selama hampir seperempat abad. Kebijakan Normalisasi Kehidupan Kampus/Badan Koordinasi Kemahasiswaan (NKK/BKK) yang diberlakukan pasca-Malari secara sengaja mencabut hak mahasiswa untuk berorganisasi dan bersuara kritis di lingkungan akademik, mengubah watak kampus dari pusat aktivisme sosial menjadi sekadar pabrik tenaga kerja teknis.
+Peristiwa Malari adalah titik balik struktural yang mematikan kebebasan politik mahasiswa dan ruang pers bebas di Indonesia selama hampir seperempat abad. Kebijakan Normalisasi Kehidupan Kampus/Badan Koordinasi Kemahasiswaan (NKK/BKK) yang diberlakukan pasca-Malari mencabut hak mahasiswa untuk berorganisasi dan bersuara kritis di lingkungan akademik, mengubah watak kampus dari pusat aktivisme sosial menjadi lembaga pendidikan yang depolitisasi.
 
-Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral mahasiswa yang sah mengenai kemandirian ekonomi dan keadilan sosial dapat dibelokkan oleh rekayasa konflik intelijen antar-elit bersenjata untuk melegitimasi tindakan represif negara.
+Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral mahasiswa yang sah mengenai kemandirian ekonomi dan keadilan sosial dapat dimanfaatkan oleh konflik intelijen antar-elit bersenjata untuk melegitimasi pengetatan keamanan negara.
 
 ## Fakta kunci
 
@@ -77,11 +77,11 @@ Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral maha
 - Kelanjutan dari penertiban mahasiswa pasca-Malari: Menteri Pendidikan dan Kebudayaan Daoed Joesoef mengesahkan SK No. 0156/U/1978 tentang Normalisasi Kehidupan Kampus (NKK), membubarkan Dewan Mahasiswa universitas dan melarang seluruh bentuk kegiatan politik praktis di dalam kampus.
 
 ## Aktor yang terlibat
-- [[Soeharto]] — Presiden RI yang mengambil tindakan politik pembersihan faksi militer dan pengetatan kendali negara.
+- [[Soeharto]] — Presiden RI yang mencopot faksi militer oposan dan mengetatkan kendali negara.
 - **Hariman Siregar** — Ketua Dewan Mahasiswa Universitas Indonesia (DM-UI), diadili dan dijatuhi hukuman penjara 6 tahun sebagai penggerak aksi.
-- **Jenderal Soemitro** — Wakil Panglima ABRI dan Panglima [[Kopkamtib]], rival faksi politik istana yang dicopot dan dipensiunkan pasca-kerusuhan.
+- **Jenderal Soemitro** — Wakil Panglima ABRI dan Panglima [[Kopkamtib]], yang dicopot dan dipensiunkan pasca-kerusuhan.
 - **Mayjen Ali Moertopo** — Asisten Pribadi Presiden Bidang Khusus (Aspri) dan Kepala [[Bakin|Opsus/Bakin]], sasaran utama kritik mahasiswa terkait dominasi modal Jepang dan manipulasi politik.
-- **Mochtar Lubis & Rosihan Anwar** — Tokoh jurnalis senior nasional yang media cetaknya dibredel secara permanen oleh penguasa militer.
+- **Mochtar Lubis & Rosihan Anwar** — Tokoh jurnalis senior nasional yang media cetaknya dibredel secara permanen oleh pemerintah.
 - **Kakuei Tanaka** — Perdana Menteri Jepang yang menjadi simbol sasaran protes penetrasi modal asing di Asia Tenggara.
 
 ## Sumber
@@ -91,5 +91,5 @@ Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral maha
 - **PWI / Dewan Pers (1974):** Dokumentasi Pembredelan Surat Kabar Harian Ibu Kota.
 
 ## Catatan presisi
-- **Dalang Kerusuhan Senen:** Hingga hari ini terdapat dua narasi utama sejarah mengenai pemicu kerusuhan: narasi resmi penguasa Orde Baru menuduh adanya konspirasi elemen sisa PSI dan Masyumi bersama Dewan Mahasiswa untuk menggulingkan Presiden Soeharto; sedangkan narasi independen dan kalangan aktivis meyakini kerusuhan Pasar Senen diprovokasi oleh jaringan binaan intelijen (Opsus) untuk memojokkan Jenderal Soemitro dan melegitimasi pembersihan politik secara total.
+- **Dalang Kerusuhan Senen:** Hingga hari ini terdapat dua narasi utama sejarah mengenai pemicu kerusuhan: narasi resmi penguasa Orde Baru menuduh adanya konspirasi elemen sisa PSI dan Masyumi bersama Dewan Mahasiswa untuk menggulingkan Presiden Soeharto; sedangkan narasi independen dan kalangan aktivis meyakini kerusuhan Pasar Senen diprovokasi oleh jaringan binaan intelijen (Opsus) untuk mendiskreditkan Jenderal Soemitro dan melegitimasi penindakan politik.
 - **Perbedaan Sikap Demonstrasi vs Kerusuhan:** Aksi mahasiswa pada pagi 15 Januari berlangsung tertib di dalam lingkungan kampus dan jalan raya, sementara pembakaran Pasar Senen dilakukan oleh kelompok massa luar yang bergerak secara terorganisir beberapa jam setelah unjuk rasa mahasiswa dibubarkan.

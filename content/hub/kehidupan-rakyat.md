@@ -2,8 +2,8 @@
 title: "Kehidupan Rakyat dan Pembangunan Sosial"
 description: "Dinamika kehidupan masyarakat bawah era Orde Baru: Revolusi Hijau pedesaan, program Keluarga Berencana, SD Inpres, Transmigrasi massal, dan pengendalian perburuhan 1969–1998."
 date: 1969-04-01
-updated: 2026-11-02
-last_updated: "2026-11-02"
+updated: 2026-11-03
+last_updated: "2026-11-03"
 entity_type: topik
 entity_id: "kehidupan-rakyat"
 aliases:
@@ -73,14 +73,14 @@ Secara bersamaan, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahu
 - Federasi Buruh Seluruh Indonesia (FBSI) diubah secara sepihak oleh pemerintah menjadi Serikat Pekerja Seluruh Indonesia (SPSI), menjadikannya wadah korporatis tunggal serikat pekerja di bawah binaan Departemen Tenaga Kerja dan [[Kopkamtib]].
 
 ### 1993-05-08
-- Terbunuhnya Marsinah, aktivis buruh PT Catur Putra Surya di Porong, Sidoarjo, Jawa Timur, setelah memimpin aksi pemogokan menuntut kenaikan upah sesuai instruksi gubernur. Kasus ini menjadi simbol internasional penindasan hak-hak buruh oleh aparat militer teritorial Orde Baru.
+- Terbunuhnya Marsinah, aktivis buruh PT Catur Putra Surya di Porong, Sidoarjo, Jawa Timur, setelah memimpin aksi pemogokan menuntut kenaikan upah sesuai instruksi gubernur. Kasus ini menjadi sorotan internasional mengenai perlakuan terhadap hak-hak buruh oleh aparat militer teritorial Orde Baru.
 
 ## Aktor yang terlibat
 - [[Soeharto]] — Pemrakarsa utama program Inpres (SD Inpres, Pasar Inpres, Jalan Inpres) dan tokoh sentral di balik penghargaan kependudukan PBB (*UN Population Award* 1989).
 - **Haryono Suyono** — Kepala BKKBN terlama (1983–1998) yang memimpin orkestrasi kampanye sosial KB hingga ke tingkat desa.
 - **Daoed Joesoef & Fuad Hassan** — Menteri Pendidikan dan Kebudayaan yang mengelola program Wajib Belajar 6 Tahun (1984) dan penataan sistem sekolah nasional.
 - **Cosmas Batubara & Sudomo** — Menteri Tenaga Kerja era 1980–1990-an yang memberlakukan sistem Hubungan Industrial Pancasila dan intervensi aparat keamanan dalam aksi pemogokan pabrik.
-- **Marsinah** — Buruh pabrik arloji di Jawa Timur, martir perjuangan hak buruh Indonesia.
+- **Marsinah** — Buruh pabrik di Jawa Timur yang tewas setelah memimpin aksi pemogokan; kasusnya menjadi simbol perjuangan hak buruh Indonesia.
 
 ## Sumber
 - **BPS & BKKBN (1998):** *Tiga Puluh Tahun Gerakan KB di Indonesia* — Data statistik kependudukan dan fertilitas nasional.

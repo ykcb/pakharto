@@ -1,6 +1,6 @@
 ---
 title: "Stabilitas Nasional"
-description: "Konsep sentral Orde Baru yang menempatkan ketahanan politik, keamanan, dan sosial sebagai prasyarat utama pembangunan ekonomi dan legitimasi rezim."
+description: "Konsep sentral Orde Baru yang menempatkan ketahanan politik, keamanan, dan sosial sebagai prasyarat utama pembangunan ekonomi dan legitimasi pemerintahan."
 date: 1966-01-01
 updated: 2026-11-02
 last_updated: "2026-11-02"
@@ -34,11 +34,11 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-**Stabilitas Nasional** adalah konsep sentral Orde Baru yang menempatkan ketahanan politik, keamanan, dan sosial sebagai prasyarat utama pembangunan ekonomi dan legitimasi rezim.
+**Stabilitas Nasional** adalah konsep sentral Orde Baru yang menempatkan ketahanan politik, keamanan, dan sosial sebagai prasyarat utama pembangunan ekonomi dan legitimasi pemerintahan.
 
 ## Definisi
 
-Stabilitas Nasional didefinisikan sebagai kondisi di mana sistem politik, ekonomi, dan sosial berjalan tanpa gangguan serius yang dapat membatalkan tujuan pembangunan. Konsep ini digunakan untuk membenarkan pembatasan kebebasan politik dan keamanan yang ketat.
+Stabilitas Nasional didefinisikan sebagai kondisi di mana sistem politik, ekonomi, dan sosial berjalan tanpa gangguan serius yang dapat membatalkan tujuan pembangunan. Konsep ini menjadi dasar pembatasan kebebasan politik dan pengamanan yang ketat.
 
 ## Mekanisme
 
@@ -49,7 +49,7 @@ Stabilitas Nasional didefinisikan sebagai kondisi di mana sistem politik, ekonom
 
 ## Kritik
 
-- Kritik menekankan bahwa stabilitas digunakan sebagai dalih untuk menekan oposisi dan membungkam kritik.
+- Para kritik menilai stabilitas dipakai untuk menekan oposisi dan membatasi kritik.
 - Meskipun indikator ekonomi tumbuh, stabilitas politik dibangun dengan biaya pembatasan hak politik.
 
 ## Warisan

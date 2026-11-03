@@ -26,7 +26,7 @@ relasi:
     target: "peristiwa-tanjung-priok-1984"
   - type: ditentang_oleh
     target: "petisi-50"
-last_modified: 2026-11-02
+last_modified: 2026-11-03
 verification_status: "verified"
 ---
 
@@ -34,7 +34,7 @@ verification_status: "verified"
 
 **Asas Tunggal Pancasila** adalah kebijakan politik-ideologis era [[orde-baru|Orde Baru]] yang mewajibkan seluruh partai politik, organisasi massa (ormas), dan organisasi kemasyarakatan di Indonesia untuk mencantumkan Pancasila sebagai satu-satunya asas ideologi dalam anggaran dasar mereka. Kebijakan ini diundangkan secara formal melalui **UU No. 3 Tahun 1985 tentang Partai Politik dan Golongan Karya** serta **UU No. 8 Tahun 1985 tentang Organisasi Kemasyarakatan**.
 
-Kebijakan asas tunggal merupakan puncak dari sentralisasi ideologis rezim [[soeharto|Presiden Soeharto]] demi menegakkan [[stabilitas-nasional|stabilitas nasional]] dan mengunci model [[demokrasi-pancasila|Demokrasi Pancasila]]. Penerapan asas tunggal memicu polarisasi tajam, resistensi luas di kalangan umat Islam, pemecahan internal organisasi kepemudaan, serta menjadi latar ketegangan politik berdarah seperti [[peristiwa-tanjung-priok-1984|Peristiwa Tanjung Priok 1984]].
+Kebijakan asas tunggal merupakan puncak dari sentralisasi ideologis pemerintahan [[soeharto|Presiden Soeharto]] demi menegakkan [[stabilitas-nasional|stabilitas nasional]] dan mengunci model [[demokrasi-pancasila|Demokrasi Pancasila]]. Penerapan asas tunggal memicu polarisasi tajam, resistensi luas di kalangan umat Islam, pemecahan internal organisasi kepemudaan, serta menjadi latar ketegangan politik berdarah seperti [[peristiwa-tanjung-priok-1984|Peristiwa Tanjung Priok 1984]].
 
 ---
 
@@ -90,8 +90,8 @@ Bagi sebagian kelompok mubaligh dan aktivis akar rumput, pemaksaan asas tunggal 
 | Dimensi | Dampak Nyata |
 | :--- | :--- |
 | **Monolitik Ideologi** | Semua institusi publik, keagamaan, dan profesi memiliki asas seragam, mengeliminasi diferensiasi politik otentik di parlemen maupun masyarakat. |
-| **Penyalahgunaan Tafsir** | Tafsir Pancasila dimonopoli oleh BP-7 melalui doktrinasi [[p4|Penataran P-4]]. Kritik terhadap rezim kerap dikategorikan sebagai tindakan "anti-Pancasila". |
-| **Pelemahan Oposisi** | Parpol kehilangan basis diferensiasi ideologis; [[pemilu-orde-baru|Pemilu Orde Baru]] semakin terkonsolidasi untuk kemenangan mutlak Golkar. |
+| **Penyalahgunaan Tafsir** | Tafsir Pancasila dimonopoli oleh BP-7 melalui doktrinasi [[p4|Penataran P-4]]. Kritik terhadap pemerintah kerap dikategorikan sebagai tindakan "anti-Pancasila". |
+| **Pelemahan Oposisi** | Parpol kehilangan basis diferensiasi ideologis; [[pemilu-orde-baru|Pemilu Orde Baru]] semakin terkonsolidasi dengan kemenangan berulang Golkar. |
 | **Migrasi Perlawanan** | Polarisasi mendorong lahirnya gerakan keagamaan transnasional dan aktivisme kampus bawah tanah yang terlepas dari kontrol kooptasi negara. |
 
 ---

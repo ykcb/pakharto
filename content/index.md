@@ -14,7 +14,7 @@ tags:
   - orde-baru
   - jalur-baca
 date: 1966-03-11
-updated: 2026-11-02
+updated: 2026-11-03
 verification_status: "verified"
 relasi:
   - type: memuat_hub
@@ -29,7 +29,7 @@ relasi:
 
 # Wiki Soeharto & Sistem Orde Baru (1966–1998)
 
-> **Selamat datang di Wiki Soeharto.** Ensiklopedia digital terkurasi dan berbasis data arsip primer (pidato kenegaraan, dokumen regulasi, data statistik, dan kliping pers sezaman) untuk memahami secara obyektif bagaimana sistem Orde Baru dibangun, dijalankan selama 32 tahun, dan akhirnya runtuh.
+> **Selamat datang di Wiki Soeharto.** Ensiklopedia digital terkurasi dan berbasis data arsip primer (pidato kenegaraan, dokumen regulasi, data statistik, dan kliping pers sezaman) untuk memahami secara obyektif bagaimana sistem Orde Baru dibangun, dijalankan selama 32 tahun, dan berakhir pada 1998.
 
 Wiki ini mengindeks lebih dari **2.700 dokumen historis**, dilengkapi jejaring relasi antarentitas, peta konsep, serta jalur baca tematik untuk memudahkan generasi muda, peneliti, dan publik menelusuri sejarah secara presisi tanpa distorsi rumor.
 
@@ -37,18 +37,18 @@ Wiki ini mengindeks lebih dari **2.700 dokumen historis**, dilengkapi jejaring r
 
 ## 🧭 Mulai dari Sini: 6 Kategori Rujukan Resmi
 
-Struktur rujukan disusun dalam 6 pertanyaan kunci yang mengurai seluruh mekanisme rezim:
+Struktur rujukan disusun dalam 6 pertanyaan kunci yang mengurai seluruh mekanisme pemerintahan:
 
 1. 🏛️ **[[kategori/kekuasaan-dan-legitimasi|Bagaimana Orde Baru Berkuasa?]]**  
-   Transisi kekuasaan 1965–1967, legitimasi konstitusional, hegemoni pemilu, fusi partai, dan doktrin peran ganda militer.
+   Transisi kekuasaan 1965–1967, legitimasi konstitusional, kemenangan berulang dalam pemilu, fusi partai, dan doktrin peran ganda militer.
 2. 💰 **[[kategori/ekonomi-dan-kepemilikan|Siapa Menguasai Ekonomi?]]**  
-   Stabilisasi moneter, Repelita, teknokrat Mafia Berkeley, konsentrasi konglomerasi, utang luar negeri, dan kroniisme bisnis.
-3. 🛡️ **[[kategori/keamanan-dan-kebebasan|Siapa Diawasi, Siapa Dibungkam?]]**  
-   Doktrin stabilitas nasional, aparat ekstra-yudisial (Kopkamtib/BAKIN), sensor pers, penertiban kampus, hingga operasi penindakan keamanan.
+   Stabilisasi moneter, Repelita, teknokrat Mafia Berkeley, konsentrasi konglomerasi, utang luar negeri, dan dugaan praktik KKN di dunia usaha.
+3. 🛡️ **[[kategori/keamanan-dan-kebebasan|Keamanan dan Kebebasan]]**  
+   Doktrin stabilitas nasional, lembaga keamanan (Kopkamtib/BAKIN), pengaturan pers, penataan kampus, dan operasi keamanan.
 4. 🌾 **[[kategori/pembangunan-dan-kehidupan|Bagaimana Rakyat Hidup?]]**  
    Dinamika pedesaan, swasembada pangan, revolusi hijau, SD Inpres, program KB dan Posyandu, transmigrasi, serta konflik agraria di akar rumput.
 5. 📉 **[[kategori/krisis-dan-reformasi|Bagaimana Orde Baru Berakhir?]]**  
-   Badai krisis moneter 1997–1998, lonjakan harga sembako, perlawanan mahasiswa, kerusuhan massal Mei 1998, hingga mundurnya Presiden Soeharto.
+   Krisis moneter 1997–1998, lonjakan harga sembako, perlawanan mahasiswa, kerusuhan massal Mei 1998, hingga mundurnya Presiden Soeharto.
 6. 🔑 **[[kategori/konsep|Peta Konsep Kunci]]**  
    Glosarium doktrin, instrumen hukum, dan istilah khusus untuk membedah cara kerja sistem politik-ekonomi Orde Baru.
 
@@ -83,28 +83,28 @@ flowchart TD
 ```
 
 ### 1. Jalur Arsitektur Kekuasaan & Doktrin Politik
-*Menelusuri bagaimana Soeharto mengonsolidasikan kekuasaan mutlak selama tiga dekade:*
+*Menelusuri bagaimana Soeharto mengonsolidasikan kekuasaan selama tiga dekade:*
 - **Titik Awal**: [[peristiwa/transisi-1965-1967|Transisi 1965–1967]] — Titik balik Supersemar, pembekuan PKI, dan suksesi kekuasaan dari Sukarno ke Soeharto.
-- **Pilar Militer**: [[konsep/dwifungsi-abri|Dwifungsi ABRI]] — Doktrin yang menjustifikasi kehadiran perwira aktif di parlemen, birokrasi, dan BUMN.
-- **Format Politik**: [[konsep/demokrasi-pancasila|Demokrasi Pancasila]] & [[konsep/floating-mass|Floating Mass]] — Pengebirian parpol di akar rumput melalui depolitisasi rakyat pedesaan.
-- **Ritual Elektoral**: [[hub/pemilu-orde-baru|Pemilu-Pemilu Orde Baru]] — Mesin politik 'Jalur ABG' (ABRI, Birokrasi, Golkar) yang menjamin kemenangan berulang rezim.
-- **Puncak Penyeragaman**: [[konsep/asas-tunggal-pancasila|Asas Tunggal Pancasila (1985)]] — Kewajiban ideologi tunggal bagi parpol dan ormas yang memicu polarisasi agama-negara.
+- **Pilar Militer**: [[konsep/dwifungsi-abri|Dwifungsi ABRI]] — Doktrin yang menjadi dasar kehadiran perwira aktif di parlemen, birokrasi, dan BUMN.
+- **Format Politik**: [[konsep/demokrasi-pancasila|Demokrasi Pancasila]] & [[konsep/floating-mass|Floating Mass]] — Pembatasan kegiatan parpol di tingkat desa melalui konsep massa mengambang.
+- **Pemilu Berkala**: [[hub/pemilu-orde-baru|Pemilu-Pemilu Orde Baru]] — Peran ABRI, birokrasi, dan Golkar dalam pemilu yang dimenangkan Golkar secara berulang.
+- **Penyeragaman Ideologi**: [[konsep/asas-tunggal-pancasila|Asas Tunggal Pancasila (1985)]] — Kewajiban asas Pancasila bagi parpol dan ormas; kebijakan ini menuai protes dari sebagian kalangan.
 
 ### 2. Jalur Ekonomi, Pembangunan, dan Realitas Pedesaan
-*Memahami paradoks antara pertumbuhan statistik makro dan kesenjangan struktural:*
+*Memahami capaian pertumbuhan ekonomi beserta kesenjangan yang menyertainya:*
 - **Fondasi Ekonomi**: [[hub/ekonomi-orde-baru|Ekonomi Orde Baru]] — Dari inflasi 650% ke stabilisasi moneter, modal asing (PMA), dan ledakan minyak bumi (oil boom).
 - **Rambu Pembangunan**: [[konsep/trilogi-pembangunan|Trilogi Pembangunan]] — Rumusan hierarki: Stabilitas Nasional, Pertumbuhan Tinggi, dan Pemerataan.
 - **Keseharian Rakyat**: [[hub/kehidupan-rakyat|Kehidupan Rakyat & Pembangunan]] — Swasembada beras 1984, lompatan melek huruf via SD Inpres, layanan Posyandu/KB, serta penetrasi komersialisasi desa.
-- **Biaya Pembangunan**: [[peristiwa/kasus-kedung-ombo|Kasus Kedung Ombo (1985–1989)]] — Potret ganti rugi pembebasan lahan waduk dan kebangkitan advokasi HAM akar rumput.
-- **Penyakit Struktural**: [[konsep/kkn|Anatomi KKN]] — Monopoli perdagangan, rente perbankan, dan konglomerasi keluarga penguasa yang melumpuhkan daya tahan ekonomi nasional.
+- **Dampak Sosial Pembangunan**: [[peristiwa/kasus-kedung-ombo|Kasus Kedung Ombo (1985–1989)]] — Potret ganti rugi pembebasan lahan waduk dan kebangkitan advokasi HAM akar rumput.
+- **Tata Kelola dan KKN**: [[konsep/kkn|KKN]] — Dugaan monopoli perdagangan, rente perbankan, dan konglomerasi keluarga penguasa yang menurut para kritik melemahkan daya tahan ekonomi nasional.
 
 ### 3. Jalur Keamanan, Penindakan, dan Runtuhnya Rezim
-*Melihat bagaimana instrumen paksaan negara bekerja hingga akhirnya kehilangan efektivitas:*
-- **Doktrin Pengamanan**: [[konsep/stabilitas-nasional|Stabilitas Nasional]] — Doktrin rasa aman sebagai dalih membungkam perbedaan pendapat.
-- **Aparat Represif**: [[lembaga/kopkamtib|Kopkamtib]] & [[lembaga/bakin|BAKIN]] — Komando pemulihan keamanan ekstra-yudisial dan dinas intelijen pengendali politik.
-- **Alarm Krisis Pertama**: [[peristiwa/malari-1974|Peristiwa Malari 1974]] — Titik tolak penertiban media massa (pemberangusan pers) dan normalisasi kehidupan kampus (NKK/BKK).
-- **Operasi 'Shock Therapy'**: [[peristiwa/penembakan-misterius-petrus|Penembakan Misterius (Petrus)]] & [[peristiwa/peristiwa-tanjung-priok-1984|Peristiwa Tanjung Priok]] — Penggunaan kekerasan terbuka oleh aparat keamanan sepanjang 1980-an.
-- **Puncak Kejatuhan**: [[hub/krisis-dan-reformasi-1998|Krisis Moneter & Reformasi 1998]] — Rantai kejatuhan: rontoknya rupiah, Tragedi Trisakti, amuk massa Mei, pendudukan gedung DPR/MPR, mundurnya 14 menteri, hingga berhentinya Soeharto.
+*Melihat bagaimana instrumen keamanan negara bekerja selama tiga dekade:*
+- **Doktrin Pengamanan**: [[konsep/stabilitas-nasional|Stabilitas Nasional]] — Doktrin stabilitas nasional sebagai prasyarat pembangunan; para kritik menilai doktrin ini membatasi kebebasan berpendapat.
+- **Aparat Keamanan**: [[lembaga/kopkamtib|Kopkamtib]] & [[lembaga/bakin|BAKIN]] — Komando pemulihan keamanan dan badan intelijen negara.
+- **Gejolak 1974**: [[peristiwa/malari-1974|Peristiwa Malari 1974]] — Titik tolak pembatasan media massa dan penataan kehidupan kampus (NKK/BKK).
+- **Operasi Keamanan**: [[peristiwa/penembakan-misterius-petrus|Penembakan Misterius (Petrus)]] & [[peristiwa/peristiwa-tanjung-priok-1984|Peristiwa Tanjung Priok]] — Peristiwa kekerasan yang melibatkan aparat keamanan sepanjang 1980-an.
+- **Akhir Kekuasaan**: [[hub/krisis-dan-reformasi-1998|Krisis Moneter & Reformasi 1998]] — Rangkaian peristiwa: pelemahan rupiah, Tragedi Trisakti, kerusuhan Mei 1998, pendudukan gedung DPR/MPR, mundurnya 14 menteri, hingga berhentinya Soeharto.
 
 ---
 

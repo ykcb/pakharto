@@ -1,9 +1,9 @@
 ---
 title: "KKN (Korupsi, Kolusi, dan Nepotisme)"
-description: "Istilah historis yang merangkum jaringan patronase, monopoli usaha keluarga istana, penyalahgunaan fasilitas perbankan negara, dan kroniisme bisnis yang menjadi tuntutan sentral Gerakan Reformasi 1998."
+description: "Istilah historis yang merangkum jaringan patronase, monopoli usaha keluarga istana, penyalahgunaan fasilitas perbankan negara, dan dugaan praktik KKN yang menjadi tuntutan sentral Gerakan Reformasi 1998."
 date: 1998-05-01
-updated: 2026-11-02
-last_updated: "2026-11-02"
+updated: 2026-11-03
+last_updated: "2026-11-03"
 entity_type: topik
 entity_id: "kkn"
 aliases:
@@ -32,10 +32,10 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-> **Ringkasan:** KKN (Korupsi, Kolusi, dan Nepotisme) adalah akronim dan istilah politik historis yang lahir pada paruh kedua dekade 1990-an untuk mendeskripsikan integrasi antara kekuasaan birokrasi negara, fasilitas keuangan perbankan pemerintah, dan imperium bisnis keluarga istana beserta lingkaran pengusaha kroni. Fenomena ini menjadi sasaran kritik paling keras mahasiswa dalam Gerakan Reformasi 1998 dan kemudian dilembagakan sebagai mandat pembersihan aparatur negara melalui Ketetapan MPR No. XI/MPR/1998.
+> **Ringkasan:** KKN (Korupsi, Kolusi, dan Nepotisme) adalah akronim dan istilah politik historis yang lahir pada paruh kedua dekade 1990-an untuk mendeskripsikan integrasi antara kekuasaan birokrasi negara, fasilitas keuangan perbankan pemerintah, dan jaringan bisnis keluarga serta pengusaha yang dekat dengan lingkaran kekuasaan. Fenomena ini menjadi sasaran kritik paling keras mahasiswa dalam Gerakan Reformasi 1998 dan kemudian dilembagakan sebagai mandat pembersihan aparatur negara melalui Ketetapan MPR No. XI/MPR/1998.
 
 ## Apa relevansinya dengan anak muda?
-Istilah KKN bukan sekadar jargon politik jalanan, melainkan diagnosis atas penyakit struktural yang membuat sistem ekonomi nasional kolaps pada 1997–1998. Praktik kredit perbankan tanpa agunan yang layak bagi konglomerat kroni (*connected lending*) pada era itu harus ditalangi oleh uang rakyat melalui dana Bantuan Likuiditas Bank Indonesia (BLBI) yang beban pokok dan bunganya membebani Anggaran Pendapatan dan Belanja Negara (APBN) selama berpuluh-puluh tahun.
+Istilah KKN bukan sekadar jargon politik jalanan, melainkan sebutan bagi persoalan struktural — kedekatan penguasa-pengusaha dan lemahnya pengawasan — yang menurut para pengkritik memperparah keruntuhan ekonomi 1997–1998. Praktik kredit perbankan tanpa agunan yang layak bagi konglomerat kroni (*connected lending*) pada era itu ditalangi oleh dana publik melalui Bantuan Likuiditas Bank Indonesia (BLBI) yang beban pokok dan bunganya membebani Anggaran Pendapatan dan Belanja Negara (APBN) selama berpuluh-puluh tahun.
 
 Bagi generasi muda, memahami anatomis KKN pada era Orde Baru memberikan pemahaman kritis untuk mengenali pola-pola kartel bisnis, konflik kepentingan pejabat publik yang merangkap pengusaha (*conflict of interest*), serta privatisasi aset-aset publik yang masih kerap berulang dengan bentuk baru di era modern.
 
@@ -47,7 +47,7 @@ Dalam dokumen-dokumen resmi pasca-1998 dan kajian ekonomi politik, KKN di era Or
    Pemerintah menerbitkan izin khusus, kuota impor, atau hak monopoli distribusi komoditas strategis kepada perusahaan keluarga atau kroni tertentu. Contoh terdokumentasi mencakup Badan Penyangga dan Pemasar Cengkeh (BPPC), monopoli tata niaga terigu dan kedelai, proyek Mobil Nasional Timor, hingga konsesi Hak Pengusahaan Hutan (HPH) jutaan hektare di luar Jawa.
 
 2. **Penyalahgunaan Fasilitas Keuangan & Yayasan:**
-   Pengerahan dana dari yayasan-yayasan non-bujeter yang diketuai langsung oleh Presiden (antara lain Yayasan Supersemar, Yayasan Dakab, Yayasan Dharmais) yang menghimpun potongan laba BUMN dan dana wajib perbankan untuk dialirkan ke proyek-proyek non-transparan dan investasi konglomerasi terafiliasi.
+   Pengerahan dana dari yayasan-yayasan non-bujeter yang diketuai langsung oleh Presiden (antara lain Yayasan Supersemar, Yayasan Dakab, Yayasan Dharmais) yang menghimpun potongan laba BUMN dan dana wajib perbankan untuk dialirkan ke berbagai proyek dan investasi konglomerasi terafiliasi.
 
 3. **Perlindungan Politik atas Pelanggaran Batas Maksimum Pemberian Kredit (BMPK):**
    Bank-bank swasta milik konglomerat melanggar ketentuan perbankan nasional dengan menyalurkan dana simpanan masyarakat kepada grup perusahaan milik pemilik bank itu sendiri tanpa batasan risiko yang wajar. Ketika krisis moneter 1997 melanda, bank-bank ini mengalami gagal bayar dan diselamatkan oleh kucuran likuiditas darurat negara.

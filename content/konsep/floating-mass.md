@@ -2,8 +2,8 @@
 title: "Floating Mass (Massa Mengambang)"
 description: "Doktrin politik Orde Baru yang melarang pembentukan ranting partai politik di tingkat pedesaan dan kelurahan guna memutus partisipasi politik aktif rakyat akar rumput demi stabilitas pembangunan."
 date: 1971-07-03
-updated: 2026-11-02
-last_updated: "2026-11-02"
+updated: 2026-11-03
+last_updated: "2026-11-03"
 entity_type: topik
 entity_id: "floating-mass"
 aliases:
@@ -35,12 +35,12 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-> **Ringkasan:** *Floating Mass* (Massa Mengambang) adalah doktrin politik resmi Orde Baru yang digagas pasca-Pemilu 1971 oleh faksi militer dan intelektual CSIS di bawah Jenderal Ali Moertopo. Doktrin ini melarang seluruh partai politik (Partai Persatuan Pembangunan dan Partai Demokrasi Indonesia) memiliki komisariat atau cabang pengurus di tingkat kecamatan, desa, dan kelurahan, dengan dalih agar masyarakat pedesaan tidak terpecah-belah oleh konflik ideologis dan dapat fokus sepenuhnya pada program pembangunan ekonomi.
+> **Ringkasan:** *Floating Mass* (Massa Mengambang) adalah doktrin politik resmi Orde Baru yang digagas pasca-Pemilu 1971 oleh faksi militer dan intelektual CSIS di bawah Jenderal Ali Moertopo. Doktrin ini melarang seluruh partai politik (Partai Persatuan Pembangunan dan Partai Demokrasi Indonesia) memiliki komisariat atau cabang pengurus di tingkat kecamatan, desa, dan kelurahan, dengan alasan agar masyarakat pedesaan tidak terpecah-belah oleh konflik ideologis dan dapat fokus sepenuhnya pada program pembangunan ekonomi.
 
 ## Apa relevansinya dengan anak muda?
 Konsep *floating mass* menciptakan budaya politik pasif (*apolitis*) yang masih membekas hingga hari ini, di mana warga masyarakat di luar lingkaran elit kota sering kali diposisikan hanya sebagai objek mobilisasi elektoral berkala lima tahunan, bukan subjek politik berdaya yang mengawasi kebijakan anggaran publik.
 
-Memahami *floating mass* membantu generasi muda membaca mengapa struktur masyarakat pedesaan Indonesia selama puluhan tahun kehilangan daya tawar kolektif dalam menghadapi sengketa agraria, penggusuran lahan perkebunan, dan perusakan lingkungan, karena wadah organisasi politik mandiri di tingkat desa sengaja dieliminasi oleh undang-undang negara.
+Memahami *floating mass* membantu generasi muda membaca mengapa struktur masyarakat pedesaan Indonesia selama puluhan tahun kehilangan daya tawar kolektif dalam menghadapi sengketa agraria, penggusuran lahan perkebunan, dan perusakan lingkungan, karena wadah organisasi politik mandiri di tingkat desa dihilangkan oleh undang-undang negara.
 
 ## Cara kerja dalam praktik
 
@@ -50,7 +50,7 @@ Dalam penerapannya, doktrin ini menciptakan ketimpangan struktural yang sangat b
    Berdasarkan UU No. 3 Tahun 1975 tentang Partai Politik dan Golongan Karya, kepengurusan PPP dan PDI dibatasi hanya sampai tingkat Daerah Tingkat II (Kabupaten/Kotamadya). Di tingkat kecamatan dan desa, partai hanya diperkenankan menunjuk satu orang "komisaris" tanpa boleh membentuk cabang atau menggelar kegiatan rapat umum di luar masa kampanye resmi pemilu.
 
 2. **Akses Istimewa Golongan Karya (Golkar):**
-   Meskipun aturan formal berlaku bagi Golkar, mesin Golkar menumpang pada struktur hierarki birokrasi pemerintahan desa dan korps pegawai negeri (KORPRI) yang dipimpin oleh Kepala Desa (Lurah), Camat, dan Bupati. Kepala Desa bertindak sebagai pembina politik desa yang otomatis mengarahkan pemilih ke Golkar, menciptakan ilusi "massa yang bebas dari politik" padahal secara de facto dimonopoli oleh kekuasaan negara.
+   Meskipun aturan formal berlaku bagi Golkar, mesin Golkar menumpang pada struktur hierarki birokrasi pemerintahan desa dan korps pegawai negeri (KORPRI) yang dipimpin oleh Kepala Desa (Lurah), Camat, dan Bupati. Kepala Desa bertindak sebagai pembina politik desa yang otomatis mengarahkan pemilih ke Golkar, menciptakan kesan massa yang bebas dari politik, sementara secara de facto dimobilisasi oleh kekuasaan negara.
 
 3. **Mobilisasi Tertutup:**
    Rakyat hanya "diizinkan" bersentuhan dengan aktivitas politik selama masa kampanye resmi pemilu (biasanya 25 hingga 30 hari). Di luar periode itu, setiap upaya pengorganisasian petani atau warga desa di luar jalur organisasi tunggal bentukan pemerintah (seperti HKTI untuk petani atau KUD untuk koperasi) dapat dituduh sebagai tindakan subversif pemecah-belah stabilitas nasional.

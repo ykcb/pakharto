@@ -2,8 +2,8 @@
 title: "Peristiwa Tanjung Priok 1984"
 description: "Insiden bentrokan berdarah antara massa Muslim dan aparat militer di Jakarta Utara pada 12 September 1984 di tengah ketegangan politik penerapan asas tunggal Pancasila."
 date: 1984-09-12
-updated: 2026-11-02
-last_updated: "2026-11-02"
+updated: 2026-11-03
+last_updated: "2026-11-03"
 entity_type: peristiwa
 entity_id: "peristiwa-tanjung-priok-1984"
 aliases:
@@ -37,12 +37,12 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-> **Ringkasan:** Peristiwa Tanjung Priok 1984 adalah insiden kekerasan negara paling berdarah dalam dinamika hubungan antara pemerintah Orde Baru dan kelompok Islam politik pada dekade 1980-an. Bermula dari ketegangan lokal pencopotan poster di Musholla As-Sa'adah dan penahanan empat warga oleh Babinsa, aksi massa pimpinan Amir Biki yang menuntut pembebasan tahanan dihadang oleh pasukan Batalyon Arhanudse-6 pimpinan militer teritorial pada malam 12 September 1984. Aparat melepaskan tembakan amunisi tajam otomatis ke arah ribuan demonstran, menewaskan puluhan hingga ratusan orang menurut laporan investigasi independen, dan disusul penangkapan tokoh-tokoh kritis penandatangan Petisi 50.
+> **Ringkasan:** Peristiwa Tanjung Priok 1984 adalah insiden kekerasan paling berdarah yang melibatkan aparat negara dalam dinamika hubungan antara pemerintah Orde Baru dan kelompok Islam politik pada dekade 1980-an. Bermula dari ketegangan lokal pencopotan poster di Musholla As-Sa'adah dan penahanan empat warga oleh Babinsa, aksi massa pimpinan Amir Biki yang menuntut pembebasan tahanan dihadang oleh pasukan Batalyon Arhanudse-6 pimpinan militer teritorial pada malam 12 September 1984. Aparat melepaskan tembakan amunisi tajam otomatis ke arah ribuan demonstran, menewaskan puluhan hingga ratusan orang menurut laporan investigasi independen, dan disusul penangkapan tokoh-tokoh kritis penandatangan Petisi 50.
 
 ## Apa relevansinya dengan anak muda?
 Peristiwa Tanjung Priok adalah contoh paling nyata bagaimana polarisasi antara negara dan kelompok keagamaan yang dipicu oleh pemaksaan ideologi seragam (*asas tunggal*) dapat berujung pada pertumpahan darah warga sipil.
 
-Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog yang inklusif antara negara dan kelompok minoritas/kritis, serta menyoroti proses peradilan HAM ad-hoc di era pasca-reformasi yang sering kali berakhir dengan impunitas (pembebasan terdakwa perwira di tingkat banding/kasasi) akibat lemahnya pembuktian rantai komando militer di pengadilan.
+Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog yang inklusif antara negara dan kelompok minoritas/kritis, serta menyoroti proses peradilan HAM ad-hoc di era pasca-reformasi yang kerap berakhir dengan pembebasan terdakwa perwira di tingkat banding/kasasi akibat lemahnya pembuktian rantai komando militer di pengadilan.
 
 ## Fakta kunci
 
@@ -74,7 +74,7 @@ Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog ya
 - Aparat keamanan menangkap sejumlah tokoh oposisi kritis yang mengedarkan "Lembaran Putih" yang mempertanyakan versi resmi pemerintah tentang Priok, termasuk mantan Sekretaris Jenderal ASEAN H. R. Dharsono dan Menteri Perindustrian Tekstil era Sukarno, Sanusi.
 
 ## Aktor yang terlibat
-- [[Soeharto]] — Presiden RI yang mendukung penuh penanganan tegas Pangab terhadap radikalisme berdalih agama.
+- [[Soeharto]] — Presiden RI yang mendukung langkah Pangab dalam menangani peristiwa tersebut.
 - **Jenderal L. B. Moerdani** — Panglima ABRI dan Pangkopkamtib yang mengeluarkan pernyataan resmi dan bertanggung jawab atas kebijakan keamanan nasional saat itu.
 - **Mayjen Try Sutrisno** — Pangdam V/Jaya (Panglima Komando Daerah Militer Jakarta Raya) yang memegang komando teritorial ibu kota.
 - **Amir Biki** — Tokoh aktivis masyarakat Tanjung Priok yang memimpin aksi long march dan tewas tertembak di lokasi.
