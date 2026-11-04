@@ -1,9 +1,42 @@
 ---
-title: "1973-08-07 Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi – HM Soeharto"
-source: "https://soehartolibrary.id/1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi/"
-date: "2017-08-23T11:37:14+07:00"
+title: '1973-08-07 Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi'
+description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi/respond)
+  94 Views Share on
+date: '1973-08-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi
+aliases:
+- 'Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi'
+- '1973-08-07 Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi – HM Soeharto'
+tags:
+- bandung
+- jenderal-soemitro
+- kerusuhan
+- mashuri-sh
+- menteri-penerangan
+- orde-baru
+- panglima-kopkamtib
+- perpustakaan-soeharto
+- presiden-soeharto
+- rasial
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi/
+  judul: '1973-08-07 Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi'
+  tanggal: '1973-08-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi/
 ---
+
 
 # 1973-08-07 Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi
 

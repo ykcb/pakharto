@@ -1,9 +1,42 @@
 ---
-title: "1969-05-01 Presiden Soeharto Inspeksi Departemen Perindustrian – HM Soeharto"
-source: "https://soehartolibrary.id/1969-05-01-presiden-soeharto-inspeksi-departemen-perindustrian/"
-date: "2017-08-28T16:48:12+07:00"
+title: 1969-05-01 Presiden Soeharto Inspeksi Departemen Perindustrian
+description: KAMIS, 1 MEI 1969, Presiden Soeharto pagi ini mengadakan inspeksi ke
+  Departemen Perindustrian. Setelah inspeksi tersebut, Jenderal soeharto mengatakan
+  bahwa tujuan kunjungannya adalah untuk mengetahui apa yang dilaksanakan Departemen...
+date: '1969-05-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-05-01-presiden-soeharto-inspeksi-departemen-perindustrian
+aliases:
+- Presiden Soeharto Inspeksi Departemen Perindustrian
+- 1969-05-01 Presiden Soeharto Inspeksi Departemen Perindustrian – HM Soeharto
+tags:
+- departemen
+- inspeksi
+- m-yusuf
+- menteri
+- orde-baru
+- pelita
+- perindustrian
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-05-01-presiden-soeharto-inspeksi-departemen-perindustrian/
+  judul: 1969-05-01 Presiden Soeharto Inspeksi Departemen Perindustrian
+  tanggal: '1969-05-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-05-01-presiden-soeharto-inspeksi-departemen-perindustrian/
 ---
+
 
 # 1969-05-01 Presiden Soeharto Inspeksi Departemen Perindustrian
 

@@ -1,9 +1,39 @@
 ---
-title: "1974-03-08 Presiden Soeharto Menerima Peserta Rapim ABRI – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-08-presiden-soeharto-menerima-peserta-rapim-abri/"
-date: "2017-08-29T17:39:33+07:00"
+title: 1974-03-08 Presiden Soeharto Menerima Peserta Rapim ABRI
+description: JUM’AT, 8 Maret 1974, Bertempat di Istana Merdeka, pukul 09.00 pagi,
+  selama dua jam, Kepala Negara menerima 238 peserta Rapim ABRI 1974. Dalam amanatnya
+  Presiden menekankan pada bebrapa hal pokok yang berhubungan dengan masalah-masalah...
+date: '1974-03-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-08-presiden-soeharto-menerima-peserta-rapim-abri
+aliases:
+- Presiden Soeharto Menerima Peserta Rapim ABRI
+- 1974-03-08 Presiden Soeharto Menerima Peserta Rapim ABRI – HM Soeharto
+tags:
+- abri
+- mangkunegara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rapim
+- tri-dharma
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-08-presiden-soeharto-menerima-peserta-rapim-abri/
+  judul: 1974-03-08 Presiden Soeharto Menerima Peserta Rapim ABRI
+  tanggal: '1974-03-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-08-presiden-soeharto-menerima-peserta-rapim-abri/
 ---
+
 
 # 1974-03-08 Presiden Soeharto Menerima Peserta Rapim ABRI
 

@@ -1,9 +1,37 @@
 ---
-title: "Presiden Soeharto: Pemimpin Harus Sesuaikan Keseharian Hidup Rakyat – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-pemimpin-harus-sesuaikan-keseharian-hidup-rakyat/"
-date: "2017-08-24T15:19:42+07:00"
+title: 'Presiden Soeharto: Pemimpin Harus Sesuaikan Keseharian Hidup Rakyat'
+description: SABTU, 09 AGUSTUS 1969,Presiden Soeharto malam ini meresmkian Monumen
+  Diponegoro, yang diberinya nama “Sasana Wiratmo”, di desa Tegalrejo, Yogyakarta.
+  Dalam amanatnya, Presiden menyerukan agar pemimpin-pemimpin pembangunan, dalam sikap...
+date: '2017-08-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-pemimpin-harus-sesuaikan-keseharian-hidup-rakyat
+aliases:
+- 'Presiden Soeharto: Pemimpin Harus Sesuaikan Keseharian Hidup Rakyat – HM Soeharto'
+tags:
+- diponegoro
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tegalrejo
+- yogyakarta
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-pemimpin-harus-sesuaikan-keseharian-hidup-rakyat/
+  judul: 'Presiden Soeharto: Pemimpin Harus Sesuaikan Keseharian Hidup Rakyat'
+  tanggal: '2017-08-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-pemimpin-harus-sesuaikan-keseharian-hidup-rakyat/
 ---
+
 
 # Presiden Soeharto: Pemimpin Harus Sesuaikan Keseharian Hidup Rakyat
 

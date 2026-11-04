@@ -1,9 +1,38 @@
 ---
-title: "1976-03-11 Presiden Soeharto Resmikan UNS Solo – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-11-presiden-soeharto-resmikan-uns-solo/"
-date: "2017-08-29T17:44:10+07:00"
+title: 1976-03-11 Presiden Soeharto Resmikan UNS Solo
+description: KAMIS, 11 MARET 1976, Bertepatan dengan ulang tahun dikeluarkannya Surat
+  Perintah 11 Maret 1966, hari ini di Solo, Jawa Tengah, Presiden Soeharto meresmikan
+  berdirinya Universitas 11 Maret sebagai suatu universitas negeri. Dalam...
+date: '1976-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-11-presiden-soeharto-resmikan-uns-solo
+aliases:
+- Presiden Soeharto Resmikan UNS Solo
+- 1976-03-11 Presiden Soeharto Resmikan UNS Solo – HM Soeharto
+tags:
+- ilmu-pengetahuan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- universitas
+- uns-solo
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-11-presiden-soeharto-resmikan-uns-solo/
+  judul: 1976-03-11 Presiden Soeharto Resmikan UNS Solo
+  tanggal: '1976-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-11-presiden-soeharto-resmikan-uns-solo/
 ---
+
 
 # 1976-03-11 Presiden Soeharto Resmikan UNS Solo
 

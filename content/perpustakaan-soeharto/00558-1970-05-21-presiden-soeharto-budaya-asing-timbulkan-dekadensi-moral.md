@@ -1,9 +1,41 @@
 ---
-title: "1970-05-21 Presiden Soeharto: Budaya Asing Timbulkan Dekadensi Moral – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-21-presiden-soeharto-budaya-asing-timbulkan-dekadensi-moral/"
-date: "2014-03-22T02:53:35+07:00"
+title: '1970-05-21 Presiden Soeharto: Budaya Asing Timbulkan Dekadensi Moral'
+description: KAMIS, 21 MEI 1970, Dalam amanat tertulis pada perayaan Waisak yang diselenggarakan
+  malam ini di Candi Borobudur, Jawa Tengah, Presiden Soeharto mengatakan bahwa kebudayaan
+  asing secara tidak langsung telah menimbulkan gejala-gejala...
+date: '1970-05-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-21-presiden-soeharto-budaya-asing-timbulkan-dekadensi-moral
+aliases:
+- 'Presiden Soeharto: Budaya Asing Timbulkan Dekadensi Moral'
+- '1970-05-21 Presiden Soeharto: Budaya Asing Timbulkan Dekadensi Moral – HM Soeharto'
+tags:
+- borobudur
+- budaya-asing
+- budha
+- dekadensi-moral
+- korupsi
+- manipulasi
+- orde-baru
+- perpustakaan-soeharto
+- waisak
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-21-presiden-soeharto-budaya-asing-timbulkan-dekadensi-moral/
+  judul: '1970-05-21 Presiden Soeharto: Budaya Asing Timbulkan Dekadensi Moral'
+  tanggal: '1970-05-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-21-presiden-soeharto-budaya-asing-timbulkan-dekadensi-moral/
 ---
+
 
 # 1970-05-21 Presiden Soeharto: Budaya Asing Timbulkan Dekadensi Moral
 

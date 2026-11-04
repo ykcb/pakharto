@@ -1,9 +1,38 @@
 ---
-title: "1973-10-15 Presiden Soeharto Menerima Pertuni (Persatuan Tuna Netra Indonesia) – HM Soeharto"
-source: "https://soehartolibrary.id/1973-10-15-presiden-soeharto-menerima-pertuni-persatuan-tuna-netra-indonesia/"
-date: "2014-12-01T14:00:57+07:00"
+title: 1973-10-15 Presiden Soeharto Menerima Pertuni (Persatuan Tuna Netra Indonesia)
+description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-10-15-presiden-soeharto-menerima-pertuni-persatuan-tuna-netra-indonesia/respond)
+  91 Views Share on
+date: '1973-10-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-10-15-presiden-soeharto-menerima-pertuni-persatuan-tuna-netra-indonesia
+aliases:
+- Presiden Soeharto Menerima Pertuni (Persatuan Tuna Netra Indonesia)
+- 1973-10-15 Presiden Soeharto Menerima Pertuni (Persatuan Tuna Netra Indonesia) –
+  HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tuna-netra
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-10-15-presiden-soeharto-menerima-pertuni-persatuan-tuna-netra-indonesia/
+  judul: 1973-10-15 Presiden Soeharto Menerima Pertuni (Persatuan Tuna Netra Indonesia)
+  tanggal: '1973-10-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-10-15-presiden-soeharto-menerima-pertuni-persatuan-tuna-netra-indonesia/
 ---
+
 
 # 1973-10-15 Presiden Soeharto Menerima Pertuni (Persatuan Tuna Netra Indonesia)
 

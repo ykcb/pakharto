@@ -1,9 +1,38 @@
 ---
-title: "Presiden Soeharto, SD Inpres dan Avicena Award  – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-sd-inpres-dan-avicenna-award/"
-date: "2013-02-23T03:32:26+07:00"
+title: Presiden Soeharto, SD Inpres dan Avicena Award
+description: Pada pertengahan 1970-an, ketika berada di Cilacap, Jawa Tengah, saat
+  meninjau SD Inpres, Presiden Soeharto rupanya melihat ketidakberesan pembangunan
+  gedung sekolah yang disubsidi pemerintah itu. Ia menendang dinding sekolah dengan...
+date: '2013-02-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-sd-inpres-dan-avicenna-award
+aliases:
+- Presiden Soeharto, SD Inpres dan Avicena Award  – HM Soeharto
+tags:
+- avicena
+- award
+- inpres
+- orde-baru
+- perpustakaan-soeharto
+- sd
+- unesco
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-sd-inpres-dan-avicenna-award/
+  judul: Presiden Soeharto, SD Inpres dan Avicena Award
+  tanggal: '2013-02-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-sd-inpres-dan-avicenna-award/
 ---
+
 
 # Presiden Soeharto, SD Inpres dan Avicena Award
 

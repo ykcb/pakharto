@@ -1,9 +1,38 @@
 ---
-title: "1973-05-02 Presiden Soeharto Hadiri Tahun Buku Internasional – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-02-presiden-soeharto-hadiri-tahun-buku-internasional/"
-date: "2017-08-24T17:43:32+07:00"
+title: 1973-05-02 Presiden Soeharto Hadiri Tahun Buku Internasional
+description: RABU, 2 Mei 1973, Siang ini Presiden Soeharto menghadiri jamuan makan
+  siang yang diselenggarakan di Bogor oleh Panitia Nasional Tahun Buku Internasional.
+  Dalam acara ini Kepala Negara telah menerima rumusan konsepsional untuk...
+date: '1973-05-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-02-presiden-soeharto-hadiri-tahun-buku-internasional
+aliases:
+- Presiden Soeharto Hadiri Tahun Buku Internasional
+- 1973-05-02 Presiden Soeharto Hadiri Tahun Buku Internasional – HM Soeharto
+tags:
+- buku
+- orde-baru
+- penerbit
+- perpustakaan-soeharto
+- presiden-soeharto
+- tarif-angkutan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-02-presiden-soeharto-hadiri-tahun-buku-internasional/
+  judul: 1973-05-02 Presiden Soeharto Hadiri Tahun Buku Internasional
+  tanggal: '1973-05-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-02-presiden-soeharto-hadiri-tahun-buku-internasional/
 ---
+
 
 # 1973-05-02 Presiden Soeharto Hadiri Tahun Buku Internasional
 

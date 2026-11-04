@@ -1,9 +1,38 @@
 ---
-title: "Mengapa Bapak (Pak Harto) Tidak Boleh Kaya – HM Soeharto"
-source: "https://soehartolibrary.id/mengapa-bapak-pak-harto-tidak-boleh-kaya/"
-date: "2013-08-29T22:11:21+07:00"
+title: Mengapa Bapak (Pak Harto) Tidak Boleh Kaya
+description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/mengapa-bapak-pak-harto-tidak-boleh-kaya/respond)
+  119 Views Share on
+date: '2013-08-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: mengapa-bapak-pak-harto-tidak-boleh-kaya
+aliases:
+- Mengapa Bapak (Pak Harto) Tidak Boleh Kaya – HM Soeharto
+tags:
+- lina-marsolina
+- mbak-tutut
+- orde-baru
+- pak-harto
+- parungpanjang
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/mengapa-bapak-pak-harto-tidak-boleh-kaya/
+  judul: Mengapa Bapak (Pak Harto) Tidak Boleh Kaya
+  tanggal: '2013-08-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/mengapa-bapak-pak-harto-tidak-boleh-kaya/
 ---
+
 
 # Mengapa Bapak (Pak Harto) Tidak Boleh Kaya
 

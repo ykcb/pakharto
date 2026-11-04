@@ -1,9 +1,44 @@
 ---
-title: "1969-04-30 Presiden Soeharto Pimpin Sidang Paripurna Kabinet – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-30-presiden-soeharto-pimpin-sidang-paripurna-kabinet/"
-date: "2014-03-22T02:58:33+07:00"
+title: 1969-04-30 Presiden Soeharto Pimpin Sidang Paripurna Kabinet
+description: RABU, 30 APRIL 1969, Hari ini Presiden Soeharto memimpin sidang Paripurna
+  Kabinet Pembangunan bertempat di Istana Merdeka. Ini merupakan sidang kabinet lengkap
+  yang pertama sejak dimulainya Pelita. Sidang tersebut antara lain memutuskan...
+date: '1969-04-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-30-presiden-soeharto-pimpin-sidang-paripurna-kabinet
+aliases:
+- Presiden Soeharto Pimpin Sidang Paripurna Kabinet
+- 1969-04-30 Presiden Soeharto Pimpin Sidang Paripurna Kabinet – HM Soeharto
+tags:
+- ali-wardhana
+- iggi
+- jenderal-soeharto
+- kabinet
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- radius-prawiro
+- sidang-paripurna
+- sumitro-djojohadikusumo
+- widjojo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-30-presiden-soeharto-pimpin-sidang-paripurna-kabinet/
+  judul: 1969-04-30 Presiden Soeharto Pimpin Sidang Paripurna Kabinet
+  tanggal: '1969-04-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-30-presiden-soeharto-pimpin-sidang-paripurna-kabinet/
 ---
+
 
 # 1969-04-30 Presiden Soeharto Pimpin Sidang Paripurna Kabinet
 

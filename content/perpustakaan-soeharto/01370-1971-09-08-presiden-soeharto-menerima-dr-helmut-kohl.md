@@ -1,9 +1,38 @@
 ---
-title: "1972-09-08 Presiden Soeharto Menerima Dr. Helmut Kohl – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-08-presiden-soeharto-menerima-dr-helmut-kohl/"
-date: "2017-08-23T11:05:52+07:00"
+title: 1972-09-08 Presiden Soeharto Menerima Dr. Helmut Kohl
+description: 14 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-08-presiden-soeharto-menerima-dr-helmut-kohl/respond)
+  79 Views Share on
+date: '1971-09-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-08-presiden-soeharto-menerima-dr-helmut-kohl
+aliases:
+- Presiden Soeharto Menerima Dr. Helmut Kohl
+- 1972-09-08 Presiden Soeharto Menerima Dr. Helmut Kohl – HM Soeharto
+tags:
+- helmut-kohl
+- jerman-barat
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rheinland-pfals
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-08-presiden-soeharto-menerima-dr-helmut-kohl/
+  judul: 1972-09-08 Presiden Soeharto Menerima Dr. Helmut Kohl
+  tanggal: '1971-09-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-08-presiden-soeharto-menerima-dr-helmut-kohl/
 ---
+
 
 # 1972-09-08 Presiden Soeharto Menerima Dr. Helmut Kohl
 

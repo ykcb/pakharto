@@ -1,9 +1,38 @@
 ---
-title: "1969-10-13 Presiden Soeharto Gagas Proyek Kemanusiaan Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1969-10-13-presiden-soeharto-gagas-proyek-kemanusiaan-irian-barat/"
-date: "2014-12-01T16:34:54+07:00"
+title: 1969-10-13 Presiden Soeharto Gagas Proyek Kemanusiaan Irian Barat
+description: 4 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-10-13-presiden-soeharto-gagas-proyek-kemanusiaan-irian-barat/respond)
+  127 Views Share on
+date: '1969-10-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-10-13-presiden-soeharto-gagas-proyek-kemanusiaan-irian-barat
+aliases:
+- Presiden Soeharto Gagas Proyek Kemanusiaan Irian Barat
+- 1969-10-13 Presiden Soeharto Gagas Proyek Kemanusiaan Irian Barat – HM Soeharto
+tags:
+- irian-barat
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- proyek-kemanusiaan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-10-13-presiden-soeharto-gagas-proyek-kemanusiaan-irian-barat/
+  judul: 1969-10-13 Presiden Soeharto Gagas Proyek Kemanusiaan Irian Barat
+  tanggal: '1969-10-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-10-13-presiden-soeharto-gagas-proyek-kemanusiaan-irian-barat/
 ---
+
 
 # 1969-10-13 Presiden Soeharto Gagas Proyek Kemanusiaan Irian Barat
 

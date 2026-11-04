@@ -1,9 +1,40 @@
 ---
-title: "1969-04-11 Presiden Soeharto Menerima Delegasi Dagang Yugoslavia – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-11-presiden-soeharto-menerima-delegasi-dagang-yugoslavia1/"
-date: "2014-03-22T03:01:30+07:00"
+title: 1969-04-11 Presiden Soeharto Menerima Delegasi Dagang Yugoslavia
+description: KAMIS, 11 APRIL 1968, Presiden Soeharto malam ini di kediaman Jalan Cendana
+  telah menerima ketua delegasi perdagangan Yugoslavia, Gerlickov, yang didampingi
+  oleh duta besar Yogoslavia di Indonesia. Dalam pertemuan tersebut, Presiden...
+date: '1969-04-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-11-presiden-soeharto-menerima-delegasi-dagang-yugoslavia1
+aliases:
+- Presiden Soeharto Menerima Delegasi Dagang Yugoslavia
+- 1969-04-11 Presiden Soeharto Menerima Delegasi Dagang Yugoslavia – HM Soeharto
+tags:
+- delegasi-dagang
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- soeharto
+- yugoslavia
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-11-presiden-soeharto-menerima-delegasi-dagang-yugoslavia1/
+  judul: 1969-04-11 Presiden Soeharto Menerima Delegasi Dagang Yugoslavia
+  tanggal: '1969-04-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-11-presiden-soeharto-menerima-delegasi-dagang-yugoslavia1/
 ---
+
 
 # 1969-04-11 Presiden Soeharto Menerima Delegasi Dagang Yugoslavia
 

@@ -1,9 +1,40 @@
 ---
-title: "1972-07-31 Presiden Soeharto Menyerahkan Kapal Ke Gubernur Sumatera Utara – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-menyerahkan-kapal-ke-gubernur-sumatera-utara/"
-date: "2017-08-25T15:27:52+07:00"
+title: 1972-07-31 Presiden Soeharto Menyerahkan Kapal Ke Gubernur Sumatera Utara
+description: SENIN, 31 Juli 1972. Presiden Soeharto pagi ini di Bina Graha menyerahkan
+  dua buah kapal kepada Gubernur Sumatera Utara, Marah Halim Harap. Kapal-kapal tersebut
+  akan dipergunakan untuk kepentingan rakyat setempat. (AFR).
+date: '1972-07-31'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-menyerahkan-kapal-ke-gubernur-sumatera-utara
+aliases:
+- Presiden Soeharto Menyerahkan Kapal Ke Gubernur Sumatera Utara
+- 1972-07-31 Presiden Soeharto Menyerahkan Kapal Ke Gubernur Sumatera Utara – HM Soeharto
+tags:
+- gubernur
+- jenderal-soeharto
+- marah-halim-harahap
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- sumatera-utara
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-menyerahkan-kapal-ke-gubernur-sumatera-utara/
+  judul: 1972-07-31 Presiden Soeharto Menyerahkan Kapal Ke Gubernur Sumatera Utara
+  tanggal: '1972-07-31'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-menyerahkan-kapal-ke-gubernur-sumatera-utara/
 ---
+
 
 # 1972-07-31 Presiden Soeharto Menyerahkan Kapal Ke Gubernur Sumatera Utara
 

@@ -1,9 +1,39 @@
 ---
-title: "1974-07-12 Presiden Soeharto Resmikan Pabrik Sepeda Produk Koperasi – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-12-presiden-soeharto-resmikan-pabrik-sepeda-milik-koperasi/"
-date: "2014-05-22T21:34:50+07:00"
+title: 1974-07-12 Presiden Soeharto Resmikan Pabrik Sepeda Produk Koperasi
+description: JUM’AT, 12 Juli 1974,Bertepatan dengan hari koperasi yang ke-27, Presiden
+  Soeharto pada jam 09.00 pagi ini meresmikan pabrik sepeda Induk Koperasi Pegawai
+  Negeri (IKPN) di Batu Ceper, Tangerang, Jawa Barat. Pabrik sepeda ini memproduksi...
+date: '1974-07-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-12-presiden-soeharto-resmikan-pabrik-sepeda-milik-koperasi
+aliases:
+- Presiden Soeharto Resmikan Pabrik Sepeda Produk Koperasi
+- 1974-07-12 Presiden Soeharto Resmikan Pabrik Sepeda Produk Koperasi – HM Soeharto
+tags:
+- koperasi
+- orde-baru
+- pabrik-sepeda
+- perpustakaan-soeharto
+- presiden-soeharto
+- tangerang
+- turangsa
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-12-presiden-soeharto-resmikan-pabrik-sepeda-milik-koperasi/
+  judul: 1974-07-12 Presiden Soeharto Resmikan Pabrik Sepeda Produk Koperasi
+  tanggal: '1974-07-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-12-presiden-soeharto-resmikan-pabrik-sepeda-milik-koperasi/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/07/Presiden-Soeharto-Meninjau-Pabrik-Sepeda-Turangsa.jpg)
 

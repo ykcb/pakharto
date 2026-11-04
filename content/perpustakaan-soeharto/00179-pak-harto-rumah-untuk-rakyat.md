@@ -1,9 +1,45 @@
 ---
-title: "Pak Harto, Rumah Murah Untuk Rakyat – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-rumah-untuk-rakyat/"
-date: "2013-03-11T11:11:19+07:00"
+title: Pak Harto, Rumah Murah Untuk Rakyat
+description: Pemerintah harus punya komitmen mendukung rumah untuk masyarakat berpenghasilan
+  rendah. Ini porsi dan tugas pemerintah.
+date: '2013-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-rumah-untuk-rakyat
+aliases:
+- Pak Harto, Rumah Murah Untuk Rakyat – HM Soeharto
+tags:
+- cibinong
+- murah
+- orde-baru
+- pabrik
+- pak-harto
+- pelita
+- perlit
+- perpustakaan-soeharto
+- perumahan
+- perumnas
+- presiden
+- repelita
+- rumah
+- rumah-rakyat
+- soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-rumah-untuk-rakyat/
+  judul: Pak Harto, Rumah Murah Untuk Rakyat
+  tanggal: '2013-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-rumah-untuk-rakyat/
 ---
+
 
 # Pak Harto, Rumah Murah Untuk Rakyat
 

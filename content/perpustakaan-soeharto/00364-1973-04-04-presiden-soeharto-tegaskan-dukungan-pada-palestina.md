@@ -1,9 +1,43 @@
 ---
-title: "1973-04-04 Presiden Soeharto Tegaskan Dukungan Pada Palestina – HM Soeharto"
-source: "https://soehartolibrary.id/1973-04-04-presiden-soeharto-tegaskan-dukungan-pada-palestina/"
-date: "2017-08-28T16:54:12+07:00"
+title: 1973-04-04 Presiden Soeharto Tegaskan Dukungan Pada Palestina
+description: RABU, 4 April 1973, Pada pukul 09.00 dan 10.00 pagi ini, secara berturut-turut
+  Presiden Soeharto menerima surat-surat kepercayaan dari Duta Besar Luar Biasa dan
+  Berkuasa Penuh Republik Irak, Fathil Salman Al-Assaf, dan Duta Besar Luar...
+date: '1973-04-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-04-04-presiden-soeharto-tegaskan-dukungan-pada-palestina
+aliases:
+- Presiden Soeharto Tegaskan Dukungan Pada Palestina
+- 1973-04-04 Presiden Soeharto Tegaskan Dukungan Pada Palestina – HM Soeharto
+tags:
+- ali-said
+- ali-wardhana
+- irak
+- jaksa-agung
+- menteri
+- muangthai
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rachmat-saleh
+- soemitro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-04-04-presiden-soeharto-tegaskan-dukungan-pada-palestina/
+  judul: 1973-04-04 Presiden Soeharto Tegaskan Dukungan Pada Palestina
+  tanggal: '1973-04-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-04-04-presiden-soeharto-tegaskan-dukungan-pada-palestina/
 ---
+
 
 # 1973-04-04 Presiden Soeharto Tegaskan Dukungan Pada Palestina
 

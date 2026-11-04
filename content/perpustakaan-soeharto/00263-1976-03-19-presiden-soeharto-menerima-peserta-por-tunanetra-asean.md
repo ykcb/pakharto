@@ -1,9 +1,38 @@
 ---
-title: "1976-03-19 Presiden Soeharto Menerima Peserta POR Tunanetra ASEAN – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-19-presiden-soeharto-menerima-peserta-por-tunanetra-asean/"
-date: "2017-08-29T17:44:18+07:00"
+title: 1976-03-19 Presiden Soeharto Menerima Peserta POR Tunanetra ASEAN
+description: JUM’AT, 19 MARET 1976, Bertempat di Istana Merdeka, pagi ini Presiden
+  Soeharto menerima 66 orang Peserta Pekan Olah Raga Tunanetra ASEAN. Pekan olah raga
+  yang diikuti oleh para peserta dari Indonesia, Malaysia, Filipina, dan Singapura...
+date: '1976-03-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-19-presiden-soeharto-menerima-peserta-por-tunanetra-asean
+aliases:
+- Presiden Soeharto Menerima Peserta POR Tunanetra ASEAN
+- 1976-03-19 Presiden Soeharto Menerima Peserta POR Tunanetra ASEAN – HM Soeharto
+tags:
+- asean
+- orde-baru
+- pekan-olah-raga
+- perpustakaan-soeharto
+- presiden-soeharto
+- tunanetra
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-19-presiden-soeharto-menerima-peserta-por-tunanetra-asean/
+  judul: 1976-03-19 Presiden Soeharto Menerima Peserta POR Tunanetra ASEAN
+  tanggal: '1976-03-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-19-presiden-soeharto-menerima-peserta-por-tunanetra-asean/
 ---
+
 
 # 1976-03-19 Presiden Soeharto Menerima Peserta POR Tunanetra ASEAN
 

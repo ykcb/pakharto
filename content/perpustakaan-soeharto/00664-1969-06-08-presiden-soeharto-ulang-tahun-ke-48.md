@@ -1,9 +1,36 @@
 ---
-title: "1969-06-08 Presiden Soeharto Ulang Tahun Ke-48 – HM Soeharto"
-source: "https://soehartolibrary.id/1969-06-08-presiden-soeharto-ulang-tahun-ke-48/"
-date: "2017-08-25T15:36:36+07:00"
+title: 1969-06-08 Presiden Soeharto Ulang Tahun Ke-48
+description: MINGGU, 8 JUNI 1969, Presiden Soeharto Soeharto dan keluarga hari ini
+  merayakan hari ulang tahunnya yang ke-48. Dalam rangka itu ia telah menerima ucapan
+  selamat ulang tahun dari para pemimpin, baik dari dalam maupun luar negeri. (AFR).
+date: '1969-06-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-06-08-presiden-soeharto-ulang-tahun-ke-48
+aliases:
+- Presiden Soeharto Ulang Tahun Ke-48
+- 1969-06-08 Presiden Soeharto Ulang Tahun Ke-48 – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- ulang-tahun
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-06-08-presiden-soeharto-ulang-tahun-ke-48/
+  judul: 1969-06-08 Presiden Soeharto Ulang Tahun Ke-48
+  tanggal: '1969-06-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-06-08-presiden-soeharto-ulang-tahun-ke-48/
 ---
+
 
 # 1969-06-08 Presiden Soeharto Ulang Tahun Ke-48
 

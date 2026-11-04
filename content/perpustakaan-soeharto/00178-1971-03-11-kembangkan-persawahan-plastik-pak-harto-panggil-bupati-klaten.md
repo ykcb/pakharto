@@ -1,9 +1,41 @@
 ---
-title: "1971-03-11 Kembangkan Persawahan Plastik, Pak Harto Panggil Bupati Klaten – HM Soeharto"
-source: "https://soehartolibrary.id/1971-03-11-kembangkan-persawahan-plastik-pak-harto-panggil-bupati-klaten/"
-date: "2017-08-29T17:02:25+07:00"
+title: 1971-03-11 Kembangkan Persawahan Plastik, Pak Harto Panggil Bupati Klaten
+description: KAMIS, 11 Maret 1971, Sebagai kelanjutan dari peninjauan yang dilakukannya
+  ke daerah-daerah di Jawa Barat dan Jawa Tengah baru-baru ini, Presiden Soeharto
+  memanggil Bupati Klaten untuk menghadapnya di Jakarta. Siang, presiden menerima...
+date: '1971-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-03-11-kembangkan-persawahan-plastik-pak-harto-panggil-bupati-klaten
+aliases:
+- Kembangkan Persawahan Plastik, Pak Harto Panggil Bupati Klaten
+- 1971-03-11 Kembangkan Persawahan Plastik, Pak Harto Panggil Bupati Klaten – HM Soeharto
+tags:
+- klaten
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- persawahan
+- plastik
+- presiden
+- soeharto
+- suara-karya
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-03-11-kembangkan-persawahan-plastik-pak-harto-panggil-bupati-klaten/
+  judul: 1971-03-11 Kembangkan Persawahan Plastik, Pak Harto Panggil Bupati Klaten
+  tanggal: '1971-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-03-11-kembangkan-persawahan-plastik-pak-harto-panggil-bupati-klaten/
 ---
+
 
 # 1971-03-11 Kembangkan Persawahan Plastik, Pak Harto Panggil Bupati Klaten
 

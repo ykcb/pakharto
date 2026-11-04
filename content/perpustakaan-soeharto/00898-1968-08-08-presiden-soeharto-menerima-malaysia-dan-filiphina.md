@@ -1,9 +1,40 @@
 ---
-title: "1968-08-08 Presiden Soeharto Menerima Menlu Malaysia dan Filiphina – HM Soeharto"
-source: "https://soehartolibrary.id/1968-08-08-presiden-soeharto-menerima-malaysia-dan-filiphina/"
-date: "2017-08-23T11:38:32+07:00"
+title: 1968-08-08 Presiden Soeharto Menerima Menlu Malaysia dan Filiphina
+description: SELASA, 08 AGUSTUS 1968, Hari ini Presiden Soeharto secara terpisah bertemu
+  dengan dua orang menteri luar negeri negara ASEAN di Istana Merdeka. Menteri Luar
+  Negeri Malaysia diterima pada jam 9.00, sedangkan Menteri Luar Negeri...
+date: '1968-08-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-08-08-presiden-soeharto-menerima-malaysia-dan-filiphina
+aliases:
+- Presiden Soeharto Menerima Menlu Malaysia dan Filiphina
+- 1968-08-08 Presiden Soeharto Menerima Menlu Malaysia dan Filiphina – HM Soeharto
+tags:
+- filiphina
+- jenderal-soeharto
+- malaysia
+- menlu-asean
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-08-08-presiden-soeharto-menerima-malaysia-dan-filiphina/
+  judul: 1968-08-08 Presiden Soeharto Menerima Menlu Malaysia dan Filiphina
+  tanggal: '1968-08-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-08-08-presiden-soeharto-menerima-malaysia-dan-filiphina/
 ---
+
 
 # 1968-08-08 Presiden Soeharto Menerima Menlu Malaysia dan Filiphina
 

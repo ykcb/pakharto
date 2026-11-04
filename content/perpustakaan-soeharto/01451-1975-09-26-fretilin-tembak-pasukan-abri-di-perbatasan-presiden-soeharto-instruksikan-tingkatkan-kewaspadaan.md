@@ -1,9 +1,46 @@
 ---
-title: "1975-09-26 Fretilin Tembak Pasukan ABRI di Perbatasan, Presiden Soeharto Instruksikan Tingkatkan Kewaspadaan – HM Soeharto"
-source: "https://soehartolibrary.id/1975-09-26-fretilin-tembak-pasukan-abri-di-perbatasan-presiden-soeharto-instruksikan-tingkatkan-kewaspadaan/"
-date: "2017-08-22T16:20:08+07:00"
+title: 1975-09-26 Fretilin Tembak Pasukan ABRI di Perbatasan, Presiden Soeharto Instruksikan
+  Tingkatkan Kewaspadaan
+description: 18 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-09-26-fretilin-tembak-pasukan-abri-di-perbatasan-presiden-soeharto-instruksikan-tingkatkan-kewaspadaan/respond)...
+date: '1975-09-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-09-26-fretilin-tembak-pasukan-abri-di-perbatasan-presiden-soeharto-instruksikan-tingkatkan-kewaspadaan
+aliases:
+- Fretilin Tembak Pasukan ABRI di Perbatasan, Presiden Soeharto Instruksikan Tingkatkan
+  Kewaspadaan
+- 1975-09-26 Fretilin Tembak Pasukan ABRI di Perbatasan, Presiden Soeharto Instruksikan
+  Tingkatkan Kewaspadaan – HM Soeharto
+tags:
+- abri
+- ad-interim
+- fretilin
+- kewaspadaan
+- m-panggabean
+- menterri-luar-negeri
+- orde-baru
+- perbatasan
+- perpustakaan-soeharto
+- timor-indonesia
+- timor-portugis
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-09-26-fretilin-tembak-pasukan-abri-di-perbatasan-presiden-soeharto-instruksikan-tingkatkan-kewaspadaan/
+  judul: 1975-09-26 Fretilin Tembak Pasukan ABRI di Perbatasan, Presiden Soeharto
+    Instruksikan Tingkatkan Kewaspadaan
+  tanggal: '1975-09-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-09-26-fretilin-tembak-pasukan-abri-di-perbatasan-presiden-soeharto-instruksikan-tingkatkan-kewaspadaan/
 ---
+
 
 # 1975-09-26 Fretilin Tembak Pasukan ABRI di Perbatasan, Presiden Soeharto Instruksikan Tingkatkan Kewaspadaan
 

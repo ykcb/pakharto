@@ -1,9 +1,42 @@
 ---
-title: "1971-09-02 Presiden Soeharto Bahas Ekspor Tambang dan Stabilitas Harga Kebutuhan Pokok – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-02-presiden-soeharto-bahas-ekspor-tambang-dan-stabilitas-harga-kebutuhan-pokok/"
-date: "2017-08-22T16:21:48+07:00"
+title: 1971-09-02 Presiden Soeharto Bahas Ekspor Tambang dan Stabilitas Harga Kebutuhan
+  Pokok
+description: 11 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-02-presiden-soeharto-bahas-ekspor-tambang-dan-stabilitas-harga-kebutuhan-pokok/respond)
+  92 Views Share on
+date: '1971-09-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-02-presiden-soeharto-bahas-ekspor-tambang-dan-stabilitas-harga-kebutuhan-pokok
+aliases:
+- Presiden Soeharto Bahas Ekspor Tambang dan Stabilitas Harga Kebutuhan Pokok
+- 1971-09-02 Presiden Soeharto Bahas Ekspor Tambang dan Stabilitas Harga Kebutuhan
+  Pokok – HM Soeharto
+tags:
+- ekspor-tambang
+- kepala-bulog
+- letjen-achmad-tirtosudiro
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- prof-dr-sumantri-brodjonegoro
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-02-presiden-soeharto-bahas-ekspor-tambang-dan-stabilitas-harga-kebutuhan-pokok/
+  judul: 1971-09-02 Presiden Soeharto Bahas Ekspor Tambang dan Stabilitas Harga Kebutuhan
+    Pokok
+  tanggal: '1971-09-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-02-presiden-soeharto-bahas-ekspor-tambang-dan-stabilitas-harga-kebutuhan-pokok/
 ---
+
 
 # 1971-09-02 Presiden Soeharto Bahas Ekspor Tambang dan Stabilitas Harga Kebutuhan Pokok
 

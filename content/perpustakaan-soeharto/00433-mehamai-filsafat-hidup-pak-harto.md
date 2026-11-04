@@ -1,9 +1,34 @@
 ---
-title: "Memahamai Falsafah Hidup Pak Harto (1) – HM Soeharto"
-source: "https://soehartolibrary.id/mehamai-filsafat-hidup-pak-harto/"
-date: "2013-06-20T17:46:55+07:00"
+title: Memahamai Falsafah Hidup Pak Harto (1)
+description: “Yen Arep Weruh Trahing Ngaluhur, Titiken Alusing Tingkah-Laku Budi Basane”[](ftn2)
+date: '2013-06-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: mehamai-filsafat-hidup-pak-harto
+aliases:
+- Memahamai Falsafah Hidup Pak Harto (1) – HM Soeharto
+tags:
+- jawa
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/mehamai-filsafat-hidup-pak-harto/
+  judul: Memahamai Falsafah Hidup Pak Harto (1)
+  tanggal: '2013-06-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/mehamai-filsafat-hidup-pak-harto/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/04/D.jpg)
 

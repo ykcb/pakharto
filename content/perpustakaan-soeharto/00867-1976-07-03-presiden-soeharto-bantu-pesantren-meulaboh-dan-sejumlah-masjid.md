@@ -1,9 +1,44 @@
 ---
-title: "1976-07-03 Presiden Soeharto Bantu Pesantren Meulaboh dan Sejumlah Masjid – HM Soeharto"
-source: "https://soehartolibrary.id/1976-07-03-presiden-soeharto-bantu-pesantren-meulaboh-dan-sejumlah-masjid/"
-date: "2017-08-23T11:42:35+07:00"
+title: 1976-07-03 Presiden Soeharto Bantu Pesantren Meulaboh dan Sejumlah Masjid
+description: SABTU, 03 Juli 1976 Hari ini Presiden Soeharto memutuskan untuk membantu
+  perbaikan dan pembangunan sebuah pesantren di Meulaboh, Aceh Barat. Bantuan yang
+  akan diberikan itu berjumlah Rp. 9,5 juta, berasal dari dana sosial dan...
+date: '1976-07-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-07-03-presiden-soeharto-bantu-pesantren-meulaboh-dan-sejumlah-masjid
+aliases:
+- Presiden Soeharto Bantu Pesantren Meulaboh dan Sejumlah Masjid
+- 1976-07-03 Presiden Soeharto Bantu Pesantren Meulaboh dan Sejumlah Masjid – HM Soeharto
+tags:
+- aceh-barat
+- kedung-b-anteng
+- kota-baru
+- masjid
+- meulaboh
+- moyudan
+- orde-baru
+- perpustakaan-soeharto
+- pesantren
+- presiden-soeharto
+- sulawesi-selatan
+- yogyakarta
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-07-03-presiden-soeharto-bantu-pesantren-meulaboh-dan-sejumlah-masjid/
+  judul: 1976-07-03 Presiden Soeharto Bantu Pesantren Meulaboh dan Sejumlah Masjid
+  tanggal: '1976-07-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-07-03-presiden-soeharto-bantu-pesantren-meulaboh-dan-sejumlah-masjid/
 ---
+
 
 # 1976-07-03 Presiden Soeharto Bantu Pesantren Meulaboh dan Sejumlah Masjid
 

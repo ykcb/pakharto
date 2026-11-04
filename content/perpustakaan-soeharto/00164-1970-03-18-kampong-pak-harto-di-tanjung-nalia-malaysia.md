@@ -1,9 +1,43 @@
 ---
-title: "1970-03-18 Kampong Pak Harto di Tanjung Nalia Malaysia – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-18-kampong-pak-harto-di-tanjung-nalia-malaysia/"
-date: "2017-08-29T17:13:42+07:00"
+title: 1970-03-18 Kampong Pak Harto di Tanjung Nalia Malaysia
+description: RABU, 18 Maret 1970, Diantar oleh Wakil PM Tun Abdul Razak, pada hari
+  ketiga atau hari terakhir kunjungannya ke Malaysia, Presiden Soeharto melakukan
+  perjalanan darat sejauh 47 mil ke utara Kuala Lumpur, untuk meninjau berbagai proyek...
+date: '1970-03-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-18-kampong-pak-harto-di-tanjung-nalia-malaysia
+aliases:
+- Kampong Pak Harto di Tanjung Nalia Malaysia
+- 1970-03-18 Kampong Pak Harto di Tanjung Nalia Malaysia – HM Soeharto
+tags:
+- gambela
+- haji
+- kampong
+- malaysia
+- nalia
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden
+- soeharto
+- tanjong
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-18-kampong-pak-harto-di-tanjung-nalia-malaysia/
+  judul: 1970-03-18 Kampong Pak Harto di Tanjung Nalia Malaysia
+  tanggal: '1970-03-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-18-kampong-pak-harto-di-tanjung-nalia-malaysia/
 ---
+
 
 # 1970-03-18 Kampong Pak Harto di Tanjung Nalia Malaysia
 

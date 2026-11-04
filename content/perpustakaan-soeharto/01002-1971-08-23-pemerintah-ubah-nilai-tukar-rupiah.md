@@ -1,9 +1,42 @@
 ---
-title: "1971-08-23 Pemerintah Ubah Nilai Tukar Rupiah – HM Soeharto"
-source: "https://soehartolibrary.id/1971-08-23-pemerintah-ubah-nilai-tukar-rupiah/"
-date: "2017-08-24T15:09:40+07:00"
+title: 1971-08-23 Pemerintah Ubah Nilai Tukar Rupiah
+description: 18 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-08-23-pemerintah-ubah-nilai-tukar-rupiah/respond)
+  142 Views Share on
+date: '1971-08-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-08-23-pemerintah-ubah-nilai-tukar-rupiah
+aliases:
+- Pemerintah Ubah Nilai Tukar Rupiah
+- 1971-08-23 Pemerintah Ubah Nilai Tukar Rupiah – HM Soeharto
+tags:
+- dolar-as
+- gubernur-bank-sentral
+- ketua-bappenas
+- menteri-keuangan
+- menteri-perdagangan
+- nilai-tukar-rupiah
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sekretaris-kabinet
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-08-23-pemerintah-ubah-nilai-tukar-rupiah/
+  judul: 1971-08-23 Pemerintah Ubah Nilai Tukar Rupiah
+  tanggal: '1971-08-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-08-23-pemerintah-ubah-nilai-tukar-rupiah/
 ---
+
 
 # 1971-08-23 Pemerintah Ubah Nilai Tukar Rupiah
 

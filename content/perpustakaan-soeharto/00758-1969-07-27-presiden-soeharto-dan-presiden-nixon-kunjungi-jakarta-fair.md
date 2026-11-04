@@ -1,9 +1,42 @@
 ---
-title: "1969-07-27 Presiden Soeharto dan Presiden Nixon Kunjungi Jakarta Fair – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-27-presiden-soeharto-dan-presiden-nixon-kunjungi-jakarta-fair/"
-date: "2017-08-24T15:21:40+07:00"
+title: 1969-07-27 Presiden Soeharto dan Presiden Nixon Kunjungi Jakarta Fair
+description: MINGGU, 27 Juli 1969. Presiden Amerika Serikat, Richard Nixon dan Nyonya,
+  siang ini tiba di Jakarta. Dalam pidato selamat datangnya, Presiden Soeharto mengatakan
+  bahwa saat ini merupakan hari bersejarah bagi hubungan antara kedua...
+date: '1969-07-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-27-presiden-soeharto-dan-presiden-nixon-kunjungi-jakarta-fair
+aliases:
+- Presiden Soeharto dan Presiden Nixon Kunjungi Jakarta Fair
+- 1969-07-27 Presiden Soeharto dan Presiden Nixon Kunjungi Jakarta Fair – HM Soeharto
+tags:
+- adam-malik
+- as
+- jenderal-soeharto
+- menteri-luar-negeri
+- nixon
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- william-p-rogers
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-27-presiden-soeharto-dan-presiden-nixon-kunjungi-jakarta-fair/
+  judul: 1969-07-27 Presiden Soeharto dan Presiden Nixon Kunjungi Jakarta Fair
+  tanggal: '1969-07-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-27-presiden-soeharto-dan-presiden-nixon-kunjungi-jakarta-fair/
 ---
+
 
 # 1969-07-27 Presiden Soeharto dan Presiden Nixon Kunjungi Jakarta Fair
 

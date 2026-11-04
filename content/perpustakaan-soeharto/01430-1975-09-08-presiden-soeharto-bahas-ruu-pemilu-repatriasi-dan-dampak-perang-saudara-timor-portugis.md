@@ -1,9 +1,49 @@
 ---
-title: "1975-09-08 Presiden Soeharto Bahas RUU Pemilu, Repatriasi dan Dampak Perang Saudara Timor Portugis – HM Soeharto"
-source: "https://soehartolibrary.id/1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis/"
-date: "2017-08-23T10:50:02+07:00"
+title: 1975-09-08 Presiden Soeharto Bahas RUU Pemilu, Repatriasi dan Dampak Perang
+  Saudara Timor Portugis
+description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis/respond)
+  112 Views...
+date: '1975-09-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis
+aliases:
+- Presiden Soeharto Bahas RUU Pemilu, Repatriasi dan Dampak Perang Saudara Timor Portugis
+- 1975-09-08 Presiden Soeharto Bahas RUU Pemilu, Repatriasi dan Dampak Perang Saudara
+  Timor Portugis – HM Soeharto
+tags:
+- amirmachmud
+- belanda
+- dalam-negeri
+- dpr
+- dprd
+- maluku
+- mpr
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- repatriasi
+- ruu-pemilu
+- timor-portugis
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis/
+  judul: 1975-09-08 Presiden Soeharto Bahas RUU Pemilu, Repatriasi dan Dampak Perang
+    Saudara Timor Portugis
+  tanggal: '1975-09-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis/
 ---
+
 
 # 1975-09-08 Presiden Soeharto Bahas RUU Pemilu, Repatriasi dan Dampak Perang Saudara Timor Portugis
 

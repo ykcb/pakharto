@@ -1,9 +1,48 @@
 ---
-title: "1975-07-24 Presiden Soeharto Menerima Menhub Pakistan, BJ. Habibie dan Kabulog – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-24-presiden-soeharto-menerima-menhub-pakistan-bj-habibie-dan-kabulog/"
-date: "2017-08-23T11:43:08+07:00"
+title: 1975-07-24 Presiden Soeharto Menerima Menhub Pakistan, BJ. Habibie dan Kabulog
+description: KAMIS, 24 Juli 1975 Menteri Perhubungan Pakistan, Mumtaz Ali Bhutto,
+  pagi ini menghadap Kepala Negara di Bina Graha. Menteri Perhubungan Bhutto berada
+  di Jakarta dalam rangka menghadiri dan mengetuai delegasi Pakistan dalam sidang
+  ke-7...
+date: '1975-07-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-24-presiden-soeharto-menerima-menhub-pakistan-bj-habibie-dan-kabulog
+aliases:
+- Presiden Soeharto Menerima Menhub Pakistan, BJ. Habibie dan Kabulog
+- 1975-07-24 Presiden Soeharto Menerima Menhub Pakistan, BJ. Habibie dan Kabulog –
+  HM Soeharto
+tags:
+- adam-malik
+- bj-habibie
+- bustanil-arifin
+- duta-besar-ri
+- imam-abikusno
+- jerman-barat
+- kabulog
+- krupp
+- menteri-luar-negeri
+- menteri-perhubungan
+- mumtaz-ali-bhutto
+- orde-baru
+- pakistan
+- perpustakaan-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-24-presiden-soeharto-menerima-menhub-pakistan-bj-habibie-dan-kabulog/
+  judul: 1975-07-24 Presiden Soeharto Menerima Menhub Pakistan, BJ. Habibie dan Kabulog
+  tanggal: '1975-07-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-24-presiden-soeharto-menerima-menhub-pakistan-bj-habibie-dan-kabulog/
 ---
+
 
 # 1975-07-24 Presiden Soeharto Menerima Menhub Pakistan, BJ. Habibie dan Kabulog
 

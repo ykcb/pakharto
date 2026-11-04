@@ -1,9 +1,42 @@
 ---
-title: "1972-10-01 Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila Harus Tanpa Ragu – HM Soeharto"
-source: "https://soehartolibrary.id/1972-10-01-presiden-soeharto-mempertahankan-dan-melaksanakan-pancasila-harus-tanpa-ragu/"
-date: "2014-12-01T16:10:46+07:00"
+title: '1972-10-01 Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila Harus
+  Tanpa Ragu'
+description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-10-01-presiden-soeharto-mempertahankan-dan-melaksanakan-pancasila-harus-tanpa-ragu/respond)
+  95 Views Share on
+date: '1972-10-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-10-01-presiden-soeharto-mempertahankan-dan-melaksanakan-pancasila-harus-tanpa-ragu
+aliases:
+- 'Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila Harus Tanpa Ragu'
+- '1972-10-01 Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila Harus Tanpa
+  Ragu – HM Soeharto'
+tags:
+- gbhn
+- kepala-negara
+- mpr
+- orde-baru
+- pancasila
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-10-01-presiden-soeharto-mempertahankan-dan-melaksanakan-pancasila-harus-tanpa-ragu/
+  judul: '1972-10-01 Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila
+    Harus Tanpa Ragu'
+  tanggal: '1972-10-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-10-01-presiden-soeharto-mempertahankan-dan-melaksanakan-pancasila-harus-tanpa-ragu/
 ---
+
 
 # 1972-10-01 Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila Harus Tanpa Ragu
 

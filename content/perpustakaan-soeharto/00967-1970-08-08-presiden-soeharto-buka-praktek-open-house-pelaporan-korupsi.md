@@ -1,9 +1,41 @@
 ---
-title: "1970-08-08 Presiden Soeharto Buka “Praktek” (Open House) Pelaporan Korupsi – HM Soeharto"
-source: "https://soehartolibrary.id/1970-08-08-presiden-soeharto-buka-praktek-open-house-pelaporan-korupsi/"
-date: "2014-11-21T06:21:49+07:00"
+title: 1970-08-08 Presiden Soeharto Buka “Praktek” (Open House) Pelaporan Korupsi
+description: SABTU, 08 AGUSTUS 1970, Mulai jam 10.00 pagi sampai jam 12.30 siang ini
+  Presiden Soeharto telah membuka “praktek” bagi orang-orang yang ingin melaporkan
+  korupsi. Hari ini Presiden Soeharto menerima “Kelompok Diskusi Mahasiswa...
+date: '1970-08-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-08-08-presiden-soeharto-buka-praktek-open-house-pelaporan-korupsi
+aliases:
+- Presiden Soeharto Buka “Praktek” (Open House) Pelaporan Korupsi
+- 1970-08-08 Presiden Soeharto Buka “Praktek” (Open House) Pelaporan Korupsi – HM
+  Soeharto
+tags:
+- jenderal-soeharto
+- kapi
+- kappi
+- korupsi
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-08-08-presiden-soeharto-buka-praktek-open-house-pelaporan-korupsi/
+  judul: 1970-08-08 Presiden Soeharto Buka “Praktek” (Open House) Pelaporan Korupsi
+  tanggal: '1970-08-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-08-08-presiden-soeharto-buka-praktek-open-house-pelaporan-korupsi/
 ---
+
 
 # 1970-08-08 Presiden Soeharto Buka “Praktek” (Open House) Pelaporan Korupsi
 

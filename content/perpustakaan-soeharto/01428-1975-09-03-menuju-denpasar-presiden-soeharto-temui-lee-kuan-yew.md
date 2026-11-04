@@ -1,9 +1,41 @@
 ---
-title: "1975-09-03 Menuju Denpasar, Presiden Soeharto Temui Lee Kuan Yew – HM Soeharto"
-source: "https://soehartolibrary.id/1975-09-03-menuju-denpasar-presiden-soeharto-temui-lee-kuan-yew/"
-date: "2017-08-23T10:50:46+07:00"
+title: 1975-09-03 Menuju Denpasar, Presiden Soeharto Temui Lee Kuan Yew
+description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-09-03-menuju-denpasar-presiden-soeharto-temui-lee-kuan-yew/respond)
+  101 Views Share on
+date: '1975-09-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-09-03-menuju-denpasar-presiden-soeharto-temui-lee-kuan-yew
+aliases:
+- Menuju Denpasar, Presiden Soeharto Temui Lee Kuan Yew
+- 1975-09-03 Menuju Denpasar, Presiden Soeharto Temui Lee Kuan Yew – HM Soeharto
+tags:
+- ibu-tien-soeharto
+- ktt-asean
+- lee-kuan-yew
+- orde-baru
+- pantai-kuta
+- perpustakaan-soeharto
+- pertamina-cottage
+- pm-singapura
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-09-03-menuju-denpasar-presiden-soeharto-temui-lee-kuan-yew/
+  judul: 1975-09-03 Menuju Denpasar, Presiden Soeharto Temui Lee Kuan Yew
+  tanggal: '1975-09-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-09-03-menuju-denpasar-presiden-soeharto-temui-lee-kuan-yew/
 ---
+
 
 # 1975-09-03 Menuju Denpasar, Presiden Soeharto Temui Lee Kuan Yew
 

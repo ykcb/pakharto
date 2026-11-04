@@ -1,9 +1,39 @@
 ---
-title: "Presiden Soeharto Menyerahkan Celana Kolor Untuk Rakyat Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-menyerahkan-celana-kolor-untuk-rakyat-irian-barat/"
-date: "2013-07-18T06:20:03+07:00"
+title: Presiden Soeharto Menyerahkan Celana Kolor Untuk Rakyat Irian Barat
+description: Irian Barat merupakan wilayah yang luas dan penduduknya terdiri dari
+  banyak suku yang tersebar di pelosok-pelosok hutan, dengan pola hidup tradisional.
+  Setelah berhasil direbut kembali dari cengkeraman kolonial Belanda, dan melalui...
+date: '2013-07-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-menyerahkan-celana-kolor-untuk-rakyat-irian-barat
+aliases:
+- Presiden Soeharto Menyerahkan Celana Kolor Untuk Rakyat Irian Barat – HM Soeharto
+tags:
+- celana-kolor
+- irian-barat
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- sarung
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-menyerahkan-celana-kolor-untuk-rakyat-irian-barat/
+  judul: Presiden Soeharto Menyerahkan Celana Kolor Untuk Rakyat Irian Barat
+  tanggal: '2013-07-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-menyerahkan-celana-kolor-untuk-rakyat-irian-barat/
 ---
+
 
 # Presiden Soeharto Menyerahkan Celana Kolor Untuk Rakyat Irian Barat
 

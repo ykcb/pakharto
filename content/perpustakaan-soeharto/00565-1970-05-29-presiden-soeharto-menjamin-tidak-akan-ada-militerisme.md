@@ -1,9 +1,39 @@
 ---
-title: "1970-05-29 Presiden Soeharto Menjamin Tidak Akan Ada Militerisme – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-29-presiden-soeharto-menjamin-tidak-akan-ada-militerisme/"
-date: "2017-08-28T16:45:06+07:00"
+title: 1970-05-29 Presiden Soeharto Menjamin Tidak Akan Ada Militerisme
+description: JUM’AT, 29 MEI 1970, Sebelum meninggalkan New York menuju Tenneseee,
+  Presiden Soeharto dalam suatu konferensi pers menjamin bahwa Indonesia pasti akan
+  membayar kembali semua utang luar negerinya, baik yang lama maupun yang baru. Selain...
+date: '1970-05-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-29-presiden-soeharto-menjamin-tidak-akan-ada-militerisme
+aliases:
+- Presiden Soeharto Menjamin Tidak Akan Ada Militerisme
+- 1970-05-29 Presiden Soeharto Menjamin Tidak Akan Ada Militerisme – HM Soeharto
+tags:
+- hutang-luar-negeri
+- miiliterisme
+- new-york
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tenneseee
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-29-presiden-soeharto-menjamin-tidak-akan-ada-militerisme/
+  judul: 1970-05-29 Presiden Soeharto Menjamin Tidak Akan Ada Militerisme
+  tanggal: '1970-05-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-29-presiden-soeharto-menjamin-tidak-akan-ada-militerisme/
 ---
+
 
 # 1970-05-29 Presiden Soeharto Menjamin Tidak Akan Ada Militerisme
 

@@ -1,9 +1,38 @@
 ---
-title: "1970-05-24 Presiden Soeharto dan Ibu Tien Menuju AS – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-24-presiden-soeharto-dan-ibu-tien-menuju-as/"
-date: "2017-08-28T16:45:28+07:00"
+title: 1970-05-24 Presiden Soeharto dan Ibu Tien Menuju AS
+description: MINGGU, 24 MEI 1970, Petang ini, Presiden dan Ibu Soeharto beserta rombongan
+  meninggalkan tanah air menuju Amerika Serikat dalam rangka kunjungan kenegaraan
+  selama delapan hari. (AFR)
+date: '1970-05-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-24-presiden-soeharto-dan-ibu-tien-menuju-as
+aliases:
+- Presiden Soeharto dan Ibu Tien Menuju AS
+- 1970-05-24 Presiden Soeharto dan Ibu Tien Menuju AS – HM Soeharto
+tags:
+- amerika-serikat
+- ibu-tien
+- kunjungan-kenegaraan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-24-presiden-soeharto-dan-ibu-tien-menuju-as/
+  judul: 1970-05-24 Presiden Soeharto dan Ibu Tien Menuju AS
+  tanggal: '1970-05-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-24-presiden-soeharto-dan-ibu-tien-menuju-as/
 ---
+
 
 # 1970-05-24 Presiden Soeharto dan Ibu Tien Menuju AS
 

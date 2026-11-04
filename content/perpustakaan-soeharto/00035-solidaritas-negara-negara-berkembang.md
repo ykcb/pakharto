@@ -1,9 +1,38 @@
 ---
-title: "SOLIDARITAS NEGARA-NEGARA BERKEMBANG – HM Soeharto"
-source: "https://soehartolibrary.id/solidaritas-negara-negara-berkembang/"
-date: "2013-01-28T19:05:14+07:00"
+title: SOLIDARITAS NEGARA-NEGARA BERKEMBANG
+description: Setelah mengukuhkan pijakan atas kendali stabilitas dalam negeri dan
+  kawasan Asean, Presiden Soeharto melancarkan politik luar negeri dalam skala lebih
+  luas. Indonesia proaktif dalam agenda pembebasan dunia dari bentuk-bentuk soft and...
+date: '2013-01-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: solidaritas-negara-negara-berkembang
+aliases:
+- SOLIDARITAS NEGARA-NEGARA BERKEMBANG – HM Soeharto
+tags:
+- apec
+- asean
+- luar-negeri
+- oki
+- orde-baru
+- perpustakaan-soeharto
+- politik
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/solidaritas-negara-negara-berkembang/
+  judul: SOLIDARITAS NEGARA-NEGARA BERKEMBANG
+  tanggal: '2013-01-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/solidaritas-negara-negara-berkembang/
 ---
+
 
 ![Peringatan KAA Bandung](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b370.jpg)
 

@@ -1,9 +1,38 @@
 ---
-title: "1973-05-19 Presiden Soeharto: Pertanian Mendukung dan Membina Perindustrian – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-19-presiden-soeharto-pertanian-mendukung-dan-membina-perindustrian/"
-date: "2017-08-25T15:33:41+07:00"
+title: '1973-05-19 Presiden Soeharto: Pertanian Mendukung dan Membina Perindustrian'
+description: SABTU, 19 Mei 1973, Pukul 09.00 pagi ini Presiden Soeharto menerima Dewan
+  Pimpinan Harian HKTI di Bina Graha. Kepada mereka Kepala Negara menjelaskan kembali
+  usaha-usaha pemerintah untuk meningkatkan dan memperluas peranan BUUD sebagai...
+date: '1973-05-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-19-presiden-soeharto-pertanian-mendukung-dan-membina-perindustrian
+aliases:
+- 'Presiden Soeharto: Pertanian Mendukung dan Membina Perindustrian'
+- '1973-05-19 Presiden Soeharto: Pertanian Mendukung dan Membina Perindustrian – HM
+  Soeharto'
+tags:
+- orde-baru
+- perindustrian
+- perpustakaan-soeharto
+- pertanian
+- presiden-soeharto-hkti
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-19-presiden-soeharto-pertanian-mendukung-dan-membina-perindustrian/
+  judul: '1973-05-19 Presiden Soeharto: Pertanian Mendukung dan Membina Perindustrian'
+  tanggal: '1973-05-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-19-presiden-soeharto-pertanian-mendukung-dan-membina-perindustrian/
 ---
+
 
 # 1973-05-19 Presiden Soeharto: Pertanian Mendukung dan Membina Perindustrian
 

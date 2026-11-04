@@ -1,9 +1,37 @@
 ---
-title: "1968-09-04 Presiden Soeharto Akhiri dan Jelaskan Kunjungannya Ke Sumatera – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-04-presiden-soeharto-akhiri-dan-jelaskan-kunjungannya-ke-sumatera/"
-date: "2014-04-01T02:16:11+07:00"
+title: 1968-09-04 Presiden Soeharto Akhiri dan Jelaskan Kunjungannya Ke Sumatera
+description: 1 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-04-presiden-soeharto-akhiri-dan-jelaskan-kunjungannya-ke-sumatera/respond)
+  128 Views Share on
+date: '1968-09-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-04-presiden-soeharto-akhiri-dan-jelaskan-kunjungannya-ke-sumatera
+aliases:
+- Presiden Soeharto Akhiri dan Jelaskan Kunjungannya Ke Sumatera
+- 1968-09-04 Presiden Soeharto Akhiri dan Jelaskan Kunjungannya Ke Sumatera – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sumatera
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-04-presiden-soeharto-akhiri-dan-jelaskan-kunjungannya-ke-sumatera/
+  judul: 1968-09-04 Presiden Soeharto Akhiri dan Jelaskan Kunjungannya Ke Sumatera
+  tanggal: '1968-09-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-04-presiden-soeharto-akhiri-dan-jelaskan-kunjungannya-ke-sumatera/
 ---
+
 
 # 1968-09-04 Presiden Soeharto Akhiri dan Jelaskan Kunjungannya Ke Sumatera
 

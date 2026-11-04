@@ -1,9 +1,43 @@
 ---
-title: "1968-10-14 Ibnu Sutowo Laporkan Penandatangan Kontrak Eksplorasi Lepas Pantai Dengan Italia – HM Soeharto"
-source: "https://soehartolibrary.id/1968-10-14-ibnu-sutowo-laporkan-penandatangan-kontrak-eksplorasi-lepas-pantai-dengan-italia/"
-date: "2014-04-01T02:12:04+07:00"
+title: 1968-10-14 Ibnu Sutowo Laporkan Penandatangan Kontrak Eksplorasi Lepas Pantai
+  Dengan Italia
+description: 1 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-10-14-ibnu-sutowo-laporkan-penandatangan-kontrak-eksplorasi-lepas-pantai-dengan-italia/respond)
+  79 Views Share on
+date: '1968-10-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-10-14-ibnu-sutowo-laporkan-penandatangan-kontrak-eksplorasi-lepas-pantai-dengan-italia
+aliases:
+- Ibnu Sutowo Laporkan Penandatangan Kontrak Eksplorasi Lepas Pantai Dengan Italia
+- 1968-10-14 Ibnu Sutowo Laporkan Penandatangan Kontrak Eksplorasi Lepas Pantai Dengan
+  Italia – HM Soeharto
+tags:
+- eksplorasi
+- italia
+- kepala-negara
+- kontrak
+- lepas-pantai
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-10-14-ibnu-sutowo-laporkan-penandatangan-kontrak-eksplorasi-lepas-pantai-dengan-italia/
+  judul: 1968-10-14 Ibnu Sutowo Laporkan Penandatangan Kontrak Eksplorasi Lepas Pantai
+    Dengan Italia
+  tanggal: '1968-10-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-10-14-ibnu-sutowo-laporkan-penandatangan-kontrak-eksplorasi-lepas-pantai-dengan-italia/
 ---
+
 
 # 1968-10-14 Ibnu Sutowo Laporkan Penandatangan Kontrak Eksplorasi Lepas Pantai Dengan Italia
 

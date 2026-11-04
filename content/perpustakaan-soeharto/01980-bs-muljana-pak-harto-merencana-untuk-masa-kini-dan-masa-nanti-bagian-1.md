@@ -1,9 +1,40 @@
 ---
-title: "BS Muljana: Pak Harto Merencana Untuk Masa Kini Dan Masa Nanti (Bagian 1) – HM Soeharto"
-source: "https://soehartolibrary.id/bs-muljana-pak-harto-merencana-untuk-masa-kini-dan-masa-nanti-bagian-1/"
-date: "2017-02-14T18:03:43+07:00"
+title: 'BS Muljana: Pak Harto Merencana Untuk Masa Kini Dan Masa Nanti (Bagian 1)'
+description: 18 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [1 Comment](https://soehartolibrary.id/bs-muljana-pak-harto-merencana-untuk-masa-kini-dan-masa-nanti-bagian-1/comments)
+  135 Views Share on
+date: '2017-02-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: bs-muljana-pak-harto-merencana-untuk-masa-kini-dan-masa-nanti-bagian-1
+aliases:
+- 'BS Muljana: Pak Harto Merencana Untuk Masa Kini Dan Masa Nanti (Bagian 1) – HM
+  Soeharto'
+tags:
+- bs-muljana
+- kepala-negara
+- orde-baru
+- pemerataan
+- perpustakaan-soeharto
+- presiden-soeharto
+- sumitro-djojohadikusumo
+- tapos
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/bs-muljana-pak-harto-merencana-untuk-masa-kini-dan-masa-nanti-bagian-1/
+  judul: 'BS Muljana: Pak Harto Merencana Untuk Masa Kini Dan Masa Nanti (Bagian 1)'
+  tanggal: '2017-02-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/bs-muljana-pak-harto-merencana-untuk-masa-kini-dan-masa-nanti-bagian-1/
 ---
+
 
 ![Merencana Untuk Masa Kini Dan Masa Nanti](https://soehartolibrary.id/wp-content/uploads/2013/10/83360013_result.jpg)
 

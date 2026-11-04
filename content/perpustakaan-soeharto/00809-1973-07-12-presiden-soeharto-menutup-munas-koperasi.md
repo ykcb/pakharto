@@ -1,9 +1,42 @@
 ---
-title: "1973-07-12 Presiden Soeharto Menutup Munas Koperasi – HM Soeharto"
-source: "https://soehartolibrary.id/1973-07-12-presiden-soeharto-menutup-munas-koperasi/"
-date: "2017-08-25T15:26:52+07:00"
+title: 1973-07-12 Presiden Soeharto Menutup Munas Koperasi
+description: KAMIS, 12 Juli 1973, Musyawarah Nasional Koperasi yang diadakan dalam
+  rangka Hari Koperasi, ditutup oleh Presiden Soeharto pagi ini di Bina Graha. Dalam
+  sambutannya Presiden mengatakan bahwa koperasi mempunyai peranan yang besar dalam...
+date: '1973-07-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-07-12-presiden-soeharto-menutup-munas-koperasi
+aliases:
+- Presiden Soeharto Menutup Munas Koperasi
+- 1973-07-12 Presiden Soeharto Menutup Munas Koperasi – HM Soeharto
+tags:
+- japang
+- jenderal-soeharto
+- koperasi
+- munas
+- oecf
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- tanaka
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-07-12-presiden-soeharto-menutup-munas-koperasi/
+  judul: 1973-07-12 Presiden Soeharto Menutup Munas Koperasi
+  tanggal: '1973-07-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-07-12-presiden-soeharto-menutup-munas-koperasi/
 ---
+
 
 # 1973-07-12 Presiden Soeharto Menutup Munas Koperasi
 

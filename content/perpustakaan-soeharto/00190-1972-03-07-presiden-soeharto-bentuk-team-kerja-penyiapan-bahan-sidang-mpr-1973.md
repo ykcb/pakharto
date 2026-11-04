@@ -1,9 +1,45 @@
 ---
-title: "1972-03-07 Presiden Soeharto Bentuk Team Kerja Penyiapan Bahan Sidang MPR 1973 – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-07-presiden-soeharto-bentuk-team-kerja-penyiapan-bahan-sidang-mpr-1973/"
-date: "2017-08-29T17:39:01+07:00"
+title: 1972-03-07 Presiden Soeharto Bentuk Team Kerja Penyiapan Bahan Sidang MPR 1973
+description: SELASA, 7 Maret 1972, Presiden Soeharto, dalam sidang kabinet paripurna
+  hari ini, membentuk sebuah team kerja yang bertugas untuk menyiapkan bahan-bahan
+  bagi persidangan MPR hasil pemilihan umum; sidang tersebut akan diadakan pada bulan...
+date: '1972-03-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-07-presiden-soeharto-bentuk-team-kerja-penyiapan-bahan-sidang-mpr-1973
+aliases:
+- Presiden Soeharto Bentuk Team Kerja Penyiapan Bahan Sidang MPR 1973
+- 1972-03-07 Presiden Soeharto Bentuk Team Kerja Penyiapan Bahan Sidang MPR 1973 –
+  HM Soeharto
+tags:
+- bahan
+- dinas
+- gbhn
+- mpr
+- orde-baru
+- pak-harto
+- pakaian
+- penyusunan
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-07-presiden-soeharto-bentuk-team-kerja-penyiapan-bahan-sidang-mpr-1973/
+  judul: 1972-03-07 Presiden Soeharto Bentuk Team Kerja Penyiapan Bahan Sidang MPR
+    1973
+  tanggal: '1972-03-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-07-presiden-soeharto-bentuk-team-kerja-penyiapan-bahan-sidang-mpr-1973/
 ---
+
 
 # 1972-03-07 Presiden Soeharto Bentuk Team Kerja Penyiapan Bahan Sidang MPR 1973
 

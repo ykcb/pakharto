@@ -1,9 +1,39 @@
 ---
-title: "1970-06-02 Presiden Soeharto Kunjungi Ekspo Osaka – HM Soeharto"
-source: "https://soehartolibrary.id/1970-06-02-presiden-soeharto-kunjungi-ekspo-osaka/"
-date: "2017-08-28T16:43:51+07:00"
+title: 1970-06-02 Presiden Soeharto Kunjungi Ekspo Osaka
+description: Selasa, 2 Juni 1970, Hari ini Presiden dan Ibu Tien Soeharto beserta
+  rombongan meninggalkan AS kembali ke tanah air melalui Jepang. Di negeri Matahari
+  Terbit ini rombongan akan singgah satu hari untuk meninjau Ekspo ’70 di Osaka.(AFR).
+date: '1970-06-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-06-02-presiden-soeharto-kunjungi-ekspo-osaka
+aliases:
+- Presiden Soeharto Kunjungi Ekspo Osaka
+- 1970-06-02 Presiden Soeharto Kunjungi Ekspo Osaka – HM Soeharto
+tags:
+- as
+- ekspo
+- kunjungan-kenegaraan
+- orde-baru
+- osaka
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-06-02-presiden-soeharto-kunjungi-ekspo-osaka/
+  judul: 1970-06-02 Presiden Soeharto Kunjungi Ekspo Osaka
+  tanggal: '1970-06-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-06-02-presiden-soeharto-kunjungi-ekspo-osaka/
 ---
+
 
 # 1970-06-02 Presiden Soeharto Kunjungi Ekspo Osaka
 

@@ -1,9 +1,41 @@
 ---
-title: "Mahathir Mohamad: Kita Memiliki Kekhasan Demokrasi Sendiri – HM Soeharto"
-source: "https://soehartolibrary.id/mahathir-mohamad-kita-memiliki-kekhasan-demokrasi-sendiri/"
-date: "2014-04-06T03:45:57+07:00"
+title: 'Mahathir Mohamad: Kita Memiliki Kekhasan Demokrasi Sendiri'
+description: Tun Dr. Mahathir Mohamad berkunjung ke Jakarta dalam rangka program Mahathir
+  Bicara pada hari Kamis, 8 November 2012 di Universitas Mercu Buana. Acara tersebut
+  merupakan kerjasama Yayasan Harapan Kita dengan Jabatan Hal Ehwal Khas...
+date: '2014-04-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: mahathir-mohamad-kita-memiliki-kekhasan-demokrasi-sendiri
+aliases:
+- 'Mahathir Mohamad: Kita Memiliki Kekhasan Demokrasi Sendiri – HM Soeharto'
+tags:
+- demokrasi
+- filipina
+- isa
+- mahathir-mogamad
+- malaysia
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- singapura
+- thailand
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/mahathir-mohamad-kita-memiliki-kekhasan-demokrasi-sendiri/
+  judul: 'Mahathir Mohamad: Kita Memiliki Kekhasan Demokrasi Sendiri'
+  tanggal: '2014-04-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/mahathir-mohamad-kita-memiliki-kekhasan-demokrasi-sendiri/
 ---
+
 
 # Mahathir Mohamad: Kita Memiliki Kekhasan Demokrasi Sendiri
 

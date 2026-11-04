@@ -1,9 +1,36 @@
 ---
-title: "Pak Harto dan Trilogi Pembangunan (2) – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-2/"
-date: "2014-04-07T01:13:14+07:00"
+title: Pak Harto dan Trilogi Pembangunan (2)
+description: 'Stabilitas Politik Dan Pemerintahan: Antara Konsensus dan Otoritarianisme[](ftn1)'
+date: '2014-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-dan-trilogi-pembangunan-2
+aliases:
+- Pak Harto dan Trilogi Pembangunan (2) – HM Soeharto
+tags:
+- konsensus
+- orde-baru
+- otoritarianisme
+- pemerintahan
+- perpustakaan-soeharto
+- presiden-soeharto
+- stabilitas-politik
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-2/
+  judul: Pak Harto dan Trilogi Pembangunan (2)
+  tanggal: '2014-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-2/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/05/41.jpg)
 

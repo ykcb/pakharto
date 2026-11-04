@@ -1,9 +1,39 @@
 ---
-title: "1973-04-14 Presiden Soeharto Bahas Pembelian Beras Petani – HM Soeharto"
-source: "https://soehartolibrary.id/1973-04-14-presiden-soeharto-bahas-pembelian-beras-petani/"
-date: "2017-08-28T16:54:45+07:00"
+title: 1973-04-14 Presiden Soeharto Bahas Pembelian Beras Petani
+description: SABTU, 14 April 1973, Brigjen Bustanil Arifin, Deputi Kepala Bulog, siang
+  ini menghadap Presiden Soeharto di Bina Graha. Dalam pertemuan selama lebih kurang
+  setengah jam itu, Presiden telah membahas dan memberikan petunjuk kepada Bulog...
+date: '1973-04-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-04-14-presiden-soeharto-bahas-pembelian-beras-petani
+aliases:
+- Presiden Soeharto Bahas Pembelian Beras Petani
+- 1973-04-14 Presiden Soeharto Bahas Pembelian Beras Petani – HM Soeharto
+tags:
+- beras
+- bustanil-arifin
+- kepala-bulog
+- orde-baru
+- perpustakaan-soeharto
+- petani
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-04-14-presiden-soeharto-bahas-pembelian-beras-petani/
+  judul: 1973-04-14 Presiden Soeharto Bahas Pembelian Beras Petani
+  tanggal: '1973-04-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-04-14-presiden-soeharto-bahas-pembelian-beras-petani/
 ---
+
 
 # 1973-04-14 Presiden Soeharto Bahas Pembelian Beras Petani
 

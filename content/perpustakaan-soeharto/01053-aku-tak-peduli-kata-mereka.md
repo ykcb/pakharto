@@ -1,9 +1,33 @@
 ---
-title: "Aku Tak Peduli Kata Mereka – HM Soeharto"
-source: "https://soehartolibrary.id/aku-tak-peduli-kata-mereka/"
-date: "2013-08-24T05:31:19+07:00"
+title: Aku Tak Peduli Kata Mereka
+description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/aku-tak-peduli-kata-mereka/respond) 96 Views
+  Share on
+date: '2013-08-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: aku-tak-peduli-kata-mereka
+aliases:
+- Aku Tak Peduli Kata Mereka – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/aku-tak-peduli-kata-mereka/
+  judul: Aku Tak Peduli Kata Mereka
+  tanggal: '2013-08-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/aku-tak-peduli-kata-mereka/
 ---
+
 
 # Aku Tak Peduli Kata Mereka
 

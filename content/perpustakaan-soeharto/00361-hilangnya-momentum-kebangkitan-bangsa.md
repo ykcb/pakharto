@@ -1,9 +1,36 @@
 ---
-title: "Hilangnya Momentum Kebangkitan Bangsa – HM Soeharto"
-source: "https://soehartolibrary.id/hilangnya-momentum-kebangkitan-bangsa/"
-date: "2013-04-07T21:49:38+07:00"
+title: Hilangnya Momentum Kebangkitan Bangsa
+description: Setelah Pak Harto berhenti sebagai Presiden RI pada 21 Mei 1998, sebuah
+  bangunan baru negara dan bangsa didesain para “perupa reformasi”. Dimulai dengan
+  kepemimpinan BJ Habibie, yang menggantikan Pak Harto sebagai Presiden, keran...
+date: '2013-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: hilangnya-momentum-kebangkitan-bangsa
+aliases:
+- Hilangnya Momentum Kebangkitan Bangsa – HM Soeharto
+tags:
+- amin-rais
+- kebangkitan-bangsa
+- orde-baru
+- perpustakaan-soeharto
+- reformasi
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/hilangnya-momentum-kebangkitan-bangsa/
+  judul: Hilangnya Momentum Kebangkitan Bangsa
+  tanggal: '2013-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/hilangnya-momentum-kebangkitan-bangsa/
 ---
+
 
 # Hilangnya Momentum Kebangkitan Bangsa
 

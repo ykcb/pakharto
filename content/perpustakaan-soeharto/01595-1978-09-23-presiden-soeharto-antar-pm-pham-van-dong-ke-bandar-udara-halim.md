@@ -1,9 +1,37 @@
 ---
-title: "1978-09-23 Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim/"
-date: "2017-08-22T12:04:46+07:00"
+title: 1978-09-23 Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim
+description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim/respond)
+  71 Views Share on
+date: '1978-09-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim
+aliases:
+- Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim
+- 1978-09-23 Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- pham-van-dong
+- pm-vietnam
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim/
+  judul: 1978-09-23 Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim
+  tanggal: '1978-09-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim/
 ---
+
 
 # 1978-09-23 Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim
 

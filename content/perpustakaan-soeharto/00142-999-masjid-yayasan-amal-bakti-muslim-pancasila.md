@@ -1,9 +1,42 @@
 ---
-title: "999 Masjid Yayasan Amal Bakti Muslim Pancasila – HM Soeharto"
-source: "https://soehartolibrary.id/999-masjid-yayasan-amal-bakti-muslim-pancasila/"
-date: "2013-03-06T17:32:16+07:00"
+title: 999 Masjid Yayasan Amal Bakti Muslim Pancasila
+description: Selain melalui kebijakan pemerintah, “Soeharto Inisiatif” atau inisiatif
+  Pak Harto dalam memajukan kehidupan ummat beragama sesuai amanat sila pertama Pancasila
+  adalah dengan mendirikan Yayasan Amal Bakti Muslim Pancasila (YAMP) pada...
+date: '2013-03-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 999-masjid-yayasan-amal-bakti-muslim-pancasila
+aliases:
+- 999 Masjid Yayasan Amal Bakti Muslim Pancasila – HM Soeharto
+tags:
+- 999-masjid
+- amal
+- bakti
+- dermawan
+- muslim
+- orde-baru
+- pancasila
+- perpustakaan-soeharto
+- sumbangan
+- yamp
+- yayasan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/999-masjid-yayasan-amal-bakti-muslim-pancasila/
+  judul: 999 Masjid Yayasan Amal Bakti Muslim Pancasila
+  tanggal: '2013-03-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/999-masjid-yayasan-amal-bakti-muslim-pancasila/
 ---
+
 
 # 999 Masjid Yayasan Amal Bakti Muslim Pancasila
 

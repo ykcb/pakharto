@@ -1,9 +1,48 @@
 ---
-title: "1976-07-17 Presiden Soeharto Sahkan Penyatuan Timor-Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1976-07-17-presiden-soeharto-sahkan-penyatuan-timor-timur/"
-date: "2017-08-23T11:41:28+07:00"
+title: 1976-07-17 Presiden Soeharto Sahkan Penyatuan Timor-Timur
+description: SABTU, 17 Juli 1976 Pada jam 10.00 pagi ini, bertempat di Bina Graha,
+  Presiden Soeharto menandatangani Undang-undang No. 7 Tahun 1976 tentang pengesahan
+  Timor-Timur kedalam Republik Indonesia dan pembentukan Provinsi Daerah Tingkat I...
+date: '1976-07-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-07-17-presiden-soeharto-sahkan-penyatuan-timor-timur
+aliases:
+- Presiden Soeharto Sahkan Penyatuan Timor-Timur
+- 1976-07-17 Presiden Soeharto Sahkan Penyatuan Timor-Timur – HM Soeharto
+tags:
+- amirmachmud
+- arnaldo-des-rois-araujo
+- bendera-pusaka
+- ir-mario-carrascalao
+- lopez-da-cruz
+- maria-guilherme-gonzalvez
+- menteri-dalam-negeri
+- menterisekretaris-negara
+- merah-putih
+- orde-baru
+- penjajahan
+- perpustakaan-soeharto
+- portugis
+- presiden-soeharto
+- sudharmono
+- timor-timur
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-07-17-presiden-soeharto-sahkan-penyatuan-timor-timur/
+  judul: 1976-07-17 Presiden Soeharto Sahkan Penyatuan Timor-Timur
+  tanggal: '1976-07-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-07-17-presiden-soeharto-sahkan-penyatuan-timor-timur/
 ---
+
 
 # 1976-07-17 Presiden Soeharto Sahkan Penyatuan Timor-Timur
 

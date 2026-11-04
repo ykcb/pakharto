@@ -1,9 +1,40 @@
 ---
-title: "1970-07-04 Presiden Soeharto: Pengembangan Teknologi Sesuai Kebutuhan Prioritas – HM Soeharto"
-source: "https://soehartolibrary.id/1970-07-04-presiden-soeharto-pengembangan-teknologi-sesuai-kebutuhan-prioritas/"
-date: "2017-08-25T15:31:13+07:00"
+title: '1970-07-04 Presiden Soeharto: Pengembangan Teknologi Sesuai Kebutuhan Prioritas'
+description: RABU, 04 Juli 1970. Presiden Soeharto mengatakan bahwa teknologi merupakan
+  suatu hal yang harus dikuasai. Akan tetapi diperingatkan bahwa tingkat teknologi
+  yang hendak dikembangkan perlu disesuaikan dengan kebutuhan yang mendesak dewasa...
+date: '1970-07-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-07-04-presiden-soeharto-pengembangan-teknologi-sesuai-kebutuhan-prioritas
+aliases:
+- 'Presiden Soeharto: Pengembangan Teknologi Sesuai Kebutuhan Prioritas'
+- '1970-07-04 Presiden Soeharto: Pengembangan Teknologi Sesuai Kebutuhan Prioritas
+  – HM Soeharto'
+tags:
+- itb
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- teknologi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-07-04-presiden-soeharto-pengembangan-teknologi-sesuai-kebutuhan-prioritas/
+  judul: '1970-07-04 Presiden Soeharto: Pengembangan Teknologi Sesuai Kebutuhan Prioritas'
+  tanggal: '1970-07-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-07-04-presiden-soeharto-pengembangan-teknologi-sesuai-kebutuhan-prioritas/
 ---
+
 
 # 1970-07-04 Presiden Soeharto: Pengembangan Teknologi Sesuai Kebutuhan Prioritas
 

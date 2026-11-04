@@ -1,9 +1,44 @@
 ---
-title: "1976-09-07 Presiden Soeharto Bahas Produksi Pertanian, Banjir, Hama Wereng dan Kekeringan – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/"
-date: "2017-08-22T16:17:22+07:00"
+title: 1976-09-07 Presiden Soeharto Bahas Produksi Pertanian, Banjir, Hama Wereng
+  dan Kekeringan
+description: 18 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/respond)
+  102 Views Share on
+date: '1976-09-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan
+aliases:
+- Presiden Soeharto Bahas Produksi Pertanian, Banjir, Hama Wereng dan Kekeringan
+- 1976-09-07 Presiden Soeharto Bahas Produksi Pertanian, Banjir, Hama Wereng dan Kekeringan
+  – HM Soeharto
+tags:
+- banjir
+- bimas
+- hama-wereng
+- intensifikasi-pertanian
+- kekeringan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- produksi-pertanian
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/
+  judul: 1976-09-07 Presiden Soeharto Bahas Produksi Pertanian, Banjir, Hama Wereng
+    dan Kekeringan
+  tanggal: '1976-09-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/
 ---
+
 
 # 1976-09-07 Presiden Soeharto Bahas Produksi Pertanian, Banjir, Hama Wereng dan Kekeringan
 

@@ -1,9 +1,39 @@
 ---
-title: "Pak Harto dan Trilogi Pembangunan (1) – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-1/"
-date: "2014-04-07T01:14:07+07:00"
+title: Pak Harto dan Trilogi Pembangunan (1)
+description: “Pers ramai menulis kematian misterius sejumlah orang dengan menyebutnya
+  “penembakan misterius”, atau disingkatnya lagi dengan sebutan “petrus”. Kalangan
+  cendekiawan dan juga di forum-forum internasional ada yang menyinggungnya,...
+date: '2014-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-dan-trilogi-pembangunan-1
+aliases:
+- Pak Harto dan Trilogi Pembangunan (1) – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- petrus
+- presiden-soeharto
+- stabilitas-ekonomi
+- stabilitas-nasional
+- stabilitas-politik
+- trilogi-pembangunan
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-1/
+  judul: Pak Harto dan Trilogi Pembangunan (1)
+  tanggal: '2014-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-1/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/05/23.jpg)
 

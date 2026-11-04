@@ -1,9 +1,42 @@
 ---
-title: "1974-09-11 Presiden Soeharto Lantik Tiga Duta Besar Baru – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru/"
-date: "2017-08-23T10:53:54+07:00"
+title: 1974-09-11 Presiden Soeharto Lantik Tiga Duta Besar Baru
+description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru/respond)
+  109 Views Share on
+date: '1974-09-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru
+aliases:
+- Presiden Soeharto Lantik Tiga Duta Besar Baru
+- 1974-09-11 Presiden Soeharto Lantik Tiga Duta Besar Baru – HM Soeharto
+tags:
+- gusti-roesli-noor
+- kerajaan-denmark
+- kerajaan-inggris
+- kerajaan-norwegia
+- laksamana-subono
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- republik-arab-suriah
+- zainul-arifin-usman
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru/
+  judul: 1974-09-11 Presiden Soeharto Lantik Tiga Duta Besar Baru
+  tanggal: '1974-09-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru/
 ---
+
 
 # 1974-09-11 Presiden Soeharto Lantik Tiga Duta Besar Baru
 

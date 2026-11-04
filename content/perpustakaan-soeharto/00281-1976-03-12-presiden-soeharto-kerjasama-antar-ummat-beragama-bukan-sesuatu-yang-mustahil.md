@@ -1,9 +1,42 @@
 ---
-title: "1976-03-12 Presiden Soeharto: Kerjasama Antar Ummat Beragama Bukan Sesuatu Yang Mustahil – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-12-presiden-soeharto-kerjasama-antar-ummat-beragama-bukan-sesuatu-yang-mustahil/"
-date: "2014-03-21T23:33:19+07:00"
+title: '1976-03-12 Presiden Soeharto: Kerjasama Antar Ummat Beragama Bukan Sesuatu
+  Yang Mustahil'
+description: JUM’AT, 12 MARET 1976, Presiden Soeharto menyatakan keyakinannya bahwa
+  kerjasama antar umat beragama bukanlah sesuatu yang mustahil, apabila kita semua
+  mau menerimanya dengan jiwa besar. Diungkapkannya bahwa keyakinannya itu berdasarkan...
+date: '1976-03-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-12-presiden-soeharto-kerjasama-antar-ummat-beragama-bukan-sesuatu-yang-mustahil
+aliases:
+- 'Presiden Soeharto: Kerjasama Antar Ummat Beragama Bukan Sesuatu Yang Mustahil'
+- '1976-03-12 Presiden Soeharto: Kerjasama Antar Ummat Beragama Bukan Sesuatu Yang
+  Mustahil – HM Soeharto'
+tags:
+- iain
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- surabaya
+- umat-beragama
+- wadah-konsultasi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-12-presiden-soeharto-kerjasama-antar-ummat-beragama-bukan-sesuatu-yang-mustahil/
+  judul: '1976-03-12 Presiden Soeharto: Kerjasama Antar Ummat Beragama Bukan Sesuatu
+    Yang Mustahil'
+  tanggal: '1976-03-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-12-presiden-soeharto-kerjasama-antar-ummat-beragama-bukan-sesuatu-yang-mustahil/
 ---
+
 
 # 1976-03-12 Presiden Soeharto: Kerjasama Antar Ummat Beragama Bukan Sesuatu Yang Mustahil
 

@@ -1,9 +1,38 @@
 ---
-title: "Haru, Sedih, Bangga – HM Soeharto"
-source: "https://soehartolibrary.id/haru-sedih-bangga/"
-date: "2013-07-28T02:09:44+07:00"
+title: Haru, Sedih, Bangga
+description: Pada 21 Mei 1998, saya mengikuti (melalui televisi) acara pidato pernyataan
+  berhenti Bapak Soeharto sebagai presiden Republik Indonesia. Rasa haru, sedih, bahagia
+  dan bangga bercampur baur saat itu. Rasa sedih karena Bapak Soeharto yang...
+date: '2013-07-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: haru-sedih-bangga
+aliases:
+- Haru, Sedih, Bangga – HM Soeharto
+tags:
+- bangga
+- haru
+- kamal
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sedih
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/haru-sedih-bangga/
+  judul: Haru, Sedih, Bangga
+  tanggal: '2013-07-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/haru-sedih-bangga/
 ---
+
 
 # Haru, Sedih, Bangga
 

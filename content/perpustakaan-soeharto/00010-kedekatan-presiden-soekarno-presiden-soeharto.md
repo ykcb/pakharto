@@ -1,9 +1,38 @@
 ---
-title: "Kedekatan Presiden Soekarno-Presiden Soeharto – HM Soeharto"
-source: "https://soehartolibrary.id/kedekatan-presiden-soekarno-presiden-soeharto/"
-date: "2017-10-19T14:45:56+07:00"
+title: Kedekatan Presiden Soekarno-Presiden Soeharto
+description: Hubungan Presiden Soekarno-Presiden Soeharto seringkali ditafsirkan berhadapan
+  secara diametral tanpa menengok kesamaan visi kenusantaraan diantara keduanya. Secara
+  mikro memang terjadi sejumlah perbedaan pandangan, namun tetap dibalut...
+date: '2017-10-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: kedekatan-presiden-soekarno-presiden-soeharto
+aliases:
+- Kedekatan Presiden Soekarno-Presiden Soeharto – HM Soeharto
+tags:
+- dokter-rrc
+- mikul-duwur-mendhem-jero
+- orde-baru
+- perpustakaan-soeharto
+- soeharto
+- soekarno
+- supersemar
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/kedekatan-presiden-soekarno-presiden-soeharto/
+  judul: Kedekatan Presiden Soekarno-Presiden Soeharto
+  tanggal: '2017-10-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/kedekatan-presiden-soekarno-presiden-soeharto/
 ---
+
 
 ![Kedekatan Presiden Soeharto-Presiden Soekarno](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b473.jpg)
 

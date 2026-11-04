@@ -1,9 +1,42 @@
 ---
-title: "1975-03-08 Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-08-presiden-soeharto-demokrasi-harus-mengenal-disiplin-dan-tanggungjawab/"
-date: "2014-03-22T03:01:44+07:00"
+title: '1975-03-08 Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab'
+description: SABTU, 8 MARET 1975, Duta Besar Australia, Richard A Woolcont, hari ini
+  menyerahnkan surat kepecayaannya kepada Presiden Soeharto di Istana Merdeka. Ketika
+  menyerahkan surat kepercayaan itu ia mengatakan bahwa negerinya menghargai...
+date: '1975-03-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-08-presiden-soeharto-demokrasi-harus-mengenal-disiplin-dan-tanggungjawab
+aliases:
+- 'Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab'
+- '1975-03-08 Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab
+  – HM Soeharto'
+tags:
+- angkatan-bersenjata
+- australia
+- demokrasi
+- duta-besar
+- iip
+- muangthai
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-08-presiden-soeharto-demokrasi-harus-mengenal-disiplin-dan-tanggungjawab/
+  judul: '1975-03-08 Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab'
+  tanggal: '1975-03-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-08-presiden-soeharto-demokrasi-harus-mengenal-disiplin-dan-tanggungjawab/
 ---
+
 
 # 1975-03-08 Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab
 

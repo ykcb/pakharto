@@ -1,9 +1,41 @@
 ---
-title: "1974-09-30 Presiden Soeharto: Indonesia Tidak Ingin Laut Sekitar Jadi Ajang Pertentangan – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-30-presiden-soeharto-indonesia-tidak-ingin-laut-sekitar-jadi-ajang-pertentangan/"
-date: "2017-08-23T10:51:29+07:00"
+title: '1974-09-30 Presiden Soeharto: Indonesia Tidak Ingin Laut Sekitar Jadi Ajang
+  Pertentangan'
+description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-30-presiden-soeharto-indonesia-tidak-ingin-laut-sekitar-jadi-ajang-pertentangan/respond)
+  107 Views Share on
+date: '1974-09-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-30-presiden-soeharto-indonesia-tidak-ingin-laut-sekitar-jadi-ajang-pertentangan
+aliases:
+- 'Presiden Soeharto: Indonesia Tidak Ingin Laut Sekitar Jadi Ajang Pertentangan'
+- '1974-09-30 Presiden Soeharto: Indonesia Tidak Ingin Laut Sekitar Jadi Ajang Pertentangan
+  – HM Soeharto'
+tags:
+- deputi-menteri-pertahanan-as
+- diego-garcia
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- william-p-clements-jr
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-30-presiden-soeharto-indonesia-tidak-ingin-laut-sekitar-jadi-ajang-pertentangan/
+  judul: '1974-09-30 Presiden Soeharto: Indonesia Tidak Ingin Laut Sekitar Jadi Ajang
+    Pertentangan'
+  tanggal: '1974-09-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-30-presiden-soeharto-indonesia-tidak-ingin-laut-sekitar-jadi-ajang-pertentangan/
 ---
+
 
 # 1974-09-30 Presiden Soeharto: Indonesia Tidak Ingin Laut Sekitar Jadi Ajang Pertentangan
 

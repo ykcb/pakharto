@@ -1,9 +1,52 @@
 ---
-title: "Hidup dalam Pergesekan Sejarah Bangsa – HM Soeharto"
-source: "https://soehartolibrary.id/hidup-dalam-pergesekan-sejarah-bangsa/"
-date: "2017-02-14T18:03:44+07:00"
+title: Hidup dalam Pergesekan Sejarah Bangsa
+description: Sebelum akhirnya takdir sejarah mengantarkannya menjadi Presiden, hidup
+  Soeharto muda selalu berkaitan erat dengan puncak-puncak peristiwa penting jatuh
+  bangunnya negara dan bangsa Indonesia. Ia berkontribusi dalam perlucutan tentara...
+date: '2017-02-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: hidup-dalam-pergesekan-sejarah-bangsa
+aliases:
+- Hidup dalam Pergesekan Sejarah Bangsa – HM Soeharto
+tags:
+- 1-maret-1949
+- '1965'
+- 3-juli-1946
+- biografi-2
+- fdrpki
+- g-30-s-pki
+- indonesia
+- irian-jaya
+- jepang
+- kedaulatan
+- komando-mandala
+- orde-baru
+- perlucutan
+- perpustakaan-soeharto
+- pki-madiun
+- sejarah-bangsa
+- serangan
+- tentara
+- tinggal-landas-2
+- umum
+- wehrkreise
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/hidup-dalam-pergesekan-sejarah-bangsa/
+  judul: Hidup dalam Pergesekan Sejarah Bangsa
+  tanggal: '2017-02-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/hidup-dalam-pergesekan-sejarah-bangsa/
 ---
+
 
 ![pergesekan bangsa](https://soehartolibrary.id/wp-content/uploads/2013/01/bangsa2-slider-featured-content-soeharto.jpg)
 

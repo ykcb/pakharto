@@ -1,9 +1,39 @@
 ---
-title: "1970-02-18 Mempertemukan Tim Pemberantasan Korupsi – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-18-mempertemukan-tim-pemberantasan-korupsi/"
-date: "2017-05-29T13:26:53+07:00"
+title: 1970-02-18 Mempertemukan Tim Pemberantasan Korupsi
+description: (Mempertemukan Tim Pemberantasan Korupsi dengan Komisi Empat, Meminta
+  laporan Bimas dan Penegakaan Hukum dalam Penyalahgunaan Dana Bimas)
+date: '1970-02-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-18-mempertemukan-tim-pemberantasan-korupsi
+aliases:
+- Mempertemukan Tim Pemberantasan Korupsi
+- 1970-02-18 Mempertemukan Tim Pemberantasan Korupsi – HM Soeharto
+tags:
+- bimas
+- empat
+- komisi
+- korupsi
+- orde-baru
+- pemberantasan
+- pengadilan
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-18-mempertemukan-tim-pemberantasan-korupsi/
+  judul: 1970-02-18 Mempertemukan Tim Pemberantasan Korupsi
+  tanggal: '1970-02-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-18-mempertemukan-tim-pemberantasan-korupsi/
 ---
+
 
 # 1970-02-18 Mempertemukan Tim Pemberantasan Korupsi
 

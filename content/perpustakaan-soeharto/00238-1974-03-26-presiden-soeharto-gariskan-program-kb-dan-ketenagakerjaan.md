@@ -1,9 +1,38 @@
 ---
-title: "1974-03-26 Presiden Soeharto Gariskan Program KB dan Ketenagakerjaan – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-26-presiden-soeharto-gariskan-program-kb-dan-ketenagakerjaan/"
-date: "2017-08-29T17:40:43+07:00"
+title: 1974-03-26 Presiden Soeharto Gariskan Program KB dan Ketenagakerjaan
+description: SELASA, 26 MARET 1974, Sidang kabinet terbatas bidang Kesra berlangsung
+  mulai pukul 10.00 pagi di Bina Graha. Sidang yang dipimpin oleh Presiden Soeharto
+  ini telah mengambil beberapa keputusan penting. Pertama, menggariskan kebijakan...
+date: '1974-03-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-26-presiden-soeharto-gariskan-program-kb-dan-ketenagakerjaan
+aliases:
+- Presiden Soeharto Gariskan Program KB dan Ketenagakerjaan
+- 1974-03-26 Presiden Soeharto Gariskan Program KB dan Ketenagakerjaan – HM Soeharto
+tags:
+- kb
+- orde-baru
+- perpustakaan-soeharto
+- pma
+- presiden-soeharto
+- tenaga-kerja
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-26-presiden-soeharto-gariskan-program-kb-dan-ketenagakerjaan/
+  judul: 1974-03-26 Presiden Soeharto Gariskan Program KB dan Ketenagakerjaan
+  tanggal: '1974-03-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-26-presiden-soeharto-gariskan-program-kb-dan-ketenagakerjaan/
 ---
+
 
 # 1974-03-26 Presiden Soeharto Gariskan Program KB dan Ketenagakerjaan
 

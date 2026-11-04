@@ -1,9 +1,40 @@
 ---
-title: "1970-07-14 Presiden Soeharto Menerima Delegasi Mahasiwa Jakarta dan Bandung – HM Soeharto"
-source: "https://soehartolibrary.id/1970-07-14-presiden-soeharto-menerima-delegasi-mahasiwa-jakarta-dan-bandung/"
-date: "2014-03-21T23:31:41+07:00"
+title: 1970-07-14 Presiden Soeharto Menerima Delegasi Mahasiwa Jakarta dan Bandung
+description: SELASA, 14 Juli 1970. Pagi ini di Istana Merdeka, Presiden Soeharto menyerahkan
+  duplikat bendera pusaka dan naskah proklamasi kepada Kowilhan se- Indonesia. Presiden
+  meminta agar bendera dan naskah proklamasi tersebut disampaikan kepada...
+date: '1970-07-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-07-14-presiden-soeharto-menerima-delegasi-mahasiwa-jakarta-dan-bandung
+aliases:
+- Presiden Soeharto Menerima Delegasi Mahasiwa Jakarta dan Bandung
+- 1970-07-14 Presiden Soeharto Menerima Delegasi Mahasiwa Jakarta dan Bandung – HM
+  Soeharto
+tags:
+- jenderal-soeharto
+- korupsi
+- mahasiswa
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-07-14-presiden-soeharto-menerima-delegasi-mahasiwa-jakarta-dan-bandung/
+  judul: 1970-07-14 Presiden Soeharto Menerima Delegasi Mahasiwa Jakarta dan Bandung
+  tanggal: '1970-07-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-07-14-presiden-soeharto-menerima-delegasi-mahasiwa-jakarta-dan-bandung/
 ---
+
 
 # 1970-07-14 Presiden Soeharto Menerima Delegasi Mahasiwa Jakarta dan Bandung
 

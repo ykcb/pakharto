@@ -1,9 +1,42 @@
 ---
-title: "1975-08-12 Presiden Soeharto Instruksikan Waspadai Perkembangan Timor Portugis – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-12-presiden-soeharto-instruksikan-waspadai-perkembangan-timor-portugis/"
-date: "2017-08-22T17:46:13+07:00"
+title: 1975-08-12 Presiden Soeharto Instruksikan Waspadai Perkembangan Timor Portugis
+description: 27 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-12-presiden-soeharto-instruksikan-waspadai-perkembangan-timor-portugis/respond)
+  125 Views Share on
+date: '1975-08-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-12-presiden-soeharto-instruksikan-waspadai-perkembangan-timor-portugis
+aliases:
+- Presiden Soeharto Instruksikan Waspadai Perkembangan Timor Portugis
+- 1975-08-12 Presiden Soeharto Instruksikan Waspadai Perkembangan Timor Portugis –
+  HM Soeharto
+tags:
+- dekoloniasi
+- jenderal-m-panggabean
+- kepala-bakin
+- menteri-hankampangab
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- timor-portugis
+- yoga-sugama
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-12-presiden-soeharto-instruksikan-waspadai-perkembangan-timor-portugis/
+  judul: 1975-08-12 Presiden Soeharto Instruksikan Waspadai Perkembangan Timor Portugis
+  tanggal: '1975-08-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-12-presiden-soeharto-instruksikan-waspadai-perkembangan-timor-portugis/
 ---
+
 
 # 1975-08-12 Presiden Soeharto Instruksikan Waspadai Perkembangan Timor Portugis
 

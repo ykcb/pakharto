@@ -1,9 +1,40 @@
 ---
-title: "Pak Harto Membangun Dunia Pendidikan – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-membangun-dunia-pendidikan/"
-date: "2013-04-07T19:43:38+07:00"
+title: Pak Harto Membangun Dunia Pendidikan
+description: “Presiden Soeharto memiliki konsep universal tentang dunia pendidikan,
+  karena mampu memaparkan secara rinci kendala yang dihadapi bangsanya, sekaligus
+  memiliki konsep penanggulangannya.”
+date: '2013-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-membangun-dunia-pendidikan
+aliases:
+- Pak Harto Membangun Dunia Pendidikan – HM Soeharto
+tags:
+- avicenna-medals
+- madrasah-ibtidaiyah
+- orde-baru
+- pak-harto
+- pendidikan
+- perpustakaan-soeharto
+- pesantren
+- sd
+- unesco
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-membangun-dunia-pendidikan/
+  judul: Pak Harto Membangun Dunia Pendidikan
+  tanggal: '2013-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-membangun-dunia-pendidikan/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/02/14-02-Foto-Jejak-Langkah-2C-Pak-Harto-berkunjung-ke-SD-Inpres.jpg)
 

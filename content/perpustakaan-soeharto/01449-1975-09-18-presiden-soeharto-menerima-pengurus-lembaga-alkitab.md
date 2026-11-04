@@ -1,9 +1,37 @@
 ---
-title: "1975-09-18 Presiden Soeharto Menerima Pengurus Lembaga Alkitab – HM Soeharto"
-source: "https://soehartolibrary.id/1975-09-18-presiden-soeharto-menerima-pengurus-lembaga-alkitab/"
-date: "2017-08-22T16:19:47+07:00"
+title: 1975-09-18 Presiden Soeharto Menerima Pengurus Lembaga Alkitab
+description: 18 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-09-18-presiden-soeharto-menerima-pengurus-lembaga-alkitab/respond)
+  87 Views Share on
+date: '1975-09-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-09-18-presiden-soeharto-menerima-pengurus-lembaga-alkitab
+aliases:
+- Presiden Soeharto Menerima Pengurus Lembaga Alkitab
+- 1975-09-18 Presiden Soeharto Menerima Pengurus Lembaga Alkitab – HM Soeharto
+tags:
+- dr-latuihamalo
+- lembaga-alkitab
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-09-18-presiden-soeharto-menerima-pengurus-lembaga-alkitab/
+  judul: 1975-09-18 Presiden Soeharto Menerima Pengurus Lembaga Alkitab
+  tanggal: '1975-09-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-09-18-presiden-soeharto-menerima-pengurus-lembaga-alkitab/
 ---
+
 
 # 1975-09-18 Presiden Soeharto Menerima Pengurus Lembaga Alkitab
 

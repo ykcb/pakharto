@@ -1,9 +1,38 @@
 ---
-title: "1979-09-01 Presiden Soeharto Menerima Utusan Khusus PM Kanada – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-01-presiden-soeharto-menerima-utusan-khusus-pm-kanada/"
-date: "2017-08-22T11:52:57+07:00"
+title: 1979-09-01 Presiden Soeharto Menerima Utusan Khusus PM Kanada
+description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-01-presiden-soeharto-menerima-utusan-khusus-pm-kanada/respond)
+  87 Views Share on
+date: '1979-09-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-01-presiden-soeharto-menerima-utusan-khusus-pm-kanada
+aliases:
+- Presiden Soeharto Menerima Utusan Khusus PM Kanada
+- 1979-09-01 Presiden Soeharto Menerima Utusan Khusus PM Kanada – HM Soeharto
+tags:
+- glen-shortliffe
+- orde-baru
+- perpustakaan-soeharto
+- pm-kanada
+- presiden-soeharto
+- utusan-khusus
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-01-presiden-soeharto-menerima-utusan-khusus-pm-kanada/
+  judul: 1979-09-01 Presiden Soeharto Menerima Utusan Khusus PM Kanada
+  tanggal: '1979-09-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-01-presiden-soeharto-menerima-utusan-khusus-pm-kanada/
 ---
+
 
 # 1979-09-01 Presiden Soeharto Menerima Utusan Khusus PM Kanada
 

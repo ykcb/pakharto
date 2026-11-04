@@ -1,9 +1,38 @@
 ---
-title: "1968-08-24 Presiden Soeharto: Golongan dan Partai Sentris Harus Ditinggalkan – HM Soeharto"
-source: "https://soehartolibrary.id/1968-08-24-presiden-soeharto-golongan-dan-partai-sentris-harus-ditinggalkan/"
-date: "2014-04-01T02:18:56+07:00"
+title: '1968-08-24 Presiden Soeharto: Golongan dan Partai Sentris Harus Ditinggalkan'
+description: SABTU, 24 AGUSTUS 1968, Siang ini Presiden Soeharto menerima 150 utusan
+  pimpinan pusat dan cabang Parmusi dari seluruh Indonesia. Pada kesempatan ini Presiden
+  menyerukan kepada segenap bangsa Indonesia, khususnya pimpinan partai politik...
+date: '1968-08-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-08-24-presiden-soeharto-golongan-dan-partai-sentris-harus-ditinggalkan
+aliases:
+- 'Presiden Soeharto: Golongan dan Partai Sentris Harus Ditinggalkan'
+- '1968-08-24 Presiden Soeharto: Golongan dan Partai Sentris Harus Ditinggalkan –
+  HM Soeharto'
+tags:
+- orde-baru
+- organisasi-massa
+- partai
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-08-24-presiden-soeharto-golongan-dan-partai-sentris-harus-ditinggalkan/
+  judul: '1968-08-24 Presiden Soeharto: Golongan dan Partai Sentris Harus Ditinggalkan'
+  tanggal: '1968-08-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-08-24-presiden-soeharto-golongan-dan-partai-sentris-harus-ditinggalkan/
 ---
+
 
 # 1968-08-24 Presiden Soeharto: Golongan dan Partai Sentris Harus Ditinggalkan
 

@@ -1,9 +1,42 @@
 ---
-title: "1969-07-02 Presiden Soeharto-PM Gandhi Umumkan Komunike Bersama – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-02-presiden-soeharto-pm-gandhi-umumkan-komunike-bersama/"
-date: "2017-08-24T15:24:36+07:00"
+title: 1969-07-02 Presiden Soeharto-PM Gandhi Umumkan Komunike Bersama
+description: 'RABU, 02 Juli 1969. Pada akhir kunjungan PM Indira Gandhi di Indonesia,
+  siang ini Presiden Soeharto an Ny. Gandhi mengumumkan komunike bersama yang antara
+  lain menyatakan bahwa: Kedua belah pihak merasa puas atas hubungan antara kedua...'
+date: '1969-07-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-02-presiden-soeharto-pm-gandhi-umumkan-komunike-bersama
+aliases:
+- Presiden Soeharto-PM Gandhi Umumkan Komunike Bersama
+- 1969-07-02 Presiden Soeharto-PM Gandhi Umumkan Komunike Bersama – HM Soeharto
+tags:
+- india
+- indonesia
+- jenderal-soeharto
+- kerjasama
+- komunike
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- pm-gandhi
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-02-presiden-soeharto-pm-gandhi-umumkan-komunike-bersama/
+  judul: 1969-07-02 Presiden Soeharto-PM Gandhi Umumkan Komunike Bersama
+  tanggal: '1969-07-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-02-presiden-soeharto-pm-gandhi-umumkan-komunike-bersama/
 ---
+
 
 # 1969-07-02 Presiden Soeharto-PM Gandhi Umumkan Komunike Bersama
 

@@ -1,9 +1,43 @@
 ---
-title: "1974-09-24 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Kesra – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-24-presiden-soeharto-pimpin-sidang-kabinet-terbatas-kesra/"
-date: "2017-08-23T10:51:49+07:00"
+title: 1974-09-24 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Kesra
+description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-24-presiden-soeharto-pimpin-sidang-kabinet-terbatas-kesra/respond)
+  117 Views Share on
+date: '1974-09-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-24-presiden-soeharto-pimpin-sidang-kabinet-terbatas-kesra
+aliases:
+- Presiden Soeharto Pimpin Sidang Kabinet Terbatas Kesra
+- 1974-09-24 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Kesra – HM Soeharto
+tags:
+- dewan-penelitian-pengupahan
+- idul-fitri
+- kesehatan
+- kredit
+- laboratorium-itb
+- orde-baru
+- perpustakaan-soeharto
+- pns-golongan-i
+- presiden-soeharto
+- sd-inpres
+- upah-minimum
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-24-presiden-soeharto-pimpin-sidang-kabinet-terbatas-kesra/
+  judul: 1974-09-24 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Kesra
+  tanggal: '1974-09-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-24-presiden-soeharto-pimpin-sidang-kabinet-terbatas-kesra/
 ---
+
 
 # 1974-09-24 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Kesra
 

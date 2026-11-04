@@ -1,9 +1,44 @@
 ---
-title: "1979-09-12 Presiden Soeharto: Tidak Seluruh Ajaran Islam Jamaah Mengandung Kebenaran – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-12-presiden-soeharto-tidak-seluruh-ajaran-islam-jamaah-mengandung-kebenaran/"
-date: "2017-08-22T12:08:26+07:00"
+title: '1979-09-12 Presiden Soeharto: Tidak Seluruh Ajaran Islam Jamaah Mengandung
+  Kebenaran'
+description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-12-presiden-soeharto-tidak-seluruh-ajaran-islam-jamaah-mengandung-kebenaran/respond)
+  105 Views Share on
+date: '1979-09-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-12-presiden-soeharto-tidak-seluruh-ajaran-islam-jamaah-mengandung-kebenaran
+aliases:
+- 'Presiden Soeharto: Tidak Seluruh Ajaran Islam Jamaah Mengandung Kebenaran'
+- '1979-09-12 Presiden Soeharto: Tidak Seluruh Ajaran Islam Jamaah Mengandung Kebenaran
+  – HM Soeharto'
+tags:
+- alamsyah-ratu-perwiranegara
+- islam-jamaah
+- kepala-negara
+- menteri-agama
+- mufti-besar-kuwait
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sheikh-abdullah-al-noury
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-12-presiden-soeharto-tidak-seluruh-ajaran-islam-jamaah-mengandung-kebenaran/
+  judul: '1979-09-12 Presiden Soeharto: Tidak Seluruh Ajaran Islam Jamaah Mengandung
+    Kebenaran'
+  tanggal: '1979-09-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-12-presiden-soeharto-tidak-seluruh-ajaran-islam-jamaah-mengandung-kebenaran/
 ---
+
 
 # 1979-09-12 Presiden Soeharto: Tidak Seluruh Ajaran Islam Jamaah Mengandung Kebenaran
 

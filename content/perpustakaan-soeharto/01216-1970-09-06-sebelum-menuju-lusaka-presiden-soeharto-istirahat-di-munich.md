@@ -1,9 +1,40 @@
 ---
-title: "1970-09-06 Sebelum Menuju Lusaka Presiden Soeharto Istirahat di Munich – HM Soeharto"
-source: "https://soehartolibrary.id/1970-09-06-sebelum-menuju-lusaka-presiden-soeharto-istirahat-di-munich/"
-date: "2017-08-22T17:34:47+07:00"
+title: 1970-09-06 Sebelum Menuju Lusaka Presiden Soeharto Istirahat di Munich
+description: 5 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-09-06-sebelum-menuju-lusaka-presiden-soeharto-istirahat-di-munich/respond)
+  94 Views Share on
+date: '1970-09-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-09-06-sebelum-menuju-lusaka-presiden-soeharto-istirahat-di-munich
+aliases:
+- Sebelum Menuju Lusaka Presiden Soeharto Istirahat di Munich
+- 1970-09-06 Sebelum Menuju Lusaka Presiden Soeharto Istirahat di Munich – HM Soeharto
+tags:
+- bonn
+- ktt-non-blok
+- lusaka
+- munich
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- zambia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-09-06-sebelum-menuju-lusaka-presiden-soeharto-istirahat-di-munich/
+  judul: 1970-09-06 Sebelum Menuju Lusaka Presiden Soeharto Istirahat di Munich
+  tanggal: '1970-09-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-09-06-sebelum-menuju-lusaka-presiden-soeharto-istirahat-di-munich/
 ---
+
 
 # 1970-09-06 Sebelum Menuju Lusaka Presiden Soeharto Istirahat di Munich
 

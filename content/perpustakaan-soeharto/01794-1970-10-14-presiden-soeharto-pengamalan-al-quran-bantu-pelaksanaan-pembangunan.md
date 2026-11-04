@@ -1,9 +1,39 @@
 ---
-title: "1970-10-14 Presiden Soeharto: Pengamalan Al-Qur’an Bantu Pelaksanaan Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-14-presiden-soeharto-pengamalan-al-quran-bantu-pelaksanaan-pembangunan/"
-date: "2014-12-01T16:25:56+07:00"
+title: '1970-10-14 Presiden Soeharto: Pengamalan Al-Qur’an Bantu Pelaksanaan Pembangunan'
+description: 7 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-14-presiden-soeharto-pengamalan-al-quran-bantu-pelaksanaan-pembangunan/respond)
+  88 Views Share on
+date: '1970-10-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-14-presiden-soeharto-pengamalan-al-quran-bantu-pelaksanaan-pembangunan
+aliases:
+- 'Presiden Soeharto: Pengamalan Al-Qur’an Bantu Pelaksanaan Pembangunan'
+- '1970-10-14 Presiden Soeharto: Pengamalan Al-Qur’an Bantu Pelaksanaan Pembangunan
+  – HM Soeharto'
+tags:
+- banjar-masin
+- musabaqah-tilawatil-quran
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-14-presiden-soeharto-pengamalan-al-quran-bantu-pelaksanaan-pembangunan/
+  judul: '1970-10-14 Presiden Soeharto: Pengamalan Al-Qur’an Bantu Pelaksanaan Pembangunan'
+  tanggal: '1970-10-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-14-presiden-soeharto-pengamalan-al-quran-bantu-pelaksanaan-pembangunan/
 ---
+
 
 # 1970-10-14 Presiden Soeharto: Pengamalan Al-Qur’an Bantu Pelaksanaan Pembangunan
 

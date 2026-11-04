@@ -1,9 +1,42 @@
 ---
-title: "1974-09-03 Presiden Soeharto Buka Sidang Umum Ke-7 Kongres Asuransi Asia Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-03-presiden-soeharto-buka-sidang-umum-ke-7-kongres-asuransi-asia-timur/"
-date: "2017-08-23T11:00:20+07:00"
+title: 1974-09-03 Presiden Soeharto Buka Sidang Umum Ke-7 Kongres Asuransi Asia Timur
+description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-03-presiden-soeharto-buka-sidang-umum-ke-7-kongres-asuransi-asia-timur/respond)
+  95 Views Share on
+date: '1974-09-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-03-presiden-soeharto-buka-sidang-umum-ke-7-kongres-asuransi-asia-timur
+aliases:
+- Presiden Soeharto Buka Sidang Umum Ke-7 Kongres Asuransi Asia Timur
+- 1974-09-03 Presiden Soeharto Buka Sidang Umum Ke-7 Kongres Asuransi Asia Timur –
+  HM Soeharto
+tags:
+- asia-timur
+- asuransi
+- hotel-indonesia
+- kongres
+- orde-baru
+- perasuransian
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-03-presiden-soeharto-buka-sidang-umum-ke-7-kongres-asuransi-asia-timur/
+  judul: 1974-09-03 Presiden Soeharto Buka Sidang Umum Ke-7 Kongres Asuransi Asia
+    Timur
+  tanggal: '1974-09-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-03-presiden-soeharto-buka-sidang-umum-ke-7-kongres-asuransi-asia-timur/
 ---
+
 
 # 1974-09-03 Presiden Soeharto Buka Sidang Umum Ke-7 Kongres Asuransi Asia Timur
 

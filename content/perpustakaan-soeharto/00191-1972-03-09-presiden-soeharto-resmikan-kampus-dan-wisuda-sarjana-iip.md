@@ -1,9 +1,43 @@
 ---
-title: "1972-03-09 Presiden Soeharto Resmikan Kampus dan Wisuda Sarjana IIP – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-09-presiden-soeharto-resmikan-kampus-dan-wisuda-sarjana-iip/"
-date: "2014-03-22T03:04:45+07:00"
+title: 1972-03-09 Presiden Soeharto Resmikan Kampus dan Wisuda Sarjana IIP
+description: KAMIS, 9 Maret 1972, Presiden Soeharto hari ini menghadiri upacara peresmian
+  kampus dan wisuda ke-2 sarjana Institut Ilmu Pemerintahan (IIP) di Ragunan, Jakarta.
+  Dalam amanatnya Presiden mengatakan bahwa kurangnya kemampuan...
+date: '1972-03-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-09-presiden-soeharto-resmikan-kampus-dan-wisuda-sarjana-iip
+aliases:
+- Presiden Soeharto Resmikan Kampus dan Wisuda Sarjana IIP
+- 1972-03-09 Presiden Soeharto Resmikan Kampus dan Wisuda Sarjana IIP – HM Soeharto
+tags:
+- iip
+- kampus
+- ketahanan
+- malaysia
+- nasional
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden
+- soeharto
+- wisuda
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-09-presiden-soeharto-resmikan-kampus-dan-wisuda-sarjana-iip/
+  judul: 1972-03-09 Presiden Soeharto Resmikan Kampus dan Wisuda Sarjana IIP
+  tanggal: '1972-03-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-09-presiden-soeharto-resmikan-kampus-dan-wisuda-sarjana-iip/
 ---
+
 
 # 1972-03-09 Presiden Soeharto Resmikan Kampus dan Wisuda Sarjana IIP
 

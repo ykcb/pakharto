@@ -1,9 +1,42 @@
 ---
-title: "1974-07-01 Presiden Soeharto Instruksikan Realisasi Industri Kimia (Pencelupan) – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-instruksikan-realisasi-industri-kimia-pencelupan/"
-date: "2017-08-25T15:25:21+07:00"
+title: 1974-07-01 Presiden Soeharto Instruksikan Realisasi Industri Kimia (Pencelupan)
+description: SENIN, 1 JULI 1974, Dalam tahun anggaran 1974/1975, pemerintah akan mengangkat
+  57.485 pegawai negeri baru. Dari jumlah tersebut, tercatat 20.500 orang sebagai
+  pegawai tambahan, 15.000 orang untuk menggantikan pegawai yang pensiun,...
+date: '1974-07-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-instruksikan-realisasi-industri-kimia-pencelupan
+aliases:
+- Presiden Soeharto Instruksikan Realisasi Industri Kimia (Pencelupan)
+- 1974-07-01 Presiden Soeharto Instruksikan Realisasi Industri Kimia (Pencelupan)
+  – HM Soeharto
+tags:
+- barli-halim
+- bkpm
+- cilacap
+- industri-kimia
+- orde-baru
+- pencelupan
+- perpustakaan-soeharto
+- pns
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-instruksikan-realisasi-industri-kimia-pencelupan/
+  judul: 1974-07-01 Presiden Soeharto Instruksikan Realisasi Industri Kimia (Pencelupan)
+  tanggal: '1974-07-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-instruksikan-realisasi-industri-kimia-pencelupan/
 ---
+
 
 # 1974-07-01 Presiden Soeharto Instruksikan Realisasi Industri Kimia (Pencelupan)
 

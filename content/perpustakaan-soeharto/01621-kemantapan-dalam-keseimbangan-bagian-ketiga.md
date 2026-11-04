@@ -1,9 +1,40 @@
 ---
-title: "Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 3, Habis) – HM Soeharto"
-source: "https://soehartolibrary.id/kemantapan-dalam-keseimbangan-bagian-ketiga/"
-date: "2014-11-25T12:38:50+07:00"
+title: 'Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 3,
+  Habis)'
+description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/kemantapan-dalam-keseimbangan-bagian-ketiga/respond)
+  123 Views Share on
+date: '2014-11-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: kemantapan-dalam-keseimbangan-bagian-ketiga
+aliases:
+- 'Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 3, Habis)
+  – HM Soeharto'
+tags:
+- ali-alatas
+- bebas-aktif
+- non-blok
+- orde-baru
+- perpustakaan-soeharto
+- presidedn-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/kemantapan-dalam-keseimbangan-bagian-ketiga/
+  judul: 'Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 3,
+    Habis)'
+  tanggal: '2014-11-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/kemantapan-dalam-keseimbangan-bagian-ketiga/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/84610007_result.jpg)
 

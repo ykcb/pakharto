@@ -1,9 +1,40 @@
 ---
-title: "1979-09-10 Presiden Soeharto Menerima DPP Muhammadiyah – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-10-presiden-soeharto-menerima-dpp-muhammadiyah/"
-date: "2014-11-21T06:19:52+07:00"
+title: 1979-09-10 Presiden Soeharto Menerima DPP Muhammadiyah
+description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-10-presiden-soeharto-menerima-dpp-muhammadiyah/respond)
+  98 Views Share on
+date: '1979-09-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-10-presiden-soeharto-menerima-dpp-muhammadiyah
+aliases:
+- Presiden Soeharto Menerima DPP Muhammadiyah
+- 1979-09-10 Presiden Soeharto Menerima DPP Muhammadiyah – HM Soeharto
+tags:
+- dpp-muhammadiyah
+- drs-h-bakri-syahid
+- har-fachruddin
+- hm-daim-saleh
+- islam-jamaah
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-10-presiden-soeharto-menerima-dpp-muhammadiyah/
+  judul: 1979-09-10 Presiden Soeharto Menerima DPP Muhammadiyah
+  tanggal: '1979-09-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-10-presiden-soeharto-menerima-dpp-muhammadiyah/
 ---
+
 
 # 1979-09-10 Presiden Soeharto Menerima DPP Muhammadiyah
 

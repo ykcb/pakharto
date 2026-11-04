@@ -1,9 +1,40 @@
 ---
-title: "1970-05-30 Presiden Soeharto Tinjau Bendungan dan Pembangkit Listrik Tennesee – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-30-presiden-soeharto-tinjau-bendungan-dan-pembangkit-listrik-tennesee/"
-date: "2014-03-22T02:53:30+07:00"
+title: 1970-05-30 Presiden Soeharto Tinjau Bendungan dan Pembangkit Listrik Tennesee
+description: SABTU, 30 MEI 1970, Hari ini Presiden Soeharto menghabiskan sebagian
+  besar waktunya untuk meninjau segala fasilitas bendungan dan pembangkit listrik
+  yang ada di Tenneseee. Presiden Soeharto tampak sangat terkesan akan pengaturan
+  yang...
+date: '1970-05-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-30-presiden-soeharto-tinjau-bendungan-dan-pembangkit-listrik-tennesee
+aliases:
+- Presiden Soeharto Tinjau Bendungan dan Pembangkit Listrik Tennesee
+- 1970-05-30 Presiden Soeharto Tinjau Bendungan dan Pembangkit Listrik Tennesee –
+  HM Soeharto
+tags:
+- bendungn
+- listrik
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tenneseee
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-30-presiden-soeharto-tinjau-bendungan-dan-pembangkit-listrik-tennesee/
+  judul: 1970-05-30 Presiden Soeharto Tinjau Bendungan dan Pembangkit Listrik Tennesee
+  tanggal: '1970-05-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-30-presiden-soeharto-tinjau-bendungan-dan-pembangkit-listrik-tennesee/
 ---
+
 
 # 1970-05-30 Presiden Soeharto Tinjau Bendungan dan Pembangkit Listrik Tennesee
 

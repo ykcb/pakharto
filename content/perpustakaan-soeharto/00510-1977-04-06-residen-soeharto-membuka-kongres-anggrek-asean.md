@@ -1,9 +1,39 @@
 ---
-title: "1977-04-06 Presiden Soeharto Membuka Kongres Anggrek ASEAN – HM Soeharto"
-source: "https://soehartolibrary.id/1977-04-06-residen-soeharto-membuka-kongres-anggrek-asean/"
-date: "2014-03-22T02:56:03+07:00"
+title: 1977-04-06 Presiden Soeharto Membuka Kongres Anggrek ASEAN
+description: RABU, 6 April 1977, Soeharto pagi ini di Balai Sidang Senayan, Jakarta
+  membuka Kongres Anggrek ASEAN ke-2 dan Temu Karya Kontak Tani. Dalam amanatnya,
+  ia antara lain mengatakan bahwa tanaman anggrek memiliki potensi yang cukup besar...
+date: '1977-04-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-04-06-residen-soeharto-membuka-kongres-anggrek-asean
+aliases:
+- Presiden Soeharto Membuka Kongres Anggrek ASEAN
+- 1977-04-06 Presiden Soeharto Membuka Kongres Anggrek ASEAN – HM Soeharto
+tags:
+- asean
+- balai-sidang
+- kongres-anggreak
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- senayan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-04-06-residen-soeharto-membuka-kongres-anggrek-asean/
+  judul: 1977-04-06 Presiden Soeharto Membuka Kongres Anggrek ASEAN
+  tanggal: '1977-04-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-04-06-residen-soeharto-membuka-kongres-anggrek-asean/
 ---
+
 
 # 1977-04-06 Presiden Soeharto Membuka Kongres Anggrek ASEAN
 

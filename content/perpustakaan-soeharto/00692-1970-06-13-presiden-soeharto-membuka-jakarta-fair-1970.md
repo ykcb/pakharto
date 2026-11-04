@@ -1,9 +1,37 @@
 ---
-title: "1970-06-13 Presiden Soeharto Membuka Jakarta Fair 1970 – HM Soeharto"
-source: "https://soehartolibrary.id/1970-06-13-presiden-soeharto-membuka-jakarta-fair-1970/"
-date: "2017-08-24T15:33:05+07:00"
+title: 1970-06-13 Presiden Soeharto Membuka Jakarta Fair 1970
+description: Sabtu, 13 Juni 1970, Petang ini Presiden dan Ibu Tien Soeharto membuka
+  Jakarta Fair 1970. Dalam pidato singkatnya, Presiden mengharapkan agar Jakarta Fair
+  ini dapat menggairahkan para pengusaha untuk terus melakukan aktivitasnya...
+date: '1970-06-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-06-13-presiden-soeharto-membuka-jakarta-fair-1970
+aliases:
+- Presiden Soeharto Membuka Jakarta Fair 1970
+- 1970-06-13 Presiden Soeharto Membuka Jakarta Fair 1970 – HM Soeharto
+tags:
+- jakarta-fair
+- orde-baru
+- pekan-raya-jakarta
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-06-13-presiden-soeharto-membuka-jakarta-fair-1970/
+  judul: 1970-06-13 Presiden Soeharto Membuka Jakarta Fair 1970
+  tanggal: '1970-06-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-06-13-presiden-soeharto-membuka-jakarta-fair-1970/
 ---
+
 
 # 1970-06-13 Presiden Soeharto Membuka Jakarta Fair 1970
 

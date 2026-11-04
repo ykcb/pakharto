@@ -1,9 +1,44 @@
 ---
-title: "1974-10-17 Usai Sholat Iedul Fitri, Presiden Soeharto: Sebaiknya Haji Sekali Saja – HM Soeharto"
-source: "https://soehartolibrary.id/1974-10-17-usai-sholat-iedul-fitri-presiden-soeharto-sebaiknya-haji-sekali-saja/"
-date: "2014-12-01T13:52:03+07:00"
+title: '1974-10-17 Usai Sholat Iedul Fitri, Presiden Soeharto: Sebaiknya Haji Sekali
+  Saja'
+description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-10-17-usai-sholat-iedul-fitri-presiden-soeharto-sebaiknya-haji-sekali-saja/respond)
+  101 Views Share on
+date: '1974-10-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-10-17-usai-sholat-iedul-fitri-presiden-soeharto-sebaiknya-haji-sekali-saja
+aliases:
+- 'Usai Sholat Iedul Fitri, Presiden Soeharto: Sebaiknya Haji Sekali Saja'
+- '1974-10-17 Usai Sholat Iedul Fitri, Presiden Soeharto: Sebaiknya Haji Sekali Saja
+  – HM Soeharto'
+tags:
+- haji
+- iedul-fithri
+- kemiskinan
+- kepala-negara
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- zakat
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-10-17-usai-sholat-iedul-fitri-presiden-soeharto-sebaiknya-haji-sekali-saja/
+  judul: '1974-10-17 Usai Sholat Iedul Fitri, Presiden Soeharto: Sebaiknya Haji Sekali
+    Saja'
+  tanggal: '1974-10-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-10-17-usai-sholat-iedul-fitri-presiden-soeharto-sebaiknya-haji-sekali-saja/
 ---
+
 
 # 1974-10-17 Usai Sholat Iedul Fitri, Presiden Soeharto: Sebaiknya Haji Sekali Saja
 

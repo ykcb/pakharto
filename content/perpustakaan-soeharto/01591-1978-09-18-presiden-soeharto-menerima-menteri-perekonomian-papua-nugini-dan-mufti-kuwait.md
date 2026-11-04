@@ -1,9 +1,44 @@
 ---
-title: "1978-09-18 Presiden Soeharto Menerima Menteri Perekonomian Papua Nugini dan Mufti Kuwait – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-18-presiden-soeharto-menerima-menteri-perekonomian-papua-nugini-dan-mufti-kuwait/"
-date: "2017-08-22T12:06:02+07:00"
+title: 1978-09-18 Presiden Soeharto Menerima Menteri Perekonomian Papua Nugini dan
+  Mufti Kuwait
+description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-18-presiden-soeharto-menerima-menteri-perekonomian-papua-nugini-dan-mufti-kuwait/respond)
+  134 Views Share on
+date: '1978-09-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-18-presiden-soeharto-menerima-menteri-perekonomian-papua-nugini-dan-mufti-kuwait
+aliases:
+- Presiden Soeharto Menerima Menteri Perekonomian Papua Nugini dan Mufti Kuwait
+- 1978-09-18 Presiden Soeharto Menerima Menteri Perekonomian Papua Nugini dan Mufti
+  Kuwait – HM Soeharto
+tags:
+- bina-graha
+- menteri-perekonomian
+- orde-baru
+- papu-nugini
+- perdagangan-dan-koperasi
+- perpustakaan-soeharto
+- peta-lus
+- presiden-soeharto
+- radius-prawiro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-18-presiden-soeharto-menerima-menteri-perekonomian-papua-nugini-dan-mufti-kuwait/
+  judul: 1978-09-18 Presiden Soeharto Menerima Menteri Perekonomian Papua Nugini dan
+    Mufti Kuwait
+  tanggal: '1978-09-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-18-presiden-soeharto-menerima-menteri-perekonomian-papua-nugini-dan-mufti-kuwait/
 ---
+
 
 # 1978-09-18 Presiden Soeharto Menerima Menteri Perekonomian Papua Nugini dan Mufti Kuwait
 

@@ -1,9 +1,51 @@
 ---
-title: "1970-01-04 Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-04-presiden-soeharto-lancarkan-program-pengumpulan-dana-untuk-irian-barat/"
-date: "2014-12-29T15:40:10+07:00"
+title: 1970-01-04 Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian
+  Barat
+description: MINGGU, 4 JANUARI 1970, Presiden Soeharto melancarkan suatu program pengumpulan
+  dana bagi rakyat di Irian Barat. Kegiatan yang diselenggarakan di Istana Bogor ini
+  dimeriahkan oleh sejumlah artis ibukota. Dalam sambutannya Presiden...
+date: '1970-01-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-04-presiden-soeharto-lancarkan-program-pengumpulan-dana-untuk-irian-barat
+aliases:
+- Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian Barat
+- 1970-01-04 Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian Barat
+  – HM Soeharto
+tags:
+- bapak-pembangunan
+- barat
+- bina-graha
+- cendana
+- dana
+- gbhn
+- irian
+- istana-merdeka
+- macan-asia
+- orde-baru
+- pelita
+- pengumpulan
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- tinggal-landas-2
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-04-presiden-soeharto-lancarkan-program-pengumpulan-dana-untuk-irian-barat/
+  judul: 1970-01-04 Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian
+    Barat
+  tanggal: '1970-01-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-04-presiden-soeharto-lancarkan-program-pengumpulan-dana-untuk-irian-barat/
 ---
+
 
 # 1970-01-04 Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian Barat
 

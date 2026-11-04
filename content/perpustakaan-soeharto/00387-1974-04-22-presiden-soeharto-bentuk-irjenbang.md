@@ -1,9 +1,40 @@
 ---
-title: "1974-04-22 Presiden Soeharto Bentuk Irjenbang – HM Soeharto"
-source: "https://soehartolibrary.id/1974-04-22-presiden-soeharto-bentuk-irjenbang/"
-date: "2014-11-19T14:02:54+07:00"
+title: 1974-04-22 Presiden Soeharto Bentuk Irjenbang
+description: SENIN, 22 April 1974, Presiden Soeharto telah membentuk beberapa Inspektur
+  Jenderal Proyek-proyek Pembangunan (Irjenbang). Irjenbang ini diberi tugas untuk
+  mengadakan pengawasaan terhadap pelaksanaan proyek-proyek pembangunan yang...
+date: '1974-04-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-04-22-presiden-soeharto-bentuk-irjenbang
+aliases:
+- Presiden Soeharto Bentuk Irjenbang
+- 1974-04-22 Presiden Soeharto Bentuk Irjenbang – HM Soeharto
+tags:
+- filipina
+- goerge-p-schultz
+- imelda-marcos
+- irjenbang
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-04-22-presiden-soeharto-bentuk-irjenbang/
+  judul: 1974-04-22 Presiden Soeharto Bentuk Irjenbang
+  tanggal: '1974-04-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-04-22-presiden-soeharto-bentuk-irjenbang/
 ---
+
 
 # 1974-04-22 Presiden Soeharto Bentuk Irjenbang
 

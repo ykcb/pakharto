@@ -1,9 +1,36 @@
 ---
-title: "1969-09-29 Presiden Soeharto Resmikan Stasiun Bumi Jatiluhur – HM Soeharto"
-source: "https://soehartolibrary.id/1969-09-29-presiden-soeharto-resmikan-stasiun-bumi-jatiluhur/"
-date: "2017-08-22T17:36:42+07:00"
+title: 1969-09-29 Presiden Soeharto Resmikan Stasiun Bumi Jatiluhur
+description: 4 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-09-29-presiden-soeharto-resmikan-stasiun-bumi-jatiluhur/respond)
+  128 Views Share on
+date: '1969-09-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-09-29-presiden-soeharto-resmikan-stasiun-bumi-jatiluhur
+aliases:
+- Presiden Soeharto Resmikan Stasiun Bumi Jatiluhur
+- 1969-09-29 Presiden Soeharto Resmikan Stasiun Bumi Jatiluhur – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- stasiun-bumi-jatiluhur
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-09-29-presiden-soeharto-resmikan-stasiun-bumi-jatiluhur/
+  judul: 1969-09-29 Presiden Soeharto Resmikan Stasiun Bumi Jatiluhur
+  tanggal: '1969-09-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-09-29-presiden-soeharto-resmikan-stasiun-bumi-jatiluhur/
 ---
+
 
 # 1969-09-29 Presiden Soeharto Resmikan Stasiun Bumi Jatiluhur
 

@@ -1,9 +1,42 @@
 ---
-title: "1974-08-03 Presiden Soeharto: Kesejahteraan Rakyat, Kunci Perdamaian Dunia – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-03-presiden-soeharto-kesejahteraan-rakyat-kunci-perdamaian-dunia/"
-date: "2017-08-23T11:35:14+07:00"
+title: '1974-08-03 Presiden Soeharto: Kesejahteraan Rakyat, Kunci Perdamaian Dunia'
+description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-03-presiden-soeharto-kesejahteraan-rakyat-kunci-perdamaian-dunia/respond)
+  91 Views Share on
+date: '1974-08-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-03-presiden-soeharto-kesejahteraan-rakyat-kunci-perdamaian-dunia
+aliases:
+- 'Presiden Soeharto: Kesejahteraan Rakyat, Kunci Perdamaian Dunia'
+- '1974-08-03 Presiden Soeharto: Kesejahteraan Rakyat, Kunci Perdamaian Dunia – HM
+  Soeharto'
+tags:
+- austria
+- dr-erich-m-schmidt
+- duta-besar
+- lebanon
+- mahmoud-hafez
+- orde-baru
+- perdamaian-dunia
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-03-presiden-soeharto-kesejahteraan-rakyat-kunci-perdamaian-dunia/
+  judul: '1974-08-03 Presiden Soeharto: Kesejahteraan Rakyat, Kunci Perdamaian Dunia'
+  tanggal: '1974-08-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-03-presiden-soeharto-kesejahteraan-rakyat-kunci-perdamaian-dunia/
 ---
+
 
 # 1974-08-03 Presiden Soeharto: Kesejahteraan Rakyat, Kunci Perdamaian Dunia
 

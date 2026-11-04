@@ -1,9 +1,41 @@
 ---
-title: "1971-08-18 Presiden Soeharto Sambut Pawai Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-08-18-presiden-soeharto-sambut-pawai-pembangunan/"
-date: "2017-08-24T15:10:08+07:00"
+title: 1971-08-18 Presiden Soeharto Sambut Pawai Pembangunan
+description: RABU, 18 AGUSTUS 1971, Presiden dan Ibu Tien Soeharto didampingi pejabat-pejabat
+  lainnya menyambut pawai pembangunan yang melewati Istana Merdeka. Pawai yang diadakan
+  dalam rangka Hari Kemerdekaan ini mulai melintas di depan Istana jam...
+date: '1971-08-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-08-18-presiden-soeharto-sambut-pawai-pembangunan
+aliases:
+- Presiden Soeharto Sambut Pawai Pembangunan
+- 1971-08-18 Presiden Soeharto Sambut Pawai Pembangunan – HM Soeharto
+tags:
+- apel-besar
+- gerakan-pramuka
+- istana-merdekasoeharto
+- jenderal
+- orde-baru
+- pak-harto
+- pawai-pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-08-18-presiden-soeharto-sambut-pawai-pembangunan/
+  judul: 1971-08-18 Presiden Soeharto Sambut Pawai Pembangunan
+  tanggal: '1971-08-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-08-18-presiden-soeharto-sambut-pawai-pembangunan/
 ---
+
 
 # 1971-08-18 Presiden Soeharto Sambut Pawai Pembangunan
 

@@ -1,9 +1,39 @@
 ---
-title: "1970-02-25 Pemanfaatan Waduk Jatiluhur dan Perilaku Anggota ABRI – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-25-pemanfaatan-waduk-jatiluhur-dan-perilaku-anggota-abri/"
-date: "2017-08-28T17:10:50+07:00"
+title: 1970-02-25 Pemanfaatan Waduk Jatiluhur dan Perilaku Anggota ABRI
+description: PEMANFAATAN WADUK JATILUHUR DAN PERILAKU KESEHARIAN ANGGOTA ABRI
+date: '1970-02-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-25-pemanfaatan-waduk-jatiluhur-dan-perilaku-anggota-abri
+aliases:
+- Pemanfaatan Waduk Jatiluhur dan Perilaku Anggota ABRI
+- 1970-02-25 Pemanfaatan Waduk Jatiluhur dan Perilaku Anggota ABRI – HM Soeharto
+tags:
+- abri
+- jatiluhur
+- kebut-kebutan
+- keluarga
+- mobil-dinas
+- orde-baru
+- perpustakaan-soeharto
+- soeharto
+- waduk
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-25-pemanfaatan-waduk-jatiluhur-dan-perilaku-anggota-abri/
+  judul: 1970-02-25 Pemanfaatan Waduk Jatiluhur dan Perilaku Anggota ABRI
+  tanggal: '1970-02-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-25-pemanfaatan-waduk-jatiluhur-dan-perilaku-anggota-abri/
 ---
+
 
 # 1970-02-25 Pemanfaatan Waduk Jatiluhur dan Perilaku Anggota ABRI
 

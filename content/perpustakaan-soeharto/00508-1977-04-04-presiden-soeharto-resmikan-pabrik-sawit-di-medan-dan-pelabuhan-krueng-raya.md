@@ -1,9 +1,45 @@
 ---
-title: "1977-04-04 Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan Krueng Raya – HM Soeharto"
-source: "https://soehartolibrary.id/1977-04-04-presiden-soeharto-resmikan-pabrik-sawit-di-medan-dan-pelabuhan-krueng-raya/"
-date: "2014-03-22T02:56:05+07:00"
+title: 1977-04-04 Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan Krueng
+  Raya
+description: SENIN, 4 April 1977, Presiden Soeharto di Adolina, Sumatera Utara, pagi
+  ini meresmikan pabrik minyak sawit milik PNP Tnjowan dan PTP Pagar Merbau. Kawasan
+  ini meliputi pabrik Fraksional dan refinasi minyak sawit Adolina serta Sekolah...
+date: '1977-04-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-04-04-presiden-soeharto-resmikan-pabrik-sawit-di-medan-dan-pelabuhan-krueng-raya
+aliases:
+- Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan Krueng Raya
+- 1977-04-04 Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan Krueng
+  Raya – HM Soeharto
+tags:
+- adolina
+- banda-aceh
+- golongan
+- krueng-raya
+- medan
+- orde-baru
+- perpustakaan-soeharto
+- persatuan
+- presiden-soeharto
+- ulama
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-04-04-presiden-soeharto-resmikan-pabrik-sawit-di-medan-dan-pelabuhan-krueng-raya/
+  judul: 1977-04-04 Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan
+    Krueng Raya
+  tanggal: '1977-04-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-04-04-presiden-soeharto-resmikan-pabrik-sawit-di-medan-dan-pelabuhan-krueng-raya/
 ---
+
 
 # 1977-04-04 Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan Krueng Raya
 

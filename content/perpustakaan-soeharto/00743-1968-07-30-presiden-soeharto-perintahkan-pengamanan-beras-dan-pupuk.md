@@ -1,9 +1,42 @@
 ---
-title: "1968-07-30 Presiden Soeharto Perintahkan Pengamanan Beras dan Pupuk – HM Soeharto"
-source: "https://soehartolibrary.id/1968-07-30-presiden-soeharto-perintahkan-pengamanan-beras-dan-pupuk/"
-date: "2017-08-24T15:25:24+07:00"
+title: 1968-07-30 Presiden Soeharto Perintahkan Pengamanan Beras dan Pupuk
+description: SELASA, 30 Juli 1968. Presiden Soeharto memerintahkan Pangdamar III untuk
+  mengamankan dan menjamin kelancaran pengeluaran beras dan pupuk yang akan datang
+  di Tanjung Priok dalam bulan Agustus mendatang. Beras yang berjumlah ratusan ribu...
+date: '1968-07-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-07-30-presiden-soeharto-perintahkan-pengamanan-beras-dan-pupuk
+aliases:
+- Presiden Soeharto Perintahkan Pengamanan Beras dan Pupuk
+- 1968-07-30 Presiden Soeharto Perintahkan Pengamanan Beras dan Pupuk – HM Soeharto
+tags:
+- beras
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- pangdamar-iii
+- perpustakaan-soeharto
+- petani
+- presiden-soeharto
+- pupuk
+- tanjung-priok
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-07-30-presiden-soeharto-perintahkan-pengamanan-beras-dan-pupuk/
+  judul: 1968-07-30 Presiden Soeharto Perintahkan Pengamanan Beras dan Pupuk
+  tanggal: '1968-07-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-07-30-presiden-soeharto-perintahkan-pengamanan-beras-dan-pupuk/
 ---
+
 
 # 1968-07-30 Presiden Soeharto Perintahkan Pengamanan Beras dan Pupuk
 

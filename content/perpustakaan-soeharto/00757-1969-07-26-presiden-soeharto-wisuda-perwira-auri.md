@@ -1,9 +1,42 @@
 ---
-title: "1969-07-26 Presiden Soeharto Wisuda Perwira AURI – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-26-presiden-soeharto-wisuda-perwira-auri/"
-date: "2017-08-24T15:22:13+07:00"
+title: 1969-07-26 Presiden Soeharto Wisuda Perwira AURI
+description: SABTU, 26 Juli 1969. Dalam amanat tertulisnya pada upacara wisuda perwira-perwira
+  remaja AURI di Yogyakarta hari ini, Presiden Soeharto mengatakan bahwa perubahan
+  apapun yang terjadi, ada satu dasar yang mutlak yang tidak boleh berubah,...
+date: '1969-07-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-26-presiden-soeharto-wisuda-perwira-auri
+aliases:
+- Presiden Soeharto Wisuda Perwira AURI
+- 1969-07-26 Presiden Soeharto Wisuda Perwira AURI – HM Soeharto
+tags:
+- auri
+- dalang
+- irian-barat
+- jenderal-soeharto
+- kemerdekaan
+- mendagri-amirmachmud
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-26-presiden-soeharto-wisuda-perwira-auri/
+  judul: 1969-07-26 Presiden Soeharto Wisuda Perwira AURI
+  tanggal: '1969-07-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-26-presiden-soeharto-wisuda-perwira-auri/
 ---
+
 
 # 1969-07-26 Presiden Soeharto Wisuda Perwira AURI
 

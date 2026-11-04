@@ -1,9 +1,43 @@
 ---
-title: "1972-02-01 Sidang Sub Dewan Stabilisasi Ekonomi – HM Soeharto"
-source: "https://soehartolibrary.id/1972-02-01-sidang-sub-dewan-stabilisasi-ekonomi/"
-date: "2017-08-28T17:10:11+07:00"
+title: 1972-02-01 Sidang Sub Dewan Stabilisasi Ekonomi
+description: SELASA 01 PEBRUARI 1972, Presiden Soeharto, dalam sidang Sub Dewan Stabilisasi
+  Ekonomi di Bina Graha hari ini, menganjurkan agar mulai bulan April yang akan datang
+  semua pegewai negeri memakai pakaian harian sebagaimana biasanya dipakai...
+date: '1972-02-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-02-01-sidang-sub-dewan-stabilisasi-ekonomi
+aliases:
+- Sidang Sub Dewan Stabilisasi Ekonomi
+- 1972-02-01 Sidang Sub Dewan Stabilisasi Ekonomi – HM Soeharto
+tags:
+- dewan
+- ekonomi
+- menteri
+- negeri
+- orde-baru
+- pegawai
+- perpustakaan-soeharto
+- seragam
+- sidang
+- stabilisasi
+- sub
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-02-01-sidang-sub-dewan-stabilisasi-ekonomi/
+  judul: 1972-02-01 Sidang Sub Dewan Stabilisasi Ekonomi
+  tanggal: '1972-02-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-02-01-sidang-sub-dewan-stabilisasi-ekonomi/
 ---
+
 
 # 1972-02-01 Sidang Sub Dewan Stabilisasi Ekonomi
 

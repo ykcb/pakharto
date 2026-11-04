@@ -1,9 +1,41 @@
 ---
-title: "1971-09-25 Presiden Soeharto Menerima Peserta Pekan Nasional Pertemuan Petani – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-25-presiden-soeharto-menerima-peserta-pekan-nasional-pertemuan-petani/"
-date: "2017-08-23T11:06:43+07:00"
+title: 1971-09-25 Presiden Soeharto Menerima Peserta Pekan Nasional Pertemuan Petani
+description: 13 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-25-presiden-soeharto-menerima-peserta-pekan-nasional-pertemuan-petani/respond)
+  105 Views Share on
+date: '1971-09-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-25-presiden-soeharto-menerima-peserta-pekan-nasional-pertemuan-petani
+aliases:
+- Presiden Soeharto Menerima Peserta Pekan Nasional Pertemuan Petani
+- 1971-09-25 Presiden Soeharto Menerima Peserta Pekan Nasional Pertemuan Petani –
+  HM Soeharto
+tags:
+- cianjur
+- cihiea
+- jawa-barat
+- orde-baru
+- pekan-nasional
+- perpustakaan-soeharto
+- pertamuan-petani
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-25-presiden-soeharto-menerima-peserta-pekan-nasional-pertemuan-petani/
+  judul: 1971-09-25 Presiden Soeharto Menerima Peserta Pekan Nasional Pertemuan Petani
+  tanggal: '1971-09-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-25-presiden-soeharto-menerima-peserta-pekan-nasional-pertemuan-petani/
 ---
+
 
 # 1971-09-25 Presiden Soeharto Menerima Peserta Pekan Nasional Pertemuan Petani
 

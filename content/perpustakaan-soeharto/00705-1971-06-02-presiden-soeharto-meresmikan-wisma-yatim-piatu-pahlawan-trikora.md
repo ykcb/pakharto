@@ -1,9 +1,54 @@
 ---
-title: "1971-06-02 Presiden Soeharto Meresmikan Wisma Yatim Piatu Pahlawan Trikora – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-02-presiden-soeharto-meresmikan-wisma-yatim-piatu-pahlawan-trikora/"
-date: "2017-08-24T15:32:05+07:00"
+title: 1971-06-02 Presiden Soeharto Meresmikan Wisma Yatim Piatu Pahlawan Trikora
+description: RABU, 2 Juni 1971, Bertempat di pangkalan Halim Perdanakusuma, Jakarta,
+  hari ini Presiden Soeharto meresmikan sebuah wisma untuk Yatim Piatu, anak-anak
+  Pahlawan Trikora. Wisma yang oleh Presiden diberi nama “Wira Yudha Putra” dapat...
+date: '1971-06-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-02-presiden-soeharto-meresmikan-wisma-yatim-piatu-pahlawan-trikora
+aliases:
+- Presiden Soeharto Meresmikan Wisma Yatim Piatu Pahlawan Trikora
+- 1971-06-02 Presiden Soeharto Meresmikan Wisma Yatim Piatu Pahlawan Trikora – HM
+  Soeharto
+tags:
+- aang-kunaefi
+- amirmachmud
+- bandung
+- bekasi
+- ciamis
+- cirebon
+- garut
+- gubernur-jawa-barat
+- halim-perdana-kusuma
+- indramayu
+- kuningan
+- menteri-dalam-negeri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- purwakarta
+- sumedang
+- tasikmalaya
+- trikora
+- wira-yudha-putra
+- yatim-piatu
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-02-presiden-soeharto-meresmikan-wisma-yatim-piatu-pahlawan-trikora/
+  judul: 1971-06-02 Presiden Soeharto Meresmikan Wisma Yatim Piatu Pahlawan Trikora
+  tanggal: '1971-06-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-02-presiden-soeharto-meresmikan-wisma-yatim-piatu-pahlawan-trikora/
 ---
+
 
 # 1971-06-02 Presiden Soeharto Meresmikan Wisma Yatim Piatu Pahlawan Trikora
 

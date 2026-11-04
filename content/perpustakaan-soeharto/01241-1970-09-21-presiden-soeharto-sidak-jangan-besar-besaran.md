@@ -1,9 +1,38 @@
 ---
-title: "1970-09-21 Presiden Soeharto: Sidak Jangan Besar-Besaran – HM Soeharto"
-source: "https://soehartolibrary.id/1970-09-21-presiden-soeharto-sidak-jangan-besar-besaran/"
-date: "2017-08-22T17:33:40+07:00"
+title: '1970-09-21 Presiden Soeharto: Sidak Jangan Besar-Besaran'
+description: 6 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-09-21-presiden-soeharto-sidak-jangan-besar-besaran/respond)
+  133 Views Share on
+date: '1970-09-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-09-21-presiden-soeharto-sidak-jangan-besar-besaran
+aliases:
+- 'Presiden Soeharto: Sidak Jangan Besar-Besaran'
+- '1970-09-21 Presiden Soeharto: Sidak Jangan Besar-Besaran – HM Soeharto'
+tags:
+- daerah
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- proyek
+- sidak
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-09-21-presiden-soeharto-sidak-jangan-besar-besaran/
+  judul: '1970-09-21 Presiden Soeharto: Sidak Jangan Besar-Besaran'
+  tanggal: '1970-09-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-09-21-presiden-soeharto-sidak-jangan-besar-besaran/
 ---
+
 
 # 1970-09-21 Presiden Soeharto: Sidak Jangan Besar-Besaran
 

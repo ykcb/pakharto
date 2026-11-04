@@ -1,9 +1,42 @@
 ---
-title: "1969-06-17 Presiden Soeharto: Perlu Peningkatan Processing dan Marketing Bidang Pertanian – HM Soeharto"
-source: "https://soehartolibrary.id/1969-06-17-presiden-soeharto-perlu-peningkatan-processing-dan-marketing-bidang-pertanian/"
-date: "2017-08-24T15:30:06+07:00"
+title: '1969-06-17 Presiden Soeharto: Perlu Peningkatan Processing dan Marketing Bidang
+  Pertanian'
+description: SELASA, 17 JUNI 1969, “Tidak ada hal yang mengkhawatirkan di bidang moneter
+  pada saat ini”, demikian antara lain kesimpulan rapat Sub-Dewan Stabilisasi Ekonomi
+  yang dipimpin oleh Presiden Soeharto pagi ini di Istana Merdeka. Walaupun...
+date: '1969-06-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-06-17-presiden-soeharto-perlu-peningkatan-processing-dan-marketing-bidang-pertanian
+aliases:
+- 'Presiden Soeharto: Perlu Peningkatan Processing dan Marketing Bidang Pertanian'
+- '1969-06-17 Presiden Soeharto: Perlu Peningkatan Processing dan Marketing Bidang
+  Pertanian – HM Soeharto'
+tags:
+- curug
+- karawang
+- orde-baru
+- perpustakaan-soeharto
+- pertanian
+- presiden-soeharto
+- tani-makmur
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-06-17-presiden-soeharto-perlu-peningkatan-processing-dan-marketing-bidang-pertanian/
+  judul: '1969-06-17 Presiden Soeharto: Perlu Peningkatan Processing dan Marketing
+    Bidang Pertanian'
+  tanggal: '1969-06-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-06-17-presiden-soeharto-perlu-peningkatan-processing-dan-marketing-bidang-pertanian/
 ---
+
 
 # 1969-06-17 Presiden Soeharto: Perlu Peningkatan Processing dan Marketing Bidang Pertanian
 

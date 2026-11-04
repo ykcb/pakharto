@@ -1,9 +1,47 @@
 ---
-title: "Soeharto Presiden: Desakan Jenderal Nasution Kepada Bung Karno – HM Soeharto"
-source: "https://soehartolibrary.id/soeharto-presiden-desakan-jenderal-nasution-kepada-bung-karno/"
-date: "2013-03-15T01:48:27+07:00"
+title: 'Soeharto Presiden: Desakan Jenderal Nasution Kepada Bung Karno'
+description: Pak Harto berusaha untuk tidak mempunyai musuh, untuk itu beliau selalu
+  akomodatif. Sebagai orang Jawa yang kental dalam spiritual, beliau mempercayai adanya
+  “wisik” yang untuk orang awam secara langsung sulit dibuktikan. Saya percaya,...
+date: '2013-03-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: soeharto-presiden-desakan-jenderal-nasution-kepada-bung-karno
+aliases:
+- 'Soeharto Presiden: Desakan Jenderal Nasution Kepada Bung Karno – HM Soeharto'
+tags:
+- blitar
+- bung-karno
+- g-30-spki
+- incognito
+- jawa-bali
+- jenderal-nasution
+- megawati-soekarno-putri
+- orde-baru
+- pak-harto
+- pemakaman
+- perpustakaan-soeharto
+- presiden-soeharto
+- reporter
+- rri
+- soeharto
+- sujarwo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/soeharto-presiden-desakan-jenderal-nasution-kepada-bung-karno/
+  judul: 'Soeharto Presiden: Desakan Jenderal Nasution Kepada Bung Karno'
+  tanggal: '2013-03-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/soeharto-presiden-desakan-jenderal-nasution-kepada-bung-karno/
 ---
+
 
 # Soeharto Presiden: Desakan Jenderal Nasution Kepada Bung Karno
 

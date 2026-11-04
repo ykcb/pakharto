@@ -1,9 +1,40 @@
 ---
-title: "Mikul Dhuwur Mendhem Jero – HM Soeharto"
-source: "https://soehartolibrary.id/mikul-dhuwur-mendhem-jero/"
-date: "2018-01-10T19:26:12+07:00"
+title: Mikul Dhuwur Mendhem Jero
+description: Di saat demonstrasi mahasiswa mewarnai suasana Jakarta, di Istana Merdeka
+  saya mengadakan dialog dengan Bung Karno. Itu menyambung pembicaraan mengenai situasi
+  dan mengenai PKI. Saya berkeyakinan bahwa pikiran Bung Karno mengenai jalan...
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: mikul-dhuwur-mendhem-jero
+aliases:
+- Mikul Dhuwur Mendhem Jero – HM Soeharto
+tags:
+- dhuwur
+- dialog
+- jero
+- mendem
+- mikul
+- orde-baru
+- perpustakaan-soeharto
+- soeharto
+- soekarno
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/mikul-dhuwur-mendhem-jero/
+  judul: Mikul Dhuwur Mendhem Jero
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/mikul-dhuwur-mendhem-jero/
 ---
+
 
 # Mikul Dhuwur Mendhem Jero
 

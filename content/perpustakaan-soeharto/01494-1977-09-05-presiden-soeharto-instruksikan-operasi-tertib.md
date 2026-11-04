@@ -1,9 +1,38 @@
 ---
-title: "1977-09-05 Presiden Soeharto Instruksikan Operasi Tertib – HM Soeharto"
-source: "https://soehartolibrary.id/1977-09-05-presiden-soeharto-instruksikan-operasi-tertib/"
-date: "2017-07-05T15:19:50+07:00"
+title: 1977-09-05 Presiden Soeharto Instruksikan Operasi Tertib
+description: 20 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1977-09-05-presiden-soeharto-instruksikan-operasi-tertib/respond)
+  95 Views Share on
+date: '1977-09-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-09-05-presiden-soeharto-instruksikan-operasi-tertib
+aliases:
+- Presiden Soeharto Instruksikan Operasi Tertib
+- 1977-09-05 Presiden Soeharto Instruksikan Operasi Tertib – HM Soeharto
+tags:
+- instruksi-no-9-tahun-1977
+- operasi-tertib
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- pungutan-liar
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-09-05-presiden-soeharto-instruksikan-operasi-tertib/
+  judul: 1977-09-05 Presiden Soeharto Instruksikan Operasi Tertib
+  tanggal: '1977-09-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-09-05-presiden-soeharto-instruksikan-operasi-tertib/
 ---
+
 
 # 1977-09-05 Presiden Soeharto Instruksikan Operasi Tertib
 

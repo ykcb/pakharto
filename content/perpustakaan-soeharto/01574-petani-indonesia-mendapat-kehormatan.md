@@ -1,9 +1,41 @@
 ---
-title: "Petani Indonesia Mendapat Kehormatan – HM Soeharto"
-source: "https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/"
-date: "2018-01-10T19:00:11+07:00"
+title: Petani Indonesia Mendapat Kehormatan
+description: 26 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/respond)
+  158 Views Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: petani-indonesia-mendapat-kehormatan
+aliases:
+- Petani Indonesia Mendapat Kehormatan – HM Soeharto
+tags:
+- direktur-jenderal-fao
+- fao
+- francois-mitterrand
+- mr-edouard-saouma
+- orde-baru
+- pbb
+- perpustakaan-soeharto
+- presiden-soeharto
+- roma
+- swasembada-pangan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/
+  judul: Petani Indonesia Mendapat Kehormatan
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/
 ---
+
 
 # Petani Indonesia Mendapat Kehormatan
 

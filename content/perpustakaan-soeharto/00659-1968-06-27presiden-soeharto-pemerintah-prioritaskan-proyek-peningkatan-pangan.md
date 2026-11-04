@@ -1,9 +1,37 @@
 ---
-title: "1968-06-27Presiden Soeharto: Pemerintah Prioritaskan Proyek Peningkatan Pangan – HM Soeharto"
-source: "https://soehartolibrary.id/1968-06-27presiden-soeharto-pemerintah-prioritaskan-proyek-peningkatan-pangan/"
-date: "2017-08-25T15:35:39+07:00"
+title: '1968-06-27Presiden Soeharto: Pemerintah Prioritaskan Proyek Peningkatan Pangan'
+description: 'Presiden Soeharto: Pemerintah Prioritaskan Proyek Peningkatan Pangan'
+date: '2017-08-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-06-27presiden-soeharto-pemerintah-prioritaskan-proyek-peningkatan-pangan
+aliases:
+- 'Presiden Soeharto: Pemerintah Prioritaskan Proyek Peningkatan Pangan'
+- '1968-06-27Presiden Soeharto: Pemerintah Prioritaskan Proyek Peningkatan Pangan
+  – HM Soeharto'
+tags:
+- dpa
+- orde-baru
+- pangan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-06-27presiden-soeharto-pemerintah-prioritaskan-proyek-peningkatan-pangan/
+  judul: '1968-06-27Presiden Soeharto: Pemerintah Prioritaskan Proyek Peningkatan
+    Pangan'
+  tanggal: '2017-08-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-06-27presiden-soeharto-pemerintah-prioritaskan-proyek-peningkatan-pangan/
 ---
+
 
 # 1968-06-27Presiden Soeharto: Pemerintah Prioritaskan Proyek Peningkatan Pangan
 

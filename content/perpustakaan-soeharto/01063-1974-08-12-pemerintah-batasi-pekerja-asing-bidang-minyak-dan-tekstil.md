@@ -1,9 +1,41 @@
 ---
-title: "1974-08-12 Pemerintah Batasi Pekerja Asing Bidang Minyak dan Tekstil – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-12-pemerintah-batasi-pekerja-asing-bidang-minyak-dan-tekstil/"
-date: "2017-08-23T11:19:11+07:00"
+title: 1974-08-12 Pemerintah Batasi Pekerja Asing Bidang Minyak dan Tekstil
+description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-12-pemerintah-batasi-pekerja-asing-bidang-minyak-dan-tekstil/respond)
+  105 Views Share on
+date: '1974-08-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-12-pemerintah-batasi-pekerja-asing-bidang-minyak-dan-tekstil
+aliases:
+- Pemerintah Batasi Pekerja Asing Bidang Minyak dan Tekstil
+- 1974-08-12 Pemerintah Batasi Pekerja Asing Bidang Minyak dan Tekstil – HM Soeharto
+tags:
+- menteri-koperasi
+- orde-baru
+- pekerja-asing
+- perkebunan
+- perminyakan
+- perpustakaan-soeharto
+- presiden-soeharto
+- subroto
+- tekstil
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-12-pemerintah-batasi-pekerja-asing-bidang-minyak-dan-tekstil/
+  judul: 1974-08-12 Pemerintah Batasi Pekerja Asing Bidang Minyak dan Tekstil
+  tanggal: '1974-08-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-12-pemerintah-batasi-pekerja-asing-bidang-minyak-dan-tekstil/
 ---
+
 
 # 1974-08-12 Pemerintah Batasi Pekerja Asing Bidang Minyak dan Tekstil
 

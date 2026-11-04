@@ -1,9 +1,43 @@
 ---
-title: "1970-02-21 Tidak Alon-Alon Asal Kelakon dan Pengabdian Sarjana Untuk Desa – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-21-tidak-alon-alon-asal-kelakon-dan-pengabdian-sarjana-untuk-desa/"
-date: "2017-08-29T11:14:49+07:00"
+title: 1970-02-21 Tidak Alon-Alon Asal Kelakon dan Pengabdian Sarjana Untuk Desa
+description: TIDAK ALON-ALON ASAL KELAKON DAN PENGABDIAN SARJANA UNTUK DESA
+date: '1970-02-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-21-tidak-alon-alon-asal-kelakon-dan-pengabdian-sarjana-untuk-desa
+aliases:
+- Tidak Alon-Alon Asal Kelakon dan Pengabdian Sarjana Untuk Desa
+- 1970-02-21 Tidak Alon-Alon Asal Kelakon dan Pengabdian Sarjana Untuk Desa – HM Soeharto
+tags:
+- alon-alon
+- asal-kelakon
+- demokrasi
+- desa
+- kebebasan
+- mimbar
+- orde-baru
+- pengabdian
+- perguruan-tinggi
+- perpustakaan-soeharto
+- pers
+- sarjana
+- sehat
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-21-tidak-alon-alon-asal-kelakon-dan-pengabdian-sarjana-untuk-desa/
+  judul: 1970-02-21 Tidak Alon-Alon Asal Kelakon dan Pengabdian Sarjana Untuk Desa
+  tanggal: '1970-02-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-21-tidak-alon-alon-asal-kelakon-dan-pengabdian-sarjana-untuk-desa/
 ---
+
 
 # 1970-02-21 Tidak Alon-Alon Asal Kelakon dan Pengabdian Sarjana Untuk Desa
 

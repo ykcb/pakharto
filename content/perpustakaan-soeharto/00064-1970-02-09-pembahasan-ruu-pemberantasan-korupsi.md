@@ -1,9 +1,41 @@
 ---
-title: "1970-02-09 PEMBAHASAN RUU PEMBERANTASAN KORUPSI – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-09-pembahasan-ruu-pemberantasan-korupsi/"
-date: "2017-05-29T13:27:10+07:00"
+title: 1970-02-09 PEMBAHASAN RUU PEMBERANTASAN KORUPSI
+description: (Menerima Kunjungan Tidak Resmi Sultan Pahang dan Pembahasan RUU Pemberantasan
+  Korupsi) 1)
+date: '1970-02-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-09-pembahasan-ruu-pemberantasan-korupsi
+aliases:
+- PEMBAHASAN RUU PEMBERANTASAN KORUPSI
+- 1970-02-09 PEMBAHASAN RUU PEMBERANTASAN KORUPSI – HM Soeharto
+tags:
+- jawa-barat
+- kehakiman
+- korupsi
+- orde-baru
+- pahang
+- pemberantasan
+- perpustakaan-soeharto
+- pertanian
+- ruu
+- sultan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-09-pembahasan-ruu-pemberantasan-korupsi/
+  judul: 1970-02-09 PEMBAHASAN RUU PEMBERANTASAN KORUPSI
+  tanggal: '1970-02-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-09-pembahasan-ruu-pemberantasan-korupsi/
 ---
+
 
 # 1970-02-09 PEMBAHASAN RUU PEMBERANTASAN KORUPSI
 

@@ -1,9 +1,36 @@
 ---
-title: "Semasa Menguber DI/TII – HM Soeharto"
-source: "https://soehartolibrary.id/semasa-menguber-ditii/"
-date: "2018-01-10T19:15:31+07:00"
+title: Semasa Menguber DI/TII
+description: 10 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/semasa-menguber-ditii/respond) 288 Views
+  Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: semasa-menguber-ditii
+aliases:
+- Semasa Menguber DI/TII – HM Soeharto
+tags:
+- ditii
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/semasa-menguber-ditii/
+  judul: Semasa Menguber DI/TII
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/semasa-menguber-ditii/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0424_result.jpg)
 

@@ -1,9 +1,41 @@
 ---
-title: "1974-07-15 Presiden Soeharto Meninjau Pabrik Komponen Rumah Murah – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-15-presiden-soeharto-meninjau-pabrik-komponen-rumah-murah/"
-date: "2017-08-23T11:57:57+07:00"
+title: 1974-07-15 Presiden Soeharto Meninjau Pabrik Komponen Rumah Murah
+description: SENIN, 15 JULI 1974, Hari ini Presiden Soeharto meninjau proyek percobaan
+  pabrik komponen rumah perlit di desa Muara, Kecamatan Citeureup, Bogor. Dalam peninjauan
+  ini Kepala Negara telah memberikan perhatian besar terhadap proses...
+date: '1974-07-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-15-presiden-soeharto-meninjau-pabrik-komponen-rumah-murah
+aliases:
+- Presiden Soeharto Meninjau Pabrik Komponen Rumah Murah
+- 1974-07-15 Presiden Soeharto Meninjau Pabrik Komponen Rumah Murah – HM Soeharto
+tags:
+- bogor
+- desa-muara
+- kecamatan-citeureup
+- koperasi
+- orde-baru
+- perlit
+- perpustakaan-soeharto
+- presiden
+- rumah-murah
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-15-presiden-soeharto-meninjau-pabrik-komponen-rumah-murah/
+  judul: 1974-07-15 Presiden Soeharto Meninjau Pabrik Komponen Rumah Murah
+  tanggal: '1974-07-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-15-presiden-soeharto-meninjau-pabrik-komponen-rumah-murah/
 ---
+
 
 # 1974-07-15 Presiden Soeharto Meninjau Pabrik Komponen Rumah Murah
 

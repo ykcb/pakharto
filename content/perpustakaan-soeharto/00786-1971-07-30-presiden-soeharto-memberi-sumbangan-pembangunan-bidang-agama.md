@@ -1,9 +1,42 @@
 ---
-title: "1971-07-30 Presiden Soeharto Memberi Sumbangan Pembangunan Bidang Agama – HM Soeharto"
-source: "https://soehartolibrary.id/1971-07-30-presiden-soeharto-memberi-sumbangan-pembangunan-bidang-agama/"
-date: "2017-08-25T15:29:39+07:00"
+title: 1971-07-30 Presiden Soeharto Memberi Sumbangan Pembangunan Bidang Agama
+description: JUM’AT, 30 Juli 1971. Presiden Soeharto memberikan sumbangan sebesar
+  Rp. 50 juta untuk digunakan dalam pembangunan di bidang agama Islam di Provinsi
+  Lampung (AFR).
+date: '1971-07-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-07-30-presiden-soeharto-memberi-sumbangan-pembangunan-bidang-agama
+aliases:
+- Presiden Soeharto Memberi Sumbangan Pembangunan Bidang Agama
+- 1971-07-30 Presiden Soeharto Memberi Sumbangan Pembangunan Bidang Agama – HM Soeharto
+tags:
+- agama
+- islam
+- jenderal-soeharto
+- lampung
+- orde-baru
+- pak-harto
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- sumbangan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-07-30-presiden-soeharto-memberi-sumbangan-pembangunan-bidang-agama/
+  judul: 1971-07-30 Presiden Soeharto Memberi Sumbangan Pembangunan Bidang Agama
+  tanggal: '1971-07-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-07-30-presiden-soeharto-memberi-sumbangan-pembangunan-bidang-agama/
 ---
+
 
 # 1971-07-30 Presiden Soeharto Memberi Sumbangan Pembangunan Bidang Agama
 

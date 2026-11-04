@@ -1,9 +1,38 @@
 ---
-title: "1970-10-10 Presiden Soeharto Bentuk Wanhankamnas – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-10-presiden-soeharto-bentuk-wanhankamnas/"
-date: "2014-12-01T16:26:45+07:00"
+title: 1970-10-10 Presiden Soeharto Bentuk Wanhankamnas
+description: 6 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-10-presiden-soeharto-bentuk-wanhankamnas/respond)
+  88 Views Share on
+date: '1970-10-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-10-presiden-soeharto-bentuk-wanhankamnas
+aliases:
+- Presiden Soeharto Bentuk Wanhankamnas
+- 1970-10-10 Presiden Soeharto Bentuk Wanhankamnas – HM Soeharto
+tags:
+- kepala-negara
+- letjen-kartakusumah
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- wanhankamnas
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-10-presiden-soeharto-bentuk-wanhankamnas/
+  judul: 1970-10-10 Presiden Soeharto Bentuk Wanhankamnas
+  tanggal: '1970-10-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-10-presiden-soeharto-bentuk-wanhankamnas/
 ---
+
 
 # 1970-10-10 Presiden Soeharto Bentuk Wanhankamnas
 

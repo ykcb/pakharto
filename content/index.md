@@ -1,29 +1,37 @@
 ---
-title: "Wiki Soeharto & Sistem Orde Baru (1966–1998)"
-description: "Rujukan komprehensif, berbasis data, dan terverifikasi mengenai sistem politik, ekonomi, kelembagaan, dan kehidupan sosial era Orde Baru serta warisannya hari ini."
-entity_id: "index"
-entity_type: "topik"
-kategori: "kekuasaan-dan-legitimasi"
+title: Wiki Soeharto & Sistem Orde Baru (1966–1998)
+description: Rujukan komprehensif, berbasis data, dan terverifikasi mengenai sistem
+  politik, ekonomi, kelembagaan, dan kehidupan sosial era Orde Baru serta warisannya
+  hari ini.
+entity_id: index
+entity_type: topik
+kategori: kekuasaan-dan-legitimasi
 aliases:
-  - "Home"
-  - "Beranda"
+- Home
+- Beranda
 tags:
-  - index
-  - beranda
-  - orde-baru
+- index
+- beranda
+- orde-baru
 date: 1966-03-11
-updated: 2026-11-04
-verification_status: "verified"
+updated: '2026-11-04'
+verification_status: verified
 relasi:
-  - type: memuat_hub
-    target: "orde-baru"
-  - type: memuat_hub
-    target: "ekonomi-orde-baru"
-  - type: memuat_hub
-    target: "kehidupan-rakyat"
-  - type: memuat_hub
-    target: "krisis-dan-reformasi-1998"
+- type: memuat_hub
+  target: orde-baru
+- type: memuat_hub
+  target: ekonomi-orde-baru
+- type: memuat_hub
+  target: kehidupan-rakyat
+- type: memuat_hub
+  target: krisis-dan-reformasi-1998
+ogImage: /img/og-image.jpg
+last_updated: '2026-11-04'
+confidence: high
 ---
+
+
+![Banner Wiki Soeharto](/img/og-image.jpg)
 
 # Wiki Soeharto & Sistem Orde Baru (1966–1998)
 

@@ -1,9 +1,44 @@
 ---
-title: "1971-07-23 Presiden Soeharto Anjurkan Hidupkan Pertanian Tebu Rakyat Sumatera Selatan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-07-23-presiden-soeharto-anjurkan-hidupkan-pertanian-tebu-rakyat-sumatera-selatan/"
-date: "2017-08-23T11:09:12+07:00"
+title: 1971-07-23 Presiden Soeharto Anjurkan Hidupkan Pertanian Tebu Rakyat Sumatera
+  Selatan
+description: 12 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-07-23-presiden-soeharto-anjurkan-hidupkan-pertanian-tebu-rakyat-sumatera-selatan/respond)
+  92 Views Share on
+date: '1971-07-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-07-23-presiden-soeharto-anjurkan-hidupkan-pertanian-tebu-rakyat-sumatera-selatan
+aliases:
+- Presiden Soeharto Anjurkan Hidupkan Pertanian Tebu Rakyat Sumatera Selatan
+- 1971-07-23 Presiden Soeharto Anjurkan Hidupkan Pertanian Tebu Rakyat Sumatera Selatan
+  – HM Soeharto
+tags:
+- asnawi-mangkualam
+- orde-baru
+- palembang
+- perpustakaan-soeharto
+- pon-iv
+- presiden-soeharto
+- sumatera-selatan
+- sungai-musi
+- tebu-rakyat
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-07-23-presiden-soeharto-anjurkan-hidupkan-pertanian-tebu-rakyat-sumatera-selatan/
+  judul: 1971-07-23 Presiden Soeharto Anjurkan Hidupkan Pertanian Tebu Rakyat Sumatera
+    Selatan
+  tanggal: '1971-07-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-07-23-presiden-soeharto-anjurkan-hidupkan-pertanian-tebu-rakyat-sumatera-selatan/
 ---
+
 
 # 1971-07-23 Presiden Soeharto Anjurkan Hidupkan Pertanian Tebu Rakyat Sumatera Selatan
 

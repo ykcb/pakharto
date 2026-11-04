@@ -1,9 +1,39 @@
 ---
-title: "1972-05-30 Presiden Soeharto Instruksikan Pemberantasan Hama Sexava – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-30-presiden-soeharto-instruksikan-pemberantasan-hama-sexava/"
-date: "2014-03-22T02:51:50+07:00"
+title: 1972-05-30 Presiden Soeharto Instruksikan Pemberantasan Hama Sexava
+description: SELASA, 30 Mei 1972, Dalam sidang Sub-Dewan Stabilisasi Ekonomi hari
+  ini di Bina Graha, Presiden menginstruksikan Menteri Pertanian untuk memberantas
+  hama sexava di daerah Kepulauan Sangir-Talaud. Sidang ini juga memutuskan bahwa
+  mulai...
+date: '1972-05-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-30-presiden-soeharto-instruksikan-pemberantasan-hama-sexava
+aliases:
+- Presiden Soeharto Instruksikan Pemberantasan Hama Sexava
+- 1972-05-30 Presiden Soeharto Instruksikan Pemberantasan Hama Sexava – HM Soeharto
+tags:
+- hama-sezava
+- menteri-pertanian
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sangir-talaud
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-30-presiden-soeharto-instruksikan-pemberantasan-hama-sexava/
+  judul: 1972-05-30 Presiden Soeharto Instruksikan Pemberantasan Hama Sexava
+  tanggal: '1972-05-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-30-presiden-soeharto-instruksikan-pemberantasan-hama-sexava/
 ---
+
 
 # 1972-05-30 Presiden Soeharto Instruksikan Pemberantasan Hama Sexava
 

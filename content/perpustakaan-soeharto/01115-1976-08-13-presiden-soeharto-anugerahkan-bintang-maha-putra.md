@@ -1,9 +1,41 @@
 ---
-title: "1976-08-13 Presiden Soeharto Anugerahkan Bintang Maha Putra – HM Soeharto"
-source: "https://soehartolibrary.id/1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra/"
-date: "2017-08-22T17:41:01+07:00"
+title: 1976-08-13 Presiden Soeharto Anugerahkan Bintang Maha Putra
+description: 30 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra/respond)
+  147 Views Share on
+date: '1976-08-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra
+aliases:
+- Presiden Soeharto Anugerahkan Bintang Maha Putra
+- 1976-08-13 Presiden Soeharto Anugerahkan Bintang Maha Putra – HM Soeharto
+tags:
+- bernhard-lapian
+- bintang-mahaputera-utama
+- bintang-mahaputra-pratama
+- ir-putuhena
+- kemerdekaan
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra/
+  judul: 1976-08-13 Presiden Soeharto Anugerahkan Bintang Maha Putra
+  tanggal: '1976-08-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra/
 ---
+
 
 # 1976-08-13 Presiden Soeharto Anugerahkan Bintang Maha Putra
 

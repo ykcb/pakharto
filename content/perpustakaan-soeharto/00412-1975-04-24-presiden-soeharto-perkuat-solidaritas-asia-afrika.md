@@ -1,9 +1,38 @@
 ---
-title: "1975-04-24 Presiden Soeharto: Perkuat Solidaritas Asia Afrika – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-24-presiden-soeharto-perkuat-solidaritas-asia-afrika/"
-date: "2017-08-28T16:49:21+07:00"
+title: '1975-04-24 Presiden Soeharto: Perkuat Solidaritas Asia Afrika'
+description: KAMIS, 24 April 1975, ulang tahun ke-20 Konferensi Asia-Afrika diperingati
+  mala mini di Sasono Langen Bedoyo, TMII, dan dihadiri oleh Presiden dan Ibu Soeharto.
+  Dalam kata sambutan pada acara yang berlangsung mulai pukul 19.00 itu,...
+date: '1975-04-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-24-presiden-soeharto-perkuat-solidaritas-asia-afrika
+aliases:
+- 'Presiden Soeharto: Perkuat Solidaritas Asia Afrika'
+- '1975-04-24 Presiden Soeharto: Perkuat Solidaritas Asia Afrika – HM Soeharto'
+tags:
+- asia-afrika
+- bandung
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tmii
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-24-presiden-soeharto-perkuat-solidaritas-asia-afrika/
+  judul: '1975-04-24 Presiden Soeharto: Perkuat Solidaritas Asia Afrika'
+  tanggal: '1975-04-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-24-presiden-soeharto-perkuat-solidaritas-asia-afrika/
 ---
+
 
 # 1975-04-24 Presiden Soeharto: Perkuat Solidaritas Asia Afrika
 

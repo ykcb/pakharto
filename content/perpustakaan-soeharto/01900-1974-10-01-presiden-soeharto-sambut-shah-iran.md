@@ -1,9 +1,38 @@
 ---
-title: "1974-10-01 Presiden Soeharto Sambut Shah Iran – HM Soeharto"
-source: "https://soehartolibrary.id/1974-10-01-presiden-soeharto-sambut-shah-iran/"
-date: "2014-12-01T13:56:04+07:00"
+title: 1974-10-01 Presiden Soeharto Sambut Shah Iran
+description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-10-01-presiden-soeharto-sambut-shah-iran/respond)
+  210 Views Share on
+date: '1974-10-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-10-01-presiden-soeharto-sambut-shah-iran
+aliases:
+- Presiden Soeharto Sambut Shah Iran
+- 1974-10-01 Presiden Soeharto Sambut Shah Iran – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- ratu-pahlevi
+- shah-itan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-10-01-presiden-soeharto-sambut-shah-iran/
+  judul: 1974-10-01 Presiden Soeharto Sambut Shah Iran
+  tanggal: '1974-10-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-10-01-presiden-soeharto-sambut-shah-iran/
 ---
+
 
 # 1974-10-01 Presiden Soeharto Sambut Shah Iran
 

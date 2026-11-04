@@ -1,9 +1,41 @@
 ---
-title: "1972-03-22 Presiden Soeharto Kunjungi Museum Pusat dan Peternakan Ayam – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-22-presiden-soeharto-kunjungi-museum-pusat-dan-peternakan-ayam/"
-date: "2017-08-29T11:28:23+07:00"
+title: 1972-03-22 Presiden Soeharto Kunjungi Museum Pusat dan Peternakan Ayam
+description: RABU, 22 Maret 1972, Presiden Soeharto secara mendadak meninjau Museum
+  Pusat di Jalan Merdeka Barat, Jakarta. Ketika mengakhiri kunjungan tersebut, Presiden
+  menuliskan kesan-kesannya dalam buku tamu. Kepada para wartawan, Presiden...
+date: '1972-03-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-22-presiden-soeharto-kunjungi-museum-pusat-dan-peternakan-ayam
+aliases:
+- Presiden Soeharto Kunjungi Museum Pusat dan Peternakan Ayam
+- 1972-03-22 Presiden Soeharto Kunjungi Museum Pusat dan Peternakan Ayam – HM Soeharto
+tags:
+- ayam
+- museum
+- orde-baru
+- pak-harto
+- pemasaran
+- perpustakaan-soeharto
+- peternakan
+- presiden-soeharto
+- ternak
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-22-presiden-soeharto-kunjungi-museum-pusat-dan-peternakan-ayam/
+  judul: 1972-03-22 Presiden Soeharto Kunjungi Museum Pusat dan Peternakan Ayam
+  tanggal: '1972-03-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-22-presiden-soeharto-kunjungi-museum-pusat-dan-peternakan-ayam/
 ---
+
 
 # 1972-03-22 Presiden Soeharto Kunjungi Museum Pusat dan Peternakan Ayam
 

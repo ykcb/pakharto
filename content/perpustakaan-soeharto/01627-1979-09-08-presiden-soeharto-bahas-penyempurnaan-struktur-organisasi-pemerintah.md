@@ -1,9 +1,42 @@
 ---
-title: "1979-09-08 Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah/"
-date: "2017-08-22T11:52:30+07:00"
+title: 1979-09-08 Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah
+description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah/respond)
+  106 Views Share on
+date: '1979-09-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah
+aliases:
+- Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah
+- 1979-09-08 Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah
+  – HM Soeharto
+tags:
+- buudkud
+- kepala-negara
+- menteri-pan
+- menteri-sekretaris-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- prof-dr-jb-sumarlin
+- sudharmono
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah/
+  judul: 1979-09-08 Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah
+  tanggal: '1979-09-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah/
 ---
+
 
 # 1979-09-08 Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah
 

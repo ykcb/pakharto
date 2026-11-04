@@ -1,9 +1,45 @@
 ---
-title: "1973-04-03 Presiden Soeharto Libatkan Universitas Dorong Industri Penerbitan – HM Soeharto"
-source: "https://soehartolibrary.id/1973-04-03-presiden-soeharto-libatkan-universitas-dorong-industri-penerbitan/"
-date: "2017-08-28T16:53:42+07:00"
+title: 1973-04-03 Presiden Soeharto Libatkan Universitas Dorong Industri Penerbitan
+description: SELASA , 3 April 1973, Jam 10.00 pagi ini Presiden Soeharto menerima
+  Menteri Penerangan Mashuri SH di Istana Merdeka. Selesai menghadap Presiden, Menteri
+  Penerangan mengatakan bahwa Presiden Soeharto telah merestuinya untuk mengadakan...
+date: '1973-04-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-04-03-presiden-soeharto-libatkan-universitas-dorong-industri-penerbitan
+aliases:
+- Presiden Soeharto Libatkan Universitas Dorong Industri Penerbitan
+- 1973-04-03 Presiden Soeharto Libatkan Universitas Dorong Industri Penerbitan – HM
+  Soeharto
+tags:
+- emil-salim
+- jb-sumarlin
+- mashuri
+- menteri
+- mohammad-sadli
+- orde-baru
+- penerangan
+- penerbitan
+- perpustakaan-soeharto
+- presiden-soeharto
+- sudharmono
+- widjojo-nitisastro
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-04-03-presiden-soeharto-libatkan-universitas-dorong-industri-penerbitan/
+  judul: 1973-04-03 Presiden Soeharto Libatkan Universitas Dorong Industri Penerbitan
+  tanggal: '1973-04-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-04-03-presiden-soeharto-libatkan-universitas-dorong-industri-penerbitan/
 ---
+
 
 # 1973-04-03 Presiden Soeharto Libatkan Universitas Dorong Industri Penerbitan
 

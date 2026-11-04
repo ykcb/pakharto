@@ -1,9 +1,55 @@
 ---
-title: "1969-01-18 Lantik Empat Duta Besar, Presiden Soeharto: Kerjasama LN Harus Diletakkan Pada Kekuatan Dalam Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1969-01-18-lantik-empat-duta-besar-presiden-soeharto-kerjasama-ln-harus-diletakkan-pada-kekuatan-dalam-negeri/"
-date: "2017-10-19T14:50:19+07:00"
+title: '1969-01-18 Lantik Empat Duta Besar, Presiden Soeharto: Kerjasama LN Harus
+  Diletakkan Pada Kekuatan Dalam Negeri'
+description: SABTU, 18 JANUARI 1969. Hari ini di Istana Merdeka, Presiden Soeharto
+  melantik empat duta besar bari RI. Para dutabesar itu adalah Letjend. KKO Hartono
+  untuk RRDK (Korea Utara), Mayjend. Ashari untuk Jepang, A. Hamid untuk Srilangka,...
+date: '1969-01-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-01-18-lantik-empat-duta-besar-presiden-soeharto-kerjasama-ln-harus-diletakkan-pada-kekuatan-dalam-negeri
+aliases:
+- 'Lantik Empat Duta Besar, Presiden Soeharto: Kerjasama LN Harus Diletakkan Pada
+  Kekuatan Dalam Negeri'
+- '1969-01-18 Lantik Empat Duta Besar, Presiden Soeharto: Kerjasama LN Harus Diletakkan
+  Pada Kekuatan Dalam Negeri – HM Soeharto'
+tags:
+- bapak-pembangunan
+- besar
+- bina-graha
+- cendana
+- duta
+- gbhn
+- istana-merdeka
+- italia
+- jepang
+- korea
+- macan-asia
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- srilangka
+- tinggal-landas-2
+- utara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-01-18-lantik-empat-duta-besar-presiden-soeharto-kerjasama-ln-harus-diletakkan-pada-kekuatan-dalam-negeri/
+  judul: '1969-01-18 Lantik Empat Duta Besar, Presiden Soeharto: Kerjasama LN Harus
+    Diletakkan Pada Kekuatan Dalam Negeri'
+  tanggal: '1969-01-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-01-18-lantik-empat-duta-besar-presiden-soeharto-kerjasama-ln-harus-diletakkan-pada-kekuatan-dalam-negeri/
 ---
+
 
 # 1969-01-18 Lantik Empat Duta Besar, Presiden Soeharto: Kerjasama LN Harus Diletakkan Pada Kekuatan Dalam Negeri
 

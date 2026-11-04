@@ -1,9 +1,43 @@
 ---
-title: "1976-08-04 Presiden Soeharto Resmikan 19 Pabrik Tekstil di Jabar – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-04-presiden-soeharto-resmikan-19-pabrik-tekstil-di-jabar/"
-date: "2017-08-22T17:44:10+07:00"
+title: 1976-08-04 Presiden Soeharto Resmikan 19 Pabrik Tekstil di Jabar
+description: 29 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-04-presiden-soeharto-resmikan-19-pabrik-tekstil-di-jabar/respond)
+  98 Views Share on
+date: '1975-08-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-04-presiden-soeharto-resmikan-19-pabrik-tekstil-di-jabar
+aliases:
+- Presiden Soeharto Resmikan 19 Pabrik Tekstil di Jabar
+- 1976-08-04 Presiden Soeharto Resmikan 19 Pabrik Tekstil di Jabar – HM Soeharto
+tags:
+- bandung
+- bogor
+- cokokol
+- indonesianisasi
+- orde-baru
+- perpustakaan-soeharto
+- pma
+- pmdn
+- presiden-soeharto
+- purwakerta
+- tangerang
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-04-presiden-soeharto-resmikan-19-pabrik-tekstil-di-jabar/
+  judul: 1976-08-04 Presiden Soeharto Resmikan 19 Pabrik Tekstil di Jabar
+  tanggal: '1975-08-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-04-presiden-soeharto-resmikan-19-pabrik-tekstil-di-jabar/
 ---
+
 
 # 1976-08-04 Presiden Soeharto Resmikan 19 Pabrik Tekstil di Jabar
 

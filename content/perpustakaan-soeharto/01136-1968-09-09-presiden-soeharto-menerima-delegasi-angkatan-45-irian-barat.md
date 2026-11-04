@@ -1,9 +1,40 @@
 ---
-title: "1968-09-09 Presiden Soeharto Menerima Delegasi Angkatan ’45 Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-09-presiden-soeharto-menerima-delegasi-angkatan-45-irian-barat/"
-date: "2014-04-01T02:15:57+07:00"
+title: 1968-09-09 Presiden Soeharto Menerima Delegasi Angkatan ’45 Irian Barat
+description: 1 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-09-presiden-soeharto-menerima-delegasi-angkatan-45-irian-barat/respond)
+  96 Views Share on
+date: '1968-09-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-09-presiden-soeharto-menerima-delegasi-angkatan-45-irian-barat
+aliases:
+- Presiden Soeharto Menerima Delegasi Angkatan ’45 Irian Barat
+- 1968-09-09 Presiden Soeharto Menerima Delegasi Angkatan ’45 Irian Barat – HM Soeharto
+tags:
+- act-of-free-choice
+- angkatan-45
+- irian-barat
+- kepala-negara
+- orde-baru
+- penentuan-pendapat-rakyat
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-09-presiden-soeharto-menerima-delegasi-angkatan-45-irian-barat/
+  judul: 1968-09-09 Presiden Soeharto Menerima Delegasi Angkatan ’45 Irian Barat
+  tanggal: '1968-09-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-09-presiden-soeharto-menerima-delegasi-angkatan-45-irian-barat/
 ---
+
 
 # 1968-09-09 Presiden Soeharto Menerima Delegasi Angkatan ’45 Irian Barat
 

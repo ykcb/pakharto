@@ -1,9 +1,39 @@
 ---
-title: "1976-08-24 Presiden Soeharto Resmikan Kilang Minyak Cilacap – HM Soeharto"
-source: "https://soehartolibrary.id/1976-08-24-presiden-soeharto-resmikan-kilang-minyak-cilacap/"
-date: "2017-08-23T11:14:56+07:00"
+title: 1976-08-24 Presiden Soeharto Resmikan Kilang Minyak Cilacap
+description: 31 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-08-24-presiden-soeharto-resmikan-kilang-minyak-cilacap/respond)
+  104 Views Share on
+date: '1976-08-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-08-24-presiden-soeharto-resmikan-kilang-minyak-cilacap
+aliases:
+- Presiden Soeharto Resmikan Kilang Minyak Cilacap
+- 1976-08-24 Presiden Soeharto Resmikan Kilang Minyak Cilacap – HM Soeharto
+tags:
+- cilacap
+- kilang-minyak
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- pertamina
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-08-24-presiden-soeharto-resmikan-kilang-minyak-cilacap/
+  judul: 1976-08-24 Presiden Soeharto Resmikan Kilang Minyak Cilacap
+  tanggal: '1976-08-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-08-24-presiden-soeharto-resmikan-kilang-minyak-cilacap/
 ---
+
 
 # 1976-08-24 Presiden Soeharto Resmikan Kilang Minyak Cilacap
 

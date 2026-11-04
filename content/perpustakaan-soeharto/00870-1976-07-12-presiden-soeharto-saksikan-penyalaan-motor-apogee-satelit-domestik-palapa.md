@@ -1,9 +1,46 @@
 ---
-title: "1976-07-12 Presiden Soeharto Saksikan Penyalaan Motor Apogee Satelit Domestik Palapa – HM Soeharto"
-source: "https://soehartolibrary.id/1976-07-12-presiden-soeharto-saksikan-penyalaan-motor-apogee-satelit-domestik-palapa/"
-date: "2017-08-23T11:42:08+07:00"
+title: 1976-07-12 Presiden Soeharto Saksikan Penyalaan Motor Apogee Satelit Domestik
+  Palapa
+description: SENIN, 12 Juli 1976 Siang ini Kepala Negara menyaksikan penyalaan motor
+  apogee satelit domestik Palapa di stasiun bumi Cibinong, Bogor. Penyalaan dilakukan
+  pada pukul 14.17 oleh seorang tenaga ahli dari Hughes Aircraft Company. Setelah...
+date: '1976-07-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-07-12-presiden-soeharto-saksikan-penyalaan-motor-apogee-satelit-domestik-palapa
+aliases:
+- Presiden Soeharto Saksikan Penyalaan Motor Apogee Satelit Domestik Palapa
+- 1976-07-12 Presiden Soeharto Saksikan Penyalaan Motor Apogee Satelit Domestik Palapa
+  – HM Soeharto
+tags:
+- apogee
+- cibinong
+- direktur-jenderal-postel
+- emil-salim
+- mayjen-benny-murdani
+- menteri-perhubungan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- satelit-domestik-palapa
+- soehardjono
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-07-12-presiden-soeharto-saksikan-penyalaan-motor-apogee-satelit-domestik-palapa/
+  judul: 1976-07-12 Presiden Soeharto Saksikan Penyalaan Motor Apogee Satelit Domestik
+    Palapa
+  tanggal: '1976-07-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-07-12-presiden-soeharto-saksikan-penyalaan-motor-apogee-satelit-domestik-palapa/
 ---
+
 
 # 1976-07-12 Presiden Soeharto Saksikan Penyalaan Motor Apogee Satelit Domestik Palapa
 

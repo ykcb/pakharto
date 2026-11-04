@@ -1,9 +1,39 @@
 ---
-title: "1973-09-27 Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku – HM Soeharto"
-source: "https://soehartolibrary.id/1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku/"
-date: "2017-08-23T10:55:27+07:00"
+title: 1973-09-27 Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku
+description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku/respond)
+  110 Views Share on
+date: '1973-09-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku
+aliases:
+- Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku
+- 1973-09-27 Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku – HM Soeharto
+tags:
+- hv-worang
+- kelapa
+- maluku
+- orde-baru
+- perpustakaan-soeharto
+- persiden-soeharto
+- sulawesi-utara
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku/
+  judul: 1973-09-27 Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku
+  tanggal: '1973-09-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku/
 ---
+
 
 # 1973-09-27 Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku
 

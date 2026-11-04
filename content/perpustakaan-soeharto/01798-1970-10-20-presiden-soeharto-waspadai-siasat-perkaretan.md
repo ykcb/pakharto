@@ -1,9 +1,42 @@
 ---
-title: "1970-10-20 Presiden Soeharto: Waspadai Siasat Perkaretan – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-20-presiden-soeharto-waspadai-siasat-perkaretan/"
-date: "2014-12-01T16:25:23+07:00"
+title: '1970-10-20 Presiden Soeharto: Waspadai Siasat Perkaretan'
+description: 7 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-20-presiden-soeharto-waspadai-siasat-perkaretan/respond)
+  93 Views Share on
+date: '1970-10-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-20-presiden-soeharto-waspadai-siasat-perkaretan
+aliases:
+- 'Presiden Soeharto: Waspadai Siasat Perkaretan'
+- '1970-10-20 Presiden Soeharto: Waspadai Siasat Perkaretan – HM Soeharto'
+tags:
+- amirmachmud
+- kepala-negara
+- menteri-dalam-negeri
+- menteri-perdagangan
+- orde-baru
+- perhubungan
+- perkaretan
+- perpustakaan-soeharto
+- presiden-soeharto
+- sulawesi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-20-presiden-soeharto-waspadai-siasat-perkaretan/
+  judul: '1970-10-20 Presiden Soeharto: Waspadai Siasat Perkaretan'
+  tanggal: '1970-10-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-20-presiden-soeharto-waspadai-siasat-perkaretan/
 ---
+
 
 # 1970-10-20 Presiden Soeharto: Waspadai Siasat Perkaretan
 

@@ -1,9 +1,44 @@
 ---
-title: "1968-05-04 Presiden Soeharto:Pembangunan Irian Barat Menjadi Prioritas Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/1968-05-04-presiden-soehartopembangunan-irian-barat-menjadi-prioritas-nasional/"
-date: "2014-03-22T02:53:53+07:00"
+title: 1968-05-04 Presiden Soeharto:Pembangunan Irian Barat Menjadi Prioritas Nasional
+description: Sabtu, 4 Mei 1968, Sehubungan dengan rencana kunjungan kenegaraan Kaisar
+  Haile Selassie dari Ethiopia dan keresahan sebagian masyarakat akan kunjungan tersebut,
+  Presiden Soeharto pagi ini mengadakan tatap muka dengan 19 organisasi...
+date: '1968-05-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-05-04-presiden-soehartopembangunan-irian-barat-menjadi-prioritas-nasional
+aliases:
+- Presiden Soeharto:Pembangunan Irian Barat Menjadi Prioritas Nasional
+- 1968-05-04 Presiden Soeharto:Pembangunan Irian Barat Menjadi Prioritas Nasional
+  – HM Soeharto
+tags:
+- dprd
+- ekuin
+- haile-selassie
+- irian-barat
+- islam
+- kaisar-ethiopia
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sri-sultan-hamengku-buwono-ix
+- sukarnopura
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-05-04-presiden-soehartopembangunan-irian-barat-menjadi-prioritas-nasional/
+  judul: 1968-05-04 Presiden Soeharto:Pembangunan Irian Barat Menjadi Prioritas Nasional
+  tanggal: '1968-05-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-05-04-presiden-soehartopembangunan-irian-barat-menjadi-prioritas-nasional/
 ---
+
 
 # 1968-05-04 Presiden Soeharto:Pembangunan Irian Barat Menjadi Prioritas Nasional
 

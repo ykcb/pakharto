@@ -1,9 +1,40 @@
 ---
-title: "1974-03-18 Presiden Soeharto Menerima Ratu Elisabeth II – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-18-presiden-soeharto-menerima-ratu-elisabeth-ii/"
-date: "2014-03-22T03:01:49+07:00"
+title: 1974-03-18 Presiden Soeharto Menerima Ratu Elisabeth II
+description: SENIN, 18 Maret 1974, Ratu Elizabeth II dari Kerajaan Inggris hari ini
+  tiba di Pelabuhan Tanjung Priok, Jakarta, dalam rangka kunjungan kenegaraan di Indonesia
+  sampai tanggal 22 Maret. Ini merupakan kunjungan pertama dari Kepala Negara...
+date: '1974-03-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-18-presiden-soeharto-menerima-ratu-elisabeth-ii
+aliases:
+- Presiden Soeharto Menerima Ratu Elisabeth II
+- 1974-03-18 Presiden Soeharto Menerima Ratu Elisabeth II – HM Soeharto
+tags:
+- elisabeth-ii
+- ibu-tien
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- priol
+- ratu
+- tanjung
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-18-presiden-soeharto-menerima-ratu-elisabeth-ii/
+  judul: 1974-03-18 Presiden Soeharto Menerima Ratu Elisabeth II
+  tanggal: '1974-03-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-18-presiden-soeharto-menerima-ratu-elisabeth-ii/
 ---
+
 
 # 1974-03-18 Presiden Soeharto Menerima Ratu Elisabeth II
 

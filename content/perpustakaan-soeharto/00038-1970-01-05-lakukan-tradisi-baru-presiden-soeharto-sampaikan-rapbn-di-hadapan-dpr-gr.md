@@ -1,9 +1,53 @@
 ---
-title: "1970-01-05 Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan DPR-GR – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr/"
-date: "2017-08-28T17:12:22+07:00"
+title: 1970-01-05 Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan
+  DPR-GR
+description: SENIN, 5 JANUARI 1970, Melakukan tradisi baru yang mulai dilakukan pada
+  tahun yang lalu, jam 10.00 pagi Presiden Soeharto menyampaikan pokok-pokok RAPBN
+  1970/1971 di hadapan rapat pleno terbuka DPR-GR. Penjelasan ini diberikan dalam...
+date: '1970-01-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr
+aliases:
+- Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan DPR-GR
+- 1970-01-05 Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan DPR-GR
+  – HM Soeharto
+tags:
+- bapak-pembangunan
+- bina-graha
+- cendana
+- gbhn
+- inflasi
+- istana-merdeka
+- kb
+- macan-asia
+- nilai
+- orde-baru
+- pabrik
+- pelita
+- pendidikan
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- rupiah
+- tinggal-landas-2
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr/
+  judul: 1970-01-05 Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan
+    DPR-GR
+  tanggal: '1970-01-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr/
 ---
+
 
 # 1970-01-05 Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan DPR-GR
 

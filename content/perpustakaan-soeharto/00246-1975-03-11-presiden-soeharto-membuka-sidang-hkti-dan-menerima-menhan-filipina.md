@@ -1,9 +1,38 @@
 ---
-title: "1975-03-11 Presiden Soeharto Membuka Sidang HKTI dan Menerima Menhan Filipina – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-11-presiden-soeharto-membuka-sidang-hkti-dan-menerima-menhan-filipina/"
-date: "2017-08-29T17:41:26+07:00"
+title: 1975-03-11 Presiden Soeharto Membuka Sidang HKTI dan Menerima Menhan Filipina
+description: SELASA, 11 MARET 1975, Bertempat di Istana Negara, jam 09.00 pagi Presiden
+  Soeharto membuka sidang Majelis Pleno HKTI. Pada kesempatan ini Kepala Negara mengamanatkan
+  agar HKTI benar-benar terjun ke tengah-tengah petani dan tidak...
+date: '1975-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-11-presiden-soeharto-membuka-sidang-hkti-dan-menerima-menhan-filipina
+aliases:
+- Presiden Soeharto Membuka Sidang HKTI dan Menerima Menhan Filipina
+- 1975-03-11 Presiden Soeharto Membuka Sidang HKTI dan Menerima Menhan Filipina –
+  HM Soeharto
+tags:
+- filipina
+- hkti
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-11-presiden-soeharto-membuka-sidang-hkti-dan-menerima-menhan-filipina/
+  judul: 1975-03-11 Presiden Soeharto Membuka Sidang HKTI dan Menerima Menhan Filipina
+  tanggal: '1975-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-11-presiden-soeharto-membuka-sidang-hkti-dan-menerima-menhan-filipina/
 ---
+
 
 # 1975-03-11 Presiden Soeharto Membuka Sidang HKTI dan Menerima Menhan Filipina
 

@@ -1,9 +1,37 @@
 ---
-title: "1974-03-07 Presiden Soeharto Menerima Wamenlu Uni Soviet – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-07-presiden-soeharto-menerima-wamenlu-uni-soviet/"
-date: "2014-03-22T03:01:52+07:00"
+title: 1974-03-07 Presiden Soeharto Menerima Wamenlu Uni Soviet
+description: Presiden Soeharto Menerima Wamenlu Uni Soviet(sdfootnote1sym)
+date: '1974-03-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-07-presiden-soeharto-menerima-wamenlu-uni-soviet
+aliases:
+- Presiden Soeharto Menerima Wamenlu Uni Soviet
+- 1974-03-07 Presiden Soeharto Menerima Wamenlu Uni Soviet – HM Soeharto
+tags:
+- bina
+- graha
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- soviet
+- wamenlu
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-07-presiden-soeharto-menerima-wamenlu-uni-soviet/
+  judul: 1974-03-07 Presiden Soeharto Menerima Wamenlu Uni Soviet
+  tanggal: '1974-03-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-07-presiden-soeharto-menerima-wamenlu-uni-soviet/
 ---
+
 
 # 1974-03-07 Presiden Soeharto Menerima Wamenlu Uni Soviet
 

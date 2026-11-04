@@ -1,9 +1,45 @@
 ---
-title: "1972-10-16 Presiden Soeharto: Indonesia Tidak Mudah Melupakan Bantuan Peking Terhadap Kudeta PKI – HM Soeharto"
-source: "https://soehartolibrary.id/1972-10-16-presiden-soeharto-indonesia-tidak-mudah-melupakan-bantuan-peking-terhadap-kudeta-pki/"
-date: "2015-02-20T01:01:28+07:00"
+title: '1972-10-16 Presiden Soeharto: Indonesia Tidak Mudah Melupakan Bantuan Peking
+  Terhadap Kudeta PKI'
+description: 10 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-10-16-presiden-soeharto-indonesia-tidak-mudah-melupakan-bantuan-peking-terhadap-kudeta-pki/respond)
+  79 Views Share on
+date: '1972-10-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-10-16-presiden-soeharto-indonesia-tidak-mudah-melupakan-bantuan-peking-terhadap-kudeta-pki
+aliases:
+- 'Presiden Soeharto: Indonesia Tidak Mudah Melupakan Bantuan Peking Terhadap Kudeta
+  PKI'
+- '1972-10-16 Presiden Soeharto: Indonesia Tidak Mudah Melupakan Bantuan Peking Terhadap
+  Kudeta PKI – HM Soeharto'
+tags:
+- kepala-negara
+- kiichi-aichi
+- kudeta-pki
+- orde-baru
+- peking
+- pemerintah-jepang
+- perpustakaan-soeharto
+- presiden-soeharto
+- utusan-istimewa
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-10-16-presiden-soeharto-indonesia-tidak-mudah-melupakan-bantuan-peking-terhadap-kudeta-pki/
+  judul: '1972-10-16 Presiden Soeharto: Indonesia Tidak Mudah Melupakan Bantuan Peking
+    Terhadap Kudeta PKI'
+  tanggal: '1972-10-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-10-16-presiden-soeharto-indonesia-tidak-mudah-melupakan-bantuan-peking-terhadap-kudeta-pki/
 ---
+
 
 # 1972-10-16 Presiden Soeharto: Indonesia Tidak Mudah Melupakan Bantuan Peking Terhadap Kudeta PKI
 

@@ -1,9 +1,44 @@
 ---
-title: "Soal Konstitusi Kita – HM Soeharto"
-source: "https://soehartolibrary.id/soal-konstitusi-kita/"
-date: "2018-11-17T23:58:26+07:00"
+title: Soal Konstitusi Kita
+description: Pada awal tahun 2013 ini, penulis merenungkan mengenai kepemimpinan presiden
+  Yudhoyono, seorang jenderal yang berusaha menjadi negarawan besar. Sayangnya, meskipun
+  telah lebih dari delapan tahun menjadi presiden, beliau masih kurang...
+date: '2018-11-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: soal-konstitusi-kita
+aliases:
+- Soal Konstitusi Kita – HM Soeharto
+tags:
+- bambang
+- konstitusi
+- mpr
+- orde-baru
+- parlementer
+- perpustakaan-soeharto
+- presidensial
+- sby
+- sri-mulyani
+- susilo
+- susilo-bambang-yudhoyono
+- uud
+- yudhoyono
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/soal-konstitusi-kita/
+  judul: Soal Konstitusi Kita
+  tanggal: '2018-11-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/soal-konstitusi-kita/
 ---
+
 
 # Soal Konstitusi Kita
 

@@ -1,9 +1,41 @@
 ---
-title: "1972-10-25 Presiden Soeharto: Partai Islam Seyogyanya Tidak Menggunakan Nama Idiologi – HM Soeharto"
-source: "https://soehartolibrary.id/1972-10-25-presiden-soeharto-partai-islam-seyogyanya-tidak-menggunakan-nama-idiologi/"
-date: "2014-12-01T16:06:51+07:00"
+title: '1972-10-25 Presiden Soeharto: Partai Islam Seyogyanya Tidak Menggunakan Nama
+  Idiologi'
+description: 10 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-10-25-presiden-soeharto-partai-islam-seyogyanya-tidak-menggunakan-nama-idiologi/respond)
+  86 Views Share on
+date: '1972-10-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-10-25-presiden-soeharto-partai-islam-seyogyanya-tidak-menggunakan-nama-idiologi
+aliases:
+- 'Presiden Soeharto: Partai Islam Seyogyanya Tidak Menggunakan Nama Idiologi'
+- '1972-10-25 Presiden Soeharto: Partai Islam Seyogyanya Tidak Menggunakan Nama Idiologi
+  – HM Soeharto'
+tags:
+- idiologi
+- kepala-negara
+- orde-baru
+- partai-islam
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-10-25-presiden-soeharto-partai-islam-seyogyanya-tidak-menggunakan-nama-idiologi/
+  judul: '1972-10-25 Presiden Soeharto: Partai Islam Seyogyanya Tidak Menggunakan
+    Nama Idiologi'
+  tanggal: '1972-10-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-10-25-presiden-soeharto-partai-islam-seyogyanya-tidak-menggunakan-nama-idiologi/
 ---
+
 
 # 1972-10-25 Presiden Soeharto: Partai Islam Seyogyanya Tidak Menggunakan Nama Idiologi
 

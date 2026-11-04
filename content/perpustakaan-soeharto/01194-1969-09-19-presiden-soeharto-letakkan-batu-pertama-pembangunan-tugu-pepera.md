@@ -1,9 +1,40 @@
 ---
-title: "1969-09-19 Presiden Soeharto Letakkan Batu Pertama Pembangunan Tugu Pepera – HM Soeharto"
-source: "https://soehartolibrary.id/1969-09-19-presiden-soeharto-letakkan-batu-pertama-pembangunan-tugu-pepera/"
-date: "2017-08-22T17:38:34+07:00"
+title: 1969-09-19 Presiden Soeharto Letakkan Batu Pertama Pembangunan Tugu Pepera
+description: 4 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-09-19-presiden-soeharto-letakkan-batu-pertama-pembangunan-tugu-pepera/respond)
+  127 Views Share on
+date: '1969-09-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-09-19-presiden-soeharto-letakkan-batu-pertama-pembangunan-tugu-pepera
+aliases:
+- Presiden Soeharto Letakkan Batu Pertama Pembangunan Tugu Pepera
+- 1969-09-19 Presiden Soeharto Letakkan Batu Pertama Pembangunan Tugu Pepera – HM
+  Soeharto
+tags:
+- merauke
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sorong
+- taman-makam-pahlawan
+- tugu-pepera
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-09-19-presiden-soeharto-letakkan-batu-pertama-pembangunan-tugu-pepera/
+  judul: 1969-09-19 Presiden Soeharto Letakkan Batu Pertama Pembangunan Tugu Pepera
+  tanggal: '1969-09-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-09-19-presiden-soeharto-letakkan-batu-pertama-pembangunan-tugu-pepera/
 ---
+
 
 # 1969-09-19 Presiden Soeharto Letakkan Batu Pertama Pembangunan Tugu Pepera
 

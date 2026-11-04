@@ -1,9 +1,41 @@
 ---
-title: "1968-08-23 Presiden Soeharto: Perpecahan Lemahkan Kekuatan Umat Beragama – HM Soeharto"
-source: "https://soehartolibrary.id/1968-08-23-presiden-soeharto-perpecahan-lemahkan-kekuatan-umat-beragama/"
-date: "2014-04-01T02:19:21+07:00"
+title: '1968-08-23 Presiden Soeharto: Perpecahan Lemahkan Kekuatan Umat Beragama'
+description: JUM’AT, 23 AGUSTUS 1968, Presiden Soeharto dalam sambutan tertulisnya
+  pada Konferensi Pemuda Muslim Seluruh Indonesia, yang berlangsung di Surabaya, menyerukan
+  agar para pemuda memelihara dan membina persatuan dan kesatuan umat...
+date: '1968-08-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-08-23-presiden-soeharto-perpecahan-lemahkan-kekuatan-umat-beragama
+aliases:
+- 'Presiden Soeharto: Perpecahan Lemahkan Kekuatan Umat Beragama'
+- '1968-08-23 Presiden Soeharto: Perpecahan Lemahkan Kekuatan Umat Beragama – HM Soeharto'
+tags:
+- kekuatan
+- lemah
+- lumpuh
+- orde-baru
+- perpecahan
+- perpustakaan-soeharto
+- pki
+- presiden-soeharto
+- umat-beragama
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-08-23-presiden-soeharto-perpecahan-lemahkan-kekuatan-umat-beragama/
+  judul: '1968-08-23 Presiden Soeharto: Perpecahan Lemahkan Kekuatan Umat Beragama'
+  tanggal: '1968-08-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-08-23-presiden-soeharto-perpecahan-lemahkan-kekuatan-umat-beragama/
 ---
+
 
 # 1968-08-23 Presiden Soeharto: Perpecahan Lemahkan Kekuatan Umat Beragama
 

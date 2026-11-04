@@ -1,9 +1,38 @@
 ---
-title: "1971-10-11 Presiden Soeharto Buka Commander’s Call Terbatas ABRI – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-11-presiden-soeharto-buka-commanders-call-terbatas-abri/"
-date: "2014-12-01T16:21:25+07:00"
+title: 1971-10-11 Presiden Soeharto Buka Commander’s Call Terbatas ABRI
+description: 8 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-11-presiden-soeharto-buka-commanders-call-terbatas-abri/respond)
+  125 Views Share on
+date: '1971-10-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-11-presiden-soeharto-buka-commanders-call-terbatas-abri
+aliases:
+- Presiden Soeharto Buka Commander’s Call Terbatas ABRI
+- 1971-10-11 Presiden Soeharto Buka Commander’s Call Terbatas ABRI – HM Soeharto
+tags:
+- abri
+- commanders-call
+- jenderal-soeharto
+- menhankampangab
+- orde-baru
+- perpustakaan-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-11-presiden-soeharto-buka-commanders-call-terbatas-abri/
+  judul: 1971-10-11 Presiden Soeharto Buka Commander’s Call Terbatas ABRI
+  tanggal: '1971-10-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-11-presiden-soeharto-buka-commanders-call-terbatas-abri/
 ---
+
 
 # 1971-10-11 Presiden Soeharto Buka Commander’s Call Terbatas ABRI
 

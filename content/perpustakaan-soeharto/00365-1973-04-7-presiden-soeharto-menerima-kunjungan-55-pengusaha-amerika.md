@@ -1,9 +1,38 @@
 ---
-title: "1973-04-7 Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika – HM Soeharto"
-source: "https://soehartolibrary.id/1973-04-7-presiden-soeharto-menerima-kunjungan-55-pengusaha-amerika/"
-date: "2017-08-28T16:54:19+07:00"
+title: 1973-04-7 Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika
+description: SABTU, 7 April 1973, Sejumlah 55 orang Pengusaha Amerika Serikat mengadakan
+  kunjungan kehormatan kepada Presiden Soeharto di Istana Merdeka pagi ini. Maksud
+  kunjungan mereka adalah dalam rangka melaporkan informasi langsung mengenai...
+date: '2017-08-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-04-7-presiden-soeharto-menerima-kunjungan-55-pengusaha-amerika
+aliases:
+- 1973-04-7 Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika – HM Soeharto
+tags:
+- amerika
+- australia
+- menteri-pertahanan
+- orde-baru
+- pengusaha
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-04-7-presiden-soeharto-menerima-kunjungan-55-pengusaha-amerika/
+  judul: 1973-04-7 Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika
+  tanggal: '2017-08-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-04-7-presiden-soeharto-menerima-kunjungan-55-pengusaha-amerika/
 ---
+
 
 # 1973-04-7 Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika
 

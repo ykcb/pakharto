@@ -1,9 +1,37 @@
 ---
-title: "Presiden Soeharto Menerima Delegasi Musyawarah Nasional Mahasiswa – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-menerima-delegasi-musyawarah-nasional-mahasiswa/"
-date: "2013-04-10T20:54:09+07:00"
+title: Presiden Soeharto Menerima Delegasi Musyawarah Nasional Mahasiswa
+description: Presiden Soeharto dikenal sebagai sosok pendengar yang baik. Termasuk
+  mendengarkan masukan dari berbagai kalangan terhadap keputusan yang hendak diambil.
+  Namun ia juga dikenal sangat tegar dalam prinsip dan apabila sudah menjadi...
+date: '2013-04-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-menerima-delegasi-musyawarah-nasional-mahasiswa
+aliases:
+- Presiden Soeharto Menerima Delegasi Musyawarah Nasional Mahasiswa – HM Soeharto
+tags:
+- istana-bogor
+- mahasiswa
+- musyawarah-nasional
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-menerima-delegasi-musyawarah-nasional-mahasiswa/
+  judul: Presiden Soeharto Menerima Delegasi Musyawarah Nasional Mahasiswa
+  tanggal: '2013-04-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-menerima-delegasi-musyawarah-nasional-mahasiswa/
 ---
+
 
 # Presiden Soeharto Menerima Delegasi Musyawarah Nasional Mahasiswa
 

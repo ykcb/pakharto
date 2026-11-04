@@ -1,9 +1,35 @@
 ---
-title: "1975-04-30 Menerima Menteri Perdagangan Internasional dan Industri Jepang – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-30-menerima-menteri-perdagangan-internasional-dan-industri-jepang/"
-date: "2017-08-28T16:50:19+07:00"
+title: 1975-04-30 Menerima Menteri Perdagangan Internasional dan Industri Jepang
+description: Menerima Menteri Perdagangan Internasional dan Industri Jepang
+date: '1975-04-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-30-menerima-menteri-perdagangan-internasional-dan-industri-jepang
+aliases:
+- Menerima Menteri Perdagangan Internasional dan Industri Jepang
+- 1975-04-30 Menerima Menteri Perdagangan Internasional dan Industri Jepang – HM Soeharto
+tags:
+- jepang
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- toshio-kohmoto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-30-menerima-menteri-perdagangan-internasional-dan-industri-jepang/
+  judul: 1975-04-30 Menerima Menteri Perdagangan Internasional dan Industri Jepang
+  tanggal: '1975-04-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-30-menerima-menteri-perdagangan-internasional-dan-industri-jepang/
 ---
+
 
 # 1975-04-30 Menerima Menteri Perdagangan Internasional dan Industri Jepang
 

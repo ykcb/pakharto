@@ -1,9 +1,52 @@
 ---
-title: "1970-02-14 Musyawarah Kerja IKAHI dan Rule of Law – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-14-musyawarah-kerja-ikhi-dan-rule-of-law/"
-date: "2017-08-29T11:20:42+07:00"
+title: 1970-02-14 Musyawarah Kerja IKAHI dan Rule of Law
+description: (Penegakaan Hukum Harus Diabdikan Kepada Terwujudnya Kesejahteraan Seluruh
+  Rakyat Yang Berdasarkan Pancasila)
+date: '1970-02-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-14-musyawarah-kerja-ikhi-dan-rule-of-law
+aliases:
+- Musyawarah Kerja IKAHI dan Rule of Law
+- 1970-02-14 Musyawarah Kerja IKAHI dan Rule of Law – HM Soeharto
+tags:
+- alsegaff
+- barat
+- bin
+- cepat
+- datuk
+- ikahi
+- irian
+- keadilan
+- kemanusiaan
+- kerja
+- kesejahteraan
+- musyawarah
+- omar
+- orde-baru
+- pancasila
+- peradilan
+- perpustakaan-soeharto
+- proyek
+- rule-of-law
+- singapura
+- syed-ibrahim
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-14-musyawarah-kerja-ikhi-dan-rule-of-law/
+  judul: 1970-02-14 Musyawarah Kerja IKAHI dan Rule of Law
+  tanggal: '1970-02-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-14-musyawarah-kerja-ikhi-dan-rule-of-law/
 ---
+
 
 # 1970-02-14 Musyawarah Kerja IKAHI dan Rule of Law
 

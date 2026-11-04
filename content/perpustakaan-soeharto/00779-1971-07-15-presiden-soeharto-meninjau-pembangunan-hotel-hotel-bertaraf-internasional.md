@@ -1,9 +1,46 @@
 ---
-title: "1971-07-15 Presiden Soeharto Meninjau Pembangunan Hotel-Hotel Bertaraf Internasional – HM Soeharto"
-source: "https://soehartolibrary.id/1971-07-15-presiden-soeharto-meninjau-pembangunan-hotel-hotel-bertaraf-internasional/"
-date: "2017-08-25T15:30:12+07:00"
+title: 1971-07-15 Presiden Soeharto Meninjau Pembangunan Hotel-Hotel Bertaraf Internasional
+description: KAMIS, 15 Juli 1971. Presiden Soeharto hari ini meninjau pembangunan
+  beberapa hotel di Jakarta. Hotel-hotel yang ditinjau adalah hotel yang bertaraf
+  internasional, seperti Hotel Menteng, Hotel Sabang, Presiden Hotel, Interhouse Hotel,...
+date: '1971-07-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-07-15-presiden-soeharto-meninjau-pembangunan-hotel-hotel-bertaraf-internasional
+aliases:
+- Presiden Soeharto Meninjau Pembangunan Hotel-Hotel Bertaraf Internasional
+- 1971-07-15 Presiden Soeharto Meninjau Pembangunan Hotel-Hotel Bertaraf Internasional
+  – HM Soeharto
+tags:
+- hotel-asoka
+- hotel-banteng
+- hotel-gajah-mada
+- hotel-menteng
+- hotel-sabang
+- interhouse-hotel
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-hotel
+- presiden-soeharto
+- ramayana-city-hotel
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-07-15-presiden-soeharto-meninjau-pembangunan-hotel-hotel-bertaraf-internasional/
+  judul: 1971-07-15 Presiden Soeharto Meninjau Pembangunan Hotel-Hotel Bertaraf Internasional
+  tanggal: '1971-07-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-07-15-presiden-soeharto-meninjau-pembangunan-hotel-hotel-bertaraf-internasional/
 ---
+
 
 # 1971-07-15 Presiden Soeharto Meninjau Pembangunan Hotel-Hotel Bertaraf Internasional
 

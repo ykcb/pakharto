@@ -1,9 +1,37 @@
 ---
-title: "1968-09-21 Presiden Soeharto Tukar Pikiran Dengan Forum Swasta Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-21-presiden-soeharto-tukar-pikiran-dengan-forum-swasta-nasional/"
-date: "2014-04-01T02:14:23+07:00"
+title: 1968-09-21 Presiden Soeharto Tukar Pikiran Dengan Forum Swasta Nasional
+description: 2 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-21-presiden-soeharto-tukar-pikiran-dengan-forum-swasta-nasional/respond)
+  141 Views Share on
+date: '1968-09-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-21-presiden-soeharto-tukar-pikiran-dengan-forum-swasta-nasional
+aliases:
+- Presiden Soeharto Tukar Pikiran Dengan Forum Swasta Nasional
+- 1968-09-21 Presiden Soeharto Tukar Pikiran Dengan Forum Swasta Nasional – HM Soeharto
+tags:
+- forum-swasta-nasional
+- hari-bahari
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-21-presiden-soeharto-tukar-pikiran-dengan-forum-swasta-nasional/
+  judul: 1968-09-21 Presiden Soeharto Tukar Pikiran Dengan Forum Swasta Nasional
+  tanggal: '1968-09-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-21-presiden-soeharto-tukar-pikiran-dengan-forum-swasta-nasional/
 ---
+
 
 # 1968-09-21 Presiden Soeharto Tukar Pikiran Dengan Forum Swasta Nasional
 

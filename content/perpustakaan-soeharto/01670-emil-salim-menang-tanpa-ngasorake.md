@@ -1,9 +1,41 @@
 ---
-title: "Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 1) – HM Soeharto"
-source: "https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/"
-date: "2014-11-25T12:36:36+07:00"
+title: 'Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 1)'
+description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/respond)
+  157 Views Share on
+date: '2014-11-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: emil-salim-menang-tanpa-ngasorake
+aliases:
+- 'Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 1) – HM Soeharto'
+tags:
+- emil-salim
+- fao
+- italia
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- roma
+- swasembada-pangan
+- vatikan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/
+  judul: 'Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 1)'
+  tanggal: '2014-11-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/83330011_result.jpg)
 

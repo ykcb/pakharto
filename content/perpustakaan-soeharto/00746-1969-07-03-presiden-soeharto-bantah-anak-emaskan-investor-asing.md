@@ -1,9 +1,39 @@
 ---
-title: "1969-07-03 Presiden Soeharto Bantah Anak Emaskan Investor Asing – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-03-presiden-soeharto-bantah-anak-emaskan-investor-asing/"
-date: "2017-08-24T15:24:19+07:00"
+title: 1969-07-03 Presiden Soeharto Bantah Anak Emaskan Investor Asing
+description: KAMIS, 03 Juli 1969. Presiden Soeharto membantah anggapan orang bahwa
+  pemerintah menganak-emaskan investor-investor asing, dan sebaliknya menganaktirikan
+  perusahaan nasional. Ditegaskannya bahwa pemerintah memberikan tempat yang wajar...
+date: '1969-07-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-03-presiden-soeharto-bantah-anak-emaskan-investor-asing
+aliases:
+- Presiden Soeharto Bantah Anak Emaskan Investor Asing
+- 1969-07-03 Presiden Soeharto Bantah Anak Emaskan Investor Asing – HM Soeharto
+tags:
+- investor-asing
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- pengusaha-nasional
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-03-presiden-soeharto-bantah-anak-emaskan-investor-asing/
+  judul: 1969-07-03 Presiden Soeharto Bantah Anak Emaskan Investor Asing
+  tanggal: '1969-07-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-03-presiden-soeharto-bantah-anak-emaskan-investor-asing/
 ---
+
 
 # 1969-07-03 Presiden Soeharto Bantah Anak Emaskan Investor Asing
 

@@ -1,9 +1,51 @@
 ---
-title: "1974-09-21 Presiden Soeharto Bahas Tenaga Kerja Asing Perminyakan dan Kebakaran Laboratorium ITB – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-21-presiden-soeharto-bahas-tenaga-kerja-asing-perminyakan-dan-kebakaran-laboratorium-itb/"
-date: "2017-08-23T10:52:51+07:00"
+title: 1974-09-21 Presiden Soeharto Bahas Tenaga Kerja Asing Perminyakan dan Kebakaran
+  Laboratorium ITB
+description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-21-presiden-soeharto-bahas-tenaga-kerja-asing-perminyakan-dan-kebakaran-laboratorium-itb/respond)
+  89 Views...
+date: '1974-09-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-21-presiden-soeharto-bahas-tenaga-kerja-asing-perminyakan-dan-kebakaran-laboratorium-itb
+aliases:
+- Presiden Soeharto Bahas Tenaga Kerja Asing Perminyakan dan Kebakaran Laboratorium
+  ITB
+- 1974-09-21 Presiden Soeharto Bahas Tenaga Kerja Asing Perminyakan dan Kebakaran
+  Laboratorium ITB – HM Soeharto
+tags:
+- barli-halim
+- itb
+- ketua-bkpm
+- kimia
+- laboratorium
+- menteri-pertambangan
+- menteri-tenaga-kerja
+- mohammad-sadli
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sjarif-thajeb
+- subroto
+- tenaga-kerja-asing
+- transmigrasi-dan-koperasi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-21-presiden-soeharto-bahas-tenaga-kerja-asing-perminyakan-dan-kebakaran-laboratorium-itb/
+  judul: 1974-09-21 Presiden Soeharto Bahas Tenaga Kerja Asing Perminyakan dan Kebakaran
+    Laboratorium ITB
+  tanggal: '1974-09-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-21-presiden-soeharto-bahas-tenaga-kerja-asing-perminyakan-dan-kebakaran-laboratorium-itb/
 ---
+
 
 # 1974-09-21 Presiden Soeharto Bahas Tenaga Kerja Asing Perminyakan dan Kebakaran Laboratorium ITB
 

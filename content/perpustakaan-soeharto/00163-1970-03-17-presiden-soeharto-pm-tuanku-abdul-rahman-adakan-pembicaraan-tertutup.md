@@ -1,9 +1,46 @@
 ---
-title: "1970-03-17 Presiden Soeharto-PM Tuanku Abdul Rahman adakan Pembicaraan Tertutup – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-17-presiden-soeharto-pm-tuanku-abdul-rahman-adakan-pembicaraan-tertutup/"
-date: "2017-08-29T17:13:51+07:00"
+title: 1970-03-17 Presiden Soeharto-PM Tuanku Abdul Rahman adakan Pembicaraan Tertutup
+description: SELASA, 17 Maret 1970, Presiden Soeharto mengadakan pembicaraan tertutup
+  selama 45 menit dengan PM Tunku Abdul Rahman. Dalam pertemuan yang juga dihadiri
+  oleh pembantu utama kedua belah pihak itu telah dibicarakan berbagai masalah, baik...
+date: '1970-03-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-17-presiden-soeharto-pm-tuanku-abdul-rahman-adakan-pembicaraan-tertutup
+aliases:
+- Presiden Soeharto-PM Tuanku Abdul Rahman adakan Pembicaraan Tertutup
+- 1970-03-17 Presiden Soeharto-PM Tuanku Abdul Rahman adakan Pembicaraan Tertutup
+  – HM Soeharto
+tags:
+- abdul-rahman
+- malaka
+- malaysia
+- orde-baru
+- pak-harto
+- perbatasan
+- perjanjian
+- perpustakaan-soeharto
+- pm
+- presiden
+- selat
+- soeharto
+- tunku
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-17-presiden-soeharto-pm-tuanku-abdul-rahman-adakan-pembicaraan-tertutup/
+  judul: 1970-03-17 Presiden Soeharto-PM Tuanku Abdul Rahman adakan Pembicaraan Tertutup
+  tanggal: '1970-03-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-17-presiden-soeharto-pm-tuanku-abdul-rahman-adakan-pembicaraan-tertutup/
 ---
+
 
 # 1970-03-17 Presiden Soeharto-PM Tuanku Abdul Rahman adakan Pembicaraan Tertutup
 

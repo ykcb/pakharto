@@ -1,9 +1,40 @@
 ---
-title: "1977-04-22 Presiden Soeharto Serahkan Dana Bantuan Masjid Raya Jayapura – HM Soeharto"
-source: "https://soehartolibrary.id/1977-04-22-presiden-soeharto-serahkan-dana-bantuan-masjid-raya-jayapura/"
-date: "2017-08-30T14:15:10+07:00"
+title: 1977-04-22 Presiden Soeharto Serahkan Dana Bantuan Masjid Raya Jayapura
+description: JUM’AT, 22 April 1977, Dana khusus Presiden Soeharto sebanyak Rp. 5 juta
+  hari ini diserahkan kepada Ketua Proyek Pembangunan Masjid Raya Jayapura, Haji Khairi,
+  melalui Bupati Th. Messeth. Ketika menerima penyerahan itu, ketua Proyek...
+date: '1977-04-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-04-22-presiden-soeharto-serahkan-dana-bantuan-masjid-raya-jayapura
+aliases:
+- Presiden Soeharto Serahkan Dana Bantuan Masjid Raya Jayapura
+- 1977-04-22 Presiden Soeharto Serahkan Dana Bantuan Masjid Raya Jayapura – HM Soeharto
+tags:
+- bupati
+- dana-khusus
+- jayapura
+- masjid
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- th-messeth
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-04-22-presiden-soeharto-serahkan-dana-bantuan-masjid-raya-jayapura/
+  judul: 1977-04-22 Presiden Soeharto Serahkan Dana Bantuan Masjid Raya Jayapura
+  tanggal: '1977-04-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-04-22-presiden-soeharto-serahkan-dana-bantuan-masjid-raya-jayapura/
 ---
+
 
 # 1977-04-22 Presiden Soeharto Serahkan Dana Bantuan Masjid Raya Jayapura
 

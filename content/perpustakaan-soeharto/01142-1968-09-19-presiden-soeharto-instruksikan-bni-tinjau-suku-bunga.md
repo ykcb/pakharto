@@ -1,9 +1,42 @@
 ---
-title: "1968-09-19 Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga/"
-date: "2014-04-01T02:14:35+07:00"
+title: 1968-09-19 Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga
+description: 2 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga/respond)
+  99 Views Share on
+date: '1968-09-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga
+aliases:
+- Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga
+- 1968-09-19 Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga – HM Soeharto
+tags:
+- bni
+- bonus-ekspor
+- ekspor
+- instruksi-presiden
+- keppres-no-2831968
+- no-281968
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- suku-bunga
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga/
+  judul: 1968-09-19 Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga
+  tanggal: '1968-09-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga/
 ---
+
 
 # 1968-09-19 Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga
 

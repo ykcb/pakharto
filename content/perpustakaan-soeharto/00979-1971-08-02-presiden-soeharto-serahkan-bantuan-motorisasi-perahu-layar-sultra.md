@@ -1,9 +1,39 @@
 ---
-title: "1971-08-02 Presiden Soeharto Serahkan Bantuan Motorisasi Perahu Layar Sultra – HM Soeharto"
-source: "https://soehartolibrary.id/1971-08-02-presiden-soeharto-serahkan-bantuan-motorisasi-perahu-layar-sultra/"
-date: "2017-08-24T15:12:24+07:00"
+title: 1971-08-02 Presiden Soeharto Serahkan Bantuan Motorisasi Perahu Layar Sultra
+description: SENIN, 2 AGUSTUS 1971, Presiden Soeharto memberikan 30 buah mesin Yanmar
+  yang berkekuatan 16 PK kepada Provinsi Sulawesi Tenggara. Ini merupakan pemberian
+  tahap pertama dalam rangka usaha motorisasi perahu-perahu layar. Selain itu...
+date: '1971-08-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-08-02-presiden-soeharto-serahkan-bantuan-motorisasi-perahu-layar-sultra
+aliases:
+- Presiden Soeharto Serahkan Bantuan Motorisasi Perahu Layar Sultra
+- 1971-08-02 Presiden Soeharto Serahkan Bantuan Motorisasi Perahu Layar Sultra – HM
+  Soeharto
+tags:
+- motorisasi
+- orde-baru
+- perahu-layar
+- perpustakaan-soeharto
+- presiden-soeharto
+- sulawesi-tenggara
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-08-02-presiden-soeharto-serahkan-bantuan-motorisasi-perahu-layar-sultra/
+  judul: 1971-08-02 Presiden Soeharto Serahkan Bantuan Motorisasi Perahu Layar Sultra
+  tanggal: '1971-08-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-08-02-presiden-soeharto-serahkan-bantuan-motorisasi-perahu-layar-sultra/
 ---
+
 
 # 1971-08-02 Presiden Soeharto Serahkan Bantuan Motorisasi Perahu Layar Sultra
 

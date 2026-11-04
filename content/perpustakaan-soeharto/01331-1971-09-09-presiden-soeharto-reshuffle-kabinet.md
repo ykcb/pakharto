@@ -1,9 +1,48 @@
 ---
-title: "1971-09-09 Presiden Soeharto Reshuffle Kabinet – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-09-presiden-soeharto-reshuffle-kabinet/"
-date: "2014-03-21T23:13:50+07:00"
+title: 1971-09-09 Presiden Soeharto Reshuffle Kabinet
+description: 12 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-09-presiden-soeharto-reshuffle-kabinet/respond)
+  129 Views Share on
+date: '1971-09-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-09-presiden-soeharto-reshuffle-kabinet
+aliases:
+- Presiden Soeharto Reshuffle Kabinet
+- 1971-09-09 Presiden Soeharto Reshuffle Kabinet – HM Soeharto
+tags:
+- dr-emil-salim
+- h-harsono-tjokroaminoto
+- hms-mintaredja-sh
+- jenderal-m-panggabean
+- khm-dachlan
+- laksamana-madya-l-mursalin-dm
+- letjen-sarbini
+- menteri-agama
+- menteri-tenaga-kerja
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- prof-dr-m-sadli
+- prof-dr-mukti-ali
+- prof-dr-widjaja-nitisastro
+- reshuffle-kabinet
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-09-presiden-soeharto-reshuffle-kabinet/
+  judul: 1971-09-09 Presiden Soeharto Reshuffle Kabinet
+  tanggal: '1971-09-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-09-presiden-soeharto-reshuffle-kabinet/
 ---
+
 
 # 1971-09-09 Presiden Soeharto Reshuffle Kabinet
 

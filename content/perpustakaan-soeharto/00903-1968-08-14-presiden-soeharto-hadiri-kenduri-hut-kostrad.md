@@ -1,9 +1,38 @@
 ---
-title: "1968-08-14 Presiden Soeharto Hadiri Kenduri HUT Kostrad – HM Soeharto"
-source: "https://soehartolibrary.id/1968-08-14-presiden-soeharto-hadiri-kenduri-hut-kostrad/"
-date: "2017-08-23T11:38:03+07:00"
+title: 1968-08-14 Presiden Soeharto Hadiri Kenduri HUT Kostrad
+description: RABU, 14 AGUSTUS 1968, Presiden Soeharto malam ini menghadiri kenduri
+  dalam rangka hari ulang tahun Kostrad yang diadakan oleh keluarga Kostrad, bertempat
+  di kediaman panglima Kostrad, Mayjen Kemal Idris. Dalam amanatnya, Presiden...
+date: '1968-08-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-08-14-presiden-soeharto-hadiri-kenduri-hut-kostrad
+aliases:
+- Presiden Soeharto Hadiri Kenduri HUT Kostrad
+- 1968-08-14 Presiden Soeharto Hadiri Kenduri HUT Kostrad – HM Soeharto
+tags:
+- kemal-idris
+- kendurian
+- orde-baru
+- pangkostrad
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-08-14-presiden-soeharto-hadiri-kenduri-hut-kostrad/
+  judul: 1968-08-14 Presiden Soeharto Hadiri Kenduri HUT Kostrad
+  tanggal: '1968-08-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-08-14-presiden-soeharto-hadiri-kenduri-hut-kostrad/
 ---
+
 
 # 1968-08-14 Presiden Soeharto Hadiri Kenduri HUT Kostrad
 

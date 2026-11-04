@@ -1,9 +1,37 @@
 ---
-title: "Air Mata Kami Telah Kering – HM Soeharto"
-source: "https://soehartolibrary.id/air-mata-kami-telah-kering/"
-date: "2013-07-20T01:17:39+07:00"
+title: Air Mata Kami Telah Kering
+description: Bapak Soeharto, sembah sungkem kami haturkan dengan segenap jiwa kami
+  kepada Bapak Soeharto. Kami adalah ibu rumah tangga biasa yang tidak mengerti soal
+  politik. Tetapi kami mengerti dan mengenal Bapak adalah sebagai “Bapak Kami”
+date: '2013-07-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: air-mata-kami-telah-kering
+aliases:
+- Air Mata Kami Telah Kering – HM Soeharto
+tags:
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- surat-simpati
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/air-mata-kami-telah-kering/
+  judul: Air Mata Kami Telah Kering
+  tanggal: '2013-07-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/air-mata-kami-telah-kering/
 ---
+
 
 # Air Mata Kami Telah Kering
 

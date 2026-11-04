@@ -1,9 +1,39 @@
 ---
-title: "1970-05-12 Presiden Soeharto Instruksikan Peningkatan Pengawasan Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-12-presiden-soeharto-instruksikan-peningkatan-pengawasan-pembangunan/"
-date: "2014-03-22T02:53:38+07:00"
+title: 1970-05-12 Presiden Soeharto Instruksikan Peningkatan Pengawasan Pembangunan
+description: SABTU, 12 MEI 1970, Dalam sidang Stabilisasi Ekonomi di Bina Graha pagi
+  ini Presiden Soeharto antara lain menginstruksikan kepada para Menteri untuk meningkatkan
+  pengawasan terhadap proyek-proyek pembangunan yang selama ini dirasakan...
+date: '1970-05-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-12-presiden-soeharto-instruksikan-peningkatan-pengawasan-pembangunan
+aliases:
+- Presiden Soeharto Instruksikan Peningkatan Pengawasan Pembangunan
+- 1970-05-12 Presiden Soeharto Instruksikan Peningkatan Pengawasan Pembangunan – HM
+  Soeharto
+tags:
+- menteri
+- orde-baru
+- pembangunan
+- pengawasan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-12-presiden-soeharto-instruksikan-peningkatan-pengawasan-pembangunan/
+  judul: 1970-05-12 Presiden Soeharto Instruksikan Peningkatan Pengawasan Pembangunan
+  tanggal: '1970-05-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-12-presiden-soeharto-instruksikan-peningkatan-pengawasan-pembangunan/
 ---
+
 
 # 1970-05-12 Presiden Soeharto Instruksikan Peningkatan Pengawasan Pembangunan
 

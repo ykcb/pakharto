@@ -1,9 +1,39 @@
 ---
-title: "1975-03-19 Presiden Soeharto Kunjungi Tanjung Priok – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-19-presiden-soeharto-kunjungi-tanjung-priok/"
-date: "2017-08-29T17:42:05+07:00"
+title: 1975-03-19 Presiden Soeharto Kunjungi Tanjung Priok
+description: RABU, 19 MARET 1975, Siang ini Presiden Soeharto mengadakan peninjauan
+  di Pelabuhan Sindang Laut, Tanjung Priok. Di pelabuhan ini Kepala Negara, disaksikan
+  oleh Menteri Perhubungan Emil Salim dan Direktur Jenderal Perhubungan Laut...
+date: '1975-03-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-19-presiden-soeharto-kunjungi-tanjung-priok
+aliases:
+- Presiden Soeharto Kunjungi Tanjung Priok
+- 1975-03-19 Presiden Soeharto Kunjungi Tanjung Priok – HM Soeharto
+tags:
+- galangan-kapal
+- orde-baru
+- perpustakaan-soeharto
+- prisedn-soeharto
+- sindang-laut
+- tanjung-priok
+- tegal
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-19-presiden-soeharto-kunjungi-tanjung-priok/
+  judul: 1975-03-19 Presiden Soeharto Kunjungi Tanjung Priok
+  tanggal: '1975-03-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-19-presiden-soeharto-kunjungi-tanjung-priok/
 ---
+
 
 # 1975-03-19 Presiden Soeharto Kunjungi Tanjung Priok
 

@@ -1,9 +1,39 @@
 ---
-title: "1973-05-30 Presiden Soeharto Membentuk BKPM – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-30-presiden-soeharto-membentuk-bkpm/"
-date: "2014-03-22T02:51:38+07:00"
+title: 1973-05-30 Presiden Soeharto Membentuk BKPM
+description: RABU, 30 Mei 1973, Presiden Soeharto menegaskan bahwa Badan Koordinasi
+  Penanaman Modal (BKPM) harus benar-benar menjadi forum koordinasi yang dapat menangani
+  semua masalah penanaman modal, baik asing maupun domestik, secara integral dan...
+date: '1973-05-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-30-presiden-soeharto-membentuk-bkpm
+aliases:
+- Presiden Soeharto Membentuk BKPM
+- 1973-05-30 Presiden Soeharto Membentuk BKPM – HM Soeharto
+tags:
+- bkpm
+- drs-barli-halim
+- moadl-domestik
+- modal-asing
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-30-presiden-soeharto-membentuk-bkpm/
+  judul: 1973-05-30 Presiden Soeharto Membentuk BKPM
+  tanggal: '1973-05-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-30-presiden-soeharto-membentuk-bkpm/
 ---
+
 
 # 1973-05-30 Presiden Soeharto Membentuk BKPM
 

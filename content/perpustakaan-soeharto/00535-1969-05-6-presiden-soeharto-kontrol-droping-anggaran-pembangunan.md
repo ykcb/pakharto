@@ -1,9 +1,38 @@
 ---
-title: "1969-05-6 Presiden Soeharto Kontrol Droping Anggaran Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1969-05-6-presiden-soeharto-kontrol-droping-anggaran-pembangunan/"
-date: "2017-08-28T16:47:43+07:00"
+title: 1969-05-6 Presiden Soeharto Kontrol Droping Anggaran Pembangunan
+description: SELASA, 6 MEI 1969, Presiden Soeharto dalam rapat Sub-Dewan Stabilisasi
+  Ekonomi pagi ini di Istana Merdeka, telah memberikan petunjuk-petunjuk bagi kelancaran
+  dropping uang anggaran pembangunan bagi departemen-departemen dan...
+date: '2017-08-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-05-6-presiden-soeharto-kontrol-droping-anggaran-pembangunan
+aliases:
+- 1969-05-6 Presiden Soeharto Kontrol Droping Anggaran Pembangunan – HM Soeharto
+tags:
+- anggaran-keuangan
+- daerah
+- departemen
+- keuangan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-05-6-presiden-soeharto-kontrol-droping-anggaran-pembangunan/
+  judul: 1969-05-6 Presiden Soeharto Kontrol Droping Anggaran Pembangunan
+  tanggal: '2017-08-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-05-6-presiden-soeharto-kontrol-droping-anggaran-pembangunan/
 ---
+
 
 # 1969-05-6 Presiden Soeharto Kontrol Droping Anggaran Pembangunan
 

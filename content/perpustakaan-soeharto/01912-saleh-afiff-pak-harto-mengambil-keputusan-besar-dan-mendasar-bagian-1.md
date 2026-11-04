@@ -1,9 +1,36 @@
 ---
-title: "Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 1) – HM Soeharto"
-source: "https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-1/"
-date: "2014-11-24T08:07:20+07:00"
+title: 'Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 1)'
+description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-1/respond)
+  146 Views Share on
+date: '2014-11-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-1
+aliases:
+- 'Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 1) – HM Soeharto'
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- saleh-afiff
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-1/
+  judul: 'Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 1)'
+  tanggal: '2014-11-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-1/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0719_result.jpg)
 

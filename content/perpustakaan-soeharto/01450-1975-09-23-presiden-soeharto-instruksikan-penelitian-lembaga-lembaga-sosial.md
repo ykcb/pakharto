@@ -1,9 +1,40 @@
 ---
-title: "1975-09-23 Presiden Soeharto Instruksikan Penelitian Lembaga-Lembaga Sosial – HM Soeharto"
-source: "https://soehartolibrary.id/1975-09-23-presiden-soeharto-instruksikan-penelitian-lembaga-lembaga-sosial/"
-date: "2017-08-22T16:19:55+07:00"
+title: 1975-09-23 Presiden Soeharto Instruksikan Penelitian Lembaga-Lembaga Sosial
+description: 18 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-09-23-presiden-soeharto-instruksikan-penelitian-lembaga-lembaga-sosial/respond)
+  87 Views Share on
+date: '1975-09-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-09-23-presiden-soeharto-instruksikan-penelitian-lembaga-lembaga-sosial
+aliases:
+- Presiden Soeharto Instruksikan Penelitian Lembaga-Lembaga Sosial
+- 1975-09-23 Presiden Soeharto Instruksikan Penelitian Lembaga-Lembaga Sosial – HM
+  Soeharto
+tags:
+- lembaga-sosial
+- menteri-sosial
+- orde-baru
+- panti-asuhan
+- perpustakaan-soeharto
+- presiden-soeharto
+- yayasan-dharmais
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-09-23-presiden-soeharto-instruksikan-penelitian-lembaga-lembaga-sosial/
+  judul: 1975-09-23 Presiden Soeharto Instruksikan Penelitian Lembaga-Lembaga Sosial
+  tanggal: '1975-09-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-09-23-presiden-soeharto-instruksikan-penelitian-lembaga-lembaga-sosial/
 ---
+
 
 # 1975-09-23 Presiden Soeharto Instruksikan Penelitian Lembaga-Lembaga Sosial
 

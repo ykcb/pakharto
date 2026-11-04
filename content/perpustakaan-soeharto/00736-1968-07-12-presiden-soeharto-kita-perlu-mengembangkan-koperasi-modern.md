@@ -1,9 +1,37 @@
 ---
-title: "1968-07-12 Presiden Soeharto: Kita Perlu Mengembangkan Koperasi Modern – HM Soeharto"
-source: "https://soehartolibrary.id/1968-07-12-presiden-soeharto-kita-perlu-mengembangkan-koperasi-modern/"
-date: "2017-08-24T15:27:26+07:00"
+title: '1968-07-12 Presiden Soeharto: Kita Perlu Mengembangkan Koperasi Modern'
+description: JUM’AT, 12 JULI 1968, Presiden Soeharto mengatakan bahwa kini kita perlu
+  mengembangkan koperasi yang modern dan sesuai dengan tuntutan dan kemajuan zaman.
+  Di masa sekarang, untuk dapat menunaikan fungsinya, maka koperasi memerlukan...
+date: '1968-07-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-07-12-presiden-soeharto-kita-perlu-mengembangkan-koperasi-modern
+aliases:
+- 'Presiden Soeharto: Kita Perlu Mengembangkan Koperasi Modern'
+- '1968-07-12 Presiden Soeharto: Kita Perlu Mengembangkan Koperasi Modern – HM Soeharto'
+tags:
+- koperasi
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-07-12-presiden-soeharto-kita-perlu-mengembangkan-koperasi-modern/
+  judul: '1968-07-12 Presiden Soeharto: Kita Perlu Mengembangkan Koperasi Modern'
+  tanggal: '1968-07-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-07-12-presiden-soeharto-kita-perlu-mengembangkan-koperasi-modern/
 ---
+
 
 # 1968-07-12 Presiden Soeharto: Kita Perlu Mengembangkan Koperasi Modern
 

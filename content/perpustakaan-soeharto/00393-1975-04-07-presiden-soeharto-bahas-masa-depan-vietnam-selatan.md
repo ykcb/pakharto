@@ -1,9 +1,41 @@
 ---
-title: "1975-04-07 Presiden Soeharto Bahas Masa Depan Vietnam Selatan – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-07-presiden-soeharto-bahas-masa-depan-vietnam-selatan/"
-date: "2017-08-28T16:50:36+07:00"
+title: 1975-04-07 Presiden Soeharto Bahas Masa Depan Vietnam Selatan
+description: SENIN, 7 April 1975, Di Istana Merdeka pagi ini Presiden Soeharto menerima
+  kunjungan Ketua Gabungan Kepala Staf Angkatan Bersenjata AS, Jenderal George S Brown.
+  Dalam pertemuan tersebut telah dibicarakan sekitar perkembangan yang sering...
+date: '1975-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-07-presiden-soeharto-bahas-masa-depan-vietnam-selatan
+aliases:
+- Presiden Soeharto Bahas Masa Depan Vietnam Selatan
+- 1975-04-07 Presiden Soeharto Bahas Masa Depan Vietnam Selatan – HM Soeharto
+tags:
+- angkatan-bersenjata-as
+- bali
+- jenderal-george-s
+- komunis
+- lon-nol
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- vietnam-selatan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-07-presiden-soeharto-bahas-masa-depan-vietnam-selatan/
+  judul: 1975-04-07 Presiden Soeharto Bahas Masa Depan Vietnam Selatan
+  tanggal: '1975-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-07-presiden-soeharto-bahas-masa-depan-vietnam-selatan/
 ---
+
 
 # 1975-04-07 Presiden Soeharto Bahas Masa Depan Vietnam Selatan
 

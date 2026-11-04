@@ -1,9 +1,38 @@
 ---
-title: "1971-04-01  Presiden Soeharto Menerima Dewan Gereja Indonesia – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-01-presiden-soeharto-menerima-dewan-gereja-indonesia/"
-date: "2014-03-22T02:58:29+07:00"
+title: 1971-04-01  Presiden Soeharto Menerima Dewan Gereja Indonesia
+description: KAMIS, 1 April 1971, Pagi ini di Istana Merdeka, Presiden Soeharto menerima
+  pengurus Dewan Gereja Indonesia (DGI). Kepada DGI Presiden mengharapkan agar gereja
+  berpartisipasi dalam tugas-tugas nasional dewasa ini, yang meliputi...
+date: '1971-04-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-01-presiden-soeharto-menerima-dewan-gereja-indonesia
+aliases:
+- Presiden Soeharto Menerima Dewan Gereja Indonesia
+- 1971-04-01  Presiden Soeharto Menerima Dewan Gereja Indonesia – HM Soeharto
+tags:
+- dewan-gereja-indonesia
+- dgi
+- istana-merdeka
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-01-presiden-soeharto-menerima-dewan-gereja-indonesia/
+  judul: 1971-04-01  Presiden Soeharto Menerima Dewan Gereja Indonesia
+  tanggal: '1971-04-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-01-presiden-soeharto-menerima-dewan-gereja-indonesia/
 ---
+
 
 # 1971-04-01 Presiden Soeharto Menerima Dewan Gereja Indonesia
 

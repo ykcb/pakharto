@@ -1,9 +1,38 @@
 ---
-title: "1969-09-12 Presiden Soeharto Kirim Kawat Soal Pembakaran Masjidil Aqsa – HM Soeharto"
-source: "https://soehartolibrary.id/1969-09-12-presiden-soeharto-kirim-kawat-soal-pembakaran-masjidil-aqsa/"
-date: "2017-08-22T17:38:57+07:00"
+title: 1969-09-12 Presiden Soeharto Kirim Kawat Soal Pembakaran Masjidil Aqsa
+description: 3 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-09-12-presiden-soeharto-kirim-kawat-soal-pembakaran-masjidil-aqsa/respond)
+  148 Views Share on
+date: '1969-09-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-09-12-presiden-soeharto-kirim-kawat-soal-pembakaran-masjidil-aqsa
+aliases:
+- Presiden Soeharto Kirim Kawat Soal Pembakaran Masjidil Aqsa
+- 1969-09-12 Presiden Soeharto Kirim Kawat Soal Pembakaran Masjidil Aqsa – HM Soeharto
+tags:
+- masjidil-aqsa
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- raja-husein
+- yordania
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-09-12-presiden-soeharto-kirim-kawat-soal-pembakaran-masjidil-aqsa/
+  judul: 1969-09-12 Presiden Soeharto Kirim Kawat Soal Pembakaran Masjidil Aqsa
+  tanggal: '1969-09-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-09-12-presiden-soeharto-kirim-kawat-soal-pembakaran-masjidil-aqsa/
 ---
+
 
 # 1969-09-12 Presiden Soeharto Kirim Kawat Soal Pembakaran Masjidil Aqsa
 

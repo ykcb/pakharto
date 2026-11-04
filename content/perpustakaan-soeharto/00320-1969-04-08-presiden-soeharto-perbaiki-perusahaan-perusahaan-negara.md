@@ -1,9 +1,38 @@
 ---
-title: "1969-04-08 Presiden Soeharto Perbaiki Perusahaan-Perusahaan Negara – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-08-presiden-soeharto-perbaiki-perusahaan-perusahaan-negara/"
-date: "2014-03-22T02:58:37+07:00"
+title: 1969-04-08 Presiden Soeharto Perbaiki Perusahaan-Perusahaan Negara
+description: SELASA, 8 APRIL 1969, Presiden Soeharto menyatakan bahwa PN-PN yang ada
+  sekarang akan dinilai kedudukannya untuk kemudian ditentukan perlu tidaknya dialihkan
+  bentuknya ke dalam Perusahaan Jawatan (Perjan) atau Perusahaan Perseroan...
+date: '1969-04-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-08-presiden-soeharto-perbaiki-perusahaan-perusahaan-negara
+aliases:
+- Presiden Soeharto Perbaiki Perusahaan-Perusahaan Negara
+- 1969-04-08 Presiden Soeharto Perbaiki Perusahaan-Perusahaan Negara – HM Soeharto
+tags:
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- perusahaan-negara
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-08-presiden-soeharto-perbaiki-perusahaan-perusahaan-negara/
+  judul: 1969-04-08 Presiden Soeharto Perbaiki Perusahaan-Perusahaan Negara
+  tanggal: '1969-04-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-08-presiden-soeharto-perbaiki-perusahaan-perusahaan-negara/
 ---
+
 
 # 1969-04-08 Presiden Soeharto Perbaiki Perusahaan-Perusahaan Negara
 

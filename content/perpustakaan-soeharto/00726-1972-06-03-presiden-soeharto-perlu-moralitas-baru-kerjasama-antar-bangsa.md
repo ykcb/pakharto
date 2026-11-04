@@ -1,9 +1,43 @@
 ---
-title: "1972-06-03 Presiden Soeharto: Perlu Moralitas Baru Kerjasama Antar Bangsa – HM Soeharto"
-source: "https://soehartolibrary.id/1972-06-03-presiden-soeharto-perlu-moralitas-baru-kerjasama-antar-bangsa/"
-date: "2014-06-03T23:50:45+07:00"
+title: '1972-06-03 Presiden Soeharto: Perlu Moralitas Baru Kerjasama Antar Bangsa'
+description: SABTU, 03 Juni 1972, “Perlu ada moralitas baru dan kerjasama yang konstruktif
+  dalam hubungan antar-bangsa. Bangsa besar ataupun kecil yang memberi bantuan hendaknya
+  bekerjasama dalam tingkatan yang sederajad, dengan saling...
+date: '1972-06-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-06-03-presiden-soeharto-perlu-moralitas-baru-kerjasama-antar-bangsa
+aliases:
+- 'Presiden Soeharto: Perlu Moralitas Baru Kerjasama Antar Bangsa'
+- '1972-06-03 Presiden Soeharto: Perlu Moralitas Baru Kerjasama Antar Bangsa – HM
+  Soeharto'
+tags:
+- duta-besar
+- kamil-al-sharif
+- karangan-bunga
+- orde-baru
+- perpustakaan-soeharto
+- pmi
+- presiden-soeharto
+- sosial
+- ulang-tahun
+- yordania
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-06-03-presiden-soeharto-perlu-moralitas-baru-kerjasama-antar-bangsa/
+  judul: '1972-06-03 Presiden Soeharto: Perlu Moralitas Baru Kerjasama Antar Bangsa'
+  tanggal: '1972-06-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-06-03-presiden-soeharto-perlu-moralitas-baru-kerjasama-antar-bangsa/
 ---
+
 
 # 1972-06-03 Presiden Soeharto: Perlu Moralitas Baru Kerjasama Antar Bangsa
 

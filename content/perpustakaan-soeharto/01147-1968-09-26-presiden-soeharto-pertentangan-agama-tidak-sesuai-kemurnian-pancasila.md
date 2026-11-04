@@ -1,9 +1,48 @@
 ---
-title: "1968-09-26 Presiden Soeharto: Pertentangan Agama Tidak Sesuai Kemurnian Pancasila – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-26-presiden-soeharto-pertentangan-agama-tidak-sesuai-kemurnian-pancasila/"
-date: "2014-04-01T02:13:22+07:00"
+title: '1968-09-26 Presiden Soeharto: Pertentangan Agama Tidak Sesuai Kemurnian Pancasila'
+description: 2 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-26-presiden-soeharto-pertentangan-agama-tidak-sesuai-kemurnian-pancasila/respond)
+  76 Views Share on
+date: '1968-09-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-26-presiden-soeharto-pertentangan-agama-tidak-sesuai-kemurnian-pancasila
+aliases:
+- 'Presiden Soeharto: Pertentangan Agama Tidak Sesuai Kemurnian Pancasila'
+- '1968-09-26 Presiden Soeharto: Pertentangan Agama Tidak Sesuai Kemurnian Pancasila
+  – HM Soeharto'
+tags:
+- ayub-khan
+- ipecc
+- muktamar-muhammadiyah
+- orde-baru
+- pakistan
+- pancasila
+- perpustakaan-soeharto
+- pki
+- presiden-pakistan
+- presiden-soeharto
+- sekjen-deplu
+- sm-yusuf
+- toleransi-agama
+- yogyakarta
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-26-presiden-soeharto-pertentangan-agama-tidak-sesuai-kemurnian-pancasila/
+  judul: '1968-09-26 Presiden Soeharto: Pertentangan Agama Tidak Sesuai Kemurnian
+    Pancasila'
+  tanggal: '1968-09-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-26-presiden-soeharto-pertentangan-agama-tidak-sesuai-kemurnian-pancasila/
 ---
+
 
 # 1968-09-26 Presiden Soeharto: Pertentangan Agama Tidak Sesuai Kemurnian Pancasila
 

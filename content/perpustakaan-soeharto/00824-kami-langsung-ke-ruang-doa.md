@@ -1,9 +1,36 @@
 ---
-title: "Kami Langsung Ke Ruang Do’a – HM Soeharto"
-source: "https://soehartolibrary.id/kami-langsung-ke-ruang-doa/"
-date: "2013-07-22T23:51:58+07:00"
+title: Kami Langsung Ke Ruang Do’a
+description: Bapak Soeharto, yang ananda kasihi, ananda adalah salah seorang anak
+  Indonesia yang lahir di masa Orde Pembangunan yang Bapak pimpin. Ananda bersyukur
+  dapat mengecap pendidikan sampai pada saat ini, dan terus berdoa untuk perjalanan...
+date: '2013-07-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: kami-langsung-ke-ruang-doa
+aliases:
+- Kami Langsung Ke Ruang Do’a – HM Soeharto
+tags:
+- orde-baru
+- orde-pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- ruang-doa
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/kami-langsung-ke-ruang-doa/
+  judul: Kami Langsung Ke Ruang Do’a
+  tanggal: '2013-07-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/kami-langsung-ke-ruang-doa/
 ---
+
 
 # Kami Langsung Ke Ruang Do’a
 

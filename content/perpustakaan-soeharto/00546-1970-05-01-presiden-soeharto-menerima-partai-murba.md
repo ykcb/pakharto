@@ -1,9 +1,38 @@
 ---
-title: "1970-05-01 Presiden Soeharto Menerima Partai Murba – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-01-presiden-soeharto-menerima-partai-murba/"
-date: "2014-03-22T02:53:42+07:00"
+title: 1970-05-01 Presiden Soeharto Menerima Partai Murba
+description: JUM’AT, 1 MEI 1970, Presiden Soeharto hari ini menerima pimpinan partai
+  Murba di Istana Merdeka. Sebgaimana halnya ketika menerima pimpinan PN minggu lalu,
+  pada kesempatan inipun Jenderal Soeharto mengingatkan bahwa sampai kini belum...
+date: '1970-05-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-01-presiden-soeharto-menerima-partai-murba
+aliases:
+- Presiden Soeharto Menerima Partai Murba
+- 1970-05-01 Presiden Soeharto Menerima Partai Murba – HM Soeharto
+tags:
+- murba
+- orde-baru
+- partai
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-01-presiden-soeharto-menerima-partai-murba/
+  judul: 1970-05-01 Presiden Soeharto Menerima Partai Murba
+  tanggal: '1970-05-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-01-presiden-soeharto-menerima-partai-murba/
 ---
+
 
 # 1970-05-01 Presiden Soeharto Menerima Partai Murba
 

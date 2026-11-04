@@ -1,9 +1,40 @@
 ---
-title: "Sketsa Banjir Darah ala PKI (Partai Komunis Indonesia) – HM Soeharto"
-source: "https://soehartolibrary.id/sketsa-banjir-darah-ala-pki-partai-komunis-indonesia/"
-date: "2014-04-23T09:11:02+07:00"
+title: Sketsa Banjir Darah ala PKI (Partai Komunis Indonesia)
+description: “Sejak awal Kemerdekaan, PKI telah melakukan serangkaian pembantaian
+  di banyak wilayah RI. Mereka tidak segan membunuh untuk merebut kekuasaan. Bukti-bukti
+  otentik kekejaman PKI sesungguhnya sudah tidak terbantahkan. Inilah sejarah...
+date: '2014-04-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: sketsa-banjir-darah-ala-pki-partai-komunis-indonesia
+aliases:
+- Sketsa Banjir Darah ala PKI (Partai Komunis Indonesia) – HM Soeharto
+tags:
+- aidit
+- g-30-spki
+- komunis
+- lenin
+- mao-tse-tung
+- orde-baru
+- perpustakaan-soeharto
+- pki
+- stalin
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/sketsa-banjir-darah-ala-pki-partai-komunis-indonesia/
+  judul: Sketsa Banjir Darah ala PKI (Partai Komunis Indonesia)
+  tanggal: '2014-04-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/sketsa-banjir-darah-ala-pki-partai-komunis-indonesia/
 ---
+
 
 # Sketsa Banjir Darah ala PKI (Partai Komunis Indonesia)
 

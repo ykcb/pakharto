@@ -1,9 +1,44 @@
 ---
-title: "1969-04-24 Presiden Soeharto: Teknologi Untuk Memerangi Kemelaratan dan Kemiskinan – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-24-presiden-soeharto-teknologi-untuk-memerangi-kemelaratan-dan-kemiskinan/"
-date: "2014-03-21T23:33:10+07:00"
+title: '1969-04-24 Presiden Soeharto: Teknologi Untuk Memerangi Kemelaratan dan Kemiskinan'
+description: KAMIS, 24 APRIL 1969, Presiden yang didampingi oleh Ibu Tien Soeharto
+  pagi ini menyaksikan demonstrasi penggunaan kendaraan serbaguna “KID”, yang dapat
+  dipakai untuk pertanian, bertempat di Kompleks Lembaga Pusat Hortikultura di Pasar...
+date: '1969-04-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-24-presiden-soeharto-teknologi-untuk-memerangi-kemelaratan-dan-kemiskinan
+aliases:
+- 'Presiden Soeharto: Teknologi Untuk Memerangi Kemelaratan dan Kemiskinan'
+- '1969-04-24 Presiden Soeharto: Teknologi Untuk Memerangi Kemelaratan dan Kemiskinan
+  – HM Soeharto'
+tags:
+- jenderal-soeharto
+- kemelaratan
+- kemiskinan
+- kid
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- petani
+- presiden-soeharto
+- teknologi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-24-presiden-soeharto-teknologi-untuk-memerangi-kemelaratan-dan-kemiskinan/
+  judul: '1969-04-24 Presiden Soeharto: Teknologi Untuk Memerangi Kemelaratan dan
+    Kemiskinan'
+  tanggal: '1969-04-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-24-presiden-soeharto-teknologi-untuk-memerangi-kemelaratan-dan-kemiskinan/
 ---
+
 
 # 1969-04-24 Presiden Soeharto: Teknologi Untuk Memerangi Kemelaratan dan Kemiskinan
 

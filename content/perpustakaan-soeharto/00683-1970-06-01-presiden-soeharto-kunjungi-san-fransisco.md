@@ -1,9 +1,41 @@
 ---
-title: "1970-06-01 Presiden Soeharto Kunjungi San Fransisco – HM Soeharto"
-source: "https://soehartolibrary.id/1970-06-01-presiden-soeharto-kunjungi-san-fransisco/"
-date: "2017-08-25T15:37:14+07:00"
+title: 1970-06-01 Presiden Soeharto Kunjungi San Fransisco
+description: Senin, 1 Juni 1970, Presiden Soeharto dan rombongan yang tiba di San
+  Francisco kemarin, pagi ini meninjau pelabuhan Oakland, San Francisco. Pelabuhan
+  ini merupakan pelabuhan container kedua terbesar di AS, setelah New York. Dalam...
+date: '1970-06-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-06-01-presiden-soeharto-kunjungi-san-fransisco
+aliases:
+- Presiden Soeharto Kunjungi San Fransisco
+- 1970-06-01 Presiden Soeharto Kunjungi San Fransisco – HM Soeharto
+tags:
+- asia
+- mix-farming
+- oakland
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- san-fransisco
+- stanislaus
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-06-01-presiden-soeharto-kunjungi-san-fransisco/
+  judul: 1970-06-01 Presiden Soeharto Kunjungi San Fransisco
+  tanggal: '1970-06-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-06-01-presiden-soeharto-kunjungi-san-fransisco/
 ---
+
 
 # 1970-06-01 Presiden Soeharto Kunjungi San Fransisco
 

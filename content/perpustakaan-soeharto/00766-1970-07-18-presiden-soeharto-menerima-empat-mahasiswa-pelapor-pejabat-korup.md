@@ -1,9 +1,40 @@
 ---
-title: "1970-07-18 Presiden Soeharto Menerima Empat Mahasiswa Pelapor Pejabat Korup – HM Soeharto"
-source: "https://soehartolibrary.id/1970-07-18-presiden-soeharto-menerima-empat-mahasiswa-pelapor-pejabat-korup/"
-date: "2017-08-25T15:31:42+07:00"
+title: 1970-07-18 Presiden Soeharto Menerima Empat Mahasiswa Pelapor Pejabat Korup
+description: SABTU, 18 Juli 1970. Setelah Presiden Soeharto mengumumkan kesediaannya
+  untuk menyediakan waktu bagi para mahasiswa yang akan melaporkan tentang korupsi,
+  maka hari ini empat orang mahasiswa Jakarta telah menghadapnya. Mereka...
+date: '1970-07-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-07-18-presiden-soeharto-menerima-empat-mahasiswa-pelapor-pejabat-korup
+aliases:
+- Presiden Soeharto Menerima Empat Mahasiswa Pelapor Pejabat Korup
+- 1970-07-18 Presiden Soeharto Menerima Empat Mahasiswa Pelapor Pejabat Korup – HM
+  Soeharto
+tags:
+- jenderal-soeharto
+- korupsi
+- mahasiswa
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-07-18-presiden-soeharto-menerima-empat-mahasiswa-pelapor-pejabat-korup/
+  judul: 1970-07-18 Presiden Soeharto Menerima Empat Mahasiswa Pelapor Pejabat Korup
+  tanggal: '1970-07-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-07-18-presiden-soeharto-menerima-empat-mahasiswa-pelapor-pejabat-korup/
 ---
+
 
 # 1970-07-18 Presiden Soeharto Menerima Empat Mahasiswa Pelapor Pejabat Korup
 

@@ -1,9 +1,40 @@
 ---
-title: "Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 1) – HM Soeharto"
-source: "https://soehartolibrary.id/ali-alatas-kemantapan-dalam-kesimbangan-bagian-1/"
-date: "2014-11-25T12:39:24+07:00"
+title: 'Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 1)'
+description: 26 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/ali-alatas-kemantapan-dalam-kesimbangan-bagian-1/respond)
+  103 Views Share on
+date: '2014-11-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: ali-alatas-kemantapan-dalam-kesimbangan-bagian-1
+aliases:
+- 'Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 1) – HM
+  Soeharto'
+tags:
+- adam-malik
+- ali-alatas
+- iggi
+- multilateral
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- utara-selatan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/ali-alatas-kemantapan-dalam-kesimbangan-bagian-1/
+  judul: 'Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 1)'
+  tanggal: '2014-11-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/ali-alatas-kemantapan-dalam-kesimbangan-bagian-1/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/84610004_result.jpg)
 

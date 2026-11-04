@@ -1,9 +1,38 @@
 ---
-title: "1968-10-19 Presiden Soeharto Temui Tokoh-Tokoh Kalimantan Tengah – HM Soeharto"
-source: "https://soehartolibrary.id/1968-10-19-presiden-soeharto-temui-tokoh-tokoh-kalimantan-tengah/"
-date: "2014-04-01T02:09:52+07:00"
+title: 1968-10-19 Presiden Soeharto Temui Tokoh-Tokoh Kalimantan Tengah
+description: 3 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-10-19-presiden-soeharto-temui-tokoh-tokoh-kalimantan-tengah/respond)
+  199 Views Share on
+date: '1968-10-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-10-19-presiden-soeharto-temui-tokoh-tokoh-kalimantan-tengah
+aliases:
+- Presiden Soeharto Temui Tokoh-Tokoh Kalimantan Tengah
+- 1968-10-19 Presiden Soeharto Temui Tokoh-Tokoh Kalimantan Tengah – HM Soeharto
+tags:
+- kalimantan-tengah
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- proyek-pasang-surut
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-10-19-presiden-soeharto-temui-tokoh-tokoh-kalimantan-tengah/
+  judul: 1968-10-19 Presiden Soeharto Temui Tokoh-Tokoh Kalimantan Tengah
+  tanggal: '1968-10-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-10-19-presiden-soeharto-temui-tokoh-tokoh-kalimantan-tengah/
 ---
+
 
 # 1968-10-19 Presiden Soeharto Temui Tokoh-Tokoh Kalimantan Tengah
 

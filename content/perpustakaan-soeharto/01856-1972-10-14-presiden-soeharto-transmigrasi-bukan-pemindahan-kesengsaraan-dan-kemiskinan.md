@@ -1,9 +1,43 @@
 ---
-title: "1972-10-14 Presiden Soeharto: Transmigrasi Bukan Pemindahan Kesengsaraan dan Kemiskinan – HM Soeharto"
-source: "https://soehartolibrary.id/1972-10-14-presiden-soeharto-transmigrasi-bukan-pemindahan-kesengsaraan-dan-kemiskinan/"
-date: "2014-12-01T16:09:45+07:00"
+title: '1972-10-14 Presiden Soeharto: Transmigrasi Bukan Pemindahan Kesengsaraan dan
+  Kemiskinan'
+description: 10 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-10-14-presiden-soeharto-transmigrasi-bukan-pemindahan-kesengsaraan-dan-kemiskinan/respond)
+  115 Views Share on
+date: '1972-10-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-10-14-presiden-soeharto-transmigrasi-bukan-pemindahan-kesengsaraan-dan-kemiskinan
+aliases:
+- 'Presiden Soeharto: Transmigrasi Bukan Pemindahan Kesengsaraan dan Kemiskinan'
+- '1972-10-14 Presiden Soeharto: Transmigrasi Bukan Pemindahan Kesengsaraan dan Kemiskinan
+  – HM Soeharto'
+tags:
+- dki
+- kepala-negara
+- kunjungan-mendadak
+- orde-baru
+- pasar
+- perpustakaan-soeharto
+- presiden-soeharto
+- transmigrasi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-10-14-presiden-soeharto-transmigrasi-bukan-pemindahan-kesengsaraan-dan-kemiskinan/
+  judul: '1972-10-14 Presiden Soeharto: Transmigrasi Bukan Pemindahan Kesengsaraan
+    dan Kemiskinan'
+  tanggal: '1972-10-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-10-14-presiden-soeharto-transmigrasi-bukan-pemindahan-kesengsaraan-dan-kemiskinan/
 ---
+
 
 # 1972-10-14 Presiden Soeharto: Transmigrasi Bukan Pemindahan Kesengsaraan dan Kemiskinan
 

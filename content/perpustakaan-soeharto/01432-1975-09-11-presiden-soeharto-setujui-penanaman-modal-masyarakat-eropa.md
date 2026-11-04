@@ -1,9 +1,47 @@
 ---
-title: "1975-09-11 Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa – HM Soeharto"
-source: "https://soehartolibrary.id/1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa/"
-date: "2017-08-23T10:49:51+07:00"
+title: 1975-09-11 Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa
+description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa/respond)
+  96 Views Share on
+date: '1975-09-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa
+aliases:
+- Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa
+- 1975-09-11 Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa – HM Soeharto
+tags:
+- belgia
+- duta-besar
+- eropa
+- frans-seda
+- kacang-kedelai
+- luxemburg
+- menteri-negara-ekuin
+- menteri-perdagangan
+- orde-baru
+- pakan-ternak
+- perpustakaan-soeharto
+- presiden-soeharto
+- radius-prawiro
+- transmigrasi
+- widjojo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa/
+  judul: 1975-09-11 Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa
+  tanggal: '1975-09-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa/
 ---
+
 
 # 1975-09-11 Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa
 

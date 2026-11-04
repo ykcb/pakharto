@@ -1,9 +1,41 @@
 ---
-title: "1977-04-11 Presiden Soeharto Menerima Habibie, Gubernur BI dan Menpan – HM Soeharto"
-source: "https://soehartolibrary.id/1977-04-11-presiden-soeharto-menerima-habibie-gubernur-bi-dan-menpan/"
-date: "2017-08-30T14:15:31+07:00"
+title: 1977-04-11 Presiden Soeharto Menerima Habibie, Gubernur BI dan Menpan
+description: SENIN, 11 April 1977, Prof. Dr. Habibie dalam kedudukannya sebagai penasihat
+  bidang teknologi Presiden, siang hari ini di Jalan Cendana, Jakarta, telah melaporkan
+  kepada Presiden Soeharto mengenai perkembangan teknologi di Indonesia....
+date: '1977-04-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-04-11-presiden-soeharto-menerima-habibie-gubernur-bi-dan-menpan
+aliases:
+- Presiden Soeharto Menerima Habibie, Gubernur BI dan Menpan
+- 1977-04-11 Presiden Soeharto Menerima Habibie, Gubernur BI dan Menpan – HM Soeharto
+tags:
+- cendana
+- gubernur-bi
+- habibie
+- menpan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rachmat-saleh
+- sumarlin
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-04-11-presiden-soeharto-menerima-habibie-gubernur-bi-dan-menpan/
+  judul: 1977-04-11 Presiden Soeharto Menerima Habibie, Gubernur BI dan Menpan
+  tanggal: '1977-04-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-04-11-presiden-soeharto-menerima-habibie-gubernur-bi-dan-menpan/
 ---
+
 
 # 1977-04-11 Presiden Soeharto Menerima Habibie, Gubernur BI dan Menpan
 

@@ -1,9 +1,39 @@
 ---
-title: "1971-08-05 Presiden Soeharto Hadiri Kongres Subud Se-Dunia – HM Soeharto"
-source: "https://soehartolibrary.id/1971-08-05-presiden-soeharto-hadiri-kongres-subud-se-dunia/"
-date: "2017-08-24T15:11:26+07:00"
+title: 1971-08-05 Presiden Soeharto Hadiri Kongres Subud Se-Dunia
+description: KAMIS, 5 AGUSTUS 1971, Jam 10.00 pagi ini Presiden bersama Ibu Tien Soeharto
+  menghadiri Kongres Subud Seluruh Dunia ke-4 yang diadakan di Jakarta. Dalam amanatnya
+  Presiden Soeharto antara lain mengatakan bahwa kematangan jiwa yang...
+date: '1971-08-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-08-05-presiden-soeharto-hadiri-kongres-subud-se-dunia
+aliases:
+- Presiden Soeharto Hadiri Kongres Subud Se-Dunia
+- 1971-08-05 Presiden Soeharto Hadiri Kongres Subud Se-Dunia – HM Soeharto
+tags:
+- agama
+- aliran-kepercayaan
+- kematangan-jiwa
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- subud
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-08-05-presiden-soeharto-hadiri-kongres-subud-se-dunia/
+  judul: 1971-08-05 Presiden Soeharto Hadiri Kongres Subud Se-Dunia
+  tanggal: '1971-08-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-08-05-presiden-soeharto-hadiri-kongres-subud-se-dunia/
 ---
+
 
 # 1971-08-05 Presiden Soeharto Hadiri Kongres Subud Se-Dunia
 

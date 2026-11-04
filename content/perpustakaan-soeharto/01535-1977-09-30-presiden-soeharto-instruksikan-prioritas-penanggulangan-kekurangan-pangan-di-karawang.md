@@ -1,9 +1,41 @@
 ---
-title: "1977-09-30 Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan Pangan di Karawang – HM Soeharto"
-source: "https://soehartolibrary.id/1977-09-30-presiden-soeharto-instruksikan-prioritas-penanggulangan-kekurangan-pangan-di-karawang/"
-date: "2017-08-22T16:10:40+07:00"
+title: 1977-09-30 Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan
+  Pangan di Karawang
+description: 22 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1977-09-30-presiden-soeharto-instruksikan-prioritas-penanggulangan-kekurangan-pangan-di-karawang/respond)
+  150 Views...
+date: '1977-09-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-09-30-presiden-soeharto-instruksikan-prioritas-penanggulangan-kekurangan-pangan-di-karawang
+aliases:
+- Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan Pangan di Karawang
+- 1977-09-30 Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan Pangan
+  di Karawang – HM Soeharto
+tags:
+- kawarang
+- orde-baru
+- pangan
+- perpustakaan-soeharto
+- presiden-soeharto
+- solihin-gp
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-09-30-presiden-soeharto-instruksikan-prioritas-penanggulangan-kekurangan-pangan-di-karawang/
+  judul: 1977-09-30 Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan
+    Pangan di Karawang
+  tanggal: '1977-09-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-09-30-presiden-soeharto-instruksikan-prioritas-penanggulangan-kekurangan-pangan-di-karawang/
 ---
+
 
 # 1977-09-30 Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan Pangan di Karawang
 

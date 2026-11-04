@@ -1,9 +1,42 @@
 ---
-title: "1970-10-29 Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan Dan Cambuk Instrospeksi – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-29-presiden-soeharto-sorotan-kepada-abri-merupakan-risiko-perjuangan-dan-cambuk-instrospeksi/"
-date: "2014-12-01T16:23:45+07:00"
+title: '1970-10-29 Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan
+  Dan Cambuk Instrospeksi'
+description: 8 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-29-presiden-soeharto-sorotan-kepada-abri-merupakan-risiko-perjuangan-dan-cambuk-instrospeksi/respond)
+  92 Views...
+date: '1970-10-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-29-presiden-soeharto-sorotan-kepada-abri-merupakan-risiko-perjuangan-dan-cambuk-instrospeksi
+aliases:
+- 'Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan Dan Cambuk Instrospeksi'
+- '1970-10-29 Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan Dan
+  Cambuk Instrospeksi – HM Soeharto'
+tags:
+- abri
+- kepala-negara
+- kodam-xlambung-mangkurat
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- samkarya-nugraha
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-29-presiden-soeharto-sorotan-kepada-abri-merupakan-risiko-perjuangan-dan-cambuk-instrospeksi/
+  judul: '1970-10-29 Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan
+    Dan Cambuk Instrospeksi'
+  tanggal: '1970-10-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-29-presiden-soeharto-sorotan-kepada-abri-merupakan-risiko-perjuangan-dan-cambuk-instrospeksi/
 ---
+
 
 # 1970-10-29 Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan Dan Cambuk Instrospeksi
 

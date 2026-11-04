@@ -1,9 +1,39 @@
 ---
-title: "Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN – HM Soeharto"
-source: "https://soehartolibrary.id/ryutaro-hashimoto-peran-besar-sebagai-pemimpin-asean/"
-date: "2013-07-28T02:25:07+07:00"
+title: 'Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN'
+description: Beberapa saat yang lalu, saya memutuskan untuk mengundurkan diri dari
+  jabatan Perdana Menteri Jepang. Saya ingin menyampaikan rasa terima kasih dari lubuk
+  hati saya yang paling dalam atas kebaikan hati dan kehormatan yang selama ini...
+date: '2013-07-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: ryutaro-hashimoto-peran-besar-sebagai-pemimpin-asean
+aliases:
+- 'Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN – HM Soeharto'
+tags:
+- bapak-pembangunan
+- kestabilan-internasional
+- orde-baru
+- perdana-menteri-jepang
+- perpustakaan-soeharto
+- pimpinan-asean
+- presiden-soeharto
+- ryutaro-hashimoto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/ryutaro-hashimoto-peran-besar-sebagai-pemimpin-asean/
+  judul: 'Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN'
+  tanggal: '2013-07-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/ryutaro-hashimoto-peran-besar-sebagai-pemimpin-asean/
 ---
+
 
 # Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN
 

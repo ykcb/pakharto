@@ -1,9 +1,37 @@
 ---
-title: "1976-03-27 Presiden Soeharto Lantik Enam Duta Besar Baru – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-27-presiden-soeharto-lantik-enam-duta-besar-baru/"
-date: "2017-08-29T17:37:37+07:00"
+title: 1976-03-27 Presiden Soeharto Lantik Enam Duta Besar Baru
+description: SABTU, 27 MARET 1976, Enam orang Duta Besar baru dilantik oleh Kepala
+  Negara pukul 09.00 pagi ini di Istana Merdeka. Keenam duta besar itu adalah Duta
+  besar Adlinsyah Jenie untuk Sri Lanka, Duta Besar Utayo Sutoto untuk Suriname, Duta...
+date: '1976-03-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-27-presiden-soeharto-lantik-enam-duta-besar-baru
+aliases:
+- Presiden Soeharto Lantik Enam Duta Besar Baru
+- 1976-03-27 Presiden Soeharto Lantik Enam Duta Besar Baru – HM Soeharto
+tags:
+- asean
+- duta-besar
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-27-presiden-soeharto-lantik-enam-duta-besar-baru/
+  judul: 1976-03-27 Presiden Soeharto Lantik Enam Duta Besar Baru
+  tanggal: '1976-03-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-27-presiden-soeharto-lantik-enam-duta-besar-baru/
 ---
+
 
 # 1976-03-27 Presiden Soeharto Lantik Enam Duta Besar Baru
 

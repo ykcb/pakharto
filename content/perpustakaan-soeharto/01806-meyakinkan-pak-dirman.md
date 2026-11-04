@@ -1,9 +1,36 @@
 ---
-title: "Meyakinkan Pak Dirman – HM Soeharto"
-source: "https://soehartolibrary.id/meyakinkan-pak-dirman/"
-date: "2018-01-10T19:11:48+07:00"
+title: Meyakinkan Pak Dirman
+description: 8 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/meyakinkan-pak-dirman/respond) 220 Views
+  Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: meyakinkan-pak-dirman
+aliases:
+- Meyakinkan Pak Dirman – HM Soeharto
+tags:
+- jenderal-soedirman
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/meyakinkan-pak-dirman/
+  judul: Meyakinkan Pak Dirman
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/meyakinkan-pak-dirman/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0409_result.jpg)
 

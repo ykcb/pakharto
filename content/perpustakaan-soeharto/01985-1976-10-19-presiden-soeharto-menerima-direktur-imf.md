@@ -1,9 +1,37 @@
 ---
-title: "1976-10-19 Presiden Soeharto Menerima Direktur IMF – HM Soeharto"
-source: "https://soehartolibrary.id/1976-10-19-presiden-soeharto-menerima-direktur-imf/"
-date: "2014-06-13T18:48:24+07:00"
+title: 1976-10-19 Presiden Soeharto Menerima Direktur IMF
+description: 19 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-10-19-presiden-soeharto-menerima-direktur-imf/respond)
+  123 Views Share on
+date: '1976-10-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-10-19-presiden-soeharto-menerima-direktur-imf
+aliases:
+- Presiden Soeharto Menerima Direktur IMF
+- 1976-10-19 Presiden Soeharto Menerima Direktur IMF – HM Soeharto
+tags:
+- direktur-imf
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- persiden-soeharto
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-10-19-presiden-soeharto-menerima-direktur-imf/
+  judul: 1976-10-19 Presiden Soeharto Menerima Direktur IMF
+  tanggal: '1976-10-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-10-19-presiden-soeharto-menerima-direktur-imf/
 ---
+
 
 # 1976-10-19 Presiden Soeharto Menerima Direktur IMF
 

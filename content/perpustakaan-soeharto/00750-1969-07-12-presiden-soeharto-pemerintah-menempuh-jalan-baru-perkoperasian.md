@@ -1,9 +1,40 @@
 ---
-title: "1969-07-12 Presiden Soeharto: Pemerintah Menempuh “Jalan Baru” Perkoperasian – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-12-presiden-soeharto-pemerintah-menempuh-jalan-baru-perkoperasian/"
-date: "2017-08-24T15:23:47+07:00"
+title: '1969-07-12 Presiden Soeharto: Pemerintah Menempuh “Jalan Baru” Perkoperasian'
+description: SABTU, 12 Juli 1969. Presiden Soeharto mengatakan bahwa akhir-akhir ini
+  terdapat kekeliruan pandangan mengenai kebijaksanaan pemerintah pada umumnya dan
+  kedudukan koperasi pada khususnya. Ia mengungkapkan bahwa sejak 1966 kita menempuh...
+date: '1969-07-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-12-presiden-soeharto-pemerintah-menempuh-jalan-baru-perkoperasian
+aliases:
+- 'Presiden Soeharto: Pemerintah Menempuh “Jalan Baru” Perkoperasian'
+- '1969-07-12 Presiden Soeharto: Pemerintah Menempuh “Jalan Baru” Perkoperasian –
+  HM Soeharto'
+tags:
+- hari-koperasi
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perkoperasian
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-12-presiden-soeharto-pemerintah-menempuh-jalan-baru-perkoperasian/
+  judul: '1969-07-12 Presiden Soeharto: Pemerintah Menempuh “Jalan Baru” Perkoperasian'
+  tanggal: '1969-07-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-12-presiden-soeharto-pemerintah-menempuh-jalan-baru-perkoperasian/
 ---
+
 
 # 1969-07-12 Presiden Soeharto: Pemerintah Menempuh “Jalan Baru” Perkoperasian
 

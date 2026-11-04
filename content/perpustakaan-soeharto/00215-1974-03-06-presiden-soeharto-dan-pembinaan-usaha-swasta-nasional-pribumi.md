@@ -1,9 +1,40 @@
 ---
-title: "1974-03-06 Presiden Soeharto dan Pembinaan Usaha Swasta Nasional Pribumi – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-06-presiden-soeharto-dan-pembinaan-usaha-swasta-nasional-pribumi/"
-date: "2014-03-22T03:04:36+07:00"
+title: 1974-03-06 Presiden Soeharto dan Pembinaan Usaha Swasta Nasional Pribumi
+description: RABU, 6 Maret 1974, Pimpinan DPR diterima oleh Presiden Soeharto di Bina
+  Graha pagi hari. Pada kesempatan itu pimpinan DPR telah menyampaikan tanggapan,
+  pandangan dan saran-saran DPR serta fraksi-fraksi mengenai Repelita II, sesuai...
+date: '1974-03-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-06-presiden-soeharto-dan-pembinaan-usaha-swasta-nasional-pribumi
+aliases:
+- Presiden Soeharto dan Pembinaan Usaha Swasta Nasional Pribumi
+- 1974-03-06 Presiden Soeharto dan Pembinaan Usaha Swasta Nasional Pribumi – HM Soeharto
+tags:
+- bank
+- dpr
+- kadin
+- orde-baru
+- pengusaha
+- perpustakaan-soeharto
+- presiden-soeharto
+- pribumi
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-06-presiden-soeharto-dan-pembinaan-usaha-swasta-nasional-pribumi/
+  judul: 1974-03-06 Presiden Soeharto dan Pembinaan Usaha Swasta Nasional Pribumi
+  tanggal: '1974-03-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-06-presiden-soeharto-dan-pembinaan-usaha-swasta-nasional-pribumi/
 ---
+
 
 # 1974-03-06 Presiden Soeharto dan Pembinaan Usaha Swasta Nasional Pribumi
 

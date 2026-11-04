@@ -1,9 +1,39 @@
 ---
-title: "1974-04-01 Presiden Soeharto Membuka Konferensi PATA Ke-23 – HM Soeharto"
-source: "https://soehartolibrary.id/1974-04-01-presiden-soeharto-membuka-konferensi-pata-ke-23/"
-date: "2017-08-28T16:52:39+07:00"
+title: 1974-04-01 Presiden Soeharto Membuka Konferensi PATA Ke-23
+description: SENIN, 1 April 1974, pada jam 09.00 pagi ini bertempat di Convention
+  Hall (Balai Sidang) Jakarta, Presiden Soeharto secara resmi membuka Konferensi PATA
+  ke-23. Pada kesempatan ini, selain mengucapkan selamat datang kepada para peserta...
+date: '1974-04-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-04-01-presiden-soeharto-membuka-konferensi-pata-ke-23
+aliases:
+- Presiden Soeharto Membuka Konferensi PATA Ke-23
+- 1974-04-01 Presiden Soeharto Membuka Konferensi PATA Ke-23 – HM Soeharto
+tags:
+- convention-hall
+- jakarta
+- konferensi
+- orde-baru
+- pata
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-04-01-presiden-soeharto-membuka-konferensi-pata-ke-23/
+  judul: 1974-04-01 Presiden Soeharto Membuka Konferensi PATA Ke-23
+  tanggal: '1974-04-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-04-01-presiden-soeharto-membuka-konferensi-pata-ke-23/
 ---
+
 
 # 1974-04-01 Presiden Soeharto Membuka Konferensi PATA Ke-23
 

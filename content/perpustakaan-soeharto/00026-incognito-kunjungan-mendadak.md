@@ -1,9 +1,38 @@
 ---
-title: "INCOGNITO (KUNJUNGAN MENDADAK) – HM Soeharto"
-source: "https://soehartolibrary.id/incognito-kunjungan-mendadak/"
-date: "2013-02-23T04:06:58+07:00"
+title: INCOGNITO (KUNJUNGAN MENDADAK)
+description: Presiden Soeharto sering melakukan incognito, kunjungan langsung kepada
+  masyarakat tanpa pemberitahuan sebelumnya. Kunjungan itu terkadang hanya diiringi
+  oleh ajudan tanpa rombongan besar. Masyarakat yang dikunjungi juga tidak...
+date: '2013-02-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: incognito-kunjungan-mendadak
+aliases:
+- INCOGNITO (KUNJUNGAN MENDADAK) – HM Soeharto
+tags:
+- incognito
+- kunjungan
+- masyarakat
+- membaur
+- mendadak
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/incognito-kunjungan-mendadak/
+  judul: INCOGNITO (KUNJUNGAN MENDADAK)
+  tanggal: '2013-02-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/incognito-kunjungan-mendadak/
 ---
+
 
 ![Incognito, Membaur, Masyarakat](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b446.jpg)
 

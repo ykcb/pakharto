@@ -1,9 +1,40 @@
 ---
-title: "1971-08-17 Presiden Soeharto: Pembangunan Perlu Imu, Pengabdian dan Keahlian – HM Soeharto"
-source: "https://soehartolibrary.id/1971-08-17-presiden-soeharto-pembangunan-perlu-imu-pengabdian-dan-keahlian/"
-date: "2017-08-24T15:10:23+07:00"
+title: '1971-08-17 Presiden Soeharto: Pembangunan Perlu Imu, Pengabdian dan Keahlian'
+description: SELASA, 17 AGUSTUS 1971, Upacara peringatan kemerdekaan RI yang ke-26
+  dilaksanakan di Istana Merdeka, Jakarta, dimana Presiden Soeharto bertindak sebagai
+  Inspektur Upacara. Upacara yang khidmat ini dihadiri oleh Ibu Tien Soeharto,...
+date: '1971-08-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-08-17-presiden-soeharto-pembangunan-perlu-imu-pengabdian-dan-keahlian
+aliases:
+- 'Presiden Soeharto: Pembangunan Perlu Imu, Pengabdian dan Keahlian'
+- '1971-08-17 Presiden Soeharto: Pembangunan Perlu Imu, Pengabdian dan Keahlian –
+  HM Soeharto'
+tags:
+- ilmu-pengabdian-dan-keahlian
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-08-17-presiden-soeharto-pembangunan-perlu-imu-pengabdian-dan-keahlian/
+  judul: '1971-08-17 Presiden Soeharto: Pembangunan Perlu Imu, Pengabdian dan Keahlian'
+  tanggal: '1971-08-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-08-17-presiden-soeharto-pembangunan-perlu-imu-pengabdian-dan-keahlian/
 ---
+
 
 # 1971-08-17 Presiden Soeharto: Pembangunan Perlu Imu, Pengabdian dan Keahlian
 

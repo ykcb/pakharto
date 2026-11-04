@@ -1,9 +1,35 @@
 ---
-title: "1974-03-15 Presiden Soeharto Kabulkan Permohonan Jenderal Soemitro – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-15-presiden-soeharto-kabulkan-permohonan-jenderal-soemitro/"
-date: "2014-03-22T03:01:50+07:00"
+title: 1974-03-15 Presiden Soeharto Kabulkan Permohonan Jenderal Soemitro
+description: Presiden Soeharto Kabulkan Permohonan Jenderal Soemitro(sdfootnote1sym)
+date: '1974-03-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-15-presiden-soeharto-kabulkan-permohonan-jenderal-soemitro
+aliases:
+- Presiden Soeharto Kabulkan Permohonan Jenderal Soemitro
+- 1974-03-15 Presiden Soeharto Kabulkan Permohonan Jenderal Soemitro – HM Soeharto
+tags:
+- jenderal
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- soemitro
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-15-presiden-soeharto-kabulkan-permohonan-jenderal-soemitro/
+  judul: 1974-03-15 Presiden Soeharto Kabulkan Permohonan Jenderal Soemitro
+  tanggal: '1974-03-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-15-presiden-soeharto-kabulkan-permohonan-jenderal-soemitro/
 ---
+
 
 # 1974-03-15 Presiden Soeharto Kabulkan Permohonan Jenderal Soemitro
 

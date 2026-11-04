@@ -1,9 +1,37 @@
 ---
-title: "Ke Arah Tangga Baru – HM Soeharto"
-source: "https://soehartolibrary.id/ke-arah-tangga-baru/"
-date: "2014-04-01T02:33:37+07:00"
+title: Ke Arah Tangga Baru
+description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/ke-arah-tangga-baru/respond) 141 Views Share
+  on
+date: '2014-04-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: ke-arah-tangga-baru
+aliases:
+- Ke Arah Tangga Baru – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- pejabat-presiden
+- perpustakaan-soeharto
+- presiden-soeharto
+- presiden-soekarno
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/ke-arah-tangga-baru/
+  judul: Ke Arah Tangga Baru
+  tanggal: '2014-04-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/ke-arah-tangga-baru/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0758_result.jpg)
 

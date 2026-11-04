@@ -1,9 +1,41 @@
 ---
-title: "1968-04-10 Presiden Soeharto Memimpin Sidang kabinet Lengkap – HM Soeharto"
-source: "https://soehartolibrary.id/1968-04-10-presiden-soeharto-memimpin-sidang-kabinet-lengkap/"
-date: "2014-03-22T03:01:31+07:00"
+title: 1968-04-10 Presiden Soeharto Memimpin Sidang kabinet Lengkap
+description: RABU, 10 APRIL 1968, Hari ini Presiden Soeharto memimpin sidang kabinet
+  lengkap. Dalam sidang tersebut Presiden telah menjelaskan maksud dan hasil kunjungan
+  ke luar negeri baru-baru ini, disamping membahas berbagai perkembangan di dalam...
+date: '1968-04-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-04-10-presiden-soeharto-memimpin-sidang-kabinet-lengkap
+aliases:
+- Presiden Soeharto Memimpin Sidang kabinet Lengkap
+- 1968-04-10 Presiden Soeharto Memimpin Sidang kabinet Lengkap – HM Soeharto
+tags:
+- jenderal-soeharto
+- jepang
+- kamboja
+- kunjungan-kenegaraan
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-04-10-presiden-soeharto-memimpin-sidang-kabinet-lengkap/
+  judul: 1968-04-10 Presiden Soeharto Memimpin Sidang kabinet Lengkap
+  tanggal: '1968-04-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-04-10-presiden-soeharto-memimpin-sidang-kabinet-lengkap/
 ---
+
 
 # 1968-04-10 Presiden Soeharto Memimpin Sidang kabinet Lengkap
 

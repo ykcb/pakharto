@@ -1,9 +1,41 @@
 ---
-title: "1979-09-22 Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen/"
-date: "2014-12-01T16:37:16+07:00"
+title: 1979-09-22 Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen
+description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen/respond)
+  76 Views Share on
+date: '1979-09-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen
+aliases:
+- Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen
+- 1979-09-22 Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen – HM
+  Soeharto
+tags:
+- gempa-bumi
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rumbia
+- sutran
+- yapenwaropen
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen/
+  judul: 1979-09-22 Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen
+  tanggal: '1979-09-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen/
 ---
+
 
 # 1979-09-22 Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen
 

@@ -1,9 +1,39 @@
 ---
-title: "1975-08-19 Presiden Soeharto Resmikan Gedung Pancasila Deplu – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-19-presiden-soeharto-resmikan-gedung-pancasila-deplu/"
-date: "2017-08-22T17:45:14+07:00"
+title: 1975-08-19 Presiden Soeharto Resmikan Gedung Pancasila Deplu
+description: 28 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-19-presiden-soeharto-resmikan-gedung-pancasila-deplu/respond)
+  124 Views Share on
+date: '1975-08-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-19-presiden-soeharto-resmikan-gedung-pancasila-deplu
+aliases:
+- Presiden Soeharto Resmikan Gedung Pancasila Deplu
+- 1975-08-19 Presiden Soeharto Resmikan Gedung Pancasila Deplu – HM Soeharto
+tags:
+- departemen-luar-negeri
+- deplu
+- gedung-pancasila
+- orde-baru
+- pejambon
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-19-presiden-soeharto-resmikan-gedung-pancasila-deplu/
+  judul: 1975-08-19 Presiden Soeharto Resmikan Gedung Pancasila Deplu
+  tanggal: '1975-08-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-19-presiden-soeharto-resmikan-gedung-pancasila-deplu/
 ---
+
 
 # 1975-08-19 Presiden Soeharto Resmikan Gedung Pancasila Deplu
 

@@ -1,9 +1,40 @@
 ---
-title: "1971-06-09 Presiden Soeharto Meresmikan Pasar Klewer Solo – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-09-presiden-soeharto-meresmikan-pasar-klewer-solo/"
-date: "2017-08-24T15:31:35+07:00"
+title: 1971-06-09 Presiden Soeharto Meresmikan Pasar Klewer Solo
+description: RABU, 9 Juni 1971, Setelah meresmikan tugu monumen Sri Mangkunegoro I
+  di makam raja-raja di Mangadeg, siang ini di Surakarta Presiden Soeharto meremikan
+  Pasar Klewer yang baru saja selesai pembangunannya. Memberikan amanat tanpa teks...
+date: '1971-06-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-09-presiden-soeharto-meresmikan-pasar-klewer-solo
+aliases:
+- Presiden Soeharto Meresmikan Pasar Klewer Solo
+- 1971-06-09 Presiden Soeharto Meresmikan Pasar Klewer Solo – HM Soeharto
+tags:
+- mangkunegoro-i
+- melu-handarbeni
+- melu-hangrungkebi
+- mulat-sarira-hangrasawani
+- orde-baru
+- pasal-klewer
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-09-presiden-soeharto-meresmikan-pasar-klewer-solo/
+  judul: 1971-06-09 Presiden Soeharto Meresmikan Pasar Klewer Solo
+  tanggal: '1971-06-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-09-presiden-soeharto-meresmikan-pasar-klewer-solo/
 ---
+
 
 # 1971-06-09 Presiden Soeharto Meresmikan Pasar Klewer Solo
 

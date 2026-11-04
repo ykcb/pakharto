@@ -1,9 +1,33 @@
 ---
-title: "Di Hormati  Seluruh ASEAN – HM Soeharto"
-source: "https://soehartolibrary.id/di-hormati-seluruh-asean/"
-date: "2014-03-21T23:26:26+07:00"
+title: Di Hormati  Seluruh ASEAN
+description: I wish to you express my sincere respect as well as my appreciation for
+  all you have accomplished during your precidency to strengthen relations between
+  Thailand and Indonesia. Your contribution towards the stability and prosperity of...
+date: '2014-03-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: di-hormati-seluruh-asean
+aliases:
+- Di Hormati  Seluruh ASEAN – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/di-hormati-seluruh-asean/
+  judul: Di Hormati  Seluruh ASEAN
+  tanggal: '2014-03-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/di-hormati-seluruh-asean/
 ---
+
 
 # Di Hormati Seluruh ASEAN
 

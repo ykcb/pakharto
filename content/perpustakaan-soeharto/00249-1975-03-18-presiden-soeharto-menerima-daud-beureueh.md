@@ -1,9 +1,37 @@
 ---
-title: "1975-03-18 Presiden Soeharto Menerima Daud Beureueh – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-18-presiden-soeharto-menerima-daud-beureueh/"
-date: "2015-03-27T13:47:37+07:00"
+title: 1975-03-18 Presiden Soeharto Menerima Daud Beureueh
+description: SELASA, 18 MARET 1975, Presiden Soeharto pukul 09.00 pagi menerima Teungku
+  Muhammad Daud Beureueh, seorang ulama dan pemimpin Aceh yang sangat terkenal, di
+  ruang kerjanya di Bina Graha, tidak diketahui persoalan apa yang dibawa kepada...
+date: '1975-03-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-18-presiden-soeharto-menerima-daud-beureueh
+aliases:
+- Presiden Soeharto Menerima Daud Beureueh
+- 1975-03-18 Presiden Soeharto Menerima Daud Beureueh – HM Soeharto
+tags:
+- aceh
+- darul-islam
+- daud-beureueh
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-18-presiden-soeharto-menerima-daud-beureueh/
+  judul: 1975-03-18 Presiden Soeharto Menerima Daud Beureueh
+  tanggal: '1975-03-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-18-presiden-soeharto-menerima-daud-beureueh/
 ---
+
 
 # 1975-03-18 Presiden Soeharto Menerima Daud Beureueh
 

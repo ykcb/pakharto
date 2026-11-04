@@ -1,9 +1,39 @@
 ---
-title: "1975-03-03 Presiden Soeharto Menerima Delegasi Parlemen Perancis – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-03-presiden-soeharto-menerima-delegasi-parlemen-perancis/"
-date: "2017-08-29T17:40:59+07:00"
+title: 1975-03-03 Presiden Soeharto Menerima Delegasi Parlemen Perancis
+description: SENIN, 3 MARET 1975, bertepatan di Istana Merdeka pukul 09.00 pagi, Kepala
+  Negara telah menerima lima orang delegasi Parlemen Prancis yang dipimpin oleh Eduord
+  Schloesing. Pada kesempatan itu Presiden Soeharto mengadakan tukar menukar...
+date: '1975-03-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-03-presiden-soeharto-menerima-delegasi-parlemen-perancis
+aliases:
+- Presiden Soeharto Menerima Delegasi Parlemen Perancis
+- 1975-03-03 Presiden Soeharto Menerima Delegasi Parlemen Perancis – HM Soeharto
+tags:
+- amirmachmud
+- orde-baru
+- parlemen
+- perancis
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-03-presiden-soeharto-menerima-delegasi-parlemen-perancis/
+  judul: 1975-03-03 Presiden Soeharto Menerima Delegasi Parlemen Perancis
+  tanggal: '1975-03-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-03-presiden-soeharto-menerima-delegasi-parlemen-perancis/
 ---
+
 
 # 1975-03-03 Presiden Soeharto Menerima Delegasi Parlemen Perancis
 

@@ -1,9 +1,37 @@
 ---
-title: "1972-10-05 Presiden Soeharto Resmikan Museum Satria Mandala – HM Soeharto"
-source: "https://soehartolibrary.id/1972-10-05-presiden-soeharto-resmikan-museum-satria-mandala/"
-date: "2014-12-01T16:10:32+07:00"
+title: 1972-10-05 Presiden Soeharto Resmikan Museum Satria Mandala
+description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-10-05-presiden-soeharto-resmikan-museum-satria-mandala/respond)
+  99 Views Share on
+date: '1972-10-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-10-05-presiden-soeharto-resmikan-museum-satria-mandala
+aliases:
+- Presiden Soeharto Resmikan Museum Satria Mandala
+- 1972-10-05 Presiden Soeharto Resmikan Museum Satria Mandala – HM Soeharto
+tags:
+- kepala-negara
+- museum-satria-mandala
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-10-05-presiden-soeharto-resmikan-museum-satria-mandala/
+  judul: 1972-10-05 Presiden Soeharto Resmikan Museum Satria Mandala
+  tanggal: '1972-10-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-10-05-presiden-soeharto-resmikan-museum-satria-mandala/
 ---
+
 
 # 1972-10-05 Presiden Soeharto Resmikan Museum Satria Mandala
 

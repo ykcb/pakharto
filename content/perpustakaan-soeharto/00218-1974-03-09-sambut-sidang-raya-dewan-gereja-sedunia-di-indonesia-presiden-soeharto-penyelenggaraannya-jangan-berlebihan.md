@@ -1,9 +1,45 @@
 ---
-title: "1974-03-09 Sambut Sidang Raya Dewan Gereja Sedunia di Indonesia, Presiden Soeharto: Penyelenggaraannya Jangan Berlebihan – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-09-sambut-sidang-raya-dewan-gereja-sedunia-di-indonesia-presiden-soeharto-penyelenggaraannya-jangan-berlebihan/"
-date: "2017-08-29T17:39:51+07:00"
+title: '1974-03-09 Sambut Sidang Raya Dewan Gereja Sedunia di Indonesia, Presiden
+  Soeharto: Penyelenggaraannya Jangan Berlebihan'
+description: SABTU, 9 Maret 1974, Presiden Soeharto menyambut baik rencana diadakannya
+  Sidang Raya Dewan Gereja-Gereja Sedunia di Indonesia tahun depan. Hal ini diuangkapkan
+  oleh Menteri Negara Kesejahteraan Rakyat, Prof. Sunawar Sukawati SH, usai...
+date: '1974-03-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-09-sambut-sidang-raya-dewan-gereja-sedunia-di-indonesia-presiden-soeharto-penyelenggaraannya-jangan-berlebihan
+aliases:
+- 'Sambut Sidang Raya Dewan Gereja Sedunia di Indonesia, Presiden Soeharto: Penyelenggaraannya
+  Jangan Berlebihan'
+- '1974-03-09 Sambut Sidang Raya Dewan Gereja Sedunia di Indonesia, Presiden Soeharto:
+  Penyelenggaraannya Jangan Berlebihan – HM Soeharto'
+tags:
+- bina-graha
+- dewan
+- gereja
+- indonesia
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sedunia
+- sidang
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-09-sambut-sidang-raya-dewan-gereja-sedunia-di-indonesia-presiden-soeharto-penyelenggaraannya-jangan-berlebihan/
+  judul: '1974-03-09 Sambut Sidang Raya Dewan Gereja Sedunia di Indonesia, Presiden
+    Soeharto: Penyelenggaraannya Jangan Berlebihan'
+  tanggal: '1974-03-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-09-sambut-sidang-raya-dewan-gereja-sedunia-di-indonesia-presiden-soeharto-penyelenggaraannya-jangan-berlebihan/
 ---
+
 
 # 1974-03-09 Sambut Sidang Raya Dewan Gereja Sedunia di Indonesia, Presiden Soeharto: Penyelenggaraannya Jangan Berlebihan
 

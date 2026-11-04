@@ -1,9 +1,40 @@
 ---
-title: "1969-09-27 Jenderal Soeharto Tetapkan Kogar DKI di Bawah Menhankam/Pangab – HM Soeharto"
-source: "https://soehartolibrary.id/1969-09-27-jenderal-soeharto-tetapkan-kogar-dki-di-bawah-menhankampangab/"
-date: "2017-08-22T17:37:13+07:00"
+title: 1969-09-27 Jenderal Soeharto Tetapkan Kogar DKI di Bawah Menhankam/Pangab
+description: 4 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-09-27-jenderal-soeharto-tetapkan-kogar-dki-di-bawah-menhankampangab/respond)
+  91 Views Share on
+date: '1969-09-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-09-27-jenderal-soeharto-tetapkan-kogar-dki-di-bawah-menhankampangab
+aliases:
+- Jenderal Soeharto Tetapkan Kogar DKI di Bawah Menhankam/Pangab
+- 1969-09-27 Jenderal Soeharto Tetapkan Kogar DKI di Bawah Menhankam/Pangab – HM Soeharto
+tags:
+- dki
+- garnizum
+- hankam
+- jenderal-soeharto
+- kogar
+- komando
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-09-27-jenderal-soeharto-tetapkan-kogar-dki-di-bawah-menhankampangab/
+  judul: 1969-09-27 Jenderal Soeharto Tetapkan Kogar DKI di Bawah Menhankam/Pangab
+  tanggal: '1969-09-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-09-27-jenderal-soeharto-tetapkan-kogar-dki-di-bawah-menhankampangab/
 ---
+
 
 # 1969-09-27 Jenderal Soeharto Tetapkan Kogar DKI di Bawah Menhankam/Pangab
 

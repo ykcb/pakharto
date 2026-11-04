@@ -1,9 +1,45 @@
 ---
-title: "Reformasi, Jaringan Irigasi Terbengkalai – HM Soeharto"
-source: "https://soehartolibrary.id/reformasi-jaringan-irigasi-terbengkalai/"
-date: "2013-03-06T17:45:25+07:00"
+title: Reformasi, Jaringan Irigasi Terbengkalai
+description: Proyek pembangunan jaringan irigasi selama Orde Baru mampu mengairi 1,7
+  juta hektar lahan sawah. Tapi kini, 52 persen jaringan itu rusak dan sisanya hanya
+  mampu mengairi 800 ribu hektar.
+date: '2013-03-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: reformasi-jaringan-irigasi-terbengkalai
+aliases:
+- Reformasi, Jaringan Irigasi Terbengkalai – HM Soeharto
+tags:
+- alam
+- bendungan
+- desa-blinteng
+- durian-lingga
+- irigasi
+- langkat
+- namu
+- orde-baru
+- pangan
+- pangkal
+- pemandian
+- perpustakaan-soeharto
+- sira-sira
+- sumatera-utara
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/reformasi-jaringan-irigasi-terbengkalai/
+  judul: Reformasi, Jaringan Irigasi Terbengkalai
+  tanggal: '2013-03-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/reformasi-jaringan-irigasi-terbengkalai/
 ---
+
 
 # Reformasi, Jaringan Irigasi Terbengkalai
 

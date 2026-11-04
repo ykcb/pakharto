@@ -1,9 +1,37 @@
 ---
-title: "1970-02-06 Peran Umat Islam dalam Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-06-peran-umat-islam-dalam-pembangunan/"
-date: "2017-08-29T11:16:10+07:00"
+title: 1970-02-06 Peran Umat Islam dalam Pembangunan
+description: (Umat Islam Harus Mendalami Semangat Islam dan Menerapkan Ajaran-Ajaran
+  Itu dalam Lingkungan Masyarakat)
+date: '1970-02-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-06-peran-umat-islam-dalam-pembangunan
+aliases:
+- Peran Umat Islam dalam Pembangunan
+- 1970-02-06 Peran Umat Islam dalam Pembangunan – HM Soeharto
+tags:
+- islam
+- mayoritas
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- umat
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-06-peran-umat-islam-dalam-pembangunan/
+  judul: 1970-02-06 Peran Umat Islam dalam Pembangunan
+  tanggal: '1970-02-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-06-peran-umat-islam-dalam-pembangunan/
 ---
+
 
 # 1970-02-06 Peran Umat Islam dalam Pembangunan
 

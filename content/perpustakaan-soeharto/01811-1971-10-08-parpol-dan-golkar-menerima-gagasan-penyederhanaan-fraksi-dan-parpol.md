@@ -1,9 +1,39 @@
 ---
-title: "1971-10-08 Parpol dan Golkar Menerima Gagasan Penyederhanaan Fraksi dan Parpol – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-08-parpol-dan-golkar-menerima-gagasan-penyederhanaan-fraksi-dan-parpol/"
-date: "2014-12-01T16:22:24+07:00"
+title: 1971-10-08 Parpol dan Golkar Menerima Gagasan Penyederhanaan Fraksi dan Parpol
+description: 8 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-08-parpol-dan-golkar-menerima-gagasan-penyederhanaan-fraksi-dan-parpol/respond)
+  116 Views Share on
+date: '1971-10-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-08-parpol-dan-golkar-menerima-gagasan-penyederhanaan-fraksi-dan-parpol
+aliases:
+- Parpol dan Golkar Menerima Gagasan Penyederhanaan Fraksi dan Parpol
+- 1971-10-08 Parpol dan Golkar Menerima Gagasan Penyederhanaan Fraksi dan Parpol –
+  HM Soeharto
+tags:
+- golkar
+- kepala-negara
+- orde-baru
+- parpol
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-08-parpol-dan-golkar-menerima-gagasan-penyederhanaan-fraksi-dan-parpol/
+  judul: 1971-10-08 Parpol dan Golkar Menerima Gagasan Penyederhanaan Fraksi dan Parpol
+  tanggal: '1971-10-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-08-parpol-dan-golkar-menerima-gagasan-penyederhanaan-fraksi-dan-parpol/
 ---
+
 
 # 1971-10-08 Parpol dan Golkar Menerima Gagasan Penyederhanaan Fraksi dan Parpol
 

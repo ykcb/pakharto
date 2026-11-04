@@ -1,9 +1,50 @@
 ---
-title: "1970-01-17 Lantik Anggota LPU, Presiden Soeharto: Tidak Ada Pembubaran Parpol – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-17-lantik-anggota-lpu-presiden-soeharto-tidak-ada-pembubaran-parpol/"
-date: "2014-12-29T13:35:35+07:00"
+title: '1970-01-17 Lantik Anggota LPU, Presiden Soeharto: Tidak Ada Pembubaran Parpol'
+description: SABTU 17 JANUARI 1970, Pagi jam 10.00, bertempat di Istana Negara, Presiden
+  melantik anggota-anggota Lembaga Pemilihan Umum dan Panitia Pemilihan Umum. Dalam
+  pidatonya, Presiden mengulangi lagi jaminannya bahwa partai politik tidak akan...
+date: '1970-01-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-17-lantik-anggota-lpu-presiden-soeharto-tidak-ada-pembubaran-parpol
+aliases:
+- 'Lantik Anggota LPU, Presiden Soeharto: Tidak Ada Pembubaran Parpol'
+- '1970-01-17 Lantik Anggota LPU, Presiden Soeharto: Tidak Ada Pembubaran Parpol –
+  HM Soeharto'
+tags:
+- bapak-pembangunan
+- bina-graha
+- cendana
+- gbhn
+- istana-merdeka
+- macan-asia
+- melantik
+- orde-baru
+- panitia
+- parpol
+- pelita
+- pembubaran
+- pemilu
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- tinggal-landas-2
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-17-lantik-anggota-lpu-presiden-soeharto-tidak-ada-pembubaran-parpol/
+  judul: '1970-01-17 Lantik Anggota LPU, Presiden Soeharto: Tidak Ada Pembubaran Parpol'
+  tanggal: '1970-01-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-17-lantik-anggota-lpu-presiden-soeharto-tidak-ada-pembubaran-parpol/
 ---
+
 
 # 1970-01-17 Lantik Anggota LPU, Presiden Soeharto: Tidak Ada Pembubaran Parpol
 

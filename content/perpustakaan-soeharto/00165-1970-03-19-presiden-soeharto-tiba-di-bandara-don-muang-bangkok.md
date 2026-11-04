@@ -1,9 +1,46 @@
 ---
-title: "1970-03-19 Presiden Soeharto Tiba di Bandara Don Muang Bangkok – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-19-presiden-soeharto-tiba-di-bandara-don-muang-bangkok/"
-date: "2017-08-28T17:15:04+07:00"
+title: 1970-03-19 Presiden Soeharto Tiba di Bandara Don Muang Bangkok
+description: KAMIS, 19 Maret 1970, Menandai akhir kunjungan Presiden Soeharto di Malaysia,
+  kedua kepala Negara hari ini mengeluarkan sebuah komunike bersama. Pada pokoknya
+  komunike tersebut memuat kesepakatan untuk melakukan segala sesuatu dalam...
+date: '1970-03-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-19-presiden-soeharto-tiba-di-bandara-don-muang-bangkok
+aliases:
+- Presiden Soeharto Tiba di Bandara Don Muang Bangkok
+- 1970-03-19 Presiden Soeharto Tiba di Bandara Don Muang Bangkok – HM Soeharto
+tags:
+- bangkok
+- bilateral
+- ekonomi
+- emas
+- istana
+- kunci
+- malaysia
+- muangthai
+- orde-baru
+- perpustakaan-soeharto
+- raja-bhumipol
+- ratu-sirikit
+- shitralada
+- walikota
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-19-presiden-soeharto-tiba-di-bandara-don-muang-bangkok/
+  judul: 1970-03-19 Presiden Soeharto Tiba di Bandara Don Muang Bangkok
+  tanggal: '1970-03-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-19-presiden-soeharto-tiba-di-bandara-don-muang-bangkok/
 ---
+
 
 # 1970-03-19 Presiden Soeharto Tiba di Bandara Don Muang Bangkok
 

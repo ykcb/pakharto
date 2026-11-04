@@ -1,9 +1,41 @@
 ---
-title: "1975-08-09 Menuju Lampung, Presiden Soeharto Resmikan Pabrik Sepeda – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-09-menuju-lampung-presiden-soeharto-resmikan-pabrik-sepeda/"
-date: "2017-08-22T17:47:13+07:00"
+title: 1975-08-09 Menuju Lampung, Presiden Soeharto Resmikan Pabrik Sepeda
+description: 27 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-09-menuju-lampung-presiden-soeharto-resmikan-pabrik-sepeda/respond)
+  131 Views Share on
+date: '1975-08-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-09-menuju-lampung-presiden-soeharto-resmikan-pabrik-sepeda
+aliases:
+- Menuju Lampung, Presiden Soeharto Resmikan Pabrik Sepeda
+- 1975-08-09 Menuju Lampung, Presiden Soeharto Resmikan Pabrik Sepeda – HM Soeharto
+tags:
+- cengkeh
+- lampung
+- orde-baru
+- pabrik-sepeda
+- panjang
+- perpustakaan-soeharto
+- presiden-soeharto
+- pt-daya-sakti-di-seliri
+- way-luni
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-09-menuju-lampung-presiden-soeharto-resmikan-pabrik-sepeda/
+  judul: 1975-08-09 Menuju Lampung, Presiden Soeharto Resmikan Pabrik Sepeda
+  tanggal: '1975-08-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-09-menuju-lampung-presiden-soeharto-resmikan-pabrik-sepeda/
 ---
+
 
 # 1975-08-09 Menuju Lampung, Presiden Soeharto Resmikan Pabrik Sepeda
 

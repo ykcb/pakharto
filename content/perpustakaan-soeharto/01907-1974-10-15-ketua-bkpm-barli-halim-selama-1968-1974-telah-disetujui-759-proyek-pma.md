@@ -1,9 +1,43 @@
 ---
-title: "1974-10-15 Ketua BKPM Barli Halim: Selama 1968-1974 Telah Disetujui 759 proyek PMA – HM Soeharto"
-source: "https://soehartolibrary.id/1974-10-15-ketua-bkpm-barli-halim-selama-1968-1974-telah-disetujui-759-proyek-pma/"
-date: "2014-04-01T02:08:51+07:00"
+title: '1974-10-15 Ketua BKPM Barli Halim: Selama 1968-1974 Telah Disetujui 759 proyek
+  PMA'
+description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-10-15-ketua-bkpm-barli-halim-selama-1968-1974-telah-disetujui-759-proyek-pma/respond)
+  102 Views Share on
+date: '1974-10-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-10-15-ketua-bkpm-barli-halim-selama-1968-1974-telah-disetujui-759-proyek-pma
+aliases:
+- 'Ketua BKPM Barli Halim: Selama 1968-1974 Telah Disetujui 759 proyek PMA'
+- '1974-10-15 Ketua BKPM Barli Halim: Selama 1968-1974 Telah Disetujui 759 proyek
+  PMA – HM Soeharto'
+tags:
+- barli-halim
+- bina-graha
+- bkpm
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- pma
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-10-15-ketua-bkpm-barli-halim-selama-1968-1974-telah-disetujui-759-proyek-pma/
+  judul: '1974-10-15 Ketua BKPM Barli Halim: Selama 1968-1974 Telah Disetujui 759
+    proyek PMA'
+  tanggal: '1974-10-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-10-15-ketua-bkpm-barli-halim-selama-1968-1974-telah-disetujui-759-proyek-pma/
 ---
+
 
 # 1974-10-15 Ketua BKPM Barli Halim: Selama 1968-1974 Telah Disetujui 759 proyek PMA
 

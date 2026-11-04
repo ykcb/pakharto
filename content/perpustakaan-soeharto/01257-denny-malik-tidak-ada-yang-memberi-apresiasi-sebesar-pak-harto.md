@@ -1,9 +1,38 @@
 ---
-title: "Denny Malik: Tidak Ada Yang Memberi Apresiasi Sebesar Pak Harto – HM Soeharto"
-source: "https://soehartolibrary.id/denny-malik-tidak-ada-yang-memberi-apresiasi-sebesar-pak-harto/"
-date: "2013-09-08T06:58:29+07:00"
+title: 'Denny Malik: Tidak Ada Yang Memberi Apresiasi Sebesar Pak Harto'
+description: 8 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/denny-malik-tidak-ada-yang-memberi-apresiasi-sebesar-pak-harto/respond)
+  117 Views Share on
+date: '2013-09-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: denny-malik-tidak-ada-yang-memberi-apresiasi-sebesar-pak-harto
+aliases:
+- 'Denny Malik: Tidak Ada Yang Memberi Apresiasi Sebesar Pak Harto – HM Soeharto'
+tags:
+- denny-malik
+- guruh-sukarnoputra
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- seni-dan-budaya
+- swara-mahardika
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/denny-malik-tidak-ada-yang-memberi-apresiasi-sebesar-pak-harto/
+  judul: 'Denny Malik: Tidak Ada Yang Memberi Apresiasi Sebesar Pak Harto'
+  tanggal: '2013-09-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/denny-malik-tidak-ada-yang-memberi-apresiasi-sebesar-pak-harto/
 ---
+
 
 # Denny Malik: Tidak Ada Yang Memberi Apresiasi Sebesar Pak Harto
 

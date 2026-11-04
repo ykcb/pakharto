@@ -1,9 +1,42 @@
 ---
-title: "1974-04-17 Presiden Soeharto: Duta Besar Terjemahkan Kepribadian Bangsa – HM Soeharto"
-source: "https://soehartolibrary.id/1974-04-17-presiden-soeharto-duta-besar-terjemahkan-kepribadian-bangsa/"
-date: "2014-03-22T02:56:20+07:00"
+title: '1974-04-17 Presiden Soeharto: Duta Besar Terjemahkan Kepribadian Bangsa'
+description: RABU, 17 April 1974, Tiga orang duta besar pagi ini dilantik oleh Presiden
+  Soeharto di Istana Negara. Ketiga duta besar itu adalah Mayjen. Sarwo Edhie Wibowo
+  untuk Korea Selatan, Letjen. Sutopo Yuwono untuk Kerajaan Belanda, dan RM...
+date: '1974-04-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-04-17-presiden-soeharto-duta-besar-terjemahkan-kepribadian-bangsa
+aliases:
+- 'Presiden Soeharto: Duta Besar Terjemahkan Kepribadian Bangsa'
+- '1974-04-17 Presiden Soeharto: Duta Besar Terjemahkan Kepribadian Bangsa – HM Soeharto'
+tags:
+- belanda
+- duta-besar
+- korea-selatan
+- orde-baru
+- pakistan
+- perpustakaan-soeharto
+- presiden-soeharto
+- rm-abikusno
+- sarwo-edhi-wibowo
+- sutopo-yuwono
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-04-17-presiden-soeharto-duta-besar-terjemahkan-kepribadian-bangsa/
+  judul: '1974-04-17 Presiden Soeharto: Duta Besar Terjemahkan Kepribadian Bangsa'
+  tanggal: '1974-04-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-04-17-presiden-soeharto-duta-besar-terjemahkan-kepribadian-bangsa/
 ---
+
 
 # 1974-04-17 Presiden Soeharto: Duta Besar Terjemahkan Kepribadian Bangsa
 

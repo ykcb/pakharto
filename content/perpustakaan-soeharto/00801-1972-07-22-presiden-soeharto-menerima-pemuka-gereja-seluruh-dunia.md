@@ -1,9 +1,43 @@
 ---
-title: "1972-07-22 Presiden Soeharto Menerima Pemuka Gereja Seluruh Dunia – HM Soeharto"
-source: "https://soehartolibrary.id/1972-07-22-presiden-soeharto-menerima-pemuka-gereja-seluruh-dunia/"
-date: "2017-08-25T15:28:32+07:00"
+title: 1972-07-22 Presiden Soeharto Menerima Pemuka Gereja Seluruh Dunia
+description: SABTU, 22 Juli 1972. Presiden Soeharto hari ini di Istana Merdeka menerima
+  pemuka-pemuka gereja seluruh dunia. Mereka adalah pemimpin Reformed Church dan Gereja
+  Luther Sedunia, antara lain Dr. William Thomas (Presiden aliansi Reformed...
+date: '1972-07-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-07-22-presiden-soeharto-menerima-pemuka-gereja-seluruh-dunia
+aliases:
+- Presiden Soeharto Menerima Pemuka Gereja Seluruh Dunia
+- 1972-07-22 Presiden Soeharto Menerima Pemuka Gereja Seluruh Dunia – HM Soeharto
+tags:
+- dr-william-thomas
+- jakarta
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- parapat
+- perpustakaan-soeharto
+- presiden-soeharto
+- prof-miko-juva
+- reformed-church
+- sumatera-utara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-07-22-presiden-soeharto-menerima-pemuka-gereja-seluruh-dunia/
+  judul: 1972-07-22 Presiden Soeharto Menerima Pemuka Gereja Seluruh Dunia
+  tanggal: '1972-07-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-07-22-presiden-soeharto-menerima-pemuka-gereja-seluruh-dunia/
 ---
+
 
 # 1972-07-22 Presiden Soeharto Menerima Pemuka Gereja Seluruh Dunia
 

@@ -1,9 +1,47 @@
 ---
-title: "1976-09-06 Presiden Soeharto Bahas Kendala Pengangkutan LNG – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-06-presiden-soeharto-bahas-kendala-pengangkutan-lng/"
-date: "2017-08-22T16:20:28+07:00"
+title: 1976-09-06 Presiden Soeharto Bahas Kendala Pengangkutan LNG
+description: 18 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-06-presiden-soeharto-bahas-kendala-pengangkutan-lng/respond)
+  100 Views Share on
+date: '1976-09-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-06-presiden-soeharto-bahas-kendala-pengangkutan-lng
+aliases:
+- Presiden Soeharto Bahas Kendala Pengangkutan LNG
+- 1976-09-06 Presiden Soeharto Bahas Kendala Pengangkutan LNG – HM Soeharto
+tags:
+- burmah-shipping-corporation
+- direktur-utama-pertamina
+- general-dynamics-corporation
+- kepala-negara
+- lng
+- menteri-pan
+- menteri-perdagangan
+- menterisekretaris-negara
+- orde-baru
+- perpustakaan-soeharto
+- piet-haryono
+- presiden-soeharto
+- radius-prawiro
+- sudharmono
+- sumarlin
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-06-presiden-soeharto-bahas-kendala-pengangkutan-lng/
+  judul: 1976-09-06 Presiden Soeharto Bahas Kendala Pengangkutan LNG
+  tanggal: '1976-09-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-06-presiden-soeharto-bahas-kendala-pengangkutan-lng/
 ---
+
 
 # 1976-09-06 Presiden Soeharto Bahas Kendala Pengangkutan LNG
 

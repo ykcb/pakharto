@@ -1,9 +1,43 @@
 ---
-title: "1976-08-23 Presiden Soeharto Resmikan IPTN – HM Soeharto"
-source: "https://soehartolibrary.id/1976-08-23-presiden-soeharto-resmikan-iptn/"
-date: "2017-08-23T11:15:40+07:00"
+title: 1976-08-23 Presiden Soeharto Resmikan IPTN
+description: 31 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-08-23-presiden-soeharto-resmikan-iptn/respond)
+  168 Views Share on
+date: '1976-08-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-08-23-presiden-soeharto-resmikan-iptn
+aliases:
+- Presiden Soeharto Resmikan IPTN
+- 1976-08-23 Presiden Soeharto Resmikan IPTN – HM Soeharto
+tags:
+- auri
+- casa-212
+- helikopter-bo-105
+- iptn
+- jerman-barat
+- nurtanio
+- orde-baru
+- perpustakaan-soeharto
+- pesawat-terbang
+- presiden-soeharto
+- spanyol
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-08-23-presiden-soeharto-resmikan-iptn/
+  judul: 1976-08-23 Presiden Soeharto Resmikan IPTN
+  tanggal: '1976-08-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-08-23-presiden-soeharto-resmikan-iptn/
 ---
+
 
 # 1976-08-23 Presiden Soeharto Resmikan IPTN
 

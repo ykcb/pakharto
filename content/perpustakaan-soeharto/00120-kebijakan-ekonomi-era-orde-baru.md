@@ -1,9 +1,36 @@
 ---
-title: "Kebijakan Ekonomi Era Orde Baru – HM Soeharto"
-source: "https://soehartolibrary.id/kebijakan-ekonomi-era-orde-baru/"
-date: "2013-10-21T06:28:42+07:00"
+title: Kebijakan Ekonomi Era Orde Baru
+description: Pak Harto sedang memeriksa persediaan beras di gudang Bulog
+date: '2013-10-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: kebijakan-ekonomi-era-orde-baru
+aliases:
+- Kebijakan Ekonomi Era Orde Baru – HM Soeharto
+tags:
+- ekonomi
+- kebijakan
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- repelita
+- uud-1945
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/kebijakan-ekonomi-era-orde-baru/
+  judul: Kebijakan Ekonomi Era Orde Baru
+  tanggal: '2013-10-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/kebijakan-ekonomi-era-orde-baru/
 ---
+
 
 # Kebijakan Ekonomi Era Orde Baru
 

@@ -1,9 +1,38 @@
 ---
-title: "1971-04-12 Presiden Soeharto Mengunjungi Sulawesi – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-12-presiden-soeharto-mengunjungi-sulawesi/"
-date: "2017-08-30T14:17:42+07:00"
+title: 1971-04-12 Presiden Soeharto Mengunjungi Sulawesi
+description: SENIN, 12 April 1971, Jam 07.00 pagi ini Presiden dan Ibu Tien Soeharto
+  beserta rombongan berangkat ke Palu, Sulawesi Tengah, untuk memulai kunjungan kerja
+  di Indonesia Timur selama satu minggu. Dalam kunjungan ini Presiden akan melihat...
+date: '1971-04-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-12-presiden-soeharto-mengunjungi-sulawesi
+aliases:
+- Presiden Soeharto Mengunjungi Sulawesi
+- 1971-04-12 Presiden Soeharto Mengunjungi Sulawesi – HM Soeharto
+tags:
+- orde-baru
+- palu
+- pemilu
+- perpustakaan-soeharto
+- presiden-soeharto
+- sulawesi-tengah
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-12-presiden-soeharto-mengunjungi-sulawesi/
+  judul: 1971-04-12 Presiden Soeharto Mengunjungi Sulawesi
+  tanggal: '1971-04-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-12-presiden-soeharto-mengunjungi-sulawesi/
 ---
+
 
 # 1971-04-12 Presiden Soeharto Mengunjungi Sulawesi
 

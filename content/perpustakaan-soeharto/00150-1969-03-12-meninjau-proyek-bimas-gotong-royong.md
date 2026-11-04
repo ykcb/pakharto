@@ -1,9 +1,46 @@
 ---
-title: "1969-03-12 Meninjau Proyek Bimas Gotong Royong – HM Soeharto"
-source: "https://soehartolibrary.id/1969-03-12-meninjau-proyek-bimas-gotong-royong/"
-date: "2017-08-29T17:24:49+07:00"
+title: 1969-03-12 Meninjau Proyek Bimas Gotong Royong
+description: RABU, 12 MARET 1969, Pagi-pagi sekali hari ini Presiden dan Ibu Soeharto
+  berangkat menuju Kecamatan Cibinong di kabupaten Subang, Jawa Barat. Ini adalah
+  dalam rangka peninjauan terhadap pelaksanaan proyek Bimas gotong royong Ciba. Pada...
+date: '1969-03-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-03-12-meninjau-proyek-bimas-gotong-royong
+aliases:
+- Meninjau Proyek Bimas Gotong Royong
+- 1969-03-12 Meninjau Proyek Bimas Gotong Royong – HM Soeharto
+tags:
+- barat
+- bimas
+- ciba
+- cibinong
+- gotong
+- ibu-tien
+- jawa
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden
+- royong
+- soeharto
+- subang
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-03-12-meninjau-proyek-bimas-gotong-royong/
+  judul: 1969-03-12 Meninjau Proyek Bimas Gotong Royong
+  tanggal: '1969-03-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-03-12-meninjau-proyek-bimas-gotong-royong/
 ---
+
 
 # 1969-03-12 Meninjau Proyek Bimas Gotong Royong
 

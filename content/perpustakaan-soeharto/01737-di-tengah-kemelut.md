@@ -1,9 +1,36 @@
 ---
-title: "Di Tengah Kemelut – HM Soeharto"
-source: "https://soehartolibrary.id/di-tengah-kemelut/"
-date: "2018-01-10T19:06:59+07:00"
+title: Di Tengah Kemelut
+description: 5 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/di-tengah-kemelut/respond) 191 Views Share
+  on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: di-tengah-kemelut
+aliases:
+- Di Tengah Kemelut – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- renville
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/di-tengah-kemelut/
+  judul: Di Tengah Kemelut
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/di-tengah-kemelut/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0426_result.jpg)
 

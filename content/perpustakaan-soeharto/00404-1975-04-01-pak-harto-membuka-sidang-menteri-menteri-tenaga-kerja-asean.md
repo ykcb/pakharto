@@ -1,9 +1,40 @@
 ---
-title: "1975-04-01 Pak Harto Membuka Sidang Menteri-Menteri Tenaga Kerja ASEAN – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-01-pak-harto-membuka-sidang-menteri-menteri-tenaga-kerja-asean/"
-date: "2017-08-28T16:49:56+07:00"
+title: 1975-04-01 Pak Harto Membuka Sidang Menteri-Menteri Tenaga Kerja ASEAN
+description: SELASA, 1 April 1975, Penciptaan lapangan kerja yang sebanyak-banyaknya
+  hanya dimungkinkan dengan pembangunan yang menyeluruh. Demikian dikemukakan oleh
+  Presiden Soeharto ketika membuka sidang Menteri-Menteri Tenaga Kerja ASEAN, yang...
+date: '1975-04-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-01-pak-harto-membuka-sidang-menteri-menteri-tenaga-kerja-asean
+aliases:
+- Pak Harto Membuka Sidang Menteri-Menteri Tenaga Kerja ASEAN
+- 1975-04-01 Pak Harto Membuka Sidang Menteri-Menteri Tenaga Kerja ASEAN – HM Soeharto
+tags:
+- asean
+- bina-graha
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- tebu
+- tenaga-kerja
+- varietas
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-01-pak-harto-membuka-sidang-menteri-menteri-tenaga-kerja-asean/
+  judul: 1975-04-01 Pak Harto Membuka Sidang Menteri-Menteri Tenaga Kerja ASEAN
+  tanggal: '1975-04-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-01-pak-harto-membuka-sidang-menteri-menteri-tenaga-kerja-asean/
 ---
+
 
 # 1975-04-01 Pak Harto Membuka Sidang Menteri-Menteri Tenaga Kerja ASEAN
 

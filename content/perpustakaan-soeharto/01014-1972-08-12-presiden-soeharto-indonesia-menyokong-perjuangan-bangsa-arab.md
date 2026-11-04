@@ -1,9 +1,41 @@
 ---
-title: "1972-08-12 Presiden Soeharto: Indonesia Menyokong Perjuangan Bangsa Arab – HM Soeharto"
-source: "https://soehartolibrary.id/1972-08-12-presiden-soeharto-indonesia-menyokong-perjuangan-bangsa-arab/"
-date: "2017-08-24T15:07:25+07:00"
+title: '1972-08-12 Presiden Soeharto: Indonesia Menyokong Perjuangan Bangsa Arab'
+description: 19 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-08-12-presiden-soeharto-indonesia-menyokong-perjuangan-bangsa-arab/respond)
+  92 Views Share on
+date: '1972-08-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-08-12-presiden-soeharto-indonesia-menyokong-perjuangan-bangsa-arab
+aliases:
+- 'Presiden Soeharto: Indonesia Menyokong Perjuangan Bangsa Arab'
+- '1972-08-12 Presiden Soeharto: Indonesia Menyokong Perjuangan Bangsa Arab – HM Soeharto'
+tags:
+- arab
+- depdagri
+- el-tousufi
+- hansip
+- majelis-rendah
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- syria
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-08-12-presiden-soeharto-indonesia-menyokong-perjuangan-bangsa-arab/
+  judul: '1972-08-12 Presiden Soeharto: Indonesia Menyokong Perjuangan Bangsa Arab'
+  tanggal: '1972-08-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-08-12-presiden-soeharto-indonesia-menyokong-perjuangan-bangsa-arab/
 ---
+
 
 # 1972-08-12 Presiden Soeharto: Indonesia Menyokong Perjuangan Bangsa Arab
 

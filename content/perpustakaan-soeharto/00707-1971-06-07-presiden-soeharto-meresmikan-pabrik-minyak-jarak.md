@@ -1,9 +1,41 @@
 ---
-title: "1971-06-07 Presiden Soeharto Meresmikan Pabrik Minyak Jarak – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-07-presiden-soeharto-meresmikan-pabrik-minyak-jarak/"
-date: "2017-08-24T15:31:46+07:00"
+title: 1971-06-07 Presiden Soeharto Meresmikan Pabrik Minyak Jarak
+description: SENIN, 7 Juni 1971, di Semarang hari ini Presiden meresmikan sebuah pabrik
+  Minyak Jarak (Castrol Oil), gedung Sekolah Teknik Menengah (STM), dan gudang pendingin
+  (cold storage) Wirontono. ini merupakan kegiatan pertama presiden dalam...
+date: '1971-06-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-07-presiden-soeharto-meresmikan-pabrik-minyak-jarak
+aliases:
+- Presiden Soeharto Meresmikan Pabrik Minyak Jarak
+- 1971-06-07 Presiden Soeharto Meresmikan Pabrik Minyak Jarak – HM Soeharto
+tags:
+- castrol-oil
+- cold-storage
+- gudang-pendingin
+- minyak-jarak
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- stm
+- wirontono
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-07-presiden-soeharto-meresmikan-pabrik-minyak-jarak/
+  judul: 1971-06-07 Presiden Soeharto Meresmikan Pabrik Minyak Jarak
+  tanggal: '1971-06-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-07-presiden-soeharto-meresmikan-pabrik-minyak-jarak/
 ---
+
 
 # 1971-06-07 Presiden Soeharto Meresmikan Pabrik Minyak Jarak
 

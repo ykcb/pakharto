@@ -1,9 +1,40 @@
 ---
-title: "19-02-27 Penyederhanaan Partai Politik – HM Soeharto"
-source: "https://soehartolibrary.id/19-02-27-penyederhanaan-partai-politik/"
-date: "2017-08-28T17:10:43+07:00"
+title: 19-02-27 Penyederhanaan Partai Politik
+description: (Presiden Mengemukakan Gagasan Pengelompokan Partai Kedalam Tiga Golongan)
+date: '2017-08-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 19-02-27-penyederhanaan-partai-politik
+aliases:
+- 19-02-27 Penyederhanaan Partai Politik – HM Soeharto
+tags:
+- karya
+- material
+- mprs-no-xxii1966
+- nu
+- orde-baru
+- parmusi
+- perpustakaan-soeharto
+- perti
+- psii
+- spiritual
+- tiga-golongan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/19-02-27-penyederhanaan-partai-politik/
+  judul: 19-02-27 Penyederhanaan Partai Politik
+  tanggal: '2017-08-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/19-02-27-penyederhanaan-partai-politik/
 ---
+
 
 # 19-02-27 Penyederhanaan Partai Politik
 

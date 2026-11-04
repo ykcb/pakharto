@@ -1,9 +1,39 @@
 ---
-title: "1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-01-presiden-soeharto-resmikan-relief-pahlawan-revolusi/"
-date: "2014-04-01T02:12:59+07:00"
+title: 1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi
+description: 1 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-01-presiden-soeharto-resmikan-relief-pahlawan-revolusi/respond)
+  99 Views Share on
+date: '1968-09-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-01-presiden-soeharto-resmikan-relief-pahlawan-revolusi
+aliases:
+- Presiden Soeharto Resmikan Relief Pahlawan Revolusi
+- 1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi – HM Soeharto
+tags:
+- kesaktian-pancasila
+- lubang-buaya
+- orde-baru
+- pahlawan-revolusi
+- perpustakaan-soeharto
+- presiden-soeharto
+- relief
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-01-presiden-soeharto-resmikan-relief-pahlawan-revolusi/
+  judul: 1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi
+  tanggal: '1968-09-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-01-presiden-soeharto-resmikan-relief-pahlawan-revolusi/
 ---
+
 
 # 1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi
 

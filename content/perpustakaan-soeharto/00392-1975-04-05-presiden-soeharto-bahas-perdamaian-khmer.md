@@ -1,9 +1,41 @@
 ---
-title: "1975-04-05 Presiden Soeharto Bahas Perdamaian Khmer – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-05-presiden-soeharto-bahas-perdamaian-khmer/"
-date: "2014-03-22T02:56:18+07:00"
+title: 1975-04-05 Presiden Soeharto Bahas Perdamaian Khmer
+description: SABTU, 5 April 1975, sore ini Presiden Soeharto dan rombongan tiba kembali
+  di tanah air. Dari Australia Kepala Negara tidak langsung terbang ke Jakarta, melainkan
+  singgah di Denpasar Bali, untuk menemui Presiden Khmer, Leon Nol, yang...
+date: '1975-04-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-05-presiden-soeharto-bahas-perdamaian-khmer
+aliases:
+- Presiden Soeharto Bahas Perdamaian Khmer
+- 1975-04-05 Presiden Soeharto Bahas Perdamaian Khmer – HM Soeharto
+tags:
+- bali
+- denpasar
+- istana-tampak-siring
+- khmer
+- khmer-merah
+- leon-nol
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-05-presiden-soeharto-bahas-perdamaian-khmer/
+  judul: 1975-04-05 Presiden Soeharto Bahas Perdamaian Khmer
+  tanggal: '1975-04-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-05-presiden-soeharto-bahas-perdamaian-khmer/
 ---
+
 
 # 1975-04-05 Presiden Soeharto Bahas Perdamaian Khmer
 

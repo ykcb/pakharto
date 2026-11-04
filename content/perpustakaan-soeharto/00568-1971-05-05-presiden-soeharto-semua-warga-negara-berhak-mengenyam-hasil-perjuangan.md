@@ -1,9 +1,42 @@
 ---
-title: "1971-05-05 Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil Perjuangan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-05-05-presiden-soeharto-semua-warga-negara-berhak-mengenyam-hasil-perjuangan/"
-date: "2017-08-28T16:44:54+07:00"
+title: '1971-05-05 Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil Perjuangan'
+description: RABU, 5 Mei 1971, Pada jam 9.00 pagi ini Presiden Soeharto menerima kedatangan
+  Menteri Luar Negeri Australia, LHE Bury, di Istana Merdeka. Hubungan ekonomi kedua
+  negara merupakan pokok pembicaraan dalam pertemuan itu. Selain itu,...
+date: '1971-05-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-05-05-presiden-soeharto-semua-warga-negara-berhak-mengenyam-hasil-perjuangan
+aliases:
+- 'Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil Perjuangan'
+- '1971-05-05 Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil Perjuangan
+  – HM Soeharto'
+tags:
+- federasi
+- orde-baru
+- pancasila
+- perjuangan
+- perpustakaan-soeharto
+- presiden-soeharto
+- rakyat
+- tuna-netra
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-05-05-presiden-soeharto-semua-warga-negara-berhak-mengenyam-hasil-perjuangan/
+  judul: '1971-05-05 Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil
+    Perjuangan'
+  tanggal: '1971-05-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-05-05-presiden-soeharto-semua-warga-negara-berhak-mengenyam-hasil-perjuangan/
 ---
+
 
 # 1971-05-05 Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil Perjuangan
 

@@ -1,9 +1,40 @@
 ---
-title: "1976-03-22 Presiden Soeharto Keluarkan Beberapa Inpres Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan/"
-date: "2017-08-29T17:38:29+07:00"
+title: 1976-03-22 Presiden Soeharto Keluarkan Beberapa Inpres Pembangunan
+description: JUM’AT, 22 MARET 1976, Siang ini di Cendana, Presiden Soeharto mengadakan
+  pembicaraan selama satu setengah jam dengan Menteri Negara Ekuin Prof. Dr. Widjojo
+  Nitisastro, Menteri PAN/Wakil Ketua Bappenas Dr.Sumarlin, Menteri Perdagangan...
+date: '1976-03-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan
+aliases:
+- Presiden Soeharto Keluarkan Beberapa Inpres Pembangunan
+- 1976-03-22 Presiden Soeharto Keluarkan Beberapa Inpres Pembangunan – HM Soeharto
+tags:
+- inpres
+- kesehatan
+- orde-baru
+- pasar
+- perpustakaan-soeharto
+- presiden-soeharto
+- reboisasi
+- sd
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan/
+  judul: 1976-03-22 Presiden Soeharto Keluarkan Beberapa Inpres Pembangunan
+  tanggal: '1976-03-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan/
 ---
+
 
 # 1976-03-22 Presiden Soeharto Keluarkan Beberapa Inpres Pembangunan
 

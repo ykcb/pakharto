@@ -1,9 +1,39 @@
 ---
-title: "1972-04-26 Presiden Soeharto Rayakan Peringatan Maulid Nabi Muhammad SAW – HM Soeharto"
-source: "https://soehartolibrary.id/1972-04-26-presiden-soeharto-rayakan-peringatan-maulid-nabi-muhammad-saw/"
-date: "2017-08-28T16:53:34+07:00"
+title: 1972-04-26 Presiden Soeharto Rayakan Peringatan Maulid Nabi Muhammad SAW
+description: RABU, 26 APRIL 1972, Malam ini, Presiden Soeharto ikut merayakan peringatan
+  Maulid Nabi Muhammad SAW di Istana Negara. Dalam sambutannya, Presiden antara lain
+  mengatakan bahwa pembangunan masyarakat merupakan segi yang sangat penting...
+date: '1972-04-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-04-26-presiden-soeharto-rayakan-peringatan-maulid-nabi-muhammad-saw
+aliases:
+- Presiden Soeharto Rayakan Peringatan Maulid Nabi Muhammad SAW
+- 1972-04-26 Presiden Soeharto Rayakan Peringatan Maulid Nabi Muhammad SAW – HM Soeharto
+tags:
+- amsteerdam
+- iggi
+- maulid-nabi-muhammad
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-04-26-presiden-soeharto-rayakan-peringatan-maulid-nabi-muhammad-saw/
+  judul: 1972-04-26 Presiden Soeharto Rayakan Peringatan Maulid Nabi Muhammad SAW
+  tanggal: '1972-04-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-04-26-presiden-soeharto-rayakan-peringatan-maulid-nabi-muhammad-saw/
 ---
+
 
 # 1972-04-26 Presiden Soeharto Rayakan Peringatan Maulid Nabi Muhammad SAW
 

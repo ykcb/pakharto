@@ -1,9 +1,47 @@
 ---
-title: "1975-07-05 Presiden Soeharto: Perkembangan Indo-Cina Perkokoh Idiologi Nasional Indonesia – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-05-presiden-soeharto-perkembangan-indo-cina-perkokoh-idiologi-nasional-indonesia/"
-date: "2017-08-23T11:52:06+07:00"
+title: '1975-07-05 Presiden Soeharto: Perkembangan Indo-Cina Perkokoh Idiologi Nasional
+  Indonesia'
+description: SABTU, 05 Juli 1975, Presiden Soeharto dan rombongan, pagi ini berangkat
+  dari Ottawa menuju Toronto, sekitar 300 mil di selatan ibukota Kanada itu. Di kota
+  ini Presiden Soeharto mengadakan pertemuan dengan para pengusaha Kanada. Dalam...
+date: '1975-07-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-05-presiden-soeharto-perkembangan-indo-cina-perkokoh-idiologi-nasional-indonesia
+aliases:
+- 'Presiden Soeharto: Perkembangan Indo-Cina Perkokoh Idiologi Nasional Indonesia'
+- '1975-07-05 Presiden Soeharto: Perkembangan Indo-Cina Perkokoh Idiologi Nasional
+  Indonesia – HM Soeharto'
+tags:
+- amerika-serikat
+- andrews
+- camp-david
+- gerald-ford
+- indo-cina
+- kanada
+- orde-baru
+- ottawa
+- perpustakaan-soeharto
+- presiden-soeharto
+- toronto
+- washington
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-05-presiden-soeharto-perkembangan-indo-cina-perkokoh-idiologi-nasional-indonesia/
+  judul: '1975-07-05 Presiden Soeharto: Perkembangan Indo-Cina Perkokoh Idiologi Nasional
+    Indonesia'
+  tanggal: '1975-07-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-05-presiden-soeharto-perkembangan-indo-cina-perkokoh-idiologi-nasional-indonesia/
 ---
+
 
 # 1975-07-05 Presiden Soeharto: Perkembangan Indo-Cina Perkokoh Idiologi Nasional Indonesia
 

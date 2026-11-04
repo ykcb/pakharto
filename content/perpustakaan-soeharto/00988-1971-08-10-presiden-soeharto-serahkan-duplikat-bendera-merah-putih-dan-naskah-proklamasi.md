@@ -1,9 +1,48 @@
 ---
-title: "1971-08-10 Presiden Soeharto Serahkan Duplikat Bendera Merah Putih dan Naskah Proklamasi – HM Soeharto"
-source: "https://soehartolibrary.id/1971-08-10-presiden-soeharto-serahkan-duplikat-bendera-merah-putih-dan-naskah-proklamasi/"
-date: "2017-08-25T15:24:36+07:00"
+title: 1971-08-10 Presiden Soeharto Serahkan Duplikat Bendera Merah Putih dan Naskah
+  Proklamasi
+description: SELASA, 10 AGUSTUS 1971, Presiden Soeharto menyerahkan duplikat bendera
+  pusaka dan duplikat naskah proklamasi kepada Menteri Luar Negeri Adam Malik yang
+  akan menyerahkannya kepada 62 perwakilan RI di luar negeri. Diharapkan bahwa setiap...
+date: '1971-08-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-08-10-presiden-soeharto-serahkan-duplikat-bendera-merah-putih-dan-naskah-proklamasi
+aliases:
+- Presiden Soeharto Serahkan Duplikat Bendera Merah Putih dan Naskah Proklamasi
+- 1971-08-10 Presiden Soeharto Serahkan Duplikat Bendera Merah Putih dan Naskah Proklamasi
+  – HM Soeharto
+tags:
+- adam-malik
+- bendera
+- ciawi-bogor
+- duplikat
+- menteri-keuangan
+- menteri-luar-negeri
+- merah-putih
+- naskah-proklamasi
+- orde-baru
+- pabrik-sutera-alam
+- perpustakaan-soeharto
+- presiden-soeharto
+- sangsaka
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-08-10-presiden-soeharto-serahkan-duplikat-bendera-merah-putih-dan-naskah-proklamasi/
+  judul: 1971-08-10 Presiden Soeharto Serahkan Duplikat Bendera Merah Putih dan Naskah
+    Proklamasi
+  tanggal: '1971-08-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-08-10-presiden-soeharto-serahkan-duplikat-bendera-merah-putih-dan-naskah-proklamasi/
 ---
+
 
 # 1971-08-10 Presiden Soeharto Serahkan Duplikat Bendera Merah Putih dan Naskah Proklamasi
 

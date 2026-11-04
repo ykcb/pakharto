@@ -1,9 +1,38 @@
 ---
-title: "1973-05-08 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-08-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi/"
-date: "2017-08-25T15:32:50+07:00"
+title: 1973-05-08 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi
+description: SELASA, 8 Mei 1973, Pukul 10.00 Pagi ini di Bina Graha berlangsung Sidang
+  Dewan Stabilisasi Ekonomi Nasional yang dipimpin oleh Presiden Soeharto. Sidang
+  memutuskan untuk menyempurnakan dan menyederhanakan cara pengajuan dan...
+date: '1973-05-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-08-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi
+aliases:
+- Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi
+- 1973-05-08 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi – HM Soeharto
+tags:
+- ali-wardana
+- iggi
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- stabilisasi-ekonomi
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-08-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi/
+  judul: 1973-05-08 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi
+  tanggal: '1973-05-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-08-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi/
 ---
+
 
 # 1973-05-08 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi
 

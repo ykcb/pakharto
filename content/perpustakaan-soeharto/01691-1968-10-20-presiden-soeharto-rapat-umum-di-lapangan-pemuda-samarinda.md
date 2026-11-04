@@ -1,9 +1,41 @@
 ---
-title: "1968-10-20 Presiden Soeharto Rapat Umum di Lapangan Pemuda Samarinda – HM Soeharto"
-source: "https://soehartolibrary.id/1968-10-20-presiden-soeharto-rapat-umum-di-lapangan-pemuda-samarinda/"
-date: "2014-04-01T02:09:40+07:00"
+title: 1968-10-20 Presiden Soeharto Rapat Umum di Lapangan Pemuda Samarinda
+description: 3 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-10-20-presiden-soeharto-rapat-umum-di-lapangan-pemuda-samarinda/respond)
+  92 Views Share on
+date: '1968-10-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-10-20-presiden-soeharto-rapat-umum-di-lapangan-pemuda-samarinda
+aliases:
+- Presiden Soeharto Rapat Umum di Lapangan Pemuda Samarinda
+- 1968-10-20 Presiden Soeharto Rapat Umum di Lapangan Pemuda Samarinda – HM Soeharto
+tags:
+- jalan-raya-kalimantan
+- kepala-negara
+- lapangan-pemuda
+- loa-janan
+- orde-baru
+- palangkaraya
+- perpustakaan-soeharto
+- presiden-soeharto
+- samarinda
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-10-20-presiden-soeharto-rapat-umum-di-lapangan-pemuda-samarinda/
+  judul: 1968-10-20 Presiden Soeharto Rapat Umum di Lapangan Pemuda Samarinda
+  tanggal: '1968-10-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-10-20-presiden-soeharto-rapat-umum-di-lapangan-pemuda-samarinda/
 ---
+
 
 # 1968-10-20 Presiden Soeharto Rapat Umum di Lapangan Pemuda Samarinda
 

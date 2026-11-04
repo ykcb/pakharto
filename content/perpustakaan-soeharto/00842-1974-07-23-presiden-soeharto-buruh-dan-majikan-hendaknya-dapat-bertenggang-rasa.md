@@ -1,9 +1,48 @@
 ---
-title: "1974-07-23 Presiden Soeharto: Buruh dan Majikan Hendaknya Dapat Bertenggang Rasa – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-23-presiden-soeharto-buruh-dan-majikan-hendaknya-dapat-bertenggang-rasa/"
-date: "2014-03-21T23:31:30+07:00"
+title: '1974-07-23 Presiden Soeharto: Buruh dan Majikan Hendaknya Dapat Bertenggang
+  Rasa'
+description: SELASA, 23 Juli 1974, Empat orang Inspektur Jenderal Pembangunan (Irjenbang)
+  dilantik oleh Presiden Soeharto dalam suatu upacara yang berlangsung di Bina Graha
+  mulai jam 09.00 pagi ini. Keempat Irjenbang yang dilantik itu adalah E....
+date: '1974-07-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-23-presiden-soeharto-buruh-dan-majikan-hendaknya-dapat-bertenggang-rasa
+aliases:
+- 'Presiden Soeharto: Buruh dan Majikan Hendaknya Dapat Bertenggang Rasa'
+- '1974-07-23 Presiden Soeharto: Buruh dan Majikan Hendaknya Dapat Bertenggang Rasa
+  – HM Soeharto'
+tags:
+- e-soekasah-somawidjaja
+- irjenbang
+- mandataris-mpr
+- marsdya-sutopo
+- mayjen-dr-soedjono
+- mayjen-soedjono-humardhani
+- menteri-tenaga-kerja
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sjarif-thajeb
+- subroto
+- transmigrasi-dan-koperasi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-23-presiden-soeharto-buruh-dan-majikan-hendaknya-dapat-bertenggang-rasa/
+  judul: '1974-07-23 Presiden Soeharto: Buruh dan Majikan Hendaknya Dapat Bertenggang
+    Rasa'
+  tanggal: '1974-07-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-23-presiden-soeharto-buruh-dan-majikan-hendaknya-dapat-bertenggang-rasa/
 ---
+
 
 # 1974-07-23 Presiden Soeharto: Buruh dan Majikan Hendaknya Dapat Bertenggang Rasa
 

@@ -1,9 +1,43 @@
 ---
-title: "1968-06-14 Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat Perdamaian Dunia – HM Soeharto"
-source: "https://soehartolibrary.id/1968-06-14-presiden-soeharto-pm-australiaasia-pasifik-prasyarat-perdamaian-dunia/"
-date: "2017-08-25T15:35:02+07:00"
+title: '1968-06-14 Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat
+  Perdamaian Dunia'
+description: JUM’AT, 14 JUNI 1968, Presiden Soeharto pagi ini mengadakan perundingan
+  resmi dengan PM Australia, John Gorton, bertempat di Istana Merdeka. Hasil perundingan
+  resmi ini telah diumumkan sore ini dalam bentuk komunike bersama. Dalam...
+date: '1968-06-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-06-14-presiden-soeharto-pm-australiaasia-pasifik-prasyarat-perdamaian-dunia
+aliases:
+- 'Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat Perdamaian Dunia'
+- '1968-06-14 Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat Perdamaian
+  Dunia – HM Soeharto'
+tags:
+- asia
+- john-gorton
+- orde-baru
+- pasifik
+- perdamaian
+- perpustakaan-soeharto
+- pm-australia
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-06-14-presiden-soeharto-pm-australiaasia-pasifik-prasyarat-perdamaian-dunia/
+  judul: '1968-06-14 Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat
+    Perdamaian Dunia'
+  tanggal: '1968-06-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-06-14-presiden-soeharto-pm-australiaasia-pasifik-prasyarat-perdamaian-dunia/
 ---
+
 
 # 1968-06-14 Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat Perdamaian Dunia
 

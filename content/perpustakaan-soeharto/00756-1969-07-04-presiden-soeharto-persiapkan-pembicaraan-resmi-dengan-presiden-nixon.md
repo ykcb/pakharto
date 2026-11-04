@@ -1,9 +1,59 @@
 ---
-title: "1969-07-04 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-04-presiden-soeharto-persiapkan-pembicaraan-resmi-dengan-presiden-nixon/"
-date: "2017-08-24T15:21:54+07:00"
+title: 1969-07-04 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon
+description: KAMIS, 24 Juli 1969. Presiden Soeharto memberikan petunjuk-petunjuk kepada
+  beberapa menteri dan pejabat tinggi negara yang menurut rencana akan mengadakan
+  pembicaraan resmi dengan rombongan Presiden Nixon. Para pejabat yang akan...
+date: '1969-07-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-04-presiden-soeharto-persiapkan-pembicaraan-resmi-dengan-presiden-nixon
+aliases:
+- Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon
+- 1969-07-04 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon
+  – HM Soeharto
+tags:
+- adam-malik
+- ali-wardhana
+- as
+- duta-besar-ri
+- jenderal-soeharto
+- kepala-staf-hankam
+- ketua-bappenas
+- letjend-soemitro
+- m-sadli
+- m-yusuf
+- menteri-keuangan
+- menteri-luar-negeri
+- menteri-negara-ekuin
+- menteri-perdagangan
+- menteri-perindustrian
+- nixon
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- soedjatmoko
+- sri-sultan-hamengkubuwono-ix
+- sumitro-djojohadikusumo
+- suyono-darusman
+- widjojo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-04-presiden-soeharto-persiapkan-pembicaraan-resmi-dengan-presiden-nixon/
+  judul: 1969-07-04 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden
+    Nixon
+  tanggal: '1969-07-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-04-presiden-soeharto-persiapkan-pembicaraan-resmi-dengan-presiden-nixon/
 ---
+
 
 # 1969-07-04 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon
 

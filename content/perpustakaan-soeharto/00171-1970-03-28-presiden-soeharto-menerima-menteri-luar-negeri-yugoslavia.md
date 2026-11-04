@@ -1,9 +1,50 @@
 ---
-title: "1970-03-28 Presiden Soeharto Menerima Menteri Luar Negeri Yugoslavia – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-28-presiden-soeharto-menerima-menteri-luar-negeri-yugoslavia/"
-date: "2017-08-29T11:31:03+07:00"
+title: 1970-03-28 Presiden Soeharto Menerima Menteri Luar Negeri Yugoslavia
+description: SABTU, 28 Maret 1970, Pagi hari, Presiden Soeharto menerima Menteri Luar
+  Negeri Yugoslavia, Mirco Tepavac, di Istana Merdeka. Selain membahas masalah-masalah
+  kerjasama Negara-Negara Non-Blok, ada hubungan bilateral antara kedua negara,...
+date: '1970-03-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-28-presiden-soeharto-menerima-menteri-luar-negeri-yugoslavia
+aliases:
+- Presiden Soeharto Menerima Menteri Luar Negeri Yugoslavia
+- 1970-03-28 Presiden Soeharto Menerima Menteri Luar Negeri Yugoslavia – HM Soeharto
+tags:
+- istana
+- luar
+- menteri
+- merdeka
+- mirco
+- negara
+- negeri
+- non-blok
+- orde-baru
+- pak-harto
+- pembayaran
+- penundaan
+- perpustakaan-soeharto
+- presiden
+- soeharto
+- tepavac
+- utang
+- yugoslavia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-28-presiden-soeharto-menerima-menteri-luar-negeri-yugoslavia/
+  judul: 1970-03-28 Presiden Soeharto Menerima Menteri Luar Negeri Yugoslavia
+  tanggal: '1970-03-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-28-presiden-soeharto-menerima-menteri-luar-negeri-yugoslavia/
 ---
+
 
 # 1970-03-28 Presiden Soeharto Menerima Menteri Luar Negeri Yugoslavia
 

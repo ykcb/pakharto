@@ -1,9 +1,39 @@
 ---
-title: "1972-08-09 Presiden Soeharto Setujui Pembangunan kembali Tugu Proklamasi – HM Soeharto"
-source: "https://soehartolibrary.id/1972-08-09-presiden-soeharto-setujui-pembangunan-kembali-tugu-proklamasi/"
-date: "2017-08-24T15:07:32+07:00"
+title: 1972-08-09 Presiden Soeharto Setujui Pembangunan kembali Tugu Proklamasi
+description: 19 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-08-09-presiden-soeharto-setujui-pembangunan-kembali-tugu-proklamasi/respond)
+  65 Views Share on
+date: '1972-08-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-08-09-presiden-soeharto-setujui-pembangunan-kembali-tugu-proklamasi
+aliases:
+- Presiden Soeharto Setujui Pembangunan kembali Tugu Proklamasi
+- 1972-08-09 Presiden Soeharto Setujui Pembangunan kembali Tugu Proklamasi – HM Soeharto
+tags:
+- dr-suwondo
+- mayjen-dr-sujono
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tugu-proklamasi
+- wakil-gubernur-dki
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-08-09-presiden-soeharto-setujui-pembangunan-kembali-tugu-proklamasi/
+  judul: 1972-08-09 Presiden Soeharto Setujui Pembangunan kembali Tugu Proklamasi
+  tanggal: '1972-08-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-08-09-presiden-soeharto-setujui-pembangunan-kembali-tugu-proklamasi/
 ---
+
 
 # 1972-08-09 Presiden Soeharto Setujui Pembangunan kembali Tugu Proklamasi
 

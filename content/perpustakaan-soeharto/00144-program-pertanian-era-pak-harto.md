@@ -1,9 +1,43 @@
 ---
-title: "Program Pertanian Era Pak Harto – HM Soeharto"
-source: "https://soehartolibrary.id/program-pertanian-era-pak-harto/"
-date: "2014-05-08T19:01:31+07:00"
+title: Program Pertanian Era Pak Harto
+description: KEUNGGULAN program ketahanan pangan pada masa kepemimpinan Presiden Soeharto
+  diakui oleh Menteri Pertanian Anton Apriyantono (2004-2009) dengan banyak mengadopsi
+  program-program semasa Orde Baru. Anton mengaku, merasa berutang budi...
+date: '2014-05-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: program-pertanian-era-pak-harto
+aliases:
+- Program Pertanian Era Pak Harto – HM Soeharto
+tags:
+- agriculture
+- beras
+- fao
+- food
+- italia
+- ketahanan
+- orde-baru
+- organization
+- pangan
+- perpustakaan-soeharto
+- roma
+- swasembada
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/program-pertanian-era-pak-harto/
+  judul: Program Pertanian Era Pak Harto
+  tanggal: '2014-05-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/program-pertanian-era-pak-harto/
 ---
+
 
 # Program Pertanian Era Pak Harto
 

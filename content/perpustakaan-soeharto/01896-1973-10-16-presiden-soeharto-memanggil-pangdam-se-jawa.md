@@ -1,9 +1,37 @@
 ---
-title: "1973-10-16 Presiden Soeharto Memanggil Pangdam Se-Jawa – HM Soeharto"
-source: "https://soehartolibrary.id/1973-10-16-presiden-soeharto-memanggil-pangdam-se-jawa/"
-date: "2014-12-01T13:59:30+07:00"
+title: 1973-10-16 Presiden Soeharto Memanggil Pangdam Se-Jawa
+description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-10-16-presiden-soeharto-memanggil-pangdam-se-jawa/respond)
+  87 Views Share on
+date: '1973-10-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-10-16-presiden-soeharto-memanggil-pangdam-se-jawa
+aliases:
+- Presiden Soeharto Memanggil Pangdam Se-Jawa
+- 1973-10-16 Presiden Soeharto Memanggil Pangdam Se-Jawa – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- pangdam
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-10-16-presiden-soeharto-memanggil-pangdam-se-jawa/
+  judul: 1973-10-16 Presiden Soeharto Memanggil Pangdam Se-Jawa
+  tanggal: '1973-10-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-10-16-presiden-soeharto-memanggil-pangdam-se-jawa/
 ---
+
 
 # 1973-10-16 Presiden Soeharto Memanggil Pangdam Se-Jawa
 

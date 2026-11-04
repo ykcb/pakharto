@@ -1,9 +1,43 @@
 ---
-title: "1971-03-02 Presiden Soeharto Terima Richard Woods – HM Soeharto"
-source: "https://soehartolibrary.id/1971-03-02-presiden-soeharto-terima-richard-woods/"
-date: "2017-08-29T17:24:33+07:00"
+title: 1971-03-02 Presiden Soeharto Terima Richard Woods
+description: SELASA, 2 Maret 1971, Jam 9.00 pagi Presiden Soeharto menerima Menteri
+  Bantuan Luar Negeri Inggris, Richard Woods, di Istana Merdeka. Kepada Menteri Woods,
+  Presiden secara panjang lebar telah memperjelas sikap Pemerintah Indonesia...
+date: '1971-03-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-03-02-presiden-soeharto-terima-richard-woods
+aliases:
+- Presiden Soeharto Terima Richard Woods
+- 1971-03-02 Presiden Soeharto Terima Richard Woods – HM Soeharto
+tags:
+- asing
+- investasi
+- orde-baru
+- pak-harto
+- pengawasan
+- perijinan
+- perpustakaan-soeharto
+- presiden
+- richard
+- soeharto
+- woods
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-03-02-presiden-soeharto-terima-richard-woods/
+  judul: 1971-03-02 Presiden Soeharto Terima Richard Woods
+  tanggal: '1971-03-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-03-02-presiden-soeharto-terima-richard-woods/
 ---
+
 
 # 1971-03-02 Presiden Soeharto Terima Richard Woods
 

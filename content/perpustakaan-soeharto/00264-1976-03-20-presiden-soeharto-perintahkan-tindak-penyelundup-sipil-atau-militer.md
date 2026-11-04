@@ -1,9 +1,37 @@
 ---
-title: "1976-03-20 Presiden Soeharto Perintahkan Tindak Penyelundup Sipil atau Militer – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-20-presiden-soeharto-perintahkan-tindak-penyelundup-sipil-atau-militer/"
-date: "2014-03-22T03:01:36+07:00"
+title: 1976-03-20 Presiden Soeharto Perintahkan Tindak Penyelundup Sipil atau Militer
+description: Presiden Soeharto Perintahkan Tindak Penyelundup Sipil atau Militer
+date: '1976-03-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-20-presiden-soeharto-perintahkan-tindak-penyelundup-sipil-atau-militer
+aliases:
+- Presiden Soeharto Perintahkan Tindak Penyelundup Sipil atau Militer
+- 1976-03-20 Presiden Soeharto Perintahkan Tindak Penyelundup Sipil atau Militer –
+  HM Soeharto
+tags:
+- militer
+- orde-baru
+- penyelundup
+- perpustakaan-soeharto
+- presiden-soeharto
+- sipil
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-20-presiden-soeharto-perintahkan-tindak-penyelundup-sipil-atau-militer/
+  judul: 1976-03-20 Presiden Soeharto Perintahkan Tindak Penyelundup Sipil atau Militer
+  tanggal: '1976-03-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-20-presiden-soeharto-perintahkan-tindak-penyelundup-sipil-atau-militer/
 ---
+
 
 # 1976-03-20 Presiden Soeharto Perintahkan Tindak Penyelundup Sipil atau Militer
 

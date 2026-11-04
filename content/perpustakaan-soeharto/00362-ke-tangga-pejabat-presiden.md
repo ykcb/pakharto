@@ -1,9 +1,34 @@
 ---
-title: "Ke Tangga Pejabat Presiden – HM Soeharto"
-source: "https://soehartolibrary.id/ke-tangga-pejabat-presiden/"
-date: "2018-01-10T19:32:15+07:00"
+title: Ke Tangga Pejabat Presiden
+description: Saya di dorong-dorong di tengah suasana konflik politik untuk tampil
+  ke depan. Ada politisi yang tidak sabar akan perubahan dan pergantian pimpinan.
+  Sampai-sampai mengusulkan supaya saya mengoper begitu saja kekuasaan negara. Usul...
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: ke-tangga-pejabat-presiden
+aliases:
+- Ke Tangga Pejabat Presiden – HM Soeharto
+tags:
+- orde-baru
+- pak-harto-pejabat-presiden
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/ke-tangga-pejabat-presiden/
+  judul: Ke Tangga Pejabat Presiden
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/ke-tangga-pejabat-presiden/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/04/Pengangkatan-Menjadi-Pejabat-Presiden.jpg)
 

@@ -1,9 +1,43 @@
 ---
-title: "1975-07-02 Indonesia-Yugoslavia: Perlu Tata Ekonomi Internasional Yang Adil – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-02-indonesia-yugoslavia-perlu-tata-ekonomi-internasional-yang-adil/"
-date: "2017-08-23T11:52:57+07:00"
+title: '1975-07-02 Indonesia-Yugoslavia: Perlu Tata Ekonomi Internasional Yang Adil'
+description: RABU, 02 Juli 1975, Presiden Soeharto hari ini melanjutkan pembicaraan
+  dengan Presiden Tito di Brioni. Pokok pembicaraan hari ini meliputi kawasan Asia
+  Tenggara dan Samudera Hindia sebagai suatu kawasan damai, selain masalah Orde...
+date: '1975-07-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-02-indonesia-yugoslavia-perlu-tata-ekonomi-internasional-yang-adil
+aliases:
+- 'Indonesia-Yugoslavia: Perlu Tata Ekonomi Internasional Yang Adil'
+- '1975-07-02 Indonesia-Yugoslavia: Perlu Tata Ekonomi Internasional Yang Adil – HM
+  Soeharto'
+tags:
+- adil
+- asia-tenggara
+- brioni
+- ekonomi-internasional
+- josep-bros-tito
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- samudera-hindia
+- yugoslavia
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-02-indonesia-yugoslavia-perlu-tata-ekonomi-internasional-yang-adil/
+  judul: '1975-07-02 Indonesia-Yugoslavia: Perlu Tata Ekonomi Internasional Yang Adil'
+  tanggal: '1975-07-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-02-indonesia-yugoslavia-perlu-tata-ekonomi-internasional-yang-adil/
 ---
+
 
 # 1975-07-02 Indonesia-Yugoslavia: Perlu Tata Ekonomi Internasional Yang Adil
 

@@ -1,9 +1,41 @@
 ---
-title: "1973-07-11 Presiden Soeharto Anjurkan Penelitian Obat-Obatan Asli Indonesia – HM Soeharto"
-source: "https://soehartolibrary.id/1973-07-11-presiden-soeharto-anjurkan-penelitian-obat-obatan-asli-indonesia/"
-date: "2017-08-25T15:26:23+07:00"
+title: 1973-07-11 Presiden Soeharto Anjurkan Penelitian Obat-Obatan Asli Indonesia
+description: RABU, 11 Juli 1973, Pukul 09.00 pagi ini Presiden Soeharto meresmikan
+  pabrik farmasi milik PT Ciba-Geigy Pharma Indonesia yang terletak di Jalan Raya
+  Bogor Km 27, di pinggiran Jakarta. Pada kesempatan itu, Presiden menganjurkan para...
+date: '1973-07-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-07-11-presiden-soeharto-anjurkan-penelitian-obat-obatan-asli-indonesia
+aliases:
+- Presiden Soeharto Anjurkan Penelitian Obat-Obatan Asli Indonesia
+- 1973-07-11 Presiden Soeharto Anjurkan Penelitian Obat-Obatan Asli Indonesia – HM
+  Soeharto
+tags:
+- ciba-geigy
+- farmasi
+- jenderal-soeharto
+- obat-obatan-dalam-negeri
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-07-11-presiden-soeharto-anjurkan-penelitian-obat-obatan-asli-indonesia/
+  judul: 1973-07-11 Presiden Soeharto Anjurkan Penelitian Obat-Obatan Asli Indonesia
+  tanggal: '1973-07-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-07-11-presiden-soeharto-anjurkan-penelitian-obat-obatan-asli-indonesia/
 ---
+
 
 # 1973-07-11 Presiden Soeharto Anjurkan Penelitian Obat-Obatan Asli Indonesia
 

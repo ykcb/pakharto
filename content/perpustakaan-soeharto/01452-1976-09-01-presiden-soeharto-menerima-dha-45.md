@@ -1,9 +1,36 @@
 ---
-title: "1976-09-01 Presiden Soeharto Menerima DHA 45 – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-01-presiden-soeharto-menerima-dha-45/"
-date: "2017-08-22T16:18:59+07:00"
+title: 1976-09-01 Presiden Soeharto Menerima DHA 45
+description: 18 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-01-presiden-soeharto-menerima-dha-45/respond)
+  81 Views Share on
+date: '1976-09-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-01-presiden-soeharto-menerima-dha-45
+aliases:
+- Presiden Soeharto Menerima DHA 45
+- 1976-09-01 Presiden Soeharto Menerima DHA 45 – HM Soeharto
+tags:
+- dha-45
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-01-presiden-soeharto-menerima-dha-45/
+  judul: 1976-09-01 Presiden Soeharto Menerima DHA 45
+  tanggal: '1976-09-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-01-presiden-soeharto-menerima-dha-45/
 ---
+
 
 # 1976-09-01 Presiden Soeharto Menerima DHA 45
 

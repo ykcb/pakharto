@@ -1,9 +1,55 @@
 ---
-title: "1971-06-15 Presiden Soeharto Menerima Laporan Penyelesaian Utang – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-15-presiden-soeharto-menerima-laporan-penyelesaian-utang/"
-date: "2017-08-24T15:29:14+07:00"
+title: 1971-06-15 Presiden Soeharto Menerima Laporan Penyelesaian Utang
+description: SELASA, 15 Juni 1971, Dalam sidang Sub-Dewan Stavilisasi Ekonomi di Bina
+  Graha pagi ini, Presiden menginstruksikan Menteri PUTL untuk segera mengambil langkah-langkah
+  untuk memproduksi bahan-bahan bangunan yang kuat tapi murah harganya...
+date: '1971-06-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-15-presiden-soeharto-menerima-laporan-penyelesaian-utang
+aliases:
+- Presiden Soeharto Menerima Laporan Penyelesaian Utang
+- 1971-06-15 Presiden Soeharto Menerima Laporan Penyelesaian Utang – HM Soeharto
+tags:
+- adam-malik
+- auri
+- bahan-bangunan
+- cekoslowakia
+- hankam
+- keerjasama-teknik
+- kuat-dan-murah
+- menteri-luar-negeri
+- menteri-pu-tl
+- orde-baru
+- perpustakaan-soeharto
+- pisang
+- pohon-kelapa
+- polandia
+- presiden-soeharto
+- republik-demokrasi-jerman
+- rumania
+- sagu
+- salak
+- sexava
+- sulawesi-utara
+- sutami
+- utang-luar-negeri
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-15-presiden-soeharto-menerima-laporan-penyelesaian-utang/
+  judul: 1971-06-15 Presiden Soeharto Menerima Laporan Penyelesaian Utang
+  tanggal: '1971-06-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-15-presiden-soeharto-menerima-laporan-penyelesaian-utang/
 ---
+
 
 # 1971-06-15 Presiden Soeharto Menerima Laporan Penyelesaian Utang
 

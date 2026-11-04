@@ -1,9 +1,38 @@
 ---
-title: "1975-08-14 Presiden Soeharto Hadiri Apel Pramuka di Silang Monas – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-14-presiden-soeharto-hadiri-apel-pramuka-di-silang-monas/"
-date: "2017-08-22T17:45:57+07:00"
+title: 1975-08-14 Presiden Soeharto Hadiri Apel Pramuka di Silang Monas
+description: 27 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-14-presiden-soeharto-hadiri-apel-pramuka-di-silang-monas/respond)
+  82 Views Share on
+date: '1975-08-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-14-presiden-soeharto-hadiri-apel-pramuka-di-silang-monas
+aliases:
+- Presiden Soeharto Hadiri Apel Pramuka di Silang Monas
+- 1975-08-14 Presiden Soeharto Hadiri Apel Pramuka di Silang Monas – HM Soeharto
+tags:
+- apel-besar-pramuka
+- kepala-negara
+- orde-baru
+- perjuangan-bangsa
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-14-presiden-soeharto-hadiri-apel-pramuka-di-silang-monas/
+  judul: 1975-08-14 Presiden Soeharto Hadiri Apel Pramuka di Silang Monas
+  tanggal: '1975-08-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-14-presiden-soeharto-hadiri-apel-pramuka-di-silang-monas/
 ---
+
 
 # 1975-08-14 Presiden Soeharto Hadiri Apel Pramuka di Silang Monas
 

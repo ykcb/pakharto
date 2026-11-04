@@ -1,9 +1,40 @@
 ---
-title: "1975-10-05 Presiden Soeharto: ABRI Harus Berani Melihat Kekuatan dan Kelemahan Dirinya – HM Soeharto"
-source: "https://soehartolibrary.id/1975-10-05-presiden-soeharto-abri-harus-berani-melihat-kekuatan-dan-kelemahan-dirinya/"
-date: "2014-06-13T18:54:10+07:00"
+title: '1975-10-05 Presiden Soeharto: ABRI Harus Berani Melihat Kekuatan dan Kelemahan
+  Dirinya'
+description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-10-05-presiden-soeharto-abri-harus-berani-melihat-kekuatan-dan-kelemahan-dirinya/respond)
+  102 Views Share on
+date: '1975-10-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-10-05-presiden-soeharto-abri-harus-berani-melihat-kekuatan-dan-kelemahan-dirinya
+aliases:
+- 'Presiden Soeharto: ABRI Harus Berani Melihat Kekuatan dan Kelemahan Dirinya'
+- '1975-10-05 Presiden Soeharto: ABRI Harus Berani Melihat Kekuatan dan Kelemahan
+  Dirinya – HM Soeharto'
+tags:
+- abri
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-10-05-presiden-soeharto-abri-harus-berani-melihat-kekuatan-dan-kelemahan-dirinya/
+  judul: '1975-10-05 Presiden Soeharto: ABRI Harus Berani Melihat Kekuatan dan Kelemahan
+    Dirinya'
+  tanggal: '1975-10-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-10-05-presiden-soeharto-abri-harus-berani-melihat-kekuatan-dan-kelemahan-dirinya/
 ---
+
 
 # 1975-10-05 Presiden Soeharto: ABRI Harus Berani Melihat Kekuatan dan Kelemahan Dirinya
 

@@ -1,9 +1,43 @@
 ---
-title: "1969-09-11 Presiden Soeharto Hadiahkan Traktor-Pompa Untuk Rakyat NTT – HM Soeharto"
-source: "https://soehartolibrary.id/1969-09-11-presiden-soeharto-hadiahkan-traktor-pompa-untuk-rakyat-ntt/"
-date: "2017-08-22T17:39:47+07:00"
+title: 1969-09-11 Presiden Soeharto Hadiahkan Traktor-Pompa Untuk Rakyat NTT
+description: 3 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-09-11-presiden-soeharto-hadiahkan-traktor-pompa-untuk-rakyat-ntt/respond)
+  82 Views Share on
+date: '1969-09-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-09-11-presiden-soeharto-hadiahkan-traktor-pompa-untuk-rakyat-ntt
+aliases:
+- Presiden Soeharto Hadiahkan Traktor-Pompa Untuk Rakyat NTT
+- 1969-09-11 Presiden Soeharto Hadiahkan Traktor-Pompa Untuk Rakyat NTT – HM Soeharto
+tags:
+- asisten-pribadi-presiden
+- drs-ben-mang-reng-say
+- hari-radio
+- mayjen-r-suryo
+- ntt
+- nusa-tenggara-timur
+- orde-baru
+- perpustakaan-soeharto
+- pompa-air
+- presiden-soeharto
+- traktor
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-09-11-presiden-soeharto-hadiahkan-traktor-pompa-untuk-rakyat-ntt/
+  judul: 1969-09-11 Presiden Soeharto Hadiahkan Traktor-Pompa Untuk Rakyat NTT
+  tanggal: '1969-09-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-09-11-presiden-soeharto-hadiahkan-traktor-pompa-untuk-rakyat-ntt/
 ---
+
 
 # 1969-09-11 Presiden Soeharto Hadiahkan Traktor-Pompa Untuk Rakyat NTT
 

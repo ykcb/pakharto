@@ -1,9 +1,40 @@
 ---
-title: "1975-07-10 Presiden Soeharto Setujui Usul Presiden Marcos Soal KTT ASEAN – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-10-presiden-soeharto-setujui-usul-presiden-marcos-soal-ktt-asean/"
-date: "2017-08-23T11:50:46+07:00"
+title: 1975-07-10 Presiden Soeharto Setujui Usul Presiden Marcos Soal KTT ASEAN
+description: KAMIS, 10 Juli 1975, Duta Besar RI untuk Filipina, Sri Bimo Ariotedjo,
+  menghadap Presiden Soeharto pagi ini di Jalan Cendana. Selain untuk memberikan laporan
+  rutin mengenai tugasnya di negara tetangga itu, Duta Besar Ariotedjo juga...
+date: '1975-07-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-10-presiden-soeharto-setujui-usul-presiden-marcos-soal-ktt-asean
+aliases:
+- Presiden Soeharto Setujui Usul Presiden Marcos Soal KTT ASEAN
+- 1975-07-10 Presiden Soeharto Setujui Usul Presiden Marcos Soal KTT ASEAN – HM Soeharto
+tags:
+- duta-besar
+- ferdinand-marcos
+- filipina
+- ktt-asean
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sri-bimo-ariotedjo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-10-presiden-soeharto-setujui-usul-presiden-marcos-soal-ktt-asean/
+  judul: 1975-07-10 Presiden Soeharto Setujui Usul Presiden Marcos Soal KTT ASEAN
+  tanggal: '1975-07-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-10-presiden-soeharto-setujui-usul-presiden-marcos-soal-ktt-asean/
 ---
+
 
 # 1975-07-10 Presiden Soeharto Setujui Usul Presiden Marcos Soal KTT ASEAN
 

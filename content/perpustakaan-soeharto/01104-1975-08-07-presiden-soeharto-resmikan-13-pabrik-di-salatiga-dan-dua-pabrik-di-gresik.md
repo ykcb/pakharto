@@ -1,9 +1,44 @@
 ---
-title: "1976-08-07 Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabrik di Gresik – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik/"
-date: "2017-08-22T17:42:50+07:00"
+title: 1976-08-07 Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabrik
+  di Gresik
+description: 29 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik/respond)
+  119 Views Share on
+date: '1975-08-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik
+aliases:
+- Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabrik di Gresik
+- 1976-08-07 Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabrik di Gresik
+  – HM Soeharto
+tags:
+- gresik
+- ibu-tien
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- pt-nusantara-plywood
+- resmikan-pabrik
+- salatiga
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik/
+  judul: 1976-08-07 Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabrik
+    di Gresik
+  tanggal: '1975-08-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik/
 ---
+
 
 # 1976-08-07 Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabrik di Gresik
 

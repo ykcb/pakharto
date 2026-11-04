@@ -1,9 +1,42 @@
 ---
-title: "1974-03-04 Presiden Soeharto Menerima Kenneth Rush – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-04-presiden-soeharto-menerima-kenneth-rush/"
-date: "2017-08-28T17:13:30+07:00"
+title: 1974-03-04 Presiden Soeharto Menerima Kenneth Rush
+description: SENIN, 4 Maret 1974, Deputi Menteri Luar Negeri Amerika Serikat, Kenneth
+  Rush, menghadap Presiden Soeharto hari ini di Istana Merdeka. Dalam keterangan persnya,
+  Rush mengatakan bahwa ia telah mengadakan tukar fikiran dengan Presiden...
+date: '1974-03-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-04-presiden-soeharto-menerima-kenneth-rush
+aliases:
+- Presiden Soeharto Menerima Kenneth Rush
+- 1974-03-04 Presiden Soeharto Menerima Kenneth Rush – HM Soeharto
+tags:
+- adam
+- as
+- bilateral
+- indonesia
+- kennet-rush
+- malik
+- menteri-luar-negeri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-04-presiden-soeharto-menerima-kenneth-rush/
+  judul: 1974-03-04 Presiden Soeharto Menerima Kenneth Rush
+  tanggal: '1974-03-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-04-presiden-soeharto-menerima-kenneth-rush/
 ---
+
 
 # 1974-03-04 Presiden Soeharto Menerima Kenneth Rush
 

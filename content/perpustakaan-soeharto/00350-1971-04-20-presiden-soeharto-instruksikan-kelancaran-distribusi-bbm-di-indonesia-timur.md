@@ -1,9 +1,41 @@
 ---
-title: "1971-04-20 Presiden Soeharto Instruksikan Kelancaran Distribusi BBM di Indonesia Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-20-presiden-soeharto-instruksikan-kelancaran-distribusi-bbm-di-indonesia-timur/"
-date: "2014-11-19T14:04:53+07:00"
+title: 1971-04-20 Presiden Soeharto Instruksikan Kelancaran Distribusi BBM di Indonesia
+  Timur
+description: SELASA, 20 April 1971, Dalam sidang Sub-Dewan Stabilisasi Ekonomi di
+  Bina Graha pagi ini, Presiden Soeharto telah menginstruksikan kepada Menteri Pertambangan
+  agar lebih mengusahakan kelancaran distribusi minyak dan bensin di...
+date: '1971-04-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-20-presiden-soeharto-instruksikan-kelancaran-distribusi-bbm-di-indonesia-timur
+aliases:
+- Presiden Soeharto Instruksikan Kelancaran Distribusi BBM di Indonesia Timur
+- 1971-04-20 Presiden Soeharto Instruksikan Kelancaran Distribusi BBM di Indonesia
+  Timur – HM Soeharto
+tags:
+- bensin
+- indonesia-timur
+- minyak
+- orde-baru
+- perpustakaan-soeharto
+- presiden
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-20-presiden-soeharto-instruksikan-kelancaran-distribusi-bbm-di-indonesia-timur/
+  judul: 1971-04-20 Presiden Soeharto Instruksikan Kelancaran Distribusi BBM di Indonesia
+    Timur
+  tanggal: '1971-04-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-20-presiden-soeharto-instruksikan-kelancaran-distribusi-bbm-di-indonesia-timur/
 ---
+
 
 # 1971-04-20 Presiden Soeharto Instruksikan Kelancaran Distribusi BBM di Indonesia Timur
 

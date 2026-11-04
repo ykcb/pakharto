@@ -1,9 +1,42 @@
 ---
-title: "1974-04-15 Presiden Soeharto Anugerahkan Samkarya Nugraha & Nugraha Sakanti Jana Utama – HM Soeharto"
-source: "https://soehartolibrary.id/1974-04-15-presiden-soeharto-anugerahkan-samkarya-nugraha-nugraha-sakanti-jana-utama/"
-date: "2014-03-22T02:56:21+07:00"
+title: 1974-04-15 Presiden Soeharto Anugerahkan Samkarya Nugraha & Nugraha Sakanti
+  Jana Utama
+description: SENIN, 15 April 1974, Dalam suatu upacara di lapangan Monas, pagi ini
+  Presiden Soeharto menganugerahkan Samkarya Nugraha dan Nugraha Sakanti Jana Utama
+  masing-masing kepada tujuh Kodam dan empat Komdak. Anugerah ini merupakan...
+date: '1974-04-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-04-15-presiden-soeharto-anugerahkan-samkarya-nugraha-nugraha-sakanti-jana-utama
+aliases:
+- Presiden Soeharto Anugerahkan Samkarya Nugraha & Nugraha Sakanti Jana Utama
+- 1974-04-15 Presiden Soeharto Anugerahkan Samkarya Nugraha & Nugraha Sakanti Jana
+  Utama – HM Soeharto
+tags:
+- kesatuan-militer
+- kodam
+- komdak
+- nugraha-sakanti-jana-utama
+- orde-baru
+- perpustakaan-soeharto
+- samkarya-nugraha
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-04-15-presiden-soeharto-anugerahkan-samkarya-nugraha-nugraha-sakanti-jana-utama/
+  judul: 1974-04-15 Presiden Soeharto Anugerahkan Samkarya Nugraha & Nugraha Sakanti
+    Jana Utama
+  tanggal: '1974-04-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-04-15-presiden-soeharto-anugerahkan-samkarya-nugraha-nugraha-sakanti-jana-utama/
 ---
+
 
 # 1974-04-15 Presiden Soeharto Anugerahkan Samkarya Nugraha & Nugraha Sakanti Jana Utama
 

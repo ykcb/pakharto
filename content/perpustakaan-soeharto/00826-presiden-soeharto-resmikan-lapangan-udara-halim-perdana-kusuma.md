@@ -1,9 +1,35 @@
 ---
-title: "Presiden Soeharto Resmikan Lapangan Udara Halim Perdana Kusuma – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-resmikan-lapangan-udara-halim-perdana-kusuma/"
-date: "2013-07-24T10:23:53+07:00"
+title: Presiden Soeharto Resmikan Lapangan Udara Halim Perdana Kusuma
+description: Hutang pada masa Presiden Soeharto dipergunakan untuk membangun ribuan
+  infrastruktur yang hingga kini masih bisa kita rasakan manfaatnya. Mulai dari bangunan
+  sekolah, Puskesmas, jalan, pelabuhan, bandara, bendungan, saluran irigasi dan...
+date: '2013-07-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-resmikan-lapangan-udara-halim-perdana-kusuma
+aliases:
+- Presiden Soeharto Resmikan Lapangan Udara Halim Perdana Kusuma – HM Soeharto
+tags:
+- halim-perdana-kusuma
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-resmikan-lapangan-udara-halim-perdana-kusuma/
+  judul: Presiden Soeharto Resmikan Lapangan Udara Halim Perdana Kusuma
+  tanggal: '2013-07-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-resmikan-lapangan-udara-halim-perdana-kusuma/
 ---
+
 
 # Presiden Soeharto Resmikan Lapangan Udara Halim Perdana Kusuma
 

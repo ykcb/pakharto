@@ -1,9 +1,48 @@
 ---
-title: "1973-08-10 Presiden Soeharto Resmikan Pemugaran Candi Borobudur – HM Soeharto"
-source: "https://soehartolibrary.id/1973-08-10-presiden-soeharto-resmikan-pemugaran-candi-borobudur/"
-date: "2017-08-23T11:36:48+07:00"
+title: 1973-08-10 Presiden Soeharto Resmikan Pemugaran Candi Borobudur
+description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-08-10-presiden-soeharto-resmikan-pemugaran-candi-borobudur/respond)
+  85 Views Share on
+date: '1973-08-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-08-10-presiden-soeharto-resmikan-pemugaran-candi-borobudur
+aliases:
+- Presiden Soeharto Resmikan Pemugaran Candi Borobudur
+- 1973-08-10 Presiden Soeharto Resmikan Pemugaran Candi Borobudur – HM Soeharto
+tags:
+- australia
+- candi-borobudur
+- cyprus
+- ghana
+- india
+- iran
+- italia
+- jepang
+- negeri-belanda
+- orde-baru
+- pemugaran
+- perpustakaan-soeharto
+- prancis
+- presiden-soeharto
+- republik-federasi-jerman
+- singapura
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-08-10-presiden-soeharto-resmikan-pemugaran-candi-borobudur/
+  judul: 1973-08-10 Presiden Soeharto Resmikan Pemugaran Candi Borobudur
+  tanggal: '1973-08-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-08-10-presiden-soeharto-resmikan-pemugaran-candi-borobudur/
 ---
+
 
 # 1973-08-10 Presiden Soeharto Resmikan Pemugaran Candi Borobudur
 

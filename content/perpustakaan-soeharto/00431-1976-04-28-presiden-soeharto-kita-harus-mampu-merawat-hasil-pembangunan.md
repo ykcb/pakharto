@@ -1,9 +1,37 @@
 ---
-title: "1976-04-28 Presiden Soeharto: Kita Harus mampu Merawat Hasil Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1976-04-28-presiden-soeharto-kita-harus-mampu-merawat-hasil-pembangunan/"
-date: "2014-03-22T02:56:06+07:00"
+title: '1976-04-28 Presiden Soeharto: Kita Harus mampu Merawat Hasil Pembangunan'
+description: RABU, 28 April 1976, Presiden Soeharto pagi ini meresmikan pemakaian
+  gedung utama pusat pemerintahan DKI Jakarta. Dengan ketinggian 110.80 meter gedung
+  ini merupakan gedung yang tertinggi di Indonesia. Pembangunannya dikerjakan oleh...
+date: '1976-04-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-04-28-presiden-soeharto-kita-harus-mampu-merawat-hasil-pembangunan
+aliases:
+- 'Presiden Soeharto: Kita Harus mampu Merawat Hasil Pembangunan'
+- '1976-04-28 Presiden Soeharto: Kita Harus mampu Merawat Hasil Pembangunan – HM Soeharto'
+tags:
+- dki
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-04-28-presiden-soeharto-kita-harus-mampu-merawat-hasil-pembangunan/
+  judul: '1976-04-28 Presiden Soeharto: Kita Harus mampu Merawat Hasil Pembangunan'
+  tanggal: '1976-04-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-04-28-presiden-soeharto-kita-harus-mampu-merawat-hasil-pembangunan/
 ---
+
 
 # 1976-04-28 Presiden Soeharto: Kita Harus mampu Merawat Hasil Pembangunan
 

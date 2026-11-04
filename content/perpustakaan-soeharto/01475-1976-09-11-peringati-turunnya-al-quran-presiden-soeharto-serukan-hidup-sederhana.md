@@ -1,9 +1,41 @@
 ---
-title: "1976-09-11 Peringati Turunnya Al-Qur’an Presiden Soeharto Serukan Hidup Sederhana – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-11-peringati-turunnya-al-quran-presiden-soeharto-serukan-hidup-sederhana/"
-date: "2017-08-22T16:20:37+07:00"
+title: 1976-09-11 Peringati Turunnya Al-Qur’an Presiden Soeharto Serukan Hidup Sederhana
+description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-11-peringati-turunnya-al-quran-presiden-soeharto-serukan-hidup-sederhana/respond)
+  101 Views Share on
+date: '1976-09-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-11-peringati-turunnya-al-quran-presiden-soeharto-serukan-hidup-sederhana
+aliases:
+- Peringati Turunnya Al-Qur’an Presiden Soeharto Serukan Hidup Sederhana
+- 1976-09-11 Peringati Turunnya Al-Qur’an Presiden Soeharto Serukan Hidup Sederhana
+  – HM Soeharto
+tags:
+- al-quran
+- hamengku-buwono-ix
+- ibu-tien-soeharto
+- mohamad-hatta
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- wakil-presiden
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-11-peringati-turunnya-al-quran-presiden-soeharto-serukan-hidup-sederhana/
+  judul: 1976-09-11 Peringati Turunnya Al-Qur’an Presiden Soeharto Serukan Hidup Sederhana
+  tanggal: '1976-09-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-11-peringati-turunnya-al-quran-presiden-soeharto-serukan-hidup-sederhana/
 ---
+
 
 # 1976-09-11 Peringati Turunnya Al-Qur’an Presiden Soeharto Serukan Hidup Sederhana
 

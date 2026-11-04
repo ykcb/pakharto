@@ -1,9 +1,46 @@
 ---
-title: "1975-07-30 Presiden Soeharto Tolak Halus Anugerah Doktor HC UI – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-30-presiden-soeharto-tolak-halus-anugerah-doktor-hc-ui/"
-date: "2017-08-23T11:42:53+07:00"
+title: 1975-07-30 Presiden Soeharto Tolak Halus Anugerah Doktor HC UI
+description: RABU, 30 Juli 1975 Bertempat di Bina Graha, pagi ini Presiden Soeharto
+  menerima kunjungan kehormatan delegasi Parlemen Eropa yang dipimpin George Spenalo.
+  Dalam pertemuan yang berlangsung selaam hampir satu jam itu, Kepala negara telah...
+date: '1975-07-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-30-presiden-soeharto-tolak-halus-anugerah-doktor-hc-ui
+aliases:
+- Presiden Soeharto Tolak Halus Anugerah Doktor HC UI
+- 1975-07-30 Presiden Soeharto Tolak Halus Anugerah Doktor HC UI – HM Soeharto
+tags:
+- dan-dekan-fakultas-kedokteran
+- dekan-fakultas-psikologi
+- george-spenalo
+- mohammad-hatta
+- orde-baru
+- parlemen-eropa
+- pembantu-rektor
+- perpustakaan-soeharto
+- prof-dr-djamaluddin
+- prof-dr-fuad-hassan
+- prof-dr-slamet-iman-santoso
+- prof-mahar-mardjono
+- prof-miriam-budiardjo-ma
+- rektor-ui
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-30-presiden-soeharto-tolak-halus-anugerah-doktor-hc-ui/
+  judul: 1975-07-30 Presiden Soeharto Tolak Halus Anugerah Doktor HC UI
+  tanggal: '1975-07-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-30-presiden-soeharto-tolak-halus-anugerah-doktor-hc-ui/
 ---
+
 
 # 1975-07-30 Presiden Soeharto Tolak Halus Anugerah Doktor HC UI
 

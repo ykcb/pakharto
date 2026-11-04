@@ -1,9 +1,38 @@
 ---
-title: "1969-09-24 Presiden Soeharto Jelaskan Hasil Kunjungan Ke Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1969-09-24-presiden-soeharto-jelaskan-hasil-kunjungan-ke-irian-barat/"
-date: "2017-08-22T17:37:04+07:00"
+title: 1969-09-24 Presiden Soeharto Jelaskan Hasil Kunjungan Ke Irian Barat
+description: 4 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-09-24-presiden-soeharto-jelaskan-hasil-kunjungan-ke-irian-barat/respond)
+  102 Views Share on
+date: '1969-09-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-09-24-presiden-soeharto-jelaskan-hasil-kunjungan-ke-irian-barat
+aliases:
+- Presiden Soeharto Jelaskan Hasil Kunjungan Ke Irian Barat
+- 1969-09-24 Presiden Soeharto Jelaskan Hasil Kunjungan Ke Irian Barat – HM Soeharto
+tags:
+- cessna
+- coaster
+- irian-barat
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-09-24-presiden-soeharto-jelaskan-hasil-kunjungan-ke-irian-barat/
+  judul: 1969-09-24 Presiden Soeharto Jelaskan Hasil Kunjungan Ke Irian Barat
+  tanggal: '1969-09-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-09-24-presiden-soeharto-jelaskan-hasil-kunjungan-ke-irian-barat/
 ---
+
 
 # 1969-09-24 Presiden Soeharto Jelaskan Hasil Kunjungan Ke Irian Barat
 

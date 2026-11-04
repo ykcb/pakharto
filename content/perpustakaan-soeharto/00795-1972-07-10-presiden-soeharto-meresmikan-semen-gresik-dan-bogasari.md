@@ -1,9 +1,41 @@
 ---
-title: "1972-07-10 Presiden Soeharto Meresmikan Semen Gresik dan Bogasari – HM Soeharto"
-source: "https://soehartolibrary.id/1972-07-10-presiden-soeharto-meresmikan-semen-gresik-dan-bogasari/"
-date: "2017-08-25T15:46:00+07:00"
+title: 1972-07-10 Presiden Soeharto Meresmikan Semen Gresik dan Bogasari
+description: SENIN, 10 Juli 1972. Presiden Soeharto hari ini berada di Jawa Timur
+  antara lain untuk meresmikan Pabrik Semen Gresik dan Pabrik Tepung Bogasari, masing-masing
+  di Gresik dan Surabaya. Ketika meresmikan pabrik Bogasari, Presiden...
+date: '1972-07-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-07-10-presiden-soeharto-meresmikan-semen-gresik-dan-bogasari
+aliases:
+- Presiden Soeharto Meresmikan Semen Gresik dan Bogasari
+- 1972-07-10 Presiden Soeharto Meresmikan Semen Gresik dan Bogasari – HM Soeharto
+tags:
+- bogasari
+- jawa-timur
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- semen-gresik
+- surabaya
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-07-10-presiden-soeharto-meresmikan-semen-gresik-dan-bogasari/
+  judul: 1972-07-10 Presiden Soeharto Meresmikan Semen Gresik dan Bogasari
+  tanggal: '1972-07-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-07-10-presiden-soeharto-meresmikan-semen-gresik-dan-bogasari/
 ---
+
 
 # 1972-07-10 Presiden Soeharto Meresmikan Semen Gresik dan Bogasari
 

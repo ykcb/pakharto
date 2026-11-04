@@ -1,9 +1,39 @@
 ---
-title: "1969-08-14 Presiden Soeharto Menerima Wakil Bank Dunia – HM Soeharto"
-source: "https://soehartolibrary.id/1969-08-14-presiden-soeharto-menerima-wakil-bank-dunia/"
-date: "2017-08-24T15:18:50+07:00"
+title: 1969-08-14 Presiden Soeharto Menerima Wakil Bank Dunia
+description: KAMIS, 14 AGUSTUS 1969, bertempat di Jalan Cendana, pagi ini Presiden
+  Soeharto menerima Wakil Presiden Bank Dunia, Shuaeb, yang didampingi oleh wakil
+  Bank Dunia di Indoensia. Dalam pertemuan ini dibahas mengenai peningkatan bantuan
+  Bank...
+date: '1969-08-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-08-14-presiden-soeharto-menerima-wakil-bank-dunia
+aliases:
+- Presiden Soeharto Menerima Wakil Bank Dunia
+- 1969-08-14 Presiden Soeharto Menerima Wakil Bank Dunia – HM Soeharto
+tags:
+- bank-dunia
+- cendana
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- shuaeb
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-08-14-presiden-soeharto-menerima-wakil-bank-dunia/
+  judul: 1969-08-14 Presiden Soeharto Menerima Wakil Bank Dunia
+  tanggal: '1969-08-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-08-14-presiden-soeharto-menerima-wakil-bank-dunia/
 ---
+
 
 # 1969-08-14 Presiden Soeharto Menerima Wakil Bank Dunia
 

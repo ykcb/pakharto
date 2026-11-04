@@ -1,9 +1,38 @@
 ---
-title: "1979-09-06 Presiden Soeharto Instruksikan Efisiensi Anggaran – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-06-presiden-soeharto-instruksikan-efisiensi-anggaran/"
-date: "2017-08-22T11:52:39+07:00"
+title: 1979-09-06 Presiden Soeharto Instruksikan Efisiensi Anggaran
+description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-06-presiden-soeharto-instruksikan-efisiensi-anggaran/respond)
+  193 Views Share on
+date: '1979-09-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-06-presiden-soeharto-instruksikan-efisiensi-anggaran
+aliases:
+- Presiden Soeharto Instruksikan Efisiensi Anggaran
+- 1979-09-06 Presiden Soeharto Instruksikan Efisiensi Anggaran – HM Soeharto
+tags:
+- drs-radius-prawiro
+- efisiensi-anggaran
+- inflasi
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-06-presiden-soeharto-instruksikan-efisiensi-anggaran/
+  judul: 1979-09-06 Presiden Soeharto Instruksikan Efisiensi Anggaran
+  tanggal: '1979-09-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-06-presiden-soeharto-instruksikan-efisiensi-anggaran/
 ---
+
 
 # 1979-09-06 Presiden Soeharto Instruksikan Efisiensi Anggaran
 

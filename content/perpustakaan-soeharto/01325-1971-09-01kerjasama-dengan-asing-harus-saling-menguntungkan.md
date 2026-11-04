@@ -1,9 +1,41 @@
 ---
-title: "1971-09-01Kerjasama Dengan Asing Harus Saling Menguntungkan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-01kerjasama-dengan-asing-harus-saling-menguntungkan/"
-date: "2017-08-22T17:33:06+07:00"
+title: 1971-09-01Kerjasama Dengan Asing Harus Saling Menguntungkan
+description: 11 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-01kerjasama-dengan-asing-harus-saling-menguntungkan/respond)
+  109 Views Share on
+date: '2017-08-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-01kerjasama-dengan-asing-harus-saling-menguntungkan
+aliases:
+- Kerjasama Dengan Asing Harus Saling Menguntungkan
+- 1971-09-01Kerjasama Dengan Asing Harus Saling Menguntungkan – HM Soeharto
+tags:
+- arco
+- arjuna
+- cirebon
+- ekplorasi
+- minyak
+- orde-baru
+- perpustakaan-soeharto
+- pertamina
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-01kerjasama-dengan-asing-harus-saling-menguntungkan/
+  judul: 1971-09-01Kerjasama Dengan Asing Harus Saling Menguntungkan
+  tanggal: '2017-08-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-01kerjasama-dengan-asing-harus-saling-menguntungkan/
 ---
+
 
 # 1971-09-01Kerjasama Dengan Asing Harus Saling Menguntungkan
 

@@ -1,9 +1,37 @@
 ---
-title: "1972-05-10 Pembicaraan Resmi Presiden Soeharto-PM Eisaku Sato – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-10-pembicaraan-resmi-presiden-soeharto-pm-eisaku-sato/"
-date: "2017-08-24T17:41:07+07:00"
+title: 1972-05-10 Pembicaraan Resmi Presiden Soeharto-PM Eisaku Sato
+description: RABU, 10 Mei 1972, Siang ini Presiden Soeharto dan PM Jepang Eisaku Sato
+  mengadakan pembicaraan resmi di kediaman Perdana Menteri Jepang itu. Sebelum pembicaraan
+  dilangsungkan, Presiden Soeharto menyerahkan cenderamata kepada PM Sato,...
+date: '1972-05-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-10-pembicaraan-resmi-presiden-soeharto-pm-eisaku-sato
+aliases:
+- Pembicaraan Resmi Presiden Soeharto-PM Eisaku Sato
+- 1972-05-10 Pembicaraan Resmi Presiden Soeharto-PM Eisaku Sato – HM Soeharto
+tags:
+- eisaku-sato
+- orde-baru
+- perpustakaan-soeharto
+- pm-jepang
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-10-pembicaraan-resmi-presiden-soeharto-pm-eisaku-sato/
+  judul: 1972-05-10 Pembicaraan Resmi Presiden Soeharto-PM Eisaku Sato
+  tanggal: '1972-05-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-10-pembicaraan-resmi-presiden-soeharto-pm-eisaku-sato/
 ---
+
 
 # 1972-05-10 Pembicaraan Resmi Presiden Soeharto-PM Eisaku Sato
 

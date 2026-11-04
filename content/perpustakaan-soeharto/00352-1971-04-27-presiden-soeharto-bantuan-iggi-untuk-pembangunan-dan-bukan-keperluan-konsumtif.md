@@ -1,9 +1,42 @@
 ---
-title: "1971-04-27 Presiden Soeharto: Bantuan IGGI Untuk Pembangunan dan Bukan Keperluan Konsumtif – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-27-presiden-soeharto-bantuan-iggi-untuk-pembangunan-dan-bukan-keperluan-konsumtif/"
-date: "2017-08-28T16:52:47+07:00"
+title: '1971-04-27 Presiden Soeharto: Bantuan IGGI Untuk Pembangunan dan Bukan Keperluan
+  Konsumtif'
+description: SELASA, 27 April 1971, Dalam sidang Sub-Dewan Stabilisasi Ekonomi di
+  Bina Graha pagi ini, Presiden Soeharto menyatakan bahwa seluruh bantuan yang diterima
+  dari Negara yang tergabung dalam IGGI, termasuk bantuan pangan, akan digunakan...
+date: '1971-04-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-27-presiden-soeharto-bantuan-iggi-untuk-pembangunan-dan-bukan-keperluan-konsumtif
+aliases:
+- 'Presiden Soeharto: Bantuan IGGI Untuk Pembangunan dan Bukan Keperluan Konsumtif'
+- '1971-04-27 Presiden Soeharto: Bantuan IGGI Untuk Pembangunan dan Bukan Keperluan
+  Konsumtif – HM Soeharto'
+tags:
+- iggi
+- konsumtif
+- orde-baru
+- pangan
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-27-presiden-soeharto-bantuan-iggi-untuk-pembangunan-dan-bukan-keperluan-konsumtif/
+  judul: '1971-04-27 Presiden Soeharto: Bantuan IGGI Untuk Pembangunan dan Bukan Keperluan
+    Konsumtif'
+  tanggal: '1971-04-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-27-presiden-soeharto-bantuan-iggi-untuk-pembangunan-dan-bukan-keperluan-konsumtif/
 ---
+
 
 # 1971-04-27 Presiden Soeharto: Bantuan IGGI Untuk Pembangunan dan Bukan Keperluan Konsumtif
 

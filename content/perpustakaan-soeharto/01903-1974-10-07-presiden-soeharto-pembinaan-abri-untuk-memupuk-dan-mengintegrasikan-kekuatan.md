@@ -1,9 +1,40 @@
 ---
-title: "1974-10-07 Presiden Soeharto: Pembinaan ABRI Untuk Memupuk dan Mengintegrasikan Kekuatan – HM Soeharto"
-source: "https://soehartolibrary.id/1974-10-07-presiden-soeharto-pembinaan-abri-untuk-memupuk-dan-mengintegrasikan-kekuatan/"
-date: "2014-12-01T13:55:06+07:00"
+title: '1974-10-07 Presiden Soeharto: Pembinaan ABRI Untuk Memupuk dan Mengintegrasikan
+  Kekuatan'
+description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-10-07-presiden-soeharto-pembinaan-abri-untuk-memupuk-dan-mengintegrasikan-kekuatan/respond)
+  112 Views Share on
+date: '1974-10-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-10-07-presiden-soeharto-pembinaan-abri-untuk-memupuk-dan-mengintegrasikan-kekuatan
+aliases:
+- 'Presiden Soeharto: Pembinaan ABRI Untuk Memupuk dan Mengintegrasikan Kekuatan'
+- '1974-10-07 Presiden Soeharto: Pembinaan ABRI Untuk Memupuk dan Mengintegrasikan
+  Kekuatan – HM Soeharto'
+tags:
+- abri
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-10-07-presiden-soeharto-pembinaan-abri-untuk-memupuk-dan-mengintegrasikan-kekuatan/
+  judul: '1974-10-07 Presiden Soeharto: Pembinaan ABRI Untuk Memupuk dan Mengintegrasikan
+    Kekuatan'
+  tanggal: '1974-10-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-10-07-presiden-soeharto-pembinaan-abri-untuk-memupuk-dan-mengintegrasikan-kekuatan/
 ---
+
 
 # 1974-10-07 Presiden Soeharto: Pembinaan ABRI Untuk Memupuk dan Mengintegrasikan Kekuatan
 

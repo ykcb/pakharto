@@ -1,9 +1,38 @@
 ---
-title: "1970-04-21 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi – HM Soeharto"
-source: "https://soehartolibrary.id/1970-04-21-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi/"
-date: "2014-03-22T02:58:29+07:00"
+title: 1970-04-21 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi
+description: SELASA, 21 APRIL 1970, Pukul 10.00 pagi ini Presiden Soeharto memimpin
+  sidang Sub-Dewan Stabilisasi Ekonomi bertempat di Istana Merdeka. Mereka mendengarkan
+  laporan para Menteri di bidang masing-masing, sidang telah membahas tanggapan...
+date: '1970-04-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-04-21-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi
+aliases:
+- Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi
+- 1970-04-21 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi – HM Soeharto
+tags:
+- bea-masuk
+- harga
+- impor
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-04-21-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi/
+  judul: 1970-04-21 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi
+  tanggal: '1970-04-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-04-21-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi/
 ---
+
 
 # 1970-04-21 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi
 

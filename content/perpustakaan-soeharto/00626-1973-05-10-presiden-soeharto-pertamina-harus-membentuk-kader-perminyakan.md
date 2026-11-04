@@ -1,9 +1,40 @@
 ---
-title: "1973-05-10 Presiden Soeharto: Pertamina Harus Membentuk Kader Perminyakan – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-10-presiden-soeharto-pertamina-harus-membentuk-kader-perminyakan/"
-date: "2017-08-25T15:33:00+07:00"
+title: '1973-05-10 Presiden Soeharto: Pertamina Harus Membentuk Kader Perminyakan'
+description: KAMIS, 10 Mei 1973, Pagi ini Presiden Soeharto bersama Ibu Tien meresmikan
+  penambangan minyak di Jatibarang, Jawa Barat, yang merupakan salah satu penemuan
+  Pertamina. Dalam sambutannya, Kepala Negara memuji ketrampilan Pertamina yang...
+date: '1973-05-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-10-presiden-soeharto-pertamina-harus-membentuk-kader-perminyakan
+aliases:
+- 'Presiden Soeharto: Pertamina Harus Membentuk Kader Perminyakan'
+- '1973-05-10 Presiden Soeharto: Pertamina Harus Membentuk Kader Perminyakan – HM
+  Soeharto'
+tags:
+- ibu-tien
+- jatibarang
+- orde-baru
+- perminyakan
+- perpustakaan-soeharto
+- pertamina
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-10-presiden-soeharto-pertamina-harus-membentuk-kader-perminyakan/
+  judul: '1973-05-10 Presiden Soeharto: Pertamina Harus Membentuk Kader Perminyakan'
+  tanggal: '1973-05-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-10-presiden-soeharto-pertamina-harus-membentuk-kader-perminyakan/
 ---
+
 
 # 1973-05-10 Presiden Soeharto: Pertamina Harus Membentuk Kader Perminyakan
 

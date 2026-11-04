@@ -1,9 +1,40 @@
 ---
-title: "1973-10-23 Penuhi Undangan PBB, Misi Parlemen Jepang Temui Presiden Soeharto – HM Soeharto"
-source: "https://soehartolibrary.id/1973-10-23-penuhi-undangan-pbb-misi-parlemen-jepang-temui-presiden-soeharto/"
-date: "2014-12-01T13:56:54+07:00"
+title: 1973-10-23 Penuhi Undangan PBB, Misi Parlemen Jepang Temui Presiden Soeharto
+description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-10-23-penuhi-undangan-pbb-misi-parlemen-jepang-temui-presiden-soeharto/respond)
+  87 Views Share on
+date: '1973-10-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-10-23-penuhi-undangan-pbb-misi-parlemen-jepang-temui-presiden-soeharto
+aliases:
+- Penuhi Undangan PBB, Misi Parlemen Jepang Temui Presiden Soeharto
+- 1973-10-23 Penuhi Undangan PBB, Misi Parlemen Jepang Temui Presiden Soeharto – HM
+  Soeharto
+tags:
+- keluarga-berencana
+- kepala-negara
+- orde-baru
+- parlemen-jepang
+- pbb
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-10-23-penuhi-undangan-pbb-misi-parlemen-jepang-temui-presiden-soeharto/
+  judul: 1973-10-23 Penuhi Undangan PBB, Misi Parlemen Jepang Temui Presiden Soeharto
+  tanggal: '1973-10-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-10-23-penuhi-undangan-pbb-misi-parlemen-jepang-temui-presiden-soeharto/
 ---
+
 
 # 1973-10-23 Penuhi Undangan PBB, Misi Parlemen Jepang Temui Presiden Soeharto
 

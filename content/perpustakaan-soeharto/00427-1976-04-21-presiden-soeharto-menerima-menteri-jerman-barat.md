@@ -1,9 +1,41 @@
 ---
-title: "1976-04-21 Presiden Soeharto Menerima Menteri Jerman Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1976-04-21-presiden-soeharto-menerima-menteri-jerman-barat/"
-date: "2017-08-30T14:15:59+07:00"
+title: 1976-04-21 Presiden Soeharto Menerima Menteri Jerman Barat
+description: RABU, 21 April 1976, Pada pukul 10.00 pagi ini, bertempat di Istana Merdeka,
+  Kepala Negara menerima kunjungan kehormatan Menteri Urusan Kerjasama Ekonomi Jerman
+  Barat, Egon Bahr. Dalam pertemuan yang dihadiri juga oleh Menteri...
+date: '1976-04-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-04-21-presiden-soeharto-menerima-menteri-jerman-barat
+aliases:
+- Presiden Soeharto Menerima Menteri Jerman Barat
+- 1976-04-21 Presiden Soeharto Menerima Menteri Jerman Barat – HM Soeharto
+tags:
+- bappenas
+- egon-bahr
+- jerman-barat
+- mee
+- menteri-kerjasama-ekonomi
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- widjojo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-04-21-presiden-soeharto-menerima-menteri-jerman-barat/
+  judul: 1976-04-21 Presiden Soeharto Menerima Menteri Jerman Barat
+  tanggal: '1976-04-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-04-21-presiden-soeharto-menerima-menteri-jerman-barat/
 ---
+
 
 # 1976-04-21 Presiden Soeharto Menerima Menteri Jerman Barat
 

@@ -1,9 +1,36 @@
 ---
-title: "Wawasan Nusantara (Bagian 3) – HM Soeharto"
-source: "https://soehartolibrary.id/wawasan-nusantara-bagian-3/"
-date: "2013-06-05T14:35:06+07:00"
+title: Wawasan Nusantara (Bagian 3)
+description: Merupakan cara pandang terhadap kekuatan keragaman karakteristik sumber
+  daya manusia (SDM) Indonesia berbasis suku bangsa/ sub suku bangsa sebagai penopang
+  tegaknya peradaban. Cara pandang ini tidak hanya menempatkan keragaman suku...
+date: '2013-06-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: wawasan-nusantara-bagian-3
+aliases:
+- Wawasan Nusantara (Bagian 3) – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sdm
+- wauku-bangsa
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/wawasan-nusantara-bagian-3/
+  judul: Wawasan Nusantara (Bagian 3)
+  tanggal: '2013-06-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/wawasan-nusantara-bagian-3/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/06/Pak-Harto.jpg)
 

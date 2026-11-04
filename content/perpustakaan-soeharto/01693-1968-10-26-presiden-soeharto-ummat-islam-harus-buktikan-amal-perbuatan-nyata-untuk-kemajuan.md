@@ -1,9 +1,37 @@
 ---
-title: "1968-10-26 Presiden Soeharto: Ummat Islam Harus Buktikan Amal Perbuatan Nyata Untuk Kemajuan – HM Soeharto"
-source: "https://soehartolibrary.id/1968-10-26-presiden-soeharto-ummat-islam-harus-buktikan-amal-perbuatan-nyata-untuk-kemajuan/"
-date: "2014-04-01T02:09:17+07:00"
+title: '1968-10-26 Presiden Soeharto: Ummat Islam Harus Buktikan Amal Perbuatan Nyata
+  Untuk Kemajuan'
+description: 3 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-10-26-presiden-soeharto-ummat-islam-harus-buktikan-amal-perbuatan-nyata-untuk-kemajuan/respond)
+  85 Views Share on
+date: '1968-10-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-10-26-presiden-soeharto-ummat-islam-harus-buktikan-amal-perbuatan-nyata-untuk-kemajuan
+aliases:
+- 'Presiden Soeharto: Ummat Islam Harus Buktikan Amal Perbuatan Nyata Untuk Kemajuan'
+- '1968-10-26 Presiden Soeharto: Ummat Islam Harus Buktikan Amal Perbuatan Nyata Untuk
+  Kemajuan – HM Soeharto'
+tags:
+- orde-baru
+- perpustakaan-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-10-26-presiden-soeharto-ummat-islam-harus-buktikan-amal-perbuatan-nyata-untuk-kemajuan/
+  judul: '1968-10-26 Presiden Soeharto: Ummat Islam Harus Buktikan Amal Perbuatan
+    Nyata Untuk Kemajuan'
+  tanggal: '1968-10-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-10-26-presiden-soeharto-ummat-islam-harus-buktikan-amal-perbuatan-nyata-untuk-kemajuan/
 ---
+
 
 # 1968-10-26 Presiden Soeharto: Ummat Islam Harus Buktikan Amal Perbuatan Nyata Untuk Kemajuan
 

@@ -1,9 +1,40 @@
 ---
-title: "1973-04-11 Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana Kerja – HM Soeharto"
-source: "https://soehartolibrary.id/1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja/"
-date: "2017-08-30T14:16:56+07:00"
+title: 1973-04-11 Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana
+  Kerja
+description: RABU, 11 April 1973, Dalam sidang paripurna Kabinet Pembangunan II yang
+  berlangsung pagi ini di Bina Graha, Presiden memberikan petunjuk kepada semua menteri
+  untuk menyusun kebijaksanaan dan rencana kerja. Dengan demikian akan dapat...
+date: '1973-04-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja
+aliases:
+- Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana Kerja
+- 1973-04-11 Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana Kerja
+  – HM Soeharto
+tags:
+- kabinet-pembangunan
+- kredit
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja/
+  judul: 1973-04-11 Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana
+    Kerja
+  tanggal: '1973-04-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja/
 ---
+
 
 # 1973-04-11 Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana Kerja
 

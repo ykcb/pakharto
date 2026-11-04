@@ -1,9 +1,39 @@
 ---
-title: "1973-05-23 Presiden dan Ibu Tien Soeharto Menerima Alumni STOVIA – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-23-presiden-dan-ibu-tien-soeharto-menerima-alumni-stovia/"
-date: "2014-03-22T02:51:41+07:00"
+title: 1973-05-23 Presiden dan Ibu Tien Soeharto Menerima Alumni STOVIA
+description: RABU, 23 Mei 1973, Bertempat di Istana Merdeka, pada pukul 10.00 pagi
+  ini Presiden dan Ibu Tien Soeharto menerima dan beramah tamah dengan lebih kurang
+  100 orang bekas siswa STOVIA. Dalam sambutannya, Presiden menegaskan pentingnya
+  kita...
+date: '1973-05-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-23-presiden-dan-ibu-tien-soeharto-menerima-alumni-stovia
+aliases:
+- Presiden dan Ibu Tien Soeharto Menerima Alumni STOVIA
+- 1973-05-23 Presiden dan Ibu Tien Soeharto Menerima Alumni STOVIA – HM Soeharto
+tags:
+- benda-bersejarah
+- ibu-tien
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- stovia
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-23-presiden-dan-ibu-tien-soeharto-menerima-alumni-stovia/
+  judul: 1973-05-23 Presiden dan Ibu Tien Soeharto Menerima Alumni STOVIA
+  tanggal: '1973-05-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-23-presiden-dan-ibu-tien-soeharto-menerima-alumni-stovia/
 ---
+
 
 # 1973-05-23 Presiden dan Ibu Tien Soeharto Menerima Alumni STOVIA
 

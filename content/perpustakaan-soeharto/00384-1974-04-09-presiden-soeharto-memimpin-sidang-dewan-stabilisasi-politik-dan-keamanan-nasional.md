@@ -1,9 +1,41 @@
 ---
-title: "1974-04-09 Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Politik dan Keamanan Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/1974-04-09-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional/"
-date: "2014-03-22T02:56:21+07:00"
+title: 1974-04-09 Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Politik dan
+  Keamanan Nasional
+description: SELASA, 9 April 1974, pagi ini bertempat di Bina Graha, Presiden Soeharto
+  memimpin Sidang Dewan Stabilisasi Politik dan Keamanan Nasional. Berlainan dari
+  biasanya, sidang kali ini juga dihadiri oleh para ketua Sub-Dewan Stabilisasi...
+date: '1974-04-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-04-09-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional
+aliases:
+- Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Politik dan Keamanan Nasional
+- 1974-04-09 Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Politik dan Keamanan
+  Nasional – HM Soeharto
+tags:
+- inflasi
+- keamanan-nasional
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- stabilisasi-politik
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-04-09-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional/
+  judul: 1974-04-09 Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Politik dan
+    Keamanan Nasional
+  tanggal: '1974-04-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-04-09-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional/
 ---
+
 
 # 1974-04-09 Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Politik dan Keamanan Nasional
 

@@ -1,9 +1,45 @@
 ---
-title: "Pak Harto dan Para Menteri Koperasi – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-dan-para-menteri-koperasi/"
-date: "2014-05-20T12:52:25+07:00"
+title: Pak Harto dan Para Menteri Koperasi
+description: Catatan kecil yang tertinggal mengenai bagaimana para Menteri yang turut
+  mengisi kiprah Orde Baru dalam pengembangan sektor pertanian yang ditopang oleh
+  koperasi di Indonesia. Dari para menteri yang pernah bertanggungjawab terhadap...
+date: '2014-05-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-dan-para-menteri-koperasi
+aliases:
+- Pak Harto dan Para Menteri Koperasi – HM Soeharto
+tags:
+- australia
+- bimas
+- buud
+- ica
+- inmas
+- koperasi
+- kud
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- ppl
+- sidney
+- transmigrasi
+- wto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-dan-para-menteri-koperasi/
+  judul: Pak Harto dan Para Menteri Koperasi
+  tanggal: '2014-05-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-dan-para-menteri-koperasi/
 ---
+
 
 # Pak Harto dan Para Menteri Koperasi
 

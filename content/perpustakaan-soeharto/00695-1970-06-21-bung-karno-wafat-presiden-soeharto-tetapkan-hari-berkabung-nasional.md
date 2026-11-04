@@ -1,9 +1,49 @@
 ---
-title: "1970-06-21 Bung Karno Wafat, Presiden Soeharto Tetapkan Hari Berkabung Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/1970-06-21-bung-karno-wafat-presiden-soeharto-tetapkan-hari-berkabung-nasional/"
-date: "2017-08-24T15:32:47+07:00"
+title: 1970-06-21 Bung Karno Wafat, Presiden Soeharto Tetapkan Hari Berkabung Nasional
+description: MINGGU, 21 Juni 1970, “Bung Karno meninggal dunia pukul 7.00 pagi ini
+  di Rumah Sakit Angkatan Darat, Jakarta. Sehubungan dengan meninggalnya bekas Presiden
+  RI, Dr. Ir. Soekarno, Presiden Soeharto hari ini berembuk dengan beberapa tokoh...
+date: '1970-06-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-06-21-bung-karno-wafat-presiden-soeharto-tetapkan-hari-berkabung-nasional
+aliases:
+- Bung Karno Wafat, Presiden Soeharto Tetapkan Hari Berkabung Nasional
+- 1970-06-21 Bung Karno Wafat, Presiden Soeharto Tetapkan Hari Berkabung Nasional
+  – HM Soeharto
+tags:
+- berkabung-nasional
+- blitar
+- bung-karno
+- dr-moh-hatta
+- dr-rubino
+- dr-sjarif-thajeb
+- h-anwar-tjokroaminoto
+- hasyim-ning
+- keppres-no-441970
+- mintaredja-sh
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- prof-ga-siwabessy
+- sudharmono
+- wilopo-sh
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-06-21-bung-karno-wafat-presiden-soeharto-tetapkan-hari-berkabung-nasional/
+  judul: 1970-06-21 Bung Karno Wafat, Presiden Soeharto Tetapkan Hari Berkabung Nasional
+  tanggal: '1970-06-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-06-21-bung-karno-wafat-presiden-soeharto-tetapkan-hari-berkabung-nasional/
 ---
+
 
 # 1970-06-21 Bung Karno Wafat, Presiden Soeharto Tetapkan Hari Berkabung Nasional
 

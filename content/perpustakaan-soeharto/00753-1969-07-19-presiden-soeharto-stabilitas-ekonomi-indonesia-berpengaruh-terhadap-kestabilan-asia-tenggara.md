@@ -1,9 +1,51 @@
 ---
-title: "1969-07-19 Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap Kestabilan Asia Tenggara – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-19-presiden-soeharto-stabilitas-ekonomi-indonesia-berpengaruh-terhadap-kestabilan-asia-tenggara/"
-date: "2014-03-21T23:31:52+07:00"
+title: '1969-07-19 Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap
+  Kestabilan Asia Tenggara'
+description: SABTU, 19 Juli 1969. Presiden Soeharto mengatakan bahwa rakyat Indonesia
+  selalu menaruh perhatian yang besar terhadap AS. Ia juga gembira melihat kerjasama
+  kedua negara, terutama di bidang ekonomi telah membawa hasil yang membesarkan...
+date: '1969-07-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-19-presiden-soeharto-stabilitas-ekonomi-indonesia-berpengaruh-terhadap-kestabilan-asia-tenggara
+aliases:
+- 'Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap Kestabilan
+  Asia Tenggara'
+- '1969-07-19 Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap
+  Kestabilan Asia Tenggara – HM Soeharto'
+tags:
+- dpr-gr
+- duta-besar
+- duta-besar-as
+- francis-j-galbraith
+- ha-sjaichu
+- hr-dharsono
+- istana-merdeka
+- jenderal-soeharto
+- muangthai
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- ruu-pemilu
+- sunarsono
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-19-presiden-soeharto-stabilitas-ekonomi-indonesia-berpengaruh-terhadap-kestabilan-asia-tenggara/
+  judul: '1969-07-19 Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap
+    Kestabilan Asia Tenggara'
+  tanggal: '1969-07-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-19-presiden-soeharto-stabilitas-ekonomi-indonesia-berpengaruh-terhadap-kestabilan-asia-tenggara/
 ---
+
 
 # 1969-07-19 Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap Kestabilan Asia Tenggara
 

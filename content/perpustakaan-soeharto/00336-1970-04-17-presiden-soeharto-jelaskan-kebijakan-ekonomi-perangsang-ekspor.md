@@ -1,9 +1,39 @@
 ---
-title: "1970-04-17 Presiden Soeharto Jelaskan Kebijakan Ekonomi Perangsang Ekspor – HM Soeharto"
-source: "https://soehartolibrary.id/1970-04-17-presiden-soeharto-jelaskan-kebijakan-ekonomi-perangsang-ekspor/"
-date: "2014-03-22T02:58:30+07:00"
+title: 1970-04-17 Presiden Soeharto Jelaskan Kebijakan Ekonomi Perangsang Ekspor
+description: JUM’AT, 17 APRIL 1970, Pagi ini Presiden Soeharto mengadakan pembicaraan
+  dengan pimpinan DPR-GR, pimpinan partai politik dan Golkar bertempat di Istana Negara.
+  Dalam pertemuan tersebut, Presiden memberi penjelasan atas kebijaksanaan...
+date: '1970-04-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-04-17-presiden-soeharto-jelaskan-kebijakan-ekonomi-perangsang-ekspor
+aliases:
+- Presiden Soeharto Jelaskan Kebijakan Ekonomi Perangsang Ekspor
+- 1970-04-17 Presiden Soeharto Jelaskan Kebijakan Ekonomi Perangsang Ekspor – HM Soeharto
+tags:
+- dprgr
+- ekspor
+- kurs
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- valuta-asing
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-04-17-presiden-soeharto-jelaskan-kebijakan-ekonomi-perangsang-ekspor/
+  judul: 1970-04-17 Presiden Soeharto Jelaskan Kebijakan Ekonomi Perangsang Ekspor
+  tanggal: '1970-04-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-04-17-presiden-soeharto-jelaskan-kebijakan-ekonomi-perangsang-ekspor/
 ---
+
 
 # 1970-04-17 Presiden Soeharto Jelaskan Kebijakan Ekonomi Perangsang Ekspor
 

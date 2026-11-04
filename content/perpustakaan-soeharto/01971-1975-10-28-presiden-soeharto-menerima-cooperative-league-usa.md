@@ -1,9 +1,39 @@
 ---
-title: "1975-10-28 Presiden Soeharto Menerima Cooperative League of USA – HM Soeharto"
-source: "https://soehartolibrary.id/1975-10-28-presiden-soeharto-menerima-cooperative-league-usa/"
-date: "2014-06-13T18:51:56+07:00"
+title: 1975-10-28 Presiden Soeharto Menerima Cooperative League of USA
+description: 17 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-10-28-presiden-soeharto-menerima-cooperative-league-usa/respond)
+  81 Views Share on
+date: '1975-10-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-10-28-presiden-soeharto-menerima-cooperative-league-usa
+aliases:
+- Presiden Soeharto Menerima Cooperative League of USA
+- 1975-10-28 Presiden Soeharto Menerima Cooperative League of USA – HM Soeharto
+tags:
+- buud
+- cooperative-league-of-usa
+- kepala-negara
+- kud
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-10-28-presiden-soeharto-menerima-cooperative-league-usa/
+  judul: 1975-10-28 Presiden Soeharto Menerima Cooperative League of USA
+  tanggal: '1975-10-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-10-28-presiden-soeharto-menerima-cooperative-league-usa/
 ---
+
 
 # 1975-10-28 Presiden Soeharto Menerima Cooperative League of USA
 

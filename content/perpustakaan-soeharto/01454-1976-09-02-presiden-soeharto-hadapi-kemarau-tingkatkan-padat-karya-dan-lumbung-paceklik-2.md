@@ -1,9 +1,48 @@
 ---
-title: "1976-09-02 Presiden Soeharto: Hadapi Kemarau, Tingkatkan Padat Karya dan Lumbung Paceklik – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-02-presiden-soeharto-hadapi-kemarau-tingkatkan-padat-karya-dan-lumbung-paceklik-2/"
-date: "2017-08-22T16:18:51+07:00"
+title: '1976-09-02 Presiden Soeharto: Hadapi Kemarau, Tingkatkan Padat Karya dan Lumbung
+  Paceklik'
+description: 18 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-02-presiden-soeharto-hadapi-kemarau-tingkatkan-padat-karya-dan-lumbung-paceklik-2/respond)
+  98 Views Share on
+date: '1976-09-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-02-presiden-soeharto-hadapi-kemarau-tingkatkan-padat-karya-dan-lumbung-paceklik-2
+aliases:
+- 'Presiden Soeharto: Hadapi Kemarau, Tingkatkan Padat Karya dan Lumbung Paceklik'
+- '1976-09-02 Presiden Soeharto: Hadapi Kemarau, Tingkatkan Padat Karya dan Lumbung
+  Paceklik – HM Soeharto'
+tags:
+- kemarau
+- koperasi
+- lumbung-paceklik
+- menteri-perdagangan
+- menteri-tenaga-kerja
+- musim-tanam
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- radius-prawiro
+- subroto
+- transmigrasi
+- widjojo-nitisastro
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-02-presiden-soeharto-hadapi-kemarau-tingkatkan-padat-karya-dan-lumbung-paceklik-2/
+  judul: '1976-09-02 Presiden Soeharto: Hadapi Kemarau, Tingkatkan Padat Karya dan
+    Lumbung Paceklik'
+  tanggal: '1976-09-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-02-presiden-soeharto-hadapi-kemarau-tingkatkan-padat-karya-dan-lumbung-paceklik-2/
 ---
+
 
 # 1976-09-02 Presiden Soeharto: Hadapi Kemarau, Tingkatkan Padat Karya dan Lumbung Paceklik
 

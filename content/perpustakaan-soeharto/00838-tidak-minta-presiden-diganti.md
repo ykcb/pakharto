@@ -1,9 +1,39 @@
 ---
-title: "Tidak Minta Presiden Diganti – HM Soeharto"
-source: "https://soehartolibrary.id/tidak-minta-presiden-diganti/"
-date: "2013-07-24T19:44:55+07:00"
+title: Tidak Minta Presiden Diganti
+description: Bapak yang saya hormati dan saya kagumi. Saya rakyat biasa dan satu dari
+  sekian puluh juta penduduk Indonesia dan tinggal di Bogor. Dengan surat ini saya
+  ingin sekali mencurahkan isi hati saya kepada Bapak. Ketika huru hara terjadi, di...
+date: '2013-07-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: tidak-minta-presiden-diganti
+aliases:
+- Tidak Minta Presiden Diganti – HM Soeharto
+tags:
+- bogor
+- cendol
+- huru-hara
+- istana-bogor
+- menari
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/tidak-minta-presiden-diganti/
+  judul: Tidak Minta Presiden Diganti
+  tanggal: '2013-07-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/tidak-minta-presiden-diganti/
 ---
+
 
 # Tidak Minta Presiden Diganti
 

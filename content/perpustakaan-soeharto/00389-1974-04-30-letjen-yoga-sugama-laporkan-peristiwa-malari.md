@@ -1,9 +1,38 @@
 ---
-title: "1974-04-30 Letjen. Yoga Sugama Laporkan Peristiwa Malari – HM Soeharto"
-source: "https://soehartolibrary.id/1974-04-30-letjen-yoga-sugama-laporkan-peristiwa-malari/"
-date: "2014-03-22T02:56:19+07:00"
+title: 1974-04-30 Letjen. Yoga Sugama Laporkan Peristiwa Malari
+description: SELASA, 30 April 1974, Pemerintah tidak bisa menganggap peristiwa subversi
+  yang terjadi pada tanggal 15-16 Januari yang lalu sebagai sudah selesai. Sebab,
+  kita harus tetap waspada terhadap usaha-usaha yang telah dan mungkin akan...
+date: '1974-04-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-04-30-letjen-yoga-sugama-laporkan-peristiwa-malari
+aliases:
+- Letjen. Yoga Sugama Laporkan Peristiwa Malari
+- 1974-04-30 Letjen. Yoga Sugama Laporkan Peristiwa Malari – HM Soeharto
+tags:
+- malari
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- subversi
+- yoga-sugama
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-04-30-letjen-yoga-sugama-laporkan-peristiwa-malari/
+  judul: 1974-04-30 Letjen. Yoga Sugama Laporkan Peristiwa Malari
+  tanggal: '1974-04-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-04-30-letjen-yoga-sugama-laporkan-peristiwa-malari/
 ---
+
 
 # 1974-04-30 Letjen. Yoga Sugama Laporkan Peristiwa Malari
 

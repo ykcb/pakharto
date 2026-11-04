@@ -1,9 +1,45 @@
 ---
-title: "1974-09-10 Presiden Soeharto Instruksikan Kebijakan Luar Negeri Kawasan Sekitar – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-10-presiden-soeharto-instruksikan-kebijakan-luar-negeri-kawasan-sekitar/"
-date: "2017-08-23T10:54:05+07:00"
+title: 1974-09-10 Presiden Soeharto Instruksikan Kebijakan Luar Negeri Kawasan Sekitar
+description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-10-presiden-soeharto-instruksikan-kebijakan-luar-negeri-kawasan-sekitar/respond)
+  110 Views Share on
+date: '1974-09-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-10-presiden-soeharto-instruksikan-kebijakan-luar-negeri-kawasan-sekitar
+aliases:
+- Presiden Soeharto Instruksikan Kebijakan Luar Negeri Kawasan Sekitar
+- 1974-09-10 Presiden Soeharto Instruksikan Kebijakan Luar Negeri Kawasan Sekitar
+  – HM Soeharto
+tags:
+- gangguan-keamanan
+- gough-whitlam
+- kawasan-sekitar
+- kebijakan-luar-negeri
+- kepala-staf-kopkamtib
+- laksamana-sudomo
+- orde-baru
+- perdana-menteri-australia
+- perdana-menteri-malaysia
+- perpustakaan-soeharto
+- presiden-soeharto
+- tun-abdul-razak
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-10-presiden-soeharto-instruksikan-kebijakan-luar-negeri-kawasan-sekitar/
+  judul: 1974-09-10 Presiden Soeharto Instruksikan Kebijakan Luar Negeri Kawasan Sekitar
+  tanggal: '1974-09-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-10-presiden-soeharto-instruksikan-kebijakan-luar-negeri-kawasan-sekitar/
 ---
+
 
 # 1974-09-10 Presiden Soeharto Instruksikan Kebijakan Luar Negeri Kawasan Sekitar
 

@@ -1,9 +1,53 @@
 ---
-title: "1970-01-22 Menerima Pelaksana Jamaah Haji, Presiden Soeharto: Jamaah Haji Jangan Dirugikan Pengaturan Berbelit – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-22-menerima-pelaksana-jamaah-haji-presiden-soeharto-jamaah-haji-jangan-dirugikan-pengaturan-berbelit/"
-date: "2015-03-26T13:30:00+07:00"
+title: '1970-01-22 Menerima Pelaksana Jamaah Haji, Presiden Soeharto: Jamaah Haji
+  Jangan Dirugikan Pengaturan Berbelit'
+description: KAMIS 22 JANUARI 1970, Presiden Soeharto telah membicarakan masalah pelaksanaan
+  jemaah haji Indonesia tahun 1970 dengan Panitia Pelaksanaan Jemaah Haji Indonesia
+  malam ini di Istana Merdeka. Dalam pertemuan tersebut, Presiden Soeharto...
+date: '1970-01-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-22-menerima-pelaksana-jamaah-haji-presiden-soeharto-jamaah-haji-jangan-dirugikan-pengaturan-berbelit
+aliases:
+- 'Menerima Pelaksana Jamaah Haji, Presiden Soeharto: Jamaah Haji Jangan Dirugikan
+  Pengaturan Berbelit'
+- '1970-01-22 Menerima Pelaksana Jamaah Haji, Presiden Soeharto: Jamaah Haji Jangan
+  Dirugikan Pengaturan Berbelit – HM Soeharto'
+tags:
+- bapak-pembangunan
+- bina-graha
+- cendana
+- gbhn
+- haji
+- istana-merdeka
+- jamaah
+- jawab
+- macan-asia
+- orde-baru
+- pelita
+- pengelolaan
+- perbaikan
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- tinggal-landas-2
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-22-menerima-pelaksana-jamaah-haji-presiden-soeharto-jamaah-haji-jangan-dirugikan-pengaturan-berbelit/
+  judul: '1970-01-22 Menerima Pelaksana Jamaah Haji, Presiden Soeharto: Jamaah Haji
+    Jangan Dirugikan Pengaturan Berbelit'
+  tanggal: '1970-01-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-22-menerima-pelaksana-jamaah-haji-presiden-soeharto-jamaah-haji-jangan-dirugikan-pengaturan-berbelit/
 ---
+
 
 # 1970-01-22 Menerima Pelaksana Jamaah Haji, Presiden Soeharto: Jamaah Haji Jangan Dirugikan Pengaturan Berbelit
 

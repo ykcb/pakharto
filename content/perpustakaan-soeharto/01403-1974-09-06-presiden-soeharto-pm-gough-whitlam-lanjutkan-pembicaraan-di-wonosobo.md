@@ -1,9 +1,45 @@
 ---
-title: "1974-09-06 Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo/"
-date: "2017-08-23T10:55:06+07:00"
+title: 1974-09-06 Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo
+description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo/respond)
+  116 Views Share on
+date: '1974-09-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo
+aliases:
+- Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo
+- 1974-09-06 Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo
+  – HM Soeharto
+tags:
+- australia
+- christmas
+- cocos
+- khmer
+- orde-baru
+- perpustakaan-soeharto
+- pm-whitlam
+- presiden-soeharto
+- sabah
+- timor-portugis
+- vietnam
+- wonosobo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo/
+  judul: 1974-09-06 Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo
+  tanggal: '1974-09-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo/
 ---
+
 
 # 1974-09-06 Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo
 

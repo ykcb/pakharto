@@ -1,9 +1,39 @@
 ---
-title: "JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 2) – HM Soeharto"
-source: "https://soehartolibrary.id/arif-bijaksana-dan-rendah-hati-bagian-2/"
-date: "2014-11-25T12:34:34+07:00"
+title: 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 2)'
+description: 4 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/arif-bijaksana-dan-rendah-hati-bagian-2/respond)
+  193 Views Share on
+date: '2014-11-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: arif-bijaksana-dan-rendah-hati-bagian-2
+aliases:
+- 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 2) – HM Soeharto'
+tags:
+- baja
+- cilegon
+- jb-sumarlin
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- pt-krakatau-steel
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/arif-bijaksana-dan-rendah-hati-bagian-2/
+  judul: 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 2)'
+  tanggal: '2014-11-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/arif-bijaksana-dan-rendah-hati-bagian-2/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/JB-Sumarlin.jpg)
 

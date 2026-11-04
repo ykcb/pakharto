@@ -1,9 +1,38 @@
 ---
-title: "1974-09-25 Presiden Soeharto Menerima Wakil Presiden MEE – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-25-presiden-soeharto-menerima-wakil-presiden-mee/"
-date: "2017-08-23T10:52:00+07:00"
+title: 1974-09-25 Presiden Soeharto Menerima Wakil Presiden MEE
+description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-25-presiden-soeharto-menerima-wakil-presiden-mee/respond)
+  88 Views Share on
+date: '1974-09-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-25-presiden-soeharto-menerima-wakil-presiden-mee
+aliases:
+- Presiden Soeharto Menerima Wakil Presiden MEE
+- 1974-09-25 Presiden Soeharto Menerima Wakil Presiden MEE – HM Soeharto
+tags:
+- jenderal-maraden-panggabean
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sir-christopher-soames
+- wakil-presiden-mee
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-25-presiden-soeharto-menerima-wakil-presiden-mee/
+  judul: 1974-09-25 Presiden Soeharto Menerima Wakil Presiden MEE
+  tanggal: '1974-09-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-25-presiden-soeharto-menerima-wakil-presiden-mee/
 ---
+
 
 # 1974-09-25 Presiden Soeharto Menerima Wakil Presiden MEE
 

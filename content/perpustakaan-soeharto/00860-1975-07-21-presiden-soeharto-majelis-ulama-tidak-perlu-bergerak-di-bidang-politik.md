@@ -1,9 +1,43 @@
 ---
-title: "1975-07-21 Presiden Soeharto: Majelis Ulama Tidak Perlu Bergerak di Bidang Politik – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-21-presiden-soeharto-majelis-ulama-tidak-perlu-bergerak-di-bidang-politik/"
-date: "2017-08-23T11:43:25+07:00"
+title: '1975-07-21 Presiden Soeharto: Majelis Ulama Tidak Perlu Bergerak di Bidang
+  Politik'
+description: SENIN, 21 Juli 1975 Pukul 09.00 pagi ini Presiden Soeharto membuka Musyawarah
+  Nasional I Majelis Ulama seluruh Indonesia bertempat di Istana Negara. Dalam kata
+  sambutannya, Kepala Negara antara lain mengatakan bahwa Majelis Ulama tidak...
+date: '1975-07-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-21-presiden-soeharto-majelis-ulama-tidak-perlu-bergerak-di-bidang-politik
+aliases:
+- 'Presiden Soeharto: Majelis Ulama Tidak Perlu Bergerak di Bidang Politik'
+- '1975-07-21 Presiden Soeharto: Majelis Ulama Tidak Perlu Bergerak di Bidang Politik
+  – HM Soeharto'
+tags:
+- antar-ummat-beragama
+- badan-konsultasi
+- golongan-karya
+- majelis-ulama
+- orde-baru
+- partai-politik
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-21-presiden-soeharto-majelis-ulama-tidak-perlu-bergerak-di-bidang-politik/
+  judul: '1975-07-21 Presiden Soeharto: Majelis Ulama Tidak Perlu Bergerak di Bidang
+    Politik'
+  tanggal: '1975-07-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-21-presiden-soeharto-majelis-ulama-tidak-perlu-bergerak-di-bidang-politik/
 ---
+
 
 # 1975-07-21 Presiden Soeharto: Majelis Ulama Tidak Perlu Bergerak di Bidang Politik
 

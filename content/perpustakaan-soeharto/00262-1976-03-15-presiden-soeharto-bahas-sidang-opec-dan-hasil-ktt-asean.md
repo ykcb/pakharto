@@ -1,9 +1,37 @@
 ---
-title: "1976-03-15 Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-15-presiden-soeharto-bahas-sidang-opec-dan-hasil-ktt-asean/"
-date: "2017-08-29T17:38:45+07:00"
+title: 1976-03-15 Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean
+description: SENIN, 15 MARET 1976, Asisten I/Intel hankam, Mayjen. Benny Murdani,
+  menghadap Kepala Negara pagi ini di Cendana. Ia datang untuk melaporkan tentang
+  persiapan-persiapan yang telah dilakukan dalam bidang keamanan dengan rencana...
+date: '1976-03-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-15-presiden-soeharto-bahas-sidang-opec-dan-hasil-ktt-asean
+aliases:
+- Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean
+- 1976-03-15 Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean – HM Soeharto
+tags:
+- ktt-asean
+- opec
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-15-presiden-soeharto-bahas-sidang-opec-dan-hasil-ktt-asean/
+  judul: 1976-03-15 Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean
+  tanggal: '1976-03-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-15-presiden-soeharto-bahas-sidang-opec-dan-hasil-ktt-asean/
 ---
+
 
 # 1976-03-15 Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean
 

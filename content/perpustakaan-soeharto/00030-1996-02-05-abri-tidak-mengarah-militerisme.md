@@ -1,9 +1,44 @@
 ---
-title: "1996-02-05 ABRI Tidak Mengarah Militerisme – HM Soeharto"
-source: "https://soehartolibrary.id/1996-02-05-abri-tidak-mengarah-militerisme/"
-date: "2017-08-28T17:12:45+07:00"
+title: 1996-02-05 ABRI Tidak Mengarah Militerisme
+description: RABU, 5 FEBRUARI 1969 . Dalam amanat tertulis pada upacara Prasetya Perwira
+  Wajib Militer ABRI periode 1968/1969 di Dermaga Ujung, Surabaya, Menhankam/Pangab
+  Jenderal Soeharto kembali menegaskan bahwa ABRI tidak akan menjurus ke arah...
+date: '1996-02-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1996-02-05-abri-tidak-mengarah-militerisme
+aliases:
+- ABRI Tidak Mengarah Militerisme
+- 1996-02-05 ABRI Tidak Mengarah Militerisme – HM Soeharto
+tags:
+- abri
+- diktaktor
+- hankam
+- keamanan
+- militerisme
+- orde-baru
+- pembukaan
+- perpustakaan-soeharto
+- pertahanan
+- rakyat
+- semesta
+- uud-1945
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1996-02-05-abri-tidak-mengarah-militerisme/
+  judul: 1996-02-05 ABRI Tidak Mengarah Militerisme
+  tanggal: '1996-02-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1996-02-05-abri-tidak-mengarah-militerisme/
 ---
+
 
 # 1996-02-05 ABRI Tidak Mengarah Militerisme
 

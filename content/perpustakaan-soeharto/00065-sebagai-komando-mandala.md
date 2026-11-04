@@ -1,9 +1,62 @@
 ---
-title: "Sebagai Komando Mandala – HM Soeharto"
-source: "https://soehartolibrary.id/sebagai-komando-mandala/"
-date: "2018-01-10T19:16:56+07:00"
+title: Sebagai Komando Mandala
+description: Sejak [Konferensi Meja Bundar (KMB)](http://id.wikipedia.org/wiki/KonferensiMejaBundar
+  "Konferensi Meja Bundar") di tahun 1949, ada satu hal yang tidak terselesaikan dan
+  menjadi duri dalam daging bagi Republik Indonesia, yakni soal...
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: sebagai-komando-mandala
+aliases:
+- Sebagai Komando Mandala – HM Soeharto
+tags:
+- amahai
+- ambon
+- amerika
+- banggai
+- belanda
+- biak
+- bungker
+- holandia
+- irian-jaya
+- jayapura
+- jayawijaya
+- jepang
+- kaimana
+- kapal-selam
+- komando
+- letfuan
+- mandala
+- merauke
+- morotai
+- new-york
+- operasi
+- orde-baru
+- pepera
+- perpustakaan-soeharto
+- radar
+- rusia
+- teluk-peling
+- timor-timur
+- trikora
+- wladiwostok
+- yos-sudarso
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/sebagai-komando-mandala/
+  judul: Sebagai Komando Mandala
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/sebagai-komando-mandala/
 ---
+
 
 ![Komando, Operasi, Mandala](https://soehartolibrary.id/wp-content/uploads/2013/02/soeharto-b456.jpg)
 

@@ -1,9 +1,40 @@
 ---
-title: "1978-09-25 Presiden Soeharto Lantik Letjen. Polisi Dr. Awaluddin Djamin Sebagai Kapolri – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-25-presiden-soeharto-lantik-letjen-polisi-dr-awaluddin-djamin-sebagai-kapolri/"
-date: "2017-08-22T12:06:55+07:00"
+title: 1978-09-25 Presiden Soeharto Lantik Letjen. Polisi Dr. Awaluddin Djamin Sebagai
+  Kapolri
+description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-25-presiden-soeharto-lantik-letjen-polisi-dr-awaluddin-djamin-sebagai-kapolri/respond)
+  99 Views Share on
+date: '1978-09-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-25-presiden-soeharto-lantik-letjen-polisi-dr-awaluddin-djamin-sebagai-kapolri
+aliases:
+- Presiden Soeharto Lantik Letjen. Polisi Dr. Awaluddin Djamin Sebagai Kapolri
+- 1978-09-25 Presiden Soeharto Lantik Letjen. Polisi Dr. Awaluddin Djamin Sebagai
+  Kapolri – HM Soeharto
+tags:
+- drs-widodo-budidarmo
+- kapolri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-25-presiden-soeharto-lantik-letjen-polisi-dr-awaluddin-djamin-sebagai-kapolri/
+  judul: 1978-09-25 Presiden Soeharto Lantik Letjen. Polisi Dr. Awaluddin Djamin Sebagai
+    Kapolri
+  tanggal: '1978-09-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-25-presiden-soeharto-lantik-letjen-polisi-dr-awaluddin-djamin-sebagai-kapolri/
 ---
+
 
 # 1978-09-25 Presiden Soeharto Lantik Letjen. Polisi Dr. Awaluddin Djamin Sebagai Kapolri
 

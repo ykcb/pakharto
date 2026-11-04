@@ -1,9 +1,41 @@
 ---
-title: "1976-04-08 Presiden Soeharto Menerima Menlu Mongolia – HM Soeharto"
-source: "https://soehartolibrary.id/1976-04-08-presiden-soeharto-menerima-menlu-mongolia/"
-date: "2014-03-22T02:56:10+07:00"
+title: 1976-04-08 Presiden Soeharto Menerima Menlu Mongolia
+description: KAMIS, 8 April 1976, Pukul 09.00 pagi ini, bertempat di jalan Cendana
+  Presiden Soeharto menerima kunjungan kehormatan Menteri Luar Negeri Republik Rakyat
+  Mongolia, Lodongiyu Rinchin. Dalam pertemuan yang juga di hadiri oleh Menteri Luar...
+date: '1976-04-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-04-08-presiden-soeharto-menerima-menlu-mongolia
+aliases:
+- Presiden Soeharto Menerima Menlu Mongolia
+- 1976-04-08 Presiden Soeharto Menerima Menlu Mongolia – HM Soeharto
+tags:
+- adam-malik
+- lodongiyu-rinchin
+- menteri-luar-negeri
+- mongolia
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rrc
+- uni-soviet
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-04-08-presiden-soeharto-menerima-menlu-mongolia/
+  judul: 1976-04-08 Presiden Soeharto Menerima Menlu Mongolia
+  tanggal: '1976-04-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-04-08-presiden-soeharto-menerima-menlu-mongolia/
 ---
+
 
 # 1976-04-08 Presiden Soeharto Menerima Menlu Mongolia
 

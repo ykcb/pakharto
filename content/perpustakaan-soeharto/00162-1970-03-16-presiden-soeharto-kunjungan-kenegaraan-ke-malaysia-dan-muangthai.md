@@ -1,9 +1,50 @@
 ---
-title: "1970-03-16  Presiden Soeharto Kunjungan Kenegaraan Ke Malaysia dan Muangthai – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-16-presiden-soeharto-kunjungan-kenegaraan-ke-malaysia-dan-muangthai/"
-date: "2017-08-29T11:31:35+07:00"
+title: 1970-03-16  Presiden Soeharto Kunjungan Kenegaraan Ke Malaysia dan Muangthai
+description: SENIN, 16 Maret 1970, Presiden dan Ibu Tien Soeharto beserta rombongan
+  bertolak ke Kuala Lumpur untuk memulai kunjungan kenegaraan selama tujuh hari di
+  Malaysia dan Muangthai. Kunjungan Presiden Soeharto di Malaysia mempunyai arti...
+date: '1970-03-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-16-presiden-soeharto-kunjungan-kenegaraan-ke-malaysia-dan-muangthai
+aliases:
+- Presiden Soeharto Kunjungan Kenegaraan Ke Malaysia dan Muangthai
+- 1970-03-16  Presiden Soeharto Kunjungan Kenegaraan Ke Malaysia dan Muangthai – HM
+  Soeharto
+tags:
+- agong
+- dipertuan
+- ibu
+- indonesia
+- kedah
+- kuala-lumpur
+- malaysia
+- muangthai
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- persaudaraan
+- presiden
+- soeharto
+- sultan-dan-sultana-kedah
+- tien
+- yang
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-16-presiden-soeharto-kunjungan-kenegaraan-ke-malaysia-dan-muangthai/
+  judul: 1970-03-16  Presiden Soeharto Kunjungan Kenegaraan Ke Malaysia dan Muangthai
+  tanggal: '1970-03-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-16-presiden-soeharto-kunjungan-kenegaraan-ke-malaysia-dan-muangthai/
 ---
+
 
 # 1970-03-16 Presiden Soeharto Kunjungan Kenegaraan Ke Malaysia dan Muangthai
 

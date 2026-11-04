@@ -1,9 +1,42 @@
 ---
-title: "1971-07-03 Presiden Soeharto Meninjau TPS-TPS – HM Soeharto"
-source: "https://soehartolibrary.id/1971-07-03-presiden-soeharto-meninjau-tps-tps/"
-date: "2017-08-25T15:46:53+07:00"
+title: 1971-07-03 Presiden Soeharto Meninjau TPS-TPS
+description: SABTU, 03 Juli 1971. Pemilihan umum yang kedua di Indonesia, atau yang
+  pertama pada masa Orde Baru, hari ini berlangsung secara serentak di seluruh tanah
+  air. Dalam rangka pemilihan umum, Presiden Soeharto, didampingi antara lain oleh...
+date: '1971-07-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-07-03-presiden-soeharto-meninjau-tps-tps
+aliases:
+- Presiden Soeharto Meninjau TPS-TPS
+- 1971-07-03 Presiden Soeharto Meninjau TPS-TPS – HM Soeharto
+tags:
+- ali-sadikin
+- amirmachmud
+- gubernur-dki
+- jenderal-soeharto
+- mendagri
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- tps
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-07-03-presiden-soeharto-meninjau-tps-tps/
+  judul: 1971-07-03 Presiden Soeharto Meninjau TPS-TPS
+  tanggal: '1971-07-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-07-03-presiden-soeharto-meninjau-tps-tps/
 ---
+
 
 # 1971-07-03 Presiden Soeharto Meninjau TPS-TPS
 

@@ -1,9 +1,41 @@
 ---
-title: "1970-06-20 Presiden Soeharto: Produk Pemilu Harus Pastikan Kemenangan Pancasila – HM Soeharto"
-source: "https://soehartolibrary.id/1970-06-20-presiden-soeharto-produk-pemilu-harus-pastikan-kemenangan-pancasila/"
-date: "2017-08-24T15:32:55+07:00"
+title: '1970-06-20 Presiden Soeharto: Produk Pemilu Harus Pastikan Kemenangan Pancasila'
+description: SABTU, 20 Juni 1970, “Hasil pemilihan umum yang akan datang bukan dimaksudkan
+  hanya sekedar untuk memenuhi sarana demokrasi, melainkan harus memberikan produk
+  terhadap kemenangan Pancasila dan UUD 1945”, demikian dikemukakan Presiden...
+date: '1970-06-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-06-20-presiden-soeharto-produk-pemilu-harus-pastikan-kemenangan-pancasila
+aliases:
+- 'Presiden Soeharto: Produk Pemilu Harus Pastikan Kemenangan Pancasila'
+- '1970-06-20 Presiden Soeharto: Produk Pemilu Harus Pastikan Kemenangan Pancasila
+  – HM Soeharto'
+tags:
+- demokrasi
+- golkar
+- ipki
+- orde-baru
+- pancasila
+- perpustakaan-soeharto
+- presiden-soeharto
+- uud-1945
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-06-20-presiden-soeharto-produk-pemilu-harus-pastikan-kemenangan-pancasila/
+  judul: '1970-06-20 Presiden Soeharto: Produk Pemilu Harus Pastikan Kemenangan Pancasila'
+  tanggal: '1970-06-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-06-20-presiden-soeharto-produk-pemilu-harus-pastikan-kemenangan-pancasila/
 ---
+
 
 # 1970-06-20 Presiden Soeharto: Produk Pemilu Harus Pastikan Kemenangan Pancasila
 

@@ -1,9 +1,36 @@
 ---
-title: "Wawasan Nusantara (Bagian 4) – HM Soeharto"
-source: "https://soehartolibrary.id/wawasan-nusantara-bagian-4/"
-date: "2013-06-06T11:35:56+07:00"
+title: Wawasan Nusantara (Bagian 4)
+description: Merupakan cara pandang terhadap pengalaman kesejarahan kronik (tarik
+  ulur faksi-faksi pemegang kekuasaan masa lalu), konflik politik dan rotasi (jatuh
+  bangunnya) kekuasaan yang ada di wilayah nusantara sebagai realitas yang harus...
+date: '2013-06-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: wawasan-nusantara-bagian-4
+aliases:
+- Wawasan Nusantara (Bagian 4) – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharfto
+- rotasi-kekuasaan
+- wawasan-nusantara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/wawasan-nusantara-bagian-4/
+  judul: Wawasan Nusantara (Bagian 4)
+  tanggal: '2013-06-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/wawasan-nusantara-bagian-4/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/06/Wawasan.jpg)
 

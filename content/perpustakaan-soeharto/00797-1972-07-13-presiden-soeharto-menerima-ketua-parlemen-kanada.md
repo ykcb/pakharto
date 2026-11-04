@@ -1,9 +1,40 @@
 ---
-title: "1972-07-13 Presiden Soeharto Menerima Ketua Parlemen Kanada – HM Soeharto"
-source: "https://soehartolibrary.id/1972-07-13-presiden-soeharto-menerima-ketua-parlemen-kanada/"
-date: "2017-08-25T15:28:14+07:00"
+title: 1972-07-13 Presiden Soeharto Menerima Ketua Parlemen Kanada
+description: KAMIS, 13 Juli 1972. Bertempagt di Istana Merdeka, hari ini Presiden
+  Soeharto menerima kunjungan Ketua Parlemen Kanada, Lucien Lamoreux. Dalam pertemuan
+  tersebut Presiden telah menjelaskan tentang kebijaksanaan pemerintah di bidang...
+date: '1972-07-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-07-13-presiden-soeharto-menerima-ketua-parlemen-kanada
+aliases:
+- Presiden Soeharto Menerima Ketua Parlemen Kanada
+- 1972-07-13 Presiden Soeharto Menerima Ketua Parlemen Kanada – HM Soeharto
+tags:
+- jenderal-soeharto
+- kanada
+- lucien-lamoreux
+- orde-baru
+- pak-harto
+- parlemen
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-07-13-presiden-soeharto-menerima-ketua-parlemen-kanada/
+  judul: 1972-07-13 Presiden Soeharto Menerima Ketua Parlemen Kanada
+  tanggal: '1972-07-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-07-13-presiden-soeharto-menerima-ketua-parlemen-kanada/
 ---
+
 
 # 1972-07-13 Presiden Soeharto Menerima Ketua Parlemen Kanada
 

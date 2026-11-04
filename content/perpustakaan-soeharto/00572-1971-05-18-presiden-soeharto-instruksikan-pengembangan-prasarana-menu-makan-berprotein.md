@@ -1,9 +1,42 @@
 ---
-title: "1971-05-18 Presiden Soeharto Instruksikan Pengembangan Prasarana Menu Makan Berprotein – HM Soeharto"
-source: "https://soehartolibrary.id/1971-05-18-presiden-soeharto-instruksikan-pengembangan-prasarana-menu-makan-berprotein/"
-date: "2017-08-28T16:44:28+07:00"
+title: 1971-05-18 Presiden Soeharto Instruksikan Pengembangan Prasarana Menu Makan
+  Berprotein
+description: SELASA, 18 Mei 1971, Dalam sidang kabinet terbatas pagi ini, Presiden
+  Soeharto mengharapkan agar dapat dirumuskan secara kongkrit, dan disebarluaskan
+  kepada masyarakat, pengembangan prasarana menu makanan, yang mengandung protein
+  lebih...
+date: '1971-05-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-05-18-presiden-soeharto-instruksikan-pengembangan-prasarana-menu-makan-berprotein
+aliases:
+- Presiden Soeharto Instruksikan Pengembangan Prasarana Menu Makan Berprotein
+- 1971-05-18 Presiden Soeharto Instruksikan Pengembangan Prasarana Menu Makan Berprotein
+  – HM Soeharto
+tags:
+- berprotein
+- menteri-perindustrian
+- menu-makan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-05-18-presiden-soeharto-instruksikan-pengembangan-prasarana-menu-makan-berprotein/
+  judul: 1971-05-18 Presiden Soeharto Instruksikan Pengembangan Prasarana Menu Makan
+    Berprotein
+  tanggal: '1971-05-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-05-18-presiden-soeharto-instruksikan-pengembangan-prasarana-menu-makan-berprotein/
 ---
+
 
 # 1971-05-18 Presiden Soeharto Instruksikan Pengembangan Prasarana Menu Makan Berprotein
 

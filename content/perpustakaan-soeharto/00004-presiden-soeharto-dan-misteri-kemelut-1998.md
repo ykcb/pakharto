@@ -1,9 +1,47 @@
 ---
-title: "Presiden Soeharto dan Misteri Kemelut 1998 – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-dan-misteri-kemelut-1998/"
-date: "2014-04-01T03:46:07+07:00"
+title: Presiden Soeharto dan Misteri Kemelut 1998
+description: Krisis politik yang mengiringi krisis ekonomi tahun 1998 yang berujung
+  pada pengunduran diri Presiden Soeharto sebenarnya tidak sesederhana pemahaman kebanyakan
+  orang selama ini. Kebanyakan menteorikan pengunduran diri Presiden Soeharto...
+date: '2014-04-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-dan-misteri-kemelut-1998
+aliases:
+- Presiden Soeharto dan Misteri Kemelut 1998 – HM Soeharto
+tags:
+- '1998'
+- baru
+- ekonomi
+- eks-pki
+- imf
+- indonesia
+- internasional
+- krisis
+- moneter
+- oportunis
+- orde
+- orde-baru
+- pengendalian
+- perpustakaan-soeharto
+- reformis
+- tinggal-landas-2
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-dan-misteri-kemelut-1998/
+  judul: Presiden Soeharto dan Misteri Kemelut 1998
+  tanggal: '2014-04-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-dan-misteri-kemelut-1998/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b364.jpg)
 

@@ -1,9 +1,42 @@
 ---
-title: "1970-09-11 Kembali ke Jakarta, Presiden Soeharto Transit Lagos dan Ankara – HM Soeharto"
-source: "https://soehartolibrary.id/1970-09-11-kembali-ke-jakarta-presiden-soeharto-transit-lagos-dan-ankara/"
-date: "2017-08-22T17:35:53+07:00"
+title: 1970-09-11 Kembali ke Jakarta, Presiden Soeharto Transit Lagos dan Ankara
+description: 6 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-09-11-kembali-ke-jakarta-presiden-soeharto-transit-lagos-dan-ankara/respond)
+  99 Views Share on
+date: '1970-09-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-09-11-kembali-ke-jakarta-presiden-soeharto-transit-lagos-dan-ankara
+aliases:
+- Kembali ke Jakarta, Presiden Soeharto Transit Lagos dan Ankara
+- 1970-09-11 Kembali ke Jakarta, Presiden Soeharto Transit Lagos dan Ankara – HM Soeharto
+tags:
+- ankara
+- cevdet-sunay
+- jenderal-yakubu-gowon
+- lagos
+- nigeria
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- suleyman-demirel
+- turki
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-09-11-kembali-ke-jakarta-presiden-soeharto-transit-lagos-dan-ankara/
+  judul: 1970-09-11 Kembali ke Jakarta, Presiden Soeharto Transit Lagos dan Ankara
+  tanggal: '1970-09-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-09-11-kembali-ke-jakarta-presiden-soeharto-transit-lagos-dan-ankara/
 ---
+
 
 # 1970-09-11 Kembali ke Jakarta, Presiden Soeharto Transit Lagos dan Ankara
 

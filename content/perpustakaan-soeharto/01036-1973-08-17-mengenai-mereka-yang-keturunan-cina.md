@@ -1,9 +1,39 @@
 ---
-title: "Mengenai Mereka yang Keturunan Cina – HM Soeharto"
-source: "https://soehartolibrary.id/1973-08-17-mengenai-mereka-yang-keturunan-cina/"
-date: "2018-01-19T14:47:56+07:00"
+title: Mengenai Mereka yang Keturunan Cina
+description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-08-17-mengenai-mereka-yang-keturunan-cina/respond)
+  142 Views Share on
+date: '1973-08-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-08-17-mengenai-mereka-yang-keturunan-cina
+aliases:
+- Mengenai Mereka yang Keturunan Cina – HM Soeharto
+tags:
+- anti-cina
+- bandung
+- keturunan-cina
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rasial
+- subversi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-08-17-mengenai-mereka-yang-keturunan-cina/
+  judul: Mengenai Mereka yang Keturunan Cina
+  tanggal: '1973-08-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-08-17-mengenai-mereka-yang-keturunan-cina/
 ---
+
 
 # Mengenai Mereka yang Keturunan Cina
 

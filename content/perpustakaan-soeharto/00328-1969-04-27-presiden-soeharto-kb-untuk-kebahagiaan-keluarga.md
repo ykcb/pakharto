@@ -1,9 +1,40 @@
 ---
-title: "1969-04-27 Presiden Soeharto: KB Untuk Kebahagiaan Keluarga – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga/"
-date: "2014-03-22T02:58:34+07:00"
+title: '1969-04-27 Presiden Soeharto: KB Untuk Kebahagiaan Keluarga'
+description: MINGGU, 27 APRIL 1969, Dalam amanat tertulis pada pembukaan seminar Pemuda
+  dan Keluarga Berencana, yang diselenggarakan oleh WAY (Majelis Pemuda se-Dunia)
+  di Jakarta hari ini. Presiden mengatakan bahwa tujuan pelaksanaan KB di Indonesia...
+date: '1969-04-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga
+aliases:
+- 'Presiden Soeharto: KB Untuk Kebahagiaan Keluarga'
+- '1969-04-27 Presiden Soeharto: KB Untuk Kebahagiaan Keluarga – HM Soeharto'
+tags:
+- ibu-dan-anak
+- jenderal-soeharto
+- kb
+- keluarga-berencana
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga/
+  judul: '1969-04-27 Presiden Soeharto: KB Untuk Kebahagiaan Keluarga'
+  tanggal: '1969-04-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga/
 ---
+
 
 # 1969-04-27 Presiden Soeharto: KB Untuk Kebahagiaan Keluarga
 

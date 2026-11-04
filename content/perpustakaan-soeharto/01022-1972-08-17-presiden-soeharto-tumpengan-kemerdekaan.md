@@ -1,9 +1,37 @@
 ---
-title: "1972-08-17 Presiden Soeharto Tumpengan Kemerdekaan – HM Soeharto"
-source: "https://soehartolibrary.id/1972-08-17-presiden-soeharto-tumpengan-kemerdekaan/"
-date: "2017-08-24T15:06:39+07:00"
+title: 1972-08-17 Presiden Soeharto Tumpengan Kemerdekaan
+description: 20 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-08-17-presiden-soeharto-tumpengan-kemerdekaan/respond)
+  82 Views Share on
+date: '1972-08-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-08-17-presiden-soeharto-tumpengan-kemerdekaan
+aliases:
+- Presiden Soeharto Tumpengan Kemerdekaan
+- 1972-08-17 Presiden Soeharto Tumpengan Kemerdekaan – HM Soeharto
+tags:
+- kemerdekaan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tumpengan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-08-17-presiden-soeharto-tumpengan-kemerdekaan/
+  judul: 1972-08-17 Presiden Soeharto Tumpengan Kemerdekaan
+  tanggal: '1972-08-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-08-17-presiden-soeharto-tumpengan-kemerdekaan/
 ---
+
 
 # 1972-08-17 Presiden Soeharto Tumpengan Kemerdekaan
 

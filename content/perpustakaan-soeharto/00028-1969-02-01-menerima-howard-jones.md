@@ -1,9 +1,41 @@
 ---
-title: "1969-02-01 MENERIMA HOWARD JONES – HM Soeharto"
-source: "https://soehartolibrary.id/1969-02-01-menerima-howard-jones/"
-date: "2017-08-29T11:18:36+07:00"
+title: 1969-02-01 MENERIMA HOWARD JONES
+description: SABTU, 1 FEBRUARI 1969 Pagi hari, Presiden Soeharto menerima Howard P.
+  Jones, bekas dutabesar AS di Jakarta. Howard Jones menemui Presiden dalam rangka
+  kunjungan kehormatan. Sebelumnya Presiden Soeharto juga menerima kunjungan...
+date: '1969-02-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-02-01-menerima-howard-jones
+aliases:
+- MENERIMA HOWARD JONES
+- 1969-02-01 MENERIMA HOWARD JONES – HM Soeharto
+tags:
+- as
+- besar
+- duta
+- howard
+- jones
+- kehormatan
+- kunjungan
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-02-01-menerima-howard-jones/
+  judul: 1969-02-01 MENERIMA HOWARD JONES
+  tanggal: '1969-02-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-02-01-menerima-howard-jones/
 ---
+
 
 # 1969-02-01 MENERIMA HOWARD JONES
 

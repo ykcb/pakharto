@@ -1,9 +1,45 @@
 ---
-title: "1974-07-16 Presiden Soeharto Setujui Pembebasan Pajak Docking Galangan Dalam Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-16-presiden-soeharto-setujui-pembebasan-pajak-docking-galangan-dalam-negeri/"
-date: "2017-08-23T11:55:52+07:00"
+title: 1974-07-16 Presiden Soeharto Setujui Pembebasan Pajak Docking Galangan Dalam
+  Negeri
+description: SELASA, 16 Juli 1974, Pukul 10.00 pagi ini Presiden Soeharto memimpin
+  Sidang Dewan Stabilitas Ekonomi Nasional yang berlangsung di Bina Graha, Jakarta.
+  Sidang hari ini telah membahas berbagai masalah ekonomi dan keuangan. Dalam sidang...
+date: '1974-07-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-16-presiden-soeharto-setujui-pembebasan-pajak-docking-galangan-dalam-negeri
+aliases:
+- Presiden Soeharto Setujui Pembebasan Pajak Docking Galangan Dalam Negeri
+- 1974-07-16 Presiden Soeharto Setujui Pembebasan Pajak Docking Galangan Dalam Negeri
+  – HM Soeharto
+tags:
+- ali-wardhana
+- dcoking
+- emil-salim
+- galangan-kapal
+- industri
+- orde-baru
+- pajak
+- perpustakaan-soeharto
+- presiden-soeharto
+- tanjung-priuk
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-16-presiden-soeharto-setujui-pembebasan-pajak-docking-galangan-dalam-negeri/
+  judul: 1974-07-16 Presiden Soeharto Setujui Pembebasan Pajak Docking Galangan Dalam
+    Negeri
+  tanggal: '1974-07-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-16-presiden-soeharto-setujui-pembebasan-pajak-docking-galangan-dalam-negeri/
 ---
+
 
 # 1974-07-16 Presiden Soeharto Setujui Pembebasan Pajak Docking Galangan Dalam Negeri
 

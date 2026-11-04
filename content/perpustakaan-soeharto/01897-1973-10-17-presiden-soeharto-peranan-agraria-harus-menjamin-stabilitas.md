@@ -1,9 +1,37 @@
 ---
-title: "1973-10-17 Presiden Soeharto: Peranan Agraria Harus Menjamin Stabilitas – HM Soeharto"
-source: "https://soehartolibrary.id/1973-10-17-presiden-soeharto-peranan-agraria-harus-menjamin-stabilitas/"
-date: "2014-12-01T13:59:04+07:00"
+title: '1973-10-17 Presiden Soeharto: Peranan Agraria Harus Menjamin Stabilitas'
+description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-10-17-presiden-soeharto-peranan-agraria-harus-menjamin-stabilitas/respond)
+  126 Views Share on
+date: '1973-10-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-10-17-presiden-soeharto-peranan-agraria-harus-menjamin-stabilitas
+aliases:
+- 'Presiden Soeharto: Peranan Agraria Harus Menjamin Stabilitas'
+- '1973-10-17 Presiden Soeharto: Peranan Agraria Harus Menjamin Stabilitas – HM Soeharto'
+tags:
+- agraria
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-10-17-presiden-soeharto-peranan-agraria-harus-menjamin-stabilitas/
+  judul: '1973-10-17 Presiden Soeharto: Peranan Agraria Harus Menjamin Stabilitas'
+  tanggal: '1973-10-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-10-17-presiden-soeharto-peranan-agraria-harus-menjamin-stabilitas/
 ---
+
 
 # 1973-10-17 Presiden Soeharto: Peranan Agraria Harus Menjamin Stabilitas
 

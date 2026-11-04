@@ -1,9 +1,38 @@
 ---
-title: "Reformasi Jauh Dari Target MDGs – HM Soeharto"
-source: "https://soehartolibrary.id/reformasi-jauh-dari-target-mdgs/"
-date: "2014-05-08T18:43:50+07:00"
+title: Reformasi Jauh Dari Target MDGs
+description: REFORMASI telah memasuki tahun ke-15. Reformasi, bukan revolusi. Reformasi,
+  esensinya , adalah memperbaiki yang belum baik dan meneruskan yang sudah baik. Konsistensi
+  ini diperlukan, agar kita tidak meyimpang dari tujuan atau cita-cita...
+date: '2014-05-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: reformasi-jauh-dari-target-mdgs
+aliases:
+- Reformasi Jauh Dari Target MDGs – HM Soeharto
+tags:
+- kapitalisme
+- mdgs
+- orde-baru
+- pasal-33
+- perpustakaan-soeharto
+- reformasi
+- uud-1945
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/reformasi-jauh-dari-target-mdgs/
+  judul: Reformasi Jauh Dari Target MDGs
+  tanggal: '2014-05-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/reformasi-jauh-dari-target-mdgs/
 ---
+
 
 # Reformasi Jauh Dari Target MDGs
 

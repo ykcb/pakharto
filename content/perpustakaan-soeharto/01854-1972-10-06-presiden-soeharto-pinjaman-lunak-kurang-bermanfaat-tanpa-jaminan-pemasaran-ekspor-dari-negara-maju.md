@@ -1,9 +1,40 @@
 ---
-title: "1972-10-06 Presiden Soeharto: Pinjaman Lunak Kurang Bermanfaat Tanpa Jaminan Pemasaran Ekspor Dari Negara Maju – HM Soeharto"
-source: "https://soehartolibrary.id/1972-10-06-presiden-soeharto-pinjaman-lunak-kurang-bermanfaat-tanpa-jaminan-pemasaran-ekspor-dari-negara-maju/"
-date: "2014-12-01T16:10:20+07:00"
+title: '1972-10-06 Presiden Soeharto: Pinjaman Lunak Kurang Bermanfaat Tanpa Jaminan
+  Pemasaran Ekspor Dari Negara Maju'
+description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-10-06-presiden-soeharto-pinjaman-lunak-kurang-bermanfaat-tanpa-jaminan-pemasaran-ekspor-dari-negara-maju/respond)...
+date: '1972-10-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-10-06-presiden-soeharto-pinjaman-lunak-kurang-bermanfaat-tanpa-jaminan-pemasaran-ekspor-dari-negara-maju
+aliases:
+- 'Presiden Soeharto: Pinjaman Lunak Kurang Bermanfaat Tanpa Jaminan Pemasaran Ekspor
+  Dari Negara Maju'
+- '1972-10-06 Presiden Soeharto: Pinjaman Lunak Kurang Bermanfaat Tanpa Jaminan Pemasaran
+  Ekspor Dari Negara Maju – HM Soeharto'
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- pinjaman-lunak
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-10-06-presiden-soeharto-pinjaman-lunak-kurang-bermanfaat-tanpa-jaminan-pemasaran-ekspor-dari-negara-maju/
+  judul: '1972-10-06 Presiden Soeharto: Pinjaman Lunak Kurang Bermanfaat Tanpa Jaminan
+    Pemasaran Ekspor Dari Negara Maju'
+  tanggal: '1972-10-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-10-06-presiden-soeharto-pinjaman-lunak-kurang-bermanfaat-tanpa-jaminan-pemasaran-ekspor-dari-negara-maju/
 ---
+
 
 # 1972-10-06 Presiden Soeharto: Pinjaman Lunak Kurang Bermanfaat Tanpa Jaminan Pemasaran Ekspor Dari Negara Maju
 

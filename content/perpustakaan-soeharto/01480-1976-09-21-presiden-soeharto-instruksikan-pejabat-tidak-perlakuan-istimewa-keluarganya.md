@@ -1,9 +1,40 @@
 ---
-title: "1976-09-21 Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa Keluarganya – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-21-presiden-soeharto-instruksikan-pejabat-tidak-perlakuan-istimewa-keluarganya/"
-date: "2017-07-05T15:33:05+07:00"
+title: 1976-09-21 Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa
+  Keluarganya
+description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-21-presiden-soeharto-instruksikan-pejabat-tidak-perlakuan-istimewa-keluarganya/respond)
+  84 Views Share on
+date: '1976-09-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-21-presiden-soeharto-instruksikan-pejabat-tidak-perlakuan-istimewa-keluarganya
+aliases:
+- Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa Keluarganya
+- 1976-09-21 Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa Keluarganya
+  – HM Soeharto
+tags:
+- keluarga-presiden
+- orde-baru
+- perlakuan-istimewa
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-21-presiden-soeharto-instruksikan-pejabat-tidak-perlakuan-istimewa-keluarganya/
+  judul: 1976-09-21 Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa
+    Keluarganya
+  tanggal: '1976-09-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-21-presiden-soeharto-instruksikan-pejabat-tidak-perlakuan-istimewa-keluarganya/
 ---
+
 
 # 1976-09-21 Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa Keluarganya
 

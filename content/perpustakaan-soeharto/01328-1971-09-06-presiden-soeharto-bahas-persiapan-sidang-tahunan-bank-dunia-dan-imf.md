@@ -1,9 +1,43 @@
 ---
-title: "1971-09-06 Presiden Soeharto Bahas Persiapan Sidang Tahunan Bank Dunia dan IMF – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-06-presiden-soeharto-bahas-persiapan-sidang-tahunan-bank-dunia-dan-imf/"
-date: "2017-08-22T16:21:17+07:00"
+title: 1971-09-06 Presiden Soeharto Bahas Persiapan Sidang Tahunan Bank Dunia dan
+  IMF
+description: 12 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-06-presiden-soeharto-bahas-persiapan-sidang-tahunan-bank-dunia-dan-imf/respond)
+  89 Views Share on
+date: '1971-09-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-06-presiden-soeharto-bahas-persiapan-sidang-tahunan-bank-dunia-dan-imf
+aliases:
+- Presiden Soeharto Bahas Persiapan Sidang Tahunan Bank Dunia dan IMF
+- 1971-09-06 Presiden Soeharto Bahas Persiapan Sidang Tahunan Bank Dunia dan IMF –
+  HM Soeharto
+tags:
+- bank-dunia
+- bappenas
+- gubernur-bank-sentral
+- imf
+- menteri-keuangan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-06-presiden-soeharto-bahas-persiapan-sidang-tahunan-bank-dunia-dan-imf/
+  judul: 1971-09-06 Presiden Soeharto Bahas Persiapan Sidang Tahunan Bank Dunia dan
+    IMF
+  tanggal: '1971-09-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-06-presiden-soeharto-bahas-persiapan-sidang-tahunan-bank-dunia-dan-imf/
 ---
+
 
 # 1971-09-06 Presiden Soeharto Bahas Persiapan Sidang Tahunan Bank Dunia dan IMF
 

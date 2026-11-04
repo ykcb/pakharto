@@ -1,9 +1,46 @@
 ---
-title: "1977-09-12 Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait – HM Soeharto"
-source: "https://soehartolibrary.id/1977-09-12-presiden-soeharto-menerima-emil-salim-dan-menteri-minyak-kuwait/"
-date: "2017-08-22T16:13:08+07:00"
+title: 1977-09-12 Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait
+description: 20 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1977-09-12-presiden-soeharto-menerima-emil-salim-dan-menteri-minyak-kuwait/respond)
+  93 Views Share on
+date: '1977-09-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-09-12-presiden-soeharto-menerima-emil-salim-dan-menteri-minyak-kuwait
+aliases:
+- Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait
+- 1977-09-12 Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait – HM
+  Soeharto
+tags:
+- abdel-muthalib-al-kazemi
+- direktur-utama-pertamina
+- emil-salim
+- m-sadli
+- menteri-minyak-kuwait
+- menteri-perhubungan
+- menteri-pertambangan
+- menterisekretaris-negara
+- orde-baru
+- perpustakaan-soeharto
+- piet-haryono
+- presiden-soeharto
+- sudharmono
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-09-12-presiden-soeharto-menerima-emil-salim-dan-menteri-minyak-kuwait/
+  judul: 1977-09-12 Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait
+  tanggal: '1977-09-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-09-12-presiden-soeharto-menerima-emil-salim-dan-menteri-minyak-kuwait/
 ---
+
 
 # 1977-09-12 Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait
 

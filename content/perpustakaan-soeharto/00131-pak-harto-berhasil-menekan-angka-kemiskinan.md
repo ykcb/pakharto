@@ -1,9 +1,41 @@
 ---
-title: "Pak Harto Berhasil Menekan Angka Kemiskinan – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-berhasil-menekan-angka-kemiskinan/"
-date: "2013-03-09T00:29:05+07:00"
+title: Pak Harto Berhasil Menekan Angka Kemiskinan
+description: 'TELAH lebih dari 67 tahun bangsa kita terbebas dari penjajahan. Selama
+  itu pula bangsa Indonesia berjuang mewujudkan cita-cita kemerdekaannya,yaitu: membentuk
+  suatu Pemerintahan Negara Indonesia yang melindungi segenap bangsa Indonesia...'
+date: '2013-03-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-berhasil-menekan-angka-kemiskinan
+aliases:
+- Pak Harto Berhasil Menekan Angka Kemiskinan – HM Soeharto
+tags:
+- '2015'
+- angka
+- kemiskinan
+- mdgs
+- miskin
+- orde-baru
+- pak-harto
+- penduduk
+- penurunan
+- perpustakaan-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-berhasil-menekan-angka-kemiskinan/
+  judul: Pak Harto Berhasil Menekan Angka Kemiskinan
+  tanggal: '2013-03-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-berhasil-menekan-angka-kemiskinan/
 ---
+
 
 # Pak Harto Berhasil Menekan Angka Kemiskinan
 

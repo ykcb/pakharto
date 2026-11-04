@@ -1,9 +1,42 @@
 ---
-title: "1969-04-21 Presiden Soeharto Instruksikan Transmigrasi Dikaitkan Proyek Pangan – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-21-presiden-soeharto-instruksikan-transmigrasi-dikaitkan-proyek-pangan/"
-date: "2014-03-22T02:58:35+07:00"
+title: 1969-04-21 Presiden Soeharto Instruksikan Transmigrasi Dikaitkan Proyek Pangan
+description: SENIN, 21 APRIL 1969, Presiden Soeharto menekankan pentingnya transmigrasi
+  dalam melaksanakan Repelita. Dalam hubungan ini Presiden menginstruksikan agar transmigrasi
+  dikaitkan dengan proyek-proyek pangan di luar Jawa, khususnya proyek...
+date: '1969-04-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-21-presiden-soeharto-instruksikan-transmigrasi-dikaitkan-proyek-pangan
+aliases:
+- Presiden Soeharto Instruksikan Transmigrasi Dikaitkan Proyek Pangan
+- 1969-04-21 Presiden Soeharto Instruksikan Transmigrasi Dikaitkan Proyek Pangan –
+  HM Soeharto
+tags:
+- gunung-merapi
+- jawa-tengah
+- jenderal-soeharto
+- lampung
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- transmigrasi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-21-presiden-soeharto-instruksikan-transmigrasi-dikaitkan-proyek-pangan/
+  judul: 1969-04-21 Presiden Soeharto Instruksikan Transmigrasi Dikaitkan Proyek Pangan
+  tanggal: '1969-04-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-21-presiden-soeharto-instruksikan-transmigrasi-dikaitkan-proyek-pangan/
 ---
+
 
 # 1969-04-21 Presiden Soeharto Instruksikan Transmigrasi Dikaitkan Proyek Pangan
 

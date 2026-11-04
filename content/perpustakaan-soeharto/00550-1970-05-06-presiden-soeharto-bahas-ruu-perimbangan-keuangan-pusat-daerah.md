@@ -1,9 +1,43 @@
 ---
-title: "1970-05-06 Presiden Soeharto Bahas RUU Perimbangan Keuangan Pusat-Daerah – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-06-presiden-soeharto-bahas-ruu-perimbangan-keuangan-pusat-daerah/"
-date: "2017-08-25T15:52:30+07:00"
+title: 1970-05-06 Presiden Soeharto Bahas RUU Perimbangan Keuangan Pusat-Daerah
+description: RABU, 6 MEI 1970, Melalui Gubernur Jawa Barat, Solichin GP, pagi ini
+  di Bina Graha Presiden Soeharto Soeharto menyerahkan mesin Huller (penggiling padi)
+  kepada Hudori dari desa Cikoneng, Kabupaten Ciamis, Jawa Barat. Hudori adalah bekas...
+date: '1970-05-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-06-presiden-soeharto-bahas-ruu-perimbangan-keuangan-pusat-daerah
+aliases:
+- Presiden Soeharto Bahas RUU Perimbangan Keuangan Pusat-Daerah
+- 1970-05-06 Presiden Soeharto Bahas RUU Perimbangan Keuangan Pusat-Daerah – HM Soeharto
+tags:
+- ciamis
+- cikoneng
+- dpr-gr
+- jawa-barat
+- keuangan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- ruu
+- siliwangi
+- solichin-gp
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-06-presiden-soeharto-bahas-ruu-perimbangan-keuangan-pusat-daerah/
+  judul: 1970-05-06 Presiden Soeharto Bahas RUU Perimbangan Keuangan Pusat-Daerah
+  tanggal: '1970-05-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-06-presiden-soeharto-bahas-ruu-perimbangan-keuangan-pusat-daerah/
 ---
+
 
 # 1970-05-06 Presiden Soeharto Bahas RUU Perimbangan Keuangan Pusat-Daerah
 

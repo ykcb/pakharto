@@ -1,9 +1,44 @@
 ---
-title: "1973-05-03 Presiden Soeharto Resmikan Pabrik Farmasi di Pulo Mas – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-03-presiden-soeharto-resmikan-pabrik-farmasi-di-pulo-mas/"
-date: "2017-08-24T17:43:42+07:00"
+title: 1973-05-03 Presiden Soeharto Resmikan Pabrik Farmasi di Pulo Mas
+description: KAMIS, 3 Mei 1973, Sehubungan dengan pengangkatan Naim Talu sebagai Perdana
+  Menteri baru Turki, Presiden Soeharto hari ini mengirimkan ucapan selamat kepadanya.
+  Didalam telegramnya, Presiden mengharapkan agar hubungan yang bersahabat...
+date: '1973-05-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-03-presiden-soeharto-resmikan-pabrik-farmasi-di-pulo-mas
+aliases:
+- Presiden Soeharto Resmikan Pabrik Farmasi di Pulo Mas
+- 1973-05-03 Presiden Soeharto Resmikan Pabrik Farmasi di Pulo Mas – HM Soeharto
+tags:
+- australia
+- dpr
+- jakarta-timur
+- mpr
+- naim-talu
+- new-zealand
+- orde-baru
+- perdana-menteri
+- perpustakaan-soeharto
+- presiden-soeharto
+- pulo-mas
+- turki
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-03-presiden-soeharto-resmikan-pabrik-farmasi-di-pulo-mas/
+  judul: 1973-05-03 Presiden Soeharto Resmikan Pabrik Farmasi di Pulo Mas
+  tanggal: '1973-05-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-03-presiden-soeharto-resmikan-pabrik-farmasi-di-pulo-mas/
 ---
+
 
 # 1973-05-03 Presiden Soeharto Resmikan Pabrik Farmasi di Pulo Mas
 

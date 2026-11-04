@@ -1,9 +1,41 @@
 ---
-title: "1974-10-05 Presiden Soeharto: Nilai-Nilai 45 Harus Diteruskan dari Generasi Ke Generasi – HM Soeharto"
-source: "https://soehartolibrary.id/1974-10-05-presiden-soeharto-nilai-nilai-45-harus-diteruskan-dari-generasi-ke-generasi/"
-date: "2014-12-01T13:55:20+07:00"
+title: '1974-10-05 Presiden Soeharto: Nilai-Nilai 45 Harus Diteruskan dari Generasi
+  Ke Generasi'
+description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-10-05-presiden-soeharto-nilai-nilai-45-harus-diteruskan-dari-generasi-ke-generasi/respond)
+  133 Views Share on
+date: '1974-10-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-10-05-presiden-soeharto-nilai-nilai-45-harus-diteruskan-dari-generasi-ke-generasi
+aliases:
+- 'Presiden Soeharto: Nilai-Nilai 45 Harus Diteruskan dari Generasi Ke Generasi'
+- '1974-10-05 Presiden Soeharto: Nilai-Nilai 45 Harus Diteruskan dari Generasi Ke
+  Generasi – HM Soeharto'
+tags:
+- generasi-45
+- kepala-negara
+- nilai-nilai-45
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-10-05-presiden-soeharto-nilai-nilai-45-harus-diteruskan-dari-generasi-ke-generasi/
+  judul: '1974-10-05 Presiden Soeharto: Nilai-Nilai 45 Harus Diteruskan dari Generasi
+    Ke Generasi'
+  tanggal: '1974-10-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-10-05-presiden-soeharto-nilai-nilai-45-harus-diteruskan-dari-generasi-ke-generasi/
 ---
+
 
 # 1974-10-05 Presiden Soeharto: Nilai-Nilai 45 Harus Diteruskan dari Generasi Ke Generasi
 

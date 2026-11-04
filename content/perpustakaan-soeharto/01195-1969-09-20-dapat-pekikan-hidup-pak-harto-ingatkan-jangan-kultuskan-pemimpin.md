@@ -1,9 +1,40 @@
 ---
-title: "1969-09-20 Dapat Pekikan “Hidup Pak Harto”, Ingatkan Jangan Kultuskan Pemimpin – HM Soeharto"
-source: "https://soehartolibrary.id/1969-09-20-dapat-pekikan-hidup-pak-harto-ingatkan-jangan-kultuskan-pemimpin/"
-date: "2017-08-22T17:36:56+07:00"
+title: 1969-09-20 Dapat Pekikan “Hidup Pak Harto”, Ingatkan Jangan Kultuskan Pemimpin
+description: 4 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-09-20-dapat-pekikan-hidup-pak-harto-ingatkan-jangan-kultuskan-pemimpin/respond)
+  98 Views Share on
+date: '1969-09-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-09-20-dapat-pekikan-hidup-pak-harto-ingatkan-jangan-kultuskan-pemimpin
+aliases:
+- Dapat Pekikan “Hidup Pak Harto”, Ingatkan Jangan Kultuskan Pemimpin
+- 1969-09-20 Dapat Pekikan “Hidup Pak Harto”, Ingatkan Jangan Kultuskan Pemimpin –
+  HM Soeharto
+tags:
+- fakfak
+- irian-barat
+- makam-pahlawan-trikora
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tugu-kemenangan-pepera
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-09-20-dapat-pekikan-hidup-pak-harto-ingatkan-jangan-kultuskan-pemimpin/
+  judul: 1969-09-20 Dapat Pekikan “Hidup Pak Harto”, Ingatkan Jangan Kultuskan Pemimpin
+  tanggal: '1969-09-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-09-20-dapat-pekikan-hidup-pak-harto-ingatkan-jangan-kultuskan-pemimpin/
 ---
+
 
 # 1969-09-20 Dapat Pekikan “Hidup Pak Harto”, Ingatkan Jangan Kultuskan Pemimpin
 

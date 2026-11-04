@@ -1,9 +1,39 @@
 ---
-title: "1975-09-01 Presiden Soeharto: Hubungan Antar Negara Harus Saling Menghormati – HM Soeharto"
-source: "https://soehartolibrary.id/1975-09-01-presiden-soeharto-hubungan-antar-negara-harus-saling-menghormati/"
-date: "2017-08-23T10:50:24+07:00"
+title: '1975-09-01 Presiden Soeharto: Hubungan Antar Negara Harus Saling Menghormati'
+description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-09-01-presiden-soeharto-hubungan-antar-negara-harus-saling-menghormati/respond)
+  88 Views Share on
+date: '1975-09-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-09-01-presiden-soeharto-hubungan-antar-negara-harus-saling-menghormati
+aliases:
+- 'Presiden Soeharto: Hubungan Antar Negara Harus Saling Menghormati'
+- '1975-09-01 Presiden Soeharto: Hubungan Antar Negara Harus Saling Menghormati –
+  HM Soeharto'
+tags:
+- duta-besar
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- republik-sosialis-uni-birma
+- u-khin-maung-lay
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-09-01-presiden-soeharto-hubungan-antar-negara-harus-saling-menghormati/
+  judul: '1975-09-01 Presiden Soeharto: Hubungan Antar Negara Harus Saling Menghormati'
+  tanggal: '1975-09-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-09-01-presiden-soeharto-hubungan-antar-negara-harus-saling-menghormati/
 ---
+
 
 # 1975-09-01 Presiden Soeharto: Hubungan Antar Negara Harus Saling Menghormati
 

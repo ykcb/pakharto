@@ -1,9 +1,41 @@
 ---
-title: "1971-02-06 Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina – HM Soeharto"
-source: "https://soehartolibrary.id/1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina/"
-date: "2015-03-27T13:40:19+07:00"
+title: 1971-02-06 Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina
+description: 'MINGGU 06 PEBRUARI 1971, Pagi jam 10.00 WIB Presiden Soeharto beserta
+  rombongan meninggalkan tanah air menuju negara-negara tetangga: Australia, Selandia
+  Baru dan Filiphina. Keberangkatan Presiden dilepas oleh Ketua MPRS AH. Nasution,...'
+date: '1971-02-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina
+aliases:
+- Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina
+- 1971-02-06 Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina – HM
+  Soeharto
+tags:
+- australia
+- filipina
+- gough-whitlam
+- kunjungan
+- luar-negeri
+- orde-baru
+- perpustakaan-soeharto
+- selandia-baru
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina/
+  judul: 1971-02-06 Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina
+  tanggal: '1971-02-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina/
 ---
+
 
 # 1971-02-06 Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina
 

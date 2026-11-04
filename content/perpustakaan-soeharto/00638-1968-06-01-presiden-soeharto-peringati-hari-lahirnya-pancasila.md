@@ -1,9 +1,39 @@
 ---
-title: "1968-06-01 Presiden Soeharto Peringati Hari Lahirnya Pancasila – HM Soeharto"
-source: "https://soehartolibrary.id/1968-06-01-presiden-soeharto-peringati-hari-lahirnya-pancasila/"
-date: "2017-08-25T15:44:45+07:00"
+title: 1968-06-01 Presiden Soeharto Peringati Hari Lahirnya Pancasila
+description: SABTU, 1 JUNI 1968, Hari ini dimana-mana di tanah air diperingati sebagai
+  hari lahirnya Pancasila. Dalam acara peringatan hari lahirnya Pancasila di Istana
+  Negara malam ini, Presiden Soeharto mengatakan bahwa sekarang kita sedang...
+date: '1968-06-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-06-01-presiden-soeharto-peringati-hari-lahirnya-pancasila
+aliases:
+- Presiden Soeharto Peringati Hari Lahirnya Pancasila
+- 1968-06-01 Presiden Soeharto Peringati Hari Lahirnya Pancasila – HM Soeharto
+tags:
+- demokrasi
+- g-30-spki
+- orde-baru
+- perpustakaan-soeharto
+- pnka
+- presiden-soeharto
+- stabilisasi-ekonomi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-06-01-presiden-soeharto-peringati-hari-lahirnya-pancasila/
+  judul: 1968-06-01 Presiden Soeharto Peringati Hari Lahirnya Pancasila
+  tanggal: '1968-06-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-06-01-presiden-soeharto-peringati-hari-lahirnya-pancasila/
 ---
+
 
 # 1968-06-01 Presiden Soeharto Peringati Hari Lahirnya Pancasila
 

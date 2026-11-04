@@ -1,9 +1,39 @@
 ---
-title: "1975-03-05 Presiden Soeharto Menerima Kunjungan Menlu Perancis – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-05-presiden-soeharto-menerima-kunjungan-menlu-perancis/"
-date: "2014-03-22T03:01:45+07:00"
+title: 1975-03-05 Presiden Soeharto Menerima Kunjungan Menlu Perancis
+description: RABU, 5 MARET 1975, Kepala Negara pukul 09.00 pagi di Istana Merdeka
+  menerima kunjungan Menteri perdagangan Luar Negeri Prancis, Norbert Segard. Dalam
+  pertemuan tersebut telah dibicarakan tentang peningkatan kerjsama antar kedua negara...
+date: '1975-03-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-05-presiden-soeharto-menerima-kunjungan-menlu-perancis
+aliases:
+- Presiden Soeharto Menerima Kunjungan Menlu Perancis
+- 1975-03-05 Presiden Soeharto Menerima Kunjungan Menlu Perancis – HM Soeharto
+tags:
+- aseean
+- eropa
+- orde-baru
+- perancis
+- perpustakaan-soeharto
+- pertanian
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-05-presiden-soeharto-menerima-kunjungan-menlu-perancis/
+  judul: 1975-03-05 Presiden Soeharto Menerima Kunjungan Menlu Perancis
+  tanggal: '1975-03-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-05-presiden-soeharto-menerima-kunjungan-menlu-perancis/
 ---
+
 
 # 1975-03-05 Presiden Soeharto Menerima Kunjungan Menlu Perancis
 

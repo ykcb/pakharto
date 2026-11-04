@@ -1,9 +1,39 @@
 ---
-title: "1979-09-18 Setelah Integrasi, Pemerintah Wajib Lindungi Timor Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-18-setelah-integrasi-pemerintah-wajib-lindungi-timor-timur/"
-date: "2014-12-01T16:37:59+07:00"
+title: 1979-09-18 Setelah Integrasi, Pemerintah Wajib Lindungi Timor Timur
+description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-18-setelah-integrasi-pemerintah-wajib-lindungi-timor-timur/respond)
+  92 Views Share on
+date: '1979-09-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-18-setelah-integrasi-pemerintah-wajib-lindungi-timor-timur
+aliases:
+- Setelah Integrasi, Pemerintah Wajib Lindungi Timor Timur
+- 1979-09-18 Setelah Integrasi, Pemerintah Wajib Lindungi Timor Timur – HM Soeharto
+tags:
+- integrasi
+- kepala-negara
+- lee-kwan-yew
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- timor-timur
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-18-setelah-integrasi-pemerintah-wajib-lindungi-timor-timur/
+  judul: 1979-09-18 Setelah Integrasi, Pemerintah Wajib Lindungi Timor Timur
+  tanggal: '1979-09-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-18-setelah-integrasi-pemerintah-wajib-lindungi-timor-timur/
 ---
+
 
 # 1979-09-18 Setelah Integrasi, Pemerintah Wajib Lindungi Timor Timur
 

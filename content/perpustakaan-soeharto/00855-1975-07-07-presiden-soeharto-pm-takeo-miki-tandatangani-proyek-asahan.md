@@ -1,9 +1,45 @@
 ---
-title: "1975-07-07 Presiden Soeharto-PM Takeo Miki Tandatangani Proyek Asahan – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-07-presiden-soeharto-pm-takeo-miki-tandatangani-proyek-asahan/"
-date: "2017-08-23T11:51:40+07:00"
+title: 1975-07-07 Presiden Soeharto-PM Takeo Miki Tandatangani Proyek Asahan
+description: SENIN, 07 Juli 1975, Di Tokyo hari ini Presiden Soeharto mengadakan pembicaraan
+  dengan Perdana menteri Jepang, Takeo Miki. Dalam pertemuan yang dihadiri oleh Menteri
+  Luar Negeri Adam Malik dan Menteri Negara Ekuin Widjoyo Nitisastro...
+date: '1975-07-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-07-presiden-soeharto-pm-takeo-miki-tandatangani-proyek-asahan
+aliases:
+- Presiden Soeharto-PM Takeo Miki Tandatangani Proyek Asahan
+- 1975-07-07 Presiden Soeharto-PM Takeo Miki Tandatangani Proyek Asahan – HM Soeharto
+tags:
+- adam-malik
+- asahan
+- asia-tenggara
+- menteri-luar-negeri
+- menteri-negara-ekuin
+- orde-baru
+- perang-vietnam
+- perpustakaan-soeharto
+- pm-jepang
+- presiden-soeharto
+- sumatera-utara
+- takeo-miki
+- widjoyo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-07-presiden-soeharto-pm-takeo-miki-tandatangani-proyek-asahan/
+  judul: 1975-07-07 Presiden Soeharto-PM Takeo Miki Tandatangani Proyek Asahan
+  tanggal: '1975-07-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-07-presiden-soeharto-pm-takeo-miki-tandatangani-proyek-asahan/
 ---
+
 
 # 1975-07-07 Presiden Soeharto-PM Takeo Miki Tandatangani Proyek Asahan
 

@@ -1,9 +1,41 @@
 ---
-title: "1969-08-25 Presiden Soeharto: Rakyat Menuntut Lebih Baik dari ABRI – HM Soeharto"
-source: "https://soehartolibrary.id/1969-08-25-presiden-soeharto-rakyat-menuntut-lebih-baik-dari-abri/"
-date: "2017-08-24T15:17:10+07:00"
+title: '1969-08-25 Presiden Soeharto: Rakyat Menuntut Lebih Baik dari ABRI'
+description: SENIN, 25 AGUSTUS 1969, Presiden Soeharto pagi ini menyerahkan Samkarya
+  Nugara kepada Kodam IV/ Sriwijaya dalam suatu upacara di Palembang. Dalam amanatnya
+  Presiden antara lain menyatakan bahwa banyak sukses yang telah dicapai ABRI dan...
+date: '1969-08-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-08-25-presiden-soeharto-rakyat-menuntut-lebih-baik-dari-abri
+aliases:
+- 'Presiden Soeharto: Rakyat Menuntut Lebih Baik dari ABRI'
+- '1969-08-25 Presiden Soeharto: Rakyat Menuntut Lebih Baik dari ABRI – HM Soeharto'
+tags:
+- abri
+- jenderal-soeharto
+- kodam-siriwajaya
+- orde-baru
+- pak-harto
+- palembang
+- perpustakaan-soeharto
+- pidato-presiden
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-08-25-presiden-soeharto-rakyat-menuntut-lebih-baik-dari-abri/
+  judul: '1969-08-25 Presiden Soeharto: Rakyat Menuntut Lebih Baik dari ABRI'
+  tanggal: '1969-08-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-08-25-presiden-soeharto-rakyat-menuntut-lebih-baik-dari-abri/
 ---
+
 
 # 1969-08-25 Presiden Soeharto: Rakyat Menuntut Lebih Baik dari ABRI
 

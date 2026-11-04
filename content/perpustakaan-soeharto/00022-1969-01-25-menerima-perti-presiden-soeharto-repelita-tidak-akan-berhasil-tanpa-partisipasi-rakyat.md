@@ -1,9 +1,52 @@
 ---
-title: "1969-01-25 Menerima PERTI, Presiden Soeharto: Repelita Tidak Akan Berhasil Tanpa Partisipasi Rakyat – HM Soeharto"
-source: "https://soehartolibrary.id/1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat/"
-date: "2017-08-29T11:17:53+07:00"
+title: '1969-01-25 Menerima PERTI, Presiden Soeharto: Repelita Tidak Akan Berhasil
+  Tanpa Partisipasi Rakyat'
+description: SABTU, 25 JANUARI 1969. Pimpinan Pusat Partai Tarbiyah Islamiyah Indonesia
+  (PERTI) hari ini diterima Presiden Soeharto di Istana Merdeka. Perti adalah satu
+  partai yang baru dicairkan kegiatannya pada pertengahan tahun lalu, setelah...
+date: '1969-01-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat
+aliases:
+- 'Menerima PERTI, Presiden Soeharto: Repelita Tidak Akan Berhasil Tanpa Partisipasi
+  Rakyat'
+- '1969-01-25 Menerima PERTI, Presiden Soeharto: Repelita Tidak Akan Berhasil Tanpa
+  Partisipasi Rakyat – HM Soeharto'
+tags:
+- bapak-pembangunan
+- bina-graha
+- cendana
+- gbhn
+- indonesia
+- islamiyah
+- istana-merdeka
+- macan-asia
+- orde-baru
+- partai
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- tarbiyah
+- tinggal-landas-2
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat/
+  judul: '1969-01-25 Menerima PERTI, Presiden Soeharto: Repelita Tidak Akan Berhasil
+    Tanpa Partisipasi Rakyat'
+  tanggal: '1969-01-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat/
 ---
+
 
 # 1969-01-25 Menerima PERTI, Presiden Soeharto: Repelita Tidak Akan Berhasil Tanpa Partisipasi Rakyat
 

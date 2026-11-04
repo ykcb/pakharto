@@ -1,9 +1,35 @@
 ---
-title: "Wawasan Nusantara dan Politik Luar Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/wawasan-nusantara-dan-politik-luar-negeri/"
-date: "2013-06-15T07:01:19+07:00"
+title: Wawasan Nusantara dan Politik Luar Negeri
+description: Wawasan Nusantara dan Politik Luar Negeri
+date: '2013-06-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: wawasan-nusantara-dan-politik-luar-negeri
+aliases:
+- Wawasan Nusantara dan Politik Luar Negeri – HM Soeharto
+tags:
+- bebas-aktif
+- orde-baru
+- perpustakaan-soeharto
+- politik-luar-negeri
+- presiden-soeharto
+- wawasan-nusantara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/wawasan-nusantara-dan-politik-luar-negeri/
+  judul: Wawasan Nusantara dan Politik Luar Negeri
+  tanggal: '2013-06-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/wawasan-nusantara-dan-politik-luar-negeri/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/06/Bersama-Pemimpin-Negara-Negara-Asean.jpg)
 

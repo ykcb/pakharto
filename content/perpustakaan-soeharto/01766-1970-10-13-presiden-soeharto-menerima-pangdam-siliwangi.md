@@ -1,9 +1,39 @@
 ---
-title: "1970-10-13 Presiden Soeharto Menerima Pangdam Siliwangi – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-13-presiden-soeharto-menerima-pangdam-siliwangi/"
-date: "2014-12-01T16:26:17+07:00"
+title: 1970-10-13 Presiden Soeharto Menerima Pangdam Siliwangi
+description: 6 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-13-presiden-soeharto-menerima-pangdam-siliwangi/respond)
+  139 Views Share on
+date: '1970-10-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-13-presiden-soeharto-menerima-pangdam-siliwangi
+aliases:
+- Presiden Soeharto Menerima Pangdam Siliwangi
+- 1970-10-13 Presiden Soeharto Menerima Pangdam Siliwangi – HM Soeharto
+tags:
+- aj-witono
+- kepala-negara
+- mahasiswa-itb
+- orde-baru
+- pangdam-siliwangi
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-13-presiden-soeharto-menerima-pangdam-siliwangi/
+  judul: 1970-10-13 Presiden Soeharto Menerima Pangdam Siliwangi
+  tanggal: '1970-10-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-13-presiden-soeharto-menerima-pangdam-siliwangi/
 ---
+
 
 # 1970-10-13 Presiden Soeharto Menerima Pangdam Siliwangi
 

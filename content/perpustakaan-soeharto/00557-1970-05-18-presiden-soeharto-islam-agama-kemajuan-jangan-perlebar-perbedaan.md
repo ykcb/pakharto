@@ -1,9 +1,50 @@
 ---
-title: "1970-05-18 Presiden Soeharto: Islam Agama Kemajuan, Jangan Perlebar Perbedaan – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-18-presiden-soeharto-islam-agama-kemajuan-jangan-perlebar-perbedaan/"
-date: "2017-08-25T15:53:13+07:00"
+title: '1970-05-18 Presiden Soeharto: Islam Agama Kemajuan, Jangan Perlebar Perbedaan'
+description: SENIN, 18 MEI 1970, Melanjutkan pertemuan dengan menteri Luar Negeri
+  yang menghadiri Konferensi Asia-Pasifik tentang Kamboja, pagi ini di Istana Merdeka
+  secara berturut-turut Presiden Soeharto menerima lima menteri luar negeri. Kelima...
+date: '1970-05-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-18-presiden-soeharto-islam-agama-kemajuan-jangan-perlebar-perbedaan
+aliases:
+- 'Presiden Soeharto: Islam Agama Kemajuan, Jangan Perlebar Perbedaan'
+- '1970-05-18 Presiden Soeharto: Islam Agama Kemajuan, Jangan Perlebar Perbedaan –
+  HM Soeharto'
+tags:
+- choi-kyu-hah
+- dan-singapura
+- islam
+- kamboja
+- khampan-paniya
+- korea-selatan
+- laos
+- maulid-nabi
+- menteri-luar-negeri
+- muhammad-saw
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- s-rajaratnam
+- tran-van-lam
+- vietnam-selatan
+- yem-sambaur
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-18-presiden-soeharto-islam-agama-kemajuan-jangan-perlebar-perbedaan/
+  judul: '1970-05-18 Presiden Soeharto: Islam Agama Kemajuan, Jangan Perlebar Perbedaan'
+  tanggal: '1970-05-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-18-presiden-soeharto-islam-agama-kemajuan-jangan-perlebar-perbedaan/
 ---
+
 
 # 1970-05-18 Presiden Soeharto: Islam Agama Kemajuan, Jangan Perlebar Perbedaan
 

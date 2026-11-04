@@ -1,9 +1,39 @@
 ---
-title: "1973-08-09 Presiden Soeharto Minta Jaminan Kekerasan Bandung Tidak Terulang – HM Soeharto"
-source: "https://soehartolibrary.id/1973-08-09-presiden-soeharto-minta-jaminan-kekerasan-bandung-tidak-terulang/"
-date: "2017-08-23T11:36:58+07:00"
+title: 1973-08-09 Presiden Soeharto Minta Jaminan Kekerasan Bandung Tidak Terulang
+description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-08-09-presiden-soeharto-minta-jaminan-kekerasan-bandung-tidak-terulang/respond)
+  90 Views Share on
+date: '1973-08-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-08-09-presiden-soeharto-minta-jaminan-kekerasan-bandung-tidak-terulang
+aliases:
+- Presiden Soeharto Minta Jaminan Kekerasan Bandung Tidak Terulang
+- 1973-08-09 Presiden Soeharto Minta Jaminan Kekerasan Bandung Tidak Terulang – HM
+  Soeharto
+tags:
+- gubernur
+- jawa-barat
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- solihin-gp
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-08-09-presiden-soeharto-minta-jaminan-kekerasan-bandung-tidak-terulang/
+  judul: 1973-08-09 Presiden Soeharto Minta Jaminan Kekerasan Bandung Tidak Terulang
+  tanggal: '1973-08-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-08-09-presiden-soeharto-minta-jaminan-kekerasan-bandung-tidak-terulang/
 ---
+
 
 # 1973-08-09 Presiden Soeharto Minta Jaminan Kekerasan Bandung Tidak Terulang
 

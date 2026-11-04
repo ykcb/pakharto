@@ -1,9 +1,39 @@
 ---
-title: "1972-10-30 Presiden Soeharto Menerima Direktur AID – HM Soeharto"
-source: "https://soehartolibrary.id/1972-10-30-presiden-soeharto-menerima-direktur-aid/"
-date: "2014-12-01T16:07:05+07:00"
+title: 1972-10-30 Presiden Soeharto Menerima Direktur AID
+description: 10 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-10-30-presiden-soeharto-menerima-direktur-aid/respond)
+  76 Views Share on
+date: '1972-10-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-10-30-presiden-soeharto-menerima-direktur-aid
+aliases:
+- Presiden Soeharto Menerima Direktur AID
+- 1972-10-30 Presiden Soeharto Menerima Direktur AID – HM Soeharto
+tags:
+- as
+- direktur-aid
+- iggi
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-10-30-presiden-soeharto-menerima-direktur-aid/
+  judul: 1972-10-30 Presiden Soeharto Menerima Direktur AID
+  tanggal: '1972-10-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-10-30-presiden-soeharto-menerima-direktur-aid/
 ---
+
 
 # 1972-10-30 Presiden Soeharto Menerima Direktur AID
 

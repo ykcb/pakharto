@@ -1,9 +1,41 @@
 ---
-title: "Cosmas Batubara: Di Atas Istana Bogor – HM Soeharto"
-source: "https://soehartolibrary.id/cosmas-batubara-di-atas-istana-bogor/"
-date: "2013-09-10T06:59:10+07:00"
+title: 'Cosmas Batubara: Di Atas Istana Bogor'
+description: 10 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/cosmas-batubara-di-atas-istana-bogor/respond)
+  123 Views Share on
+date: '2013-09-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: cosmas-batubara-di-atas-istana-bogor
+aliases:
+- 'Cosmas Batubara: Di Atas Istana Bogor – HM Soeharto'
+tags:
+- cosmas-batubara
+- imam-katolik
+- istana-bogor
+- menteri-perumahan-rakyat
+- menteri-tenaga-kerja
+- orde-baru
+- perpustakaan-soeharto
+- pmkri
+- presiden-soeharto
+- tritura
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/cosmas-batubara-di-atas-istana-bogor/
+  judul: 'Cosmas Batubara: Di Atas Istana Bogor'
+  tanggal: '2013-09-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/cosmas-batubara-di-atas-istana-bogor/
 ---
+
 
 # Cosmas Batubara: Di Atas Istana Bogor
 

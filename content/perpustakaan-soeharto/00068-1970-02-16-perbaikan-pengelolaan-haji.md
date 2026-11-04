@@ -1,9 +1,39 @@
 ---
-title: "1970-02-16 Perbaikan Pengelolaan Haji – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-16-perbaikan-pengelolaan-haji/"
-date: "2017-08-29T11:24:44+07:00"
+title: 1970-02-16 Perbaikan Pengelolaan Haji
+description: (Segala Kebijaksanaan dan Pengaturan Haji dibuat Untuk Kepentingan Jamaah
+  haji)
+date: '1970-02-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-16-perbaikan-pengelolaan-haji
+aliases:
+- Perbaikan Pengelolaan Haji
+- 1970-02-16 Perbaikan Pengelolaan Haji – HM Soeharto
+tags:
+- haji
+- istana
+- jamaah
+- merdeka
+- orde-baru
+- pengaturan
+- perpustakaan-soeharto
+- ummat-islam
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-16-perbaikan-pengelolaan-haji/
+  judul: 1970-02-16 Perbaikan Pengelolaan Haji
+  tanggal: '1970-02-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-16-perbaikan-pengelolaan-haji/
 ---
+
 
 # 1970-02-16 Perbaikan Pengelolaan Haji
 

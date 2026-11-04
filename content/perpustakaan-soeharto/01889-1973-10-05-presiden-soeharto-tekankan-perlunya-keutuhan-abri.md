@@ -1,9 +1,37 @@
 ---
-title: "1973-10-05 Presiden Soeharto Tekankan Perlunya Keutuhan ABRI – HM Soeharto"
-source: "https://soehartolibrary.id/1973-10-05-presiden-soeharto-tekankan-perlunya-keutuhan-abri/"
-date: "2014-12-01T14:13:25+07:00"
+title: 1973-10-05 Presiden Soeharto Tekankan Perlunya Keutuhan ABRI
+description: 12 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-10-05-presiden-soeharto-tekankan-perlunya-keutuhan-abri/respond)
+  73 Views Share on
+date: '1973-10-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-10-05-presiden-soeharto-tekankan-perlunya-keutuhan-abri
+aliases:
+- Presiden Soeharto Tekankan Perlunya Keutuhan ABRI
+- 1973-10-05 Presiden Soeharto Tekankan Perlunya Keutuhan ABRI – HM Soeharto
+tags:
+- abri
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-10-05-presiden-soeharto-tekankan-perlunya-keutuhan-abri/
+  judul: 1973-10-05 Presiden Soeharto Tekankan Perlunya Keutuhan ABRI
+  tanggal: '1973-10-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-10-05-presiden-soeharto-tekankan-perlunya-keutuhan-abri/
 ---
+
 
 # 1973-10-05 Presiden Soeharto Tekankan Perlunya Keutuhan ABRI
 

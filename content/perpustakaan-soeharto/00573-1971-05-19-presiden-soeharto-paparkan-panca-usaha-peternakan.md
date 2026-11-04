@@ -1,9 +1,40 @@
 ---
-title: "1971-05-19 Presiden Soeharto Paparkan Panca Usaha Peternakan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-05-19-presiden-soeharto-paparkan-panca-usaha-peternakan/"
-date: "2014-03-22T02:51:59+07:00"
+title: 1971-05-19 Presiden Soeharto Paparkan Panca Usaha Peternakan
+description: RABU, 19 Mei 1971, Bertempat di halaman parkir Wisma Tamu Istana, Presiden
+  Soeharto membuka pameran dan kontes unggas. Dalam sambutannya Presiden antara lain
+  mengatakan bahwa ayam dan telur dapat merupakan suatu kekuatan untuk lebih...
+date: '1971-05-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-05-19-presiden-soeharto-paparkan-panca-usaha-peternakan
+aliases:
+- Presiden Soeharto Paparkan Panca Usaha Peternakan
+- 1971-05-19 Presiden Soeharto Paparkan Panca Usaha Peternakan – HM Soeharto
+tags:
+- ekonomi-nasional
+- orde-baru
+- pameran
+- perpustakaan-soeharto
+- pertumbuhan
+- peternakan
+- presiden-soeharto
+- unggas
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-05-19-presiden-soeharto-paparkan-panca-usaha-peternakan/
+  judul: 1971-05-19 Presiden Soeharto Paparkan Panca Usaha Peternakan
+  tanggal: '1971-05-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-05-19-presiden-soeharto-paparkan-panca-usaha-peternakan/
 ---
+
 
 # 1971-05-19 Presiden Soeharto Paparkan Panca Usaha Peternakan
 

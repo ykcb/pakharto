@@ -1,9 +1,37 @@
 ---
-title: "Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 3, Habis) – HM Soeharto"
-source: "https://soehartolibrary.id/menang-tanpa-ngasorake-bagian-3/"
-date: "2014-11-25T12:35:36+07:00"
+title: 'Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 3, Habis)'
+description: 1 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/menang-tanpa-ngasorake-bagian-3/respond)
+  133 Views Share on
+date: '2014-11-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: menang-tanpa-ngasorake-bagian-3
+aliases:
+- 'Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 3, Habis) – HM
+  Soeharto'
+tags:
+- emil-salim
+- lingkungan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/menang-tanpa-ngasorake-bagian-3/
+  judul: 'Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 3, Habis)'
+  tanggal: '2014-11-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/menang-tanpa-ngasorake-bagian-3/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/83330010_result.jpg)
 

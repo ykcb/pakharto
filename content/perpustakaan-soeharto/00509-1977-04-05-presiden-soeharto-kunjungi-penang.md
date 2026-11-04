@@ -1,9 +1,42 @@
 ---
-title: "1977-04-05 Presiden Soeharto Kunjungi Penang – HM Soeharto"
-source: "https://soehartolibrary.id/1977-04-05-presiden-soeharto-kunjungi-penang/"
-date: "2014-03-22T02:56:04+07:00"
+title: 1977-04-05 Presiden Soeharto Kunjungi Penang
+description: SELASA, 5 April 1977, Pagi ini Presiden Soeharto tiba di Penang, Malaysia,
+  untuk melakukan pembicaraan tidak resmi dengan PM Malaysia, Hussein Onn. Dalam pertemuan
+  yang berlangsung di Wisma Persekutuan yang terletak di Tepi Pantai Pulau...
+date: '1977-04-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-04-05-presiden-soeharto-kunjungi-penang
+aliases:
+- Presiden Soeharto Kunjungi Penang
+- 1977-04-05 Presiden Soeharto Kunjungi Penang – HM Soeharto
+tags:
+- asean
+- asia
+- datuk-husen-onn
+- fasifik
+- malaysia
+- orde-baru
+- penang
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-04-05-presiden-soeharto-kunjungi-penang/
+  judul: 1977-04-05 Presiden Soeharto Kunjungi Penang
+  tanggal: '1977-04-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-04-05-presiden-soeharto-kunjungi-penang/
 ---
+
 
 # 1977-04-05 Presiden Soeharto Kunjungi Penang
 

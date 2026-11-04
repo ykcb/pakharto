@@ -1,9 +1,46 @@
 ---
-title: "1975-09-15 Presiden Soeharto Menerima Petisi Penggabungan Timor Portugis – HM Soeharto"
-source: "https://soehartolibrary.id/1975-09-15-presiden-soeharto-menerima-petisi-penggabungan-timor-portugis/"
-date: "2017-08-23T10:49:38+07:00"
+title: 1975-09-15 Presiden Soeharto Menerima Petisi Penggabungan Timor Portugis
+description: 18 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-09-15-presiden-soeharto-menerima-petisi-penggabungan-timor-portugis/respond)
+  92 Views Share on
+date: '1975-09-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-09-15-presiden-soeharto-menerima-petisi-penggabungan-timor-portugis
+aliases:
+- Presiden Soeharto Menerima Petisi Penggabungan Timor Portugis
+- 1975-09-15 Presiden Soeharto Menerima Petisi Penggabungan Timor Portugis – HM Soeharto
+tags:
+- amirmachmud
+- el-tari
+- gubernur
+- kota
+- menteri-dalam-negeri
+- nusa-tenggara-timur
+- orde-baru
+- perpustakaan-soeharto
+- petisi-penggabungan
+- presiden-soeharto
+- timor-portugis
+- trabalista
+- udt
+- uni-demokrasi-timor
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-09-15-presiden-soeharto-menerima-petisi-penggabungan-timor-portugis/
+  judul: 1975-09-15 Presiden Soeharto Menerima Petisi Penggabungan Timor Portugis
+  tanggal: '1975-09-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-09-15-presiden-soeharto-menerima-petisi-penggabungan-timor-portugis/
 ---
+
 
 # 1975-09-15 Presiden Soeharto Menerima Petisi Penggabungan Timor Portugis
 

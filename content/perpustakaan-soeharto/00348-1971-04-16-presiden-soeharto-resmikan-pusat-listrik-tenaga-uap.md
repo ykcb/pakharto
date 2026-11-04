@@ -1,9 +1,40 @@
 ---
-title: "1971-04-16 Presiden Soeharto Resmikan Pusat Listrik Tenaga Uap – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-16-presiden-soeharto-resmikan-pusat-listrik-tenaga-uap/"
-date: "2017-08-30T14:17:24+07:00"
+title: 1971-04-16 Presiden Soeharto Resmikan Pusat Listrik Tenaga Uap
+description: JUM’AT, 16 April 1971, Setibanya di Makasar dari Ambon hari ini, Presiden
+  Soeharto meresmikan Pusat Litrik Tenaga Uap. Pada kesempatan ini Presiden Soeharto
+  mengungkapkan bahwa pemerintah sekarang sedang menyaksikan pembangunan...
+date: '1971-04-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-16-presiden-soeharto-resmikan-pusat-listrik-tenaga-uap
+aliases:
+- Presiden Soeharto Resmikan Pusat Listrik Tenaga Uap
+- 1971-04-16 Presiden Soeharto Resmikan Pusat Listrik Tenaga Uap – HM Soeharto
+tags:
+- ambon
+- makasar
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- pusat-listrik-tenaga-uap
+- spiritual
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-16-presiden-soeharto-resmikan-pusat-listrik-tenaga-uap/
+  judul: 1971-04-16 Presiden Soeharto Resmikan Pusat Listrik Tenaga Uap
+  tanggal: '1971-04-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-16-presiden-soeharto-resmikan-pusat-listrik-tenaga-uap/
 ---
+
 
 # 1971-04-16 Presiden Soeharto Resmikan Pusat Listrik Tenaga Uap
 

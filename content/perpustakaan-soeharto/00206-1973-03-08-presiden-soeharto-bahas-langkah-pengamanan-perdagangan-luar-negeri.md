@@ -1,9 +1,44 @@
 ---
-title: "1973-03-08 Presiden Soeharto Bahas Langkah Pengamanan Perdagangan Luar Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1973-03-08-presiden-soeharto-bahas-langkah-pengamanan-perdagangan-luar-negeri/"
-date: "2017-08-22T11:38:16+07:00"
+title: 1973-03-08 Presiden Soeharto Bahas Langkah Pengamanan Perdagangan Luar Negeri
+description: KAMIS, 8 Maret 1973, Presiden Soeharto dan Menteri Perdagangan, Prof.
+  Sumitro Djojohadikusumo, di Istana Merdeka hari ini membahas langkah-langkah untuk
+  mengamankan perdaganngan luar negeri Indonesia dari dampak krisis moneter...
+date: '1973-03-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-03-08-presiden-soeharto-bahas-langkah-pengamanan-perdagangan-luar-negeri
+aliases:
+- Presiden Soeharto Bahas Langkah Pengamanan Perdagangan Luar Negeri
+- 1973-03-08 Presiden Soeharto Bahas Langkah Pengamanan Perdagangan Luar Negeri –
+  HM Soeharto
+tags:
+- internasional
+- krisis
+- luar-negeri
+- moneter
+- orde-baru
+- pak-harto
+- perdagangan
+- perpustakaan-soeharto
+- presiden-soeharto
+- soeharto
+- sumitro-djojohadikusumo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-03-08-presiden-soeharto-bahas-langkah-pengamanan-perdagangan-luar-negeri/
+  judul: 1973-03-08 Presiden Soeharto Bahas Langkah Pengamanan Perdagangan Luar Negeri
+  tanggal: '1973-03-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-03-08-presiden-soeharto-bahas-langkah-pengamanan-perdagangan-luar-negeri/
 ---
+
 
 # 1973-03-08 Presiden Soeharto Bahas Langkah Pengamanan Perdagangan Luar Negeri
 

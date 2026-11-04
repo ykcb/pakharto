@@ -1,9 +1,35 @@
 ---
-title: "Selamat Dari PKI Berkat Bapak – HM Soeharto"
-source: "https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/"
-date: "2013-08-29T10:43:45+07:00"
+title: Selamat Dari PKI Berkat Bapak
+description: 29 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/respond) 93
+  Views Share on
+date: '2013-08-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: selamat-dari-pki-berkat-bapak
+aliases:
+- Selamat Dari PKI Berkat Bapak – HM Soeharto
+tags:
+- orde-baru
+- palembang
+- perpustakaan-soeharto
+- pki
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/
+  judul: Selamat Dari PKI Berkat Bapak
+  tanggal: '2013-08-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/
 ---
+
 
 # Selamat Dari PKI Berkat Bapak
 

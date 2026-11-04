@@ -1,9 +1,39 @@
 ---
-title: "1972-08-31 Presiden Soeharto Harapkan PMA Dorong Usahawan Dalam Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1972-08-31-presiden-soeharto-harapkan-pma-dorong-usahawan-dalam-negeri/"
-date: "2017-08-24T15:06:15+07:00"
+title: 1972-08-31 Presiden Soeharto Harapkan PMA Dorong Usahawan Dalam Negeri
+description: 20 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-08-31-presiden-soeharto-harapkan-pma-dorong-usahawan-dalam-negeri/respond)
+  89 Views Share on
+date: '1972-08-31'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-08-31-presiden-soeharto-harapkan-pma-dorong-usahawan-dalam-negeri
+aliases:
+- Presiden Soeharto Harapkan PMA Dorong Usahawan Dalam Negeri
+- 1972-08-31 Presiden Soeharto Harapkan PMA Dorong Usahawan Dalam Negeri – HM Soeharto
+tags:
+- bappenas
+- orde-baru
+- perpustakaan-soeharto
+- pma
+- presiden-soeharto
+- usahawan-dalam-negeri
+- widjoyo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-08-31-presiden-soeharto-harapkan-pma-dorong-usahawan-dalam-negeri/
+  judul: 1972-08-31 Presiden Soeharto Harapkan PMA Dorong Usahawan Dalam Negeri
+  tanggal: '1972-08-31'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-08-31-presiden-soeharto-harapkan-pma-dorong-usahawan-dalam-negeri/
 ---
+
 
 # 1972-08-31 Presiden Soeharto Harapkan PMA Dorong Usahawan Dalam Negeri
 

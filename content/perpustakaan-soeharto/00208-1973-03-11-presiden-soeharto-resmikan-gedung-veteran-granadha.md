@@ -1,9 +1,40 @@
 ---
-title: "1973-03-11 Presiden Soeharto Resmikan Gedung Veteran Granadha – HM Soeharto"
-source: "https://soehartolibrary.id/1973-03-11-presiden-soeharto-resmikan-gedung-veteran-granadha/"
-date: "2017-08-29T11:25:27+07:00"
+title: 1973-03-11 Presiden Soeharto Resmikan Gedung Veteran Granadha
+description: MINGGU, 11 Maret 1973, Presiden Soeharto meresmikan gedung veteran yang
+  diberi nama “Graha Purna Yudha” (disingkat; Granadha). Pada peresmian ini Jenderal
+  Soeharto menyerukan kepada segenap bangsa Indonesia untuk terus memelihara jiwa...
+date: '1973-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-03-11-presiden-soeharto-resmikan-gedung-veteran-granadha
+aliases:
+- Presiden Soeharto Resmikan Gedung Veteran Granadha
+- 1973-03-11 Presiden Soeharto Resmikan Gedung Veteran Granadha – HM Soeharto
+tags:
+- granadha
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- soeharto
+- veteran
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-03-11-presiden-soeharto-resmikan-gedung-veteran-granadha/
+  judul: 1973-03-11 Presiden Soeharto Resmikan Gedung Veteran Granadha
+  tanggal: '1973-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-03-11-presiden-soeharto-resmikan-gedung-veteran-granadha/
 ---
+
 
 # 1973-03-11 Presiden Soeharto Resmikan Gedung Veteran Granadha
 

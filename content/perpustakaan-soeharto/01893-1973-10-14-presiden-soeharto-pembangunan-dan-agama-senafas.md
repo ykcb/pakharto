@@ -1,9 +1,39 @@
 ---
-title: "1973-10-14 Presiden Soeharto: Pembangunan dan Agama Senafas – HM Soeharto"
-source: "https://soehartolibrary.id/1973-10-14-presiden-soeharto-pembangunan-dan-agama-senafas/"
-date: "2014-12-01T14:01:22+07:00"
+title: '1973-10-14 Presiden Soeharto: Pembangunan dan Agama Senafas'
+description: 12 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-10-14-presiden-soeharto-pembangunan-dan-agama-senafas/respond)
+  203 Views Share on
+date: '1973-10-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-10-14-presiden-soeharto-pembangunan-dan-agama-senafas
+aliases:
+- 'Presiden Soeharto: Pembangunan dan Agama Senafas'
+- '1973-10-14 Presiden Soeharto: Pembangunan dan Agama Senafas – HM Soeharto'
+tags:
+- agama
+- kepala-negara
+- nuzulul-quran
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-10-14-presiden-soeharto-pembangunan-dan-agama-senafas/
+  judul: '1973-10-14 Presiden Soeharto: Pembangunan dan Agama Senafas'
+  tanggal: '1973-10-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-10-14-presiden-soeharto-pembangunan-dan-agama-senafas/
 ---
+
 
 # 1973-10-14 Presiden Soeharto: Pembangunan dan Agama Senafas
 

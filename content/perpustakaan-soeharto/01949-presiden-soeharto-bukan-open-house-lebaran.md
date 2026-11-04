@@ -1,9 +1,38 @@
 ---
-title: "1975-10-06 Presiden Soeharto Buka Open House Lebaran – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-bukan-open-house-lebaran/"
-date: "2014-06-13T18:53:47+07:00"
+title: 1975-10-06 Presiden Soeharto Buka Open House Lebaran
+description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/presiden-soeharto-bukan-open-house-lebaran/respond)
+  114 Views Share on
+date: '1975-10-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-bukan-open-house-lebaran
+aliases:
+- Presiden Soeharto Buka Open House Lebaran
+- 1975-10-06 Presiden Soeharto Buka Open House Lebaran – HM Soeharto
+tags:
+- kepala-negara
+- lebaran
+- open-house
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-bukan-open-house-lebaran/
+  judul: 1975-10-06 Presiden Soeharto Buka Open House Lebaran
+  tanggal: '1975-10-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-bukan-open-house-lebaran/
 ---
+
 
 # 1975-10-06 Presiden Soeharto Buka Open House Lebaran
 

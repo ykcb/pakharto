@@ -1,9 +1,39 @@
 ---
-title: "1969-06-03 Presiden Soeharto: Tindak Tegas Penyelundup Sipil Maupun Militer – HM Soeharto"
-source: "https://soehartolibrary.id/1969-06-03-presiden-soeharto-tindak-tegas-penyelundup-sipil-maupun-militer/"
-date: "2017-08-25T15:36:02+07:00"
+title: '1969-06-03 Presiden Soeharto: Tindak Tegas Penyelundup Sipil Maupun Militer'
+description: SELASA, 3 JUNI 1969, Dalam rapat Sub-Dewan Stabilisasi Ekonomi yang berlangsung
+  di Istana Merdeka pagi ini, Presiden Soeharto menegaskan kembali perlunya pengambilan
+  tindakan tegas terhadap oknum-oknum, baik sipil maupun militer, yang...
+date: '1969-06-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-06-03-presiden-soeharto-tindak-tegas-penyelundup-sipil-maupun-militer
+aliases:
+- 'Presiden Soeharto: Tindak Tegas Penyelundup Sipil Maupun Militer'
+- '1969-06-03 Presiden Soeharto: Tindak Tegas Penyelundup Sipil Maupun Militer – HM
+  Soeharto'
+tags:
+- militer
+- orde-baru
+- penyelundupan
+- perpustakaan-soeharto
+- presiden-soeharto
+- sipil
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-06-03-presiden-soeharto-tindak-tegas-penyelundup-sipil-maupun-militer/
+  judul: '1969-06-03 Presiden Soeharto: Tindak Tegas Penyelundup Sipil Maupun Militer'
+  tanggal: '1969-06-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-06-03-presiden-soeharto-tindak-tegas-penyelundup-sipil-maupun-militer/
 ---
+
 
 # 1969-06-03 Presiden Soeharto: Tindak Tegas Penyelundup Sipil Maupun Militer
 

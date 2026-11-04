@@ -1,9 +1,41 @@
 ---
-title: "1969-05-08 Presiden Soeharto Inspeksi Tanjung Priok – HM Soeharto"
-source: "https://soehartolibrary.id/1969-05-08-presiden-soeharto-inspeksi-tanjung-priok/"
-date: "2017-08-28T16:47:35+07:00"
+title: 1969-05-08 Presiden Soeharto Inspeksi Tanjung Priok
+description: KAMIS, 8 MEI 1969, Presiden Soeharto siang ini mengadakan inspeksi ke
+  Pelabuhan Tanjung Priok. Dalam inspeksi tersebut Presiden Soeharto memerintahkan
+  kepada pejabat-pejabat di pelabuhan tersebut agar memberikan pelayanan yang lebih...
+date: '1969-05-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-05-08-presiden-soeharto-inspeksi-tanjung-priok
+aliases:
+- Presiden Soeharto Inspeksi Tanjung Priok
+- 1969-05-08 Presiden Soeharto Inspeksi Tanjung Priok – HM Soeharto
+tags:
+- departemen-perhubungan
+- merdeka-barat
+- orde-baru
+- pejabat
+- pelabuhan
+- perpustakaan-soeharto
+- presiden-soeharto
+- produksi
+- tanjung-priok
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-05-08-presiden-soeharto-inspeksi-tanjung-priok/
+  judul: 1969-05-08 Presiden Soeharto Inspeksi Tanjung Priok
+  tanggal: '1969-05-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-05-08-presiden-soeharto-inspeksi-tanjung-priok/
 ---
+
 
 # 1969-05-08 Presiden Soeharto Inspeksi Tanjung Priok
 

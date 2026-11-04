@@ -1,9 +1,35 @@
 ---
-title: "Bukan Kemauan Rakyat – HM Soeharto"
-source: "https://soehartolibrary.id/bukan-kemauan-rakyat/"
-date: "2013-08-04T21:47:38+07:00"
+title: Bukan Kemauan Rakyat
+description: Bersama ini terkirim salam hormat saya ke hadapan Bapak, semoga Bapak
+  dan keluarga dalam lindungan Allah swt. Aminn.
+date: '2013-08-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: bukan-kemauan-rakyat
+aliases:
+- Bukan Kemauan Rakyat – HM Soeharto
+tags:
+- mengundurkan-diri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sd-inpres
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/bukan-kemauan-rakyat/
+  judul: Bukan Kemauan Rakyat
+  tanggal: '2013-08-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/bukan-kemauan-rakyat/
 ---
+
 
 # Bukan Kemauan Rakyat
 

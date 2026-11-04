@@ -1,9 +1,41 @@
 ---
-title: "1971-10-01 Presiden Soeharto Pimpin Peringatan Hari Kesaktian Pancasila di Lubang Buaya – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-01-presiden-soeharto-pimpin-peringatan-hari-kesaktian-pancasila-di-lubang-buaya/"
-date: "2014-12-01T16:23:27+07:00"
+title: 1971-10-01 Presiden Soeharto Pimpin Peringatan Hari Kesaktian Pancasila di
+  Lubang Buaya
+description: 8 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-01-presiden-soeharto-pimpin-peringatan-hari-kesaktian-pancasila-di-lubang-buaya/respond)
+  89 Views Share on
+date: '1971-10-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-01-presiden-soeharto-pimpin-peringatan-hari-kesaktian-pancasila-di-lubang-buaya
+aliases:
+- Presiden Soeharto Pimpin Peringatan Hari Kesaktian Pancasila di Lubang Buaya
+- 1971-10-01 Presiden Soeharto Pimpin Peringatan Hari Kesaktian Pancasila di Lubang
+  Buaya – HM Soeharto
+tags:
+- hari-kesaktian-pancasila
+- kepala-negara
+- lubang-buaya
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-01-presiden-soeharto-pimpin-peringatan-hari-kesaktian-pancasila-di-lubang-buaya/
+  judul: 1971-10-01 Presiden Soeharto Pimpin Peringatan Hari Kesaktian Pancasila di
+    Lubang Buaya
+  tanggal: '1971-10-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-01-presiden-soeharto-pimpin-peringatan-hari-kesaktian-pancasila-di-lubang-buaya/
 ---
+
 
 # 1971-10-01 Presiden Soeharto Pimpin Peringatan Hari Kesaktian Pancasila di Lubang Buaya
 

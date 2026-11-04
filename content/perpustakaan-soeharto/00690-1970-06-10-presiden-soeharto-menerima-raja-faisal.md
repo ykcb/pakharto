@@ -1,9 +1,38 @@
 ---
-title: "1970-06-10 Presiden Soeharto Menerima Raja Faisal – HM Soeharto"
-source: "https://soehartolibrary.id/1970-06-10-presiden-soeharto-menerima-raja-faisal/"
-date: "2014-03-21T23:32:03+07:00"
+title: 1970-06-10 Presiden Soeharto Menerima Raja Faisal
+description: (Presiden Soeharto Tegaskan Dukungannya Ke Negara-Negara Arab Dalam Kaitan
+  Dengan Israel
+date: '1970-06-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-06-10-presiden-soeharto-menerima-raja-faisal
+aliases:
+- Presiden Soeharto Menerima Raja Faisal
+- 1970-06-10 Presiden Soeharto Menerima Raja Faisal – HM Soeharto
+tags:
+- arab-saudi
+- israel
+- krisis-timur-tengah
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- raja-faisal
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-06-10-presiden-soeharto-menerima-raja-faisal/
+  judul: 1970-06-10 Presiden Soeharto Menerima Raja Faisal
+  tanggal: '1970-06-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-06-10-presiden-soeharto-menerima-raja-faisal/
 ---
+
 
 # 1970-06-10 Presiden Soeharto Menerima Raja Faisal
 

@@ -1,9 +1,37 @@
 ---
-title: "1969-10-28 Presiden Soeharto Serukan Persatuan Pemuda – HM Soeharto"
-source: "https://soehartolibrary.id/1969-10-28-presiden-soeharto-serukan-persatuan-pemuda/"
-date: "2014-12-01T16:33:11+07:00"
+title: 1969-10-28 Presiden Soeharto Serukan Persatuan Pemuda
+description: 5 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-10-28-presiden-soeharto-serukan-persatuan-pemuda/respond)
+  137 Views Share on
+date: '1969-10-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-10-28-presiden-soeharto-serukan-persatuan-pemuda
+aliases:
+- Presiden Soeharto Serukan Persatuan Pemuda
+- 1969-10-28 Presiden Soeharto Serukan Persatuan Pemuda – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- pemuda
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-10-28-presiden-soeharto-serukan-persatuan-pemuda/
+  judul: 1969-10-28 Presiden Soeharto Serukan Persatuan Pemuda
+  tanggal: '1969-10-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-10-28-presiden-soeharto-serukan-persatuan-pemuda/
 ---
+
 
 # 1969-10-28 Presiden Soeharto Serukan Persatuan Pemuda
 

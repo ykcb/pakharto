@@ -1,9 +1,46 @@
 ---
-title: "1969-02-18 Dipimpin Presiden Soeharto, Sidang Dewan Stabilisasi Ekonomi Bahas Pupuk dan Tarif – HM Soeharto"
-source: "https://soehartolibrary.id/1969-02-18-dipimpin-presiden-soeharto-sidang-dewan-stabilisasi-ekonomi-bahas-pupuk-dan-tarif/"
-date: "2015-03-25T06:51:15+07:00"
+title: 1969-02-18 Dipimpin Presiden Soeharto, Sidang Dewan Stabilisasi Ekonomi Bahas
+  Pupuk dan Tarif
+description: SELASA, 18 FEBRUARI 1969. Sidang sub-Dewan Stabilisasi Ekonomi yang dipimpin
+  oleh Presiden Soeharto di Istana Merdeka hari ini, membahas masalah industri dan
+  produksi pupuk. Mengenai industri, diputuskan untuk mengadakan peninjauan...
+date: '1969-02-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-02-18-dipimpin-presiden-soeharto-sidang-dewan-stabilisasi-ekonomi-bahas-pupuk-dan-tarif
+aliases:
+- Dipimpin Presiden Soeharto, Sidang Dewan Stabilisasi Ekonomi Bahas Pupuk dan Tarif
+- 1969-02-18 Dipimpin Presiden Soeharto, Sidang Dewan Stabilisasi Ekonomi Bahas Pupuk
+  dan Tarif – HM Soeharto
+tags:
+- bonded
+- dewan
+- ekonomi
+- industri
+- orde-baru
+- perpustakaan-soeharto
+- produksi
+- pupuk
+- repelita
+- stabilisasi
+- warehouse
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-02-18-dipimpin-presiden-soeharto-sidang-dewan-stabilisasi-ekonomi-bahas-pupuk-dan-tarif/
+  judul: 1969-02-18 Dipimpin Presiden Soeharto, Sidang Dewan Stabilisasi Ekonomi Bahas
+    Pupuk dan Tarif
+  tanggal: '1969-02-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-02-18-dipimpin-presiden-soeharto-sidang-dewan-stabilisasi-ekonomi-bahas-pupuk-dan-tarif/
 ---
+
 
 # 1969-02-18 Dipimpin Presiden Soeharto, Sidang Dewan Stabilisasi Ekonomi Bahas Pupuk dan Tarif
 

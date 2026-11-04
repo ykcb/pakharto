@@ -1,9 +1,44 @@
 ---
-title: "1968-05-06 Presiden Soeharto Menerima 8 Wakil Kesatuan Aksi – HM Soeharto"
-source: "https://soehartolibrary.id/1968-05-06-presiden-soeharto-menerima-8-wakil-kesatuan-aksi/"
-date: "2014-03-22T02:53:52+07:00"
+title: 1968-05-06 Presiden Soeharto Menerima 8 Wakil Kesatuan Aksi
+description: Senin, 6 Mei 1968, Pagi ini di Istana Merdeka Presiden Soeharto menerima
+  wakil-wakil dari delapan kesatuan aksi untuk bertukar pikiran. Organisasi-organisasi
+  yang terwakili dalam pertemuan ini adalah KAPI, KAPPI, KASI, KAWI, KAPNI,...
+date: '1968-05-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-05-06-presiden-soeharto-menerima-8-wakil-kesatuan-aksi
+aliases:
+- Presiden Soeharto Menerima 8 Wakil Kesatuan Aksi
+- 1968-05-06 Presiden Soeharto Menerima 8 Wakil Kesatuan Aksi – HM Soeharto
+tags:
+- kagi
+- kapbi
+- kapi
+- kapni
+- kappi
+- kasi
+- kawi
+- korupsi
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- team-pemberantasan-korupsi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-05-06-presiden-soeharto-menerima-8-wakil-kesatuan-aksi/
+  judul: 1968-05-06 Presiden Soeharto Menerima 8 Wakil Kesatuan Aksi
+  tanggal: '1968-05-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-05-06-presiden-soeharto-menerima-8-wakil-kesatuan-aksi/
 ---
+
 
 # 1968-05-06 Presiden Soeharto Menerima 8 Wakil Kesatuan Aksi
 

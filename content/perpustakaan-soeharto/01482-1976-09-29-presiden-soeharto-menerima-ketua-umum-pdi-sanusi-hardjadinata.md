@@ -1,9 +1,42 @@
 ---
-title: "1976-09-29 Presiden Soeharto Menerima Ketua Umum PDI Sanusi Hardjadinata – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-29-presiden-soeharto-menerima-ketua-umum-pdi-sanusi-hardjadinata/"
-date: "2017-08-22T16:15:18+07:00"
+title: 1976-09-29 Presiden Soeharto Menerima Ketua Umum PDI Sanusi Hardjadinata
+description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-29-presiden-soeharto-menerima-ketua-umum-pdi-sanusi-hardjadinata/respond)
+  101 Views Share on
+date: '1976-09-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-29-presiden-soeharto-menerima-ketua-umum-pdi-sanusi-hardjadinata
+aliases:
+- Presiden Soeharto Menerima Ketua Umum PDI Sanusi Hardjadinata
+- 1976-09-29 Presiden Soeharto Menerima Ketua Umum PDI Sanusi Hardjadinata – HM Soeharto
+tags:
+- madiun
+- orde-baru
+- pdi
+- perpustakaan-soeharto
+- pesindo
+- pki
+- presiden-soeharto
+- prof-usep-ranawidjaja
+- sanusi-hardjadinata
+- sawito
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-29-presiden-soeharto-menerima-ketua-umum-pdi-sanusi-hardjadinata/
+  judul: 1976-09-29 Presiden Soeharto Menerima Ketua Umum PDI Sanusi Hardjadinata
+  tanggal: '1976-09-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-29-presiden-soeharto-menerima-ketua-umum-pdi-sanusi-hardjadinata/
 ---
+
 
 # 1976-09-29 Presiden Soeharto Menerima Ketua Umum PDI Sanusi Hardjadinata
 

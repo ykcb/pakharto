@@ -1,9 +1,39 @@
 ---
-title: "Diplomasi Demi Harga Diri Bangsa – HM Soeharto"
-source: "https://soehartolibrary.id/diplomasi-demi-harga-diri-bangsa/"
-date: "2015-02-25T08:54:41+07:00"
+title: Diplomasi Demi Harga Diri Bangsa
+description: BERBAGAI persoalan Indonesia dengan negara lain, seperti Malaysia dan
+  Australia, selalu disikapi Pemerintah hanya dengan nota protes. Padahal, DPR dan
+  masyarakat kerap menyuarakan desakan agar Pemerintah berani bertindak lebih tegas....
+date: '2015-02-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: diplomasi-demi-harga-diri-bangsa
+aliases:
+- Diplomasi Demi Harga Diri Bangsa – HM Soeharto
+tags:
+- harun
+- kepala-negara
+- lee-kuan-yew
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tmp-kalibata
+- usman
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/diplomasi-demi-harga-diri-bangsa/
+  judul: Diplomasi Demi Harga Diri Bangsa
+  tanggal: '2015-02-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/diplomasi-demi-harga-diri-bangsa/
 ---
+
 
 # Diplomasi Demi Harga Diri Bangsa
 

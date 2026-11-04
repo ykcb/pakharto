@@ -1,9 +1,39 @@
 ---
-title: "1971-02-22 Dwifungsi ABRI Bukan Untuk Monopoli Kekuasaan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-02-22-dwifungsi-abri-bukan-untuk-monopoli-kekuasaan/"
-date: "2017-08-28T17:10:22+07:00"
+title: 1971-02-22 Dwifungsi ABRI Bukan Untuk Monopoli Kekuasaan
+description: KAMIS 22 PEBRUARI 1971, Pagi hari Presiden Soeharto membuka Commander’s
+  Call yang diadakan di Balai Pertemuan Bea Cukai Jakarta. Dalam sambutannya antara
+  lain dikatakan bahwa ketahanan nasional merupakan satu-satunya kekuatan yang mampu...
+date: '1971-02-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-02-22-dwifungsi-abri-bukan-untuk-monopoli-kekuasaan
+aliases:
+- Dwifungsi ABRI Bukan Untuk Monopoli Kekuasaan
+- 1971-02-22 Dwifungsi ABRI Bukan Untuk Monopoli Kekuasaan – HM Soeharto
+tags:
+- abri
+- commanders-call
+- dwifungsi
+- kekuasaan
+- monopoli
+- orde-baru
+- perpustakaan-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-02-22-dwifungsi-abri-bukan-untuk-monopoli-kekuasaan/
+  judul: 1971-02-22 Dwifungsi ABRI Bukan Untuk Monopoli Kekuasaan
+  tanggal: '1971-02-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-02-22-dwifungsi-abri-bukan-untuk-monopoli-kekuasaan/
 ---
+
 
 # 1971-02-22 Dwifungsi ABRI Bukan Untuk Monopoli Kekuasaan
 

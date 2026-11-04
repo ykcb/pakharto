@@ -1,9 +1,40 @@
 ---
-title: "1973-08-18 Presiden Soeharto: Pemerintah Dahulukan Perbaikan Nasib Guru – HM Soeharto"
-source: "https://soehartolibrary.id/1973-08-18-presiden-soeharto-pemerintah-dahulukan-perbaikan-nasib-guru/"
-date: "2017-08-23T11:36:17+07:00"
+title: '1973-08-18 Presiden Soeharto: Pemerintah Dahulukan Perbaikan Nasib Guru'
+description: 22 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-08-18-presiden-soeharto-pemerintah-dahulukan-perbaikan-nasib-guru/respond)
+  111 Views Share on
+date: '1973-08-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-08-18-presiden-soeharto-pemerintah-dahulukan-perbaikan-nasib-guru
+aliases:
+- 'Presiden Soeharto: Pemerintah Dahulukan Perbaikan Nasib Guru'
+- '1973-08-18 Presiden Soeharto: Pemerintah Dahulukan Perbaikan Nasib Guru – HM Soeharto'
+tags:
+- guru
+- guru-teladan
+- kalimantan-timur
+- kesenian
+- orde-baru
+- pengerek-bendera
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-08-18-presiden-soeharto-pemerintah-dahulukan-perbaikan-nasib-guru/
+  judul: '1973-08-18 Presiden Soeharto: Pemerintah Dahulukan Perbaikan Nasib Guru'
+  tanggal: '1973-08-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-08-18-presiden-soeharto-pemerintah-dahulukan-perbaikan-nasib-guru/
 ---
+
 
 # 1973-08-18 Presiden Soeharto: Pemerintah Dahulukan Perbaikan Nasib Guru
 

@@ -1,9 +1,39 @@
 ---
-title: "1979-09-19 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam/"
-date: "2014-12-01T16:37:29+07:00"
+title: 1979-09-19 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam
+description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam/respond)
+  87 Views Share on
+date: '1979-09-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam
+aliases:
+- Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam
+- 1979-09-19 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam – HM Soeharto
+tags:
+- bina-graha
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- polkam
+- presiden-soeharto
+- sidang-kabinet
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam/
+  judul: 1979-09-19 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam
+  tanggal: '1979-09-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam/
 ---
+
 
 # 1979-09-19 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam
 

@@ -1,9 +1,42 @@
 ---
-title: "Tapos: Skenario Pak Harto Wujudkan Swasembada Sapi – HM Soeharto"
-source: "https://soehartolibrary.id/tapos-skenario-pak-harto-wujudkan-swasembada-sapi/"
-date: "2013-02-24T20:11:41+07:00"
+title: 'Tapos: Skenario Pak Harto Wujudkan Swasembada Sapi'
+description: PADA pokoknya pemenuhan dasar kebutuhan manusia terdiri atas pangan,
+  sandang, perumahan, pendidikan, dan kesehatan. Kalau membaca hasil Survei Sosial
+  Ekonomi Nasional (Susenas) yang setiap tiga tahun dikeluarkan oleh Badan Pusat...
+date: '2013-02-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: tapos-skenario-pak-harto-wujudkan-swasembada-sapi
+aliases:
+- 'Tapos: Skenario Pak Harto Wujudkan Swasembada Sapi – HM Soeharto'
+tags:
+- bogor
+- ciawi
+- jawa-barat
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- peternakan
+- peternakan-rakyat
+- rumus-tani
+- sapi
+- tapos
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/tapos-skenario-pak-harto-wujudkan-swasembada-sapi/
+  judul: 'Tapos: Skenario Pak Harto Wujudkan Swasembada Sapi'
+  tanggal: '2013-02-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/tapos-skenario-pak-harto-wujudkan-swasembada-sapi/
 ---
+
 
 # Tapos: Skenario Pak Harto Wujudkan Swasembada Sapi
 

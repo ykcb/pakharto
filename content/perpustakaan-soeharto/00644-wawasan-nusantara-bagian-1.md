@@ -1,9 +1,36 @@
 ---
-title: "Wawasan Nusantara (Bagian 1) – HM Soeharto"
-source: "https://soehartolibrary.id/wawasan-nusantara-bagian-1/"
-date: "2014-04-07T01:17:30+07:00"
+title: Wawasan Nusantara (Bagian 1)
+description: “Ono Warisane Pak Harto sing dilaleake. Mongko ing kono ngemu wadi wibowo
+  lan kuncaraning bongso. Warisan iku ora liyo Wawasan Nusantara”
+date: '2014-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: wawasan-nusantara-bagian-1
+aliases:
+- Wawasan Nusantara (Bagian 1) – HM Soeharto
+tags:
+- asean-way
+- orde-baru
+- peradaban
+- perpustakaan-soeharto
+- presiden-soeharto
+- wawasan-nusantara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/wawasan-nusantara-bagian-1/
+  judul: Wawasan Nusantara (Bagian 1)
+  tanggal: '2014-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/wawasan-nusantara-bagian-1/
 ---
+
 
 ![Conferce Ke 3 ASEAN di H.I. Jakarta Tahun 1970](https://soehartolibrary.id/wp-content/uploads/2013/06/Presiden-Soeharto.jpg)
 

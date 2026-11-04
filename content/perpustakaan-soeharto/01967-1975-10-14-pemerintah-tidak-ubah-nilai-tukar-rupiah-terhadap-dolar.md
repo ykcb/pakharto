@@ -1,9 +1,40 @@
 ---
-title: "1975-10-14 Pemerintah Tidak Ubah Nilai Tukar Rupiah Terhadap Dolar – HM Soeharto"
-source: "https://soehartolibrary.id/1975-10-14-pemerintah-tidak-ubah-nilai-tukar-rupiah-terhadap-dolar/"
-date: "2014-06-13T18:53:12+07:00"
+title: 1975-10-14 Pemerintah Tidak Ubah Nilai Tukar Rupiah Terhadap Dolar
+description: 17 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-10-14-pemerintah-tidak-ubah-nilai-tukar-rupiah-terhadap-dolar/respond)
+  110 Views Share on
+date: '1975-10-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-10-14-pemerintah-tidak-ubah-nilai-tukar-rupiah-terhadap-dolar
+aliases:
+- Pemerintah Tidak Ubah Nilai Tukar Rupiah Terhadap Dolar
+- 1975-10-14 Pemerintah Tidak Ubah Nilai Tukar Rupiah Terhadap Dolar – HM Soeharto
+tags:
+- bina-graha
+- dewan-stabilisasi-ekonomi
+- dolar
+- kepala-negara
+- nilai-tukar-rupiah
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-10-14-pemerintah-tidak-ubah-nilai-tukar-rupiah-terhadap-dolar/
+  judul: 1975-10-14 Pemerintah Tidak Ubah Nilai Tukar Rupiah Terhadap Dolar
+  tanggal: '1975-10-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-10-14-pemerintah-tidak-ubah-nilai-tukar-rupiah-terhadap-dolar/
 ---
+
 
 # 1975-10-14 Pemerintah Tidak Ubah Nilai Tukar Rupiah Terhadap Dolar
 

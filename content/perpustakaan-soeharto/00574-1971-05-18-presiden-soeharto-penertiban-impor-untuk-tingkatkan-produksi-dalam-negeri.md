@@ -1,9 +1,45 @@
 ---
-title: "1971-05-18 Presiden Soeharto: Penertiban Impor Untuk Tingkatkan Produksi Dalam Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1971-05-18-presiden-soeharto-penertiban-impor-untuk-tingkatkan-produksi-dalam-negeri/"
-date: "2017-08-25T15:43:31+07:00"
+title: '1971-05-18 Presiden Soeharto: Penertiban Impor Untuk Tingkatkan Produksi Dalam
+  Negeri'
+description: SELASA, 18 Mei 1971, Dalam sidang Sub-Dewan Stabilisasi Ekonomi pagi
+  ini di Bina Graha, Jakarta, Presiden Soeharto mendengarkan laporan Menteri Keuangan
+  dan Menteri Perdagangan. Menteri Keuangan melaporkan usaha-usaha yang telah dan...
+date: '1971-05-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-05-18-presiden-soeharto-penertiban-impor-untuk-tingkatkan-produksi-dalam-negeri
+aliases:
+- 'Presiden Soeharto: Penertiban Impor Untuk Tingkatkan Produksi Dalam Negeri'
+- '1971-05-18 Presiden Soeharto: Penertiban Impor Untuk Tingkatkan Produksi Dalam
+  Negeri – HM Soeharto'
+tags:
+- departemen-luar-negeri
+- departemen-perdagangan
+- eropa
+- impor
+- inggris
+- mee
+- orde-baru
+- pasar-eropa
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-05-18-presiden-soeharto-penertiban-impor-untuk-tingkatkan-produksi-dalam-negeri/
+  judul: '1971-05-18 Presiden Soeharto: Penertiban Impor Untuk Tingkatkan Produksi
+    Dalam Negeri'
+  tanggal: '1971-05-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-05-18-presiden-soeharto-penertiban-impor-untuk-tingkatkan-produksi-dalam-negeri/
 ---
+
 
 # 1971-05-18 Presiden Soeharto: Penertiban Impor Untuk Tingkatkan Produksi Dalam Negeri
 

@@ -1,9 +1,43 @@
 ---
-title: "1975-08-26 Presiden Soeharto Instruksikan Tataniaga Kopra Untungkan Petani – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-26-presiden-soeharto-instruksikan-tataniaga-kopra-untungkan-petani/"
-date: "2017-08-22T17:44:24+07:00"
+title: 1975-08-26 Presiden Soeharto Instruksikan Tataniaga Kopra Untungkan Petani
+description: 28 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-26-presiden-soeharto-instruksikan-tataniaga-kopra-untungkan-petani/respond)
+  94 Views Share on
+date: '1975-08-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-26-presiden-soeharto-instruksikan-tataniaga-kopra-untungkan-petani
+aliases:
+- Presiden Soeharto Instruksikan Tataniaga Kopra Untungkan Petani
+- 1975-08-26 Presiden Soeharto Instruksikan Tataniaga Kopra Untungkan Petani – HM
+  Soeharto
+tags:
+- beras-muangthai
+- buudkud
+- koperasi
+- laos
+- menteri-perdagangan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tenaga-kerja
+- transmigrasi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-26-presiden-soeharto-instruksikan-tataniaga-kopra-untungkan-petani/
+  judul: 1975-08-26 Presiden Soeharto Instruksikan Tataniaga Kopra Untungkan Petani
+  tanggal: '1975-08-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-26-presiden-soeharto-instruksikan-tataniaga-kopra-untungkan-petani/
 ---
+
 
 # 1975-08-26 Presiden Soeharto Instruksikan Tataniaga Kopra Untungkan Petani
 

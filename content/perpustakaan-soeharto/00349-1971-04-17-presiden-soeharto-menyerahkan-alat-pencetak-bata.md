@@ -1,9 +1,40 @@
 ---
-title: "1971-04-17 Presiden Soeharto Menyerahkan Alat Pencetak Bata – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-17-presiden-soeharto-menyerahkan-alat-pencetak-bata/"
-date: "2014-03-22T02:58:24+07:00"
+title: 1971-04-17 Presiden Soeharto Menyerahkan Alat Pencetak Bata
+description: SABTU, 17 April 1971, Sebelum meniggalkan Makasar kembali ke Indonesia,
+  Presiden Soeharto menyerahkan alat pencetak bata kepada seluruh daerah di Sulawesi
+  Selatan. Dengan penyerahan ini, Presiden mengharapkan agar seluruh desa yang ada...
+date: '1971-04-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-17-presiden-soeharto-menyerahkan-alat-pencetak-bata
+aliases:
+- Presiden Soeharto Menyerahkan Alat Pencetak Bata
+- 1971-04-17 Presiden Soeharto Menyerahkan Alat Pencetak Bata – HM Soeharto
+tags:
+- kayu
+- makasar
+- orde-baru
+- pencetak-bata
+- perpustakaan-soeharto
+- presiden-soeharto
+- rumah
+- sulawesi-selatan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-17-presiden-soeharto-menyerahkan-alat-pencetak-bata/
+  judul: 1971-04-17 Presiden Soeharto Menyerahkan Alat Pencetak Bata
+  tanggal: '1971-04-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-17-presiden-soeharto-menyerahkan-alat-pencetak-bata/
 ---
+
 
 # 1971-04-17 Presiden Soeharto Menyerahkan Alat Pencetak Bata
 

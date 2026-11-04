@@ -1,9 +1,43 @@
 ---
-title: "1971-03-08 Presiden Soeharto: Penerangan Era Orde Baru Bukan Indoktrinasi – HM Soeharto"
-source: "https://soehartolibrary.id/1971-03-08-presiden-soeharto-penerangan-era-orde-baru-bukan-indoktrinasi/"
-date: "2017-08-29T17:02:58+07:00"
+title: '1971-03-08 Presiden Soeharto: Penerangan Era Orde Baru Bukan Indoktrinasi'
+description: SENIN, 8 Maret 1971, Presiden Soeharto menyampaikan amanat tertulis pada
+  rapat kerja Departemen Penerangan di Jakarta. Pada kesempatan itu secara mendasar
+  Presiden telah mengarahkan peranan Departemen Penerangan pada umumnya, dan...
+date: '1971-03-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-03-08-presiden-soeharto-penerangan-era-orde-baru-bukan-indoktrinasi
+aliases:
+- 'Presiden Soeharto: Penerangan Era Orde Baru Bukan Indoktrinasi'
+- '1971-03-08 Presiden Soeharto: Penerangan Era Orde Baru Bukan Indoktrinasi – HM
+  Soeharto'
+tags:
+- departemen
+- indoktrinasi
+- orde-baru
+- orde-lama
+- otoriter
+- pak-harto
+- penerangan
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-03-08-presiden-soeharto-penerangan-era-orde-baru-bukan-indoktrinasi/
+  judul: '1971-03-08 Presiden Soeharto: Penerangan Era Orde Baru Bukan Indoktrinasi'
+  tanggal: '1971-03-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-03-08-presiden-soeharto-penerangan-era-orde-baru-bukan-indoktrinasi/
 ---
+
 
 # 1971-03-08 Presiden Soeharto: Penerangan Era Orde Baru Bukan Indoktrinasi
 

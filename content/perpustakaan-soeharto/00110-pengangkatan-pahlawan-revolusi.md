@@ -1,9 +1,41 @@
 ---
-title: "Pengangkatan Jenazah Pahlawan Revolusi – HM Soeharto"
-source: "https://soehartolibrary.id/pengangkatan-pahlawan-revolusi/"
-date: "2018-01-10T19:20:03+07:00"
+title: Pengangkatan Jenazah Pahlawan Revolusi
+description: Ketika saya kembali ke Kostrad dari istana Bogor, sudah tidak ada lagi
+  persoalan merebut Halim dengan kekerasan. Untung sudah tidak ada di sana. D.N. Aidit
+  sudah terbang ke Yogyakarta menggunakan Dakota AURI. Omar Dhani dan keluarganya...
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pengangkatan-pahlawan-revolusi
+aliases:
+- Pengangkatan Jenazah Pahlawan Revolusi – HM Soeharto
+tags:
+- een-rimpeltje-in-de-ocean
+- jenderal-nasution
+- lubang-buaya
+- orde-baru
+- pahlawan-revolusi
+- pengangkatan
+- perpustakaan-soeharto
+- presiden-soekarno
+- riak-kecil
+- samudera
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pengangkatan-pahlawan-revolusi/
+  judul: Pengangkatan Jenazah Pahlawan Revolusi
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pengangkatan-pahlawan-revolusi/
 ---
+
 
 # Pengangkatan Jenazah Pahlawan Revolusi
 

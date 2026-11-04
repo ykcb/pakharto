@@ -1,9 +1,51 @@
 ---
-title: "1970-01-10 Berikan Pembekalan DPN ’45, Presiden Soeharto: Angkatan ’45 Harus Berhasil Gerakkan Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-10-berikan-pembekalan-dpn-45-presiden-soeharto-angkatan-45-harus-berhasil-gerakkan-pembangunan/"
-date: "2017-08-28T17:12:15+07:00"
+title: '1970-01-10 Berikan Pembekalan DPN ’45, Presiden Soeharto: Angkatan ’45 Harus
+  Berhasil Gerakkan Pembangunan'
+description: SABTU 10 JANUARI 1970, Dalam amanat tertulisnya pada pembukaan musyawarah
+  Dewan Paripurna nasional ke-2 Angkatan ’45 hari ini di Pandaan, Jawa Timur, Presiden
+  Soeharto mengatakan bahwa Angkatan ’45 harus berhasil pula menggerakkan...
+date: '1970-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-10-berikan-pembekalan-dpn-45-presiden-soeharto-angkatan-45-harus-berhasil-gerakkan-pembangunan
+aliases:
+- 'Berikan Pembekalan DPN ’45, Presiden Soeharto: Angkatan ’45 Harus Berhasil Gerakkan
+  Pembangunan'
+- '1970-01-10 Berikan Pembekalan DPN ’45, Presiden Soeharto: Angkatan ’45 Harus Berhasil
+  Gerakkan Pembangunan – HM Soeharto'
+tags:
+- '45'
+- angkatan
+- bapak-pembangunan
+- bina-graha
+- cendana
+- dpn
+- gbhn
+- istana-merdeka
+- macan-asia
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- tinggal-landas-2
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-10-berikan-pembekalan-dpn-45-presiden-soeharto-angkatan-45-harus-berhasil-gerakkan-pembangunan/
+  judul: '1970-01-10 Berikan Pembekalan DPN ’45, Presiden Soeharto: Angkatan ’45 Harus
+    Berhasil Gerakkan Pembangunan'
+  tanggal: '1970-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-10-berikan-pembekalan-dpn-45-presiden-soeharto-angkatan-45-harus-berhasil-gerakkan-pembangunan/
 ---
+
 
 # 1970-01-10 Berikan Pembekalan DPN ’45, Presiden Soeharto: Angkatan ’45 Harus Berhasil Gerakkan Pembangunan
 

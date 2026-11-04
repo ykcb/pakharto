@@ -1,9 +1,45 @@
 ---
-title: "1970-09-05 Presiden Soeharto Temui Industriawan Jerman Barat dan Warga Maluku – HM Soeharto"
-source: "https://soehartolibrary.id/1970-09-05-presiden-soeharto-temui-industriawan-jerman-barat-dan-warga-maluku/"
-date: "2014-03-21T23:15:24+07:00"
+title: 1970-09-05 Presiden Soeharto Temui Industriawan Jerman Barat dan Warga Maluku
+description: 5 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-09-05-presiden-soeharto-temui-industriawan-jerman-barat-dan-warga-maluku/respond)
+  106 Views Share on
+date: '1970-09-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-09-05-presiden-soeharto-temui-industriawan-jerman-barat-dan-warga-maluku
+aliases:
+- Presiden Soeharto Temui Industriawan Jerman Barat dan Warga Maluku
+- 1970-09-05 Presiden Soeharto Temui Industriawan Jerman Barat dan Warga Maluku –
+  HM Soeharto
+tags:
+- bonn
+- haji-olong
+- hotel-am-tulpenfeld
+- jerman-barat
+- kanselir-willy-brandt
+- maluku
+- negeri-belanda
+- nyonya-gustav-heinemann
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- vt-lucas
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-09-05-presiden-soeharto-temui-industriawan-jerman-barat-dan-warga-maluku/
+  judul: 1970-09-05 Presiden Soeharto Temui Industriawan Jerman Barat dan Warga Maluku
+  tanggal: '1970-09-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-09-05-presiden-soeharto-temui-industriawan-jerman-barat-dan-warga-maluku/
 ---
+
 
 # 1970-09-05 Presiden Soeharto Temui Industriawan Jerman Barat dan Warga Maluku
 

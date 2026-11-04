@@ -1,9 +1,49 @@
 ---
-title: "1972-03-10 Presiden Soeharto Bantu Pembangunan Student Centre DKI – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-10-presiden-soeharto-bantu-pembangunan-student-centre-dki/"
-date: "2017-08-29T17:39:12+07:00"
+title: 1972-03-10 Presiden Soeharto Bantu Pembangunan Student Centre DKI
+description: JUM’AT, 10 Maret 1972, Presiden Soeharto di Bina Graha hari ini menyerahkan
+  uang sebesar Rp. 25 juta kepada Gubernur DKI Ali Sadikin sebagai bantuan tahap pertama
+  dari jumlah Rp. 300 juta bantuan yang dijanjikan pemerintah untuk...
+date: '1972-03-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-10-presiden-soeharto-bantu-pembangunan-student-centre-dki
+aliases:
+- Presiden Soeharto Bantu Pembangunan Student Centre DKI
+- 1972-03-10 Presiden Soeharto Bantu Pembangunan Student Centre DKI – HM Soeharto
+tags:
+- ali-sadikin
+- as
+- bina
+- centre
+- dki
+- graha
+- jakarta
+- komunike
+- nixon
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- prancis
+- presiden
+- rrc
+- soeharto
+- student
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-10-presiden-soeharto-bantu-pembangunan-student-centre-dki/
+  judul: 1972-03-10 Presiden Soeharto Bantu Pembangunan Student Centre DKI
+  tanggal: '1972-03-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-10-presiden-soeharto-bantu-pembangunan-student-centre-dki/
 ---
+
 
 # 1972-03-10 Presiden Soeharto Bantu Pembangunan Student Centre DKI
 

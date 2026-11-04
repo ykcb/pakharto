@@ -1,9 +1,39 @@
 ---
-title: "1974-10-18 Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis – HM Soeharto"
-source: "https://soehartolibrary.id/1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis/"
-date: "2014-12-01T13:51:26+07:00"
+title: 1974-10-18 Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis
+description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis/respond)
+  75 Views Share on
+date: '1974-10-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis
+aliases:
+- Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis
+- 1974-10-18 Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis – HM Soeharto
+tags:
+- cendana
+- dr-almeida-santos
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- portugis
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis/
+  judul: 1974-10-18 Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis
+  tanggal: '1974-10-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis/
 ---
+
 
 # 1974-10-18 Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis
 

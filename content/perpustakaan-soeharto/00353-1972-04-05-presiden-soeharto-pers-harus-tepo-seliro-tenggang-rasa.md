@@ -1,9 +1,40 @@
 ---
-title: "1972-04-05 Presiden Soeharto: Pers Harus Tepo Seliro (Tenggang Rasa) – HM Soeharto"
-source: "https://soehartolibrary.id/1972-04-05-presiden-soeharto-pers-harus-tepo-seliro-tenggang-rasa/"
-date: "2014-03-22T02:58:23+07:00"
+title: '1972-04-05 Presiden Soeharto: Pers Harus Tepo Seliro (Tenggang Rasa)'
+description: RABU, 5 APRIL 1972, Presiden Soeharto hari ini menerima kunjungan anggota-anggota
+  Dewan Pers di Istana Merdeka. Kepada mereka, Presiden menyampaikan harapannya agar
+  dalam tulisan-tulisan dan kritik-kritik, pers Indonesia harus “tepo...
+date: '1972-04-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-04-05-presiden-soeharto-pers-harus-tepo-seliro-tenggang-rasa
+aliases:
+- 'Presiden Soeharto: Pers Harus Tepo Seliro (Tenggang Rasa)'
+- '1972-04-05 Presiden Soeharto: Pers Harus Tepo Seliro (Tenggang Rasa) – HM Soeharto'
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- pers
+- prajurit-berbayonet
+- prajurit-pena
+- presiden-soeharto
+- tenggang-rasa
+- tepo-sliro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-04-05-presiden-soeharto-pers-harus-tepo-seliro-tenggang-rasa/
+  judul: '1972-04-05 Presiden Soeharto: Pers Harus Tepo Seliro (Tenggang Rasa)'
+  tanggal: '1972-04-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-04-05-presiden-soeharto-pers-harus-tepo-seliro-tenggang-rasa/
 ---
+
 
 # 1972-04-05 Presiden Soeharto: Pers Harus Tepo Seliro (Tenggang Rasa)
 

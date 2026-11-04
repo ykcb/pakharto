@@ -1,9 +1,40 @@
 ---
-title: "1970-10-23 Presiden Soeharto Resmikan Sumur Minyak Shinta I – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-23-presiden-soeharto-resmikan-sumur-minyak-shinta/"
-date: "2014-12-01T16:25:09+07:00"
+title: 1970-10-23 Presiden Soeharto Resmikan Sumur Minyak Shinta I
+description: 7 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-23-presiden-soeharto-resmikan-sumur-minyak-shinta/respond)
+  118 Views Share on
+date: '1970-10-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-23-presiden-soeharto-resmikan-sumur-minyak-shinta
+aliases:
+- Presiden Soeharto Resmikan Sumur Minyak Shinta I
+- 1970-10-23 Presiden Soeharto Resmikan Sumur Minyak Shinta I – HM Soeharto
+tags:
+- as
+- iiapco
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- pertamina
+- presiden-soeharto
+- sumur-minyak
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-23-presiden-soeharto-resmikan-sumur-minyak-shinta/
+  judul: 1970-10-23 Presiden Soeharto Resmikan Sumur Minyak Shinta I
+  tanggal: '1970-10-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-23-presiden-soeharto-resmikan-sumur-minyak-shinta/
 ---
+
 
 # 1970-10-23 Presiden Soeharto Resmikan Sumur Minyak Shinta I
 

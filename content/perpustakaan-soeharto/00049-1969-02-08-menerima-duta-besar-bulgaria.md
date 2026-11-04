@@ -1,9 +1,37 @@
 ---
-title: "1969-02-08 MENERIMA DUTA BESAR BULGARIA – HM Soeharto"
-source: "https://soehartolibrary.id/1969-02-08-menerima-duta-besar-bulgaria/"
-date: "2017-08-29T11:19:15+07:00"
+title: 1969-02-08 MENERIMA DUTA BESAR BULGARIA
+description: SABTU, 8 FEBRUARI 1969. Presiden Soeharto pukul 10.00 pagi hari menerima
+  surat kepercayaan dari Duta Besar Bulgaria yang baru, Stoian Karaslavov. Dalam pidatonya,
+  Duta Besar Karaslavov menyatakan bahwa Bulgaria dan Indonesia kini...
+date: '1969-02-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-02-08-menerima-duta-besar-bulgaria
+aliases:
+- MENERIMA DUTA BESAR BULGARIA
+- 1969-02-08 MENERIMA DUTA BESAR BULGARIA – HM Soeharto
+tags:
+- besar
+- bulgaria
+- duta
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-02-08-menerima-duta-besar-bulgaria/
+  judul: 1969-02-08 MENERIMA DUTA BESAR BULGARIA
+  tanggal: '1969-02-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-02-08-menerima-duta-besar-bulgaria/
 ---
+
 
 # 1969-02-08 MENERIMA DUTA BESAR BULGARIA
 

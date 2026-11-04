@@ -1,9 +1,40 @@
 ---
-title: "1978-09-06 Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-06-presiden-soeharto-menerima-laporan-sikap-soviet-soal-timor-timur/"
-date: "2017-08-22T16:09:55+07:00"
+title: 1978-09-06 Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur
+description: 26 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-06-presiden-soeharto-menerima-laporan-sikap-soviet-soal-timor-timur/respond)
+  93 Views Share on
+date: '1978-09-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-06-presiden-soeharto-menerima-laporan-sikap-soviet-soal-timor-timur
+aliases:
+- Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur
+- 1978-09-06 Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur – HM
+  Soeharto
+tags:
+- duta-besar-ri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rbin-didi-djajadiningrat
+- soviet
+- timor-timur
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-06-presiden-soeharto-menerima-laporan-sikap-soviet-soal-timor-timur/
+  judul: 1978-09-06 Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur
+  tanggal: '1978-09-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-06-presiden-soeharto-menerima-laporan-sikap-soviet-soal-timor-timur/
 ---
+
 
 # 1978-09-06 Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur
 

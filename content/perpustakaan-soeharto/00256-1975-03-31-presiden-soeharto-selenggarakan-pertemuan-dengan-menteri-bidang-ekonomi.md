@@ -1,9 +1,38 @@
 ---
-title: "1975-03-31 Presiden Soeharto Selenggarakan Pertemuan dengan Menteri Bidang Ekonomi – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-31-presiden-soeharto-selenggarakan-pertemuan-dengan-menteri-bidang-ekonomi/"
-date: "2017-08-29T17:43:30+07:00"
+title: 1975-03-31 Presiden Soeharto Selenggarakan Pertemuan dengan Menteri Bidang
+  Ekonomi
+description: Presiden Soeharto Selenggarakan Pertemuan dengan Menteri Bidang Ekonomi
+date: '1975-03-31'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-31-presiden-soeharto-selenggarakan-pertemuan-dengan-menteri-bidang-ekonomi
+aliases:
+- Presiden Soeharto Selenggarakan Pertemuan dengan Menteri Bidang Ekonomi
+- 1975-03-31 Presiden Soeharto Selenggarakan Pertemuan dengan Menteri Bidang Ekonomi
+  – HM Soeharto
+tags:
+- cendana
+- menteri-bidang-ekonomi
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-31-presiden-soeharto-selenggarakan-pertemuan-dengan-menteri-bidang-ekonomi/
+  judul: 1975-03-31 Presiden Soeharto Selenggarakan Pertemuan dengan Menteri Bidang
+    Ekonomi
+  tanggal: '1975-03-31'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-31-presiden-soeharto-selenggarakan-pertemuan-dengan-menteri-bidang-ekonomi/
 ---
+
 
 # 1975-03-31 Presiden Soeharto Selenggarakan Pertemuan dengan Menteri Bidang Ekonomi
 

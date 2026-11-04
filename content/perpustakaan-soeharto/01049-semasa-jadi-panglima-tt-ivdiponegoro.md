@@ -1,9 +1,39 @@
 ---
-title: "Semasa Jadi Panglima TT-IV/Diponegoro – HM Soeharto"
-source: "https://soehartolibrary.id/semasa-jadi-panglima-tt-ivdiponegoro/"
-date: "2018-01-10T19:16:22+07:00"
+title: Semasa Jadi Panglima TT-IV/Diponegoro
+description: 23 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/semasa-jadi-panglima-tt-ivdiponegoro/respond)
+  162 Views Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: semasa-jadi-panglima-tt-ivdiponegoro
+aliases:
+- Semasa Jadi Panglima TT-IV/Diponegoro – HM Soeharto
+tags:
+- bob-hasan
+- gatot-soebroto
+- ki-hajar-dewantara
+- nasution
+- orde-baru
+- panglima-diponegoro
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/semasa-jadi-panglima-tt-ivdiponegoro/
+  judul: Semasa Jadi Panglima TT-IV/Diponegoro
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/semasa-jadi-panglima-tt-ivdiponegoro/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/08/Bersama-Bung-Karno.jpg)
 

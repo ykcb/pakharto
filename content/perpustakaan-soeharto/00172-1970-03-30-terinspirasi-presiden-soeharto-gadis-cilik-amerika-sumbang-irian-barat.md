@@ -1,9 +1,51 @@
 ---
-title: "1970-03-30 Terinspirasi Presiden Soeharto Gadis Cilik Amerika Sumbang Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-30-terinspirasi-presiden-soeharto-gadis-cilik-amerika-sumbang-irian-barat/"
-date: "2017-08-29T17:03:37+07:00"
+title: 1970-03-30 Terinspirasi Presiden Soeharto Gadis Cilik Amerika Sumbang Irian
+  Barat
+description: SENIN, 30 Maret 1970, Seorang gadis cilik dari Amerika Serikat, Maureen
+  Ann, telah menyumbang uang sebesar 17 dolar untuk proyek kemanusiaan di Irian Barat.
+  Maureen tergerak hatinya setelah membaca harian Los Angeles Times tentang...
+date: '1970-03-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-30-terinspirasi-presiden-soeharto-gadis-cilik-amerika-sumbang-irian-barat
+aliases:
+- Terinspirasi Presiden Soeharto Gadis Cilik Amerika Sumbang Irian Barat
+- 1970-03-30 Terinspirasi Presiden Soeharto Gadis Cilik Amerika Sumbang Irian Barat
+  – HM Soeharto
+tags:
+- amerika
+- angeles
+- barat
+- cilik
+- gadis
+- irian
+- kemanusiaan
+- los
+- maureen
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden
+- serikat
+- soeharto
+- times
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-30-terinspirasi-presiden-soeharto-gadis-cilik-amerika-sumbang-irian-barat/
+  judul: 1970-03-30 Terinspirasi Presiden Soeharto Gadis Cilik Amerika Sumbang Irian
+    Barat
+  tanggal: '1970-03-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-30-terinspirasi-presiden-soeharto-gadis-cilik-amerika-sumbang-irian-barat/
 ---
+
 
 # 1970-03-30 Terinspirasi Presiden Soeharto Gadis Cilik Amerika Sumbang Irian Barat
 

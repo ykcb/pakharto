@@ -1,9 +1,43 @@
 ---
-title: "1973-05-12 Presiden Soeharto: Kebijakan Stok Beras Nasional Tidak Mematikan Pedagang – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-12-presiden-soeharto-kebijakan-stok-beras-nasional-tidak-mematikan-pedagang/"
-date: "2017-08-25T15:33:19+07:00"
+title: '1973-05-12 Presiden Soeharto: Kebijakan Stok Beras Nasional Tidak Mematikan
+  Pedagang'
+description: SABTU, 12 Mei 1973, Dalam pertemuan dengan unsur-unsur pemerintah daerah
+  di Jawa Timur di Nganjuk hari ini, Presiden Soeharto memberi jaminan bahwa kebijaksanaan
+  pemerintah untuk membentuk stok beras nasional tidak akan merugikan...
+date: '1973-05-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-12-presiden-soeharto-kebijakan-stok-beras-nasional-tidak-mematikan-pedagang
+aliases:
+- 'Presiden Soeharto: Kebijakan Stok Beras Nasional Tidak Mematikan Pedagang'
+- '1973-05-12 Presiden Soeharto: Kebijakan Stok Beras Nasional Tidak Mematikan Pedagang
+  – HM Soeharto'
+tags:
+- beras
+- jawa-timur
+- nganjuk
+- orde-baru
+- pedagang
+- perpustakaan-soeharto
+- presiden-soeharto
+- tengkulak
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-12-presiden-soeharto-kebijakan-stok-beras-nasional-tidak-mematikan-pedagang/
+  judul: '1973-05-12 Presiden Soeharto: Kebijakan Stok Beras Nasional Tidak Mematikan
+    Pedagang'
+  tanggal: '1973-05-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-12-presiden-soeharto-kebijakan-stok-beras-nasional-tidak-mematikan-pedagang/
 ---
+
 
 # 1973-05-12 Presiden Soeharto: Kebijakan Stok Beras Nasional Tidak Mematikan Pedagang
 

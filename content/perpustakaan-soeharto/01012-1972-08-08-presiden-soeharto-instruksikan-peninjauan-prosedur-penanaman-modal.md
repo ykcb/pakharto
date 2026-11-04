@@ -1,9 +1,42 @@
 ---
-title: "1972-08-08 Presiden Soeharto Instruksikan Peninjauan Prosedur Penanaman Modal – HM Soeharto"
-source: "https://soehartolibrary.id/1972-08-08-presiden-soeharto-instruksikan-peninjauan-prosedur-penanaman-modal/"
-date: "2017-08-24T15:07:41+07:00"
+title: 1972-08-08 Presiden Soeharto Instruksikan Peninjauan Prosedur Penanaman Modal
+description: 19 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-08-08-presiden-soeharto-instruksikan-peninjauan-prosedur-penanaman-modal/respond)
+  70 Views Share on
+date: '1972-08-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-08-08-presiden-soeharto-instruksikan-peninjauan-prosedur-penanaman-modal
+aliases:
+- Presiden Soeharto Instruksikan Peninjauan Prosedur Penanaman Modal
+- 1972-08-08 Presiden Soeharto Instruksikan Peninjauan Prosedur Penanaman Modal –
+  HM Soeharto
+tags:
+- asing
+- bappenas
+- dalam-negeri
+- orde-baru
+- penanaman-modal
+- pengusaha-nasional
+- perpustakaan-soeharto
+- presiden-soeharto
+- sekretaris-negara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-08-08-presiden-soeharto-instruksikan-peninjauan-prosedur-penanaman-modal/
+  judul: 1972-08-08 Presiden Soeharto Instruksikan Peninjauan Prosedur Penanaman Modal
+  tanggal: '1972-08-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-08-08-presiden-soeharto-instruksikan-peninjauan-prosedur-penanaman-modal/
 ---
+
 
 # 1972-08-08 Presiden Soeharto Instruksikan Peninjauan Prosedur Penanaman Modal
 

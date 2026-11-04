@@ -1,9 +1,38 @@
 ---
-title: "1969-10-05 Presiden Soeharto Peringati Hari ABRI Ke-24 – HM Soeharto"
-source: "https://soehartolibrary.id/1969-10-05-presiden-soeharto-peringati-hari-abri-ke-24/"
-date: "2014-12-01T16:35:55+07:00"
+title: 1969-10-05 Presiden Soeharto Peringati Hari ABRI Ke-24
+description: 4 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-10-05-presiden-soeharto-peringati-hari-abri-ke-24/respond)
+  117 Views Share on
+date: '1969-10-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-10-05-presiden-soeharto-peringati-hari-abri-ke-24
+aliases:
+- Presiden Soeharto Peringati Hari ABRI Ke-24
+- 1969-10-05 Presiden Soeharto Peringati Hari ABRI Ke-24 – HM Soeharto
+tags:
+- departemen
+- hankam
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-10-05-presiden-soeharto-peringati-hari-abri-ke-24/
+  judul: 1969-10-05 Presiden Soeharto Peringati Hari ABRI Ke-24
+  tanggal: '1969-10-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-10-05-presiden-soeharto-peringati-hari-abri-ke-24/
 ---
+
 
 # 1969-10-05 Presiden Soeharto Peringati Hari ABRI Ke-24
 

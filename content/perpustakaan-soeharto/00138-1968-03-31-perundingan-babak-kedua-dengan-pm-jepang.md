@@ -1,9 +1,40 @@
 ---
-title: "1968-03-31 Perundingan Babak Kedua Dengan PM Jepang – HM Soeharto"
-source: "https://soehartolibrary.id/1968-03-31-perundingan-babak-kedua-dengan-pm-jepang/"
-date: "2017-08-28T17:09:38+07:00"
+title: 1968-03-31 Perundingan Babak Kedua Dengan PM Jepang
+description: MINGGU, 31 MARET 1968, Hari ini Presiden Soeharto mengadakan perundingan
+  babak kedua dengan PM Jepang, Eisaku Sato. Sebagai kelanjutan dari pertemuan sebelumnya,
+  dalam pertemuan ini Presiden Soeharto telah berhasil memperoleh jaminan...
+date: '1968-03-31'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-03-31-perundingan-babak-kedua-dengan-pm-jepang
+aliases:
+- Perundingan Babak Kedua Dengan PM Jepang
+- 1968-03-31 Perundingan Babak Kedua Dengan PM Jepang – HM Soeharto
+tags:
+- bantuan
+- eisaku-sato
+- ekonomi
+- jepang
+- menteri
+- orde-baru
+- perdana
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-03-31-perundingan-babak-kedua-dengan-pm-jepang/
+  judul: 1968-03-31 Perundingan Babak Kedua Dengan PM Jepang
+  tanggal: '1968-03-31'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-03-31-perundingan-babak-kedua-dengan-pm-jepang/
 ---
+
 
 # 1968-03-31 Perundingan Babak Kedua Dengan PM Jepang
 

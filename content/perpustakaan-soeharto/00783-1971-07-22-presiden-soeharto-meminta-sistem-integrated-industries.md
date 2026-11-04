@@ -1,9 +1,40 @@
 ---
-title: "1971-07-22 Presiden Soeharto Meminta Sistem Integrated Industries Dalam Pengelolaan Hasil Hutan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-07-22-presiden-soeharto-meminta-sistem-integrated-industries/"
-date: "2017-08-25T15:53:44+07:00"
+title: 1971-07-22 Presiden Soeharto Meminta Sistem Integrated Industries Dalam Pengelolaan
+  Hasil Hutan
+description: KAMIS, 22 Juli 1971. Presiden Soeharto meminta agar eksploitasi hutan
+  (pengelolaan produk/hasil hutan) dapat diarahkan pada sistem integrated industries,
+  dalam arti bahwa ekspor kayu tidak hanya bersifat kayu saja, tetapi juga dalam...
+date: '1971-07-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-07-22-presiden-soeharto-meminta-sistem-integrated-industries
+aliases:
+- Presiden Soeharto Meminta Sistem Integrated Industries Dalam Pengelolaan Hasil Hutan
+- 1971-07-22 Presiden Soeharto Meminta Sistem Integrated Industries Dalam Pengelolaan
+  Hasil Hutan – HM Soeharto
+tags:
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-07-22-presiden-soeharto-meminta-sistem-integrated-industries/
+  judul: 1971-07-22 Presiden Soeharto Meminta Sistem Integrated Industries Dalam Pengelolaan
+    Hasil Hutan
+  tanggal: '1971-07-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-07-22-presiden-soeharto-meminta-sistem-integrated-industries/
 ---
+
 
 # 1971-07-22 Presiden Soeharto Meminta Sistem Integrated Industries Dalam Pengelolaan Hasil Hutan
 

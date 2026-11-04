@@ -1,9 +1,44 @@
 ---
-title: "1971-09-13 Presiden Soeharto Bahas Rencana Pembangunan Rumah Murah – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-13-presiden-soeharto-bahas-rencana-pembangunan-rumah-murah/"
-date: "2017-08-23T11:11:54+07:00"
+title: 1971-09-13 Presiden Soeharto Bahas Rencana Pembangunan Rumah Murah
+description: 12 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-13-presiden-soeharto-bahas-rencana-pembangunan-rumah-murah/respond)
+  115 Views Share on
+date: '1971-09-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-13-presiden-soeharto-bahas-rencana-pembangunan-rumah-murah
+aliases:
+- Presiden Soeharto Bahas Rencana Pembangunan Rumah Murah
+- 1971-09-13 Presiden Soeharto Bahas Rencana Pembangunan Rumah Murah – HM Soeharto
+tags:
+- gubernur
+- ir-sutami
+- ir-sylvanus
+- kalimantan-tengah
+- menteri
+- orde-baru
+- particle-board
+- perpustakaan-soeharto
+- presiden-soeharto
+- putl
+- rumah-murah
+- sungai-kahayan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-13-presiden-soeharto-bahas-rencana-pembangunan-rumah-murah/
+  judul: 1971-09-13 Presiden Soeharto Bahas Rencana Pembangunan Rumah Murah
+  tanggal: '1971-09-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-13-presiden-soeharto-bahas-rencana-pembangunan-rumah-murah/
 ---
+
 
 # 1971-09-13 Presiden Soeharto Bahas Rencana Pembangunan Rumah Murah
 

@@ -1,9 +1,40 @@
 ---
-title: "1969-10-15 Presiden Soeharto Menerima Parmusi-IPKI dan Perti – HM Soeharto"
-source: "https://soehartolibrary.id/1969-10-15-presiden-soeharto-menerima-parmusi-ipki-dan-perti/"
-date: "2014-12-01T16:34:29+07:00"
+title: 1969-10-15 Presiden Soeharto Menerima Parmusi-IPKI dan Perti
+description: 5 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-10-15-presiden-soeharto-menerima-parmusi-ipki-dan-perti/respond)
+  79 Views Share on
+date: '1969-10-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-10-15-presiden-soeharto-menerima-parmusi-ipki-dan-perti
+aliases:
+- Presiden Soeharto Menerima Parmusi-IPKI dan Perti
+- 1969-10-15 Presiden Soeharto Menerima Parmusi-IPKI dan Perti – HM Soeharto
+tags:
+- ipki
+- istana-merdeka
+- kepala-negara
+- orde-baru
+- parmusi
+- perpustakaan-soeharto
+- perti
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-10-15-presiden-soeharto-menerima-parmusi-ipki-dan-perti/
+  judul: 1969-10-15 Presiden Soeharto Menerima Parmusi-IPKI dan Perti
+  tanggal: '1969-10-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-10-15-presiden-soeharto-menerima-parmusi-ipki-dan-perti/
 ---
+
 
 # 1969-10-15 Presiden Soeharto Menerima Parmusi-IPKI dan Perti
 

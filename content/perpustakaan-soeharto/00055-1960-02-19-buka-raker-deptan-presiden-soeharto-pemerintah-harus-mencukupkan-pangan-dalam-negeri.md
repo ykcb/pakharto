@@ -1,9 +1,44 @@
 ---
-title: "1960-02-19 Buka Raker Deptan, Presiden Soeharto: Pemerintah Harus Mencukupkan Pangan Dalam Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1960-02-19-buka-raker-deptan-presiden-soeharto-pemerintah-harus-mencukupkan-pangan-dalam-negeri/"
-date: "2015-03-25T06:56:56+07:00"
+title: '1960-02-19 Buka Raker Deptan, Presiden Soeharto: Pemerintah Harus Mencukupkan
+  Pangan Dalam Negeri'
+description: RABU, 19 FEBRUARI 1969. Presiden Soeharto pagi ini membuka rapat Departemen
+  Pertanian di Istana Negara. Pada kesempatan itu Jenderal Soeharto mengingatkan bahwa
+  walaupun produksi beras tahun 1968 meningkat, akan tetapi kenaikan itu...
+date: '1960-02-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1960-02-19-buka-raker-deptan-presiden-soeharto-pemerintah-harus-mencukupkan-pangan-dalam-negeri
+aliases:
+- 'Buka Raker Deptan, Presiden Soeharto: Pemerintah Harus Mencukupkan Pangan Dalam
+  Negeri'
+- '1960-02-19 Buka Raker Deptan, Presiden Soeharto: Pemerintah Harus Mencukupkan Pangan
+  Dalam Negeri – HM Soeharto'
+tags:
+- dalam
+- kecukupan
+- negeri
+- orde-baru
+- pangan
+- perpustakaan-soeharto
+- pertanian
+- sektor
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1960-02-19-buka-raker-deptan-presiden-soeharto-pemerintah-harus-mencukupkan-pangan-dalam-negeri/
+  judul: '1960-02-19 Buka Raker Deptan, Presiden Soeharto: Pemerintah Harus Mencukupkan
+    Pangan Dalam Negeri'
+  tanggal: '1960-02-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1960-02-19-buka-raker-deptan-presiden-soeharto-pemerintah-harus-mencukupkan-pangan-dalam-negeri/
 ---
+
 
 # 1960-02-19 Buka Raker Deptan, Presiden Soeharto: Pemerintah Harus Mencukupkan Pangan Dalam Negeri
 

@@ -1,9 +1,44 @@
 ---
-title: "1971-10-10 Presiden Soeharto Menerima 400 Ahli Kebidanan dan Penyakit Kandungan Negara-Negara Asia – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-10-presiden-soeharto-menerima-400-ahli-kebidanan-dan-penyakit-kandungan-negara-negara-asia/"
-date: "2014-12-01T16:21:38+07:00"
+title: 1971-10-10 Presiden Soeharto Menerima 400 Ahli Kebidanan dan Penyakit Kandungan
+  Negara-Negara Asia
+description: 8 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-10-presiden-soeharto-menerima-400-ahli-kebidanan-dan-penyakit-kandungan-negara-negara-asia/respond)
+  88 Views...
+date: '1971-10-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-10-presiden-soeharto-menerima-400-ahli-kebidanan-dan-penyakit-kandungan-negara-negara-asia
+aliases:
+- Presiden Soeharto Menerima 400 Ahli Kebidanan dan Penyakit Kandungan Negara-Negara
+  Asia
+- 1971-10-10 Presiden Soeharto Menerima 400 Ahli Kebidanan dan Penyakit Kandungan
+  Negara-Negara Asia – HM Soeharto
+tags:
+- ginekologi
+- kandungan
+- kebidanan
+- kepala-negara
+- obstetri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-10-presiden-soeharto-menerima-400-ahli-kebidanan-dan-penyakit-kandungan-negara-negara-asia/
+  judul: 1971-10-10 Presiden Soeharto Menerima 400 Ahli Kebidanan dan Penyakit Kandungan
+    Negara-Negara Asia
+  tanggal: '1971-10-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-10-presiden-soeharto-menerima-400-ahli-kebidanan-dan-penyakit-kandungan-negara-negara-asia/
 ---
+
 
 # 1971-10-10 Presiden Soeharto Menerima 400 Ahli Kebidanan dan Penyakit Kandungan Negara-Negara Asia
 

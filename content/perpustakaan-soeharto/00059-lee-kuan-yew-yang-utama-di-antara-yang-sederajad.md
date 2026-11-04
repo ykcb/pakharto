@@ -1,9 +1,39 @@
 ---
-title: "Lee Kwan Yew: Presiden Soeharto, yang Utama Diantara yang Sederajad – HM Soeharto"
-source: "https://soehartolibrary.id/lee-kuan-yew-yang-utama-di-antara-yang-sederajad/"
-date: "2017-10-19T17:42:41+07:00"
+title: 'Lee Kwan Yew: Presiden Soeharto, yang Utama Diantara yang Sederajad'
+description: Saya bertemu pertama kali dengan Presiden Soeharto bulan September 1970
+  pada Pertemuan Tingkat Tinggi Gerakan Non-Blok di Lusaka. Pertemuan ini terjadi
+  setelah adanya konfrontasi, dan masih adanya kecurigaan antara kami pada saat itu....
+date: '2017-10-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: lee-kuan-yew-yang-utama-di-antara-yang-sederajad
+aliases:
+- 'Lee Kwan Yew: Presiden Soeharto, yang Utama Diantara yang Sederajad – HM Soeharto'
+tags:
+- asia-tenggara
+- gerakan
+- lee-kuan-yew
+- non-blok
+- orde-baru
+- perpustakaan-soeharto
+- sederajad
+- utama
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/lee-kuan-yew-yang-utama-di-antara-yang-sederajad/
+  judul: 'Lee Kwan Yew: Presiden Soeharto, yang Utama Diantara yang Sederajad'
+  tanggal: '2017-10-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/lee-kuan-yew-yang-utama-di-antara-yang-sederajad/
 ---
+
 
 # Lee Kwan Yew: Presiden Soeharto, yang Utama Diantara yang Sederajad
 

@@ -1,9 +1,39 @@
 ---
-title: "Rumor Itu Kejam: Wafatnya Ibu Tien – HM Soeharto"
-source: "https://soehartolibrary.id/rumor-itu-kejam-wafatnya-ibu-tien/"
-date: "2013-06-30T07:01:59+07:00"
+title: 'Rumor Itu Kejam: Wafatnya Ibu Tien'
+description: Saya bertugas sebagai ajudan yang mendapingi Pak Harto, ketika badai
+  berturut-turut menghantam perasaan Pak Harto. Mulai saat Ibu Tien wafat secara mendadak
+  berlanjut hingga kemelut politik dan ekonomi pada tahun 1998.
+date: '2013-06-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: rumor-itu-kejam-wafatnya-ibu-tien
+aliases:
+- 'Rumor Itu Kejam: Wafatnya Ibu Tien – HM Soeharto'
+tags:
+- ibu-tien
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rpsad
+- sutanto
+- taman-buah-mekarsari
+- wafat
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/rumor-itu-kejam-wafatnya-ibu-tien/
+  judul: 'Rumor Itu Kejam: Wafatnya Ibu Tien'
+  tanggal: '2013-06-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/rumor-itu-kejam-wafatnya-ibu-tien/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/06/Foto-Ibu-Tien.jpg)
 
