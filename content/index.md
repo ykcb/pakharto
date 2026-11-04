@@ -7,7 +7,6 @@ kategori: "kekuasaan-dan-legitimasi"
 aliases:
   - "Home"
   - "Beranda"
-  - "Mulai dari Sini"
 tags:
   - index
   - beranda
@@ -33,25 +32,6 @@ relasi:
 > **Selamat datang di Wiki Soeharto.** Ensiklopedia digital terkurasi dan berbasis data arsip primer (pidato kenegaraan, dokumen regulasi, data statistik, dan kliping pers sezaman) untuk memahami secara obyektif bagaimana sistem Orde Baru dibangun, dijalankan selama 32 tahun, dan berakhir pada 1998.
 
 Wiki ini mengindeks lebih dari **2.700 dokumen historis**, dilengkapi jejaring relasi antarentitas, peta konsep, serta jalur baca tematik untuk memudahkan generasi muda, peneliti, dan publik menelusuri sejarah secara presisi tanpa distorsi rumor.
-
----
-
-## 🧭 Mulai dari Sini: 6 Kategori Rujukan Resmi
-
-Struktur rujukan disusun dalam 6 pertanyaan kunci yang mengurai seluruh mekanisme pemerintahan:
-
-1. 🏛️ **[[kategori/kekuasaan-dan-legitimasi|Bagaimana Orde Baru Berkuasa?]]**  
-   Transisi kekuasaan 1965–1967, legitimasi konstitusional, kemenangan berulang dalam pemilu, fusi partai, dan doktrin peran ganda militer.
-2. 💰 **[[kategori/ekonomi-dan-kepemilikan|Bagaimana Ekonomi Dikelola?]]**  
-   Stabilisasi moneter, Repelita, teknokrat Mafia Berkeley, konsentrasi konglomerasi, utang luar negeri, dan dugaan praktik KKN di dunia usaha.
-3. 🛡️ **[[kategori/keamanan-dan-kebebasan|Keamanan dan Kebebasan]]**  
-   Doktrin stabilitas nasional, lembaga keamanan (Kopkamtib/BAKIN), pengaturan pers, penataan kampus, dan operasi keamanan.
-4. 🌾 **[[kategori/pembangunan-dan-kehidupan|Bagaimana Rakyat Hidup?]]**  
-   Dinamika pedesaan, swasembada pangan, revolusi hijau, SD Inpres, program KB dan Posyandu, transmigrasi, serta konflik agraria di akar rumput.
-5. 📉 **[[kategori/krisis-dan-reformasi|Bagaimana Orde Baru Berakhir?]]**  
-   Krisis moneter 1997–1998, lonjakan harga sembako, perlawanan mahasiswa, kerusuhan massal Mei 1998, hingga mundurnya Presiden Soeharto.
-6. 🔑 **[[kategori/konsep|Peta Konsep Kunci]]**  
-   Glosarium doktrin, instrumen hukum, dan istilah khusus untuk membedah cara kerja sistem politik-ekonomi Orde Baru.
 
 ---
 
