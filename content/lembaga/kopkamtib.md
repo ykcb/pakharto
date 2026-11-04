@@ -39,7 +39,7 @@ relasi:
 
 > **Ringkasan:** Kopkamtib (Komando Operasi Pemulihan Keamanan dan Ketertiban) adalah badan keamanan militer ekstra-konstitusional yang dibentuk pasca-peristiwa 30 September 1965 dan dipimpin pertama kali oleh Mayjen Soeharto. Memiliki kewenangan tak terbatas melampaui hukum acara pidana biasa, Kopkamtib menjadi instrumen utama negara untuk menangkap dan menahan ratusan ribu tahanan politik tanpa proses peradilan, memberlakukan penyaringan ideologi (*Litsus*), membredel media massa, menertibkan unjuk rasa, serta menjamin stabilitas politik selama 23 tahun sebelum dibubarkan pada September 1988.
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 Kopkamtib adalah contoh nyata di mana kekuasaan negara di bidang keamanan beroperasi di atas hukum (*above the law*). Melalui lembaga ini, status hak asasi warga negara dapat ditangguhkan sewaktu-waktu atas nama "stabilitas nasional" dan "keamanan negara".
 
 Pengalaman historis keberadaan Kopkamtib menjadi alasan mengapa Undang-Undang Dasar 1945 pasca-amandemen dan UU Pertahanan Negara secara tegas melarang militer aktif memiliki kewenangan penegakan hukum dan penahanan warga sipil di masa damai—sebuah proteksi hukum vital yang dinikmati oleh generasi muda hari ini.

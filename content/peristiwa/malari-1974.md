@@ -37,7 +37,7 @@ relasi:
 
 > **Ringkasan:** Peristiwa Malari (Malapetaka Lima Belas Januari 1974) adalah gelombang demonstrasi mahasiswa terbesar pada dekade pertama Orde Baru yang memprotes penetrasi modal asing Jepang, korupsi lingkaran istana, dan lembaga Asisten Pribadi (Aspri) Presiden saat kunjungan Perdana Menteri Jepang Kakuei Tanaka ke Jakarta. Aksi damai berujung pada pembakaran pusat perbelanjaan Pasar Senen, korban jiwa 11 orang, dan dimanfaatkan pemerintah untuk menyingkirkan faksi militer oposan Jenderal Soemitro, membubarkan dewan mahasiswa lewat konsep Normalisasi Kehidupan Kampus (NKK/BKK), serta membredel 12 surat kabar independen.
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 Peristiwa Malari adalah titik balik struktural yang mematikan kebebasan politik mahasiswa dan ruang pers bebas di Indonesia selama hampir seperempat abad. Kebijakan Normalisasi Kehidupan Kampus/Badan Koordinasi Kemahasiswaan (NKK/BKK) yang diberlakukan pasca-Malari mencabut hak mahasiswa untuk berorganisasi dan bersuara kritis di lingkungan akademik, mengubah watak kampus dari pusat aktivisme sosial menjadi lembaga pendidikan yang depolitisasi.
 
 Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral mahasiswa yang sah mengenai kemandirian ekonomi dan keadilan sosial dapat dimanfaatkan oleh konflik intelijen antar-elit bersenjata untuk melegitimasi pengetatan keamanan negara.

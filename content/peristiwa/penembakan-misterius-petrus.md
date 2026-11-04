@@ -37,7 +37,7 @@ relasi:
 
 > **Ringkasan:** Penembakan Misterius (Petrus) atau secara resmi disebut "Operasi Pemberantasan Kejahatan" (OPK) adalah serangkaian eksekusi kilat tanpa proses peradilan (*extra-judicial killings*) yang berlangsung di berbagai kota besar di Indonesia antara tahun 1982 hingga 1985. Dilancarkan oleh aparat intelijen militer dan kepolisian di bawah koordinasi [[Kopkamtib]], operasi ini menewaskan ribuan orang (estimasi 2.000 hingga 10.000 jiwa) yang dicap sebagai residivis, preman ("gali"), atau penjahat jalanan, dengan jenazah yang kerap dibuang di selokan, karung, atau pinggir jalan raya sebagai bentuk "terapi kejut" (*shock therapy*) psikologis bagi masyarakat luas.
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 Kasus Petrus adalah contoh paling ekstrem mengenai bahaya normalisasi tindakan "main hakim sendiri oleh negara" (*state terrorism*). Pada saat operasi berjalan, sebagian masyarakat sipil yang jenuh dengan kriminalitas jalanan sempat menyambut baik operasi ini karena angka kejahatan menurun secara drastis dalam jangka pendek.
 
 Namun, bagi generasi muda masa kini, Petrus memberikan pelajaran krusial tentang pentingnya asas praduga tak bersalah (*presumption of innocence*) dan proses hukum yang adil (*due process of law*). Ketika negara diberi hak untuk membunuh siapa saja tanpa peradilan hanya berdasarkan daftar nama intelijen atau keberadaan tato di tubuh, batas antara pemberantasan kejahatan dan pembunuhan massal warga tak berdosa menjadi hilang.

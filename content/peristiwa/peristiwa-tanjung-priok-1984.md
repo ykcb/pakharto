@@ -39,7 +39,7 @@ relasi:
 
 > **Ringkasan:** Peristiwa Tanjung Priok 1984 adalah insiden kekerasan paling berdarah yang melibatkan aparat negara dalam dinamika hubungan antara pemerintah Orde Baru dan kelompok Islam politik pada dekade 1980-an. Bermula dari ketegangan lokal pencopotan poster di Musholla As-Sa'adah dan penahanan empat warga oleh Babinsa, aksi massa pimpinan Amir Biki yang menuntut pembebasan tahanan dihadang oleh pasukan Batalyon Arhanudse-6 pimpinan militer teritorial pada malam 12 September 1984. Aparat melepaskan tembakan amunisi tajam otomatis ke arah ribuan demonstran, menewaskan puluhan hingga ratusan orang menurut laporan investigasi independen, dan disusul penangkapan tokoh-tokoh kritis penandatangan Petisi 50.
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 Peristiwa Tanjung Priok adalah contoh paling nyata bagaimana polarisasi antara negara dan kelompok keagamaan yang dipicu oleh pemaksaan ideologi seragam (*asas tunggal*) dapat berujung pada pertumpahan darah warga sipil.
 
 Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog yang inklusif antara negara dan kelompok minoritas/kritis, serta menyoroti proses peradilan HAM ad-hoc di era pasca-reformasi yang kerap berakhir dengan pembebasan terdakwa perwira di tingkat banding/kasasi akibat lemahnya pembuktian rantai komando militer di pengadilan.

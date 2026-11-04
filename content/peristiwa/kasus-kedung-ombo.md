@@ -37,7 +37,7 @@ relasi:
 
 > **Ringkasan:** Kasus Kedung Ombo adalah salah satu konflik agraria dan hak asasi manusia paling terkenal pada masa Orde Baru, yang berpangkal dari pembangunan Waduk Kedung Ombo seluas 6.576 hektare di perbatasan Kabupaten Boyolali, Grobogan, dan Sragen, Jawa Tengah. Dibiayai oleh pinjaman Bank Dunia sebesar US$156 juta, proyek ini menggusur paksa 5.399 keluarga petani dengan ganti rugi tanah yang sangat rendah (Rp250 hingga Rp750 per meter persegi). Ketika warga menolak digusur dan tanah mereka mulai ditenggelamkan air waduk pada 1989, warga bertahan di pulau-pulau genangan didampingi rohaniwan Romo Y. B. Mangunwijaya, aktivis LBH, dan mahasiswa, memicu tekanan internasional terhadap Presiden Soeharto.
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 Kasus Kedung Ombo adalah tonggak kelahiran gerakan Lembaga Swadaya Masyarakat (LSM) modern, jurnalisme advokasi, dan bantuan hukum struktural (LBH) di Indonesia. Peristiwa ini membuktikan bahwa proyek infrastruktur raksasa yang dibanggakan atas nama "kepentingan umum" dan "pertumbuhan ekonomi" dapat menjadi bencana kemanusiaan bagi rakyat kecil jika dijalankan dengan kekerasan, represi aparat teritorial, dan ketiadaan konsultasi publik yang bermakna.
 
 Bagi generasi muda hari ini, pola pembebasan lahan Kedung Ombo (stigma antipembangunan, ancaman cap "PKI", ganti rugi sepihak, dan pemaksaan transmigrasi bedol desa) menjadi cetak biru pembanding yang sangat penting untuk mengkritisi berbagai Proyek Strategis Nasional (PSN) modern agar hak-hak masyarakat adat dan warga lokal tidak kembali diabaikan.

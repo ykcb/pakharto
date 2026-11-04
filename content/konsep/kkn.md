@@ -34,7 +34,7 @@ relasi:
 
 > **Ringkasan:** KKN (Korupsi, Kolusi, dan Nepotisme) adalah akronim dan istilah politik historis yang lahir pada paruh kedua dekade 1990-an untuk mendeskripsikan integrasi antara kekuasaan birokrasi negara, fasilitas keuangan perbankan pemerintah, dan jaringan bisnis keluarga serta pengusaha yang dekat dengan lingkaran kekuasaan. Fenomena ini menjadi sasaran kritik paling keras mahasiswa dalam Gerakan Reformasi 1998 dan kemudian dilembagakan sebagai mandat pembersihan aparatur negara melalui Ketetapan MPR No. XI/MPR/1998.
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 Istilah KKN bukan sekadar jargon politik jalanan, melainkan sebutan bagi persoalan struktural — kedekatan penguasa-pengusaha dan lemahnya pengawasan — yang menurut para pengkritik memperparah keruntuhan ekonomi 1997–1998. Praktik kredit perbankan tanpa agunan yang layak bagi konglomerat kroni (*connected lending*) pada era itu ditalangi oleh dana publik melalui Bantuan Likuiditas Bank Indonesia (BLBI) yang beban pokok dan bunganya membebani Anggaran Pendapatan dan Belanja Negara (APBN) selama berpuluh-puluh tahun.
 
 Bagi generasi muda, memahami anatomis KKN pada era Orde Baru memberikan pemahaman kritis untuk mengenali pola-pola kartel bisnis, konflik kepentingan pejabat publik yang merangkap pengusaha (*conflict of interest*), serta privatisasi aset-aset publik yang masih kerap berulang dengan bentuk baru di era modern.

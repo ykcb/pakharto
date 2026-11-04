@@ -60,7 +60,7 @@ Hanya 8 predikat berikut yang diizinkan dalam field `relasi`:
 
 ### 3.1 Hub (Living Document — Format Default)
 - `> **Ringkasan:**` (2–3 kalimat)
-- `## Apa relevansinya dengan anak muda?` (1–3 paragraf berbasis mekanisme kausal faktual)
+- `## Apa pelajaran yang bisa kita ambil darinya?` (1–3 paragraf berbasis mekanisme kausal faktual)
 - `## Fakta kunci` (Tabel kronologi ringkas / data pokok)
 - `## Kronologi` (Subheading per tanggal `### YYYY-MM-DD`, bullet objektif)
 - `## Aktor yang terlibat` (`[[Nama Aktor]] — peran 1 kalimat`)
@@ -74,7 +74,7 @@ Hanya 8 predikat berikut yang diizinkan dalam field `relasi`:
 ### 3.3 Halaman Aktor
 1. Definisi 1 kalimat ("X adalah...").
 2. Infobox tabel (Nama, Masa Hidup, Jabatan Orde Baru, Afiliasi, Rekam Jejak).
-3. `## Apa relevansinya dengan anak muda?`
+3. `## Apa pelajaran yang bisa kita ambil darinya?`
 4. Rekam jejak bertanggal.
 5. Relasi wikilink (`[[Halaman Terkait]]`).
 6. Sumber berlabel.
@@ -83,7 +83,7 @@ Hanya 8 predikat berikut yang diizinkan dalam field `relasi`:
 1. Definisi 1–2 kalimat yang padat.
 2. Dasar hukum / kemunculan historis.
 3. Cara kerja konsep dalam praktik nyata Orde Baru (tautkan peristiwa).
-4. `## Apa relevansinya dengan anak muda?`
+4. `## Apa pelajaran yang bisa kita ambil darinya?`
 5. Halaman yang merujuk konsep ini.
 6. Sumber + Catatan presisi.
 

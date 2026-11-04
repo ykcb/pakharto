@@ -37,7 +37,7 @@ relasi:
 
 > **Ringkasan:** *Floating Mass* (Massa Mengambang) adalah doktrin politik resmi Orde Baru yang digagas pasca-Pemilu 1971 oleh faksi militer dan intelektual CSIS di bawah Jenderal Ali Moertopo. Doktrin ini melarang seluruh partai politik (Partai Persatuan Pembangunan dan Partai Demokrasi Indonesia) memiliki komisariat atau cabang pengurus di tingkat kecamatan, desa, dan kelurahan, dengan alasan agar masyarakat pedesaan tidak terpecah-belah oleh konflik ideologis dan dapat fokus sepenuhnya pada program pembangunan ekonomi.
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 Konsep *floating mass* menciptakan budaya politik pasif (*apolitis*) yang masih membekas hingga hari ini, di mana warga masyarakat di luar lingkaran elit kota sering kali diposisikan hanya sebagai objek mobilisasi elektoral berkala lima tahunan, bukan subjek politik berdaya yang mengawasi kebijakan anggaran publik.
 
 Memahami *floating mass* membantu generasi muda membaca mengapa struktur masyarakat pedesaan Indonesia selama puluhan tahun kehilangan daya tawar kolektif dalam menghadapi sengketa agraria, penggusuran lahan perkebunan, dan perusakan lingkungan, karena wadah organisasi politik mandiri di tingkat desa dihilangkan oleh undang-undang negara.

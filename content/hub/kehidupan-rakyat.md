@@ -40,7 +40,7 @@ relasi:
 
 > **Ringkasan:** Kehidupan rakyat pada masa Orde Baru ditandai oleh intervensi negara yang masif dan terstruktur hingga ke tingkat rumah tangga pedesaan melalui program-program pembangunan sosial terpusat. Pemerintah meluncurkan Revolusi Hijau (Bimas/Inmas) yang memodernisasi budidaya padi, program Keluarga Berencana (KB) yang menekan laju pertumbuhan penduduk, pendirian puluhan ribu Sekolah Dasar Inpres (SD Inpres), serta pemindahan jutaan warga melalui Transmigrasi, di samping pengendalian ketat atas pergerakan serikat buruh melalui wadah tunggal dan doktrin Hubungan Industrial Pancasila.
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 Hampir setiap keluarga di Indonesia memiliki kakek-nenek atau orang tua yang riwayat hidupnya dibentuk langsung oleh intervensi sosial Orde Baru: bersekolah di gedung SD Inpres seragam merah-putih, mengikuti program KB dua anak cukup di Posyandu, atau bertransmigrasi membuka lahan perkebunan sawit di Sumatra dan Kalimantan.
 
 Secara bersamaan, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahun 1979 menyeragamkan struktur pemerintahan desa di seluruh Indonesia; para peneliti menilai kebijakan ini mengikis keragaman hukum adat lokal (seperti sistem Nagari di Minangkabau atau Marga di Sumatra Selatan) dan menciptakan ketergantungan struktural pemerintah desa pada komando birokrasi pusat yang pola relasinya masih menjadi perdebatan dalam implementasi otonomi daerah dan Dana Desa saat ini.
