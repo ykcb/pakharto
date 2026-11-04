@@ -1,0 +1,18 @@
+---
+title: "1969-06-10 Presiden Soeharto Melakukan Sidang Kabinet Terbatas – HM Soeharto"
+source: "https://soehartolibrary.id/1969-06-10-presiden-soeharto-melakukan-sidang-kabinet-terbatas/"
+date: "2017-08-24T15:29:49+07:00"
+kategori: kekuasaan-dan-legitimasi
+---
+
+# 1969-06-10 Presiden Soeharto Melakukan Sidang Kabinet Terbatas
+
+# Presiden Soeharto Melakukan Sidang Kabinet Terbatas[[1]](#_ftn1)
+
+SELASA, 10  JUNI 1969, Pagi ini bertempat di *Guest House* Istana, Presiden menrima laporan beberapa menteri dalam sidang kabinet terbatas. Menteri Perdagangan Sumitro Djojohadikusumo melaporkan bahwa tidak ada lagi bahaya inflasi di Indonesia. Menteri Keuangan Ali Wardhana menjelaskan bahwa *dropping*, uang bagi proyek-proyek pembangunan di daerah-daerah saat ini bukan merupakan persoalan lagi, sebab sudah berjalan dengan lancar. Menteri Perhubungan Frans Seda melaporkan bahwa penanaman modal dalam bidang kepariwisataan di Indonesia saat ini meliputi enam penanaman modal dalam bentuk patungan dan lima penanaman modal dalam negeri. Dalam meningkatkan arus pariwisata ini, oleh pemerintah telah diberikan keringanan-keringanan bagi bea masuk untuk bahan-bahan konstruksi, bahan-bahan baku dan pelengkap bagi pembangunan hotel-hotel (AFR).
+
+---
+
+[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 130. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+
+ [Agenda Kabinet](https://soehartolibrary.id/category/aktifitas-kenegaraan/agenda-kabinet/)  [Ali Wardhana](https://soehartolibrary.id/tag/ali-wardhana/), [Frans Seda](https://soehartolibrary.id/tag/frans-seda/), [Menteri Keuangan](https://soehartolibrary.id/tag/menteri-keuangan/), [Menteri Perdagangan](https://soehartolibrary.id/tag/menteri-perdagangan/), [Menteri Perhubungan](https://soehartolibrary.id/tag/menteri-perhubungan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sidang Kabinet](https://soehartolibrary.id/tag/sidang-kabinet/), [Sumitro Djojohadikusumo](https://soehartolibrary.id/tag/sumitro-djojohadikusumo/)

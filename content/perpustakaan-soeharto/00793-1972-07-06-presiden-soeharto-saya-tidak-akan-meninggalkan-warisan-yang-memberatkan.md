@@ -1,0 +1,22 @@
+---
+title: "1972-07-06 Presiden Soeharto: Saya Tidak Akan Meninggalkan Warisan Yang Memberatkan – HM Soeharto"
+source: "https://soehartolibrary.id/1972-07-06-presiden-soeharto-saya-tidak-akan-meninggalkan-warisan-yang-memberatkan/"
+date: "2017-08-25T15:29:03+07:00"
+kategori: ekonomi-dan-kepemilikan
+---
+
+# 1972-07-06 Presiden Soeharto: Saya Tidak Akan Meninggalkan Warisan Yang Memberatkan
+
+# Presiden Soeharto: Saya Tidak Akan Meninggalkan Warisan Yang Memberatkan
+
+## (Bertemu Dengan Dewan Mahasiswa Se-Kotamadya Ujung Pandang)[[1]](#_ftn1)
+
+KAMIS, 06 Juli 1972. Pagi ini Presiden Soeharto mengadakan pertemuan dengan anggota-anggota Dewan Mahasiswa se-Kotamadya Ujung Pandang. Kepada para mahasiswa tersebut, Presiden mengatakan bahwa “saya tidak akan meninggalkan warisan yang memberatkan generasi yang akan datang. Kita menyadari adanya informasi-informasi destruktif mengenai hendak kemana pemerintah akan bergerak, hendak kemana rakyat akan dibawa, dan warisan apa yang akan ditinggalkan kepada generasi yang akan datang. Semua informasi ini menyebabkan kerugian-kerugian di kalangan generasi muda”.
+
+Pada kesempatan itu Presiden juga membantah sementara pendapat yang mengatakan bahwa pembangunan hanya dilaksanakan di kota-kota saja. Dalam hubungan ini Presiden Soeharto menyatakan keheranannya bahwa masih ada orang yang mengatakan bahwa pembangunan hanya dilakukan di kota saja. Menanggapi orang-orang sedemikian, Presiden mengatakan bahwa mereka hanya mencari-cari kesalahan. (AFR).
+
+---
+
+[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 451-452. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+
+ [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Dewan Mahasiswa](https://soehartolibrary.id/tag/dewan-mahasiswa/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Kotamadya](https://soehartolibrary.id/tag/kotamadya/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Ujung Pandang](https://soehartolibrary.id/tag/ujung-pandang/)

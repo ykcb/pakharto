@@ -1,0 +1,20 @@
+---
+title: "1976-04-15 Presiden Soeharto Lantik Piet Haryono Sebagai Dirut Pertamina – HM Soeharto"
+source: "https://soehartolibrary.id/1976-04-15-presiden-soeharto-lantik-piet-haryono-sebagai-dirut-pertamina/"
+date: "2017-08-28T16:48:46+07:00"
+kategori: kekuasaan-dan-legitimasi
+---
+
+# 1976-04-15 Presiden Soeharto Lantik Piet Haryono Sebagai Dirut Pertamina
+
+# Presiden Soeharto Lantik Piet Haryono Sebagai Dirut Pertamina[[1]](#_ftn1)
+
+KAMIS, 15 April 1976, Bertempat di Istana Negara, Presiden Soeharto pagi ini melantik Mayjen.(Purnawirawan) Piet Haryono sebagai Direktur Utama Pertamina. Dalam sambutannya  Kepala Negara telah menjelaskan beberapa masalah yang berkaitan dengan kesuitan-kesulitan yang dihadapi oleh perusahaan negara ini, terutama aspek keterlibatan pemerintah di dalamnya.
+
+Presiden mengatakan bahwa memang benar pemerintah telah mengetahui, dan bahkan menyetujui beberapa kegiatan Pertamina di luar minyak. Tetapi pengetahuan dan persetujuan pemerintah tersebut adalah dalam rangka memperlancar pelaksanaan tugas pokoknya dan dengan syarat bahwa pembiayaannya tidak boleh memberatkan perusahaan dan apalagi membebani pemerintah. Pemerintah menyetujui partisipasi Pertamina untuk melakukan kegiatan-kegiatan pembangunan di bidang non-minyak dalam rangka memanfaatkan potensi Pertamina dan kepercayaan dunia usaha kepada Pertamina. Ternyata tanpa diketahui pemerintah, pemerintah telah ditimbuni dengan berbagai kewajiban keuangan di luar kemampuannya. Andaikata pemerintah tidak segera mengambil langkah-langkah menyelamatkan Pertamina, pastilah Pertamina akan bangkrut, dan keadaan ini pasti akan menimbulkan akibat yang serius pada keuangan negara. (AFR)
+
+---
+
+[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 354.
+
+ [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Pertamina](https://soehartolibrary.id/tag/pertamina/), [Piet Haryono](https://soehartolibrary.id/tag/piet-haryono/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

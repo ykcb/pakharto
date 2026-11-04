@@ -1,0 +1,18 @@
+---
+title: "1970-08-08 Presiden Soeharto Buka “Praktek” (Open House) Pelaporan Korupsi – HM Soeharto"
+source: "https://soehartolibrary.id/1970-08-08-presiden-soeharto-buka-praktek-open-house-pelaporan-korupsi/"
+date: "2014-11-21T06:21:49+07:00"
+kategori: kekuasaan-dan-legitimasi
+---
+
+# 1970-08-08 Presiden Soeharto Buka “Praktek” (Open House) Pelaporan Korupsi
+
+# Presiden Soeharto Buka “Praktek” (Open House) Pelaporan Korupsi [[1]](#_ftn1)
+
+SABTU, 08 AGUSTUS 1970, Mulai jam 10.00 pagi sampai jam 12.30 siang ini Presiden Soeharto telah membuka “praktek” bagi orang-orang yang ingin melaporkan korupsi. Hari ini Presiden Soeharto menerima “Kelompok Diskusi Mahasiswa Yogyakarta”, selain itu utusan KAPI dan KAPPI. Kelompok-kelompok mahasiswa dan pelajar ini rupanya datang tidak untuk menyampaikan sesuatu bukti korupsi, melainkan hanya mengemukakan pendapat kepada Presiden tentang masalah korupsi itu. (AFR).
+
+---
+
+[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 248. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+
+ [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [KAPI](https://soehartolibrary.id/tag/kapi/), [KAPPI](https://soehartolibrary.id/tag/kappi/), [kelompok diskusi mahasiswa Yogyakarta](https://soehartolibrary.id/tag/kelompok-diskusi-mahasiswa-yogyakarta/), [Korupsi](https://soehartolibrary.id/tag/korupsi/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

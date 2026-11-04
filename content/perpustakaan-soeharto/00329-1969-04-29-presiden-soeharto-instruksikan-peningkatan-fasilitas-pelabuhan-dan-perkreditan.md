@@ -1,0 +1,18 @@
+---
+title: "1969-04-29 Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan dan Perkreditan – HM Soeharto"
+source: "https://soehartolibrary.id/1969-04-29-presiden-soeharto-instruksikan-peningkatan-fasilitas-pelabuhan-dan-perkreditan/"
+date: "2014-03-22T02:58:34+07:00"
+kategori: ekonomi-dan-kepemilikan
+---
+
+# 1969-04-29 Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan dan Perkreditan
+
+# Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan dan Perkreditan[[1]](#_ftn1)
+
+SELASA, 29 APRIL 1969, Hari ini Presiden Soeharto memimpin sidang dewan stabilisasi ekonomi, bertempat di Istana Merdeka. Sehubungan dengan laporan Menteri Perdagangan Soemitro Djojohadikusumo tentang kunjungannya ke daerah Sumatera Selatan dan Kalimantan Barat, Presiden menginstruksikann agar fasilitas pelabuhan dan perkreditan di daerah-daerah ditingkatkan. Selain itu Presiden juga menginstruksikan agar mengambil tindakan yang perlu untuk memperlancar pencairan anggaran pembangunan, dan mengadakan peninjauan atas penyediaan pupuk untuk padi musim rendengan dalam tahun anggaran yang sedang berjalan ini. (AFR)
+
+---
+
+[[1]](#_ftnref1)               Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 116.
+
+ [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Musim rendengan](https://soehartolibrary.id/tag/musim-rendengan/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pelabuhan](https://soehartolibrary.id/tag/pelabuhan/), [Perkreditan](https://soehartolibrary.id/tag/perkreditan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Pupuk](https://soehartolibrary.id/tag/pupuk/)

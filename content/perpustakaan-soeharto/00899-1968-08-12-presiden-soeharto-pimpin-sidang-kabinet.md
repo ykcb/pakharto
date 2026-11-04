@@ -1,0 +1,18 @@
+---
+title: "1968-08-12 Presiden Soeharto Pimpin Sidang Kabinet – HM Soeharto"
+source: "https://soehartolibrary.id/1968-08-12-presiden-soeharto-pimpin-sidang-kabinet/"
+date: "2017-08-23T11:38:40+07:00"
+kategori: kekuasaan-dan-legitimasi
+---
+
+# 1968-08-12 Presiden Soeharto Pimpin Sidang Kabinet
+
+# Presiden Soeharto Pimpin Sidang Kabinet[[1]](#_ftn1)
+
+SELASA, 12 AGUSTUS 1968, Pagi ini Presiden Soeharto memimpin sidang kabinet di Istana Negara. berbeda dari sidang kabinet biasanya, kali ini sidang dihadiri oleh pimpinan Dewan Pertimbangan Agung (DPA). Di dalam pidato pengantar sidang, Presiden antara lain mengharapkan agar kita semua tidak merasa puas dengan kemenangan yang telah diperoleh atas PKI. Kepuasan demikian akan membawa kelemahan dan justru membuka kesempatan kepada PKI itu sendiri, demikian Presiden Soeharto. Jenderal Soeharto juga mengingatkan bahwa sisa-sisa G.30.S/PKI masih tetap giat dan merupakan bahaya laten.  (AFR).
+
+---
+
+[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 33. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+
+ [Agenda Kabinet](https://soehartolibrary.id/category/aktifitas-kenegaraan/agenda-kabinet/)

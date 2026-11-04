@@ -1,0 +1,24 @@
+---
+title: "1970-05-06 Presiden Soeharto Bahas RUU Perimbangan Keuangan Pusat-Daerah – HM Soeharto"
+source: "https://soehartolibrary.id/1970-05-06-presiden-soeharto-bahas-ruu-perimbangan-keuangan-pusat-daerah/"
+date: "2017-08-25T15:52:30+07:00"
+kategori: kekuasaan-dan-legitimasi
+---
+
+# 1970-05-06 Presiden Soeharto Bahas RUU Perimbangan Keuangan Pusat-Daerah
+
+# Presiden Soeharto Bahas RUU Perimbangan Keuangan Pusat-Daerah
+
+## (Serahkan Huller Kepada Bekas Pejuang Pembantu Logistik)[[1]](#_ftn1)
+
+RABU, 6 MEI 1970, Melalui Gubernur Jawa Barat, Solichin GP, pagi ini di Bina Graha Presiden Soeharto Soeharto menyerahkan mesin *Huller* (penggiling padi) kepada Hudori dari desa Cikoneng, Kabupaten Ciamis, Jawa Barat. Hudori adalah bekas pejuang yang memberikan makanan kepada pasukan yang dipimpin oleh Gubernur Solichin, dan Pangdam Siliwangi, Mayjen. AJ Witono, dalam perang kemerdekaan. Hudori kini menjadi petani, dan ketika ditemui Preisden dalam kunjungan *incognito-*nya beberapa waktu lalu, keadaannya sangat menyedihkan.
+
+Sementara itu sebuah “padi traktor” akan diserahkan kepada desa Karang Luas Lor, Kabupaten Banyumas, Jawa Tengah melalui Residen Banyumas.
+
+Siang ini bertempat di Bina Graha, Presiden Soeharto dan ketua DPR-GR, HA Sjaichu, telah membahas masalah RUU Perimbangan Keungan antara Pusat dan Daerah. RUU ini telah lebih dari satu tahun menjadi subyek pembicaraan di dalam DPR-GR karena selama itu masih ada perbedaan pendapat antara pemerintah dan DPR-GR. Perbedaan itu mencakup masalah prosentase, dimana pemerintah mengusulkan 70% untuk pusat, dan 30% untuk daerah. (AFR)
+
+---
+
+[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 224.
+
+ [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ciamis](https://soehartolibrary.id/tag/ciamis/), [Cikoneng](https://soehartolibrary.id/tag/cikoneng/), [DPR-GR](https://soehartolibrary.id/tag/dpr-gr/), [Jawa Barat](https://soehartolibrary.id/tag/jawa-barat/), [Keuangan](https://soehartolibrary.id/tag/keuangan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [RUU](https://soehartolibrary.id/tag/ruu/), [Siliwangi](https://soehartolibrary.id/tag/siliwangi/), [Solichin GP](https://soehartolibrary.id/tag/solichin-gp/)

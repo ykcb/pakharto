@@ -1,0 +1,18 @@
+---
+title: "1960-02-11 Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor – HM Soeharto"
+source: "https://soehartolibrary.id/1960-02-11-sidang-stabilisasi-ekonomi-presiden-soeharto-bahas-ekspor-impor/"
+date: "2015-03-25T07:03:09+07:00"
+kategori: ekonomi-dan-kepemilikan
+---
+
+# 1960-02-11 Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor
+
+# **Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor[**[1]**](#_ftn1)**
+
+SELASA, 11 FEBRUARI 1969. Presiden Soeharto memimpin sidang Sub Dewan Stabilisasi Ekonomi di Istana Merdeka. Dalam sidang itu antara lain telah dibahas situasi umum dalam bidang impor dan ekspor, Inmas Gotong Royong, dan jalannya pembahasan RUU Anggaran Belanja Tahun 1969/1970. (AFR)
+
+---
+
+[[1]](#_ftnref1)     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003
+
+ [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Dewan](https://soehartolibrary.id/tag/dewan/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [gotong](https://soehartolibrary.id/tag/gotong/), [inmas](https://soehartolibrary.id/tag/inmas/), [royong](https://soehartolibrary.id/tag/royong/), [Stabilisasi](https://soehartolibrary.id/tag/stabilisasi/), [Sub](https://soehartolibrary.id/tag/sub/)

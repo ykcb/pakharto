@@ -1,0 +1,22 @@
+---
+title: "1969-06-28  Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira Gandi – HM Soeharto"
+source: "https://soehartolibrary.id/1969-06-28-presiden-dan-ibu-tien-soeharto-menyambut-pm-india-nyonya-indira-gandi/"
+date: "2017-08-25T15:36:46+07:00"
+kategori: pembangunan-dan-kehidupan
+---
+
+# 1969-06-28 Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira Gandi
+
+# Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira Gandi[[1]](#_ftn1)
+
+Sabtu, 28 Juni 1969, Presiden dan Ibu Tien Soeharto sore ini menyambut kedatangan PM India, Nyonya Indira Gandhi, di lapangan udara kemayoran, Jakarta. Dalam pidato sambutannya, Presiden mengemukakan bahwa Nyonya Indira Gandhi dan rakyat India terasa sangat dekat di hati rakyat Indonesia. Presiden mengharapkan bahwa Kunjungan PM Indira Gandhi akan mempererat hubungan persahabatan, saling pengertian dan kerjasama antara kedua Negara. PM Indira Gandhi, dalam pidato balasannya membenarkan ucapan Presiden Soeharto. Ia mengatakan bahwa banyak perkembangan yang terjadi sejak kemerdekaan Indonesia pada tanggal 17 Agustus 1945, baik di dalam kedua Negara maupun di dunia pada umumnya. Walaupun demikian, ia berpendapat bahwa yang dicetuskan oleh konferensi Bandung pada tahun 1955 tetap bermanfaat, karena prinsip-prinsip itu berhubungan dengan kebenaran yang hakiki.
+
+Malam ini di Istana Merdeka Presiden Soeharto mengadakan jamuan makan malam untuk menghormati kedatangan PM Indira Gandhi. Dalam pidatonya, Presiden Soeharto antara lain menegaskan bahwa antara India dan Indonesia terdapat hubungan yang sangat erat, yang terjalin sejak berabad-abad lalu. Dengan kebudayaan dan nilai-nilai moral yang tinggi  yang masih kuat membekas hingga kini. Dikatakan pula bahwa pergerakan-pergerakan perjuangan kemerdekaan kedua bangsa pada permulaan abad ini telah saling memberi inspirasi dan dorongan semangat. Presiden Soeharto juga menekankan kesamaan keyakinan yang dimiliki oleh kedua bangsa, bahwa politik luar negeri yang bebas dan aktif merupakan salah satu jaminan kuat untuk memelihara kemerdekaan politik dan memperkuat kedudukan ekonomi serta kesejahteraan bangsa-bangsa.
+
+PM India Nyonya Indira Gandhi dalam sambutannya, mengatakan bahwa ia melihat banyak kemajuan yang dicapai Indonesia. Ia mengatakan juga bahwa dalam kunjungannya ini ia ingin memperbaharui harapan-harapannya, terutama agar hubungan kedua Negara dapat terus berkembang. Menyinggung soal *non-aligment*, ia menegaskan pendapatnya bahwa politik *non-aligment* dewasa ini masih tetap diperlukan. Terutama untuk mengimbangi kekuatan-kekuatan besar di dunia. (AFR).
+
+---
+
+[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 132-233. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+
+ [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Bebas Aktif](https://soehartolibrary.id/tag/bebas-aktif/), [Dasasila Bandung](https://soehartolibrary.id/tag/dasasila-bandung/), [Ibu Tien](https://soehartolibrary.id/tag/ibu-tien/), [Nyonya Indira Gandi](https://soehartolibrary.id/tag/nyonya-indira-gandi/), [Pm India](https://soehartolibrary.id/tag/pm-india/), [Politik Luar Negeri](https://soehartolibrary.id/tag/politik-luar-negeri/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

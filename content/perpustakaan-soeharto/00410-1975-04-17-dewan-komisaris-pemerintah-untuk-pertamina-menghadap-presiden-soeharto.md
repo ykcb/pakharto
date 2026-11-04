@@ -1,0 +1,18 @@
+---
+title: "1975-04-17 Dewan Komisaris Pemerintah Untuk Pertamina Menghadap Presiden Soeharto – HM Soeharto"
+source: "https://soehartolibrary.id/1975-04-17-dewan-komisaris-pemerintah-untuk-pertamina-menghadap-presiden-soeharto/"
+date: "2017-08-30T14:16:23+07:00"
+kategori: ekonomi-dan-kepemilikan
+---
+
+# 1975-04-17 Dewan Komisaris Pemerintah Untuk Pertamina Menghadap Presiden Soeharto
+
+# Dewan Komisaris Pemerintah Untuk Pertamina Menghadap Presiden Soeharto[[1]](#_ftn1)
+
+KAMIS, 17 April 1975, Dewan Komisaris Pemerintah untuk Pertamina beserta Kepala Staf Kopkamtib Laksamana Sudomo, Gubernur Bank Central Rachmat Saleh, dan Menteri Penerangan Mashuri, pukul 19.30 malam ini menghadap Kepala Negara di Cendana. Tidak diperoleh keterangan mengenai masalah yang dibahas dalam pertemuan ini. Sebagaimana diketahui, Dewan Komisaris Pemerintah untuk perusahaan minyak Negara tersebut terdiri atas Menteri Pertambangan Sadli, Menteri Negara ekuin widjojo, Nitisastro, Menteri Keuangan Ali Wardhana, Menteri Perindustrian, M Jusuf, dan Menteri Hankam/Pangab, Jenderal Pangabean. (AFR)
+
+---
+
+[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 239.
+
+ [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Cendana](https://soehartolibrary.id/tag/cendana/), [Komisaris](https://soehartolibrary.id/tag/komisaris/), [Pertamina](https://soehartolibrary.id/tag/pertamina/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)
