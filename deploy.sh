@@ -1,6 +1,11 @@
 #!/bin/bash
 set -e
 
+# Box cuma punya 1.9 GB RAM; build Quartz (3.800+ halaman + esbuild) bisa
+# memuncak dan membuat V8 crash (FatalProcessOutOfMemory). Batasi heap Node
+# ke 1 GB supaya V8 GC lebih agresif dan memakai swap, bukan abort.
+export NODE_OPTIONS="${NODE_OPTIONS:-} --max-old-space-size=1024"
+
 REPO_DIR="/home/ubuntu/quartz"
 cd "$REPO_DIR"
 
