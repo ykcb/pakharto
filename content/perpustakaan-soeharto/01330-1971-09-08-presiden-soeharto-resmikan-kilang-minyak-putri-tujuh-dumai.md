@@ -2,6 +2,7 @@
 title: "1971-09-08 Presiden Soeharto Resmikan Kilang Minyak Putri Tujuh Dumai – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-08-presiden-soeharto-resmikan-kilang-minyak-putri-tujuh-dumai/"
 date: "2017-08-23T11:12:04+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-09-08 Presiden Soeharto Resmikan Kilang Minyak Putri Tujuh Dumai

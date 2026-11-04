@@ -2,6 +2,7 @@
 title: "1974-09-25 Presiden Soeharto Menerima Wakil Presiden MEE – HM Soeharto"
 source: "https://soehartolibrary.id/1974-09-25-presiden-soeharto-menerima-wakil-presiden-mee/"
 date: "2017-08-23T10:52:00+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-09-25 Presiden Soeharto Menerima Wakil Presiden MEE

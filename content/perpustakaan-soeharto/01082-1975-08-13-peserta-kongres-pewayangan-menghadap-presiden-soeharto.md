@@ -2,6 +2,7 @@
 title: "1975-08-13 Peserta Kongres Pewayangan Menghadap Presiden Soeharto – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-13-peserta-kongres-pewayangan-menghadap-presiden-soeharto/"
 date: "2017-08-22T17:47:57+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-08-13 Peserta Kongres Pewayangan Menghadap Presiden Soeharto

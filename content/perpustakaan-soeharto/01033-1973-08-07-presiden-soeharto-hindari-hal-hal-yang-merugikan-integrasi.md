@@ -2,6 +2,7 @@
 title: "1973-08-07 Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi/"
 date: "2017-08-23T11:37:14+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-08-07 Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi

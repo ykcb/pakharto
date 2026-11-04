@@ -2,6 +2,7 @@
 title: "1970-10-10 Presiden Soeharto Bentuk Wanhankamnas – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-10-presiden-soeharto-bentuk-wanhankamnas/"
 date: "2014-12-01T16:26:45+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-10-10 Presiden Soeharto Bentuk Wanhankamnas

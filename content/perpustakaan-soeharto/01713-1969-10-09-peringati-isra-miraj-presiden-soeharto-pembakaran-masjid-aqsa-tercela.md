@@ -2,6 +2,7 @@
 title: "1969-10-09 Peringati Isra’ Mi’raj, Presiden Soeharto: Pembakaran Masjid Aqsa Tercela – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-09-peringati-isra-miraj-presiden-soeharto-pembakaran-masjid-aqsa-tercela/"
 date: "2014-12-01T16:35:27+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1969-10-09 Peringati Isra’ Mi’raj, Presiden Soeharto: Pembakaran Masjid Aqsa Tercela

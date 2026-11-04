@@ -2,6 +2,7 @@
 title: "Dari Zaman KNIL ke Zaman PETA – HM Soeharto"
 source: "https://soehartolibrary.id/dari-zaman-knil-ke-zaman-peta/"
 date: "2018-01-10T19:02:28+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/DSC_0441_result.jpg)

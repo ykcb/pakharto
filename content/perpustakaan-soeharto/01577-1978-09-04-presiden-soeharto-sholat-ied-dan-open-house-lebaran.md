@@ -2,6 +2,7 @@
 title: "1978-09-04 Presiden Soeharto Sholat Ied dan Open House Lebaran – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-04-presiden-soeharto-sholat-ied-dan-open-house-lebaran/"
 date: "2017-08-22T16:09:38+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1978-09-04 Presiden Soeharto Sholat Ied dan Open House Lebaran

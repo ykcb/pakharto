@@ -2,6 +2,7 @@
 title: "1974-10-08 Presiden Soeharto Menerima Laporan Perkembangan Asia Tenggara, Timur Tengah dan Siprus – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-08-presiden-soeharto-menerima-laporan-perkembangan-asia-tenggara-timur-tengah-dan-siprus/"
 date: "2014-12-01T13:54:45+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-10-08 Presiden Soeharto Menerima Laporan Perkembangan Asia Tenggara, Timur Tengah dan Siprus

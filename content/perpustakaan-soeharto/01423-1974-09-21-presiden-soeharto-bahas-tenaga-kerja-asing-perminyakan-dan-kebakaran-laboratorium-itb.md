@@ -2,6 +2,7 @@
 title: "1974-09-21 Presiden Soeharto Bahas Tenaga Kerja Asing Perminyakan dan Kebakaran Laboratorium ITB – HM Soeharto"
 source: "https://soehartolibrary.id/1974-09-21-presiden-soeharto-bahas-tenaga-kerja-asing-perminyakan-dan-kebakaran-laboratorium-itb/"
 date: "2017-08-23T10:52:51+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1974-09-21 Presiden Soeharto Bahas Tenaga Kerja Asing Perminyakan dan Kebakaran Laboratorium ITB

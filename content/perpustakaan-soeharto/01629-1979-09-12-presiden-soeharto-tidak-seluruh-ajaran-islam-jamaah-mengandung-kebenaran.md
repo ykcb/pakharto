@@ -2,6 +2,7 @@
 title: "1979-09-12 Presiden Soeharto: Tidak Seluruh Ajaran Islam Jamaah Mengandung Kebenaran – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-12-presiden-soeharto-tidak-seluruh-ajaran-islam-jamaah-mengandung-kebenaran/"
 date: "2017-08-22T12:08:26+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1979-09-12 Presiden Soeharto: Tidak Seluruh Ajaran Islam Jamaah Mengandung Kebenaran

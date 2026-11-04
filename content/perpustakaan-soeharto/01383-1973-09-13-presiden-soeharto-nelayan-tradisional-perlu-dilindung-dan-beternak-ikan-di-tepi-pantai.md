@@ -2,6 +2,7 @@
 title: "1973-09-13 Presiden Soeharto: Nelayan Tradisional Perlu Dilindung dan Beternak Ikan di Tepi Pantai – HM Soeharto"
 source: "https://soehartolibrary.id/1973-09-13-presiden-soeharto-nelayan-tradisional-perlu-dilindung-dan-beternak-ikan-di-tepi-pantai/"
 date: "2017-08-23T11:01:11+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-09-13 Presiden Soeharto: Nelayan Tradisional Perlu Dilindung dan Beternak Ikan di Tepi Pantai

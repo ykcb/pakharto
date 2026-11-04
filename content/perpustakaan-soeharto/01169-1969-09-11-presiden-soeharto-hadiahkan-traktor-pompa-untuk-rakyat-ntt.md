@@ -2,6 +2,7 @@
 title: "1969-09-11 Presiden Soeharto Hadiahkan Traktor-Pompa Untuk Rakyat NTT – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-11-presiden-soeharto-hadiahkan-traktor-pompa-untuk-rakyat-ntt/"
 date: "2017-08-22T17:39:47+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1969-09-11 Presiden Soeharto Hadiahkan Traktor-Pompa Untuk Rakyat NTT

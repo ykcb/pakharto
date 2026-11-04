@@ -2,6 +2,7 @@
 title: "1976-10-01 Peringati Hari Kesaktian Pancasila dan Setujui Pembangunan Puspitek – HM Soeharto"
 source: "https://soehartolibrary.id/1976-10-01-peringati-hari-kesaktian-pancasila-dan-setujui-pembangunan-puspitek/"
 date: "2014-06-13T18:50:42+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1976-10-01 Peringati Hari Kesaktian Pancasila dan Setujui Pembangunan Puspitek

@@ -2,6 +2,7 @@
 title: "1979-09-17 Presiden Soeharto Meninjau Pengungsi Vietnam Pulau Galang – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-17-presiden-soeharto-meninjau-pengungsi-vietnam-pulau-galang/"
 date: "2014-12-01T16:38:35+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-17 Presiden Soeharto Meninjau Pengungsi Vietnam Pulau Galang

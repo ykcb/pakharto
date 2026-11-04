@@ -2,6 +2,7 @@
 title: "1974-08-13 Presiden Soeharto Bahas Kebutuhan Pokok Menjelang Idul Fitri – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-13-presiden-soeharto-bahas-kebutuhan-pokok-menjelang-idul-fitri/"
 date: "2017-08-23T11:18:52+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1974-08-13 Presiden Soeharto Bahas Kebutuhan Pokok Menjelang Idul Fitri

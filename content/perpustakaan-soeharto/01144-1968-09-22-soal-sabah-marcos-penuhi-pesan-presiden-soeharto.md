@@ -2,6 +2,7 @@
 title: "1968-09-22 Soal Sabah, Marcos Penuhi Pesan Presiden Soeharto – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-22-soal-sabah-marcos-penuhi-pesan-presiden-soeharto/"
 date: "2014-04-01T02:14:12+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-09-22 Soal Sabah, Marcos Penuhi Pesan Presiden Soeharto

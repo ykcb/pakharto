@@ -2,6 +2,7 @@
 title: "1972-09-09 Presiden Soeharto Menerima Menlu Nigeria – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-09-presiden-soeharto-menerima-menlu-nigeria/"
 date: "2017-08-23T11:04:58+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-09-09 Presiden Soeharto Menerima Menlu Nigeria

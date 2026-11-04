@@ -2,6 +2,7 @@
 title: "1972-09-30 Presiden Soeharto Pesan Gubernur Agar Sukseskan Produksi Beras – HM Soeharto"
 source: "https://soehartolibrary.id/1972-09-30-presiden-soeharto-pesan-gubernur-agar-sukseskan-produksi-beras/"
 date: "2017-08-23T11:01:41+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1972-09-30 Presiden Soeharto Pesan Gubernur Agar Sukseskan Produksi Beras

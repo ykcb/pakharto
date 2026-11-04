@@ -2,6 +2,7 @@
 title: "1972-08-17 Presiden Soeharto Tumpengan Kemerdekaan – HM Soeharto"
 source: "https://soehartolibrary.id/1972-08-17-presiden-soeharto-tumpengan-kemerdekaan/"
 date: "2017-08-24T15:06:39+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-08-17 Presiden Soeharto Tumpengan Kemerdekaan

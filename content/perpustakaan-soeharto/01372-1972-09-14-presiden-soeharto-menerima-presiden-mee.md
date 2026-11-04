@@ -2,6 +2,7 @@
 title: "1972-09-14 Presiden Soeharto Menerima Presiden MEE – HM Soeharto"
 source: "https://soehartolibrary.id/1972-09-14-presiden-soeharto-menerima-presiden-mee/"
 date: "2017-08-23T11:04:24+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-09-14 Presiden Soeharto Menerima Presiden MEE

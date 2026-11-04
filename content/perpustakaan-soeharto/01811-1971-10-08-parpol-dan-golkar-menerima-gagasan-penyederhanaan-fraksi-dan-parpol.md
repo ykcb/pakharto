@@ -2,6 +2,7 @@
 title: "1971-10-08 Parpol dan Golkar Menerima Gagasan Penyederhanaan Fraksi dan Parpol – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-08-parpol-dan-golkar-menerima-gagasan-penyederhanaan-fraksi-dan-parpol/"
 date: "2014-12-01T16:22:24+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-10-08 Parpol dan Golkar Menerima Gagasan Penyederhanaan Fraksi dan Parpol

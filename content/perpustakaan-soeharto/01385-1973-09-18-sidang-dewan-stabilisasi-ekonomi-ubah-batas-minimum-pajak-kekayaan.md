@@ -2,6 +2,7 @@
 title: "1973-09-18 Sidang Dewan Stabilisasi Ekonomi Ubah Batas Minimum Pajak Kekayaan – HM Soeharto"
 source: "https://soehartolibrary.id/1973-09-18-sidang-dewan-stabilisasi-ekonomi-ubah-batas-minimum-pajak-kekayaan/"
 date: "2017-08-23T10:57:23+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1973-09-18 Sidang Dewan Stabilisasi Ekonomi Ubah Batas Minimum Pajak Kekayaan

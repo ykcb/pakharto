@@ -2,6 +2,7 @@
 title: "1975-10-13 Usai Bahas Timor Portugis dengan Adam Malik, Presiden Soeharto Menerima Utusan PM India – HM Soeharto"
 source: "https://soehartolibrary.id/1975-10-13-usai-bahas-timor-portugis-dengan-adam-malik-presiden-soeharto-menerima-utusan-pm-india/"
 date: "2014-06-13T18:53:34+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-10-13 Usai Bahas Timor Portugis dengan Adam Malik, Presiden Soeharto Menerima Utusan PM India

@@ -2,6 +2,7 @@
 title: "1977-09-06 Presiden Soeharto Menerima Laporan Hasil Sidang Anti Apartheid – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-06-presiden-soeharto-menerima-laporan-hasil-sidang-anti-apartheid/"
 date: "2017-08-22T16:14:56+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-06 Presiden Soeharto Menerima Laporan Hasil Sidang Anti Apartheid

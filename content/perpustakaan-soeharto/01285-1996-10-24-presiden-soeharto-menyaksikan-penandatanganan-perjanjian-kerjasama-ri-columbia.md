@@ -2,6 +2,7 @@
 title: "1996-10-24 Presiden Soeharto Menyaksikan Penandatanganan Perjanjian Kerjasama RI-Columbia – HM Soeharto"
 source: "https://soehartolibrary.id/1996-10-24-presiden-soeharto-menyaksikan-penandatanganan-perjanjian-kerjasama-ri-columbia/"
 date: "2013-09-09T13:32:13+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1996-10-24 Presiden Soeharto Menyaksikan Penandatanganan Perjanjian Kerjasama RI-Columbia

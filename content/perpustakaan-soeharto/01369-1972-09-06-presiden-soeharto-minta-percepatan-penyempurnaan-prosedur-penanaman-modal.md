@@ -2,6 +2,7 @@
 title: "1972-09-06 Presiden Soeharto Minta Percepatan Penyempurnaan Prosedur Penanaman Modal – HM Soeharto"
 source: "https://soehartolibrary.id/1972-09-06-presiden-soeharto-minta-percepatan-penyempurnaan-prosedur-penanaman-modal/"
 date: "2017-08-23T11:06:32+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1972-09-06 Presiden Soeharto Minta Percepatan Penyempurnaan Prosedur Penanaman Modal

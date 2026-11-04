@@ -2,6 +2,7 @@
 title: "1973-10-09 Presiden Soeharto Beri Hadiah Perintis Kemerdekaan – HM Soeharto"
 source: "https://soehartolibrary.id/1973-10-09-presiden-soeharto-beri-hadiah-perintis-kemerdekaan/"
 date: "2014-12-01T14:13:02+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-10-09 Presiden Soeharto Beri Hadiah Perintis Kemerdekaan

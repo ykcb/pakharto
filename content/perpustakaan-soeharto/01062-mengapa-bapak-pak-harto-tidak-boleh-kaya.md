@@ -2,6 +2,7 @@
 title: "Mengapa Bapak (Pak Harto) Tidak Boleh Kaya – HM Soeharto"
 source: "https://soehartolibrary.id/mengapa-bapak-pak-harto-tidak-boleh-kaya/"
 date: "2013-08-29T22:11:21+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Mengapa Bapak (Pak Harto) Tidak Boleh Kaya

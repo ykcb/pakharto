@@ -2,6 +2,7 @@
 title: "1968-09-12 Presiden Soeharto Serahkan 200 Ekor Sapi ke Kodam Sriwijaya – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-12-presiden-soeharto-serahkan-200-ekor-sapi-ke-kodam-sriwijaya/"
 date: "2014-03-21T23:14:52+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1968-09-12 Presiden Soeharto Serahkan 200 Ekor Sapi ke Kodam Sriwijaya

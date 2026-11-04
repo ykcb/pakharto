@@ -2,6 +2,7 @@
 title: "1975-08-26 Presiden Soeharto Instruksikan Tataniaga Kopra Untungkan Petani – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-26-presiden-soeharto-instruksikan-tataniaga-kopra-untungkan-petani/"
 date: "2017-08-22T17:44:24+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1975-08-26 Presiden Soeharto Instruksikan Tataniaga Kopra Untungkan Petani

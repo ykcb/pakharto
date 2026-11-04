@@ -2,6 +2,7 @@
 title: "Semasa Menguber DI/TII – HM Soeharto"
 source: "https://soehartolibrary.id/semasa-menguber-ditii/"
 date: "2018-01-10T19:15:31+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0424_result.jpg)

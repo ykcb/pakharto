@@ -2,6 +2,7 @@
 title: "Jodoh Saya – HM Soeharto"
 source: "https://soehartolibrary.id/jodoh-saya/"
 date: "2018-01-10T19:05:45+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0779_result.jpg)

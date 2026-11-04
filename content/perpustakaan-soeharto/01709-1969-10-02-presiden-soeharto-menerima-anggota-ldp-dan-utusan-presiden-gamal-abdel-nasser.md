@@ -2,6 +2,7 @@
 title: "1969-10-02 Presiden Soeharto Menerima Anggota LDP dan Utusan Presiden Gamal Abdel Nasser – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-02-presiden-soeharto-menerima-anggota-ldp-dan-utusan-presiden-gamal-abdel-nasser/"
 date: "2014-12-01T16:36:25+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-02 Presiden Soeharto Menerima Anggota LDP dan Utusan Presiden Gamal Abdel Nasser

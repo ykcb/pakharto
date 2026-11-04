@@ -2,6 +2,7 @@
 title: "1971-09-02 Presiden Soeharto Bahas Ekspor Tambang dan Stabilitas Harga Kebutuhan Pokok – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-02-presiden-soeharto-bahas-ekspor-tambang-dan-stabilitas-harga-kebutuhan-pokok/"
 date: "2017-08-22T16:21:48+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1971-09-02 Presiden Soeharto Bahas Ekspor Tambang dan Stabilitas Harga Kebutuhan Pokok

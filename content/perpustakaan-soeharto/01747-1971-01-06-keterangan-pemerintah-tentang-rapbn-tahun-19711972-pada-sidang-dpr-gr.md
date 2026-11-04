@@ -2,6 +2,7 @@
 title: "1971-01-06 Keterangan Pemerintah Tentang RAPBN Tahun 1971/1972 Pada Sidang DPR-GR – HM Soeharto"
 source: "https://soehartolibrary.id/1971-01-06-keterangan-pemerintah-tentang-rapbn-tahun-19711972-pada-sidang-dpr-gr/"
 date: "2013-10-05T21:08:29+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-01-06 Keterangan Pemerintah Tentang RAPBN Tahun 1971/1972 Pada Sidang DPR-GR

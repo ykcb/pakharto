@@ -2,6 +2,7 @@
 title: "Video Peresmian Proyek Nusa Tenggara – HM Soeharto"
 source: "https://soehartolibrary.id/video-peresmian-proyek-nusa-tenggara/"
 date: "2014-03-22T01:31:57+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # Video Peresmian Proyek Nusa Tenggara

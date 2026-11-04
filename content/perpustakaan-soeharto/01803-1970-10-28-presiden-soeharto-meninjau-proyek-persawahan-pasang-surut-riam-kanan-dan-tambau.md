@@ -2,6 +2,7 @@
 title: "1970-10-28 Presiden Soeharto Meninjau Proyek Persawahan Pasang Surut Riam Kanan dan Tambau – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-28-presiden-soeharto-meninjau-proyek-persawahan-pasang-surut-riam-kanan-dan-tambau/"
 date: "2014-12-01T16:24:00+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1970-10-28 Presiden Soeharto Meninjau Proyek Persawahan Pasang Surut Riam Kanan dan Tambau

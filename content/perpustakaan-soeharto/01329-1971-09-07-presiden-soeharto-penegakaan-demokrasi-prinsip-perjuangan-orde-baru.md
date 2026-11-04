@@ -2,6 +2,7 @@
 title: "1971-09-07 Presiden Soeharto: Penegakaan Demokrasi Prinsip Perjuangan Orde Baru – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-07-presiden-soeharto-penegakaan-demokrasi-prinsip-perjuangan-orde-baru/"
 date: "2017-08-23T11:14:00+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-09-07 Presiden Soeharto: Penegakaan Demokrasi Prinsip Perjuangan Orde Baru

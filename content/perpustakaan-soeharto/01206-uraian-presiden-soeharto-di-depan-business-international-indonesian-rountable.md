@@ -2,6 +2,7 @@
 title: "1968-09-13 Uraian Presiden Soeharto Di Depan Business International Indonesian Rountable  – HM Soeharto"
 source: "https://soehartolibrary.id/uraian-presiden-soeharto-di-depan-business-international-indonesian-rountable/"
 date: "2013-09-05T13:36:58+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1968-09-13 Uraian Presiden Soeharto Di Depan Business International Indonesian Rountable

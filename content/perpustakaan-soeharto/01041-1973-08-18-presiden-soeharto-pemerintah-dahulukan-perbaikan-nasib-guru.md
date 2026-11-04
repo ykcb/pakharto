@@ -2,6 +2,7 @@
 title: "1973-08-18 Presiden Soeharto: Pemerintah Dahulukan Perbaikan Nasib Guru – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-18-presiden-soeharto-pemerintah-dahulukan-perbaikan-nasib-guru/"
 date: "2017-08-23T11:36:17+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-08-18 Presiden Soeharto: Pemerintah Dahulukan Perbaikan Nasib Guru

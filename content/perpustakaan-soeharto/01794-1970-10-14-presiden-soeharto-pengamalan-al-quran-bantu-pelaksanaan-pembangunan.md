@@ -2,6 +2,7 @@
 title: "1970-10-14 Presiden Soeharto: Pengamalan Al-Qur’an Bantu Pelaksanaan Pembangunan – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-14-presiden-soeharto-pengamalan-al-quran-bantu-pelaksanaan-pembangunan/"
 date: "2014-12-01T16:25:56+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1970-10-14 Presiden Soeharto: Pengamalan Al-Qur’an Bantu Pelaksanaan Pembangunan

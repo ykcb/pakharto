@@ -2,6 +2,7 @@
 title: "1971-10-25 Presiden Soeharto Menerima Bintang Pelawak AS Duta UNICEF – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-25-presiden-soeharto-menerima-bintang-pelawak-duta-unicef/"
 date: "2014-12-01T16:32:03+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-10-25 Presiden Soeharto Menerima Bintang Pelawak AS Duta UNICEF

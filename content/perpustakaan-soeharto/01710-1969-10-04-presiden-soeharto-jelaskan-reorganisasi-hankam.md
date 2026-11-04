@@ -2,6 +2,7 @@
 title: "1969-10-04 Presiden Soeharto Jelaskan Reorganisasi Hankam – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-04-presiden-soeharto-jelaskan-reorganisasi-hankam/"
 date: "2014-12-01T16:36:06+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1969-10-04 Presiden Soeharto Jelaskan Reorganisasi Hankam

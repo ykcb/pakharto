@@ -2,6 +2,7 @@
 title: "Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 2) – HM Soeharto"
 source: "https://soehartolibrary.id/ali-alatas-kemantapan-dalam-keseimbangan-bagian-2/"
 date: "2014-11-25T12:39:08+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/84610006_result.jpg)

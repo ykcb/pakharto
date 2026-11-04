@@ -2,6 +2,7 @@
 title: "1976-08-24 Presiden Soeharto Meresmikan Refinery Pertamina Cilacap – HM Soeharto"
 source: "https://soehartolibrary.id/1976-08-24-presiden-soeharto-meresmikan-refinery-pertamina-cilacap/"
 date: "2013-09-09T14:33:54+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1976-08-24 Presiden Soeharto Meresmikan Refinery Pertamina Cilacap

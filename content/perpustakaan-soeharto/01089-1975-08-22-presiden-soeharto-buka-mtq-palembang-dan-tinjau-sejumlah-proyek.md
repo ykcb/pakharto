@@ -2,6 +2,7 @@
 title: "1975-08-22 Presiden Soeharto Buka MTQ Palembang dan Tinjau Sejumlah Proyek – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-22-presiden-soeharto-buka-mtq-palembang-dan-tinjau-sejumlah-proyek/"
 date: "2017-08-22T17:48:35+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1975-08-22 Presiden Soeharto Buka MTQ Palembang dan Tinjau Sejumlah Proyek

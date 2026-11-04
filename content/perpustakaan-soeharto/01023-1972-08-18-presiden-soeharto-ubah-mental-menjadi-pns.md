@@ -2,6 +2,7 @@
 title: "1972-08-18 Presiden Soeharto: Ubah Mental Menjadi PNS – HM Soeharto"
 source: "https://soehartolibrary.id/1972-08-18-presiden-soeharto-ubah-mental-menjadi-pns/"
 date: "2017-08-24T15:06:33+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-08-18 Presiden Soeharto: Ubah Mental Menjadi PNS

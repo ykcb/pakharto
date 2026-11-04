@@ -2,6 +2,7 @@
 title: "1974-10-17 Usai Sholat Iedul Fitri, Presiden Soeharto: Sebaiknya Haji Sekali Saja – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-17-usai-sholat-iedul-fitri-presiden-soeharto-sebaiknya-haji-sekali-saja/"
 date: "2014-12-01T13:52:03+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1974-10-17 Usai Sholat Iedul Fitri, Presiden Soeharto: Sebaiknya Haji Sekali Saja

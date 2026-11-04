@@ -2,6 +2,7 @@
 title: "1975-10-21 Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima Kamar Dagang Singapura – HM Soeharto"
 source: "https://soehartolibrary.id/1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura/"
 date: "2014-06-13T18:52:19+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-10-21 Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima Kamar Dagang Singapura

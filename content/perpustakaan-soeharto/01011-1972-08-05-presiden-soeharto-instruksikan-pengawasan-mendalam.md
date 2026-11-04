@@ -2,6 +2,7 @@
 title: "1972-08-05 Presiden Soeharto Instruksikan Pengawasan Mendalam – HM Soeharto"
 source: "https://soehartolibrary.id/1972-08-05-presiden-soeharto-instruksikan-pengawasan-mendalam/"
 date: "2017-08-24T15:08:24+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1972-08-05 Presiden Soeharto Instruksikan Pengawasan Mendalam

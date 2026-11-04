@@ -2,6 +2,7 @@
 title: "Semasa Agresi Belanda Ke-1 – HM Soeharto"
 source: "https://soehartolibrary.id/semasa-agresi-belanda-ke-1/"
 date: "2018-01-10T19:05:10+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0418_result.jpg)

@@ -2,6 +2,7 @@
 title: "1972-10-01 Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila Harus Tanpa Ragu – HM Soeharto"
 source: "https://soehartolibrary.id/1972-10-01-presiden-soeharto-mempertahankan-dan-melaksanakan-pancasila-harus-tanpa-ragu/"
 date: "2014-12-01T16:10:46+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-10-01 Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila Harus Tanpa Ragu

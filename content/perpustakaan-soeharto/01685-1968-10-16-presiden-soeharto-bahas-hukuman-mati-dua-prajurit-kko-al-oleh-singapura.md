@@ -2,6 +2,7 @@
 title: "1968-10-16 Presiden Soeharto Bahas Hukuman Mati Dua Prajurit KKO-AL Oleh Singapura – HM Soeharto"
 source: "https://soehartolibrary.id/1968-10-16-presiden-soeharto-bahas-hukuman-mati-dua-prajurit-kko-al-oleh-singapura/"
 date: "2015-02-25T08:54:51+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-10-16 Presiden Soeharto Bahas Hukuman Mati Dua Prajurit KKO-AL Oleh Singapura

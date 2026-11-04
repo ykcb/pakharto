@@ -2,6 +2,7 @@
 title: "1977-09-28 Presiden Soeharto Ikuti Perkembangan TKS BUTSI di Daerah – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-28-presiden-soeharto-ikuti-perkembangan-tks-butsi-di-daerah/"
 date: "2017-08-22T16:10:53+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-28 Presiden Soeharto Ikuti Perkembangan TKS BUTSI di Daerah

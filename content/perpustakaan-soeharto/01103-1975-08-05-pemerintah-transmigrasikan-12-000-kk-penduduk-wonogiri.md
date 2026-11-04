@@ -2,6 +2,7 @@
 title: "1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-05-pemerintah-transmigrasikan-12-000-kk-penduduk-wonogiri/"
 date: "2017-08-22T17:42:39+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri

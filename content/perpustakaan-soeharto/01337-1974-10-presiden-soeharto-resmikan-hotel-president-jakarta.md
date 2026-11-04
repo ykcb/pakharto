@@ -2,6 +2,7 @@
 title: "1974-10 Presiden Soeharto Resmikan Hotel President Jakarta – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-presiden-soeharto-resmikan-hotel-president-jakarta/"
 date: "2013-09-12T17:41:16+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1974-10 Presiden Soeharto Resmikan Hotel President Jakarta

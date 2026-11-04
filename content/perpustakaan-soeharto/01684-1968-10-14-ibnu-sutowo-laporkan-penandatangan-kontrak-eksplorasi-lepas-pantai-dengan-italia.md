@@ -2,6 +2,7 @@
 title: "1968-10-14 Ibnu Sutowo Laporkan Penandatangan Kontrak Eksplorasi Lepas Pantai Dengan Italia – HM Soeharto"
 source: "https://soehartolibrary.id/1968-10-14-ibnu-sutowo-laporkan-penandatangan-kontrak-eksplorasi-lepas-pantai-dengan-italia/"
 date: "2014-04-01T02:12:04+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-10-14 Ibnu Sutowo Laporkan Penandatangan Kontrak Eksplorasi Lepas Pantai Dengan Italia

@@ -2,6 +2,7 @@
 title: "1976-10-05 Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan – HM Soeharto"
 source: "https://soehartolibrary.id/1976-10-05-presiden-soeharto-kepeloporan-abri-bukan-paksaan/"
 date: "2014-06-13T18:50:25+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-10-05 Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan

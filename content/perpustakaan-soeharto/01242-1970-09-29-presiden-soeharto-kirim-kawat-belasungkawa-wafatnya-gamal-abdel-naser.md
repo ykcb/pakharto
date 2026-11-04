@@ -2,6 +2,7 @@
 title: "1970-09-29 Presiden Soeharto Kirim Kawat Belasungkawa Wafatnya Gamal Abdel Naser – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-29-presiden-soeharto-kirim-kawat-belasungkawa-wafatnya-gamal-abdel-naser/"
 date: "2017-08-22T17:33:19+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-29 Presiden Soeharto Kirim Kawat Belasungkawa Wafatnya Gamal Abdel Naser

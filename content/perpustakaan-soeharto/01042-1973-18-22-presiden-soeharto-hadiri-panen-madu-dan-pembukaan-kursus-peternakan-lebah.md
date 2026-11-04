@@ -2,6 +2,7 @@
 title: "1973-18-22 Presiden Soeharto Hadiri Panen Madu dan Pembukaan Kursus Peternakan Lebah – HM Soeharto"
 source: "https://soehartolibrary.id/1973-18-22-presiden-soeharto-hadiri-panen-madu-dan-pembukaan-kursus-peternakan-lebah/"
 date: "2017-08-23T11:35:55+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1973-18-22 Presiden Soeharto Hadiri Panen Madu dan Pembukaan Kursus Peternakan Lebah

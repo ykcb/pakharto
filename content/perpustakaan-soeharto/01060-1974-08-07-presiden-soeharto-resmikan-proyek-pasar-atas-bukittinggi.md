@@ -2,6 +2,7 @@
 title: "1974-08-07 Presiden Soeharto Resmikan Proyek Pasar Atas Bukittinggi – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-07-presiden-soeharto-resmikan-proyek-pasar-atas-bukittinggi/"
 date: "2017-08-23T11:34:25+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1974-08-07 Presiden Soeharto Resmikan Proyek Pasar Atas Bukittinggi

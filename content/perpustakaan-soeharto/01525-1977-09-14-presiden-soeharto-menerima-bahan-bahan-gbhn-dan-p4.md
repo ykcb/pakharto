@@ -2,6 +2,7 @@
 title: "1977-09-14 Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4 – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-14-presiden-soeharto-menerima-bahan-bahan-gbhn-dan-p4/"
 date: "2017-08-22T16:12:49+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-14 Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4

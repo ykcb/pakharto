@@ -2,6 +2,7 @@
 title: "Akar Saya Dari Desa – HM Soeharto"
 source: "https://soehartolibrary.id/akar-saya-dari-desa/"
 date: "2018-01-10T19:00:49+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/DSC_0416_result.jpg)

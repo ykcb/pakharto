@@ -2,6 +2,7 @@
 title: "1975-10-06 Presiden Soeharto Buka Open House Lebaran – HM Soeharto"
 source: "https://soehartolibrary.id/presiden-soeharto-bukan-open-house-lebaran/"
 date: "2014-06-13T18:53:47+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1975-10-06 Presiden Soeharto Buka Open House Lebaran

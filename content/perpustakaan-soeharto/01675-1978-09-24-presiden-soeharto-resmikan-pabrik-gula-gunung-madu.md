@@ -2,6 +2,7 @@
 title: "1978-09-24 Presiden Soeharto Resmikan Pabrik Gula Gunung Madu – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-24-presiden-soeharto-resmikan-pabrik-gula-gunung-madu/"
 date: "2014-12-01T16:36:59+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1978-09-24 Presiden Soeharto Resmikan Pabrik Gula Gunung Madu

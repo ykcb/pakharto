@@ -2,6 +2,7 @@
 title: "1972-09-16 Presiden Soeharto Lantik Lima Duta Besar – HM Soeharto"
 source: "https://soehartolibrary.id/1972-09-16-presiden-soeharto-lantik-lima-duta-besar/"
 date: "2017-08-23T11:03:23+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-09-16 Presiden Soeharto Lantik Lima Duta Besar

@@ -2,6 +2,7 @@
 title: "1970-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila di Lubang Buaya – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-di-lubang-buaya/"
 date: "2014-12-01T16:33:00+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila di Lubang Buaya

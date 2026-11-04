@@ -2,6 +2,7 @@
 title: "1978-09-14 Presiden Soeharto Buka Raimuna Nasional dan Resmikan Bumi Perkemahan Karangkates – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-14-presiden-soeharto-buka-raimuna-nasional-dan-resmikan-bumi-perkemahan-karangkates/"
 date: "2017-08-22T16:08:47+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1978-09-14 Presiden Soeharto Buka Raimuna Nasional dan Resmikan Bumi Perkemahan Karangkates

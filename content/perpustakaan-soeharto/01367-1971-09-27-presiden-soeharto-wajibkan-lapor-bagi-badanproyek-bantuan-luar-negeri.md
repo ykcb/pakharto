@@ -2,6 +2,7 @@
 title: "1971-09-27 Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar Negeri – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri/"
 date: "2017-08-23T11:06:11+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-09-27 Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar Negeri

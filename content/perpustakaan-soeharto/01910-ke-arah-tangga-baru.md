@@ -2,6 +2,7 @@
 title: "Ke Arah Tangga Baru – HM Soeharto"
 source: "https://soehartolibrary.id/ke-arah-tangga-baru/"
 date: "2014-04-01T02:33:37+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0758_result.jpg)

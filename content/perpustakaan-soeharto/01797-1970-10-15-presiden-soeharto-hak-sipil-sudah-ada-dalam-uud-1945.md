@@ -2,6 +2,7 @@
 title: "1970-10-15 Presiden Soeharto: Hak Sipil Sudah Ada dalam UUD 1945 – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-15-presiden-soeharto-hak-sipil-sudah-ada-dalam-uud-1945/"
 date: "2014-12-01T16:25:39+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-10-15 Presiden Soeharto: Hak Sipil Sudah Ada dalam UUD 1945

@@ -2,6 +2,7 @@
 title: "1972-08-23 Presiden Soeharto: Tidak ada Keharusan Konsititusional MPR Ubah UUD – HM Soeharto"
 source: "https://soehartolibrary.id/1972-08-23-presiden-soeharto-tidak-ada-keharusan-konsititusional-mpr-ubah-uud/"
 date: "2017-08-24T15:05:53+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-08-23 Presiden Soeharto: Tidak ada Keharusan Konsititusional MPR Ubah UUD

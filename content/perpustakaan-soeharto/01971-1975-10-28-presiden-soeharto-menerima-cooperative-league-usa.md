@@ -2,6 +2,7 @@
 title: "1975-10-28 Presiden Soeharto Menerima Cooperative League of USA – HM Soeharto"
 source: "https://soehartolibrary.id/1975-10-28-presiden-soeharto-menerima-cooperative-league-usa/"
 date: "2014-06-13T18:51:56+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1975-10-28 Presiden Soeharto Menerima Cooperative League of USA

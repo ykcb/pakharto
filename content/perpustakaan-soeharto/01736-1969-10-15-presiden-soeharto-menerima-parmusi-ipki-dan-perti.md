@@ -2,6 +2,7 @@
 title: "1969-10-15 Presiden Soeharto Menerima Parmusi-IPKI dan Perti – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-15-presiden-soeharto-menerima-parmusi-ipki-dan-perti/"
 date: "2014-12-01T16:34:29+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-15 Presiden Soeharto Menerima Parmusi-IPKI dan Perti

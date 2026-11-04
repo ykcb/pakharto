@@ -2,6 +2,7 @@
 title: "1971-09-06 Petunjuk Umum Presiden Soeharto Untuk Delegasi RI Ke Majelis Umum Perserikatan Bangsa Bangsa Ke-26 – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-06-petunjuk-umum-presiden-soeharto-untuk-delegasi-ri-ke-majelis-umum-perserikatan-bangsa-bangsa-ke-26/"
 date: "2013-10-10T14:10:06+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-09-06 Petunjuk Umum Presiden Soeharto Untuk Delegasi RI Ke Majelis Umum Perserikatan Bangsa Bangsa Ke-26

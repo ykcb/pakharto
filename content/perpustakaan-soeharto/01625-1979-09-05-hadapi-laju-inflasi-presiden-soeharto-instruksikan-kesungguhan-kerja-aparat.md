@@ -2,6 +2,7 @@
 title: "1979-09-05 Hadapi Laju Inflasi, Presiden Soeharto Instruksikan Kesungguhan Kerja Aparat – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat/"
 date: "2017-08-22T11:52:48+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-05 Hadapi Laju Inflasi, Presiden Soeharto Instruksikan Kesungguhan Kerja Aparat

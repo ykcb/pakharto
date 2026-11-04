@@ -2,6 +2,7 @@
 title: "1975-08-12 Presiden Soeharto Instruksikan Waspadai Perkembangan Timor Portugis – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-12-presiden-soeharto-instruksikan-waspadai-perkembangan-timor-portugis/"
 date: "2017-08-22T17:46:13+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-08-12 Presiden Soeharto Instruksikan Waspadai Perkembangan Timor Portugis

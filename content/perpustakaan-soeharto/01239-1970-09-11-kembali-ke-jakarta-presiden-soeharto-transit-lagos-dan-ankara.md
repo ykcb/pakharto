@@ -2,6 +2,7 @@
 title: "1970-09-11 Kembali ke Jakarta, Presiden Soeharto Transit Lagos dan Ankara – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-11-kembali-ke-jakarta-presiden-soeharto-transit-lagos-dan-ankara/"
 date: "2017-08-22T17:35:53+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-11 Kembali ke Jakarta, Presiden Soeharto Transit Lagos dan Ankara

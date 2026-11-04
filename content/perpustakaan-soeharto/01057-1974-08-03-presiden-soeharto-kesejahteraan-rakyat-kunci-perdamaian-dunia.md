@@ -2,6 +2,7 @@
 title: "1974-08-03 Presiden Soeharto: Kesejahteraan Rakyat, Kunci Perdamaian Dunia – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-03-presiden-soeharto-kesejahteraan-rakyat-kunci-perdamaian-dunia/"
 date: "2017-08-23T11:35:14+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-08-03 Presiden Soeharto: Kesejahteraan Rakyat, Kunci Perdamaian Dunia

@@ -2,6 +2,7 @@
 title: "1974-10-20 Presiden Soeharto: Tugas Golkar Memupuk Semangat Pembangunan – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-20-presiden-soeharto-tugas-golkar-memupuk-semangat-pembangunan/"
 date: "2014-12-01T13:51:07+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-10-20 Presiden Soeharto: Tugas Golkar Memupuk Semangat Pembangunan

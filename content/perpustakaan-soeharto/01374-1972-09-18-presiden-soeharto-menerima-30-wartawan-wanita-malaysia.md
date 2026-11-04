@@ -2,6 +2,7 @@
 title: "1972-09-18 Presiden Soeharto Menerima 30 Wartawan Wanita Malaysia – HM Soeharto"
 source: "https://soehartolibrary.id/1972-09-18-presiden-soeharto-menerima-30-wartawan-wanita-malaysia/"
 date: "2017-08-23T11:03:10+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1972-09-18 Presiden Soeharto Menerima 30 Wartawan Wanita Malaysia

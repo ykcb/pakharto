@@ -2,6 +2,7 @@
 title: "JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 2) – HM Soeharto"
 source: "https://soehartolibrary.id/arif-bijaksana-dan-rendah-hati-bagian-2/"
 date: "2014-11-25T12:34:34+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/JB-Sumarlin.jpg)

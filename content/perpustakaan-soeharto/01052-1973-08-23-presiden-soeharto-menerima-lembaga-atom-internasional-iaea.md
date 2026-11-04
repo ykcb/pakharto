@@ -2,6 +2,7 @@
 title: "1973-08-23 Presiden Soeharto Menerima Lembaga Atom Internasional IAEA – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-23-presiden-soeharto-menerima-lembaga-atom-internasional-iaea/"
 date: "2017-08-23T11:36:05+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-08-23 Presiden Soeharto Menerima Lembaga Atom Internasional IAEA

@@ -2,6 +2,7 @@
 title: "1972-09-21 Kunjungi Dieng, Presiden Soeharto Serukan Rakyat Bekerja Giat – HM Soeharto"
 source: "https://soehartolibrary.id/1972-09-21-kunjungi-dieng-presiden-soeharto-serukan-rakyat-bekerja-keras/"
 date: "2017-08-23T11:02:36+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-09-21 Kunjungi Dieng, Presiden Soeharto Serukan Rakyat Bekerja Giat

@@ -2,6 +2,7 @@
 title: "1975-10-29 Presiden Soeharto Menerima Surat Kepercayaan Duta Besar Chili – HM Soeharto"
 source: "https://soehartolibrary.id/1975-10-29-presiden-soeharto-menerima-surat-kepercayaan-duta-besar-chili/"
 date: "2014-06-13T18:51:24+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-10-29 Presiden Soeharto Menerima Surat Kepercayaan Duta Besar Chili

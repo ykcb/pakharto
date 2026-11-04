@@ -2,6 +2,7 @@
 title: "1978-09-02 Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik Antar Negara Berkembang – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-02-presiden-soeharto-saatnya-meningkat-kerjasama-ekonomi-dan-teknik-antar-negara-berkembang/"
 date: "2017-08-22T16:10:13+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1978-09-02 Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik Antar Negara Berkembang

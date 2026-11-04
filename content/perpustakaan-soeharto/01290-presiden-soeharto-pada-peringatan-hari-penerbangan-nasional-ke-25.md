@@ -2,6 +2,7 @@
 title: "1971-04-09 Presiden Soeharto Pada Peringatan Hari Penerbangan Nasional Ke-25 – HM Soeharto"
 source: "https://soehartolibrary.id/presiden-soeharto-pada-peringatan-hari-penerbangan-nasional-ke-25/"
 date: "2013-09-10T06:25:19+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-04-09 Presiden Soeharto Pada Peringatan Hari Penerbangan Nasional Ke-25

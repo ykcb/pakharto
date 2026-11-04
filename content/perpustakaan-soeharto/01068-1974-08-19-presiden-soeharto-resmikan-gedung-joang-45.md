@@ -2,6 +2,7 @@
 title: "1974-08-19 Presiden Soeharto Resmikan Gedung Joang 45 – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-19-presiden-soeharto-resmikan-gedung-joang-45/"
 date: "2017-08-23T11:18:28+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-08-19 Presiden Soeharto Resmikan Gedung Joang 45

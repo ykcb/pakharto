@@ -2,6 +2,7 @@
 title: "1968-09-23 Presiden Soeharto Minta Pertimbangan Soal Hukuman Mati – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-23-presiden-soeharto-minta-pertimbangan-soal-hukuman-mati/"
 date: "2014-04-01T02:13:53+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-09-23 Presiden Soeharto Minta Pertimbangan Soal Hukuman Mati

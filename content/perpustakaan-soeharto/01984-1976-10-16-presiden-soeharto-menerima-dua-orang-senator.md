@@ -2,6 +2,7 @@
 title: "1976-10-16 Presiden Soeharto Menerima Dua orang senator AS – HM Soeharto"
 source: "https://soehartolibrary.id/1976-10-16-presiden-soeharto-menerima-dua-orang-senator/"
 date: "2014-06-13T18:48:42+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-10-16 Presiden Soeharto Menerima Dua orang senator AS

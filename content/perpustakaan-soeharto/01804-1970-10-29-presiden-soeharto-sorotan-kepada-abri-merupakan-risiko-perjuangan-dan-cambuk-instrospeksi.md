@@ -2,6 +2,7 @@
 title: "1970-10-29 Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan Dan Cambuk Instrospeksi – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-29-presiden-soeharto-sorotan-kepada-abri-merupakan-risiko-perjuangan-dan-cambuk-instrospeksi/"
 date: "2014-12-01T16:23:45+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1970-10-29 Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan Dan Cambuk Instrospeksi

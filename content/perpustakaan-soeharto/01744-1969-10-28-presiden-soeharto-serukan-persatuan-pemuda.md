@@ -2,6 +2,7 @@
 title: "1969-10-28 Presiden Soeharto Serukan Persatuan Pemuda – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-28-presiden-soeharto-serukan-persatuan-pemuda/"
 date: "2014-12-01T16:33:11+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-28 Presiden Soeharto Serukan Persatuan Pemuda

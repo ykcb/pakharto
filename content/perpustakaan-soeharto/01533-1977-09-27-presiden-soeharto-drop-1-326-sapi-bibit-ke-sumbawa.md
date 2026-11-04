@@ -2,6 +2,7 @@
 title: "1977-09-27 Presiden Soeharto Drop 1.326 Sapi Bibit Ke Sumbawa – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-27-presiden-soeharto-drop-1-326-sapi-bibit-ke-sumbawa/"
 date: "2017-08-22T16:11:25+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1977-09-27 Presiden Soeharto Drop 1.326 Sapi Bibit Ke Sumbawa

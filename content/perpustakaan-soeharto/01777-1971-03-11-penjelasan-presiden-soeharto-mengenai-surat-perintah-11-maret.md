@@ -2,6 +2,7 @@
 title: "1971-03-11 Penjelasan Presiden Soeharto Mengenai Surat Perintah 11 Maret  – HM Soeharto"
 source: "https://soehartolibrary.id/1971-03-11-penjelasan-presiden-soeharto-mengenai-surat-perintah-11-maret/"
 date: "2013-10-06T16:16:33+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-03-11 Penjelasan Presiden Soeharto Mengenai Surat Perintah 11 Maret

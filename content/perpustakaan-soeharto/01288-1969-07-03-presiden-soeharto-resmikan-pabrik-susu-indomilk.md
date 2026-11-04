@@ -2,6 +2,7 @@
 title: "1969-07-03 Presiden Soeharto Resmikan Pabrik Susu INDOMILK   – HM Soeharto"
 source: "https://soehartolibrary.id/1969-07-03-presiden-soeharto-resmikan-pabrik-susu-indomilk/"
 date: "2013-09-09T21:15:35+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1969-07-03 Presiden Soeharto Resmikan Pabrik Susu INDOMILK

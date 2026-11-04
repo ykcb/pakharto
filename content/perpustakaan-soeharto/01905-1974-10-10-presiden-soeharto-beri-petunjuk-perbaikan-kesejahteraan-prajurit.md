@@ -2,6 +2,7 @@
 title: "1974-10-10 Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit/"
 date: "2014-12-01T13:54:14+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1974-10-10 Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit

@@ -2,6 +2,7 @@
 title: "Merasa Mendapat Panggilan – HM Soeharto"
 source: "https://soehartolibrary.id/merasa-mendapat-panggilan/"
 date: "2018-01-10T19:03:52+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/DSC_0417_result.jpg)

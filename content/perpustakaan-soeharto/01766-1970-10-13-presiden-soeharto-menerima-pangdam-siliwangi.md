@@ -2,6 +2,7 @@
 title: "1970-10-13 Presiden Soeharto Menerima Pangdam Siliwangi – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-13-presiden-soeharto-menerima-pangdam-siliwangi/"
 date: "2014-12-01T16:26:17+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-10-13 Presiden Soeharto Menerima Pangdam Siliwangi

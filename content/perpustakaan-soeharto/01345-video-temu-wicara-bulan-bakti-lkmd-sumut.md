@@ -2,6 +2,7 @@
 title: "Video Temu Wicara Bulan Bakti LKMD Sumut – HM Soeharto"
 source: "https://soehartolibrary.id/video-temu-wicara-bulan-bakti-lkmd-sumut/"
 date: "2014-03-22T01:31:04+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # Video Temu Wicara Bulan Bakti LKMD Sumut

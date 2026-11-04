@@ -2,6 +2,7 @@
 title: "1968-10-09 Hadapi Lebaran, Pemerintah Putuskan Impor Terigu – HM Soeharto"
 source: "https://soehartolibrary.id/1968-10-09-hadapi-lebaran-pemerintah-putuskan-impor-terigu/"
 date: "2014-04-01T02:12:18+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-10-09 Hadapi Lebaran, Pemerintah Putuskan Impor Terigu

@@ -2,6 +2,7 @@
 title: "1975-08-08 Presiden Soeharto Menerima Menlu Korut dan Delegasi Pertanian Malagasi – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-08-presiden-soeharto-menerima-menlu-korut-dan-delegasi-pertanian-malagasi/"
 date: "2017-08-22T17:47:26+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-08-08 Presiden Soeharto Menerima Menlu Korut dan Delegasi Pertanian Malagasi

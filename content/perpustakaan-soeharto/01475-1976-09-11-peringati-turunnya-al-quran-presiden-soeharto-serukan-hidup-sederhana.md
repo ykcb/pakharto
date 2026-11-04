@@ -2,6 +2,7 @@
 title: "1976-09-11 Peringati Turunnya Al-Qur’an Presiden Soeharto Serukan Hidup Sederhana – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-11-peringati-turunnya-al-quran-presiden-soeharto-serukan-hidup-sederhana/"
 date: "2017-08-22T16:20:37+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-09-11 Peringati Turunnya Al-Qur’an Presiden Soeharto Serukan Hidup Sederhana

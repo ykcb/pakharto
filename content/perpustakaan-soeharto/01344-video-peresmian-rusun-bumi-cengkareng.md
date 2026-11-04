@@ -2,6 +2,7 @@
 title: "Video Peresmian Rusun Bumi Cengkareng – HM Soeharto"
 source: "https://soehartolibrary.id/video-peresmian-rusun-bumi-cengkareng/"
 date: "2014-03-22T01:31:20+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # Video Peresmian Rusun Bumi Cengkareng

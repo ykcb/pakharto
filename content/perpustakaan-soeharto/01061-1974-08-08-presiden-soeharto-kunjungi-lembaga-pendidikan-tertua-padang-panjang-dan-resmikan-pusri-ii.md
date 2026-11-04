@@ -2,6 +2,7 @@
 title: "1974-08-08 Presiden Soeharto Kunjungi Lembaga Pendidikan Tertua Padang Panjang dan Resmikan Pusri II – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-08-presiden-soeharto-kunjungi-lembaga-pendidikan-tertua-padang-panjang-dan-resmikan-pusri-ii/"
 date: "2017-08-23T11:19:23+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1974-08-08 Presiden Soeharto Kunjungi Lembaga Pendidikan Tertua Padang Panjang dan Resmikan Pusri II

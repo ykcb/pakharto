@@ -2,6 +2,7 @@
 title: "Menjelmakan Sumpah Gajah Mada – HM Soeharto"
 source: "https://soehartolibrary.id/menjelmakan-sumpah-gajah-mada/"
 date: "2018-01-19T15:03:20+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Menjelmakan Sumpah Gajah Mada

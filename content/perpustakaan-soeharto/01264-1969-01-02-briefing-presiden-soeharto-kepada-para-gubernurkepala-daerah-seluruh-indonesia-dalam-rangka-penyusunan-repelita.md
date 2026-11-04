@@ -2,6 +2,7 @@
 title: "1968-12-02 Briefing Presiden Soeharto Kepada Para Gubernur/Kepala Daerah Seluruh Indonesia Dalam Rangka Penyusunan Repelita – HM Soeharto"
 source: "https://soehartolibrary.id/1969-01-02-briefing-presiden-soeharto-kepada-para-gubernurkepala-daerah-seluruh-indonesia-dalam-rangka-penyusunan-repelita/"
 date: "2013-09-08T15:30:43+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-12-02 Briefing Presiden Soeharto Kepada Para Gubernur/Kepala Daerah Seluruh Indonesia Dalam Rangka Penyusunan Repelita

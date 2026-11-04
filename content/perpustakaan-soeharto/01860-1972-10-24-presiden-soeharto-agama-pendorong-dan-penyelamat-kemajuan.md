@@ -2,6 +2,7 @@
 title: "1972-10-24 Presiden Soeharto: Agama Pendorong dan Penyelamat Kemajuan – HM Soeharto"
 source: "https://soehartolibrary.id/1972-10-24-presiden-soeharto-agama-pendorong-dan-penyelamat-kemajuan/"
 date: "2014-12-01T16:09:14+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1972-10-24 Presiden Soeharto: Agama Pendorong dan Penyelamat Kemajuan

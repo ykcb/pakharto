@@ -2,6 +2,7 @@
 title: "1978-09-12 Presiden Soeharto Menerima Menteri Kerjasama Pembangunan Belanda dan Lantik Enam Duta Besar – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-12-presiden-soeharto-menerima-menteri-kerjasama-pembangunan-belanda-dan-lantik-enam-duta-besar/"
 date: "2017-08-22T16:09:07+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1978-09-12 Presiden Soeharto Menerima Menteri Kerjasama Pembangunan Belanda dan Lantik Enam Duta Besar

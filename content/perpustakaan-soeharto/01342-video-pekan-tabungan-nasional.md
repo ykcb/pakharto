@@ -2,6 +2,7 @@
 title: "Video Pekan Tabungan Nasional – HM Soeharto"
 source: "https://soehartolibrary.id/video-pekan-tabungan-nasional/"
 date: "2014-03-22T01:31:33+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # Video Pekan Tabungan Nasional

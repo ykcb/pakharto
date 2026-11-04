@@ -2,6 +2,7 @@
 title: "1968-09-11 Presiden Soeharto: RRI Wajib Beri Inspirasi Masyarakat – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-11-presiden-soeharto-rri-wajib-beri-inspirasi-masyarakat/"
 date: "2014-04-01T02:15:21+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-09-11 Presiden Soeharto: RRI Wajib Beri Inspirasi Masyarakat

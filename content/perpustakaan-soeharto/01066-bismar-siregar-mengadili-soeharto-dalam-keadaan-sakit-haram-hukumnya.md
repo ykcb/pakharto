@@ -2,6 +2,7 @@
 title: "Bismar Siregar: Mengadili Soeharto dalam Keadaan Sakit, Haram Hukumnya – HM Soeharto"
 source: "https://soehartolibrary.id/bismar-siregar-mengadili-soeharto-dalam-keadaan-sakit-haram-hukumnya/"
 date: "2013-08-25T03:28:06+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Bismar Siregar: Mengadili Soeharto dalam Keadaan Sakit, Haram Hukumnya

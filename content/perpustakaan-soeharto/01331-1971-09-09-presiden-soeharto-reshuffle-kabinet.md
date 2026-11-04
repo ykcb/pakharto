@@ -2,6 +2,7 @@
 title: "1971-09-09 Presiden Soeharto Reshuffle Kabinet – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-09-presiden-soeharto-reshuffle-kabinet/"
 date: "2014-03-21T23:13:50+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-09-09 Presiden Soeharto Reshuffle Kabinet

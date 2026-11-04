@@ -2,6 +2,7 @@
 title: "1974-10-18 Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis/"
 date: "2014-12-01T13:51:26+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-10-18 Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis

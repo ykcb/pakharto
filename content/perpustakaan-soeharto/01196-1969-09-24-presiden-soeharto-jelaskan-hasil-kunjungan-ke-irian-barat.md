@@ -2,6 +2,7 @@
 title: "1969-09-24 Presiden Soeharto Jelaskan Hasil Kunjungan Ke Irian Barat – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-24-presiden-soeharto-jelaskan-hasil-kunjungan-ke-irian-barat/"
 date: "2017-08-22T17:37:04+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-09-24 Presiden Soeharto Jelaskan Hasil Kunjungan Ke Irian Barat

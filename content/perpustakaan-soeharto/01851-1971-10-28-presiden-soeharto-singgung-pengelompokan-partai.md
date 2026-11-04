@@ -2,6 +2,7 @@
 title: "1971-10-28 Presiden Soeharto Singgung Pengelompokan Partai – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-28-presiden-soeharto-singgung-pengelompokan-partai/"
 date: "2014-12-01T16:20:38+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-10-28 Presiden Soeharto Singgung Pengelompokan Partai

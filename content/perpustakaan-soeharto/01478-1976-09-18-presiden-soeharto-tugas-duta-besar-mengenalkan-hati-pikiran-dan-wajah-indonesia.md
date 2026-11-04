@@ -2,6 +2,7 @@
 title: "1976-09-18 Presiden Soeharto: Tugas Duta Besar Mengenalkan Hati, Pikiran, Dan Wajah Indonesia – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-18-presiden-soeharto-tugas-duta-besar-mengenalkan-hati-pikiran-dan-wajah-indonesia/"
 date: "2014-03-21T23:12:54+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-09-18 Presiden Soeharto: Tugas Duta Besar Mengenalkan Hati, Pikiran, Dan Wajah Indonesia

@@ -2,6 +2,7 @@
 title: "1971-10-17 Resmikan Islamic Center, Presiden Soeharto: Pemerintah Mendorong Pembangunan Bidang Spiritual – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-17-resmikan-islamic-center-presiden-soeharto-pemerintah-mendorong-pembangunan-bidang-spiritual/"
 date: "2014-12-01T16:32:15+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-10-17 Resmikan Islamic Center, Presiden Soeharto: Pemerintah Mendorong Pembangunan Bidang Spiritual

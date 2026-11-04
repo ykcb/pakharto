@@ -2,6 +2,7 @@
 title: "1969-10-16 Presiden Soeharto Lanjutkan Konsultasi Dengan PSII-Partai Katolik dan Partai Murba – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-16-presiden-soeharto-lanjutkan-konsultasi-dengan-psii-partai-katolik-dan-partai-murba/"
 date: "2014-12-01T16:34:13+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-16 Presiden Soeharto Lanjutkan Konsultasi Dengan PSII-Partai Katolik dan Partai Murba

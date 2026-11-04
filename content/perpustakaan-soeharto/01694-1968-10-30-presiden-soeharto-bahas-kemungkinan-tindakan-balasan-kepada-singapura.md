@@ -2,6 +2,7 @@
 title: "1968-10-30 Presiden Soeharto Bahas Kemungkinan Tindakan Balasan Kepada Singapura – HM Soeharto"
 source: "https://soehartolibrary.id/1968-10-30-presiden-soeharto-bahas-kemungkinan-tindakan-balasan-kepada-singapura/"
 date: "2014-04-01T02:08:58+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-10-30 Presiden Soeharto Bahas Kemungkinan Tindakan Balasan Kepada Singapura

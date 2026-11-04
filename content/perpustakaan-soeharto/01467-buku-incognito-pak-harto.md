@@ -2,6 +2,7 @@
 title: "Buku Incognito Pak Harto – HM Soeharto"
 source: "https://soehartolibrary.id/buku-incognito-pak-harto/"
 date: "2017-08-22T16:17:10+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![Cover Buku Incognito Pak Harto](https://soehartolibrary.id/wp-content/uploads/2013/09/Cover-Buku-Incognito-Pak-Harto.jpg)

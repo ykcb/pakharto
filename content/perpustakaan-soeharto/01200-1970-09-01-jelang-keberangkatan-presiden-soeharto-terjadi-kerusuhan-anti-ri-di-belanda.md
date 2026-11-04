@@ -2,6 +2,7 @@
 title: "1970-09-01 Jelang Keberangkatan Presiden Soeharto, Terjadi Kerusuhan Anti RI di Belanda – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-01-jelang-keberangkatan-presiden-soeharto-terjadi-kerusuhan-anti-ri-di-belanda/"
 date: "2017-08-22T17:34:18+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-01 Jelang Keberangkatan Presiden Soeharto, Terjadi Kerusuhan Anti RI di Belanda

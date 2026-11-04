@@ -2,6 +2,7 @@
 title: "1975-09-01 Presiden Soeharto: Hubungan Antar Negara Harus Saling Menghormati – HM Soeharto"
 source: "https://soehartolibrary.id/1975-09-01-presiden-soeharto-hubungan-antar-negara-harus-saling-menghormati/"
 date: "2017-08-23T10:50:24+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-09-01 Presiden Soeharto: Hubungan Antar Negara Harus Saling Menghormati

@@ -2,6 +2,7 @@
 title: "1974-08-29 Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan Nusantara – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara/"
 date: "2017-08-23T11:17:24+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-08-29 Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan Nusantara

@@ -2,6 +2,7 @@
 title: "1974-09-11 Presiden Soeharto Lantik Tiga Duta Besar Baru – HM Soeharto"
 source: "https://soehartolibrary.id/1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru/"
 date: "2017-08-23T10:53:54+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-09-11 Presiden Soeharto Lantik Tiga Duta Besar Baru

@@ -2,6 +2,7 @@
 title: "1975-08-01 Presiden Soeharto Serahkan Bantuan Domba Australia Ke Enam Kab. Jabar – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-01-presiden-soeharto-serahkan-bantuan-domba-australia-ke-enam-kab-jabar/"
 date: "2017-08-23T11:16:14+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1975-08-01 Presiden Soeharto Serahkan Bantuan Domba Australia Ke Enam Kab. Jabar

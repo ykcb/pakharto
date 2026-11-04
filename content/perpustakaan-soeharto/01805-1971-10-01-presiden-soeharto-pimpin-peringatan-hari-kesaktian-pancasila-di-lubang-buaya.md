@@ -2,6 +2,7 @@
 title: "1971-10-01 Presiden Soeharto Pimpin Peringatan Hari Kesaktian Pancasila di Lubang Buaya – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-01-presiden-soeharto-pimpin-peringatan-hari-kesaktian-pancasila-di-lubang-buaya/"
 date: "2014-12-01T16:23:27+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-10-01 Presiden Soeharto Pimpin Peringatan Hari Kesaktian Pancasila di Lubang Buaya

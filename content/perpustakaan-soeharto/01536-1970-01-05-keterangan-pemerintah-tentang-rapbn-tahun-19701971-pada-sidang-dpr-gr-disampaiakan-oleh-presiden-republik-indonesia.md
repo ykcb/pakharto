@@ -2,6 +2,7 @@
 title: "1970-01-05 Keterangan Pemerintah Tentang RAPBN Tahun 1970/1971 Pada Sidang DPR GR Disampaiakan Oleh Presiden Republik Indonesia – HM Soeharto"
 source: "https://soehartolibrary.id/1970-01-05-keterangan-pemerintah-tentang-rapbn-tahun-19701971-pada-sidang-dpr-gr-disampaiakan-oleh-presiden-republik-indonesia/"
 date: "2013-09-23T14:44:23+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-01-05 Keterangan Pemerintah Tentang RAPBN Tahun 1970/1971 Pada Sidang DPR GR Disampaiakan Oleh Presiden Republik Indonesia

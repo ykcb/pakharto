@@ -2,6 +2,7 @@
 title: "1970-09-06 Sebelum Menuju Lusaka Presiden Soeharto Istirahat di Munich – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-06-sebelum-menuju-lusaka-presiden-soeharto-istirahat-di-munich/"
 date: "2017-08-22T17:34:47+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-06 Sebelum Menuju Lusaka Presiden Soeharto Istirahat di Munich

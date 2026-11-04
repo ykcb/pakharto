@@ -2,6 +2,7 @@
 title: "1979-09-04 Presiden Soeharto Menerima Penjelasan Duta Besar AS Dan Resmikan Gedung Bepeka – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-04-presiden-soeharto-menerima-penjelasan-duta-besar-dan-resmikan-gedung-bepeka/"
 date: "2017-08-22T12:07:20+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-04 Presiden Soeharto Menerima Penjelasan Duta Besar AS Dan Resmikan Gedung Bepeka

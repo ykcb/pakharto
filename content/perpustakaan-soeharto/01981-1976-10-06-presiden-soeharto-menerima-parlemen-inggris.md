@@ -2,6 +2,7 @@
 title: "1976-10-06 Presiden Soeharto Menerima Parlemen Inggris – HM Soeharto"
 source: "https://soehartolibrary.id/1976-10-06-presiden-soeharto-menerima-parlemen-inggris/"
 date: "2014-06-13T18:50:08+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-10-06 Presiden Soeharto Menerima Parlemen Inggris

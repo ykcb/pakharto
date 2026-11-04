@@ -2,6 +2,7 @@
 title: "1969-09-27 Jenderal Soeharto Tetapkan Kogar DKI di Bawah Menhankam/Pangab – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-27-jenderal-soeharto-tetapkan-kogar-dki-di-bawah-menhankampangab/"
 date: "2017-08-22T17:37:13+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-09-27 Jenderal Soeharto Tetapkan Kogar DKI di Bawah Menhankam/Pangab

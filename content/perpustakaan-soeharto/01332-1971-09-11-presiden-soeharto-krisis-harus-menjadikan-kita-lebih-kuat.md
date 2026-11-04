@@ -2,6 +2,7 @@
 title: "1971-09-11 Presiden Soeharto: Krisis Harus Menjadikan Kita Lebih Kuat – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-11-presiden-soeharto-krisis-harus-menjadikan-kita-lebih-kuat/"
 date: "2017-08-23T11:11:47+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-09-11 Presiden Soeharto: Krisis Harus Menjadikan Kita Lebih Kuat

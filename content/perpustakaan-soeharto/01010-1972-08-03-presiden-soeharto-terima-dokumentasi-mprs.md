@@ -2,6 +2,7 @@
 title: "1972-08-03 Presiden Soeharto Terima Dokumentasi MPRS – HM Soeharto"
 source: "https://soehartolibrary.id/1972-08-03-presiden-soeharto-terima-dokumentasi-mprs/"
 date: "2017-08-24T15:07:56+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-08-03 Presiden Soeharto Terima Dokumentasi MPRS

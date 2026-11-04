@@ -2,6 +2,7 @@
 title: "1971-10-06 Presiden Soeharto Bahas Perencanaan Personalia PNS dan Penyederhanaan Fraksi – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-06-presiden-soeharto-bahas-perencanaan-personalia-pns-dan-penyederhanaan-fraksi/"
 date: "2014-12-01T16:22:38+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-10-06 Presiden Soeharto Bahas Perencanaan Personalia PNS dan Penyederhanaan Fraksi

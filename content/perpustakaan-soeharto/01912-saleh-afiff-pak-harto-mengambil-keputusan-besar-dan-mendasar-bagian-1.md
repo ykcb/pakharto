@@ -2,6 +2,7 @@
 title: "Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 1) – HM Soeharto"
 source: "https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-1/"
 date: "2014-11-24T08:07:20+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0719_result.jpg)

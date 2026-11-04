@@ -2,6 +2,7 @@
 title: "1973-09-04 Presiden Soeharto Kecam “Jor-Joran Monopolis” dan “Pengkotak-Kotakan Rakyat” – HM Soeharto"
 source: "https://soehartolibrary.id/1973-09-04-presiden-soeharto-kecam-jor-joran-monopolis-dan-pengkotak-kotakan-rakyat/"
 date: "2017-08-23T11:01:33+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1973-09-04 Presiden Soeharto Kecam “Jor-Joran Monopolis” dan “Pengkotak-Kotakan Rakyat”

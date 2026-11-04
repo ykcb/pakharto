@@ -2,6 +2,7 @@
 title: "1979-09-19 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam/"
 date: "2014-12-01T16:37:29+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-19 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam

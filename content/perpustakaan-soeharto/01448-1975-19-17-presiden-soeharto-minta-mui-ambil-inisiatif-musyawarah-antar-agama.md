@@ -2,6 +2,7 @@
 title: "1975-19-17 Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama – HM Soeharto"
 source: "https://soehartolibrary.id/1975-19-17-presiden-soeharto-minta-mui-ambil-inisiatif-musyawarah-antar-agama/"
 date: "2017-08-22T16:19:36+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-19-17 Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama

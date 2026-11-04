@@ -2,6 +2,7 @@
 title: "1977-09-10 Menjadi Anggota DPR, Mashuri Melepaskan Jabatan Menteri Penerangan – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-10-menjadi-anggota-dpr-mashuri-melepaskan-jabatan-menteri-penerangan/"
 date: "2015-03-26T13:16:28+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-10 Menjadi Anggota DPR, Mashuri Melepaskan Jabatan Menteri Penerangan

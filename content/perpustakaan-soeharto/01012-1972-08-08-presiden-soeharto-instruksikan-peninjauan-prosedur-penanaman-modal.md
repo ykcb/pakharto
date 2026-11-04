@@ -2,6 +2,7 @@
 title: "1972-08-08 Presiden Soeharto Instruksikan Peninjauan Prosedur Penanaman Modal – HM Soeharto"
 source: "https://soehartolibrary.id/1972-08-08-presiden-soeharto-instruksikan-peninjauan-prosedur-penanaman-modal/"
 date: "2017-08-24T15:07:41+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-08-08 Presiden Soeharto Instruksikan Peninjauan Prosedur Penanaman Modal

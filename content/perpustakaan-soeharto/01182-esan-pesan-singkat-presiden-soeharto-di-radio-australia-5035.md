@@ -2,6 +2,7 @@
 title: "1968-08-17 Pesan Singkat Presiden Soeharto Di Radio Australia Sambut Ultah Kemerdekaan – HM Soeharto"
 source: "https://soehartolibrary.id/esan-pesan-singkat-presiden-soeharto-di-radio-australia-5035/"
 date: "2013-09-04T15:01:46+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-08-17 Pesan Singkat Presiden Soeharto Di Radio Australia Sambut Ultah Kemerdekaan

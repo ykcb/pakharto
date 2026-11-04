@@ -2,6 +2,7 @@
 title: "1977-09-26 Presiden Soeharto Serahkan Lukisan “Kematian Kumbakarna” Kepada UNESCO – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-26-presiden-soeharto-serahkan-lukisan-kematian-kumbakarna-kepada-unesco/"
 date: "2014-12-01T16:40:46+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-26 Presiden Soeharto Serahkan Lukisan “Kematian Kumbakarna” Kepada UNESCO

@@ -2,6 +2,7 @@
 title: "1970-10-08 Presiden Soeharto Menerima 400 Mahasiswa ITB – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-08-presiden-soeharto-menerima-400-mahasiswa-itb/"
 date: "2014-12-01T16:27:05+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-10-08 Presiden Soeharto Menerima 400 Mahasiswa ITB

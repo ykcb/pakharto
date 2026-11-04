@@ -2,6 +2,7 @@
 title: "1975-10-05 Presiden Soeharto: ABRI Harus Berani Melihat Kekuatan dan Kelemahan Dirinya – HM Soeharto"
 source: "https://soehartolibrary.id/1975-10-05-presiden-soeharto-abri-harus-berani-melihat-kekuatan-dan-kelemahan-dirinya/"
 date: "2014-06-13T18:54:10+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1975-10-05 Presiden Soeharto: ABRI Harus Berani Melihat Kekuatan dan Kelemahan Dirinya

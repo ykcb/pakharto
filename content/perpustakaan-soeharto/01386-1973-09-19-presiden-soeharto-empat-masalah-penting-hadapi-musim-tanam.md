@@ -2,6 +2,7 @@
 title: "1973-09-19 Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam – HM Soeharto"
 source: "https://soehartolibrary.id/1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam/"
 date: "2017-08-23T10:55:37+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1973-09-19 Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam

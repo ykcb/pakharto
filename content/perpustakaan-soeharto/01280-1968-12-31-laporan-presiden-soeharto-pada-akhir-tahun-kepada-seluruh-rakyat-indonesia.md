@@ -2,6 +2,7 @@
 title: "1968-12-31 Laporan Presiden Soeharto Pada Akhir Tahun Kepada Seluruh Rakyat Indonesia – HM Soeharto"
 source: "https://soehartolibrary.id/1968-12-31-laporan-presiden-soeharto-pada-akhir-tahun-kepada-seluruh-rakyat-indonesia/"
 date: "2013-09-08T16:29:59+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-12-31 Laporan Presiden Soeharto Pada Akhir Tahun Kepada Seluruh Rakyat Indonesia

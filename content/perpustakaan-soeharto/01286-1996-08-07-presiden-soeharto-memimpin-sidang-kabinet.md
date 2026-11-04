@@ -2,6 +2,7 @@
 title: "1996-08-07 Presiden Soeharto Memimpin Sidang Kabinet – HM Soeharto"
 source: "https://soehartolibrary.id/1996-08-07-presiden-soeharto-memimpin-sidang-kabinet/"
 date: "2013-09-09T13:47:18+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1996-08-07 Presiden Soeharto Memimpin Sidang Kabinet

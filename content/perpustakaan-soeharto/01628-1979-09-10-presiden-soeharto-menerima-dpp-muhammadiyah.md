@@ -2,6 +2,7 @@
 title: "1979-09-10 Presiden Soeharto Menerima DPP Muhammadiyah – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-10-presiden-soeharto-menerima-dpp-muhammadiyah/"
 date: "2014-11-21T06:19:52+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-10 Presiden Soeharto Menerima DPP Muhammadiyah

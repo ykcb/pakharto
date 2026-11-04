@@ -2,6 +2,7 @@
 title: "1970-09-16 Presiden Soeharto Menerima Ketua Parlemen India – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-16-presiden-soeharto-menerima-ketua-parlemen-india/"
 date: "2017-08-22T17:36:02+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-16 Presiden Soeharto Menerima Ketua Parlemen India

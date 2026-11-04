@@ -2,6 +2,7 @@
 title: "1975-10-02 Presiden Soeharto Beri Bantuan Pengungsi Timor Portugis dan Masjid Tabanan Bali – HM Soeharto"
 source: "https://soehartolibrary.id/1975-10-02-presiden-soeharto-beri-bantuan-pengungsi-timor-portugis-dan-masjid-tabanan-bali/"
 date: "2014-06-13T18:54:31+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1975-10-02 Presiden Soeharto Beri Bantuan Pengungsi Timor Portugis dan Masjid Tabanan Bali

@@ -2,6 +2,7 @@
 title: "1973-08-08 Presiden Soeharto Lantik Ketua dan Anggota DPA – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa/"
 date: "2017-08-23T11:37:06+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-08-08 Presiden Soeharto Lantik Ketua dan Anggota DPA

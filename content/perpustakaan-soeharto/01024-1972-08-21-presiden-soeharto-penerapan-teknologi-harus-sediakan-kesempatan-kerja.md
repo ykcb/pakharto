@@ -2,6 +2,7 @@
 title: "1972-08-21 Presiden Soeharto: Penerapan Teknologi Harus Sediakan Kesempatan Kerja – HM Soeharto"
 source: "https://soehartolibrary.id/1972-08-21-presiden-soeharto-penerapan-teknologi-harus-sediakan-kesempatan-kerja/"
 date: "2017-08-24T15:06:26+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1972-08-21 Presiden Soeharto: Penerapan Teknologi Harus Sediakan Kesempatan Kerja

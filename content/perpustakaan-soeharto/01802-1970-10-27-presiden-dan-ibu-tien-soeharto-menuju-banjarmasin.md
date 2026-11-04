@@ -2,6 +2,7 @@
 title: "1970-10-27 Presiden dan Ibu Tien Soeharto Menuju Banjarmasin – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-27-presiden-dan-ibu-tien-soeharto-menuju-banjarmasin/"
 date: "2014-12-01T16:24:14+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1970-10-27 Presiden dan Ibu Tien Soeharto Menuju Banjarmasin

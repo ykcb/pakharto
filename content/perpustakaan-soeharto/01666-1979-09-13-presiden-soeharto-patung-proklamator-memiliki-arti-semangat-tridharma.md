@@ -2,6 +2,7 @@
 title: "1979-09-13 Presiden Soeharto: Patung Proklamator Memiliki Arti Semangat Tridharma – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-13-presiden-soeharto-patung-proklamator-memiliki-arti-semangat-tridharma/"
 date: "2017-08-22T12:08:41+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-13 Presiden Soeharto: Patung Proklamator Memiliki Arti Semangat Tridharma

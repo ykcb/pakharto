@@ -2,6 +2,7 @@
 title: "1969-09-17 Presiden Soeharto Rapat Umum di Merauke – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-17-presiden-soeharto-rapat-umum-di-merauke/"
 date: "2017-08-22T17:38:07+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-09-17 Presiden Soeharto Rapat Umum di Merauke

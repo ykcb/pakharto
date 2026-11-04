@@ -2,6 +2,7 @@
 title: "1974-09-30 Presiden Soeharto: Indonesia Tidak Ingin Laut Sekitar Jadi Ajang Pertentangan – HM Soeharto"
 source: "https://soehartolibrary.id/1974-09-30-presiden-soeharto-indonesia-tidak-ingin-laut-sekitar-jadi-ajang-pertentangan/"
 date: "2017-08-23T10:51:29+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-09-30 Presiden Soeharto: Indonesia Tidak Ingin Laut Sekitar Jadi Ajang Pertentangan

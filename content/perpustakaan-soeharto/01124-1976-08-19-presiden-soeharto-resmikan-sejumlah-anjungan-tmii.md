@@ -2,6 +2,7 @@
 title: "1976-08-19 Presiden Soeharto Resmikan Sejumlah Anjungan TMII – HM Soeharto"
 source: "https://soehartolibrary.id/1976-08-19-presiden-soeharto-resmikan-sejumlah-anjungan-tmii/"
 date: "2017-08-22T17:43:16+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1976-08-19 Presiden Soeharto Resmikan Sejumlah Anjungan TMII

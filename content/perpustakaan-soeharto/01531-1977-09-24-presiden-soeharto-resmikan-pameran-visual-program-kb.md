@@ -2,6 +2,7 @@
 title: "1977-09-24 Presiden Soeharto Resmikan Pameran Visual Program KB – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-24-presiden-soeharto-resmikan-pameran-visual-program-kb/"
 date: "2017-08-22T16:11:46+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1977-09-24 Presiden Soeharto Resmikan Pameran Visual Program KB

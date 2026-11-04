@@ -2,6 +2,7 @@
 title: "1981-10-01 Presiden Soeharto Hadiri Hari Kesaktian Pancasila Tahun 1981 – HM Soeharto"
 source: "https://soehartolibrary.id/1981-10-01-presiden-soeharto-hadiri-hari-kesaktian-pancasila-tahun-1981/"
 date: "2013-09-12T17:49:42+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1981-10-01 Presiden Soeharto Hadiri Hari Kesaktian Pancasila Tahun 1981

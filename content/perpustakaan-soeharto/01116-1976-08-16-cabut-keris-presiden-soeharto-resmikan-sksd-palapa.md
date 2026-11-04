@@ -2,6 +2,7 @@
 title: "1976-08-16 Cabut Keris, Presiden Soeharto Resmikan SKSD Palapa – HM Soeharto"
 source: "https://soehartolibrary.id/1976-08-16-cabut-keris-presiden-soeharto-resmikan-sksd-palapa/"
 date: "2014-03-21T23:15:48+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-08-16 Cabut Keris, Presiden Soeharto Resmikan SKSD Palapa

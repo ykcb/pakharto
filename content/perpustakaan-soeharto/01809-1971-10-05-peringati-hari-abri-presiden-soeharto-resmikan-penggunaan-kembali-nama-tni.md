@@ -2,6 +2,7 @@
 title: "1971-10-05 Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali Nama TNI – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-05-peringati-hari-abri-presiden-soeharto-resmikan-penggunaan-kembali-nama-tni/"
 date: "2014-12-01T16:22:57+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1971-10-05 Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali Nama TNI

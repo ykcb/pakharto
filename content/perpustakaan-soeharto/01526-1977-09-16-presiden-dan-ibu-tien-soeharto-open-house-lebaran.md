@@ -2,6 +2,7 @@
 title: "1977-09-16 Presiden dan Ibu Tien Soeharto Open House Lebaran – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-16-presiden-dan-ibu-tien-soeharto-open-house-lebaran/"
 date: "2017-08-22T16:12:33+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1977-09-16 Presiden dan Ibu Tien Soeharto Open House Lebaran

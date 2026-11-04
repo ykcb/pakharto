@@ -2,6 +2,7 @@
 title: "1968-09-18 Presiden Soeharto: Pemerintah Tidak Pengaruhi Proses Hukum – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-18-presiden-soeharto-pemerintah-tidak-pengaruhi-proses-hukum/"
 date: "2014-04-01T02:14:47+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-09-18 Presiden Soeharto: Pemerintah Tidak Pengaruhi Proses Hukum

@@ -2,6 +2,7 @@
 title: "1973-08-13 Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi Kesalahan – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-13-presiden-soeharto-kerjasama-yang-baik-bukan-untuk-saling-menutupi-kesalahan/"
 date: "2017-08-23T11:36:41+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-08-13 Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi Kesalahan

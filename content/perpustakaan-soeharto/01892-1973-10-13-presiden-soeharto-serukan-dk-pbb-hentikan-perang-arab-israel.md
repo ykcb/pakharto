@@ -2,6 +2,7 @@
 title: "1973-10-13 Presiden Soeharto Serukan DK PBB Hentikan Perang Arab-Israel – HM Soeharto"
 source: "https://soehartolibrary.id/1973-10-13-presiden-soeharto-serukan-dk-pbb-hentikan-perang-arab-israel/"
 date: "2014-12-01T14:04:06+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-10-13 Presiden Soeharto Serukan DK PBB Hentikan Perang Arab-Israel

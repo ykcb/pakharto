@@ -2,6 +2,7 @@
 title: "1968-03-28 Statemen Presiden Soeharto di Haneda Jepang – HM Soeharto"
 source: "https://soehartolibrary.id/1968-03-28-statemen-presiden-soeharto-di-haneda-jepang/"
 date: "2013-08-18T20:07:29+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-03-28 Statemen Presiden Soeharto di Haneda Jepang

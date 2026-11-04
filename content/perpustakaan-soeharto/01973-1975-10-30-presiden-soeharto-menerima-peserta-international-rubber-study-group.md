@@ -2,6 +2,7 @@
 title: "1975-10-30 Presiden Soeharto Menerima Peserta International Rubber Study Group – HM Soeharto"
 source: "https://soehartolibrary.id/1975-10-30-presiden-soeharto-menerima-peserta-international-rubber-study-group/"
 date: "2014-06-13T18:51:07+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-10-30 Presiden Soeharto Menerima Peserta International Rubber Study Group

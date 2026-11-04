@@ -2,6 +2,7 @@
 title: "1978-09-30 Presiden Soeharto Instruksikan Pengembangan Geothermal – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-30-presiden-soeharto-instruksikan-pengembangan-geothermal/"
 date: "2017-08-22T11:53:09+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1978-09-30 Presiden Soeharto Instruksikan Pengembangan Geothermal

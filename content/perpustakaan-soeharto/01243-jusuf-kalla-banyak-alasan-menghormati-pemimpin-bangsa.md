@@ -2,6 +2,7 @@
 title: "Jusuf Kalla: Banyak Alasan Menghormati Pemimpin Bangsa – HM Soeharto"
 source: "https://soehartolibrary.id/jusuf-kalla-banyak-alasan-menghormati-pemimpin-bangsa/"
 date: "2013-09-07T13:23:00+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Jusuf Kalla: Banyak Alasan Menghormati Pemimpin Bangsa

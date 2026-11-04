@@ -2,6 +2,7 @@
 title: "1971-08-24 Presiden Soeharto Buka POM IX Palembang – HM Soeharto"
 source: "https://soehartolibrary.id/1971-08-24-presiden-soeharto-buka-pom-ix-palembang/"
 date: "2017-08-24T15:09:28+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-08-24 Presiden Soeharto Buka POM IX Palembang

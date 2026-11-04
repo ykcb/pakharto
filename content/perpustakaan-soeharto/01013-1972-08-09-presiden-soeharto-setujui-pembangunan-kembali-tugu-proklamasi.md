@@ -2,6 +2,7 @@
 title: "1972-08-09 Presiden Soeharto Setujui Pembangunan kembali Tugu Proklamasi – HM Soeharto"
 source: "https://soehartolibrary.id/1972-08-09-presiden-soeharto-setujui-pembangunan-kembali-tugu-proklamasi/"
 date: "2017-08-24T15:07:32+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1972-08-09 Presiden Soeharto Setujui Pembangunan kembali Tugu Proklamasi

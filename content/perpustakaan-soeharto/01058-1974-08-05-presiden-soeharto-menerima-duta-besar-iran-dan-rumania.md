@@ -2,6 +2,7 @@
 title: "1974-08-05 Presiden Soeharto Menerima Duta Besar Iran dan Rumania – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-05-presiden-soeharto-menerima-duta-besar-iran-dan-rumania/"
 date: "2017-08-23T11:34:33+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-08-05 Presiden Soeharto Menerima Duta Besar Iran dan Rumania

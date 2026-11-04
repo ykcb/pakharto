@@ -2,6 +2,7 @@
 title: "1972-10-16 Presiden Soeharto: Indonesia Tidak Mudah Melupakan Bantuan Peking Terhadap Kudeta PKI – HM Soeharto"
 source: "https://soehartolibrary.id/1972-10-16-presiden-soeharto-indonesia-tidak-mudah-melupakan-bantuan-peking-terhadap-kudeta-pki/"
 date: "2015-02-20T01:01:28+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1972-10-16 Presiden Soeharto: Indonesia Tidak Mudah Melupakan Bantuan Peking Terhadap Kudeta PKI

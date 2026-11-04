@@ -2,6 +2,7 @@
 title: "1975-08-09 Menuju Lampung, Presiden Soeharto Resmikan Pabrik Sepeda – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-09-menuju-lampung-presiden-soeharto-resmikan-pabrik-sepeda/"
 date: "2017-08-22T17:47:13+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1975-08-09 Menuju Lampung, Presiden Soeharto Resmikan Pabrik Sepeda

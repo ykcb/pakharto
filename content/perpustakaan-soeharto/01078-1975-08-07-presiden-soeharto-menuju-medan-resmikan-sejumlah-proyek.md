@@ -2,6 +2,7 @@
 title: "1975-08-07 Presiden Soeharto Menuju Medan Resmikan Sejumlah Proyek – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-07-presiden-soeharto-menuju-medan-resmikan-sejumlah-proyek/"
 date: "2017-08-23T11:15:10+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-08-07 Presiden Soeharto Menuju Medan Resmikan Sejumlah Proyek

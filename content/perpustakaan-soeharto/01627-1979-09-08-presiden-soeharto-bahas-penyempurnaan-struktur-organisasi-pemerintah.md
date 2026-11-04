@@ -2,6 +2,7 @@
 title: "1979-09-08 Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah/"
 date: "2017-08-22T11:52:30+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-08 Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah

@@ -2,6 +2,7 @@
 title: "Video Kunjungan Pak Harto Ke Kuala Lumpur – HM Soeharto"
 source: "https://soehartolibrary.id/video-kunjungan-pak-harto-ke-kuala-lumpur/"
 date: "2014-03-22T01:32:10+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Video Kunjungan Pak Harto Ke Kuala Lumpur

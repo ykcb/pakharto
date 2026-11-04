@@ -2,6 +2,7 @@
 title: "1972-01-05 Keterangan Pemerintah Tentang RAPBN 1972/1973 Pada Sidang DPR-GR – HM Soeharto"
 source: "https://soehartolibrary.id/1972-01-05-keterangan-pemerintah-tentang-rapbn-19721973-pada-sidang-dpr-gr/"
 date: "2013-10-14T23:23:07+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-01-05 Keterangan Pemerintah Tentang RAPBN 1972/1973 Pada Sidang DPR-GR

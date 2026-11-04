@@ -2,6 +2,7 @@
 title: "Aku Tak Peduli Kata Mereka – HM Soeharto"
 source: "https://soehartolibrary.id/aku-tak-peduli-kata-mereka/"
 date: "2013-08-24T05:31:19+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Aku Tak Peduli Kata Mereka

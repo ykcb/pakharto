@@ -2,6 +2,7 @@
 title: "Tuntutan Reformasi Berlebihan – HM Soeharto"
 source: "https://soehartolibrary.id/tuntutan-reformasi-berlebihan/"
 date: "2017-07-04T12:30:14+07:00"
+kategori: krisis-dan-reformasi
 ---
 
 # Tuntutan Reformasi Berlebihan

@@ -2,6 +2,7 @@
 title: "1970-10-26 Resmikan Pabrik Tekstil di Bandung, Presiden Soeharto Ajak Gunakan Produksi Dalam Negeri – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-26-resmikan-pabrik-tekstil-di-bandung-presiden-soeharto-ajak-gunakan-produksi-dalam-negeri/"
 date: "2014-12-01T16:24:30+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1970-10-26 Resmikan Pabrik Tekstil di Bandung, Presiden Soeharto Ajak Gunakan Produksi Dalam Negeri

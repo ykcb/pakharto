@@ -2,6 +2,7 @@
 title: "1979-09-15 Presiden Soeharto: Pramuka Gembleng Manusia Pembangunan Paripurna – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-15-presiden-soeharto-pramuka-gembleng-manusia-pembangunan-paripurna/"
 date: "2014-12-01T16:38:57+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1979-09-15 Presiden Soeharto: Pramuka Gembleng Manusia Pembangunan Paripurna

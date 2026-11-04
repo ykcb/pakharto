@@ -2,6 +2,7 @@
 title: "1976-09-21 Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa Keluarganya – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-21-presiden-soeharto-instruksikan-pejabat-tidak-perlakuan-istimewa-keluarganya/"
 date: "2017-07-05T15:33:05+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-09-21 Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa Keluarganya

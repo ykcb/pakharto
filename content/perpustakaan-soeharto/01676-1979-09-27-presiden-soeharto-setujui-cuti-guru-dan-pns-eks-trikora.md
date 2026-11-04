@@ -2,6 +2,7 @@
 title: "1979-09-27 Presiden Soeharto Setujui Cuti Guru dan PNS Eks Trikora – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-27-presiden-soeharto-setujui-cuti-guru-dan-pns-eks-trikora/"
 date: "2014-12-01T16:36:48+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-27 Presiden Soeharto Setujui Cuti Guru dan PNS Eks Trikora

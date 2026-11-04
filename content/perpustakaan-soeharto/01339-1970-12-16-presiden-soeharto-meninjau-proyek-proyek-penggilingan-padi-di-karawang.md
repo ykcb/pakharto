@@ -2,6 +2,7 @@
 title: "1970-12-16 Presiden Soeharto Meninjau Proyek-Proyek Penggilingan Padi di Karawang – HM Soeharto"
 source: "https://soehartolibrary.id/1970-12-16-presiden-soeharto-meninjau-proyek-proyek-penggilingan-padi-di-karawang/"
 date: "2013-09-12T19:00:47+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1970-12-16 Presiden Soeharto Meninjau Proyek-Proyek Penggilingan Padi di Karawang

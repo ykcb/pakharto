@@ -2,6 +2,7 @@
 title: "1973-08-16 Presiden Soeharto: Kita Diselimuti Keprihatinan, Tapi Juga Terlihat Sinar-Sinar Harapan – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-16-presiden-soeharto-kita-diselimuti-keprihatinan-tapi-juga-terlihat-sinar-sinar-harapan/"
 date: "2017-08-23T11:36:26+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-08-16 Presiden Soeharto: Kita Diselimuti Keprihatinan, Tapi Juga Terlihat Sinar-Sinar Harapan

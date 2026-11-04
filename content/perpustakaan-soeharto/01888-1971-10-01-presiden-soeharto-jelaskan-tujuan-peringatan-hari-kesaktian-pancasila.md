@@ -2,6 +2,7 @@
 title: "1971-10-01 Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila/"
 date: "2014-12-01T14:13:46+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-10-01 Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila

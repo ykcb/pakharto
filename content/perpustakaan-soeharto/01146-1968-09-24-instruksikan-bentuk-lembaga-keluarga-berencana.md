@@ -2,6 +2,7 @@
 title: "1968-09-24 Instruksikan Bentuk Lembaga Keluarga Berencana – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-24-instruksikan-bentuk-lembaga-keluarga-berencana/"
 date: "2015-03-26T13:13:28+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1968-09-24 Instruksikan Bentuk Lembaga Keluarga Berencana

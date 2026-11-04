@@ -2,6 +2,7 @@
 title: "1971-07-01 Presiden Soeharto Resmikan STM Pembangunan Jalan Pemuda   – HM Soeharto"
 source: "https://soehartolibrary.id/1971-07-01-presiden-soeharto-resmikan-stm-pembangunan-jalan-pemuda/"
 date: "2013-09-10T00:58:39+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-07-01 Presiden Soeharto Resmikan STM Pembangunan Jalan Pemuda

@@ -2,6 +2,7 @@
 title: "1969-10-08 Presiden Soeharto Bersedia Menjadi Pelindung Festival Film Asia – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-08-presiden-soeharto-bersedia-menjadi-pelindung-festival-film-asia/"
 date: "2014-12-01T16:35:40+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-08 Presiden Soeharto Bersedia Menjadi Pelindung Festival Film Asia

@@ -2,6 +2,7 @@
 title: "Mengenai Mereka yang Keturunan Cina – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-17-mengenai-mereka-yang-keturunan-cina/"
 date: "2018-01-19T14:47:56+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Mengenai Mereka yang Keturunan Cina

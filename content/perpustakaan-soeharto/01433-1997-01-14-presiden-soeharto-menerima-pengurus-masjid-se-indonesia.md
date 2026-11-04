@@ -2,6 +2,7 @@
 title: "1997-01-14 Presiden Soeharto Menerima Pengurus Masjid Se-Indonesia   – HM Soeharto"
 source: "https://soehartolibrary.id/1997-01-14-presiden-soeharto-menerima-pengurus-masjid-se-indonesia/"
 date: "2013-09-17T16:14:26+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1997-01-14 Presiden Soeharto Menerima Pengurus Masjid Se-Indonesia

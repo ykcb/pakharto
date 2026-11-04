@@ -2,6 +2,7 @@
 title: "1972-10-30 Presiden Soeharto Menerima Direktur AID – HM Soeharto"
 source: "https://soehartolibrary.id/1972-10-30-presiden-soeharto-menerima-direktur-aid/"
 date: "2014-12-01T16:07:05+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-10-30 Presiden Soeharto Menerima Direktur AID

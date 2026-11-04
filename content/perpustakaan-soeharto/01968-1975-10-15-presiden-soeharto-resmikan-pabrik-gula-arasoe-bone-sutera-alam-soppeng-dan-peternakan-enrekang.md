@@ -2,6 +2,7 @@
 title: "1975-10-15 Presiden Soeharto resmikan Pabrik Gula Arasoe Bone, Sutera Alam Soppeng dan Peternakan Enrekang – HM Soeharto"
 source: "https://soehartolibrary.id/1975-10-15-presiden-soeharto-resmikan-pabrik-gula-arasoe-bone-sutera-alam-soppeng-dan-peternakan-enrekang/"
 date: "2014-06-13T18:52:37+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1975-10-15 Presiden Soeharto resmikan Pabrik Gula Arasoe Bone, Sutera Alam Soppeng dan Peternakan Enrekang

@@ -2,6 +2,7 @@
 title: "1974-08-22 Presiden Soeharto Menerima Menko Ekuin dan Gubernur BI – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-22-presiden-soeharto-menerima-menko-ekuin-dan-gubernur-bi/"
 date: "2017-08-23T11:18:16+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1974-08-22 Presiden Soeharto Menerima Menko Ekuin dan Gubernur BI

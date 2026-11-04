@@ -2,6 +2,7 @@
 title: "1978-09-06 Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-06-presiden-soeharto-menerima-laporan-sikap-soviet-soal-timor-timur/"
 date: "2017-08-22T16:09:55+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1978-09-06 Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur

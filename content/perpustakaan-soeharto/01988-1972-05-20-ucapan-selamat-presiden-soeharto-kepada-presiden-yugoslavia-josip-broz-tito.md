@@ -2,6 +2,7 @@
 title: "1972-05-20  Ucapan Selamat Presiden Soeharto Kepada Presiden Yugoslavia Josip Broz Tito – HM Soeharto"
 source: "https://soehartolibrary.id/1972-05-20-ucapan-selamat-presiden-soeharto-kepada-presiden-yugoslavia-josip-broz-tito/"
 date: "2013-10-19T05:02:07+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-05-20 Ucapan Selamat Presiden Soeharto Kepada Presiden Yugoslavia Josip Broz Tito

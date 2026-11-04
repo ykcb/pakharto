@@ -2,6 +2,7 @@
 title: "1968-10-17 Presiden Soeharto Putuskan Angkat Usman dan Harun Jadi Pahlawan – HM Soeharto"
 source: "https://soehartolibrary.id/1968-10-17-presiden-soeharto-putuskan-angkat-usman-dan-harun-jadi-pahlawan/"
 date: "2014-04-01T02:11:30+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-10-17 Presiden Soeharto Putuskan Angkat Usman dan Harun Jadi Pahlawan

@@ -2,6 +2,7 @@
 title: "1973-08-26 Presiden Soeharto Hadiri Peringatan Isra’ Mi’raj di Masjid Istiqlal – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-26-presiden-soeharto-hadiri-peringatan-isra-miraj-di-masjid-istiqlal/"
 date: "2017-08-23T11:35:38+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-08-26 Presiden Soeharto Hadiri Peringatan Isra’ Mi’raj di Masjid Istiqlal

@@ -2,6 +2,7 @@
 title: "Renungan di Tengah Keluarga – HM Soeharto"
 source: "https://soehartolibrary.id/renungan-di-tengah-keluarga/"
 date: "2018-01-19T14:36:58+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0684_result.jpg)

@@ -2,6 +2,7 @@
 title: "1976-09-06 Presiden Soeharto Bahas Kendala Pengangkutan LNG – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-06-presiden-soeharto-bahas-kendala-pengangkutan-lng/"
 date: "2017-08-22T16:20:28+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-09-06 Presiden Soeharto Bahas Kendala Pengangkutan LNG

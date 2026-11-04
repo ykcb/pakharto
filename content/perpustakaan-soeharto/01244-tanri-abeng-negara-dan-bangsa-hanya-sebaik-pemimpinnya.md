@@ -2,6 +2,7 @@
 title: "Tanri Abeng: Negara dan Bangsa Hanya Sebaik Pemimpinnya – HM Soeharto"
 source: "https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/"
 date: "2013-09-07T13:36:34+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Tanri Abeng: Negara dan Bangsa Hanya Sebaik Pemimpinnya

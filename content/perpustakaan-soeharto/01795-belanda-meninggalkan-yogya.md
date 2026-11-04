@@ -2,6 +2,7 @@
 title: "Belanda Meninggalkan Yogya – HM Soeharto"
 source: "https://soehartolibrary.id/belanda-meninggalkan-yogya/"
 date: "2018-01-10T19:11:03+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0434_result.jpg)

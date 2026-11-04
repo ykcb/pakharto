@@ -2,6 +2,7 @@
 title: "Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 1) – HM Soeharto"
 source: "https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/"
 date: "2014-11-25T12:36:36+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/83330011_result.jpg)

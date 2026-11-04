@@ -2,6 +2,7 @@
 title: "1972-08-15 Presiden Soeharto Anugerahi Dr. Mohammad Hatta Bintang RI Kelas I – HM Soeharto"
 source: "https://soehartolibrary.id/1972-08-15-presiden-soeharto-anugerahi-dr-mohammad-hatta-bintang-ri-kelas-i/"
 date: "2017-08-24T15:06:47+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-08-15 Presiden Soeharto Anugerahi Dr. Mohammad Hatta Bintang RI Kelas I

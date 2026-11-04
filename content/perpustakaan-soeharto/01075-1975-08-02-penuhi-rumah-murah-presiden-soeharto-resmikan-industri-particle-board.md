@@ -2,6 +2,7 @@
 title: "1975-08-02 Penuhi Rumah Murah, Presiden Soeharto Resmikan Industri Particle Board – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-02-penuhi-rumah-murah-presiden-soeharto-resmikan-industri-particle-board/"
 date: "2017-08-23T11:16:40+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1975-08-02 Penuhi Rumah Murah, Presiden Soeharto Resmikan Industri Particle Board

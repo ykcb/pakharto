@@ -2,6 +2,7 @@
 title: "1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-01-presiden-soeharto-resmikan-relief-pahlawan-revolusi/"
 date: "2014-04-01T02:12:59+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi

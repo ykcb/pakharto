@@ -2,6 +2,7 @@
 title: "1972-09-20 Presiden Soeharto Resmikan Jembatan Kereta Api Serayu – HM Soeharto"
 source: "https://soehartolibrary.id/1972-09-20-presiden-soeharto-resmikan-jembatan-kereta-api-serayu/"
 date: "2017-08-23T11:02:47+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1972-09-20 Presiden Soeharto Resmikan Jembatan Kereta Api Serayu

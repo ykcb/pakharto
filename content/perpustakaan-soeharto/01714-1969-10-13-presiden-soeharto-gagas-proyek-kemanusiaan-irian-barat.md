@@ -2,6 +2,7 @@
 title: "1969-10-13 Presiden Soeharto Gagas Proyek Kemanusiaan Irian Barat – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-13-presiden-soeharto-gagas-proyek-kemanusiaan-irian-barat/"
 date: "2014-12-01T16:34:54+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-13 Presiden Soeharto Gagas Proyek Kemanusiaan Irian Barat

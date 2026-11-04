@@ -2,6 +2,7 @@
 title: "1975-09-03 Menuju Denpasar, Presiden Soeharto Temui Lee Kuan Yew – HM Soeharto"
 source: "https://soehartolibrary.id/1975-09-03-menuju-denpasar-presiden-soeharto-temui-lee-kuan-yew/"
 date: "2017-08-23T10:50:46+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-09-03 Menuju Denpasar, Presiden Soeharto Temui Lee Kuan Yew

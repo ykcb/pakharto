@@ -2,6 +2,7 @@
 title: "Diangkatlah Saya Jadi Presiden RI yang Kedua – HM Soeharto"
 source: "https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/"
 date: "2018-01-10T19:01:30+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0741_result.jpg)

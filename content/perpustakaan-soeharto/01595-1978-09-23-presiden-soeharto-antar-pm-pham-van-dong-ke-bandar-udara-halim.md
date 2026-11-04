@@ -2,6 +2,7 @@
 title: "1978-09-23 Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim/"
 date: "2017-08-22T12:04:46+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1978-09-23 Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim

@@ -2,6 +2,7 @@
 title: "1973-08-17 Presiden dan Ibu Tien Soeharto Hadiri renungan Suci dan Detik-Detik Proklamasi – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-17-presiden-dan-ibu-tien-soeharto-hadiri-renungan-suci-dan-detik-detik-proklamasi/"
 date: "2017-08-23T11:36:33+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-08-17 Presiden dan Ibu Tien Soeharto Hadiri renungan Suci dan Detik-Detik Proklamasi

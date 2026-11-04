@@ -2,6 +2,7 @@
 title: "1978-09-15 Presiden Soeharto Buka Lomba dan Pameran Ternak Nasional III – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-15-presiden-soeharto-buka-lomba-dan-pameran-ternak-nasional-iii/"
 date: "2017-08-22T16:08:34+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1978-09-15 Presiden Soeharto Buka Lomba dan Pameran Ternak Nasional III

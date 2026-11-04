@@ -2,6 +2,7 @@
 title: "1977-09-20 Presiden Soeharto Instruksikan Pembentukan Tata Niaga Garam – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-20-presiden-soeharto-instruksikan-pembentukan-tata-niaga-garam/"
 date: "2017-08-22T16:12:21+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1977-09-20 Presiden Soeharto Instruksikan Pembentukan Tata Niaga Garam

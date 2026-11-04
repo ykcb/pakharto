@@ -2,6 +2,7 @@
 title: "1975-09-23 Presiden Soeharto Instruksikan Penelitian Lembaga-Lembaga Sosial – HM Soeharto"
 source: "https://soehartolibrary.id/1975-09-23-presiden-soeharto-instruksikan-penelitian-lembaga-lembaga-sosial/"
 date: "2017-08-22T16:19:55+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-09-23 Presiden Soeharto Instruksikan Penelitian Lembaga-Lembaga Sosial

@@ -2,6 +2,7 @@
 title: "1970-09-08 Sebelum KTT Non Blok di Lusaka, Presiden Soeharto Menerima Beberapa Pimpinan Negara – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-08-sebelum-ktt-non-blok-di-lusaka-presiden-soeharto-menerima-beberapa-pimpinan-negara/"
 date: "2017-08-22T17:35:19+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-08 Sebelum KTT Non Blok di Lusaka, Presiden Soeharto Menerima Beberapa Pimpinan Negara

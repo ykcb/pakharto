@@ -2,6 +2,7 @@
 title: "Presiden Soeharto Melepas Kontingen Jambore Tokyo – HM Soeharto"
 source: "https://soehartolibrary.id/presiden-soeharto-melepas-kontingen-jambore-tokyo/"
 date: "2013-09-10T07:00:26+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # Presiden Soeharto Melepas Kontingen Jambore Tokyo

@@ -2,6 +2,7 @@
 title: "1976-09-28 Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara Penghasil Karet – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet/"
 date: "2017-08-22T16:15:32+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-09-28 Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara Penghasil Karet

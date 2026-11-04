@@ -2,6 +2,7 @@
 title: "1973-09-26 Presiden Soeharto Menerima Pimpinan Mitsuo & Co. Ltd – HM Soeharto"
 source: "https://soehartolibrary.id/1973-09-26-presiden-soeharto-menerima-pimpinan-mitsuo-co-ltd/"
 date: "2014-03-21T23:15:09+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-09-26 Presiden Soeharto Menerima Pimpinan Mitsuo & Co. Ltd

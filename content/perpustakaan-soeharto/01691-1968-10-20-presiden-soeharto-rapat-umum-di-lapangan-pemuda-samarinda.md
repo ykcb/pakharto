@@ -2,6 +2,7 @@
 title: "1968-10-20 Presiden Soeharto Rapat Umum di Lapangan Pemuda Samarinda – HM Soeharto"
 source: "https://soehartolibrary.id/1968-10-20-presiden-soeharto-rapat-umum-di-lapangan-pemuda-samarinda/"
 date: "2014-04-01T02:09:40+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1968-10-20 Presiden Soeharto Rapat Umum di Lapangan Pemuda Samarinda

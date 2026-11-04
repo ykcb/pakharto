@@ -2,6 +2,7 @@
 title: "1974-10-01 Presiden Soeharto Sambut Shah Iran – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-01-presiden-soeharto-sambut-shah-iran/"
 date: "2014-12-01T13:56:04+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-10-01 Presiden Soeharto Sambut Shah Iran

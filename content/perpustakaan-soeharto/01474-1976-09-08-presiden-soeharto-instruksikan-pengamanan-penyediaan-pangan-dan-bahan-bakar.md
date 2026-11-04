@@ -2,6 +2,7 @@
 title: "1976-09-08 Presiden Soeharto Instruksikan Pengamanan Penyediaan Pangan dan Bahan Bakar – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-08-presiden-soeharto-instruksikan-pengamanan-penyediaan-pangan-dan-bahan-bakar/"
 date: "2017-08-22T16:16:44+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-09-08 Presiden Soeharto Instruksikan Pengamanan Penyediaan Pangan dan Bahan Bakar

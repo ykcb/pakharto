@@ -2,6 +2,7 @@
 title: "1971-10-12 Presiden Soeharto: Tertibkan Penggunaan Anggaran – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran/"
 date: "2014-12-01T16:21:09+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-10-12 Presiden Soeharto: Tertibkan Penggunaan Anggaran

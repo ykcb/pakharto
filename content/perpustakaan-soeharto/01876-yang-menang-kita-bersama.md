@@ -2,6 +2,7 @@
 title: "Yang Menang Kita Bersama – HM Soeharto"
 source: "https://soehartolibrary.id/yang-menang-kita-bersama/"
 date: "2014-04-01T02:34:06+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0439_result.jpg)

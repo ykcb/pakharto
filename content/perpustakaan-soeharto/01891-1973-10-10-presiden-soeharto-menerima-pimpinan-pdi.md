@@ -2,6 +2,7 @@
 title: "1973-10-10 Presiden Soeharto Menerima Pimpinan PDI – HM Soeharto"
 source: "https://soehartolibrary.id/1973-10-10-presiden-soeharto-menerima-pimpinan-pdi/"
 date: "2014-03-21T23:11:55+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-10-10 Presiden Soeharto Menerima Pimpinan PDI

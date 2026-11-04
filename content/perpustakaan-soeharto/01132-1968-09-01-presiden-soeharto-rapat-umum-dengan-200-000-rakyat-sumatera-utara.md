@@ -2,6 +2,7 @@
 title: "1968-09-01 Presiden Soeharto Rapat Umum Dengan 200.000 Rakyat Sumatera Utara – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-01-presiden-soeharto-rapat-umum-dengan-200-000-rakyat-sumatera-utara/"
 date: "2014-04-01T02:16:57+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-09-01 Presiden Soeharto Rapat Umum Dengan 200.000 Rakyat Sumatera Utara

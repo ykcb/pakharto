@@ -2,6 +2,7 @@
 title: "Di Tengah Kemelut – HM Soeharto"
 source: "https://soehartolibrary.id/di-tengah-kemelut/"
 date: "2018-01-10T19:06:59+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0426_result.jpg)

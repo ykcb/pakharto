@@ -2,6 +2,7 @@
 title: "1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-06-presiden-soeharto-bahas-penyelenggaraan-haji/"
 date: "2017-08-22T17:39:57+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji

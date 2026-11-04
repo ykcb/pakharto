@@ -2,6 +2,7 @@
 title: "1970-10-06 Presiden Soeharto Buka Kongres Islam Asia Afrika Di Bandung – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-06-presiden-soeharto-buka-kongres-islam-asia-afrika-di-bandung/"
 date: "2014-12-01T16:27:39+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1970-10-06 Presiden Soeharto Buka Kongres Islam Asia Afrika Di Bandung

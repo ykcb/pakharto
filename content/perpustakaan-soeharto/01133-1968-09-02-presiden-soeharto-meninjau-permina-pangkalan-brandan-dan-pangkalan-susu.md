@@ -2,6 +2,7 @@
 title: "1968-09-02 Presiden Soeharto Meninjau Permina Pangkalan Brandan dan Pangkalan Susu – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-02-presiden-soeharto-meninjau-permina-pangkalan-brandan-dan-pangkalan-susu/"
 date: "2014-04-01T02:16:41+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1968-09-02 Presiden Soeharto Meninjau Permina Pangkalan Brandan dan Pangkalan Susu

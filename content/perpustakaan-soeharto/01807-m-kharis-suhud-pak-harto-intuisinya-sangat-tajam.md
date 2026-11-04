@@ -2,6 +2,7 @@
 title: "M Kharis Suhud: Pak Harto Intuisinya Sangat Tajam (Bagian 1) – HM Soeharto"
 source: "https://soehartolibrary.id/m-kharis-suhud-pak-harto-intuisinya-sangat-tajam/"
 date: "2014-03-11T23:19:59+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/scan0032_18_result.jpg)

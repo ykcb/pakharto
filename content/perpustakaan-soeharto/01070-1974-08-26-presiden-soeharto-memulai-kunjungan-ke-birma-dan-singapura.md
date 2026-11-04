@@ -2,6 +2,7 @@
 title: "1974-08-26 Presiden Soeharto Memulai Kunjungan Ke Birma dan Singapura – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-26-presiden-soeharto-memulai-kunjungan-ke-birma-dan-singapura/"
 date: "2017-08-23T11:17:38+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-08-26 Presiden Soeharto Memulai Kunjungan Ke Birma dan Singapura

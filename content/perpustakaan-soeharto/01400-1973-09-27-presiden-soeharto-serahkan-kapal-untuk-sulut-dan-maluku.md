@@ -2,6 +2,7 @@
 title: "1973-09-27 Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku – HM Soeharto"
 source: "https://soehartolibrary.id/1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku/"
 date: "2017-08-23T10:55:27+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1973-09-27 Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku

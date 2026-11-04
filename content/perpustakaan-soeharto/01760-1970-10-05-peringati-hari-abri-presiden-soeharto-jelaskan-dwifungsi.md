@@ -2,6 +2,7 @@
 title: "1970-10-05 Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-05-peringati-hari-abri-presiden-soeharto-jelaskan-dwifungsi/"
 date: "2014-12-01T16:32:29+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-10-05 Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang

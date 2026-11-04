@@ -2,6 +2,7 @@
 title: "1969-09-12 Presiden Soeharto Kirim Kawat Soal Pembakaran Masjidil Aqsa – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-12-presiden-soeharto-kirim-kawat-soal-pembakaran-masjidil-aqsa/"
 date: "2017-08-22T17:38:57+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-09-12 Presiden Soeharto Kirim Kawat Soal Pembakaran Masjidil Aqsa

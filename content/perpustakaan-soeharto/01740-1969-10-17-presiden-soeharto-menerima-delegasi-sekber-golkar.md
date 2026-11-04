@@ -2,6 +2,7 @@
 title: "1969-10-17 Presiden Soeharto Menerima Delegasi Sekber Golkar – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-17-presiden-soeharto-menerima-delegasi-sekber-golkar/"
 date: "2014-12-01T16:34:03+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-17 Presiden Soeharto Menerima Delegasi Sekber Golkar

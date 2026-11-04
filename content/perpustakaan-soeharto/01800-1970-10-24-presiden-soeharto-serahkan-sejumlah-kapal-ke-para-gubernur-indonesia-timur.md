@@ -2,6 +2,7 @@
 title: "1970-10-24 Presiden Soeharto Serahkan Sejumlah Kapal Ke Para Gubernur  Indonesia Timur – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-24-presiden-soeharto-serahkan-sejumlah-kapal-ke-para-gubernur-indonesia-timur/"
 date: "2014-12-01T16:24:46+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-10-24 Presiden Soeharto Serahkan Sejumlah Kapal Ke Para Gubernur Indonesia Timur

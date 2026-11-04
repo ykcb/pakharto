@@ -2,6 +2,7 @@
 title: "Meyakinkan Pak Dirman – HM Soeharto"
 source: "https://soehartolibrary.id/meyakinkan-pak-dirman/"
 date: "2018-01-10T19:11:48+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0409_result.jpg)

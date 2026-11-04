@@ -2,6 +2,7 @@
 title: "1974-08-12 Pemerintah Batasi Pekerja Asing Bidang Minyak dan Tekstil – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-12-pemerintah-batasi-pekerja-asing-bidang-minyak-dan-tekstil/"
 date: "2017-08-23T11:19:11+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1974-08-12 Pemerintah Batasi Pekerja Asing Bidang Minyak dan Tekstil

@@ -2,6 +2,7 @@
 title: "1974-10-11 Presiden Soeharto Bahas Proyek LNG Kalimantan Timur dan Aceh – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-11-presiden-soeharto-bahas-proyek-lng-kalimantan-timur-dan-aceh/"
 date: "2014-12-01T13:52:19+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1974-10-11 Presiden Soeharto Bahas Proyek LNG Kalimantan Timur dan Aceh

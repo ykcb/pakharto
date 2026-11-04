@@ -2,6 +2,7 @@
 title: "1974-10-21 Presiden Soeharto Menerima Raja dan Ratu Belgia – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-21-presiden-soeharto-menerima-raja-dan-ratu-belgia/"
 date: "2014-12-01T13:50:27+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-10-21 Presiden Soeharto Menerima Raja dan Ratu Belgia

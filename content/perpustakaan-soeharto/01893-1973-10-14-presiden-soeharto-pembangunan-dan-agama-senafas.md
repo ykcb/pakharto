@@ -2,6 +2,7 @@
 title: "1973-10-14 Presiden Soeharto: Pembangunan dan Agama Senafas – HM Soeharto"
 source: "https://soehartolibrary.id/1973-10-14-presiden-soeharto-pembangunan-dan-agama-senafas/"
 date: "2014-12-01T14:01:22+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1973-10-14 Presiden Soeharto: Pembangunan dan Agama Senafas

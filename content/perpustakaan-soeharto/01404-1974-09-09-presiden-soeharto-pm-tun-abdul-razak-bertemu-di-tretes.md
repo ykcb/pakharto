@@ -2,6 +2,7 @@
 title: "1974-09-09 Presiden Soeharto-PM Tun Abdul Razak Bertemu di Tretes – HM Soeharto"
 source: "https://soehartolibrary.id/1974-09-09-presiden-soeharto-pm-tun-abdul-razak-bertemu-di-tretes/"
 date: "2017-08-23T10:54:53+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-09-09 Presiden Soeharto-PM Tun Abdul Razak Bertemu di Tretes

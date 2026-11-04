@@ -2,6 +2,7 @@
 title: "1971-09-13 Presiden Soeharto Bahas Rencana Pembangunan Rumah Murah – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-13-presiden-soeharto-bahas-rencana-pembangunan-rumah-murah/"
 date: "2017-08-23T11:11:54+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-09-13 Presiden Soeharto Bahas Rencana Pembangunan Rumah Murah

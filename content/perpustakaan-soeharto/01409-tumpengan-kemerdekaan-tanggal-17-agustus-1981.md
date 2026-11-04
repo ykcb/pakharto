@@ -2,6 +2,7 @@
 title: "Tumpengan Kemerdekaan Tanggal 17 Agustus 1981    – HM Soeharto"
 source: "https://soehartolibrary.id/tumpengan-kemerdekaan-tanggal-17-agustus-1981/"
 date: "2013-09-16T15:29:28+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # Tumpengan Kemerdekaan Tanggal 17 Agustus 1981

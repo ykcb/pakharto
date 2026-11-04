@@ -2,6 +2,7 @@
 title: "1979-09-22 Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen/"
 date: "2014-12-01T16:37:16+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-22 Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen

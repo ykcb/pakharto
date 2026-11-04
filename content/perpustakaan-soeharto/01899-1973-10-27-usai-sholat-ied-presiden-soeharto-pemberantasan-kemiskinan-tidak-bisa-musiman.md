@@ -2,6 +2,7 @@
 title: "1973-10-27 Usai Sholat Ied, Presiden Soeharto: Pemberantasan Kemiskinan Tidak Bisa Musiman – HM Soeharto"
 source: "https://soehartolibrary.id/1973-10-27-usai-sholat-ied-presiden-soeharto-pemberantasan-kemiskinan-tidak-bisa-musiman/"
 date: "2014-12-01T13:56:28+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1973-10-27 Usai Sholat Ied, Presiden Soeharto: Pemberantasan Kemiskinan Tidak Bisa Musiman

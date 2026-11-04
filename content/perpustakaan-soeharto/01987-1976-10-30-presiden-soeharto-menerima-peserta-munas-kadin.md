@@ -2,6 +2,7 @@
 title: "1976-10-30 Presiden Soeharto Menerima Peserta Munas Kadin – HM Soeharto"
 source: "https://soehartolibrary.id/1976-10-30-presiden-soeharto-menerima-peserta-munas-kadin/"
 date: "2014-06-13T18:48:09+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-10-30 Presiden Soeharto Menerima Peserta Munas Kadin

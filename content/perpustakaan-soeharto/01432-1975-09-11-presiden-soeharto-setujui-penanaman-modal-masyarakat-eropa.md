@@ -2,6 +2,7 @@
 title: "1975-09-11 Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa – HM Soeharto"
 source: "https://soehartolibrary.id/1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa/"
 date: "2017-08-23T10:49:51+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-09-11 Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa

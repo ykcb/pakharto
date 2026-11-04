@@ -2,6 +2,7 @@
 title: "1971-09-17 Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-17-presiden-soeharto-ajak-bangsa-indonesia-pegang-jiwa-agama/"
 date: "2017-08-23T11:11:36+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-09-17 Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama

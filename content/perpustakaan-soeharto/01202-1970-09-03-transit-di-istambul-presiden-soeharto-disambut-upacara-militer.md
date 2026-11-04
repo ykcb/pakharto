@@ -2,6 +2,7 @@
 title: "1970-09-03 Transit di Istambul, Presiden Soeharto Disambut Upacara Militer – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-03-transit-di-istambul-presiden-soeharto-disambut-upacara-militer/"
 date: "2014-03-21T23:15:34+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-03 Transit di Istambul, Presiden Soeharto Disambut Upacara Militer

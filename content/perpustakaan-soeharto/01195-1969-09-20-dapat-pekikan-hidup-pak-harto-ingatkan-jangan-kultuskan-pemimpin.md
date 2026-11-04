@@ -2,6 +2,7 @@
 title: "1969-09-20 Dapat Pekikan “Hidup Pak Harto”, Ingatkan Jangan Kultuskan Pemimpin – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-20-dapat-pekikan-hidup-pak-harto-ingatkan-jangan-kultuskan-pemimpin/"
 date: "2017-08-22T17:36:56+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-09-20 Dapat Pekikan “Hidup Pak Harto”, Ingatkan Jangan Kultuskan Pemimpin

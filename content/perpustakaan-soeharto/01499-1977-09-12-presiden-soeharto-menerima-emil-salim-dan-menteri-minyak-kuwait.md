@@ -2,6 +2,7 @@
 title: "1977-09-12 Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-12-presiden-soeharto-menerima-emil-salim-dan-menteri-minyak-kuwait/"
 date: "2017-08-22T16:13:08+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-12 Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait

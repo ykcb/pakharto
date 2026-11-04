@@ -2,6 +2,7 @@
 title: "1974-09-06 Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo – HM Soeharto"
 source: "https://soehartolibrary.id/1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo/"
 date: "2017-08-23T10:55:06+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-09-06 Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo

@@ -2,6 +2,7 @@
 title: "1970-09-04 Presiden Soeharto Menuju Jerman Barat – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-04-presiden-soeharto-menuju-jerman-barat/"
 date: "2017-08-22T17:34:31+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-04 Presiden Soeharto Menuju Jerman Barat

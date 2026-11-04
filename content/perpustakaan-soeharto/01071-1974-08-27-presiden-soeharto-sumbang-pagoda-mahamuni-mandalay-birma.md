@@ -2,6 +2,7 @@
 title: "1974-08-27 Presiden Soeharto Sumbang Pagoda Mahamuni Mandalay Birma – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-27-presiden-soeharto-sumbang-pagoda-mahamuni-mandalay-birma/"
 date: "2017-08-23T11:18:06+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-08-27 Presiden Soeharto Sumbang Pagoda Mahamuni Mandalay Birma

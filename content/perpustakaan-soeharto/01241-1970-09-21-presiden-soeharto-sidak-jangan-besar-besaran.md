@@ -2,6 +2,7 @@
 title: "1970-09-21 Presiden Soeharto: Sidak Jangan Besar-Besaran – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-21-presiden-soeharto-sidak-jangan-besar-besaran/"
 date: "2017-08-22T17:33:40+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-21 Presiden Soeharto: Sidak Jangan Besar-Besaran

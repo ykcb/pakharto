@@ -2,6 +2,7 @@
 title: "1972-03-13 Beberapa Pokok Pikiran Mengenai Pewarisan Nilai-nilai ’45 kepada Generasi Muda Indonesia Oleh Jenderal TNI Soeharto – HM Soeharto"
 source: "https://soehartolibrary.id/1972-03-13-beberapa-pokok-pikiran-mengenai-pewarisan-nilai-nilai-45-kepada-generasi-muda-indonesia-oleh-jenderal-tni-soeharto/"
 date: "2013-10-16T18:25:22+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1972-03-13 Beberapa Pokok Pikiran Mengenai Pewarisan Nilai-nilai ’45 kepada Generasi Muda Indonesia Oleh Jenderal TNI Soeharto

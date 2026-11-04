@@ -2,6 +2,7 @@
 title: "1969-09-19 Presiden Soeharto Letakkan Batu Pertama Pembangunan Tugu Pepera – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-19-presiden-soeharto-letakkan-batu-pertama-pembangunan-tugu-pepera/"
 date: "2017-08-22T17:38:34+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1969-09-19 Presiden Soeharto Letakkan Batu Pertama Pembangunan Tugu Pepera

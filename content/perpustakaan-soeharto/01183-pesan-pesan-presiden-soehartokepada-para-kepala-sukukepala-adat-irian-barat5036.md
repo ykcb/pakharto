@@ -2,6 +2,7 @@
 title: "1968-08-18 Pesan-Pesan Presiden SoehartoKepada Para Kepala Suku/Kepala Adat Irian Barat – HM Soeharto"
 source: "https://soehartolibrary.id/pesan-pesan-presiden-soehartokepada-para-kepala-sukukepala-adat-irian-barat5036/"
 date: "2013-09-04T01:23:49+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-08-18 Pesan-Pesan Presiden SoehartoKepada Para Kepala Suku/Kepala Adat Irian Barat

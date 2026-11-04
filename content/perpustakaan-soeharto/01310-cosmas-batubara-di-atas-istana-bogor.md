@@ -2,6 +2,7 @@
 title: "Cosmas Batubara: Di Atas Istana Bogor – HM Soeharto"
 source: "https://soehartolibrary.id/cosmas-batubara-di-atas-istana-bogor/"
 date: "2013-09-10T06:59:10+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Cosmas Batubara: Di Atas Istana Bogor

@@ -2,6 +2,7 @@
 title: "1968-10-05 Peringati Hari ABRI, Presiden Soeharto: ABRI Penuhi Kehendak Rakyat – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-05-peringati-hari-abri-presiden-soeharto-abri-penuhi-kehendak-rakyat/"
 date: "2014-04-01T02:12:41+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1968-10-05 Peringati Hari ABRI, Presiden Soeharto: ABRI Penuhi Kehendak Rakyat

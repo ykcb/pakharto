@@ -2,6 +2,7 @@
 title: "1975-08-06 Menuju Surabaya Resmikan Pabrik Tekstil Mertex Sidoarjo – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-06-menuju-surabaya-resmikan-pabrik-tekstil-mertex-sidoarjo/"
 date: "2017-08-23T11:15:53+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1975-08-06 Menuju Surabaya Resmikan Pabrik Tekstil Mertex Sidoarjo

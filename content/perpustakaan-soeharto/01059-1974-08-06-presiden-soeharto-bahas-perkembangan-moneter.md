@@ -2,6 +2,7 @@
 title: "1974-08-06 Presiden Soeharto Bahas Perkembangan Moneter – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/"
 date: "2017-08-23T11:35:04+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-08-06 Presiden Soeharto Bahas Perkembangan Moneter

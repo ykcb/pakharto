@@ -2,6 +2,7 @@
 title: "1979-09-21 Presiden Soeharto Buka Seagames X – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-21-presiden-soeharto-buka-seagames-x/"
 date: "2014-03-21T23:12:17+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-21 Presiden Soeharto Buka Seagames X

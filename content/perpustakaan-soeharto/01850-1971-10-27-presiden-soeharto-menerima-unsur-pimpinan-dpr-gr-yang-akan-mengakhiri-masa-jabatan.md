@@ -2,6 +2,7 @@
 title: "1971-10-27 Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri Masa Jabatan – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan/"
 date: "2014-12-01T16:31:47+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-10-27 Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri Masa Jabatan

@@ -2,6 +2,7 @@
 title: "1976-10-26 Alami Paceklik, Presiden Soeharto Perintahkan Padat Karya – HM Soeharto"
 source: "https://soehartolibrary.id/1976-10-26-alami-paceklik-presiden-soeharto-perintahkan-padat-karya/"
 date: "2014-12-01T13:47:27+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1976-10-26 Alami Paceklik, Presiden Soeharto Perintahkan Padat Karya

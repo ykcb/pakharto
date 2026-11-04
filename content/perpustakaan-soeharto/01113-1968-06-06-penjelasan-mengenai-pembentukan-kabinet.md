@@ -2,6 +2,7 @@
 title: "1968-06-06 Penjelasan Presiden Soeharto Mengenai Pembentukan Kabinet – HM Soeharto"
 source: "https://soehartolibrary.id/1968-06-06-penjelasan-mengenai-pembentukan-kabinet/"
 date: "2013-08-31T22:13:59+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-06-06 Penjelasan Presiden Soeharto Mengenai Pembentukan Kabinet

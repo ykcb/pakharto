@@ -2,6 +2,7 @@
 title: "1970-05-09  Jawaban Presiden Soeharto Atas Pertanyaan–Pertanyaan Yang diajukan Oleh Wartawan Newsweek – HM Soeharto"
 source: "https://soehartolibrary.id/1970-05-09-jawaban-presiden-soeharto-atas-pertanyaan-pertanyaan-yang-diajukan-oleh-wartawan-newsweek/"
 date: "2013-09-27T12:56:51+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-05-09 Jawaban Presiden Soeharto Atas Pertanyaan–Pertanyaan Yang diajukan Oleh Wartawan Newsweek

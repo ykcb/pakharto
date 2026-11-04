@@ -2,6 +2,7 @@
 title: "1968-10-19 Presiden Soeharto Temui Tokoh-Tokoh Kalimantan Tengah – HM Soeharto"
 source: "https://soehartolibrary.id/1968-10-19-presiden-soeharto-temui-tokoh-tokoh-kalimantan-tengah/"
 date: "2014-04-01T02:09:52+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-10-19 Presiden Soeharto Temui Tokoh-Tokoh Kalimantan Tengah

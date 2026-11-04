@@ -2,6 +2,7 @@
 title: "1972-09-08 Presiden Soeharto Menerima Dr. Helmut Kohl – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-08-presiden-soeharto-menerima-dr-helmut-kohl/"
 date: "2017-08-23T11:05:52+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-09-08 Presiden Soeharto Menerima Dr. Helmut Kohl

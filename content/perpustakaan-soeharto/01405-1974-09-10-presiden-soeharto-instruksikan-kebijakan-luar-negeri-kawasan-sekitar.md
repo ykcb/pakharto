@@ -2,6 +2,7 @@
 title: "1974-09-10 Presiden Soeharto Instruksikan Kebijakan Luar Negeri Kawasan Sekitar – HM Soeharto"
 source: "https://soehartolibrary.id/1974-09-10-presiden-soeharto-instruksikan-kebijakan-luar-negeri-kawasan-sekitar/"
 date: "2017-08-23T10:54:05+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-09-10 Presiden Soeharto Instruksikan Kebijakan Luar Negeri Kawasan Sekitar

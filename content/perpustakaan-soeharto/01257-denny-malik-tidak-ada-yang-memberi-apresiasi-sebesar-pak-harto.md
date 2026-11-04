@@ -2,6 +2,7 @@
 title: "Denny Malik: Tidak Ada Yang Memberi Apresiasi Sebesar Pak Harto – HM Soeharto"
 source: "https://soehartolibrary.id/denny-malik-tidak-ada-yang-memberi-apresiasi-sebesar-pak-harto/"
 date: "2013-09-08T06:58:29+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Denny Malik: Tidak Ada Yang Memberi Apresiasi Sebesar Pak Harto

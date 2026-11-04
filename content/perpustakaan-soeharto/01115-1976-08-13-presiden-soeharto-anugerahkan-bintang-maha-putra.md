@@ -2,6 +2,7 @@
 title: "1976-08-13 Presiden Soeharto Anugerahkan Bintang Maha Putra – HM Soeharto"
 source: "https://soehartolibrary.id/1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra/"
 date: "2017-08-22T17:41:01+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-08-13 Presiden Soeharto Anugerahkan Bintang Maha Putra

@@ -2,6 +2,7 @@
 title: "Ismail Saleh: Pak Harto Pemimpin Yang Konsisten Dan Berwawasan Luas – HM Soeharto"
 source: "https://soehartolibrary.id/ismail-saleh-pemimpin-yang-konsisten-dan-berwawasan-luas/"
 date: "2014-11-25T12:33:42+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/scan11_50_result.jpg)

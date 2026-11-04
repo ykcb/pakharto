@@ -2,6 +2,7 @@
 title: "1969-09-09 Presiden Soeharto: Perlu Pengaturan Kembali Organisasi Buruh – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-09-presiden-soeharto-perlu-pengaturan-kembali-organisasi-buruh/"
 date: "2017-08-22T17:39:07+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1969-09-09 Presiden Soeharto: Perlu Pengaturan Kembali Organisasi Buruh

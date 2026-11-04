@@ -2,6 +2,7 @@
 title: "1976-08-23 Presiden Soeharto Resmikan IPTN – HM Soeharto"
 source: "https://soehartolibrary.id/1976-08-23-presiden-soeharto-resmikan-iptn/"
 date: "2017-08-23T11:15:40+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-08-23 Presiden Soeharto Resmikan IPTN

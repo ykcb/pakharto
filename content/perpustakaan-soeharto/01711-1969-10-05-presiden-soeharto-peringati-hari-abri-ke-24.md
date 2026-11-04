@@ -2,6 +2,7 @@
 title: "1969-10-05 Presiden Soeharto Peringati Hari ABRI Ke-24 – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-05-presiden-soeharto-peringati-hari-abri-ke-24/"
 date: "2014-12-01T16:35:55+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1969-10-05 Presiden Soeharto Peringati Hari ABRI Ke-24

@@ -2,6 +2,7 @@
 title: "1973-10-1973 Presiden dan Ibu Tien Soeharto Hadiri Peringatan Hari Kesaktian Pancasila di Lubang Buaya – HM Soeharto"
 source: "https://soehartolibrary.id/1973-10-1973-presiden-dan-ibu-tien-soeharto-hadiri-peringatan-hari-kesaktian-pancasila-di-lubang-buaya/"
 date: "2013-10-05T02:45:20+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-10-1973 Presiden dan Ibu Tien Soeharto Hadiri Peringatan Hari Kesaktian Pancasila di Lubang Buaya

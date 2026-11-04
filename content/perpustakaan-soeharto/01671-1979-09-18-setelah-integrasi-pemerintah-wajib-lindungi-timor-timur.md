@@ -2,6 +2,7 @@
 title: "1979-09-18 Setelah Integrasi, Pemerintah Wajib Lindungi Timor Timur – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-18-setelah-integrasi-pemerintah-wajib-lindungi-timor-timur/"
 date: "2014-12-01T16:37:59+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-18 Setelah Integrasi, Pemerintah Wajib Lindungi Timor Timur

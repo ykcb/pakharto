@@ -2,6 +2,7 @@
 title: "1977-09-23 Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden dan Anak Yatim Timor Timur – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur/"
 date: "2017-08-22T16:11:36+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-23 Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden dan Anak Yatim Timor Timur

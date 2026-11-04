@@ -2,6 +2,7 @@
 title: "Memperjuangkan Pemerataan Hasil Pembangunan – HM Soeharto"
 source: "https://soehartolibrary.id/memperjuangkan-pemerataan-hasil-pembangunan/"
 date: "2014-06-13T18:52:03+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0716_result.jpg)

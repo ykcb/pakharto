@@ -2,6 +2,7 @@
 title: "1974-10-15 Ketua BKPM Barli Halim: Selama 1968-1974 Telah Disetujui 759 proyek PMA – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-15-ketua-bkpm-barli-halim-selama-1968-1974-telah-disetujui-759-proyek-pma/"
 date: "2014-04-01T02:08:51+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-10-15 Ketua BKPM Barli Halim: Selama 1968-1974 Telah Disetujui 759 proyek PMA

@@ -2,6 +2,7 @@
 title: "Mulai dengan Repelita I – HM Soeharto"
 source: "https://soehartolibrary.id/mulai-dengan-repelita/"
 date: "2018-01-19T14:37:46+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/76030019_result.jpg)

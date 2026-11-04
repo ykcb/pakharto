@@ -2,6 +2,7 @@
 title: "1971-08-31 Presiden Soeharto Buka Festival Seni Ramayana Internasional di Pandaan – HM Soeharto"
 source: "https://soehartolibrary.id/1971-08-31-presiden-soeharto-buka-festival-seni-ramayana-internasional-di-pandaan/"
 date: "2017-08-24T15:09:14+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-08-31 Presiden Soeharto Buka Festival Seni Ramayana Internasional di Pandaan

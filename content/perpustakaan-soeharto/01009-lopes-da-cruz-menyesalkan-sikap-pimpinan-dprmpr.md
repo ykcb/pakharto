@@ -2,6 +2,7 @@
 title: "Lopes da Cruz: Menyesalkan Sikap Pimpinan DPR/MPR – HM Soeharto"
 source: "https://soehartolibrary.id/lopes-da-cruz-menyesalkan-sikap-pimpinan-dprmpr/"
 date: "2013-08-19T02:20:09+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Lopes da Cruz: Menyesalkan Sikap Pimpinan DPR/MPR

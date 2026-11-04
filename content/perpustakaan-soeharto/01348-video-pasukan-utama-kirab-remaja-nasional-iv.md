@@ -2,6 +2,7 @@
 title: "Video Pasukan Utama Kirab Remaja Nasional IV – HM Soeharto"
 source: "https://soehartolibrary.id/video-pasukan-utama-kirab-remaja-nasional-iv/"
 date: "2014-03-22T01:30:36+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # Video Pasukan Utama Kirab Remaja Nasional IV

@@ -2,6 +2,7 @@
 title: "1974-10-28 Presiden Soeharto: KNPI Wadah Pengembangan Orientasi Baru Pemuda – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-28-presiden-soeharto-knpi-wadah-pengembangan-orientasi-baru-pemuda/"
 date: "2014-03-21T23:11:41+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1974-10-28 Presiden Soeharto: KNPI Wadah Pengembangan Orientasi Baru Pemuda

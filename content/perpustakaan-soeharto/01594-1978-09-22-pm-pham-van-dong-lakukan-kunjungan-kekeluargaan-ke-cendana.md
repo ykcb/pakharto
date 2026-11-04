@@ -2,6 +2,7 @@
 title: "1978-09-22 PM Pham Van Dong Lakukan Kunjungan Kekeluargaan Ke Cendana – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-22-pm-pham-van-dong-lakukan-kunjungan-kekeluargaan-ke-cendana/"
 date: "2017-08-22T12:05:05+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1978-09-22 PM Pham Van Dong Lakukan Kunjungan Kekeluargaan Ke Cendana

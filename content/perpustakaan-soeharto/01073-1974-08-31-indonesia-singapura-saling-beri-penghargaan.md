@@ -2,6 +2,7 @@
 title: "1974-08-31 Indonesia-Singapura Saling Beri Penghargaan – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-31-indonesia-singapura-saling-beri-penghargaan/"
 date: "2017-08-23T11:16:48+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-08-31 Indonesia-Singapura Saling Beri Penghargaan

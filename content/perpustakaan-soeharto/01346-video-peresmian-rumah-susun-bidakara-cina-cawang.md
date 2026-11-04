@@ -2,6 +2,7 @@
 title: "Video Peresmian Rumah Susun Bidakara Cina Cawang – HM Soeharto"
 source: "https://soehartolibrary.id/video-peresmian-rumah-susun-bidakara-cina-cawang/"
 date: "2014-03-22T01:30:48+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # Video Peresmian Rumah Susun Bidakara Cina Cawang

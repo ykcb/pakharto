@@ -2,6 +2,7 @@
 title: "1970-10-07 Presiden Soeharto Instruksikan Penilaian Menyeluruh Perusahaan Negara – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-07-presiden-soeharto-instruksikan-penilaian-menyeluruh-perusahaan-negara/"
 date: "2014-12-01T16:27:23+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1970-10-07 Presiden Soeharto Instruksikan Penilaian Menyeluruh Perusahaan Negara

@@ -2,6 +2,7 @@
 title: "1969-09-15 Presiden Soeharto Mulai Kunjungan Ke Irian Barat – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-15-presiden-soeharto-mulai-kunjungan-ke-irian-barat/"
 date: "2017-08-22T17:37:45+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-09-15 Presiden Soeharto Mulai Kunjungan Ke Irian Barat

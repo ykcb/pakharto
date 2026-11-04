@@ -2,6 +2,7 @@
 title: "1976-08-11 Presiden Soeharto Serahkan Mobil Patroli Jalan Raya – HM Soeharto"
 source: "https://soehartolibrary.id/1976-08-11-presiden-soeharto-serahkan-mobil-patroli-jalan-raya/"
 date: "2017-08-22T17:43:05+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1976-08-11 Presiden Soeharto Serahkan Mobil Patroli Jalan Raya

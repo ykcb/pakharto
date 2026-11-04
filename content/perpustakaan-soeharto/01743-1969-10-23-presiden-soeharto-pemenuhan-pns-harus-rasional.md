@@ -2,6 +2,7 @@
 title: "1969-10-23 Presiden Soeharto: Pemenuhan PNS Harus Rasional – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-23-presiden-soeharto-pemenuhan-pns-harus-rasional/"
 date: "2014-03-21T23:12:05+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-23 Presiden Soeharto: Pemenuhan PNS Harus Rasional

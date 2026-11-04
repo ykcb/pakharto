@@ -2,6 +2,7 @@
 title: "1977-09-07 Ali Wardhana Bantah Nilai Rupiah Terhadap Dolar AS Terlalu Tinggi – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-07-ali-wardhana-bantah-nilai-rupiah-terhadap-dolar-terlalu-tinggi/"
 date: "2017-08-22T16:14:19+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-07 Ali Wardhana Bantah Nilai Rupiah Terhadap Dolar AS Terlalu Tinggi

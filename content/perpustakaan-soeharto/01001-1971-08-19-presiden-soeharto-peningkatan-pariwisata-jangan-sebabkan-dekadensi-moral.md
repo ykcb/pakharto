@@ -2,6 +2,7 @@
 title: "1971-08-19 Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi Moral – HM Soeharto"
 source: "https://soehartolibrary.id/1971-08-19-presiden-soeharto-peningkatan-pariwisata-jangan-sebabkan-dekadensi-moral/"
 date: "2017-08-24T15:09:48+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1971-08-19 Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi Moral

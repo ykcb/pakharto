@@ -2,6 +2,7 @@
 title: "1974-08-17 Presiden Soeharto Pimpin Peringatan Detik-Detik Proklamasi – HM Soeharto"
 source: "https://soehartolibrary.id/1974-08-17-presiden-soeharto-pimpin-peringatan-detik-detik-proklamasi/"
 date: "2017-08-23T11:18:36+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-08-17 Presiden Soeharto Pimpin Peringatan Detik-Detik Proklamasi

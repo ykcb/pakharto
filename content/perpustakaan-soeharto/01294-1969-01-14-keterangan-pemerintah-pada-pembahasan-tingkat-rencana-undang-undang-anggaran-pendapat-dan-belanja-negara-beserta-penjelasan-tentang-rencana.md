@@ -2,6 +2,7 @@
 title: "1969-01-14 Keterangan Pemerintah pada Pembahasan Tingkat I RUU APBN Beserta Penjelasan Tentang Repelita – HM Soeharto"
 source: "https://soehartolibrary.id/1969-01-14-keterangan-pemerintah-pada-pembahasan-tingkat-rencana-undang-undang-anggaran-pendapat-dan-belanja-negara-beserta-penjelasan-tentang-rencana-pembangunan-lima-tahun1969-01-14-keterangan-pemer/"
 date: "2013-09-10T07:06:20+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1969-01-14 Keterangan Pemerintah pada Pembahasan Tingkat I RUU APBN Beserta Penjelasan Tentang Repelita

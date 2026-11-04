@@ -2,6 +2,7 @@
 title: "1973-10-15 Presiden Soeharto Menerima Pertuni (Persatuan Tuna Netra Indonesia) – HM Soeharto"
 source: "https://soehartolibrary.id/1973-10-15-presiden-soeharto-menerima-pertuni-persatuan-tuna-netra-indonesia/"
 date: "2014-12-01T14:00:57+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-10-15 Presiden Soeharto Menerima Pertuni (Persatuan Tuna Netra Indonesia)

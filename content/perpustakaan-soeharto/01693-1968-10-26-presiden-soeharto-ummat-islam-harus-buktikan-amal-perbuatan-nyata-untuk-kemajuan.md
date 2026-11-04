@@ -2,6 +2,7 @@
 title: "1968-10-26 Presiden Soeharto: Ummat Islam Harus Buktikan Amal Perbuatan Nyata Untuk Kemajuan – HM Soeharto"
 source: "https://soehartolibrary.id/1968-10-26-presiden-soeharto-ummat-islam-harus-buktikan-amal-perbuatan-nyata-untuk-kemajuan/"
 date: "2014-04-01T02:09:17+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1968-10-26 Presiden Soeharto: Ummat Islam Harus Buktikan Amal Perbuatan Nyata Untuk Kemajuan

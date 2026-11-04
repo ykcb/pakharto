@@ -2,6 +2,7 @@
 title: "1974-09-24 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Kesra – HM Soeharto"
 source: "https://soehartolibrary.id/1974-09-24-presiden-soeharto-pimpin-sidang-kabinet-terbatas-kesra/"
 date: "2017-08-23T10:51:49+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-09-24 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Kesra

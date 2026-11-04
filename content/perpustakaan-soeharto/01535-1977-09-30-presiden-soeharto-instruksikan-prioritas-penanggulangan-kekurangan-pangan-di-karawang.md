@@ -2,6 +2,7 @@
 title: "1977-09-30 Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan Pangan di Karawang – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-30-presiden-soeharto-instruksikan-prioritas-penanggulangan-kekurangan-pangan-di-karawang/"
 date: "2017-08-22T16:10:40+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1977-09-30 Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan Pangan di Karawang

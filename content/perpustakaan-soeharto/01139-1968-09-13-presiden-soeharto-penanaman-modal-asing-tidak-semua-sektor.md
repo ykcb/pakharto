@@ -2,6 +2,7 @@
 title: "1968-09-13 Presiden Soeharto: Penanaman Modal Asing Tidak Semua Sektor – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-13-presiden-soeharto-penanaman-modal-asing-tidak-semua-sektor/"
 date: "2014-04-01T02:15:03+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1968-09-13 Presiden Soeharto: Penanaman Modal Asing Tidak Semua Sektor

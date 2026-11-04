@@ -2,6 +2,7 @@
 title: "1971-09-01Kerjasama Dengan Asing Harus Saling Menguntungkan – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-01kerjasama-dengan-asing-harus-saling-menguntungkan/"
 date: "2017-08-22T17:33:06+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1971-09-01Kerjasama Dengan Asing Harus Saling Menguntungkan

@@ -2,6 +2,7 @@
 title: "1973-09-15 Presiden Soeharto: Indonesia Kehendaki Perdamaian Sejati – HM Soeharto"
 source: "https://soehartolibrary.id/1973-09-15-presiden-soeharto-indonesia-kehendaki-perdamaian-sejati/"
 date: "2017-08-23T11:00:10+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1973-09-15 Presiden Soeharto: Indonesia Kehendaki Perdamaian Sejati

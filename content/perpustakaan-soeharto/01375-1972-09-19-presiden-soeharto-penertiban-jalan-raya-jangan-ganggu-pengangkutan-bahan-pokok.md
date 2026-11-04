@@ -2,6 +2,7 @@
 title: "1972-09-19 Presiden Soeharto: Penertiban Jalan Raya Jangan Ganggu Pengangkutan Bahan Pokok – HM Soeharto"
 source: "https://soehartolibrary.id/1972-09-19-presiden-soeharto-penertiban-jalan-raya-jangan-ganggu-pengangkutan-bahan-pokok/"
 date: "2017-08-23T11:02:59+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1972-09-19 Presiden Soeharto: Penertiban Jalan Raya Jangan Ganggu Pengangkutan Bahan Pokok

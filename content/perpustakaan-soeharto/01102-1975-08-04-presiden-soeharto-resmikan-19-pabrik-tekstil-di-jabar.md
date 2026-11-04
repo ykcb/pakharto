@@ -2,6 +2,7 @@
 title: "1976-08-04 Presiden Soeharto Resmikan 19 Pabrik Tekstil di Jabar – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-04-presiden-soeharto-resmikan-19-pabrik-tekstil-di-jabar/"
 date: "2017-08-22T17:44:10+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1976-08-04 Presiden Soeharto Resmikan 19 Pabrik Tekstil di Jabar

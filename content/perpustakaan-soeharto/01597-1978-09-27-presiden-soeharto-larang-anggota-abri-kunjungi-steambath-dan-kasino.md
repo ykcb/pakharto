@@ -2,6 +2,7 @@
 title: "1978-09-27 Presiden Soeharto Larang Anggota ABRI Kunjungi Steambath Dan Kasino – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-27-presiden-soeharto-larang-anggota-abri-kunjungi-steambath-dan-kasino/"
 date: "2017-08-22T12:07:05+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1978-09-27 Presiden Soeharto Larang Anggota ABRI Kunjungi Steambath Dan Kasino

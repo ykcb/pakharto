@@ -2,6 +2,7 @@
 title: "1971-08-23 Pemerintah Ubah Nilai Tukar Rupiah – HM Soeharto"
 source: "https://soehartolibrary.id/1971-08-23-pemerintah-ubah-nilai-tukar-rupiah/"
 date: "2017-08-24T15:09:40+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1971-08-23 Pemerintah Ubah Nilai Tukar Rupiah

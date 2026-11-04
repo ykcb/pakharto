@@ -2,6 +2,7 @@
 title: "1969-10-18 Presiden Soeharto Adakan Pembicaraan Dengan Pangdam Se-Jawa – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-18-presiden-soeharto-adakan-pembicaraan-dengan-pangdam-se-jawa/"
 date: "2014-12-01T16:33:46+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-18 Presiden Soeharto Adakan Pembicaraan Dengan Pangdam Se-Jawa

@@ -2,6 +2,7 @@
 title: "1970-10-12 Presiden Soeharto Bahas RUU Anti Korupsi dan RUU Perkawinan – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-12-presiden-soeharto-bahas-ruu-anti-korupsi-dan-ruu-perkawinan/"
 date: "2014-12-01T16:26:31+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-10-12 Presiden Soeharto Bahas RUU Anti Korupsi dan RUU Perkawinan

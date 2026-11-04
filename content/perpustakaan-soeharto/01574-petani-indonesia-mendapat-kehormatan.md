@@ -2,6 +2,7 @@
 title: "Petani Indonesia Mendapat Kehormatan – HM Soeharto"
 source: "https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/"
 date: "2018-01-10T19:00:11+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # Petani Indonesia Mendapat Kehormatan

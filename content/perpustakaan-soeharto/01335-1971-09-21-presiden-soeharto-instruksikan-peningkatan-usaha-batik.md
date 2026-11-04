@@ -2,6 +2,7 @@
 title: "1971-09-21 Presiden Soeharto Instruksikan Peningkatan Usaha Batik – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-21-presiden-soeharto-instruksikan-peningkatan-usaha-batik/"
 date: "2017-08-23T11:11:25+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1971-09-21 Presiden Soeharto Instruksikan Peningkatan Usaha Batik

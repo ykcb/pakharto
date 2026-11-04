@@ -2,6 +2,7 @@
 title: "1978-09-25 Presiden Soeharto Lantik Letjen. Polisi Dr. Awaluddin Djamin Sebagai Kapolri – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-25-presiden-soeharto-lantik-letjen-polisi-dr-awaluddin-djamin-sebagai-kapolri/"
 date: "2017-08-22T12:06:55+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1978-09-25 Presiden Soeharto Lantik Letjen. Polisi Dr. Awaluddin Djamin Sebagai Kapolri

@@ -2,6 +2,7 @@
 title: "1973-08-30 Presiden Soeharto Minta Garuda Angkut Jamaah Haji – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-30-presiden-soeharto-minta-garuda-angkut-jamaah-haji/"
 date: "2017-08-23T11:35:30+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1973-08-30 Presiden Soeharto Minta Garuda Angkut Jamaah Haji

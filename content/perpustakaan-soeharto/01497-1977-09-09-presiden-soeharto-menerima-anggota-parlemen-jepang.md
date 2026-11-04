@@ -2,6 +2,7 @@
 title: "1977-09-09 Presiden Soeharto Menerima Anggota Parlemen Jepang – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-09-presiden-soeharto-menerima-anggota-parlemen-jepang/"
 date: "2017-08-22T16:13:31+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-09 Presiden Soeharto Menerima Anggota Parlemen Jepang

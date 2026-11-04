@@ -2,6 +2,7 @@
 title: "1973-09-12 Presiden Soeharto Tutup Kontes Ayam dan Pameran Unggas Nasional II – HM Soeharto"
 source: "https://soehartolibrary.id/1973-09-12-presiden-soeharto-tutup-kontes-ayam-dan-pameran-unggas-nasional-ii/"
 date: "2017-08-23T11:01:20+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1973-09-12 Presiden Soeharto Tutup Kontes Ayam dan Pameran Unggas Nasional II

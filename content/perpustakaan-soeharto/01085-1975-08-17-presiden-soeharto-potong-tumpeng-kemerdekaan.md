@@ -2,6 +2,7 @@
 title: "1975-08-17 Presiden Soeharto Potong Tumpeng Kemerdekaan – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-17-presiden-soeharto-potong-tumpeng-kemerdekaan/"
 date: "2017-08-22T17:48:20+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-08-17 Presiden Soeharto Potong Tumpeng Kemerdekaan

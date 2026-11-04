@@ -2,6 +2,7 @@
 title: "1975-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan Zakat – HM Soeharto"
 source: "https://soehartolibrary.id/1975-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-dan-serahkan-zakat/"
 date: "2014-06-13T18:54:50+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan Zakat

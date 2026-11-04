@@ -2,6 +2,7 @@
 title: "Selamat Dari PKI Berkat Bapak – HM Soeharto"
 source: "https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/"
 date: "2013-08-29T10:43:45+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # Selamat Dari PKI Berkat Bapak

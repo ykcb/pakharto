@@ -2,6 +2,7 @@
 title: "1969-09-10 Sidang Kabinet Setujui Pembangunan Jaringan Nusantara Microwave – HM Soeharto"
 source: "https://soehartolibrary.id/1969-09-10-sidang-kabinet-setujui-pembangunan-jaringan-nusantara-microwave/"
 date: "2017-08-22T17:39:16+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-09-10 Sidang Kabinet Setujui Pembangunan Jaringan Nusantara Microwave

@@ -2,6 +2,7 @@
 title: "1974-10-07 Presiden Soeharto: Pembinaan ABRI Untuk Memupuk dan Mengintegrasikan Kekuatan – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-07-presiden-soeharto-pembinaan-abri-untuk-memupuk-dan-mengintegrasikan-kekuatan/"
 date: "2014-12-01T13:55:06+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1974-10-07 Presiden Soeharto: Pembinaan ABRI Untuk Memupuk dan Mengintegrasikan Kekuatan

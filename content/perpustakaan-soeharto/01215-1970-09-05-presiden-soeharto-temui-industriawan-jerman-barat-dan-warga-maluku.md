@@ -2,6 +2,7 @@
 title: "1970-09-05 Presiden Soeharto Temui Industriawan Jerman Barat dan Warga Maluku – HM Soeharto"
 source: "https://soehartolibrary.id/1970-09-05-presiden-soeharto-temui-industriawan-jerman-barat-dan-warga-maluku/"
 date: "2014-03-21T23:15:24+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-09-05 Presiden Soeharto Temui Industriawan Jerman Barat dan Warga Maluku

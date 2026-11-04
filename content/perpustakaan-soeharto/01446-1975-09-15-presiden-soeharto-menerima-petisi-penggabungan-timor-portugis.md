@@ -2,6 +2,7 @@
 title: "1975-09-15 Presiden Soeharto Menerima Petisi Penggabungan Timor Portugis – HM Soeharto"
 source: "https://soehartolibrary.id/1975-09-15-presiden-soeharto-menerima-petisi-penggabungan-timor-portugis/"
 date: "2017-08-23T10:49:38+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-09-15 Presiden Soeharto Menerima Petisi Penggabungan Timor Portugis

@@ -2,6 +2,7 @@
 title: "1975-08-18 Indonesia Protes Perkembangan Dekolonisasi Timor Portugis – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-18-indonesia-protes-perkembangan-dekolonisasi-timor-portugis/"
 date: "2017-08-22T17:45:31+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1975-08-18 Indonesia Protes Perkembangan Dekolonisasi Timor Portugis

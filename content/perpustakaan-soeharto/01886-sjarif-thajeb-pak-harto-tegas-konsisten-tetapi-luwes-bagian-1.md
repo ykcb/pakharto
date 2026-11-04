@@ -2,6 +2,7 @@
 title: "Sjarif Thajeb: Pak Harto Tegas, Konsisten, Tetapi Luwes (Bagian 1) – HM Soeharto"
 source: "https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-1/"
 date: "2014-11-24T08:08:30+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # Sjarif Thajeb: Pak Harto Tegas, Konsisten, Tetapi Luwes (Bagian 1)

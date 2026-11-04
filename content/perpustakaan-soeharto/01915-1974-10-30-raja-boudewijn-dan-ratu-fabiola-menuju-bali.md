@@ -2,6 +2,7 @@
 title: "1974-10-30 Raja Boudewijn dan Ratu Fabiola Menuju Bali – HM Soeharto"
 source: "https://soehartolibrary.id/1974-10-30-raja-boudewijn-dan-ratu-fabiola-menuju-bali/"
 date: "2014-12-01T13:50:47+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1974-10-30 Raja Boudewijn dan Ratu Fabiola Menuju Bali

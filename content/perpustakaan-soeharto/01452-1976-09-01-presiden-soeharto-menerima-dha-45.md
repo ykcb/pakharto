@@ -2,6 +2,7 @@
 title: "1976-09-01 Presiden Soeharto Menerima DHA 45 – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-01-presiden-soeharto-menerima-dha-45/"
 date: "2017-08-22T16:18:59+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1976-09-01 Presiden Soeharto Menerima DHA 45

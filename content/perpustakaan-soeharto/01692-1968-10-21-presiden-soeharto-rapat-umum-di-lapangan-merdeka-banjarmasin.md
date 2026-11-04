@@ -2,6 +2,7 @@
 title: "1968-10-21 Presiden Soeharto Rapat Umum di Lapangan Merdeka Banjarmasin – HM Soeharto"
 source: "https://soehartolibrary.id/1968-10-21-presiden-soeharto-rapat-umum-di-lapangan-merdeka-banjarmasin/"
 date: "2014-04-01T02:09:29+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-10-21 Presiden Soeharto Rapat Umum di Lapangan Merdeka Banjarmasin

@@ -2,6 +2,7 @@
 title: "1970-10-04 Presiden Soeharto: Al-Qur’an Banyak Menitikberatkan Pembangunan Masyarakat – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-04-presiden-soeharto-al-quran-banyak-menitikberatkan-pembangunan-masyarakat/"
 date: "2014-12-01T16:32:43+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1970-10-04 Presiden Soeharto: Al-Qur’an Banyak Menitikberatkan Pembangunan Masyarakat

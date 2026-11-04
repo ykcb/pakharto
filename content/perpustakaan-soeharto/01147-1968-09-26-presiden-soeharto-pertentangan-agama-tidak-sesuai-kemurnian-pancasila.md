@@ -2,6 +2,7 @@
 title: "1968-09-26 Presiden Soeharto: Pertentangan Agama Tidak Sesuai Kemurnian Pancasila – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-26-presiden-soeharto-pertentangan-agama-tidak-sesuai-kemurnian-pancasila/"
 date: "2014-04-01T02:13:22+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-09-26 Presiden Soeharto: Pertentangan Agama Tidak Sesuai Kemurnian Pancasila

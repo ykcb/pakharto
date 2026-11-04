@@ -2,6 +2,7 @@
 title: "1973-08-09 Presiden Soeharto Minta Jaminan Kekerasan Bandung Tidak Terulang – HM Soeharto"
 source: "https://soehartolibrary.id/1973-08-09-presiden-soeharto-minta-jaminan-kekerasan-bandung-tidak-terulang/"
 date: "2017-08-23T11:36:58+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1973-08-09 Presiden Soeharto Minta Jaminan Kekerasan Bandung Tidak Terulang

@@ -2,6 +2,7 @@
 title: "1970-10-20 Presiden Soeharto: Waspadai Siasat Perkaretan – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-20-presiden-soeharto-waspadai-siasat-perkaretan/"
 date: "2014-12-01T16:25:23+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1970-10-20 Presiden Soeharto: Waspadai Siasat Perkaretan

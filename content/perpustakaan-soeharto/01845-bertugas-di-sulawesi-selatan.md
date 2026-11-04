@@ -2,6 +2,7 @@
 title: "Bertugas di Sulawesi Selatan – HM Soeharto"
 source: "https://soehartolibrary.id/bertugas-di-sulawesi-selatan/"
 date: "2018-01-10T19:13:37+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0435_result.jpg)

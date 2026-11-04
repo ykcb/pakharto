@@ -2,6 +2,7 @@
 title: "JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 5, Habis) – HM Soeharto"
 source: "https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-5-habis/"
 date: "2014-11-25T12:34:04+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/JB-Sumarlin.jpg)

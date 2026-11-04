@@ -2,6 +2,7 @@
 title: "1974-09-12 Presiden Soeharto: Purnawirawan ABRI Harus Tetap Bekerja Untuk Rakyat – HM Soeharto"
 source: "https://soehartolibrary.id/1974-09-12-presiden-soeharto-purnawirawan-abri-harus-tetap-bekerja-untuk-rakyat/"
 date: "2017-08-23T10:53:07+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1974-09-12 Presiden Soeharto: Purnawirawan ABRI Harus Tetap Bekerja Untuk Rakyat

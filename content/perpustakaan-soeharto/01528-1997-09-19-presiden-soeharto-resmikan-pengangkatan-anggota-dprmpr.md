@@ -2,6 +2,7 @@
 title: "1997-09-19 Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR – HM Soeharto"
 source: "https://soehartolibrary.id/1997-09-19-presiden-soeharto-resmikan-pengangkatan-anggota-dprmpr/"
 date: "2017-08-22T16:12:13+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1997-09-19 Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR

@@ -2,6 +2,7 @@
 title: "1969-10-01 Presiden Soeharto Resmikan Tugu DI Panjaitan – HM Soeharto"
 source: "https://soehartolibrary.id/1969-10-01-presiden-soeharto-resmikan-tugu-di-panjaitan/"
 date: "2014-12-01T16:36:36+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-10-01 Presiden Soeharto Resmikan Tugu DI Panjaitan

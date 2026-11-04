@@ -2,6 +2,7 @@
 title: "1976-09-20 Presiden Soeharto Serahkan Pompa Air Untuk Aceh dan Sulsel – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-20-presiden-soeharto-serahkan-pompa-air-untuk-aceh-dan-sulsel/"
 date: "2017-08-22T16:15:40+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1976-09-20 Presiden Soeharto Serahkan Pompa Air Untuk Aceh dan Sulsel

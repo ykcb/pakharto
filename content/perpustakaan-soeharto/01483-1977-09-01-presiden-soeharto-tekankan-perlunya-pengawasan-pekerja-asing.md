@@ -2,6 +2,7 @@
 title: "1977-09-01 Presiden Soeharto Tekankan Perlunya Pengawasan Pekerja Asing – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-01-presiden-soeharto-tekankan-perlunya-pengawasan-pekerja-asing/"
 date: "2017-08-22T16:15:10+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-01 Presiden Soeharto Tekankan Perlunya Pengawasan Pekerja Asing

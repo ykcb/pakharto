@@ -2,6 +2,7 @@
 title: "1976-10-10 Presiden Soeharto Ajak PM Fraser Kunjungi Proyek Penelitian Peternakan Ciawi dan Tapos – HM Soeharto"
 source: "https://soehartolibrary.id/1976-10-10-presiden-soeharto-ajak-pm-fraser-kunjungi-proyek-penelitian-peternakan-ciawi-dan-tapos/"
 date: "2014-06-13T18:49:30+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1976-10-10 Presiden Soeharto Ajak PM Fraser Kunjungi Proyek Penelitian Peternakan Ciawi dan Tapos

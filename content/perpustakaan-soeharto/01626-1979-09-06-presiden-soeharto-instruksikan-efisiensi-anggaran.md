@@ -2,6 +2,7 @@
 title: "1979-09-06 Presiden Soeharto Instruksikan Efisiensi Anggaran – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-06-presiden-soeharto-instruksikan-efisiensi-anggaran/"
 date: "2017-08-22T11:52:39+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1979-09-06 Presiden Soeharto Instruksikan Efisiensi Anggaran

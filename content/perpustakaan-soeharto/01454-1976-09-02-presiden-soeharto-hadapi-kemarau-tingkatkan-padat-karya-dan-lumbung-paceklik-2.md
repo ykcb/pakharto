@@ -2,6 +2,7 @@
 title: "1976-09-02 Presiden Soeharto: Hadapi Kemarau, Tingkatkan Padat Karya dan Lumbung Paceklik – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-02-presiden-soeharto-hadapi-kemarau-tingkatkan-padat-karya-dan-lumbung-paceklik-2/"
 date: "2017-08-22T16:18:51+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1976-09-02 Presiden Soeharto: Hadapi Kemarau, Tingkatkan Padat Karya dan Lumbung Paceklik

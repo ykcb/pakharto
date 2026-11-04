@@ -2,6 +2,7 @@
 title: "1968-08-17 Pesan-Pesan Presiden Soeharto Kepada Masyarakat Indonesia di Luar negeri  – HM Soeharto"
 source: "https://soehartolibrary.id/pesan-pesan-presiden-soeharto-kepada-masyarakat-indonesia-di-luar-negeri/"
 date: "2013-09-04T00:36:00+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-08-17 Pesan-Pesan Presiden Soeharto Kepada Masyarakat Indonesia di Luar negeri

@@ -2,6 +2,7 @@
 title: "1969-05-05 Presiden Soeharto Pada Hari Ulang Tahun Ke- XI LAN – HM Soeharto"
 source: "https://soehartolibrary.id/1969-05-05-presiden-soeharto-pada-hari-ulang-tahun-lan-ke-xi-lan/"
 date: "2013-09-15T04:59:20+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-05-05 Presiden Soeharto Pada Hari Ulang Tahun Ke- XI LAN

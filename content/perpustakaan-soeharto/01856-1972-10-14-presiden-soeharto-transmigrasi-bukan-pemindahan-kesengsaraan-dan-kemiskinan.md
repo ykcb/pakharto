@@ -2,6 +2,7 @@
 title: "1972-10-14 Presiden Soeharto: Transmigrasi Bukan Pemindahan Kesengsaraan dan Kemiskinan – HM Soeharto"
 source: "https://soehartolibrary.id/1972-10-14-presiden-soeharto-transmigrasi-bukan-pemindahan-kesengsaraan-dan-kemiskinan/"
 date: "2014-12-01T16:09:45+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-10-14 Presiden Soeharto: Transmigrasi Bukan Pemindahan Kesengsaraan dan Kemiskinan

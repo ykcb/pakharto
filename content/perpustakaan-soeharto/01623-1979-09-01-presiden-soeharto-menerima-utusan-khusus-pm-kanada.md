@@ -2,6 +2,7 @@
 title: "1979-09-01 Presiden Soeharto Menerima Utusan Khusus PM Kanada – HM Soeharto"
 source: "https://soehartolibrary.id/1979-09-01-presiden-soeharto-menerima-utusan-khusus-pm-kanada/"
 date: "2017-08-22T11:52:57+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1979-09-01 Presiden Soeharto Menerima Utusan Khusus PM Kanada

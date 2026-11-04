@@ -2,6 +2,7 @@
 title: "1969-09-03 Presiden Soeharto Temui Delegasi Ekonomi Swasta Jepang – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-03-presiden-soeharto-temui-delegasi-ekonomi-swasta-jepang/"
 date: "2017-08-22T17:39:37+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1969-09-03 Presiden Soeharto Temui Delegasi Ekonomi Swasta Jepang

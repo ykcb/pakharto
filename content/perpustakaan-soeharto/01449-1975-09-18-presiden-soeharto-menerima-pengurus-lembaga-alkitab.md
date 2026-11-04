@@ -2,6 +2,7 @@
 title: "1975-09-18 Presiden Soeharto Menerima Pengurus Lembaga Alkitab – HM Soeharto"
 source: "https://soehartolibrary.id/1975-09-18-presiden-soeharto-menerima-pengurus-lembaga-alkitab/"
 date: "2017-08-22T16:19:47+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-09-18 Presiden Soeharto Menerima Pengurus Lembaga Alkitab

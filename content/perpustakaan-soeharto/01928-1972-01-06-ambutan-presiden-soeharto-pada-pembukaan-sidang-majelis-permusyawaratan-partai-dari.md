@@ -2,6 +2,7 @@
 title: "1972-01-06 ambutan Presiden Soeharto Pada Pembukaan Sidang Majelis Permusyawaratan Partai dari  – HM Soeharto"
 source: "https://soehartolibrary.id/1972-01-06-ambutan-presiden-soeharto-pada-pembukaan-sidang-majelis-permusyawaratan-partai-dari/"
 date: "2013-10-14T23:21:49+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1972-01-06 ambutan Presiden Soeharto Pada Pembukaan Sidang Majelis Permusyawaratan Partai dari

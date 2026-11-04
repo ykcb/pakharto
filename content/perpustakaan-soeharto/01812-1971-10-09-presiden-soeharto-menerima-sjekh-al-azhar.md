@@ -2,6 +2,7 @@
 title: "1971-10-09 Presiden Soeharto Menerima Sjekh Al-Azhar – HM Soeharto"
 source: "https://soehartolibrary.id/1971-10-09-presiden-soeharto-menerima-sjekh-al-azhar/"
 date: "2014-12-01T16:22:01+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-10-09 Presiden Soeharto Menerima Sjekh Al-Azhar

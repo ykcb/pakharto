@@ -2,6 +2,7 @@
 title: "Ada yang Mau “Ngapusi” Saya – HM Soeharto"
 source: "https://soehartolibrary.id/ada-yang-mau-ngapusi-saya/"
 date: "2018-01-10T19:04:39+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0430_result.jpg)

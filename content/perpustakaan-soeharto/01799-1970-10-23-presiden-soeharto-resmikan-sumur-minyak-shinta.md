@@ -2,6 +2,7 @@
 title: "1970-10-23 Presiden Soeharto Resmikan Sumur Minyak Shinta I – HM Soeharto"
 source: "https://soehartolibrary.id/1970-10-23-presiden-soeharto-resmikan-sumur-minyak-shinta/"
 date: "2014-12-01T16:25:09+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1970-10-23 Presiden Soeharto Resmikan Sumur Minyak Shinta I

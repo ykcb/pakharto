@@ -2,6 +2,7 @@
 title: "1973-09-08 Presiden Soeharto: Dibutuhkan Sarjana Yang Bisa Mengajarkan Bertani Secara Modern – HM Soeharto"
 source: "https://soehartolibrary.id/1973-09-08-presiden-soeharto-dibutuhkan-sarjana-yang-bisa-mengajarkan-bertani-secara-modern/"
 date: "2014-03-21T23:13:15+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1973-09-08 Presiden Soeharto: Dibutuhkan Sarjana Yang Bisa Mengajarkan Bertani Secara Modern

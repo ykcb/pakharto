@@ -2,6 +2,7 @@
 title: "1968-09-17 Presiden Soeharto Bahas Delegasi Penangguhan Hutang – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang/"
 date: "2014-04-01T02:02:40+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-09-17 Presiden Soeharto Bahas Delegasi Penangguhan Hutang

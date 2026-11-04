@@ -2,6 +2,7 @@
 title: "BS Muljana: Pak Harto Merencana Untuk Masa Kini Dan Masa Nanti (Bagian 1) – HM Soeharto"
 source: "https://soehartolibrary.id/bs-muljana-pak-harto-merencana-untuk-masa-kini-dan-masa-nanti-bagian-1/"
 date: "2017-02-14T18:03:43+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 ![Merencana Untuk Masa Kini Dan Masa Nanti](https://soehartolibrary.id/wp-content/uploads/2013/10/83360013_result.jpg)

@@ -2,6 +2,7 @@
 title: "1975-09-26 Fretilin Tembak Pasukan ABRI di Perbatasan, Presiden Soeharto Instruksikan Tingkatkan Kewaspadaan – HM Soeharto"
 source: "https://soehartolibrary.id/1975-09-26-fretilin-tembak-pasukan-abri-di-perbatasan-presiden-soeharto-instruksikan-tingkatkan-kewaspadaan/"
 date: "2017-08-22T16:20:08+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 # 1975-09-26 Fretilin Tembak Pasukan ABRI di Perbatasan, Presiden Soeharto Instruksikan Tingkatkan Kewaspadaan

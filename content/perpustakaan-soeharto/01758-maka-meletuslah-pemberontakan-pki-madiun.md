@@ -2,6 +2,7 @@
 title: "Maka Meletuslah Pemberontakan PKI Madiun – HM Soeharto"
 source: "https://soehartolibrary.id/maka-meletuslah-pemberontakan-pki-madiun/"
 date: "2018-01-10T19:07:32+07:00"
+kategori: keamanan-dan-kebebasan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0412-copy_result.jpg)

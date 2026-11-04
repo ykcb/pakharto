@@ -2,6 +2,7 @@
 title: "1971-09-28 Presiden Soeharto Serahkan Bantuan Untuk Gunung Kidul – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-28-presiden-soeharto-serahkan-bantuan-untuk-gunung-kidul/"
 date: "2017-08-23T11:05:34+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-09-28 Presiden Soeharto Serahkan Bantuan Untuk Gunung Kidul

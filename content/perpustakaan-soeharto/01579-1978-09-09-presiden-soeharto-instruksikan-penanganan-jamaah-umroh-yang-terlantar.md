@@ -2,6 +2,7 @@
 title: "1978-09-09 Presiden Soeharto Instruksikan Penanganan Jamaah Umroh Yang Terlantar – HM Soeharto"
 source: "https://soehartolibrary.id/1978-09-09-presiden-soeharto-instruksikan-penanganan-jamaah-umroh-yang-terlantar/"
 date: "2017-08-22T16:09:17+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1978-09-09 Presiden Soeharto Instruksikan Penanganan Jamaah Umroh Yang Terlantar

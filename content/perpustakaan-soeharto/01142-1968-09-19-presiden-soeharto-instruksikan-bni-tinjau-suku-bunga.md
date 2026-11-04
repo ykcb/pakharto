@@ -2,6 +2,7 @@
 title: "1968-09-19 Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga/"
 date: "2014-04-01T02:14:35+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1968-09-19 Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga

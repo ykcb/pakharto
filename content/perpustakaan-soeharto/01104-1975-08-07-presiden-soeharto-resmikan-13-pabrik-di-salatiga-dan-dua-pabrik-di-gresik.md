@@ -2,6 +2,7 @@
 title: "1976-08-07 Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabrik di Gresik – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik/"
 date: "2017-08-22T17:42:50+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1976-08-07 Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabrik di Gresik

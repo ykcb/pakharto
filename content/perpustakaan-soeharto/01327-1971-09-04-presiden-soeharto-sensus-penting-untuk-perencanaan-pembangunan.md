@@ -2,6 +2,7 @@
 title: "1971-09-04 Presiden Soeharto: Sensus Penting Untuk Perencanaan Pembangunan – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-04-presiden-soeharto-sensus-penting-untuk-perencanaan-pembangunan/"
 date: "2017-08-22T16:21:29+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1971-09-04 Presiden Soeharto: Sensus Penting Untuk Perencanaan Pembangunan

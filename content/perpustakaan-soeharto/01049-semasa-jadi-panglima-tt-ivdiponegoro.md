@@ -2,6 +2,7 @@
 title: "Semasa Jadi Panglima TT-IV/Diponegoro – HM Soeharto"
 source: "https://soehartolibrary.id/semasa-jadi-panglima-tt-ivdiponegoro/"
 date: "2018-01-10T19:16:22+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/08/Bersama-Bung-Karno.jpg)

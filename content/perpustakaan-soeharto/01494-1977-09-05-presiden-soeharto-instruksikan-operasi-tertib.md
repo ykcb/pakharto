@@ -2,6 +2,7 @@
 title: "1977-09-05 Presiden Soeharto Instruksikan Operasi Tertib – HM Soeharto"
 source: "https://soehartolibrary.id/1977-09-05-presiden-soeharto-instruksikan-operasi-tertib/"
 date: "2017-07-05T15:19:50+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1977-09-05 Presiden Soeharto Instruksikan Operasi Tertib

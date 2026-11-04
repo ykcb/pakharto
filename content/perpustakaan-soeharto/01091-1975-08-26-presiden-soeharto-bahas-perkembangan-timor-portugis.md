@@ -2,6 +2,7 @@
 title: "1975-08-30 Presiden Soeharto Bahas Perkembangan Timor Portugis – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-26-presiden-soeharto-bahas-perkembangan-timor-portugis/"
 date: "2014-03-21T23:29:07+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-08-30 Presiden Soeharto Bahas Perkembangan Timor Portugis

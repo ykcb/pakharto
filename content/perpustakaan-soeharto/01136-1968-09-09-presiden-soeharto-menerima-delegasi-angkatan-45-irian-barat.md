@@ -2,6 +2,7 @@
 title: "1968-09-09 Presiden Soeharto Menerima Delegasi Angkatan ’45 Irian Barat – HM Soeharto"
 source: "https://soehartolibrary.id/1968-09-09-presiden-soeharto-menerima-delegasi-angkatan-45-irian-barat/"
 date: "2014-04-01T02:15:57+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1968-09-09 Presiden Soeharto Menerima Delegasi Angkatan ’45 Irian Barat

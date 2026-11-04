@@ -2,6 +2,7 @@
 title: "1975-08-19 Presiden Soeharto Resmikan Gedung Pancasila Deplu – HM Soeharto"
 source: "https://soehartolibrary.id/1975-08-19-presiden-soeharto-resmikan-gedung-pancasila-deplu/"
 date: "2017-08-22T17:45:14+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1975-08-19 Presiden Soeharto Resmikan Gedung Pancasila Deplu

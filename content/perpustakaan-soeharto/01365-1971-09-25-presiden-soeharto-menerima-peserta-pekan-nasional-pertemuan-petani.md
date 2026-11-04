@@ -2,6 +2,7 @@
 title: "1971-09-25 Presiden Soeharto Menerima Peserta Pekan Nasional Pertemuan Petani – HM Soeharto"
 source: "https://soehartolibrary.id/1971-09-25-presiden-soeharto-menerima-peserta-pekan-nasional-pertemuan-petani/"
 date: "2017-08-23T11:06:43+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-09-25 Presiden Soeharto Menerima Peserta Pekan Nasional Pertemuan Petani

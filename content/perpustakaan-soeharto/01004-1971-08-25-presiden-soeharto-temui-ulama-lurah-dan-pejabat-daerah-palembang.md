@@ -2,6 +2,7 @@
 title: "1971-08-25 Presiden Soeharto Temui Ulama, Lurah dan Pejabat Daerah Palembang – HM Soeharto"
 source: "https://soehartolibrary.id/1971-08-25-presiden-soeharto-temui-ulama-lurah-dan-pejabat-daerah-palembang/"
 date: "2017-08-24T15:09:21+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1971-08-25 Presiden Soeharto Temui Ulama, Lurah dan Pejabat Daerah Palembang

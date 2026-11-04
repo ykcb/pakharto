@@ -2,6 +2,7 @@
 title: "1973-11-12 Presiden dan Ibu Tien Menerima Ketua IGGI JP Pronk Beserta Nyonya – HM Soeharto"
 source: "https://soehartolibrary.id/1973-11-12-presiden-dan-ibu-tien-menerima-ketua-iggi-jp-pronk-beserta-nyonya/"
 date: "2016-01-20T03:16:05+07:00"
+kategori: ekonomi-dan-kepemilikan
 ---
 
 # 1973-11-12 Presiden dan Ibu Tien Menerima Ketua IGGI JP Pronk Beserta Nyonya

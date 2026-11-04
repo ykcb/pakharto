@@ -2,6 +2,7 @@
 title: "1976-09-16 Presiden Soeharto Bahas Harga Dasar Gabah dan Pupuk – HM Soeharto"
 source: "https://soehartolibrary.id/1976-09-16-presiden-soeharto-bahas-harga-dasar-gabah-dan-pupuk/"
 date: "2017-08-22T16:15:50+07:00"
+kategori: pembangunan-dan-kehidupan
 ---
 
 # 1976-09-16 Presiden Soeharto Bahas Harga Dasar Gabah dan Pupuk

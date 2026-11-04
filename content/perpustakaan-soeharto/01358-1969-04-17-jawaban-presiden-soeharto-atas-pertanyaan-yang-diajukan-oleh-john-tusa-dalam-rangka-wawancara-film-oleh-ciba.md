@@ -2,6 +2,7 @@
 title: "1969-04-17 Jawaban  Presiden Soeharto Atas Pertanyaan Yang Diajukan Oleh John Tusa Dalam Rangka Wawancara Film Oleh Ciba  – HM Soeharto"
 source: "https://soehartolibrary.id/1969-04-17-jawaban-presiden-soeharto-atas-pertanyaan-yang-diajukan-oleh-john-tusa-dalam-rangka-wawancara-film-oleh-ciba/"
 date: "2013-09-12T23:24:50+07:00"
+kategori: kekuasaan-dan-legitimasi
 ---
 
 # 1969-04-17 Jawaban Presiden Soeharto Atas Pertanyaan Yang Diajukan Oleh John Tusa Dalam Rangka Wawancara Film Oleh Ciba
