@@ -1,0 +1,25 @@
+---
+title: "1974-08-08 Presiden Soeharto Kunjungi Lembaga Pendidikan Tertua Padang Panjang dan Resmikan Pusri II – HM Soeharto"
+source: "https://soehartolibrary.id/1974-08-08-presiden-soeharto-kunjungi-lembaga-pendidikan-tertua-padang-panjang-dan-resmikan-pusri-ii/"
+date: "2017-08-23T11:19:23+07:00"
+---
+
+# 1974-08-08 Presiden Soeharto Kunjungi Lembaga Pendidikan Tertua Padang Panjang dan Resmikan Pusri II
+
+25 Agustus 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1974-08-08-presiden-soeharto-kunjungi-lembaga-pendidikan-tertua-padang-panjang-dan-resmikan-pusri-ii/#respond)  106 Views Share on
+
+# Presiden Soeharto Kunjungi Lembaga Pendidikan Tertua Padang Panjang dan Resmikan Pusri II
+
+## Intensifikasi Pertanian Mustahil Tanpa Pupuk[[1]](#_ftn1)
+
+KAMIS, 08 AGUSTUS 1974, Pagi ini Presiden dan rombongan meninggalkan Bukittinggi menuju Padang, untuk selanjutnya terbang ke Palembang. Dalam perjalanan ke Padang, Presiden dan Ibu Soeharto singgah selama setengah jam di Padang Panjang untuk meninjau Perguruan Diniyah Puteri. Perguruan ini merupakan salah sebuah lembaga pendidikan tertua di Sumatera Barat. Di sini Kepala Negara sangat terharu melihat asrama pelajar yang ada dalam keadaan menyedihkan. Ia berjanji akan memberi bantuan untuk pembangunan asrama sekolah tersebut.
+
+Dalam amanatnya Presiden mengatakan bahwa intensifikasi pertanian mustahil dapat terlaksana tanpa pupuk. Oleh karena itu sangat jelas bahwa tantangan yang dihadapkan kepada industri pupuk adalah sangat besar. Dikemukakannya bahwa pabrik pupuk Pusri II adalah salah satu jawaban untuk itu. Tetapi kita tidak boleh berhenti sampai disini, melainkan harus segera melanjutkan dengan pembangunan Pusri III, sehingga produksi keseluruhan Pusri mencapai satu juta ton.
+
+Presiden mengingatkan bahwa kebutuhan kita akan pupuk masih lebih besar dari apa yang mampu kita hasilkan sampai saat ini. Karenanya disamping pabrik pupuk Pusri, kita juga sedang dan akan membangun pabrik-pabrik pupuk lainnya. Demikian Presiden.  (AFR)
+
+---
+
+[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 146-147. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+
+ [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Bukittinggi](https://soehartolibrary.id/tag/bukittinggi/), [Padang](https://soehartolibrary.id/tag/padang/), [padang panjang](https://soehartolibrary.id/tag/padang-panjang/), [Palembang](https://soehartolibrary.id/tag/palembang/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Pusri II](https://soehartolibrary.id/tag/pusri-ii/), [Pusri III](https://soehartolibrary.id/tag/pusri-iii/)
