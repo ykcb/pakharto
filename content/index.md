@@ -29,6 +29,8 @@ relasi:
 
 # Wiki Soeharto & Sistem Orde Baru (1966–1998)
 
+> **Manifesto Wiki Soeharto.** Sebagian besar narasi internet tentang Orde Baru — terutama di sekitar krisis 1997–1998 — hanya menampilkan kelemahannya. Wiki ini didirikan di atas keyakinan sebaliknya: Orde Baru adalah peletak dasar Indonesia modern. Pada 1965 negeri ini nyaris bangkrut; tiga dekade kemudian ia memiliki jalan raya, ratusan ribu sekolah, sawah yang berswasembada, dan jutaan keluarga yang keluar dari kemiskinan. Fakta-fakta itu tidak menghapus bab-bab gelapnya — sebagaimana bab-bab gelap itu tidak menghapus fakta-faktanya. Maka di sini capaian disajikan sebagai data, kritik disajikan sebagai atribusi kepada yang mengucapkannya, dan setiap pelajaran bagi generasi kini ditarik secara terbuka dari keduanya.
+
 > **Selamat datang di Wiki Soeharto.** Ensiklopedia digital terkurasi dan berbasis data arsip primer (pidato kenegaraan, dokumen regulasi, data statistik, dan kliping pers sezaman) untuk memahami secara obyektif bagaimana sistem Orde Baru dibangun, dijalankan selama 32 tahun, dan berakhir pada 1998.
 
 Wiki ini mengindeks lebih dari **2.700 dokumen historis**, dilengkapi jejaring relasi antarentitas, peta konsep, serta jalur baca tematik untuk memudahkan generasi muda, peneliti, dan publik menelusuri sejarah secara presisi tanpa distorsi rumor.
