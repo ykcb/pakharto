@@ -1,6 +1,6 @@
 ---
 title: "Perpustakaan Soeharto"
-description: "1.000 artikel, pidato, dokumen, dan kliping pers dari soehartolibrary.id — fondasi sumber primer Wiki Soeharto, tersusun dalam 5 kategori besar."
+description: "1.000 artikel, pidato, dokumen, dan kliping pers dari soehartolibrary.id — fondasi sumber primer Wiki Soeharto, tersusun mengikuti halaman-halaman hub."
 date: 2026-11-04
 updated: 2026-11-04
 last_updated: "2026-11-04"
@@ -9,39 +9,54 @@ tags: [perpustakaan, index, orde-baru]
 
 # Perpustakaan Soeharto
 
-**1.000 artikel, pidato, dokumen, dan kliping pers** dari soehartolibrary.id — fondasi sumber primer wiki ini. Di halaman-halaman utama, capaian disajikan sebagai data dan kritik sebagai atribusi; di sinilah datanya dapat diperiksa langsung: pidato kenegaraan Soeharto, dokumen kebijakan, berita sezaman, kesaksian, dan tulisan opini tentangnya.
+**1.000 artikel, pidato, dokumen, dan kliping pers** dari soehartolibrary.id — fondasi sumber primer wiki ini. Di halaman-halaman hub, capaian disajikan sebagai data dan kritik sebagai atribusi; di sinilah datanya dapat diperiksa langsung: pidato kenegaraan Soeharto, dokumen kebijakan, berita sezaman, kesaksian, dan tulisan opini tentangnya.
 
-Koleksi ini disusun dalam **5 kategori besar wiki**, sehingga setiap artikel melengkapi satu pemikiran utuh: memahami Orde Baru secara berimbang — capaian sebagai data, kritik sebagai atribusi, dan pelajaran yang ditarik terbuka dari keduanya.
+Koleksi ini disusun mengikuti **halaman-hub wiki** — esai-esai tematik yang merangkum satu pemikiran utuh tentang Orde Baru. Setiap hub dilengkapi sorotan arsip primer yang melengkapinya.
 
-## 🏛️ Kekuasaan & Legitimasi — 518 artikel
+## 🏛️ [[hub/orde-baru|Orde Baru (1966–1998)]]
 
-Bagaimana kekuasaan Orde Baru dibangun dan dijalankan: pidato kenegaraan, diplomasi luar negeri, pemilu, MPR/DPR, hukum dan konstitusi, birokrasi, serta biografi Soeharto. → [[kategori/kekuasaan-dan-legitimasi|Baca esai kategori]]
+Gambaran menyeluruh 32 tahun Orde Baru: dari Supersemar hingga lengser — periodisasi, capaian, kontroversi, dan warisan. Arsip fondasinya:
 
-Sorotan: [[perpustakaan-soeharto/00034-lahirnya-supersemar|Lahirnya "Supersemar"]], [[perpustakaan-soeharto/00447-1967-03-13-pidato-pengangkatan-jenderal-soeharto-sebagai-pejabat-presiden|Pidato Pengangkatan Sebagai Pejabat Presiden (1967)]], [[perpustakaan-soeharto/00108-soal-konstitusi-kita|Soal Konstitusi Kita]], [[perpustakaan-soeharto/00118-tritura-berkumandang|TRITURA Berkumandang]]
+- [[perpustakaan-soeharto/00001-masa-kecil|Masa Kecil]] — biografi awal Soeharto
+- [[perpustakaan-soeharto/00034-lahirnya-supersemar|Lahirnya "Supersemar"]]
+- [[perpustakaan-soeharto/00362-ke-tangga-pejabat-presiden|Ke Tangga Pejabat Presiden]]
+- [[perpustakaan-soeharto/00644-wawasan-nusantara-bagian-1|Wawasan Nusantara (Bagian 1)]]
+- [[perpustakaan-soeharto/00061-yang-disebut-petrus|Yang Disebut "PETRUS"]] — salah satu bab paling diperdebatkan
+- [[perpustakaan-soeharto/00033-serangan-umum-1-maret-1949|Serangan Umum 1 Maret 1949]]
 
-## 💰 Ekonomi & Kepemilikan — 141 artikel
+## 🗳️ [[hub/pemilu-orde-baru|Pemilu-pemilu Orde Baru]]
 
-Mesin ekonomi Orde Baru: APBN, stabilisasi, perdagangan, industri, BUMN, investasi, dan perdebatan tentang siapa menguasai apa. → [[kategori/ekonomi-dan-kepemilikan|Baca esai kategori]]
+Bagaimana pemilu dijalankan enam kali (1971–1997), siapa bertarung, dan bagaimana hasilnya dibaca — dengan data partisipasi pemilih terverifikasi. Arsip fondasinya:
 
-Sorotan: [[perpustakaan-soeharto/00120-kebijakan-ekonomi-era-orde-baru|Kebijakan Ekonomi Era Orde Baru]], [[perpustakaan-soeharto/00575-pak-harto-dan-trilogi-pembangunan-1|Pak Harto dan Trilogi Pembangunan]], [[perpustakaan-soeharto/00126-751|Distribusi Pendapatan Lebih Merata Jaman Orba]], [[perpustakaan-soeharto/00657-1968-06-15-presiden-soeharto-membuka-jakarta-fair|Membuka Jakarta Fair (1968)]]
+- [[perpustakaan-soeharto/00189-1972-03-06-pengangkatan-anggota-mpr|Pengangkatan Anggota MPR (1972)]]
+- [[perpustakaan-soeharto/00341-1971-04-07-presiden-soeharto-kampanye-harus-bijaksana|Kampanye Harus Bijaksana (1971)]]
+- [[perpustakaan-soeharto/00063-1970-02-07-wacana-penyederhanaan-partai|Wacana Penyederhanaan Partai Politik (1970)]]
+- [[perpustakaan-soeharto/00710-1971-06-12-presiden-soeharto-bahas-golput|Membahas Golput (1971)]]
 
-## 🛡️ Keamanan & Kebebasan — 83 artikel
+## 💰 [[hub/ekonomi-orde-baru|Ekonomi Orde Baru]]
 
-Sisi keamanan negara: ABRI, operasi militer, intelijen, konflik, dan penegakan ketertiban — termasuk bab-bab yang paling diperdebatkan. → [[kategori/keamanan-dan-kebebasan|Baca esai kategori]]
+Mesin ekonomi Orde Baru: stabilisasi, Repelita, industrialisasi, dan perdebatan tentang siapa menguasai apa — dengan angka-angka capaian. Arsip fondasinya:
 
-Sorotan: [[perpustakaan-soeharto/00061-yang-disebut-petrus|Yang Disebut "PETRUS"]], [[perpustakaan-soeharto/00033-serangan-umum-1-maret-1949|Serangan Umum 1 Maret 1949]], [[perpustakaan-soeharto/00489-1967-07-01-amanat-pejabat-presiden-soeharto-pada-hari-bhayangkara|Amanat Pada Hari Bhayangkara (1967)]], [[perpustakaan-soeharto/00950-1969-08-24-presiden-soeharto-tidak-ada-de-siliwangisasi|Tidak Ada De-Siliwangisasi (1969)]]
+- [[perpustakaan-soeharto/00120-kebijakan-ekonomi-era-orde-baru|Kebijakan Ekonomi Era Orde Baru]]
+- [[perpustakaan-soeharto/00575-pak-harto-dan-trilogi-pembangunan-1|Pak Harto dan Trilogi Pembangunan]]
+- [[perpustakaan-soeharto/00126-751|Distribusi Pendapatan Lebih Merata Jaman Orba]]
+- [[perpustakaan-soeharto/00657-1968-06-15-presiden-soeharto-membuka-jakarta-fair|Membuka Jakarta Fair (1968)]]
 
-## 🌱 Pembangunan & Kehidupan — 243 artikel
+## 🌱 [[hub/kehidupan-rakyat|Kehidupan Rakyat dan Pembangunan Sosial]]
 
-Pembangunan yang menyentuh rakyat: desa dan pertanian, kesehatan, pendidikan, agama, budaya, olahraga, dan infrastruktur. → [[kategori/pembangunan-dan-kehidupan|Baca esai kategori]]
+Pembangunan yang menyentuh rakyat: desa dan pertanian, kesehatan, pendidikan, agama, dan budaya. Arsip fondasinya:
 
-Sorotan: [[perpustakaan-soeharto/00411-1975-04-20-presiden-soeharto-resmikan-tmii|Meresmikan TMII (1975)]], [[perpustakaan-soeharto/00145-petani-hanya-pak-harto-yang-sayang-kami|Petani: Hanya Pak Harto Yang Sayang Kami]], [[perpustakaan-soeharto/00231-presiden-soeharto-mengunjungi-pondok-moderen-gontor|Mengunjungi Pondok Modern Gontor]], [[perpustakaan-soeharto/00586-1972-05-02-presiden-soeharto-resmikan-bendungan-karangkates-malang|Meresmikan Bendungan Karangkates (1972)]]
+- [[perpustakaan-soeharto/00411-1975-04-20-presiden-soeharto-resmikan-tmii|Meresmikan TMII (1975)]]
+- [[perpustakaan-soeharto/00145-petani-hanya-pak-harto-yang-sayang-kami|Petani: Hanya Pak Harto Yang Sayang Kami]]
+- [[perpustakaan-soeharto/00231-presiden-soeharto-mengunjungi-pondok-moderen-gontor|Mengunjungi Pondok Modern Gontor]]
+- [[perpustakaan-soeharto/00586-1972-05-02-presiden-soeharto-resmikan-bendungan-karangkates-malang|Meresmikan Bendungan Karangkates (1972)]]
 
-## 📉 Krisis & Reformasi — 15 artikel
+## 📉 [[hub/krisis-dan-reformasi-1998|Krisis Moneter dan Gerakan Reformasi 1998]]
 
-Akhir Orde Baru dan penilaian ulang sesudahnya: krisis 1997–1998, lengsernya Soeharto, dan evaluasi era reformasi terhadap warisannya. → [[kategori/krisis-dan-reformasi|Baca esai kategori]]
+Akhir Orde Baru: krisis moneter, gerakan mahasiswa, kerusuhan Mei 1998, dan berhentinya Soeharto — dengan konteks krisis regional Asia. Arsip fondasinya:
 
-Sorotan: [[perpustakaan-soeharto/00004-presiden-soeharto-dan-misteri-kemelut-1998|Presiden Soeharto dan Misteri Kemelut 1998]], [[perpustakaan-soeharto/00132-reformasi-jauh-dari-target-mdgs|Reformasi Jauh Dari Target MDGs]]
+- [[perpustakaan-soeharto/00004-presiden-soeharto-dan-misteri-kemelut-1998|Presiden Soeharto dan Misteri Kemelut 1998]]
+- [[perpustakaan-soeharto/00132-reformasi-jauh-dari-target-mdgs|Reformasi Jauh Dari Target MDGs]]
 
 ---
 
