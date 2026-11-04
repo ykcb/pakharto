@@ -124,14 +124,12 @@ content/
 ├── konsep/         # penjelas istilah (Dwifungsi ABRI, Trilogi Pembangunan, dsb.)
 ├── lembaga/        # lembaga/organisasi khas Orde Baru (Kopkamtib, Bakin, Bulog era Orba, dsb.)
 ├── regulasi/       # UU, Tap MPR, Keppres, Inpres yang menjadi tonggak (ringkas + tautan naskah)
-├── kategori/       # halaman arsip 6 kategori publik (§10)
 ├── pelajaran/      # track Pelajaran: apa yang bisa dipelajari generasi kini — pola Fakta → Inferensi berlabel → Batas data + disclaimer (§5.4)
-├── index.md        # homepage: blok "Mulai dari Sini!" (6 kategori) + "Baru Update"
+├── index.md        # homepage: manifesto + track Pelajaran + halaman hub
 └── ...             # halaman root lain hanya bila perlu, jangan menumpuk di root
 docs/
 ├── playbook-halaman-rujukan.md   # dokumen operasional §7 (source of truth konten)
 ├── youth-relevance/               # metode + peta + rubrik (diadaptasi, bukan ditempel mentah)
-└── taksonomi-kategori.md          # definisi kategori §10
 proposals/          # semua draf + ekstraksi low-confidence, menunggu review
 data-teknisi/       # BUKAN konten wiki — paket unduhan teknisi + manifest (§17), tidak diindeks sebagai halaman
 ```
@@ -163,7 +161,7 @@ entity_id: "dwifungsi-abri"
 aliases:
   - "Dwi Fungsi ABRI"
 tags: [konsep, abri, orde-baru]   # HANYA dari daftar tag canonical (lihat §5.3)
-kategori: konsep                  # tepat satu kategori utama (§10)
+kategori: konsep                  # OPSIONAL, label topik internal (halaman kategori dihapus 4 Nov 2026)
 kategori_tambahan: []             # opsional, untuk halaman lintas kategori
 risiko_editorial: sedang         # rendah | sedang | tinggi
 status: ""                        # kosong, atau "stub" bila body < 200 karakter
@@ -196,7 +194,7 @@ Catatan dari pelajaran irawiki (Fase 1, Oktober 2026):
 
 ### 5.3 Tag canonical
 
-Tags adalah indeks halus (fine-grained), kategori adalah navigasi kasar (§10). Keduanya **tidak dicampur**. Daftar tag canonical dibuat di Fase 1 dari impor awal, lalu dinormalisasi (pelajaran irawiki: 235 → 226 halaman tag canonical). Tag baru hanya lewat review, bukan dibuat spontan per halaman.
+Tags adalah indeks halus (fine-grained). Navigasi kasar lewat halaman hub (§10.3). Keduanya **tidak dicampur**. Daftar tag canonical dibuat di Fase 1 dari impor awal, lalu dinormalisasi (pelajaran irawiki: 235 → 226 halaman tag canonical). Tag baru hanya lewat review, bukan dibuat spontan per halaman.
 
 ---
 
@@ -222,7 +220,7 @@ Prinsip template: **definisi dulu, fakta terstruktur, sumber ber-link, tanggal j
 Judul section relevansi yang berlaku (keputusan irawiki 21 Oktober 2026, dipakai juga di sini):
 
 ```
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 ```
 
 Konvensi lama `## Kenapa penting buat Gen Z` tidak dipakai lagi untuk halaman baru.
@@ -232,7 +230,7 @@ Konvensi lama `## Kenapa penting buat Gen Z` tidak dipakai lagi untuk halaman ba
 ```
 > **Ringkasan:** 2–3 kalimat: definisi topik + status terkini (untuk sejarah: apa yang sudah terjadi + apa warisannya yang masih bisa dilacak).
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 1–3 paragraf faktual, rantai mekanisme dari fakta halaman (lihat §1.3).
 
 ## Fakta kunci
@@ -262,7 +260,7 @@ Sama seperti hub, tanpa `## Fakta kunci` bila tidak relevan. Kronologi di sini a
 
 ### 7.3 Analisis
 
-1. Ringkasan. 2. `## Apa relevansinya dengan anak muda?` 3. `## Fakta yang relevan` (bullet, bersumber — hanya fakta yang sudah ada di halaman wiki + sumber terverifikasi, tanpa fakta karangan). 4. `## Perspektif / Interpretasi` — dilabeli jelas sebagai interpretasi, bukan fakta. 5. Sumber.
+1. Ringkasan. 2. `## Apa pelajaran yang bisa kita ambil darinya?` 3. `## Fakta yang relevan` (bullet, bersumber — hanya fakta yang sudah ada di halaman wiki + sumber terverifikasi, tanpa fakta karangan). 4. `## Perspektif / Interpretasi` — dilabeli jelas sebagai interpretasi, bukan fakta. 5. Sumber.
 
 Analisis yang berdiri sendiri boleh tetap halaman terpisah, dan **ditautkan dari hub** di bagian "Analisis terkait". Jangan menyelipkan interpretasi panjang ke dalam hub faktual.
 
@@ -270,15 +268,15 @@ Analisis yang berdiri sendiri boleh tetap halaman terpisah, dan **ditautkan dari
 
 1. Definisi 1 kalimat: "X adalah …".
 2. Infobox tabel: Nama lengkap, Alias, Lahir, Basis daerah (bila relevan dan terverifikasi), Jabatan/peran aktif pada masa Orde Baru, Afiliasi utama.
-3. `## Apa relevansinya dengan anak muda?` — boleh sangat terbatas atau pendek untuk halaman biografis; jangan dipaksa panjang.
+3. `## Apa pelajaran yang bisa kita ambil darinya?` — boleh sangat terbatas atau pendek untuk halaman biografis; jangan dipaksa panjang.
 4. Rekam jejak bertanggal (pola yang sama dengan Kronologi hub, tapi fokus pada aktor).
 5. Relasi (wikilink). 6. Sumber.
 
 ### 7.5 Konsep
 
-1. Definisi 1–2 kalimat yang bisa dikutip. 2. Asal-usul dan dasar hukum/dokumen (bila ada). 3. Bagaimana konsep itu bekerja dalam praktik Orde Baru (dengan contoh peristiwa yang ditautkan, bukan contoh karangan). 4. `## Apa relevansinya dengan anak muda?` 5. Halaman yang memakai konsep ini (taut dua arah). 6. Sumber + Catatan presisi (perbedaan definisi antar-sumber ditulis eksplisit, bukan dipilih diam-diam satu versi).
+1. Definisi 1–2 kalimat yang bisa dikutip. 2. Asal-usul dan dasar hukum/dokumen (bila ada). 3. Bagaimana konsep itu bekerja dalam praktik Orde Baru (dengan contoh peristiwa yang ditautkan, bukan contoh karangan). 4. `## Apa pelajaran yang bisa kita ambil darinya?` 5. Halaman yang memakai konsep ini (taut dua arah). 6. Sumber + Catatan presisi (perbedaan definisi antar-sumber ditulis eksplisit, bukan dipilih diam-diam satu versi).
 
-Kriteria masuk konsep: dipakai ≥ 2 halaman, atau menjadi kunci memahami satu benang/kategori (§10). Jangan membuat halaman konsep untuk istilah yang hanya muncul sekali.
+Kriteria masuk konsep: dipakai ≥ 2 halaman, atau menjadi kunci memahami satu benang (§10.3). Jangan membuat halaman konsep untuk istilah yang hanya muncul sekali.
 
 ### 7.6 Regulasi / Lembaga
 
@@ -339,41 +337,15 @@ Filter irawiki (28 Oktober 2026) dipakai, dengan penyesuaian untuk bahan sejarah
 
 ---
 
-## 10. Taksonomi publik wiki Orde Baru — DRAF, menunggu keputusan user
+## 10. Taksonomi publik — DIBATALKAN 4 Nov 2026
 
-### 10.1 Prinsip taksonomi — DIPINJAM dari irawiki
-
-Keputusan irawiki 22 Oktober 2026 dipakai sebagai pola, **bukan** sebagai isi:
-
-- Kategori DIPUBLIKASIKAN sebagai taksonomi resmi dan ditampilkan di index/homepage — bukan istilah internal.
-- Format dua lapis: **nama tampil** (singkat, menarik, bentuk pertanyaan bila cocok) + **deskriptor** (menjelaskan isi + memuat kata kunci untuk pencarian manusia & LLM).
-- Slug berbasis kata kunci, nama tampil berbasis brand.
-- Satu kategori utama per halaman (`kategori:`), lintas kategori via `kategori_tambahan`.
-- Setiap kategori = halaman arsip di `kategori/<slug>.md` berisi definisi kategori + daftar anggota (Hub · Peristiwa · Analisis · Aktor), dipelihara manual dulu di fase awal.
-- Index/homepage: blok "Mulai dari Sini!" berisi kategori-kategori itu; daftar entri terbaru dipindah ke blok "Baru Update" tersendiri (jangan dihapus); "Atau Telusuri Semua" di paling bawah/sidebar.
-- Kategori + deskriptornya masuk ke `llms.txt`.
-- Tags tetap indeks halus; kategori adalah navigasi kasar. Keduanya tidak dicampur.
-
-### 10.2 Usulan 6 kategori Orde Baru — DRAF, BUKAN final
-
-Nama-nama di bawah ini adalah **usulan agen konten untuk didiskusikan**, bukan keputusan user. Jangan menganggapnya final seperti nama irawiki 22 Oktober 2026. **[KEPUTUSAN USER]** untuk nama tampil final, deskriptor final, dan slug final.
-
-| # | Nama tampil (USULAN) | Deskriptor (USULAN) | Slug (USULAN) |
-|---|---|---|---|
-| 1 | Bagaimana Orde Baru Berkuasa? | Transisi kekuasaan, legitimasi, pemilu, militer, dan aturan main politik 1966–1998 | `kekuasaan-dan-legitimasi` |
-| 2 | Siapa Menguasai Ekonomi? | Pembangunan, konglomerat, BUMN, utang, dan konsentrasi kepemilikan di era Orde Baru | `ekonomi-dan-kepemilikan` |
-| 3 | Siapa Diawasi, Siapa Dibungkam? | Keamanan, intelijen, pers, dan penindakan terhadap oposisi dan kritik | `keamanan-dan-kebebasan` |
-| 4 | Bagaimana Rakyat Hidup? | Desa, buruh, tani, pendidikan, transmigrasi, dan kehidupan sehari-hari di bawah pembangunan Orde Baru | `pembangunan-dan-kehidupan` |
-| 5 | Bagaimana Orde Baru Berakhir? | Krisis 1997–1998, gerakan reformasi, dan transisi keluar dari Orde Baru | `krisis-dan-reformasi` |
-| 6 | Konsep Kunci | Penjelas istilah dan konsep yang sering dipakai untuk memahami Orde Baru | `konsep` |
-
-Catatan: nama kategori 3 sengaja dibuat pertanyaan netral-faktual, bukan vonis. Nada kategori harus mengundang baca, bukan menghakimi di judul. Kalau user ingin nada berbeda, itu keputusan user, bukan agen.
+**Keputusan user 4 Nov 2026:** sistem 6 kategori publik dihapus — halamannya dinilai bias dan tumpang tindih dengan halaman hub. Topik-topik penting era Orde Baru dijelaskan lewat **halaman hub** (§10.3), bukan kategori. Field frontmatter `kategori:` tetap ada sebagai label topik internal opsional; tidak lagi menunjuk ke halaman arsip.
 
 ### 10.3 Hub induk dan benang baca — DISESUAIKAN
 
 Irawiki punya poros "Kinerja Pemerintahan" sebagai peta isi per bidang. Padanan untuk wiki Orde Baru:
 
-- **Hub induk: "Orde Baru (1966–1998)"** — peta isi, bukan ensiklopedia dalam satu halaman. Isinya: definisi singkat, periodisasi kerja (lihat §10.4), daftar hub per kategori, dan jalur baca. Bidang yang materinya cukup tumbuh menjadi hub sendiri; hub induk tetap ringkasan + penunjuk.
+- **Hub induk: "Orde Baru (1966–1998)"** — peta isi, bukan ensiklopedia dalam satu halaman. Isinya: definisi singkat, periodisasi kerja (lihat §10.4), daftar hub, dan jalur baca. Bidang yang materinya cukup tumbuh menjadi hub sendiri; hub induk tetap ringkasan + penunjuk.
 - **Benang baca (jalur pemahaman):** setiap hub utama memuat bagian "Baca juga / jalur pemahaman" yang menautkan hub-hub dalam satu benang secara terkurasi, bukan semua halaman yang menyebut kata yang sama. Contoh benang kerja (untuk divalidasi sumber, bukan diasumsikan):
   - Kekuasaan: transisi 1965–1967 → Dwifungsi ABRI → pemilu-pemilu Orde Baru → lembaga keamanan.
   - Ekonomi: Repelita dan pembangunan → konglomerat dan BUMN → krisis moneter 1997–1998.
@@ -429,7 +401,7 @@ Daftar ini adalah **antrean riset Batch 1–3**, bukan halaman yang sudah jadi d
 
 ## 12. Jalur baca dan sintesis
 
-- Cross-link terkurasi antar-hub dalam tiap kategori/benang (§10.3) + bagian "Baca juga / jalur pemahaman" di hub utama.
+- Cross-link terkurasi antar-hub dalam tiap benang (§10.3) + bagian "Baca juga / jalur pemahaman" di hub utama.
 - Analisis sintesis hanya memakai fakta yang sudah ada di halaman wiki + sumber terverifikasi, tanpa fakta karangan. Contoh sintesis yang boleh dibuat **setelah** hub-hub dasar ada (bukan di awal):
   - Bagaimana Dwifungsi ABRI bekerja lewat lembaga, regulasi, dan kasus — menautkan konsep ke peristiwa dan lembaga.
   - Bagaimana krisis ekonomi 1997–1998 berubah menjadi krisis politik — menautkan hub ekonomi ke hub reformasi dengan rantai yang terdokumentasi, bukan dengan lompatan kausal.
@@ -450,7 +422,7 @@ Sebelum PR dibuka, pemeriksa (agen pembangun, lalu user saat membaca PR) memerik
 - [ ] Single-source detail diberi atribusi ke outlet/lembaga itu.
 - [ ] Catatan presisi memuat: yang belum terverifikasi, koreksi atas klaim beredar, perbedaan versi sumber, dan yang sengaja tidak dimasukkan + alasan.
 - [ ] Wikilink tidak rusak; alias tidak menimbulkan halaman duplikat; halaman ambigu dikembalikan sebagai candidates, bukan ditebak.
-- [ ] Frontmatter lengkap (§5), tag dari daftar canonical, kategori tepat satu + tambahan bila perlu.
+- [ ] Frontmatter lengkap (§5), tag dari daftar canonical, kategori opsional bila perlu.
 - [ ] Bahasa Indonesia hidup: tidak ada kalque Inggris yang kentara, istilah dijelaskan saat pertama muncul, tidak ada kalimat generik AI yang bisa ditempel ke topik apa pun.
 
 **Khusus bahan sejarah:** bedakan sumber primer (naskah regulasi, arsip resmi, data statistik resmi, dokumen pengadilan) dari sumber sekunder (buku sejarah, jurnal, media kredibel) dan dari memoar/kesaksian (klaim pihak sampai terkonfirmasi). Hierarki ini ditulis di `## Sumber` atau `## Catatan presisi`, bukan disembunyikan.
@@ -462,7 +434,7 @@ Sebelum PR dibuka, pemeriksa (agen pembangun, lalu user saat membaca PR) memerik
 Fondasi ini di irawiki sudah selesai dan terbukti; jangan dibangun ulang dari nol, tapi jangan juga dianggap otomatis jalan di server baru — semua poin di bawah harus diverifikasi live di domain baru.
 
 - `robots.txt`: crawler AI terbuka penuh dan eksplisit (bukan sekadar "allow all" yang ambigu).
-- `llms.txt` + `llms-full.txt`: struktur situs + kategori (§10) + daftar hub utama, agar LLM bisa mengutip dengan benar.
+- `llms.txt` + `llms-full.txt`: struktur situs + daftar hub utama, agar LLM bisa mengutip dengan benar.
 - Meta description per halaman (dari frontmatter `description`), JSON-LD `datePublished`/`dateModified`, `og:type: article`.
 - Sitemap terdaftar di Google Search Console; soft-404 dibereskan (halaman tidak ada mengembalikan 404 yang benar, bukan halaman kosong berkode 200).
 - Normalisasi tag (lihat §5.3) sebelum mengklaim SEO beres.
@@ -521,8 +493,8 @@ Untuk wiki Orde Baru, ganti nama branch sesuai kebutuhan, tapi pertahankan polan
 ### Fase 4 — Konten seed + fondasi LLM/SEO
 
 - [ ] Tulis 5 halaman pilot Batch 1 (§11) sesuai template §7, lewat PR + merge manual user.
-- [ ] Terapkan taksonomi §10 (6 halaman arsip kategori + index "Mulai dari Sini!" + "Baru Update" + `llms.txt`).
-- [ ] Terapkan fondasi §14, verifikasi live: 6 URL kategori → 200 dengan judul/deskriptor benar, sitemap bertambah, build sukses, query MCP hijau, tidak ada wikilink rusak baru.
+- [x] ~~Terapkan taksonomi §10~~ — DIBATALKAN 4 Nov 2026 (halaman kategori dihapus; navigasi lewat hub).
+- [ ] Terapkan fondasi §14, verifikasi live: sitemap bertambah, build sukses, query MCP hijau, tidak ada wikilink rusak baru.
 - [ ] Definisi selesai: 5 halaman pilot live + terverifikasi, bukan sekadar "PR dibuka".
 
 ### Fase 5 — Benang, jalur baca, dan iterasi
@@ -602,9 +574,9 @@ Agen pembangun menyerahkan laporan yang berisi, tanpa kecuali:
 
 ## 19. Yang secara eksplisit TIDAK dikerjakan
 
-- Mengejar topik viral tanpa kaitan ke kategori/benang (§10).
+- Mengejar topik viral tanpa kaitan ke benang (§10.3).
 - Halaman tanpa sumber terverifikasi.
-- Section relevansi anak muda tanpa rantai mekanisme.
+- Section "apa pelajaran yang bisa kita ambil" tanpa rantai mekanisme.
 - Retrofit massal tanpa pilot dan persetujuan user.
 - Automerge, write langsung ke `main`, dan build/indexer sebelum merge.
 - Embedding/vector DB, migrasi Hugo, dan biaya API baru tanpa pemicu/keputusan (§3.4).
@@ -631,7 +603,7 @@ entity_id: "[slug-hub]"
 aliases:
   - "[Varian nama 1]"
 tags: [orde-baru]
-kategori: [slug kategori §10]
+kategori: [label topik, opsional]
 kategori_tambahan: []
 risiko_editorial: sedang
 sumber:
@@ -648,7 +620,7 @@ relasi:
 
 > **Ringkasan:** [2–3 kalimat.]
 
-## Apa relevansinya dengan anak muda?
+## Apa pelajaran yang bisa kita ambil darinya?
 [1–3 paragraf dari fakta halaman ini, lewat rantai mekanisme. Bila belum ada data: tulis "belum terverifikasi" dan biarkan pendek.]
 
 ## Fakta kunci

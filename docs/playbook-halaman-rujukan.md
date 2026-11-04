@@ -21,8 +21,8 @@ aliases:
   - "Varian Nama 1"
   - "Singkatan"
 tags: [konsep, orde-baru] # HANYA dari daftar canonical tags
-kategori: konsep # Tepat 1 dari 6 slug kategori resmi
-kategori_tambahan: [] # Opsional, untuk keterkaitan lintas kategori
+kategori: konsep # OPSIONAL, label topik internal — 6 halaman kategori dihapus 4 Nov 2026; navigasi pembaca lewat halaman hub
+kategori_tambahan: [] # Opsional
 risiko_editorial: sedang # rendah | sedang | tinggi
 status: "" # Kosong, atau "stub" jika isi < 200 karakter
 confidence: "high" # low | medium | high
