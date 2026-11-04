@@ -107,7 +107,7 @@ Mempelajari babak Asas Tunggal Pancasila krusial untuk memahami dinamika politik
 
 ## 6. Catatan Presisi Sejarah
 
-1. **Bukan Penghapusan Agama**: Secara formal, rezim Soeharto menegaskan bahwa asas tunggal bukan upaya mensekulerkan negara atau mengganti agama, melainkan kesepakatan wadah berorganisasi kemasyarakatan. Namun dalam praktiknya, pengawasan intelijen ([[kopkamtib|Kopkamtib]] & [[bakin|BAKIN]]) seringkali menstigma ekspresi keagamaan kritis sebagai ancaman subversif.
+1. **Bukan Penghapusan Agama**: Secara formal, rezim Soeharto menegaskan bahwa asas tunggal bukan upaya mensekulerkan negara atau mengganti agama, melainkan kesepakatan wadah berorganisasi kemasyarakatan. Namun dalam praktiknya, menurut para peneliti, pengawasan intelijen ([[kopkamtib|Kopkamtib]] & [[bakin|BAKIN]]) seringkali menstigma ekspresi keagamaan kritis sebagai ancaman subversif.
 2. **Pencabutan Pasca-Reformasi**: Melalui Sidang Istimewa MPR 1998 dan pengesahan UU Parpol No. 2 Tahun 1999 pasca [[krisis-dan-reformasi-1998|Reformasi 1998]], ketentuan asas tunggal dicabut. Partai politik dan ormas diizinkan kembali mencantumkan asas lain (seperti Islam atau sosial-demokrasi) sepanjang tidak bertentangan dengan Pancasila dan UUD 1945.
 
 ---

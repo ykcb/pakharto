@@ -2,8 +2,8 @@
 title: "Ekonomi Orde Baru"
 description: "Arsitektur pembangunan ekonomi terencana era Orde Baru: stabilisasi moneter, Rencana Pembangunan Lima Tahun (Repelita), pengelolaan modal asing, konglomerasi, dan utang luar negeri 1966–1998."
 date: 1966-08-11
-updated: 2026-11-02
-last_updated: "2026-11-02"
+updated: 2026-11-04
+last_updated: "2026-11-04"
 entity_type: topik
 entity_id: "ekonomi-orde-baru"
 aliases:
@@ -38,12 +38,14 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-> **Ringkasan:** Ekonomi Orde Baru adalah model pembangunan terpusat yang dipelopori oleh teknokrat ekonomi (Tim Ahli Ekonomi Presiden / "Mafia Berkeley") di bawah pimpinan Presiden Soeharto. Dimulai dengan stabilisasi hiperinflasi 650% pada 1966, rezim menerapkan undang-undang penanaman modal liberal, pembiayaan utang via IGGI/CGI, dan Rencana Pembangunan Lima Tahun (Repelita) yang berhasil mencatat pertumbuhan ekonomi rata-rata 7% per tahun serta swasembada beras pada 1984, namun rapuh akibat konsentrasi kepemilikan konglomerasi, utang jangka pendek perbankan, dan KKN yang berujung pada keruntuhan moneter 1997–1998.
+> **Ringkasan:** Ekonomi Orde Baru adalah model pembangunan terpusat yang dipelopori oleh teknokrat ekonomi (Tim Ahli Ekonomi Presiden / "Mafia Berkeley") di bawah pimpinan Presiden Soeharto. Dimulai dengan stabilisasi hiperinflasi 650% pada 1966, rezim menerapkan undang-undang penanaman modal liberal, pembiayaan utang via IGGI/CGI, dan Rencana Pembangunan Lima Tahun (Repelita) yang berhasil mencatat pertumbuhan ekonomi rata-rata 7% per tahun serta swasembada beras pada 1984, namun rapuh: para peneliti berbeda pendapat soal penyebab keruntuhan moneter 1997–1998 — sebagian menekankan kerapuhan domestik (konsentrasi kepemilikan konglomerasi, utang jangka pendek perbankan, KKN), sebagian lain menekankan penularan krisis finansial Asia yang pada saat yang sama melanda Thailand, Korea Selatan, dan Malaysia.
 
 ## Apa relevansinya dengan anak muda?
 Struktur ekonomi Indonesia hari ini—mulai dari dominasi konglomerasi swasta skala besar di sektor sumber daya alam, ketergantungan APBN pada utang luar negeri, hingga format kepemilikan tanah skala perkebunan dan tambang—merupakan warisan langsung dari kerangka hukum dan konsesi yang diterbitkan pada masa Orde Baru. 
 
-Krisis 1998 yang mewariskan beban obligasi rekapitalisasi perbankan (BLBI) puluhan tahun hingga ke generasi milenial dan Gen Z menunjukkan bagaimana ketiadaan transparansi kelembagaan antara regulator dan konglomerasi bisnis dapat melumpuhkan daya beli, lapangan kerja, dan stabilitas mata uang dalam hitungan bulan.
+Krisis 1998 yang mewariskan beban obligasi rekapitalisasi perbankan (BLBI) puluhan tahun hingga ke generasi milenial dan Gen Z menunjukkan — menurut para pengamat — bagaimana ketiadaan transparansi kelembagaan antara regulator dan konglomerasi bisnis dapat melumpuhkan daya beli, lapangan kerja, dan stabilitas mata uang dalam hitungan bulan.
+
+Di sisi lain, kerangka ekonomi yang sama mewariskan fondasi yang masih dipakai hingga kini: jaringan infrastruktur (jalan, irigasi, listrik pedesaan), BUMN-BUMN strategis, industri pupuk dan baja, serta sistem logistik pangan (Bulog) — capaian yang datanya tercatat dalam tabel Fakta kunci di bawah.
 
 ## Fakta kunci
 

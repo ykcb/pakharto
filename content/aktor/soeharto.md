@@ -2,8 +2,8 @@
 title: "Soeharto"
 description: "Presiden Republik Indonesia kedua (1967–1998) yang memimpin transisi dari Sukarno ke Orde Baru, membentuk arsitektur kekuasaan politik, ekonomi, dan keamanan yang bertahan 3 dekade."
 date: 1921-06-08
-updated: 2026-11-02
-last_updated: "2026-11-02"
+updated: 2026-11-04
+last_updated: "2026-11-04"
 entity_type: aktor
 entity_id: "soeharto"
 aliases:
@@ -67,12 +67,28 @@ Soeharto bukan sekadar pemilik jabatan tertinggi; ia adalah arsitek dan penjaga 
 - **Ekonomi:** mendorong [[Trilogi Pembangunan]] melalui [[Kabinet Pembangunan]] dan program [[Repelita]].
 - **Stabilitas:** menerapkan konsep [[Stabilitas Nasional]] sebagai prasyarat legitimasi dan pembangunan.
 
+## Capaian berangka era kepemimpinan
+
+Data yang umum dikutip untuk 32 tahun kepemimpinan Soeharto (lihat [[hub/ekonomi-orde-baru|Ekonomi Orde Baru]] dan [[hub/kehidupan-rakyat|Kehidupan Rakyat]] untuk detail dan sumber primer):
+
+| Indikator | Angka |
+|---|---|
+| Inflasi | 650% (1966) → ~10% |
+| Pertumbuhan ekonomi | Rata-rata ~7% per tahun |
+| Produksi beras | 12 juta ton (1969) → 25,8 juta ton (1984); swasembada beras 1984 |
+| Penghargaan pangan | Medali FAO, Roma 1984 |
+| Fertilitas (TFR) | 5,6 → 2,8 |
+| SD Inpres | 150.000+ sekolah dibangun |
+| Kependudukan | UN Population Award 1989 |
+
 ## Rekam jejak bertanggal
 
 - 1965-03-11 — Terbitkan Supersemar; meningkatkan kredibilitas sebagai pembawa transisi.
 - 1967-03-27 — Diangkat sebagai Pejabat Presiden RI oleh MPRS.
 - 1968-06-10 — Dilantik sebagai Presiden RI; bentuk Kabinet Pembangunan.
 - 1971-07-03 — Gelar pemilu pertama; Golkar memenangkan suara mayoritas.
+- 1984 — Indonesia dinyatakan swasembada beras; Soeharto menerima medali FAO di Roma.
+- 1989 — Menerima UN Population Award atas keberhasilan program Keluarga Berencana.
 - 1998-05-21 — Mundur dari jabatan presiden.
 
 ## Sumber

@@ -2,8 +2,8 @@
 title: "Kehidupan Rakyat dan Pembangunan Sosial"
 description: "Dinamika kehidupan masyarakat bawah era Orde Baru: Revolusi Hijau pedesaan, program Keluarga Berencana, SD Inpres, Transmigrasi massal, dan pengendalian perburuhan 1969–1998."
 date: 1969-04-01
-updated: 2026-11-03
-last_updated: "2026-11-03"
+updated: 2026-11-04
+last_updated: "2026-11-04"
 entity_type: topik
 entity_id: "kehidupan-rakyat"
 aliases:
@@ -43,7 +43,7 @@ relasi:
 ## Apa relevansinya dengan anak muda?
 Hampir setiap keluarga di Indonesia memiliki kakek-nenek atau orang tua yang riwayat hidupnya dibentuk langsung oleh intervensi sosial Orde Baru: bersekolah di gedung SD Inpres seragam merah-putih, mengikuti program KB dua anak cukup di Posyandu, atau bertransmigrasi membuka lahan perkebunan sawit di Sumatra dan Kalimantan.
 
-Secara bersamaan, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahun 1979 menghancurkan keragaman hukum adat lokal (seperti sistem Nagari di Minangkabau atau Marga di Sumatra Selatan), menciptakan ketergantungan struktural pemerintah desa pada komando birokrasi pusat yang pola relasinya masih menjadi perdebatan dalam implementasi otonomi daerah dan Dana Desa saat ini.
+Secara bersamaan, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahun 1979 menyeragamkan struktur pemerintahan desa di seluruh Indonesia; para peneliti menilai kebijakan ini mengikis keragaman hukum adat lokal (seperti sistem Nagari di Minangkabau atau Marga di Sumatra Selatan) dan menciptakan ketergantungan struktural pemerintah desa pada komando birokrasi pusat yang pola relasinya masih menjadi perdebatan dalam implementasi otonomi daerah dan Dana Desa saat ini.
 
 ## Fakta kunci
 

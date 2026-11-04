@@ -2,8 +2,8 @@
 title: "Krisis Moneter dan Gerakan Reformasi 1998"
 description: "Rangkaian krisis ekonomi dan politik penutup era Orde Baru: depresiasi rupiah, kerusuhan Mei 1998, pendudukan Gedung DPR/MPR oleh mahasiswa, hingga pengunduran diri Presiden Soeharto pada 21 Mei 1998."
 date: 1997-07-02
-updated: 2026-11-02
-last_updated: "2026-11-02"
+updated: 2026-11-04
+last_updated: "2026-11-04"
 entity_type: topik
 entity_id: "krisis-dan-reformasi-1998"
 aliases:
@@ -39,9 +39,11 @@ relasi:
 > **Ringkasan:** Krisis Moneter dan Gerakan Reformasi 1998 adalah rangkaian peristiwa dramatis yang mengakhiri 32 tahun kekuasaan Presiden Soeharto. Bermula dari penularan krisis finansial Asia pada Juli 1997 yang menghancurkan nilai tukar Rupiah dari Rp2.450 menjadi Rp16.000 per Dolar AS, krisis berkembang menjadi krisis kepercayaan politik total pasca-terpilihnya kembali Soeharto dalam Sidang Umum MPR Maret 1998. Tertembaknya empat mahasiswa Universitas Trisakti pada 12 Mei memicu kerusuhan massal di Jakarta dan kota-kota besar, disusul pendudukan gedung parlemen oleh puluhan ribu mahasiswa dan pembangkangan 14 menteri Kabinet Pembangunan VII, yang memaksa Soeharto menyatakan berhenti pada 21 Mei 1998.
 
 ## Apa relevansinya dengan anak muda?
-Gerakan Reformasi 1998 adalah momen historis di mana generasi muda (mahasiswa lintas kampus dari seluruh penjuru Indonesia) menjadi motor penggerak utama perubahan rezim otoriter. Seluruh tatanan demokrasi yang dinikmati anak muda Indonesia hari ini—pemilu langsung, kebebasan pers tanpa pembredelan, kebebasan berpendapat dan berkumpul, penghapusan Dwifungsi ABRI, pembatasan masa jabatan presiden maksimal dua periode, serta pembentukan lembaga antikorupsi (KPK)—dilahirkan dari darah dan air mata perjuangan 1998.
+Gerakan Reformasi 1998 adalah momen historis di mana generasi muda (mahasiswa lintas kampus dari seluruh penjuru Indonesia) menjadi motor penggerak utama perubahan kekuasaan — yang oleh para aktivisnya disebut penggulingan rezim otoriter. Sejumlah tatanan demokrasi yang dinikmati anak muda Indonesia hari ini — pemilu langsung, kebebasan pers, kebebasan berpendapat dan berkumpul, penghapusan Dwifungsi ABRI, pembatasan masa jabatan presiden, serta pembentukan lembaga antikorupsi (KPK) — lahir dari rangkaian perjuangan 1998 yang menelan korban jiwa dan luka-luka.
 
-Di sisi lain, trauma kerusuhan massal 13–15 Mei 1998 yang menelan ribuan korban jiwa dan kekerasan seksual sistemik terhadap perempuan etnis Tionghoa menjadi pengingat abadi tentang bahayanya manipulasi sentimen rasial dan kegagalan negara dalam melindungi warganya di saat krisis politik memuncak.
+Di sisi lain, trauma kerusuhan massal 13–15 Mei 1998 yang menelan ribuan korban jiwa dan kekerasan seksual meluas terhadap perempuan etnis Tionghoa — TGPF mendokumentasikan banyak kasus, meski sejauh mana kekerasan itu diorganisasi secara sistemik masih diperdebatkan — menjadi pengingat abadi tentang bahayanya manipulasi sentimen rasial dan kegagalan negara dalam melindungi warganya di saat krisis politik memuncak.
+
+Catatan penyeimbang: krisis 1997–1998 adalah krisis regional — Thailand, Korea Selatan, dan Malaysia mengalami kejatuhan mata uang dan resesi pada periode yang sama, sehingga penjelasan yang hanya bertumpu pada faktor domestik tidak lengkap. Dalam pernyataan berhentinya pada 21 Mei 1998, Soeharto menyatakan “saya memutuskan untuk menyatakan berhenti dari jabatan saya sebagai Presiden Republik Indonesia” — suara pihak yang jatuh ini melengkapi narasi perubahan kekuasaan di atas.
 
 ## Fakta kunci
 

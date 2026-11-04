@@ -14,7 +14,7 @@ tags:
   - orde-baru
   - jalur-baca
 date: 1966-03-11
-updated: 2026-11-03
+updated: 2026-11-04
 verification_status: "verified"
 relasi:
   - type: memuat_hub
@@ -41,7 +41,7 @@ Struktur rujukan disusun dalam 6 pertanyaan kunci yang mengurai seluruh mekanism
 
 1. 🏛️ **[[kategori/kekuasaan-dan-legitimasi|Bagaimana Orde Baru Berkuasa?]]**  
    Transisi kekuasaan 1965–1967, legitimasi konstitusional, kemenangan berulang dalam pemilu, fusi partai, dan doktrin peran ganda militer.
-2. 💰 **[[kategori/ekonomi-dan-kepemilikan|Siapa Menguasai Ekonomi?]]**  
+2. 💰 **[[kategori/ekonomi-dan-kepemilikan|Bagaimana Ekonomi Dikelola?]]**  
    Stabilisasi moneter, Repelita, teknokrat Mafia Berkeley, konsentrasi konglomerasi, utang luar negeri, dan dugaan praktik KKN di dunia usaha.
 3. 🛡️ **[[kategori/keamanan-dan-kebebasan|Keamanan dan Kebebasan]]**  
    Doktrin stabilitas nasional, lembaga keamanan (Kopkamtib/BAKIN), pengaturan pers, penataan kampus, dan operasi keamanan.

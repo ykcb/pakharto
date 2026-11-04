@@ -2,8 +2,8 @@
 title: "Bakin (Badan Koordinasi Intelijen Negara)"
 description: "Lembaga intelijen strategis pusat era Orde Baru yang bertugas mengkoordinasikan pengumpulan informasi rahasia, operasi kontra-subversi, dan rekayasa politik domestik 1967–2000."
 date: 1967-05-22
-updated: 2026-11-02
-last_updated: "2026-11-02"
+updated: 2026-11-04
+last_updated: "2026-11-04"
 entity_type: organisasi
 entity_id: "bakin"
 aliases:
@@ -40,9 +40,9 @@ relasi:
 > **Ringkasan:** Bakin (Badan Koordinasi Intelijen Negara) adalah badan intelijen utama era Orde Baru yang dibentuk oleh Penjabat Presiden Soeharto melalui Keppres No. 17 Tahun 1967 untuk menggantikan Badan Pusat Intelijen (BPI) era Sukarno. Di bawah pimpinan perwira-perwira kepercayaan istana seperti Sutopo Juwono dan Yoga Soegomo, serta keterkaitannya yang erat dengan unsur Operasi Khusus (Opsus) pimpinan Ali Moertopo, Bakin memainkan peran sentral dalam memetakan ancaman komunisme, merekayasa fusi partai politik 1973, mengkondisikan kemenangan Golkar dalam pemilu, dan memantau kelompok oposisi kritis.
 
 ## Apa relevansinya dengan anak muda?
-Bakin mencerminkan bagaimana fungsi intelijen negara pada masa otoriter diarahkan bukan hanya untuk menghadapi spionase atau ancaman asing, melainkan dipergunakan untuk memantau, membelah (*divide and rule*), dan merekayasa kehidupan politik warga negara sendiri.
+Bakin mencerminkan bagaimana fungsi intelijen negara pada masa Orde Baru — yang oleh para kritik disebut era otoriter — diarahkan bukan hanya untuk menghadapi spionase atau ancaman asing, melainkan menurut para peneliti dipergunakan untuk memantau, membelah (*divide and rule*), dan merekayasa kehidupan politik warga negara sendiri.
 
-Bagi generasi masa kini yang hidup di era digital dan pemantauan data pribadi (*surveillance capitalism*), sejarah Bakin menjadi pengingat penting mengenai batasan wewenang intelijen sipil/militer dan perlunya akuntabilitas pengawasan parlemen agar alat intelijen tidak disalahgunakan untuk melanggengkan kekuasaan rezim yang berkuasa.
+Bagi generasi masa kini yang hidup di era digital dan pemantauan data pribadi (*surveillance capitalism*), sejarah Bakin menjadi pengingat penting mengenai batasan wewenang intelijen sipil/militer dan perlunya akuntabilitas pengawasan parlemen agar alat intelijen — yang menurut para pengamat pada masa itu dipakai untuk melanggengkan kekuasaan — tidak disalahgunakan oleh penguasa mana pun.
 
 ## Sejarah pembentukan dan fungsi
 
