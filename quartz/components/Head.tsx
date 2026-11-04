@@ -1,5 +1,5 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { FullSlug, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
@@ -40,7 +40,17 @@ export default (() => {
     const socialUrl = canonicalUrl
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some((e) => e.name === "CustomOgImages")
-    const ogImageDefaultPath = `https://${baseUrl}/static/og-image.png`
+
+    // OG Image: banner poster "Wiki Soeharto - Meluruskan sejarah"
+    // (content/img/og-image.jpg -> public/img/og-image.jpg saat build).
+    // Parameter `v` dipakai untuk memaksa WhatsApp/Telegram mengambil ulang
+    // gambar saat banner diganti (cache OG image cukup agresif).
+    const ogImageUrl = `https://${baseUrl}/img/og-image.jpg`
+    const ogImageVersion = 2
+    const ogImageDefaultPath = `${ogImageUrl}?v=${ogImageVersion}`
+    const ogImageType = "image/jpeg"
+    const ogImageWidth = 1376
+    const ogImageHeight = 768
 
     const coreStylesheet = css[0]?.content
     const coreScript = js.find(
@@ -168,7 +178,7 @@ export default (() => {
         "inLanguage": "id-ID",
         "mainEntityOfPage": canonicalUrl,
         "url": canonicalUrl,
-        "image": ogImageDefaultPath,
+        "image": ogImageUrl,
         ...(publishDate ? { "datePublished": publishDate } : {}),
         ...(modifiedDate ? { "dateModified": modifiedDate } : {}),
         "author": {
@@ -265,11 +275,12 @@ export default (() => {
           <>
             <meta property="og:image" content={ogImageDefaultPath} />
             <meta property="og:image:url" content={ogImageDefaultPath} />
+            <meta property="og:image:secure_url" content={ogImageDefaultPath} />
             <meta name="twitter:image" content={ogImageDefaultPath} />
-            <meta
-              property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
-            />
+            <meta property="og:image:type" content={ogImageType} />
+            <meta property="og:image:width" content={String(ogImageWidth)} />
+            <meta property="og:image:height" content={String(ogImageHeight)} />
+            <meta name="twitter:image:alt" content="Wiki Soeharto - Meluruskan sejarah" />
           </>
         )}
 

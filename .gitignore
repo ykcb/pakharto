@@ -16,3 +16,6 @@ scripts/indexer/wiki-fts5.db
 
 __pycache__/
 *.pyc
+
+# Quartz intermediate build output
+out/
