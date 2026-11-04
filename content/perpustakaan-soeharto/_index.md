@@ -48,7 +48,7 @@ Pembangunan yang menyentuh rakyat: desa dan pertanian, kesehatan, pendidikan, ag
 
 - [[perpustakaan-soeharto/00411-1975-04-20-presiden-soeharto-resmikan-tmii|Meresmikan TMII (1975)]]
 - [[perpustakaan-soeharto/00145-petani-hanya-pak-harto-yang-sayang-kami|Petani: Hanya Pak Harto Yang Sayang Kami]]
-- [[perpustakaan-soeharto/00231-presiden-soeharto-mengunjungi-pondok-moderen-gontor|Mengunjungi Pondok Modern Gontor]]
+- [[perpustakaan-soeharto/00769-1970-07-23-presiden-soeharto-mengunjungi-pesantren-modern-gontor|Mengunjungi Pesantren Modern Gontor (1970)]]
 - [[perpustakaan-soeharto/00586-1972-05-02-presiden-soeharto-resmikan-bendungan-karangkates-malang|Meresmikan Bendungan Karangkates (1972)]]
 
 ## 📉 [[hub/krisis-dan-reformasi-1998|Krisis Moneter dan Gerakan Reformasi 1998]]
