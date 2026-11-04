@@ -12,7 +12,6 @@ tags:
   - index
   - beranda
   - orde-baru
-  - jalur-baca
 date: 1966-03-11
 updated: 2026-11-04
 verification_status: "verified"
@@ -53,60 +52,6 @@ Struktur rujukan disusun dalam 6 pertanyaan kunci yang mengurai seluruh mekanism
    Krisis moneter 1997–1998, lonjakan harga sembako, perlawanan mahasiswa, kerusuhan massal Mei 1998, hingga mundurnya Presiden Soeharto.
 6. 🔑 **[[kategori/konsep|Peta Konsep Kunci]]**  
    Glosarium doktrin, instrumen hukum, dan istilah khusus untuk membedah cara kerja sistem politik-ekonomi Orde Baru.
-
----
-
-## 🗺️ Tiga Jalur Baca Tematik (Curated Reading Paths)
-
-Jika Anda baru pertama kali mempelajari Orde Baru secara komprehensif, gunakan 3 rute penelusuran terstruktur berikut:
-
-```mermaid
-flowchart TD
-    subgraph Rute1["Rute 1: Arsitektur Kekuasaan"]
-        A1["Transisi 1965–1967"] --> B1["Dwifungsi ABRI"]
-        B1 --> C1["Demokrasi Pancasila"]
-        C1 --> D1["Pemilu Orde Baru"]
-        D1 --> E1["Asas Tunggal 1985"]
-    end
-
-    subgraph Rute2["Rute 2: Ekonomi & Pembangunan"]
-        A2["Ekonomi Orde Baru"] --> B2["Trilogi Pembangunan"]
-        B2 --> C2["Kehidupan Rakyat & Pedesaan"]
-        C2 --> D2["Kasus Kedung Ombo"]
-        D2 --> E2["Anatomi KKN"]
-    end
-
-    subgraph Rute3["Rute 3: Keamanan & Kejatuhan"]
-        A3["Stabilitas Nasional"] --> B3["Kopkamtib & BAKIN"]
-        B3 --> C3["Peristiwa Malari 1974"]
-        C3 --> D3["Petrus & Tanjung Priok"]
-        D3 --> E3["Krisis & Reformasi 1998"]
-    end
-```
-
-### 1. Jalur Arsitektur Kekuasaan & Doktrin Politik
-*Menelusuri bagaimana Soeharto mengonsolidasikan kekuasaan selama tiga dekade:*
-- **Titik Awal**: [[peristiwa/transisi-1965-1967|Transisi 1965–1967]] — Titik balik Supersemar, pembekuan PKI, dan suksesi kekuasaan dari Sukarno ke Soeharto.
-- **Pilar Militer**: [[konsep/dwifungsi-abri|Dwifungsi ABRI]] — Doktrin yang menjadi dasar kehadiran perwira aktif di parlemen, birokrasi, dan BUMN.
-- **Format Politik**: [[konsep/demokrasi-pancasila|Demokrasi Pancasila]] & [[konsep/floating-mass|Floating Mass]] — Pembatasan kegiatan parpol di tingkat desa melalui konsep massa mengambang.
-- **Pemilu Berkala**: [[hub/pemilu-orde-baru|Pemilu-Pemilu Orde Baru]] — Peran ABRI, birokrasi, dan Golkar dalam pemilu yang dimenangkan Golkar secara berulang.
-- **Penyeragaman Ideologi**: [[konsep/asas-tunggal-pancasila|Asas Tunggal Pancasila (1985)]] — Kewajiban asas Pancasila bagi parpol dan ormas; kebijakan ini menuai protes dari sebagian kalangan.
-
-### 2. Jalur Ekonomi, Pembangunan, dan Realitas Pedesaan
-*Memahami capaian pertumbuhan ekonomi beserta kesenjangan yang menyertainya:*
-- **Fondasi Ekonomi**: [[hub/ekonomi-orde-baru|Ekonomi Orde Baru]] — Dari inflasi 650% ke stabilisasi moneter, modal asing (PMA), dan ledakan minyak bumi (oil boom).
-- **Rambu Pembangunan**: [[konsep/trilogi-pembangunan|Trilogi Pembangunan]] — Rumusan hierarki: Stabilitas Nasional, Pertumbuhan Tinggi, dan Pemerataan.
-- **Keseharian Rakyat**: [[hub/kehidupan-rakyat|Kehidupan Rakyat & Pembangunan]] — Swasembada beras 1984, lompatan melek huruf via SD Inpres, layanan Posyandu/KB, serta penetrasi komersialisasi desa.
-- **Dampak Sosial Pembangunan**: [[peristiwa/kasus-kedung-ombo|Kasus Kedung Ombo (1985–1989)]] — Potret ganti rugi pembebasan lahan waduk dan kebangkitan advokasi HAM akar rumput.
-- **Tata Kelola dan KKN**: [[konsep/kkn|KKN]] — Dugaan monopoli perdagangan, rente perbankan, dan konglomerasi keluarga penguasa yang menurut para kritik melemahkan daya tahan ekonomi nasional.
-
-### 3. Jalur Keamanan, Penindakan, dan Runtuhnya Rezim
-*Melihat bagaimana instrumen keamanan negara bekerja selama tiga dekade:*
-- **Doktrin Pengamanan**: [[konsep/stabilitas-nasional|Stabilitas Nasional]] — Doktrin stabilitas nasional sebagai prasyarat pembangunan; para kritik menilai doktrin ini membatasi kebebasan berpendapat.
-- **Aparat Keamanan**: [[lembaga/kopkamtib|Kopkamtib]] & [[lembaga/bakin|BAKIN]] — Komando pemulihan keamanan dan badan intelijen negara.
-- **Gejolak 1974**: [[peristiwa/malari-1974|Peristiwa Malari 1974]] — Titik tolak pembatasan media massa dan penataan kehidupan kampus (NKK/BKK).
-- **Operasi Keamanan**: [[peristiwa/penembakan-misterius-petrus|Penembakan Misterius (Petrus)]] & [[peristiwa/peristiwa-tanjung-priok-1984|Peristiwa Tanjung Priok]] — Peristiwa kekerasan yang melibatkan aparat keamanan sepanjang 1980-an.
-- **Akhir Kekuasaan**: [[hub/krisis-dan-reformasi-1998|Krisis Moneter & Reformasi 1998]] — Rangkaian peristiwa: pelemahan rupiah, Tragedi Trisakti, kerusuhan Mei 1998, pendudukan gedung DPR/MPR, mundurnya 14 menteri, hingga berhentinya Soeharto.
 
 ---
 
