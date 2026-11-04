@@ -1,0 +1,76 @@
+---
+title: "Ada yang Mau “Ngapusi” Saya – HM Soeharto"
+source: "https://soehartolibrary.id/ada-yang-mau-ngapusi-saya/"
+date: "2018-01-10T19:04:39+07:00"
+---
+
+![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0430_result.jpg)
+
+# Ada yang Mau “Ngapusi” Saya
+
+1 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/ada-yang-mau-ngapusi-saya/#respond)  134 Views Share on
+
+# Ada yang Mau “Ngapusi” Saya **[**[1]**](#_ftn1)**
+
+Tekanan dan teror NICA terhadap pihak Republik di Jakarta menjadi-jadi. Penembakan terhadap Perdana Menteri Sutan Sjahrir dan pejabat-pejabat tinggi lainnya sangat mengganggu pemerintahan kita.
+
+Tanggal 4 Januari 1946 diputuskan bahwa Presiden, Wakil Presiden, dan Pemerintahan Republik pindah dari Jakarta ke Yogyakarta. Artinya, Ibukota Republik Indonesia pindah dari Jakarta ke Yogyakarta. Dengan kepindahan tersebut, tugas saya sebagai Komandan Resimen III dengan pangkat Letnan Kolonel, menjaga keamanan kota Yogya bertambah berat. Saya harus pula menjaga keselamatan negara dan pemerintahan.
+
+Tanggal 7 Januari Tentara Keamanan Rakyat berubah menjadi Tentara Kedaulatan Rakyat. Tetapi selang dua minggu sebutannya diganti lagi menjadi Tentara Republik Indonesia  (TRI).
+
+Di bulan Desember sebelumnya, pengumuman Wakil Presiden Hatta telah melahirkan partai-partai dengan lasykar-lasykarnya. Dengan itu timbul oposisi terhadap politik Sjahrir yang menjalankan diplomasi, berunding dengan pihak Belanda. Oposisi waktu itu dipimpin antara lain oleh Tan Malaka.
+
+Kabinet Sjahrir I jatuh karena kegagalan perundingannya. Tetapi Presiden Soekarno memberikan mandatnya kepada Sjahrir lagi untuk menyusun kabinetnya yang kedua, dan kemudian Amir Sjarifuddin diangkat jadi Menteri Pertahanan.
+
+Diplomasi berjalan, sementara senapan masih juga terus berbunyi. Tanggal 10 Februari 1946, perundingan resmi yang pertama antara Republik kita dengan pihak Belanda dilangsungkan, setelah lebih dahulu terjadi perdebatan di Dewan Keamanan PBB.
+
+Soal pengangkutan dan pelucutan tentara Jepang dirundingkan pula, khususnya mengenai yang ada di daerah Republik. Maka lahirlah yang disebut *Yogya Agreement*, ‘Persetujuan Yogya’ dan dibentuklah POPDA, singkatan dari “Panitia Oeroesan Pengembalian Bangsa Djepang dan Asing”.
+
+Tanggal 17 Mei 1946 di Semarang dilangsungkan timbang terima komandan pendudukan dari Brigade Darling, dari pihak Inggris kepada Kolonel Van Langen, Komandan Brigade “T” KNIL dari pihak Belanda. Dengan ini kita berhadapan dengan Belanda yang ingin menancapkan kembali kuku penjajahannya di bumi kita.
+
+Belanda mendesak ke selatan. Kita menahannya sampai garis pertahanan Srondol-Banyumanik. Belanda terus mengadakan tekanan dengan menambah kekuatannya. Pasukan kami pernah mundur dan saya lagi-lagi sempat memarahi anak buah yang meninggalkan garis pertahanan dengan .tidak bertanggung jawab.
+
+Saya bergerak dari *front* yang satu ke *front* lainnya. Waktu kembali dari *front* Kendal saya mendengar bahwa ibu saya, Ibu Sukirah meninggal dunia. Bisa dibayangkan betapa sedihnya saya. Beliau itu ibu yang saya hormati. Sebelum berangkat ke *front,* sewaktu beliau sakit, saya masih sempat menengoknya. Tetapi keadaan waktu itu yang menyebabkan saya merasa terpanggil untuk berjuang demi sesuatu yang besar, membuat saya terpaksa meninggalkannya. Sepulang saya dari *front,* dari garis depan, saya cepat pergi ke desa Kemusuk ke makam Ibu saya.
+
+Sementara itu pergolakan politik terjadi di tengah-tengah Republik kita. Pada tanggal 27 Juni 1946.PM Sjahrir diculik di Solo. Segera Presiden Soekarno menyatakan negara dalam keadaan perang dan menyerukan agar PM Sjahrir segera dibebaskan. Seruan Presiden Soekarno itu ternyata dipenuhi oleh pihak yang menculik PM Sjahrir itu. Bisa dimaklumi, keadaan menjadi sangat tegang.
+
+Maka mau tidak mau saya dilibatkan dalam kekalutan politik. Dan bisa dimaklumi, sebagai Komiandan Kesatuan Resimen yang berkedudukan di Ibukota, saya menjadi rebutan mereka yang bertentangan.
+
+Dalam pada itu, saya berusaha bersikap tenang, teguh dengan pendirian, bahwa saya tidak boleh terlibat dalam percaturan yang saling berlawanan.
+
+Di tengah-tengah suasana yang demikian tegang, di Markas Resimen Wiyoro saya kedatangan ketua Pemuda Patuk, Sundjojo namanya. Sundjojo menjadi utusan Istana membawa pesan dari Presiden Panglima Tertinggi APRI untuk saya. Dari Sundjojo saya memperoleh penjelasan mengenai keadaan negara, yang sedang terancam oleh perebutan kekuasaan di mana Mayor Jenderal Sudarsono terlibat, dan saya diperintahkan menangkapnya. “Sungguh gila gagasan itu,” pikir saya. “Di mana ada seorang bawahan harus menangkap atasannya sendiri secara langsung, apalagi tidak ada bukti tertulis?” Tidak lama kemudian menyusul utusan lain dari Istana yang membawa surat perintah dari Presiden Soekarno, dan isinya sama seperti yang diuraikan oleh Sundjojo.
+
+Saya dihadapkan pada pilihan yang sulit. Yakni karena adanya perintah langsung dari Presiden/Panglima Tertinggi, tidak melewati hirarki, dan harus menangkap atasan langsung, ialah Mayor Jenderal Sudarsono.
+
+Akhirnya saya mengambil keputusan mengembalikan surat perintah tersebut, dan minta agar diberikan lewat Panglima Besar Jenderal Soedirman. Bersamaan dengan itu saya memberi jaminan, segera Resimen mengadakan siaga penuh untuk menjaga keselamatan negara dan Kepala Negara Republik Indonesia.
+
+Dengan perasaan kesal tentunya Sundjojo kembali ke lstana dengan membawa kembali surat perintah dan·melapor kepada Presiden Soekarno. Sejam kemudian saya dapat berita lewat telepon dari Sundjojo, bahwa semuanya telah dilaporkan kepada Presiden Soekarno dan saya dapat predikat istimewa “*Opsir Koppig*” (Opsir keras kepala).
+
+Apa boleh buat. Setelah mengeluarkan perintah siaga penuh pada batalyon-batalyon dari Resimen III, segera saya menghadap Panglima Divisi Mayor Jenderal Sudarsono. Saya tidak melaporkan bahwa ada perintah untuk menangkap, tetapi yang saya laporkan ialah adanya informasi tentang lasykar pejuang yang belum jelas, yang akan menculik Mayor Jenderal Sudarsono. Dengan demikian, keselamatan beliau terancam. Saya menyarankan agar untuk sementara Pak Darsono mau pindah ke Resimen III Wiyoro bersama saya, karena Resimen sudah dalam keadaan siaga penuh menghadapi segala kemungkinan. Jenderal Sudarsono setuju. Saya memberi hormat, pamit mendahuluinya kembali ke Wiyoro.
+
+Menjelang Magrib Mayor Jenderal Sudarsono tiba di Markas Resimen Wiyoro tanpa pengawal. Sekeluarnya dari mobil beliau menunjukkan surat telegram dari Panglima Besar Jenderal Soedirman, yang isinya menyebutkan harus menghadap segera. Saya tidak dapat berbuat apa-apa kecuali memberikan pengawalan dengan satu peleton berkendaraan truk. Mendekati waktu sembahyang Isya saya menerima telepon dari Panglima Besar Jenderal Soedirman, yang isi pembicaraannya memerintahkan agar Mayor Jenderal Sudarsono tetap di markas Resimen III Wiyoro. Tentu saya melaporkan bahwa Mayjen. Sudarsono sudah berangkat dengan kawalan satu peleton dan akan menghadap Panglima Besar Jenderal Soedirman. Dari pembicaraan lewat telepon itu, saya dapat menarik kesimpulan bahwa Pak Dirman tidak terlibat dalam konflik politik itu.
+
+Tengah malam Pak Darsono datang lagi di Markas Resimen dengan membawa rombongan. Ternyata rombongan itu terdiri atas pemimpin politik yang dikeluarkan dari Rumah Tahanan Wirogunan. Pak Darsono memberi tahu kepada saya, bahwa beliau telah memperoleh kuasa dari Panglima Besar untuk besok pagi menghadap Presiden Soekarno di Istana, menyampaikan surat yang malam ini akan disiapkan. Batin saya bicara,”Wah, keterlaluan Panglima saya ini, dikira saya tidak mengetahui persoalannya. “Saya mau diapusi. Tidak ada jalan lain, selain balas ngapusi dia.” Malam itu juga saya segera memberi informasi ke Istana, apa yang sedang terjadi di Wiyoro dan apa yang akan terjadi besok pagi di Istana. Saya persilakan menangkap sendiri Mayor Jenderal Sudarsono di Istana besok pagi dan saya jamin di luar Istana tidak akan terjadi apa-apa.
+
+Tanggal 3 Juli 1946 pagi, Mayor Jenderal Sudarsono dan rombongan berangkat ke Istana. Mereka menggunakan sebuah sedan dan truk dengan dikawal oleh Sersan Gudel. Setibanya di Istana, mereka ditangkap oleh Pasukan Pengawal Presiden. Peristiwa ini yang kemudian dikenal dengan sebutan “Peristiwa 3 Juli”.
+
+Lalu saya perintahkan pasukan Resimen III, supaya melarang setiap pasukan luar daerah ibukota Yogya masuk ke dalam daerah ini. Saya jaga keras, jangan sampai terjadi kekacauan.
+
+\*\*\*
+
+Catatan:
+
+Sejumlah pihak menilai tindakan Kolonel Soeharto ini, dengan caranya sendiri (meminta penugasan melalui hirarki),  telah menyelamatkan upaya kudeta yang pertama, dari sebuah negara yang belum berumur satu tahun. Pagi hari tanggal 3 Juli 1946, Mayor Jenderal Sudarsono bersama kelompoknya menghadap Presiden Soekarno dan menyodorkan empat maklumat untuk ditandatangani presiden. Mereka menuntut Presiden Soekarno agar bersedia:
+
+1. Memberhentikan Kabinet Sjahrir II,
+2. Menyerahkan pimpinan politik, sosial, dan ekonomi kepada Dewan Pimpinan Politik,
+3. Mengangkat 10 anggota Dewan Pimpinan Politik yang diketuai Tan Malaka dan beranggotakan Muhammad Yamin, Ahmad Subarjo, Buntaran Martoatmodjo, Budiarto Martoatmodjo, Sukarni, Chaerul Saleh, Sudiro, Gatot, dan Iwa Kusuma Sumantri.
+4. Mengangkat 13 menteri negara yang nama-namanya dicantumkan dalam maklumat.
+
+Tuntutan itu secara jelas tidak hanya meminta pergantian Kabinet Sjahrir, akan tetapi juga meminta penyerahan kepemimpinan Presiden yang meliputi kepemimpinan politik, sosial dan ekonomi. Presiden Soekarno sudah mengetahui rencana tersebut berkat laporan Letkol Soeharto. Aparat keamanan istana sudah berjaga-jaga dan dengan mudah melakukan penangkapan terhadap Mayor Jenderal Sudarsono beserta kelompoknya. Penangkapan itu tanpa gejolak karena pasukan di konsinyir Letkol Soeharto.
+
+---
+
+[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 35-38.
+
+ [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Ir. Soekarno](https://soehartolibrary.id/tag/ir-soekarno/), [Jenderal Soedirman](https://soehartolibrary.id/tag/jenderal-soedirman/), [Mayor Sudarsono](https://soehartolibrary.id/tag/mayor-sudarsono/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)
