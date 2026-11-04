@@ -1,9 +1,39 @@
 ---
-title: "Akar Saya Dari Desa – HM Soeharto"
-source: "https://soehartolibrary.id/akar-saya-dari-desa/"
-date: "2018-01-10T19:00:49+07:00"
+title: Akar Saya Dari Desa
+description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [2 Comments](https://soehartolibrary.id/akar-saya-dari-desa/comments) 559 Views
+  Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: akar-saya-dari-desa
+aliases:
+- Akar Saya Dari Desa – HM Soeharto
+tags:
+- kemusuk
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-sdoeharto
+- silsilah
+- wonogiri
+- wuryantoro
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/akar-saya-dari-desa/
+  judul: Akar Saya Dari Desa
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/akar-saya-dari-desa/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/DSC_0416_result.jpg)
 

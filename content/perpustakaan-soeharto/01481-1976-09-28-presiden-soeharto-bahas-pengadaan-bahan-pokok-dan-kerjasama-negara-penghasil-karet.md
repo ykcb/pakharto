@@ -1,9 +1,49 @@
 ---
-title: "1976-09-28 Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara Penghasil Karet – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet/"
-date: "2017-08-22T16:15:32+07:00"
+title: 1976-09-28 Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara
+  Penghasil Karet
+description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet/respond)
+  100 Views Share on
+date: '1976-09-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet
+aliases:
+- Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara Penghasil Karet
+- 1976-09-28 Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara Penghasil
+  Karet – HM Soeharto
+tags:
+- bahan-pokok
+- karet-alam
+- lebaran
+- menteri-negara-ekuin
+- menteri-pan
+- menteri-perdagangan
+- menterisekretaris-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- radius-prawiro
+- sudharmono
+- sumarlin
+- widjojo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet/
+  judul: 1976-09-28 Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara
+    Penghasil Karet
+  tanggal: '1976-09-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet/
 ---
+
 
 # 1976-09-28 Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara Penghasil Karet
 

@@ -1,9 +1,47 @@
 ---
-title: "1969-02-14 Lantik Perwira AKRI, Jenderal Soeharto: Kepolisian Alat Utama Wujudkan Kamtibmas – HM Soeharto"
-source: "https://soehartolibrary.id/1969-02-14-lantik-perwira-akri-jenderal-soeharto-kepolisian-alat-utama-wujudkan-kamtibmas/"
-date: "2017-08-28T17:11:46+07:00"
+title: '1969-02-14 Lantik Perwira AKRI, Jenderal Soeharto: Kepolisian Alat Utama Wujudkan
+  Kamtibmas'
+description: JUM’AT, 14 FEBRUARI 1969. Jenderal Soeharto menegaskan bahwa tugas pokok
+  Angkatan Kepolisian adalah sebagai alat utama dalam mewujudkan keamanan dan ketertiban
+  masyarakat, terutama dalam menghadapi Repelita. Hal itu dikatakan oleh...
+date: '1969-02-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-02-14-lantik-perwira-akri-jenderal-soeharto-kepolisian-alat-utama-wujudkan-kamtibmas
+aliases:
+- 'Lantik Perwira AKRI, Jenderal Soeharto: Kepolisian Alat Utama Wujudkan Kamtibmas'
+- '1969-02-14 Lantik Perwira AKRI, Jenderal Soeharto: Kepolisian Alat Utama Wujudkan
+  Kamtibmas – HM Soeharto'
+tags:
+- akri
+- catur
+- darma
+- eka
+- karma
+- keamanan
+- kepolisian
+- ketertiban
+- mabak
+- orde-baru
+- perpustakaan-soeharto
+- repelita
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-02-14-lantik-perwira-akri-jenderal-soeharto-kepolisian-alat-utama-wujudkan-kamtibmas/
+  judul: '1969-02-14 Lantik Perwira AKRI, Jenderal Soeharto: Kepolisian Alat Utama
+    Wujudkan Kamtibmas'
+  tanggal: '1969-02-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-02-14-lantik-perwira-akri-jenderal-soeharto-kepolisian-alat-utama-wujudkan-kamtibmas/
 ---
+
 
 # 1969-02-14 Lantik Perwira AKRI, Jenderal Soeharto: Kepolisian Alat Utama Wujudkan Kamtibmas
 

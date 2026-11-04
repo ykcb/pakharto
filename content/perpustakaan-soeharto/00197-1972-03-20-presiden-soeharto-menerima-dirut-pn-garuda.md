@@ -1,9 +1,40 @@
 ---
-title: "1972-03-20 Presiden Soeharto Menerima Dirut PN Garuda – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-20-presiden-soeharto-menerima-dirut-pn-garuda/"
-date: "2014-03-22T03:04:43+07:00"
+title: 1972-03-20 Presiden Soeharto Menerima Dirut PN Garuda
+description: SENIN, 20 Maret 1972, Siang ini Presiden Soeharto mengharapkan agar PN
+  Garuda dapat meningkatkan penerbangan dalam negeri guna menghadapi konferensi PATA
+  pada tahun 1974. Harapan itu disampaikan kepada Direktur Utama PN Garuda Wiweko,...
+date: '1972-03-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-20-presiden-soeharto-menerima-dirut-pn-garuda
+aliases:
+- Presiden Soeharto Menerima Dirut PN Garuda
+- 1972-03-20 Presiden Soeharto Menerima Dirut PN Garuda – HM Soeharto
+tags:
+- garuda
+- orde-baru
+- pak-harto
+- pata
+- perpustakaan-soeharto
+- pni
+- presiden
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-20-presiden-soeharto-menerima-dirut-pn-garuda/
+  judul: 1972-03-20 Presiden Soeharto Menerima Dirut PN Garuda
+  tanggal: '1972-03-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-20-presiden-soeharto-menerima-dirut-pn-garuda/
 ---
+
 
 # 1972-03-20 Presiden Soeharto Menerima Dirut PN Garuda
 

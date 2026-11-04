@@ -1,9 +1,42 @@
 ---
-title: "1970-03-03 Presiden Soeharto Pimpin Sidang Kabinet – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-03-presiden-soeharto-pimpin-sidang-kabinet/"
-date: "2017-08-28T17:08:24+07:00"
+title: 1970-03-03 Presiden Soeharto Pimpin Sidang Kabinet
+description: SELASA, 3 Maret 1970, Hari ini Presiden Soeharto memimpin sidang paripurna
+  kabinet di Istana Negara. Sidang kabinet kali ini mengadakan penilaian umum atas
+  pelaksanaan Pelita I, yang oleh Presiden dianggap penting dalam rangka koreksi...
+date: '1970-03-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-03-presiden-soeharto-pimpin-sidang-kabinet
+aliases:
+- Presiden Soeharto Pimpin Sidang Kabinet
+- 1970-03-03 Presiden Soeharto Pimpin Sidang Kabinet – HM Soeharto
+tags:
+- agung
+- bimmas
+- coopa
+- kejaksaan
+- orde-baru
+- pak-harto
+- pelita
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-03-presiden-soeharto-pimpin-sidang-kabinet/
+  judul: 1970-03-03 Presiden Soeharto Pimpin Sidang Kabinet
+  tanggal: '1970-03-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-03-presiden-soeharto-pimpin-sidang-kabinet/
 ---
+
 
 # 1970-03-03 Presiden Soeharto Pimpin Sidang Kabinet
 

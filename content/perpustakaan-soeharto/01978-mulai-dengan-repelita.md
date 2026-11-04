@@ -1,9 +1,40 @@
 ---
-title: "Mulai dengan Repelita I – HM Soeharto"
-source: "https://soehartolibrary.id/mulai-dengan-repelita/"
-date: "2018-01-19T14:37:46+07:00"
+title: Mulai dengan Repelita I
+description: 18 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/mulai-dengan-repelita/respond) 590 Views
+  Share on
+date: '2018-01-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: mulai-dengan-repelita
+aliases:
+- Mulai dengan Repelita I – HM Soeharto
+tags:
+- bappenas
+- gbhn
+- kepala-negara
+- mpr
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita-i
+- widjojo-nitisostro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/mulai-dengan-repelita/
+  judul: Mulai dengan Repelita I
+  tanggal: '2018-01-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/mulai-dengan-repelita/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/76030019_result.jpg)
 

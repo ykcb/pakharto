@@ -1,9 +1,37 @@
 ---
-title: "Memperjuangkan Pemerataan Hasil Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/memperjuangkan-pemerataan-hasil-pembangunan/"
-date: "2014-06-13T18:52:03+07:00"
+title: Memperjuangkan Pemerataan Hasil Pembangunan
+description: 17 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/memperjuangkan-pemerataan-hasil-pembangunan/respond)
+  140 Views Share on
+date: '2014-06-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: memperjuangkan-pemerataan-hasil-pembangunan
+aliases:
+- Memperjuangkan Pemerataan Hasil Pembangunan – HM Soeharto
+tags:
+- gubernur-bi
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rachmat-saleh
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/memperjuangkan-pemerataan-hasil-pembangunan/
+  judul: Memperjuangkan Pemerataan Hasil Pembangunan
+  tanggal: '2014-06-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/memperjuangkan-pemerataan-hasil-pembangunan/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0716_result.jpg)
 

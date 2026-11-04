@@ -1,9 +1,43 @@
 ---
-title: "1969-07-17 Presiden Soeharto Instruksikan Pembangunan Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-17-presiden-soeharto-instruksikan-pembangunan-irian-barat/"
-date: "2017-08-24T15:22:30+07:00"
+title: 1969-07-17 Presiden Soeharto Instruksikan Pembangunan Irian Barat
+description: KAMIS, 17 Juli 1969. Presiden Soeharto pagi ini di Istana Merdeka telah
+  menginstruksikan Menteri Keuangan Ali Wardhana dan Ketua Bappenas Widjoyo Nitisastro,
+  untuk meneliti kembali soal pembangunan di Irian Barat. Ditegaskan oleh...
+date: '1969-07-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-17-presiden-soeharto-instruksikan-pembangunan-irian-barat
+aliases:
+- Presiden Soeharto Instruksikan Pembangunan Irian Barat
+- 1969-07-17 Presiden Soeharto Instruksikan Pembangunan Irian Barat – HM Soeharto
+tags:
+- ali-wardhana
+- irian-barat
+- jenderal-soeharto
+- ketua-bappenas
+- menteri-keuangan
+- orde-baru
+- pak-harto
+- pepera
+- perpustakaan-soeharto
+- presiden-soeharto
+- widjoyo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-17-presiden-soeharto-instruksikan-pembangunan-irian-barat/
+  judul: 1969-07-17 Presiden Soeharto Instruksikan Pembangunan Irian Barat
+  tanggal: '1969-07-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-17-presiden-soeharto-instruksikan-pembangunan-irian-barat/
 ---
+
 
 # 1969-07-17 Presiden Soeharto Instruksikan Pembangunan Irian Barat
 

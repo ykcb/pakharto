@@ -1,9 +1,37 @@
 ---
-title: "Memahami Falsafah Hidup Pak Harto (3) – HM Soeharto"
-source: "https://soehartolibrary.id/memahami-falsafaf-hidup-pak-harto-3/"
-date: "2013-04-24T01:48:02+07:00"
+title: Memahami Falsafah Hidup Pak Harto (3)
+description: Para guru spiritual dan orang-orang yang dituakan dalam lingkungan tempat
+  Pak Harto tumbuh pada masa kanak-kanak dan remaja, dapat dipastikan memiliki peran
+  penting dalam membentuk visi kenusantaraan. Sebagaimana kelaziman kultur...
+date: '2013-04-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: memahami-falsafaf-hidup-pak-harto-3
+aliases:
+- Memahami Falsafah Hidup Pak Harto (3) – HM Soeharto
+tags:
+- jawa
+- nusantara
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-ri
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/memahami-falsafaf-hidup-pak-harto-3/
+  judul: Memahami Falsafah Hidup Pak Harto (3)
+  tanggal: '2013-04-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/memahami-falsafaf-hidup-pak-harto-3/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/04/N.jpg)
 

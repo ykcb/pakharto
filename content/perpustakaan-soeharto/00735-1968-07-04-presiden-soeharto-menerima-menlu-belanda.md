@@ -1,9 +1,40 @@
 ---
-title: "1968-07-04 Presiden Soeharto Menerima Menlu Belanda – HM Soeharto"
-source: "https://soehartolibrary.id/1968-07-04-presiden-soeharto-menerima-menlu-belanda/"
-date: "2017-08-24T15:27:18+07:00"
+title: 1968-07-04 Presiden Soeharto Menerima Menlu Belanda
+description: SENIN, 04 Juli 1968, Menteri Luar Negeri Belanda, Joseph Luns, pagi ini
+  diterima oleh Presiden Soeharto di Istana Merdeka, Jakarta. Menteri Luar Negeri
+  Luns Berada di Jakarta atas undangan Menteri Luar Negeri Adam Malik. Selama di...
+date: '1968-07-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-07-04-presiden-soeharto-menerima-menlu-belanda
+aliases:
+- Presiden Soeharto Menerima Menlu Belanda
+- 1968-07-04 Presiden Soeharto Menerima Menlu Belanda – HM Soeharto
+tags:
+- adam-malik
+- belanda
+- joseph-luns
+- menlu
+- menteri-luar-negeri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-07-04-presiden-soeharto-menerima-menlu-belanda/
+  judul: 1968-07-04 Presiden Soeharto Menerima Menlu Belanda
+  tanggal: '1968-07-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-07-04-presiden-soeharto-menerima-menlu-belanda/
 ---
+
 
 # 1968-07-04 Presiden Soeharto Menerima Menlu Belanda
 

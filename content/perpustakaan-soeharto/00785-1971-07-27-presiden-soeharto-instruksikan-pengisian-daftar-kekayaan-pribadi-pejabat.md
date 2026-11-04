@@ -1,9 +1,42 @@
 ---
-title: "1971-07-27 Presiden Soeharto Instruksikan Pengisian Daftar kekayaan Pribadi Pejabat – HM Soeharto"
-source: "https://soehartolibrary.id/1971-07-27-presiden-soeharto-instruksikan-pengisian-daftar-kekayaan-pribadi-pejabat/"
-date: "2017-08-25T15:46:08+07:00"
+title: 1971-07-27 Presiden Soeharto Instruksikan Pengisian Daftar kekayaan Pribadi
+  Pejabat
+description: SELASA, 27 Juli 1971. Sebagai tindak lanjut dari instruksinya beberapa
+  waktu yang lalu, dalam sidang sub-Dewan Stabilisasi Ekonomi di Bina Graha hari ini,
+  Presiden Soeharto menginstruksikan agar pejabat-pejabat teras dari departemen dan...
+date: '1971-07-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-07-27-presiden-soeharto-instruksikan-pengisian-daftar-kekayaan-pribadi-pejabat
+aliases:
+- Presiden Soeharto Instruksikan Pengisian Daftar kekayaan Pribadi Pejabat
+- 1971-07-27 Presiden Soeharto Instruksikan Pengisian Daftar kekayaan Pribadi Pejabat
+  – HM Soeharto
+tags:
+- daftar-kekayaan
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- pejabat
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-07-27-presiden-soeharto-instruksikan-pengisian-daftar-kekayaan-pribadi-pejabat/
+  judul: 1971-07-27 Presiden Soeharto Instruksikan Pengisian Daftar kekayaan Pribadi
+    Pejabat
+  tanggal: '1971-07-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-07-27-presiden-soeharto-instruksikan-pengisian-daftar-kekayaan-pribadi-pejabat/
 ---
+
 
 # 1971-07-27 Presiden Soeharto Instruksikan Pengisian Daftar kekayaan Pribadi Pejabat
 

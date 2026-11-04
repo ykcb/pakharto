@@ -1,9 +1,41 @@
 ---
-title: "1974-08-05 Presiden Soeharto Menerima Duta Besar Iran dan Rumania – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-05-presiden-soeharto-menerima-duta-besar-iran-dan-rumania/"
-date: "2017-08-23T11:34:33+07:00"
+title: 1974-08-05 Presiden Soeharto Menerima Duta Besar Iran dan Rumania
+description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-05-presiden-soeharto-menerima-duta-besar-iran-dan-rumania/respond)
+  115 Views Share on
+date: '1974-08-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-05-presiden-soeharto-menerima-duta-besar-iran-dan-rumania
+aliases:
+- Presiden Soeharto Menerima Duta Besar Iran dan Rumania
+- 1974-08-05 Presiden Soeharto Menerima Duta Besar Iran dan Rumania – HM Soeharto
+tags:
+- duta-besar
+- iran
+- mohamad-ali-shekohiyan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- republik-sosialis
+- rumania
+- teodor-ditulescu
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-05-presiden-soeharto-menerima-duta-besar-iran-dan-rumania/
+  judul: 1974-08-05 Presiden Soeharto Menerima Duta Besar Iran dan Rumania
+  tanggal: '1974-08-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-05-presiden-soeharto-menerima-duta-besar-iran-dan-rumania/
 ---
+
 
 # 1974-08-05 Presiden Soeharto Menerima Duta Besar Iran dan Rumania
 

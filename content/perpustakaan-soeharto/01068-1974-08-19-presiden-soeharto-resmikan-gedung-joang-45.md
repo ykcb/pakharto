@@ -1,9 +1,37 @@
 ---
-title: "1974-08-19 Presiden Soeharto Resmikan Gedung Joang 45 – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-19-presiden-soeharto-resmikan-gedung-joang-45/"
-date: "2017-08-23T11:18:28+07:00"
+title: 1974-08-19 Presiden Soeharto Resmikan Gedung Joang 45
+description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-19-presiden-soeharto-resmikan-gedung-joang-45/respond)
+  100 Views Share on
+date: '1974-08-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-19-presiden-soeharto-resmikan-gedung-joang-45
+aliases:
+- Presiden Soeharto Resmikan Gedung Joang 45
+- 1974-08-19 Presiden Soeharto Resmikan Gedung Joang 45 – HM Soeharto
+tags:
+- gedung-joang-45
+- menteng
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-19-presiden-soeharto-resmikan-gedung-joang-45/
+  judul: 1974-08-19 Presiden Soeharto Resmikan Gedung Joang 45
+  tanggal: '1974-08-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-19-presiden-soeharto-resmikan-gedung-joang-45/
 ---
+
 
 # 1974-08-19 Presiden Soeharto Resmikan Gedung Joang 45
 

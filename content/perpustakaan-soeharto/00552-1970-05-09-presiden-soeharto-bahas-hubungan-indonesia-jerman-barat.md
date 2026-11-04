@@ -1,9 +1,38 @@
 ---
-title: "1970-05-09 Presiden Soeharto Bahas Hubungan Indonesia-Jerman Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-09-presiden-soeharto-bahas-hubungan-indonesia-jerman-barat/"
-date: "2017-08-25T15:52:49+07:00"
+title: 1970-05-09 Presiden Soeharto Bahas Hubungan Indonesia-Jerman Barat
+description: SABTU, 9 MEI 1970, Presiden Soeharto pagi ini di Istana Merdeka menerima
+  kunjungan Menteri Luar Negeri Republik Federal Jerman (Jerman Barat), Walter Scheele.
+  Dalam petemuan yang berlangsung selama lebih kurang satu jam itu antara lain...
+date: '1970-05-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-09-presiden-soeharto-bahas-hubungan-indonesia-jerman-barat
+aliases:
+- Presiden Soeharto Bahas Hubungan Indonesia-Jerman Barat
+- 1970-05-09 Presiden Soeharto Bahas Hubungan Indonesia-Jerman Barat – HM Soeharto
+tags:
+- jerman-barat
+- menteri-luar-negeri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- walter-scheele
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-09-presiden-soeharto-bahas-hubungan-indonesia-jerman-barat/
+  judul: 1970-05-09 Presiden Soeharto Bahas Hubungan Indonesia-Jerman Barat
+  tanggal: '1970-05-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-09-presiden-soeharto-bahas-hubungan-indonesia-jerman-barat/
 ---
+
 
 # 1970-05-09 Presiden Soeharto Bahas Hubungan Indonesia-Jerman Barat
 

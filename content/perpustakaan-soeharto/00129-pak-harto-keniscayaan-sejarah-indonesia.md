@@ -1,9 +1,38 @@
 ---
-title: "Pak Harto Keniscayaan Sejarah Indonesia – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-keniscayaan-sejarah-indonesia/"
-date: "2013-02-24T20:21:30+07:00"
+title: Pak Harto Keniscayaan Sejarah Indonesia
+description: BAGI kebanyakan generasi muda, apa yang terjadi sekitar 45 tahun lalu
+  mungkin saja tidak banyak memberi arti. Sebabnya (tentu saja), sebagian besar generasi
+  muda tidak merasakan getaran sejarah, saat detik-detik peralihan Orde Lama ke...
+date: '2013-02-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-keniscayaan-sejarah-indonesia
+aliases:
+- Pak Harto Keniscayaan Sejarah Indonesia – HM Soeharto
+tags:
+- g-30-spki
+- indonesia
+- keniscayaan
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- sejarah
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-keniscayaan-sejarah-indonesia/
+  judul: Pak Harto Keniscayaan Sejarah Indonesia
+  tanggal: '2013-02-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-keniscayaan-sejarah-indonesia/
 ---
+
 
 # Pak Harto Keniscayaan Sejarah Indonesia
 

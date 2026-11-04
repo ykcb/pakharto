@@ -1,9 +1,37 @@
 ---
-title: "BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 4) – HM Soeharto"
-source: "https://soehartolibrary.id/bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-4/"
-date: "2014-03-11T23:16:26+07:00"
+title: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 4)'
+description: Sejak pertemuan itu, saya memperoleh kesempatan untuk secara periodik
+  berdialog dengan Pak Harto dan dengan demikian, mendengar sendiri dari dekat pemikiran-pemikiran
+  beliau. Ternyata bahwa Pak Harto yang saya kenal sejak tahun 1950...
+date: '2014-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-4
+aliases:
+- 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 4) – HM Soeharto'
+tags:
+- bj-habibie
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-4/
+  judul: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 4)'
+  tanggal: '2014-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-4/
 ---
+
 
 # BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 4)
 

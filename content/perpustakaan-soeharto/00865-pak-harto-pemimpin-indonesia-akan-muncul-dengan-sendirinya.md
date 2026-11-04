@@ -1,9 +1,37 @@
 ---
-title: "Pak Harto: Pemimpin Indonesia Akan Muncul dengan Sendirinya – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-pemimpin-indonesia-akan-muncul-dengan-sendirinya/"
-date: "2013-07-29T08:28:46+07:00"
+title: 'Pak Harto: Pemimpin Indonesia Akan Muncul dengan Sendirinya'
+description: Ada sekelumit kenangan yang saya simpan dari suatu percakapan yang tidak
+  bersifat kedinasan, percakapan ini saya nilai unik sekali. Percakapan yang bagi
+  saya pribadi sangat meninggalkan kesan ini berlangsung tidak lama setelah timbulnya...
+date: '2013-07-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-pemimpin-indonesia-akan-muncul-dengan-sendirinya
+aliases:
+- 'Pak Harto: Pemimpin Indonesia Akan Muncul dengan Sendirinya – HM Soeharto'
+tags:
+- ali-wardhana
+- malari
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- suksesi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-pemimpin-indonesia-akan-muncul-dengan-sendirinya/
+  judul: 'Pak Harto: Pemimpin Indonesia Akan Muncul dengan Sendirinya'
+  tanggal: '2013-07-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-pemimpin-indonesia-akan-muncul-dengan-sendirinya/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/03/31-01-Foto-Jejak-Langkah-2-Presiden-Suharto-meresmikan-jaringan-irigasi-Panatusan-Tulung-Agung.jpg)
 

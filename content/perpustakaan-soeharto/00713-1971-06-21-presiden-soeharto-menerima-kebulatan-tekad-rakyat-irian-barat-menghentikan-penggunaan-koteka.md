@@ -1,9 +1,44 @@
 ---
-title: "1971-06-21 Presiden Soeharto Menerima Kebulatan Tekad Rakyat Irian Barat Menghentikan Penggunaan Koteka – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-21-presiden-soeharto-menerima-kebulatan-tekad-rakyat-irian-barat-menghentikan-penggunaan-koteka/"
-date: "2017-08-24T15:29:01+07:00"
+title: 1971-06-21 Presiden Soeharto Menerima Kebulatan Tekad Rakyat Irian Barat Menghentikan
+  Penggunaan Koteka
+description: SENIN, 21 Juni 1971, Pangdam XVII/Cenderawasih, Brigjen. Acub Zainal
+  melaporkan kepada Presiden Soeharto mengenai kebulatan tekad rakyat di pedalaman
+  Irian Barat untuk menghentikan penggunaan koteka pada tahun 1973. Kebulatan tekad
+  ini...
+date: '1971-06-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-21-presiden-soeharto-menerima-kebulatan-tekad-rakyat-irian-barat-menghentikan-penggunaan-koteka
+aliases:
+- Presiden Soeharto Menerima Kebulatan Tekad Rakyat Irian Barat Menghentikan Penggunaan
+  Koteka
+- 1971-06-21 Presiden Soeharto Menerima Kebulatan Tekad Rakyat Irian Barat Menghentikan
+  Penggunaan Koteka – HM Soeharto
+tags:
+- acub-zainal
+- koteka
+- orde-baru
+- pangdam-xviicenderawasih
+- perpustakaan-soeharto
+- presiden-soeharto
+- proyek-kemanusiaan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-21-presiden-soeharto-menerima-kebulatan-tekad-rakyat-irian-barat-menghentikan-penggunaan-koteka/
+  judul: 1971-06-21 Presiden Soeharto Menerima Kebulatan Tekad Rakyat Irian Barat
+    Menghentikan Penggunaan Koteka
+  tanggal: '1971-06-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-21-presiden-soeharto-menerima-kebulatan-tekad-rakyat-irian-barat-menghentikan-penggunaan-koteka/
 ---
+
 
 # 1971-06-21 Presiden Soeharto Menerima Kebulatan Tekad Rakyat Irian Barat Menghentikan Penggunaan Koteka
 

@@ -1,9 +1,42 @@
 ---
-title: "1974-08-07 Presiden Soeharto Resmikan Proyek Pasar Atas Bukittinggi – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-07-presiden-soeharto-resmikan-proyek-pasar-atas-bukittinggi/"
-date: "2017-08-23T11:34:25+07:00"
+title: 1974-08-07 Presiden Soeharto Resmikan Proyek Pasar Atas Bukittinggi
+description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-07-presiden-soeharto-resmikan-proyek-pasar-atas-bukittinggi/respond)
+  286 Views Share on
+date: '1974-08-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-07-presiden-soeharto-resmikan-proyek-pasar-atas-bukittinggi
+aliases:
+- Presiden Soeharto Resmikan Proyek Pasar Atas Bukittinggi
+- 1974-08-07 Presiden Soeharto Resmikan Proyek Pasar Atas Bukittinggi – HM Soeharto
+tags:
+- ibu-tien
+- lapangan-udara
+- lubuk-linggau
+- orde-baru
+- padang
+- pasar-atas
+- perpustakaan-soeharto
+- presiden-soeharto
+- sawah-tambang
+- tabing
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-07-presiden-soeharto-resmikan-proyek-pasar-atas-bukittinggi/
+  judul: 1974-08-07 Presiden Soeharto Resmikan Proyek Pasar Atas Bukittinggi
+  tanggal: '1974-08-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-07-presiden-soeharto-resmikan-proyek-pasar-atas-bukittinggi/
 ---
+
 
 # 1974-08-07 Presiden Soeharto Resmikan Proyek Pasar Atas Bukittinggi
 

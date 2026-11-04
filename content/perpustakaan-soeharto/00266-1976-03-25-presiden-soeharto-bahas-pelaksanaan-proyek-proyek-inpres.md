@@ -1,9 +1,37 @@
 ---
-title: "1976-03-25 Presiden Soeharto Bahas Pelaksanaan Proyek-Proyek Inpres – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-25-presiden-soeharto-bahas-pelaksanaan-proyek-proyek-inpres/"
-date: "2017-08-29T17:38:10+07:00"
+title: 1976-03-25 Presiden Soeharto Bahas Pelaksanaan Proyek-Proyek Inpres
+description: KAMIS, 25 MARET 1976, Di Istana Merdeka pagi ini Presiden Soeharto menerima
+  Menteri PAN/Wakil Ketua Bappenas, Sumarlin, Menteri Keuangan, Ali Wardhana, dan
+  Sekretaris Jenderal Departemen Dalam Negeri, Suprapto, dan Asisten Intel/Hankam,...
+date: '1976-03-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-25-presiden-soeharto-bahas-pelaksanaan-proyek-proyek-inpres
+aliases:
+- Presiden Soeharto Bahas Pelaksanaan Proyek-Proyek Inpres
+- 1976-03-25 Presiden Soeharto Bahas Pelaksanaan Proyek-Proyek Inpres – HM Soeharto
+tags:
+- orde-baru
+- pengaturan
+- perpustakaan-soeharto
+- presiden-soeharto
+- proyek-inpres
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-25-presiden-soeharto-bahas-pelaksanaan-proyek-proyek-inpres/
+  judul: 1976-03-25 Presiden Soeharto Bahas Pelaksanaan Proyek-Proyek Inpres
+  tanggal: '1976-03-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-25-presiden-soeharto-bahas-pelaksanaan-proyek-proyek-inpres/
 ---
+
 
 # 1976-03-25 Presiden Soeharto Bahas Pelaksanaan Proyek-Proyek Inpres
 

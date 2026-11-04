@@ -1,9 +1,37 @@
 ---
-title: "1971-10-26 Presiden Soeharto Bentuk Badan/Pimpinan Daerah Industri Batam – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-26-presiden-soeharto-bentuk-badanpimpinan-daerah-industri-batam/"
-date: "2014-12-01T16:20:55+07:00"
+title: 1971-10-26 Presiden Soeharto Bentuk Badan/Pimpinan Daerah Industri Batam
+description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-26-presiden-soeharto-bentuk-badanpimpinan-daerah-industri-batam/respond)
+  87 Views Share on
+date: '1971-10-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-26-presiden-soeharto-bentuk-badanpimpinan-daerah-industri-batam
+aliases:
+- Presiden Soeharto Bentuk Badan/Pimpinan Daerah Industri Batam
+- 1971-10-26 Presiden Soeharto Bentuk Badan/Pimpinan Daerah Industri Batam – HM Soeharto
+tags:
+- batam
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-26-presiden-soeharto-bentuk-badanpimpinan-daerah-industri-batam/
+  judul: 1971-10-26 Presiden Soeharto Bentuk Badan/Pimpinan Daerah Industri Batam
+  tanggal: '1971-10-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-26-presiden-soeharto-bentuk-badanpimpinan-daerah-industri-batam/
 ---
+
 
 # 1971-10-26 Presiden Soeharto Bentuk Badan/Pimpinan Daerah Industri Batam
 

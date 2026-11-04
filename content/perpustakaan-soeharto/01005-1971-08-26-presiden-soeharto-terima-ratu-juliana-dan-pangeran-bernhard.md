@@ -1,9 +1,38 @@
 ---
-title: "1971-08-26 Presiden Soeharto Terima Ratu Juliana dan Pangeran Bernhard – HM Soeharto"
-source: "https://soehartolibrary.id/1971-08-26-presiden-soeharto-terima-ratu-juliana-dan-pangeran-bernhard/"
-date: "2017-08-24T15:08:59+07:00"
+title: 1971-08-26 Presiden Soeharto Terima Ratu Juliana dan Pangeran Bernhard
+description: 18 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-08-26-presiden-soeharto-terima-ratu-juliana-dan-pangeran-bernhard/respond)
+  116 Views Share on
+date: '1971-08-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-08-26-presiden-soeharto-terima-ratu-juliana-dan-pangeran-bernhard
+aliases:
+- Presiden Soeharto Terima Ratu Juliana dan Pangeran Bernhard
+- 1971-08-26 Presiden Soeharto Terima Ratu Juliana dan Pangeran Bernhard – HM Soeharto
+tags:
+- belanda
+- orde-baru
+- pangeran-bernhard
+- perpustakaan-soeharto
+- presiden-soeharto
+- ratu-juliana
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-08-26-presiden-soeharto-terima-ratu-juliana-dan-pangeran-bernhard/
+  judul: 1971-08-26 Presiden Soeharto Terima Ratu Juliana dan Pangeran Bernhard
+  tanggal: '1971-08-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-08-26-presiden-soeharto-terima-ratu-juliana-dan-pangeran-bernhard/
 ---
+
 
 # 1971-08-26 Presiden Soeharto Terima Ratu Juliana dan Pangeran Bernhard
 

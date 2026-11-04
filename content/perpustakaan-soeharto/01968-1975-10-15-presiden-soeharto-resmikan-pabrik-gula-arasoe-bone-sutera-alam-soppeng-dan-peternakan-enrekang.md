@@ -1,9 +1,49 @@
 ---
-title: "1975-10-15 Presiden Soeharto resmikan Pabrik Gula Arasoe Bone, Sutera Alam Soppeng dan Peternakan Enrekang – HM Soeharto"
-source: "https://soehartolibrary.id/1975-10-15-presiden-soeharto-resmikan-pabrik-gula-arasoe-bone-sutera-alam-soppeng-dan-peternakan-enrekang/"
-date: "2014-06-13T18:52:37+07:00"
+title: 1975-10-15 Presiden Soeharto resmikan Pabrik Gula Arasoe Bone, Sutera Alam
+  Soppeng dan Peternakan Enrekang
+description: 17 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-10-15-presiden-soeharto-resmikan-pabrik-gula-arasoe-bone-sutera-alam-soppeng-dan-peternakan-enrekang/respond)
+  116...
+date: '1975-10-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-10-15-presiden-soeharto-resmikan-pabrik-gula-arasoe-bone-sutera-alam-soppeng-dan-peternakan-enrekang
+aliases:
+- Presiden Soeharto resmikan Pabrik Gula Arasoe Bone, Sutera Alam Soppeng dan Peternakan
+  Enrekang
+- 1975-10-15 Presiden Soeharto resmikan Pabrik Gula Arasoe Bone, Sutera Alam Soppeng
+  dan Peternakan Enrekang – HM Soeharto
+tags:
+- arasoe
+- kabupaten-bone
+- kabupaten-enrekang
+- kepala-negara
+- maroangin
+- orde-baru
+- pabrik-gula
+- perpustakaan-soeharto
+- peternakan
+- presiden-soeharto
+- pt-mulya-ternak
+- soppeng
+- sutera-alam
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-10-15-presiden-soeharto-resmikan-pabrik-gula-arasoe-bone-sutera-alam-soppeng-dan-peternakan-enrekang/
+  judul: 1975-10-15 Presiden Soeharto resmikan Pabrik Gula Arasoe Bone, Sutera Alam
+    Soppeng dan Peternakan Enrekang
+  tanggal: '1975-10-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-10-15-presiden-soeharto-resmikan-pabrik-gula-arasoe-bone-sutera-alam-soppeng-dan-peternakan-enrekang/
 ---
+
 
 # 1975-10-15 Presiden Soeharto resmikan Pabrik Gula Arasoe Bone, Sutera Alam Soppeng dan Peternakan Enrekang
 

@@ -1,9 +1,35 @@
 ---
-title: "Julius K. Nyerere: Melawan Imperialisme Ekonomi – HM Soeharto"
-source: "https://soehartolibrary.id/julius-k-nyerere-melawan-imperialisme-ekonomi/"
-date: "2013-07-28T00:25:55+07:00"
+title: 'Julius K. Nyerere: Melawan Imperialisme Ekonomi'
+description: Office of the President of the Republic Indonesia
+date: '2013-07-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: julius-k-nyerere-melawan-imperialisme-ekonomi
+aliases:
+- 'Julius K. Nyerere: Melawan Imperialisme Ekonomi – HM Soeharto'
+tags:
+- imperalisme-ekonomi
+- julius-k-nyerere
+- komisi-selatan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/julius-k-nyerere-melawan-imperialisme-ekonomi/
+  judul: 'Julius K. Nyerere: Melawan Imperialisme Ekonomi'
+  tanggal: '2013-07-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/julius-k-nyerere-melawan-imperialisme-ekonomi/
 ---
+
 
 # Julius K. Nyerere: Melawan Imperialisme Ekonomi
 

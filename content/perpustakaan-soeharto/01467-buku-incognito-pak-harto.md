@@ -1,9 +1,36 @@
 ---
-title: "Buku Incognito Pak Harto – HM Soeharto"
-source: "https://soehartolibrary.id/buku-incognito-pak-harto/"
-date: "2017-08-22T16:17:10+07:00"
+title: Buku Incognito Pak Harto
+description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/buku-incognito-pak-harto/respond) 182 Views
+  Share on
+date: '2017-08-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: buku-incognito-pak-harto
+aliases:
+- Buku Incognito Pak Harto – HM Soeharto
+tags:
+- incognito
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/buku-incognito-pak-harto/
+  judul: Buku Incognito Pak Harto
+  tanggal: '2017-08-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/buku-incognito-pak-harto/
 ---
+
 
 ![Cover Buku Incognito Pak Harto](https://soehartolibrary.id/wp-content/uploads/2013/09/Cover-Buku-Incognito-Pak-Harto.jpg)
 

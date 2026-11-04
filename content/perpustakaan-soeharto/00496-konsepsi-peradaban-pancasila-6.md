@@ -1,9 +1,37 @@
 ---
-title: "Konsepsi Peradaban Pancasila (6) – HM Soeharto"
-source: "https://soehartolibrary.id/konsepsi-peradaban-pancasila-6/"
-date: "2013-04-28T13:08:33+07:00"
+title: Konsepsi Peradaban Pancasila (6)
+description: Amanat sila kelima Pancasila “Keadilan Sosial Bagi Seluruh Rakyat” bukan
+  merupakanan penekanan tanggung jawab negara sebagai lembaga penyantun (charity)
+  dan hanya menerjemahkannya dengan mengacu pasal 34 UUD. Sila kelima tersebut harus...
+date: '2013-04-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: konsepsi-peradaban-pancasila-6
+aliases:
+- Konsepsi Peradaban Pancasila (6) – HM Soeharto
+tags:
+- amandemen
+- keadilan-sosial
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- uud-1945
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/konsepsi-peradaban-pancasila-6/
+  judul: Konsepsi Peradaban Pancasila (6)
+  tanggal: '2013-04-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/konsepsi-peradaban-pancasila-6/
 ---
+
 
 # Konsepsi Peradaban Pancasila (6)
 

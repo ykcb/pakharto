@@ -1,9 +1,38 @@
 ---
-title: "1968-09-13 Presiden Soeharto: Penanaman Modal Asing Tidak Semua Sektor – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-13-presiden-soeharto-penanaman-modal-asing-tidak-semua-sektor/"
-date: "2014-04-01T02:15:03+07:00"
+title: '1968-09-13 Presiden Soeharto: Penanaman Modal Asing Tidak Semua Sektor'
+description: 1 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-13-presiden-soeharto-penanaman-modal-asing-tidak-semua-sektor/respond)
+  82 Views Share on
+date: '1968-09-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-13-presiden-soeharto-penanaman-modal-asing-tidak-semua-sektor
+aliases:
+- 'Presiden Soeharto: Penanaman Modal Asing Tidak Semua Sektor'
+- '1968-09-13 Presiden Soeharto: Penanaman Modal Asing Tidak Semua Sektor – HM Soeharto'
+tags:
+- elliot-b-haynes
+- kepala-negara
+- orde-baru
+- penanaman-modal-asing
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-13-presiden-soeharto-penanaman-modal-asing-tidak-semua-sektor/
+  judul: '1968-09-13 Presiden Soeharto: Penanaman Modal Asing Tidak Semua Sektor'
+  tanggal: '1968-09-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-13-presiden-soeharto-penanaman-modal-asing-tidak-semua-sektor/
 ---
+
 
 # 1968-09-13 Presiden Soeharto: Penanaman Modal Asing Tidak Semua Sektor
 

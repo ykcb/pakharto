@@ -1,9 +1,48 @@
 ---
-title: "1969-10-23 Presiden Soeharto: Pemenuhan PNS Harus Rasional – HM Soeharto"
-source: "https://soehartolibrary.id/1969-10-23-presiden-soeharto-pemenuhan-pns-harus-rasional/"
-date: "2014-03-21T23:12:05+07:00"
+title: '1969-10-23 Presiden Soeharto: Pemenuhan PNS Harus Rasional'
+description: 5 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-10-23-presiden-soeharto-pemenuhan-pns-harus-rasional/respond)
+  103 Views Share on
+date: '1969-10-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-10-23-presiden-soeharto-pemenuhan-pns-harus-rasional
+aliases:
+- 'Presiden Soeharto: Pemenuhan PNS Harus Rasional'
+- '1969-10-23 Presiden Soeharto: Pemenuhan PNS Harus Rasional – HM Soeharto'
+tags:
+- amirmachmud
+- harsono-tjokroaminoto
+- idham-chalid
+- kas-hankam
+- kepala-negara
+- kepala-urusan-pegawai
+- ketua-bappenas
+- letjen-soemitro
+- menteri-dalam-negeri
+- menteri-tenaga-kerja-mursalin
+- orde-baru
+- perpustakaan-soeharto
+- pns
+- presiden-soeharto
+- sujono
+- widjojo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-10-23-presiden-soeharto-pemenuhan-pns-harus-rasional/
+  judul: '1969-10-23 Presiden Soeharto: Pemenuhan PNS Harus Rasional'
+  tanggal: '1969-10-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-10-23-presiden-soeharto-pemenuhan-pns-harus-rasional/
 ---
+
 
 # 1969-10-23 Presiden Soeharto: Pemenuhan PNS Harus Rasional
 

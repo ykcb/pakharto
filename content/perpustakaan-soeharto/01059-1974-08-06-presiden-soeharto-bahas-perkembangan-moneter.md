@@ -1,9 +1,38 @@
 ---
-title: "1974-08-06 Presiden Soeharto Bahas Perkembangan Moneter – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/"
-date: "2017-08-23T11:35:04+07:00"
+title: 1974-08-06 Presiden Soeharto Bahas Perkembangan Moneter
+description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/respond)
+  112 Views Share on
+date: '1974-08-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-06-presiden-soeharto-bahas-perkembangan-moneter
+aliases:
+- Presiden Soeharto Bahas Perkembangan Moneter
+- 1974-08-06 Presiden Soeharto Bahas Perkembangan Moneter – HM Soeharto
+tags:
+- inflasi
+- moneter
+- orde-baru
+- perpustakaan-soeharto
+- persiden-soeharto
+- sidang-kabinet-paripurna
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/
+  judul: 1974-08-06 Presiden Soeharto Bahas Perkembangan Moneter
+  tanggal: '1974-08-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/
 ---
+
 
 # 1974-08-06 Presiden Soeharto Bahas Perkembangan Moneter
 

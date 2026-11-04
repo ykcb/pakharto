@@ -1,9 +1,35 @@
 ---
-title: "Hati Saya Hancur – HM Soeharto"
-source: "https://soehartolibrary.id/hati-saya-hancur/"
-date: "2013-07-22T22:51:01+07:00"
+title: Hati Saya Hancur
+description: Saya memberanikan diri untuk menulis surat kepada Bapak, karena saya
+  sudah tidak bisa menahan prihatin atas apa yang tengah menimpa diri Bapak.
+date: '2013-07-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: hati-saya-hancur
+aliases:
+- Hati Saya Hancur – HM Soeharto
+tags:
+- balikpapan
+- orde-baru
+- pengunduran-diri
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/hati-saya-hancur/
+  judul: Hati Saya Hancur
+  tanggal: '2013-07-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/hati-saya-hancur/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/02/Pak-Harto-mengundurkan-diri-F.jpg)
 

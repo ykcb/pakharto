@@ -1,9 +1,37 @@
 ---
-title: "1972-05-06 Presiden Soeharto Instruksikan Optimalisasi Target Anggaran – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-06-presiden-soeharto-instruksikan-optimalisasi-target-anggaran/"
-date: "2017-08-25T15:44:13+07:00"
+title: 1972-05-06 Presiden Soeharto Instruksikan Optimalisasi Target Anggaran
+description: SABTU, 6 Mei 1972, Presiden Soeharto menginstruksikan kepada para menteri
+  agar departemen mereka meningkatkan pemanfaatan anggaran sesuai dengan target yang
+  telah di tetapkan. Presiden juga menginstruksikan agar diadakan penertiban...
+date: '1972-05-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-06-presiden-soeharto-instruksikan-optimalisasi-target-anggaran
+aliases:
+- Presiden Soeharto Instruksikan Optimalisasi Target Anggaran
+- 1972-05-06 Presiden Soeharto Instruksikan Optimalisasi Target Anggaran – HM Soeharto
+tags:
+- anggaran
+- menteri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-06-presiden-soeharto-instruksikan-optimalisasi-target-anggaran/
+  judul: 1972-05-06 Presiden Soeharto Instruksikan Optimalisasi Target Anggaran
+  tanggal: '1972-05-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-06-presiden-soeharto-instruksikan-optimalisasi-target-anggaran/
 ---
+
 
 # 1972-05-06 Presiden Soeharto Instruksikan Optimalisasi Target Anggaran
 

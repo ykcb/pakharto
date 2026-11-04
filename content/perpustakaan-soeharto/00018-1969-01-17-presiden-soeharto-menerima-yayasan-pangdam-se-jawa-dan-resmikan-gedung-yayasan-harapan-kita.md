@@ -1,9 +1,47 @@
 ---
-title: "1969-01-17 Presiden Soeharto Menerima Yayasan Pangdam Se-Jawa dan Resmikan Gedung Yayasan Harapan Kita – HM Soeharto"
-source: "https://soehartolibrary.id/1969-01-17-presiden-soeharto-menerima-yayasan-pangdam-se-jawa-dan-resmikan-gedung-yayasan-harapan-kita/"
-date: "2014-12-29T01:24:07+07:00"
+title: 1969-01-17 Presiden Soeharto Menerima Yayasan Pangdam Se-Jawa dan Resmikan
+  Gedung Yayasan Harapan Kita
+description: JUM’AT, 17 JANUARI 1969. Presiden Soeharto telah menerima para panglima
+  se-Jawa beserta Panglima Kostrad dan Komando Paspasus RPKAD. Para perwira ini datang
+  untuk menyampaikan laporan tentang hasil-hasil rapat yang mereka adakan di...
+date: '1969-01-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-01-17-presiden-soeharto-menerima-yayasan-pangdam-se-jawa-dan-resmikan-gedung-yayasan-harapan-kita
+aliases:
+- Presiden Soeharto Menerima Yayasan Pangdam Se-Jawa dan Resmikan Gedung Yayasan Harapan
+  Kita
+- 1969-01-17 Presiden Soeharto Menerima Yayasan Pangdam Se-Jawa dan Resmikan Gedung
+  Yayasan Harapan Kita – HM Soeharto
+tags:
+- harapan
+- jawa
+- kita
+- landas
+- orde-baru
+- pangdam
+- perpustakaan-soeharto
+- politik
+- sosial
+- tinggal
+- yayasan
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-01-17-presiden-soeharto-menerima-yayasan-pangdam-se-jawa-dan-resmikan-gedung-yayasan-harapan-kita/
+  judul: 1969-01-17 Presiden Soeharto Menerima Yayasan Pangdam Se-Jawa dan Resmikan
+    Gedung Yayasan Harapan Kita
+  tanggal: '1969-01-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-01-17-presiden-soeharto-menerima-yayasan-pangdam-se-jawa-dan-resmikan-gedung-yayasan-harapan-kita/
 ---
+
 
 # 1969-01-17 Presiden Soeharto Menerima Yayasan Pangdam Se-Jawa dan Resmikan Gedung Yayasan Harapan Kita
 

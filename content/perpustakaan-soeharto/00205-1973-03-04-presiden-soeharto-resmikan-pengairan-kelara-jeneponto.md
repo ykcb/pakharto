@@ -1,9 +1,41 @@
 ---
-title: "1973-03-04 Presiden Soeharto Resmikan Pengairan Kelara Jeneponto – HM Soeharto"
-source: "https://soehartolibrary.id/1973-03-04-presiden-soeharto-resmikan-pengairan-kelara-jeneponto/"
-date: "2017-08-29T11:27:34+07:00"
+title: 1973-03-04 Presiden Soeharto Resmikan Pengairan Kelara Jeneponto
+description: MINGGU, 4 Maret 1973, Presiden Soeharto tiba di Ujung Pandang dari Irian
+  Jaya. Hari ini pula, Presiden meresmikan penggunaan proyek pengairan Kelara di Jeneponto,
+  Sulawesi Selatan. Pengairan Jeneponto ini merupakan proyek yang telah...
+date: '1973-03-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-03-04-presiden-soeharto-resmikan-pengairan-kelara-jeneponto
+aliases:
+- Presiden Soeharto Resmikan Pengairan Kelara Jeneponto
+- 1973-03-04 Presiden Soeharto Resmikan Pengairan Kelara Jeneponto – HM Soeharto
+tags:
+- jeneponto
+- kelara
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- selatan
+- soeharto
+- sulawesi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-03-04-presiden-soeharto-resmikan-pengairan-kelara-jeneponto/
+  judul: 1973-03-04 Presiden Soeharto Resmikan Pengairan Kelara Jeneponto
+  tanggal: '1973-03-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-03-04-presiden-soeharto-resmikan-pengairan-kelara-jeneponto/
 ---
+
 
 # 1973-03-04 Presiden Soeharto Resmikan Pengairan Kelara Jeneponto
 

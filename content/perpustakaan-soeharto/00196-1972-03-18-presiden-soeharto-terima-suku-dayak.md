@@ -1,9 +1,39 @@
 ---
-title: "1972-03-18 Presiden Soeharto Terima Suku Dayak – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-18-presiden-soeharto-terima-suku-dayak/"
-date: "2017-08-28T17:14:28+07:00"
+title: 1972-03-18 Presiden Soeharto Terima Suku Dayak
+description: SABTU, 18 Maret 1972, Siang ini Presiden Soeharto menerima 21 orang kepala
+  suku Dayak dari Kalimantan Barat di Istana Merdeka. Mereka telah berjasa ikut membantu
+  ABRI dalam menumpas gerombolan PGRS di daerah itu. Dalam sambutannya,...
+date: '1972-03-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-18-presiden-soeharto-terima-suku-dayak
+aliases:
+- Presiden Soeharto Terima Suku Dayak
+- 1972-03-18 Presiden Soeharto Terima Suku Dayak – HM Soeharto
+tags:
+- dayak
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden
+- soeharto
+- suku
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-18-presiden-soeharto-terima-suku-dayak/
+  judul: 1972-03-18 Presiden Soeharto Terima Suku Dayak
+  tanggal: '1972-03-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-18-presiden-soeharto-terima-suku-dayak/
 ---
+
 
 # 1972-03-18 Presiden Soeharto Terima Suku Dayak
 

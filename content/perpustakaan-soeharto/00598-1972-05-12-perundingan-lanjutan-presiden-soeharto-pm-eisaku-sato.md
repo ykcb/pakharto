@@ -1,9 +1,37 @@
 ---
-title: "1972-05-12 Perundingan Lanjutan Presiden Soeharto-PM Eisaku Sato – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-12-perundingan-lanjutan-presiden-soeharto-pm-eisaku-sato/"
-date: "2017-08-24T17:41:22+07:00"
+title: 1972-05-12 Perundingan Lanjutan Presiden Soeharto-PM Eisaku Sato
+description: JUM’AT, 12 Mei 1972, Pagi ini Presiden Soeharto berunding lagi dengan
+  PM Eisaku Sato bertempat di kediaman resmi Perdana Menteri. Pertemuan tersebut berlangsung
+  lebih-kurang dua jam, yang berarti satu jam lebih lama dari waktu yang...
+date: '1972-05-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-12-perundingan-lanjutan-presiden-soeharto-pm-eisaku-sato
+aliases:
+- Perundingan Lanjutan Presiden Soeharto-PM Eisaku Sato
+- 1972-05-12 Perundingan Lanjutan Presiden Soeharto-PM Eisaku Sato – HM Soeharto
+tags:
+- jepang
+- orde-baru
+- perpustakaan-soeharto
+- pm-eisaku-sato
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-12-perundingan-lanjutan-presiden-soeharto-pm-eisaku-sato/
+  judul: 1972-05-12 Perundingan Lanjutan Presiden Soeharto-PM Eisaku Sato
+  tanggal: '1972-05-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-12-perundingan-lanjutan-presiden-soeharto-pm-eisaku-sato/
 ---
+
 
 # 1972-05-12 Perundingan Lanjutan Presiden Soeharto-PM Eisaku Sato
 

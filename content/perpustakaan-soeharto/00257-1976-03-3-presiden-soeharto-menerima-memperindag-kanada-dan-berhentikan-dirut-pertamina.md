@@ -1,9 +1,44 @@
 ---
-title: "1976-03-3 Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut Pertamina – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina/"
-date: "2014-03-21T23:33:59+07:00"
+title: 1976-03-3 Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut
+  Pertamina
+description: RABU, 3 MARET 1976, Menteri Perdagangan dan Industri Kanada, Donald C
+  Jamieson, diterima oleh Presiden Soeharto selama satu jam di Cendana pagi ini. Pada
+  kesempatan itu Kepala Negara mengatakan kepada tamunya bahwa pemerintah Indonesia...
+date: '2014-03-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina
+aliases:
+- 1976-03-3 Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut Pertamina
+  – HM Soeharto
+tags:
+- ibnu-sutowo
+- kanda
+- konferensi-paris
+- negara-kaya
+- negara-miskin
+- orde-baru
+- perpustakaan-soeharto
+- pertaminamenteri-perdagangan
+- presiden-soeharto
+- supersemar
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina/
+  judul: 1976-03-3 Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut
+    Pertamina
+  tanggal: '2014-03-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina/
 ---
+
 
 # 1976-03-3 Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut Pertamina
 

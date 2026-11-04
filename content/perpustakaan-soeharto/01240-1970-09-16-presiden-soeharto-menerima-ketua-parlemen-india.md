@@ -1,9 +1,38 @@
 ---
-title: "1970-09-16 Presiden Soeharto Menerima Ketua Parlemen India – HM Soeharto"
-source: "https://soehartolibrary.id/1970-09-16-presiden-soeharto-menerima-ketua-parlemen-india/"
-date: "2017-08-22T17:36:02+07:00"
+title: 1970-09-16 Presiden Soeharto Menerima Ketua Parlemen India
+description: 6 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-09-16-presiden-soeharto-menerima-ketua-parlemen-india/respond)
+  94 Views Share on
+date: '1970-09-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-09-16-presiden-soeharto-menerima-ketua-parlemen-india
+aliases:
+- Presiden Soeharto Menerima Ketua Parlemen India
+- 1970-09-16 Presiden Soeharto Menerima Ketua Parlemen India – HM Soeharto
+tags:
+- dr-dhillon
+- lhok-sabha
+- orde-baru
+- parlemen-india
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-09-16-presiden-soeharto-menerima-ketua-parlemen-india/
+  judul: 1970-09-16 Presiden Soeharto Menerima Ketua Parlemen India
+  tanggal: '1970-09-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-09-16-presiden-soeharto-menerima-ketua-parlemen-india/
 ---
+
 
 # 1970-09-16 Presiden Soeharto Menerima Ketua Parlemen India
 

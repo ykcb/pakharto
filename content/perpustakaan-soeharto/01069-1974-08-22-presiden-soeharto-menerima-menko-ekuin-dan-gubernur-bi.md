@@ -1,9 +1,40 @@
 ---
-title: "1974-08-22 Presiden Soeharto Menerima Menko Ekuin dan Gubernur BI – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-22-presiden-soeharto-menerima-menko-ekuin-dan-gubernur-bi/"
-date: "2017-08-23T11:18:16+07:00"
+title: 1974-08-22 Presiden Soeharto Menerima Menko Ekuin dan Gubernur BI
+description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-22-presiden-soeharto-menerima-menko-ekuin-dan-gubernur-bi/respond)
+  95 Views Share on
+date: '1974-08-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-22-presiden-soeharto-menerima-menko-ekuin-dan-gubernur-bi
+aliases:
+- Presiden Soeharto Menerima Menko Ekuin dan Gubernur BI
+- 1974-08-22 Presiden Soeharto Menerima Menko Ekuin dan Gubernur BI – HM Soeharto
+tags:
+- bappenas
+- gubernur-bank-sentral
+- menteri-negara-ekuin
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- prof-dr-widjojo-nisisastro
+- rachmat-saleh
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-22-presiden-soeharto-menerima-menko-ekuin-dan-gubernur-bi/
+  judul: 1974-08-22 Presiden Soeharto Menerima Menko Ekuin dan Gubernur BI
+  tanggal: '1974-08-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-22-presiden-soeharto-menerima-menko-ekuin-dan-gubernur-bi/
 ---
+
 
 # 1974-08-22 Presiden Soeharto Menerima Menko Ekuin dan Gubernur BI
 

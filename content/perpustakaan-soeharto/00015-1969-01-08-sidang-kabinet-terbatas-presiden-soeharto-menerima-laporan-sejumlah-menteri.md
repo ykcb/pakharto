@@ -1,9 +1,51 @@
 ---
-title: "1969-01-08 Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah Menteri – HM Soeharto"
-source: "https://soehartolibrary.id/1969-01-08-sidang-kabinet-terbatas-presiden-soeharto-menerima-laporan-sejumlah-menteri/"
-date: "2017-10-19T14:49:33+07:00"
+title: 1969-01-08 Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah
+  Menteri
+description: SENIN, 8 JANUARI 1969, pagi hari, Presiden Soeharto memimpin sidang kabinet
+  terbatas yang pertama tahun 1969 bertempat di Guest House Istana. Acara sidang tersebut
+  mendengar laporan beberapa menteri dalam bidang ekonomi dan keuangan.
+date: '1969-01-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-01-08-sidang-kabinet-terbatas-presiden-soeharto-menerima-laporan-sejumlah-menteri
+aliases:
+- Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah Menteri
+- 1969-01-08 Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah
+  Menteri – HM Soeharto
+tags:
+- '1969'
+- bapak-pembangunan
+- bina-graha
+- cendana
+- gbhn
+- istana-merdeka
+- kabinet
+- macan-asia
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- sidang
+- terbatas
+- tinggal-landas-2
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-01-08-sidang-kabinet-terbatas-presiden-soeharto-menerima-laporan-sejumlah-menteri/
+  judul: 1969-01-08 Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah
+    Menteri
+  tanggal: '1969-01-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-01-08-sidang-kabinet-terbatas-presiden-soeharto-menerima-laporan-sejumlah-menteri/
 ---
+
 
 # 1969-01-08 Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah Menteri
 

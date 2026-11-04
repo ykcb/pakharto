@@ -1,9 +1,41 @@
 ---
-title: "1971-07-24 Presiden Soeharto Membeli Obligasi Yayasan Al-Falaah – HM Soeharto"
-source: "https://soehartolibrary.id/1971-07-24-presiden-soeharto-membeli-obligasi-yayasan-al-falaah/"
-date: "2017-08-25T15:29:54+07:00"
+title: 1971-07-24 Presiden Soeharto Membeli Obligasi Yayasan Al-Falaah
+description: SABTU, 24 Juli 1971. Pimpinan Yayasan Dana Al-Falaah yang diwakili oleh
+  Letjen. Sarbini dan Jenderal (Pol) Sutjipto Judodihardjo menemui Presiden di Istana
+  Merdeka hari ini. Dalam pertemuan itu Presiden Soeharto telah menyanggupi untuk...
+date: '1971-07-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-07-24-presiden-soeharto-membeli-obligasi-yayasan-al-falaah
+aliases:
+- Presiden Soeharto Membeli Obligasi Yayasan Al-Falaah
+- 1971-07-24 Presiden Soeharto Membeli Obligasi Yayasan Al-Falaah – HM Soeharto
+tags:
+- al-falaah
+- jenderal-soeharto
+- obligasi
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- sarbini
+- sutjipto-judodihardjo
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-07-24-presiden-soeharto-membeli-obligasi-yayasan-al-falaah/
+  judul: 1971-07-24 Presiden Soeharto Membeli Obligasi Yayasan Al-Falaah
+  tanggal: '1971-07-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-07-24-presiden-soeharto-membeli-obligasi-yayasan-al-falaah/
 ---
+
 
 # 1971-07-24 Presiden Soeharto Membeli Obligasi Yayasan Al-Falaah
 

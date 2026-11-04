@@ -1,9 +1,39 @@
 ---
-title: "PKI DI BALIK G 30 S/1965 – HM Soeharto"
-source: "https://soehartolibrary.id/pki-di-balik-g-30-s1965/"
-date: "2013-04-02T20:37:29+07:00"
+title: PKI DI BALIK G 30 S/1965
+description: Munculnya berbagai versi tentang interpretasi terhadap G. 30 S 1965 yang
+  mengatasnamakan ‘pelurusan sejarah’ telah melahirkan pelbagai teori ‘siapa dalang
+  di balik peristiwa tersebut. Persoalan kontroversi ini muncul karena design dalam...
+date: '2013-04-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pki-di-balik-g-30-s1965
+aliases:
+- PKI DI BALIK G 30 S/1965 – HM Soeharto
+tags:
+- '1965'
+- aidit
+- g-30-spki
+- komunisme
+- madiun
+- muso
+- orde-baru
+- perpustakaan-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pki-di-balik-g-30-s1965/
+  judul: PKI DI BALIK G 30 S/1965
+  tanggal: '2013-04-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pki-di-balik-g-30-s1965/
 ---
+
 
 ![Pengangkatan Pahlawan Revolusi](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b455.jpg)
 

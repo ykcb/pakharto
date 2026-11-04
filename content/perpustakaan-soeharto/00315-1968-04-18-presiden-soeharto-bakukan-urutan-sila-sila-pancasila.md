@@ -1,9 +1,40 @@
 ---
-title: "1968-04-18 Presiden Soeharto Bakukan Urutan Sila-Sila Pancasila – HM Soeharto"
-source: "https://soehartolibrary.id/1968-04-18-presiden-soeharto-bakukan-urutan-sila-sila-pancasila/"
-date: "2014-04-01T02:07:15+07:00"
+title: 1968-04-18 Presiden Soeharto Bakukan Urutan Sila-Sila Pancasila
+description: KAMIS, 18 April 1968, untuk pertama kalinya dalam sejarah kepolitikan
+  Indonesia, pemerintah membakukan urutan dan rumusan sila-sila dari dasar negara
+  kita, Pancasila. Hal ini tercermin di dalam Instruksi Presiden No. 12 tahun 1968
+  yang...
+date: '1968-04-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-04-18-presiden-soeharto-bakukan-urutan-sila-sila-pancasila
+aliases:
+- Presiden Soeharto Bakukan Urutan Sila-Sila Pancasila
+- 1968-04-18 Presiden Soeharto Bakukan Urutan Sila-Sila Pancasila – HM Soeharto
+tags:
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- pancasila
+- perpustakaan-soeharto
+- presiden-soeharto
+- uud-1945
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-04-18-presiden-soeharto-bakukan-urutan-sila-sila-pancasila/
+  judul: 1968-04-18 Presiden Soeharto Bakukan Urutan Sila-Sila Pancasila
+  tanggal: '1968-04-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-04-18-presiden-soeharto-bakukan-urutan-sila-sila-pancasila/
 ---
+
 
 # 1968-04-18 Presiden Soeharto Bakukan Urutan Sila-Sila Pancasila
 

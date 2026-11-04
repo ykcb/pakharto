@@ -1,9 +1,38 @@
 ---
-title: "Memahami Falsafah Hidup Pak Harto (2) – HM Soeharto"
-source: "https://soehartolibrary.id/memahami-filsafah-hidup-pak-harto-2/"
-date: "2013-04-21T23:54:24+07:00"
+title: Memahami Falsafah Hidup Pak Harto (2)
+description: Sebelum garis takdir mengantarkanya menjadi Presiden sebuah negara besar
+  dan multi kultural yang bernama Indonesia, Pak Harto ditempa dan berdialektika secara
+  langsung dengan pergumulan kesulitan hidup masyarakat bawah pedesaan....
+date: '2013-04-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: memahami-filsafah-hidup-pak-harto-2
+aliases:
+- Memahami Falsafah Hidup Pak Harto (2) – HM Soeharto
+tags:
+- daryatmo
+- orde-baru
+- pak-harto
+- pembangunan
+- perpustakaan-soeharto
+- presiden-ri
+- rakyat
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/memahami-filsafah-hidup-pak-harto-2/
+  judul: Memahami Falsafah Hidup Pak Harto (2)
+  tanggal: '2013-04-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/memahami-filsafah-hidup-pak-harto-2/
 ---
+
 
 # Memahami Falsafah Hidup Pak Harto (2)
 

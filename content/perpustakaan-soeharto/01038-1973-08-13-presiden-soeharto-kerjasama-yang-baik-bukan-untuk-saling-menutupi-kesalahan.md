@@ -1,9 +1,46 @@
 ---
-title: "1973-08-13 Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi Kesalahan – HM Soeharto"
-source: "https://soehartolibrary.id/1973-08-13-presiden-soeharto-kerjasama-yang-baik-bukan-untuk-saling-menutupi-kesalahan/"
-date: "2017-08-23T11:36:41+07:00"
+title: '1973-08-13 Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi
+  Kesalahan'
+description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-08-13-presiden-soeharto-kerjasama-yang-baik-bukan-untuk-saling-menutupi-kesalahan/respond)
+  79 Views Share on
+date: '1973-08-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-08-13-presiden-soeharto-kerjasama-yang-baik-bukan-untuk-saling-menutupi-kesalahan
+aliases:
+- 'Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi Kesalahan'
+- '1973-08-13 Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi Kesalahan
+  – HM Soeharto'
+tags:
+- abdul-azis
+- aljazair
+- bepeka
+- bpk
+- jenderal-umar-wirahadikusumah
+- ktt-non-blok
+- mayjen-sudrajat
+- menteri-pariwisata
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-08-13-presiden-soeharto-kerjasama-yang-baik-bukan-untuk-saling-menutupi-kesalahan/
+  judul: '1973-08-13 Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi
+    Kesalahan'
+  tanggal: '1973-08-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-08-13-presiden-soeharto-kerjasama-yang-baik-bukan-untuk-saling-menutupi-kesalahan/
 ---
+
 
 # 1973-08-13 Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi Kesalahan
 

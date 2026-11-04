@@ -1,9 +1,39 @@
 ---
-title: "1973-04-26 Presiden Soeharto Menerima Pejabat Birma Dan Parlemen Yugoslavia – HM Soeharto"
-source: "https://soehartolibrary.id/1973-04-26-presiden-soeharto-menerima-pejabat-birma-dan-parlemen-yugoslavia/"
-date: "2014-03-22T02:56:24+07:00"
+title: 1973-04-26 Presiden Soeharto Menerima Pejabat Birma Dan Parlemen Yugoslavia
+description: KAMIS, 26 April 1973, Diantar oleh Menteri Pertambangan Prof. Sadli,
+  Menteri Pertambangan Birma, Komodor Thaun Tin, mengadakan kunjungan kehormatan kepada
+  Presiden Soeharto di Istana Merdeka. Menurut Prof. Sadli, Pertambangan Birma...
+date: '1973-04-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-04-26-presiden-soeharto-menerima-pejabat-birma-dan-parlemen-yugoslavia
+aliases:
+- Presiden Soeharto Menerima Pejabat Birma Dan Parlemen Yugoslavia
+- 1973-04-26 Presiden Soeharto Menerima Pejabat Birma Dan Parlemen Yugoslavia – HM
+  Soeharto
+tags:
+- birma
+- orde-baru
+- perpustakaan-soeharto
+- pertambangan
+- presiden-soeharto
+- yugoslavia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-04-26-presiden-soeharto-menerima-pejabat-birma-dan-parlemen-yugoslavia/
+  judul: 1973-04-26 Presiden Soeharto Menerima Pejabat Birma Dan Parlemen Yugoslavia
+  tanggal: '1973-04-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-04-26-presiden-soeharto-menerima-pejabat-birma-dan-parlemen-yugoslavia/
 ---
+
 
 # 1973-04-26 Presiden Soeharto Menerima Pejabat Birma Dan Parlemen Yugoslavia
 

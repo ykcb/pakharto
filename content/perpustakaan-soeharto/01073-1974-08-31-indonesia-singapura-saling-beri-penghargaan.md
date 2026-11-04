@@ -1,9 +1,41 @@
 ---
-title: "1974-08-31 Indonesia-Singapura Saling Beri Penghargaan – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-31-indonesia-singapura-saling-beri-penghargaan/"
-date: "2017-08-23T11:16:48+07:00"
+title: 1974-08-31 Indonesia-Singapura Saling Beri Penghargaan
+description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-31-indonesia-singapura-saling-beri-penghargaan/respond)
+  79 Views Share on
+date: '1974-08-31'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-31-indonesia-singapura-saling-beri-penghargaan
+aliases:
+- Indonesia-Singapura Saling Beri Penghargaan
+- 1974-08-31 Indonesia-Singapura Saling Beri Penghargaan – HM Soeharto
+tags:
+- adipradana
+- benjamin-seares
+- bintang-kehormatan-tertinggi
+- lee-kuan-yew
+- orde-baru
+- penghargaan
+- perpustakaan-soeharto
+- presiden-singapura
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-31-indonesia-singapura-saling-beri-penghargaan/
+  judul: 1974-08-31 Indonesia-Singapura Saling Beri Penghargaan
+  tanggal: '1974-08-31'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-31-indonesia-singapura-saling-beri-penghargaan/
 ---
+
 
 # 1974-08-31 Indonesia-Singapura Saling Beri Penghargaan
 

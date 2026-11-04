@@ -1,9 +1,41 @@
 ---
-title: "Teror  PKI Di Yogyakarta – HM Soeharto"
-source: "https://soehartolibrary.id/teror-pki-di-yogyakarta/"
-date: "2013-04-18T21:16:24+07:00"
+title: Teror  PKI Di Yogyakarta
+description: Revolusi Bolshevik tahun 1917– 1923 sukses menghancurkan kekaisaran Katolik
+  ortodok di Soviet.Komunis Soviet dibantu makar konspirasi global berhasil meluluhlantakkan
+  dua pranata sekaligus. Institusi politik kerajaan dibongkar menjadi...
+date: '2013-04-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: teror-pki-di-yogyakarta
+aliases:
+- Teror  PKI Di Yogyakarta – HM Soeharto
+tags:
+- hmi
+- kapitalisme
+- komunisme
+- liberalism
+- muhammadiyah
+- orde-baru
+- perpustakaan-soeharto
+- pki
+- tapak-suci
+- yogyakarta
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/teror-pki-di-yogyakarta/
+  judul: Teror  PKI Di Yogyakarta
+  tanggal: '2013-04-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/teror-pki-di-yogyakarta/
 ---
+
 
 # Teror PKI Di Yogyakarta
 

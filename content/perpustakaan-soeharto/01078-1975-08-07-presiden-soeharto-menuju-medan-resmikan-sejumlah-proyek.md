@@ -1,9 +1,50 @@
 ---
-title: "1975-08-07 Presiden Soeharto Menuju Medan Resmikan Sejumlah Proyek – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-07-presiden-soeharto-menuju-medan-resmikan-sejumlah-proyek/"
-date: "2017-08-23T11:15:10+07:00"
+title: 1975-08-07 Presiden Soeharto Menuju Medan Resmikan Sejumlah Proyek
+description: 26 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-07-presiden-soeharto-menuju-medan-resmikan-sejumlah-proyek/respond)
+  130 Views Share on
+date: '1975-08-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-07-presiden-soeharto-menuju-medan-resmikan-sejumlah-proyek
+aliases:
+- Presiden Soeharto Menuju Medan Resmikan Sejumlah Proyek
+- 1975-08-07 Presiden Soeharto Menuju Medan Resmikan Sejumlah Proyek – HM Soeharto
+tags:
+- ali-sadikin
+- besitang
+- gubernur-bali
+- gubernur-dki-jakarta
+- gubernur-jawa-timur
+- medan
+- mohammad-noer
+- orde-baru
+- pabrik-plywood
+- perpustakaan-soeharto
+- persmian-proyek
+- presiden-soeharto
+- pt-raja-garuda-mas
+- pusat-kesenian
+- sukarmen
+- sumatera-utara
+- tapian-daya
+- trans-sumatera-microwave
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-07-presiden-soeharto-menuju-medan-resmikan-sejumlah-proyek/
+  judul: 1975-08-07 Presiden Soeharto Menuju Medan Resmikan Sejumlah Proyek
+  tanggal: '1975-08-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-07-presiden-soeharto-menuju-medan-resmikan-sejumlah-proyek/
 ---
+
 
 # 1975-08-07 Presiden Soeharto Menuju Medan Resmikan Sejumlah Proyek
 

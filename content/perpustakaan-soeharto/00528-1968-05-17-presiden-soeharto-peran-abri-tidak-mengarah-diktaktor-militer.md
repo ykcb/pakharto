@@ -1,9 +1,43 @@
 ---
-title: "1968-05-17 Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer – HM Soeharto"
-source: "https://soehartolibrary.id/1968-05-17-presiden-soeharto-peran-abri-tidak-mengarah-diktaktor-militer/"
-date: "2017-08-30T14:14:46+07:00"
+title: '1968-05-17 Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer'
+description: Jum’at, 17 Mei 1968, Hari ini Presiden Soeharto melantik Jenderal M Panggabean
+  menjadi Pangad bertempat di Mabad, Jakarta. Pada kesempatan itu Presiden menegaskan
+  bahwa kalau dewasa ini ABRI secara aktif mengabdikan dirinya dalam...
+date: '1968-05-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-05-17-presiden-soeharto-peran-abri-tidak-mengarah-diktaktor-militer
+aliases:
+- 'Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer'
+- '1968-05-17 Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer – HM
+  Soeharto'
+tags:
+- abri
+- dakwah-islam
+- diktaktor-militer
+- iman
+- orde-baru
+- pendidikan-tinggi
+- perpustakaan-soeharto
+- presiden-soeharto
+- ptdi
+- umat-islam
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-05-17-presiden-soeharto-peran-abri-tidak-mengarah-diktaktor-militer/
+  judul: '1968-05-17 Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer'
+  tanggal: '1968-05-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-05-17-presiden-soeharto-peran-abri-tidak-mengarah-diktaktor-militer/
 ---
+
 
 # 1968-05-17 Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer
 

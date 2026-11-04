@@ -1,9 +1,41 @@
 ---
-title: "1975-08-13 Peserta Kongres Pewayangan Menghadap Presiden Soeharto – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-13-peserta-kongres-pewayangan-menghadap-presiden-soeharto/"
-date: "2017-08-22T17:47:57+07:00"
+title: 1975-08-13 Peserta Kongres Pewayangan Menghadap Presiden Soeharto
+description: 27 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-13-peserta-kongres-pewayangan-menghadap-presiden-soeharto/respond)
+  89 Views Share on
+date: '1975-08-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-13-peserta-kongres-pewayangan-menghadap-presiden-soeharto
+aliases:
+- Peserta Kongres Pewayangan Menghadap Presiden Soeharto
+- 1975-08-13 Peserta Kongres Pewayangan Menghadap Presiden Soeharto – HM Soeharto
+tags:
+- bina-graha
+- h-boediardjo
+- kepala-negara
+- kongres
+- kongres-pewayangan
+- orde-baru
+- perpustakaan-soeharto
+- pewayangan
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-13-peserta-kongres-pewayangan-menghadap-presiden-soeharto/
+  judul: 1975-08-13 Peserta Kongres Pewayangan Menghadap Presiden Soeharto
+  tanggal: '1975-08-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-13-peserta-kongres-pewayangan-menghadap-presiden-soeharto/
 ---
+
 
 # 1975-08-13 Peserta Kongres Pewayangan Menghadap Presiden Soeharto
 

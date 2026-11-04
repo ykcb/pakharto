@@ -1,9 +1,46 @@
 ---
-title: "1979-09-13 Presiden Soeharto: Patung Proklamator Memiliki Arti Semangat Tridharma – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-13-presiden-soeharto-patung-proklamator-memiliki-arti-semangat-tridharma/"
-date: "2017-08-22T12:08:41+07:00"
+title: '1979-09-13 Presiden Soeharto: Patung Proklamator Memiliki Arti Semangat Tridharma'
+description: 29 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-13-presiden-soeharto-patung-proklamator-memiliki-arti-semangat-tridharma/respond)
+  107 Views Share on
+date: '1979-09-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-13-presiden-soeharto-patung-proklamator-memiliki-arti-semangat-tridharma
+aliases:
+- 'Presiden Soeharto: Patung Proklamator Memiliki Arti Semangat Tridharma'
+- '1979-09-13 Presiden Soeharto: Patung Proklamator Memiliki Arti Semangat Tridharma
+  – HM Soeharto'
+tags:
+- asri
+- budi-s
+- g-sidharta
+- itb
+- j-sumartono
+- nyoman-nuarta
+- orde-baru
+- patung-proklamator
+- perpustakaan-soeharto
+- presiden-soeharto
+- tridharma
+- yogyakarta
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-13-presiden-soeharto-patung-proklamator-memiliki-arti-semangat-tridharma/
+  judul: '1979-09-13 Presiden Soeharto: Patung Proklamator Memiliki Arti Semangat
+    Tridharma'
+  tanggal: '1979-09-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-13-presiden-soeharto-patung-proklamator-memiliki-arti-semangat-tridharma/
 ---
+
 
 # 1979-09-13 Presiden Soeharto: Patung Proklamator Memiliki Arti Semangat Tridharma
 

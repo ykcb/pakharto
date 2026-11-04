@@ -1,9 +1,40 @@
 ---
-title: "1970-04-03 Presiden Soeharto Hadiahkan Lima Tongkang (Semi Coaster) Ke Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1970-04-03-presiden-soeharto-hadiahkan-lima-tongkang-semi-coaster-ke-irian-barat/"
-date: "2014-03-22T02:58:32+07:00"
+title: 1970-04-03 Presiden Soeharto Hadiahkan Lima Tongkang (Semi Coaster) Ke Irian
+  Barat
+description: JUM’AT, 3 APRIL 1970, Presiden Soeharto menghadiahkan lima buah tongkang
+  (semi-coaster) untuk rakyat Irian Barat, yang diserahkan melalui Sekretaris Jenderal
+  Departemen Perhubungan Laut, Laksda. (L) Soeyono Suparto. Hadiah ini diberikan...
+date: '1970-04-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-04-03-presiden-soeharto-hadiahkan-lima-tongkang-semi-coaster-ke-irian-barat
+aliases:
+- Presiden Soeharto Hadiahkan Lima Tongkang (Semi Coaster) Ke Irian Barat
+- 1970-04-03 Presiden Soeharto Hadiahkan Lima Tongkang (Semi Coaster) Ke Irian Barat
+  – HM Soeharto
+tags:
+- coaster
+- irian-barat
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-04-03-presiden-soeharto-hadiahkan-lima-tongkang-semi-coaster-ke-irian-barat/
+  judul: 1970-04-03 Presiden Soeharto Hadiahkan Lima Tongkang (Semi Coaster) Ke Irian
+    Barat
+  tanggal: '1970-04-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-04-03-presiden-soeharto-hadiahkan-lima-tongkang-semi-coaster-ke-irian-barat/
 ---
+
 
 # 1970-04-03 Presiden Soeharto Hadiahkan Lima Tongkang (Semi Coaster) Ke Irian Barat
 

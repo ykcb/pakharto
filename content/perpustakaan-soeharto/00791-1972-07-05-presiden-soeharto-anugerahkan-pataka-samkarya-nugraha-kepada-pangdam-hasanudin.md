@@ -1,9 +1,42 @@
 ---
-title: "1972-07-05 Presiden Soeharto Anugerahkan Pataka Samkarya Nugraha Kepada Pangdam Hasanudin – HM Soeharto"
-source: "https://soehartolibrary.id/1972-07-05-presiden-soeharto-anugerahkan-pataka-samkarya-nugraha-kepada-pangdam-hasanudin/"
-date: "2017-08-25T15:29:14+07:00"
+title: 1972-07-05 Presiden Soeharto Anugerahkan Pataka Samkarya Nugraha Kepada Pangdam
+  Hasanudin
+description: RABU, 05 Juli 1972. Di Ujung Pandang sore ini Presiden Soeharto menganugerahkan
+  pataka Samkarya Nugraha kepada Kodam XVI/Hasanudin. Ini merupakan salah satu kegiatan
+  Presiden dalam kunjungan kerja selama dua hari di Sulawesi Selatan....
+date: '1972-07-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-07-05-presiden-soeharto-anugerahkan-pataka-samkarya-nugraha-kepada-pangdam-hasanudin
+aliases:
+- Presiden Soeharto Anugerahkan Pataka Samkarya Nugraha Kepada Pangdam Hasanudin
+- 1972-07-05 Presiden Soeharto Anugerahkan Pataka Samkarya Nugraha Kepada Pangdam
+  Hasanudin – HM Soeharto
+tags:
+- ibu-tien
+- jenderal-soeharto
+- kodam-hasanudin
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-07-05-presiden-soeharto-anugerahkan-pataka-samkarya-nugraha-kepada-pangdam-hasanudin/
+  judul: 1972-07-05 Presiden Soeharto Anugerahkan Pataka Samkarya Nugraha Kepada Pangdam
+    Hasanudin
+  tanggal: '1972-07-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-07-05-presiden-soeharto-anugerahkan-pataka-samkarya-nugraha-kepada-pangdam-hasanudin/
 ---
+
 
 # 1972-07-05 Presiden Soeharto Anugerahkan Pataka Samkarya Nugraha Kepada Pangdam Hasanudin
 

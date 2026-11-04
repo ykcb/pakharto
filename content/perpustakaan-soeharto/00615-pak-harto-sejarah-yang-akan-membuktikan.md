@@ -1,9 +1,38 @@
 ---
-title: "Pak Harto: Sejarah Yang Akan Membuktikan – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-sejarah-yang-akan-membuktikan/"
-date: "2017-08-24T17:43:17+07:00"
+title: 'Pak Harto: Sejarah Yang Akan Membuktikan'
+description: Di masa kecil saya, sebelum Bapak menjadi presiden, kami tinggal di Jalan
+  H. Agus Salim, Jakarta Pusat. Rumah kami persis di depan bundaran. Sebagai Ketua
+  RT, setiap hari Minggu Bapak mengajak kami sekeluarga ikut kerja bakti...
+date: '2017-08-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-sejarah-yang-akan-membuktikan
+aliases:
+- 'Pak Harto: Sejarah Yang Akan Membuktikan – HM Soeharto'
+tags:
+- cendana
+- ibu-tien
+- mbak-titiek
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- siti-hediati-hariyadi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-sejarah-yang-akan-membuktikan/
+  judul: 'Pak Harto: Sejarah Yang Akan Membuktikan'
+  tanggal: '2017-08-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-sejarah-yang-akan-membuktikan/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/05/11.jpg)
 

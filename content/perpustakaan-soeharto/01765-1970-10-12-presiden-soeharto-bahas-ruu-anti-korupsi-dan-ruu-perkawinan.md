@@ -1,9 +1,38 @@
 ---
-title: "1970-10-12 Presiden Soeharto Bahas RUU Anti Korupsi dan RUU Perkawinan – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-12-presiden-soeharto-bahas-ruu-anti-korupsi-dan-ruu-perkawinan/"
-date: "2014-12-01T16:26:31+07:00"
+title: 1970-10-12 Presiden Soeharto Bahas RUU Anti Korupsi dan RUU Perkawinan
+description: 6 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-12-presiden-soeharto-bahas-ruu-anti-korupsi-dan-ruu-perkawinan/respond)
+  76 Views Share on
+date: '1970-10-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-12-presiden-soeharto-bahas-ruu-anti-korupsi-dan-ruu-perkawinan
+aliases:
+- Presiden Soeharto Bahas RUU Anti Korupsi dan RUU Perkawinan
+- 1970-10-12 Presiden Soeharto Bahas RUU Anti Korupsi dan RUU Perkawinan – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- ruu-anti-korupsi
+- ruu-perkawinan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-12-presiden-soeharto-bahas-ruu-anti-korupsi-dan-ruu-perkawinan/
+  judul: 1970-10-12 Presiden Soeharto Bahas RUU Anti Korupsi dan RUU Perkawinan
+  tanggal: '1970-10-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-12-presiden-soeharto-bahas-ruu-anti-korupsi-dan-ruu-perkawinan/
 ---
+
 
 # 1970-10-12 Presiden Soeharto Bahas RUU Anti Korupsi dan RUU Perkawinan
 

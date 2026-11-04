@@ -1,9 +1,40 @@
 ---
-title: "1970-02-17 Pembangunan Rice Milling & Dana Bantuan Banjir Jakarta – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-17-pembangunan-rice-milling-dan-dana-bantuan-banjir-jakarta/"
-date: "2017-08-28T17:11:05+07:00"
+title: 1970-02-17 Pembangunan Rice Milling & Dana Bantuan Banjir Jakarta
+description: PEMBANGUNAN RICE MILLING DAN BANTUAN BANJIR JAKARTA
+date: '1970-02-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-17-pembangunan-rice-milling-dan-dana-bantuan-banjir-jakarta
+aliases:
+- Pembangunan Rice Milling & Dana Bantuan Banjir Jakarta
+- 1970-02-17 Pembangunan Rice Milling & Dana Bantuan Banjir Jakarta – HM Soeharto
+tags:
+- banjir
+- jakarta
+- jerman-barat
+- orde-baru
+- pacul
+- perpustakaan-soeharto
+- pompa-air
+- rice-milling
+- schilpper
+- schule
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-17-pembangunan-rice-milling-dan-dana-bantuan-banjir-jakarta/
+  judul: 1970-02-17 Pembangunan Rice Milling & Dana Bantuan Banjir Jakarta
+  tanggal: '1970-02-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-17-pembangunan-rice-milling-dan-dana-bantuan-banjir-jakarta/
 ---
+
 
 # 1970-02-17 Pembangunan Rice Milling & Dana Bantuan Banjir Jakarta
 

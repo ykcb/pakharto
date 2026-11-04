@@ -1,9 +1,35 @@
 ---
-title: "Jodoh Saya – HM Soeharto"
-source: "https://soehartolibrary.id/jodoh-saya/"
-date: "2018-01-10T19:05:45+07:00"
+title: Jodoh Saya
+description: 4 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/jodoh-saya/respond) 221 Views Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: jodoh-saya
+aliases:
+- Jodoh Saya – HM Soeharto
+tags:
+- ibu-tien
+- jodoh
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/jodoh-saya/
+  judul: Jodoh Saya
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/jodoh-saya/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0779_result.jpg)
 

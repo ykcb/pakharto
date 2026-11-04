@@ -1,9 +1,53 @@
 ---
-title: "1976-09-18 Presiden Soeharto: Tugas Duta Besar Mengenalkan Hati, Pikiran, Dan Wajah Indonesia – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-18-presiden-soeharto-tugas-duta-besar-mengenalkan-hati-pikiran-dan-wajah-indonesia/"
-date: "2014-03-21T23:12:54+07:00"
+title: '1976-09-18 Presiden Soeharto: Tugas Duta Besar Mengenalkan Hati, Pikiran,
+  Dan Wajah Indonesia'
+description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-18-presiden-soeharto-tugas-duta-besar-mengenalkan-hati-pikiran-dan-wajah-indonesia/respond)
+  113 Views Share on
+date: '1976-09-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-18-presiden-soeharto-tugas-duta-besar-mengenalkan-hati-pikiran-dan-wajah-indonesia
+aliases:
+- 'Presiden Soeharto: Tugas Duta Besar Mengenalkan Hati, Pikiran, Dan Wajah Indonesia'
+- '1976-09-18 Presiden Soeharto: Tugas Duta Besar Mengenalkan Hati, Pikiran, Dan Wajah
+  Indonesia – HM Soeharto'
+tags:
+- australia
+- duta-besar
+- hrp-mohammad-noer
+- ivan-fadeavic-shpedko
+- jerman-barat
+- mayjen-nurmathias
+- mayjen-pol-awaludin-djamin
+- mongolia
+- orde-baru
+- perpustakaan-soeharto
+- prancis
+- presiden-soeharto
+- raden-heman-benny-mochtan
+- ribn-djayadiningrat
+- rm-sunarso-wongsonegoro
+- selandia-baru
+- uni-soviet
+- vatikan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-18-presiden-soeharto-tugas-duta-besar-mengenalkan-hati-pikiran-dan-wajah-indonesia/
+  judul: '1976-09-18 Presiden Soeharto: Tugas Duta Besar Mengenalkan Hati, Pikiran,
+    Dan Wajah Indonesia'
+  tanggal: '1976-09-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-18-presiden-soeharto-tugas-duta-besar-mengenalkan-hati-pikiran-dan-wajah-indonesia/
 ---
+
 
 # 1976-09-18 Presiden Soeharto: Tugas Duta Besar Mengenalkan Hati, Pikiran, Dan Wajah Indonesia
 

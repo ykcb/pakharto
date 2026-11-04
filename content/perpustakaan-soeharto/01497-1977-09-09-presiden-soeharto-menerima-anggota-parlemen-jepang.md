@@ -1,9 +1,42 @@
 ---
-title: "1977-09-09 Presiden Soeharto Menerima Anggota Parlemen Jepang – HM Soeharto"
-source: "https://soehartolibrary.id/1977-09-09-presiden-soeharto-menerima-anggota-parlemen-jepang/"
-date: "2017-08-22T16:13:31+07:00"
+title: 1977-09-09 Presiden Soeharto Menerima Anggota Parlemen Jepang
+description: 20 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1977-09-09-presiden-soeharto-menerima-anggota-parlemen-jepang/respond)
+  102 Views Share on
+date: '1977-09-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-09-09-presiden-soeharto-menerima-anggota-parlemen-jepang
+aliases:
+- Presiden Soeharto Menerima Anggota Parlemen Jepang
+- 1977-09-09 Presiden Soeharto Menerima Anggota Parlemen Jepang – HM Soeharto
+tags:
+- jepang
+- ldp
+- liberal-demokrasi
+- orde-baru
+- parlemen-jepang
+- perdana-menteri
+- perpustakaan-soeharto
+- presiden-soeharto
+- takeo-fukuda
+- yasuhito-nakasone
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-09-09-presiden-soeharto-menerima-anggota-parlemen-jepang/
+  judul: 1977-09-09 Presiden Soeharto Menerima Anggota Parlemen Jepang
+  tanggal: '1977-09-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-09-09-presiden-soeharto-menerima-anggota-parlemen-jepang/
 ---
+
 
 # 1977-09-09 Presiden Soeharto Menerima Anggota Parlemen Jepang
 

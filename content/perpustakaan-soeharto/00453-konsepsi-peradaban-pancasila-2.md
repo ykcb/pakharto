@@ -1,9 +1,37 @@
 ---
-title: "Konsepsi Peradaban Pancasila (2) – HM Soeharto"
-source: "https://soehartolibrary.id/konsepsi-peradaban-pancasila-2/"
-date: "2013-04-24T23:30:07+07:00"
+title: Konsepsi Peradaban Pancasila (2)
+description: Masyarakat Nusantara merupakan masyarakat ber-Tuhan dan oleh karena itu
+  rumusan pertama sila Pancasila menekankan transendensi. Berdasarkan rumusan tersebut
+  peradaban yang hendak diwujudkan dalam konstruksi Indonesia merdeka 17 Agustus...
+date: '2013-04-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: konsepsi-peradaban-pancasila-2
+aliases:
+- Konsepsi Peradaban Pancasila (2) – HM Soeharto
+tags:
+- nurcholis-madjid
+- orde-baru
+- pak-harto
+- pancasila
+- peradaban
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/konsepsi-peradaban-pancasila-2/
+  judul: Konsepsi Peradaban Pancasila (2)
+  tanggal: '2013-04-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/konsepsi-peradaban-pancasila-2/
 ---
+
 
 # Konsepsi Peradaban Pancasila (2)
 

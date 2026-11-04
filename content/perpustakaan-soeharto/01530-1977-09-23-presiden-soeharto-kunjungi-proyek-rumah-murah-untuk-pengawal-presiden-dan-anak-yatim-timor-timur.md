@@ -1,9 +1,47 @@
 ---
-title: "1977-09-23 Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden dan Anak Yatim Timor Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur/"
-date: "2017-08-22T16:11:36+07:00"
+title: 1977-09-23 Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden
+  dan Anak Yatim Timor Timur
+description: 22 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur/respond)...
+date: '1977-09-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur
+aliases:
+- Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden dan Anak Yatim
+  Timor Timur
+- 1977-09-23 Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden
+  dan Anak Yatim Timor Timur – HM Soeharto
+tags:
+- anak-yatim
+- bermis
+- dpr
+- hamengkubowono-ix
+- kelapa-gading
+- mh-isnaeni
+- orde-baru
+- pengawal-presiden
+- perpustakaan-soeharto
+- presiden-soeharto
+- rumah-murah
+- timor-timur
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur/
+  judul: 1977-09-23 Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden
+    dan Anak Yatim Timor Timur
+  tanggal: '1977-09-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur/
 ---
+
 
 # 1977-09-23 Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden dan Anak Yatim Timor Timur
 

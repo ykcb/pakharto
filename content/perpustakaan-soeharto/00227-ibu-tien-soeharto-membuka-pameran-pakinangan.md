@@ -1,9 +1,39 @@
 ---
-title: "Ibu Tien Soeharto Membuka Pameran Pakinangan – HM Soeharto"
-source: "https://soehartolibrary.id/ibu-tien-soeharto-membuka-pameran-pakinangan/"
-date: "2013-03-18T01:43:38+07:00"
+title: Ibu Tien Soeharto Membuka Pameran Pakinangan
+description: Ibu Tien Soeharto dikenal sebagai sosok berpengaruh dalam kehidupan Presiden
+  Soeharto. Selain mendampingi perjuangan Presiden Soeharto dalam segala situasi,
+  Ibu Tien Soeharto sangat tekun melestarikan dan mempromosikan budaya nusantara....
+date: '2013-03-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: ibu-tien-soeharto-membuka-pameran-pakinangan
+aliases:
+- Ibu Tien Soeharto Membuka Pameran Pakinangan – HM Soeharto
+tags:
+- daun
+- ibu-tien
+- orde-baru
+- pakinangan
+- pameran
+- perpustakaan-soeharto
+- sirih
+- soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/ibu-tien-soeharto-membuka-pameran-pakinangan/
+  judul: Ibu Tien Soeharto Membuka Pameran Pakinangan
+  tanggal: '2013-03-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/ibu-tien-soeharto-membuka-pameran-pakinangan/
 ---
+
 
 # Ibu Tien Soeharto Membuka Pameran Pakinangan
 

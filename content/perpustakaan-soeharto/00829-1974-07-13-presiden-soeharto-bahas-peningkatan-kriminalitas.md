@@ -1,9 +1,40 @@
 ---
-title: "1974-07-13 Presiden Soeharto Bahas Peningkatan Kriminalitas – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-13-presiden-soeharto-bahas-peningkatan-kriminalitas/"
-date: "2017-08-23T11:58:15+07:00"
+title: 1974-07-13 Presiden Soeharto Bahas Peningkatan Kriminalitas
+description: SABTU, 13 Juli 1974, Pagi ini Presiden Soeharto menerima surat Kepercayaan
+  Duta Besar Kerajaan Norwegia yang baru, Bjorn Inge Kristvik, dalam suatu upacara
+  di Istana Merdeka. Dalam pidato balasannya, Kepala Negara menyatakan...
+date: '1974-07-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-13-presiden-soeharto-bahas-peningkatan-kriminalitas
+aliases:
+- Presiden Soeharto Bahas Peningkatan Kriminalitas
+- 1974-07-13 Presiden Soeharto Bahas Peningkatan Kriminalitas – HM Soeharto
+tags:
+- bjorn-inge-kristvik
+- duta-besar
+- kriminalitas
+- norwegia
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sudomo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-13-presiden-soeharto-bahas-peningkatan-kriminalitas/
+  judul: 1974-07-13 Presiden Soeharto Bahas Peningkatan Kriminalitas
+  tanggal: '1974-07-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-13-presiden-soeharto-bahas-peningkatan-kriminalitas/
 ---
+
 
 # 1974-07-13 Presiden Soeharto Bahas Peningkatan Kriminalitas
 

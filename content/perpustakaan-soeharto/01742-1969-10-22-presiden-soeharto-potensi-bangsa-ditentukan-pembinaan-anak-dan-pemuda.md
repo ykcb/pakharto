@@ -1,9 +1,41 @@
 ---
-title: "1969-10-22 Presiden Soeharto: Potensi Bangsa Ditentukan Pembinaan Anak Dan Pemuda – HM Soeharto"
-source: "https://soehartolibrary.id/1969-10-22-presiden-soeharto-potensi-bangsa-ditentukan-pembinaan-anak-dan-pemuda/"
-date: "2014-12-01T16:33:33+07:00"
+title: '1969-10-22 Presiden Soeharto: Potensi Bangsa Ditentukan Pembinaan Anak Dan
+  Pemuda'
+description: 5 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-10-22-presiden-soeharto-potensi-bangsa-ditentukan-pembinaan-anak-dan-pemuda/respond)
+  96 Views Share on
+date: '1969-10-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-10-22-presiden-soeharto-potensi-bangsa-ditentukan-pembinaan-anak-dan-pemuda
+aliases:
+- 'Presiden Soeharto: Potensi Bangsa Ditentukan Pembinaan Anak Dan Pemuda'
+- '1969-10-22 Presiden Soeharto: Potensi Bangsa Ditentukan Pembinaan Anak Dan Pemuda
+  – HM Soeharto'
+tags:
+- anak
+- kepala-negara
+- orde-baru
+- pemuda
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-10-22-presiden-soeharto-potensi-bangsa-ditentukan-pembinaan-anak-dan-pemuda/
+  judul: '1969-10-22 Presiden Soeharto: Potensi Bangsa Ditentukan Pembinaan Anak Dan
+    Pemuda'
+  tanggal: '1969-10-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-10-22-presiden-soeharto-potensi-bangsa-ditentukan-pembinaan-anak-dan-pemuda/
 ---
+
 
 # 1969-10-22 Presiden Soeharto: Potensi Bangsa Ditentukan Pembinaan Anak Dan Pemuda
 

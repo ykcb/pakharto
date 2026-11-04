@@ -1,9 +1,40 @@
 ---
-title: "1974-07-08 Presiden Soeharto: Penerangan Membangkitkan Kemauan Rakyat Untuk Membangun – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-08-presiden-soeharto-penerangan-membangkitkan-kemauan-rakyat-untuk-membangun/"
-date: "2017-08-23T11:58:35+07:00"
+title: '1974-07-08 Presiden Soeharto: Penerangan Membangkitkan Kemauan Rakyat Untuk
+  Membangun'
+description: SENIN, 8 Juli 1974 ,Presiden Soeharto berpendapat bahwa peranan penerangan
+  sangat penting untuk membangkitkan kemauan rakyat didalam melaksanakan pembangunan.
+  Menurut Kepala Negara, melalui penerangan yang sehat, rakyat tidak saja...
+date: '1974-07-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-08-presiden-soeharto-penerangan-membangkitkan-kemauan-rakyat-untuk-membangun
+aliases:
+- 'Presiden Soeharto: Penerangan Membangkitkan Kemauan Rakyat Untuk Membangun'
+- '1974-07-08 Presiden Soeharto: Penerangan Membangkitkan Kemauan Rakyat Untuk Membangun
+  – HM Soeharto'
+tags:
+- orde-baru
+- pembangunan
+- penerangan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-08-presiden-soeharto-penerangan-membangkitkan-kemauan-rakyat-untuk-membangun/
+  judul: '1974-07-08 Presiden Soeharto: Penerangan Membangkitkan Kemauan Rakyat Untuk
+    Membangun'
+  tanggal: '1974-07-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-08-presiden-soeharto-penerangan-membangkitkan-kemauan-rakyat-untuk-membangun/
 ---
+
 
 # 1974-07-08 Presiden Soeharto: Penerangan Membangkitkan Kemauan Rakyat Untuk Membangun
 

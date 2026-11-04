@@ -1,9 +1,39 @@
 ---
-title: "1973-09-19 Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam – HM Soeharto"
-source: "https://soehartolibrary.id/1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam/"
-date: "2017-08-23T10:55:37+07:00"
+title: '1973-09-19 Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam'
+description: 15 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam/respond)
+  110 Views Share on
+date: '1973-09-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam
+aliases:
+- 'Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam'
+- '1973-09-19 Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam – HM Soeharto'
+tags:
+- badan-pengendalian-bimas
+- direktorat-jenderal-pertanian
+- musim-tanam
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rapat-kerja
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam/
+  judul: '1973-09-19 Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam'
+  tanggal: '1973-09-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam/
 ---
+
 
 # 1973-09-19 Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam
 

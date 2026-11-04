@@ -1,9 +1,38 @@
 ---
-title: "1970-10-05 Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-05-peringati-hari-abri-presiden-soeharto-jelaskan-dwifungsi/"
-date: "2014-12-01T16:32:29+07:00"
+title: '1970-10-05 Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang'
+description: 6 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-05-peringati-hari-abri-presiden-soeharto-jelaskan-dwifungsi/respond)
+  81 Views Share on
+date: '1970-10-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-05-peringati-hari-abri-presiden-soeharto-jelaskan-dwifungsi
+aliases:
+- 'Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang'
+- '1970-10-05 Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang
+  – HM Soeharto'
+tags:
+- dwifungsi-abri
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-05-peringati-hari-abri-presiden-soeharto-jelaskan-dwifungsi/
+  judul: '1970-10-05 Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang'
+  tanggal: '1970-10-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-05-peringati-hari-abri-presiden-soeharto-jelaskan-dwifungsi/
 ---
+
 
 # 1970-10-05 Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang
 

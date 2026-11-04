@@ -1,9 +1,46 @@
 ---
-title: "1978-09-02 Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik Antar Negara Berkembang – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-02-presiden-soeharto-saatnya-meningkat-kerjasama-ekonomi-dan-teknik-antar-negara-berkembang/"
-date: "2017-08-22T16:10:13+07:00"
+title: '1978-09-02 Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik
+  Antar Negara Berkembang'
+description: 26 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-02-presiden-soeharto-saatnya-meningkat-kerjasama-ekonomi-dan-teknik-antar-negara-berkembang/respond)
+  87 Views...
+date: '1978-09-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-02-presiden-soeharto-saatnya-meningkat-kerjasama-ekonomi-dan-teknik-antar-negara-berkembang
+aliases:
+- 'Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik Antar Negara
+  Berkembang'
+- '1978-09-02 Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik Antar
+  Negara Berkembang – HM Soeharto'
+tags:
+- argentina
+- duta-besar
+- enrique-carvallo-diaz
+- kerjasama-teknik
+- negara-berkembang
+- orde-baru
+- pbb
+- perpustakaan-soeharto
+- presiden-soeharto
+- republik-chili
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-02-presiden-soeharto-saatnya-meningkat-kerjasama-ekonomi-dan-teknik-antar-negara-berkembang/
+  judul: '1978-09-02 Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik
+    Antar Negara Berkembang'
+  tanggal: '1978-09-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-02-presiden-soeharto-saatnya-meningkat-kerjasama-ekonomi-dan-teknik-antar-negara-berkembang/
 ---
+
 
 # 1978-09-02 Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik Antar Negara Berkembang
 

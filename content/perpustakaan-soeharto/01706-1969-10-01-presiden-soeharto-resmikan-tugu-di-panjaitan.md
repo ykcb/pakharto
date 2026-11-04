@@ -1,9 +1,42 @@
 ---
-title: "1969-10-01 Presiden Soeharto Resmikan Tugu DI Panjaitan – HM Soeharto"
-source: "https://soehartolibrary.id/1969-10-01-presiden-soeharto-resmikan-tugu-di-panjaitan/"
-date: "2014-12-01T16:36:36+07:00"
+title: 1969-10-01 Presiden Soeharto Resmikan Tugu DI Panjaitan
+description: 4 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-10-01-presiden-soeharto-resmikan-tugu-di-panjaitan/respond)
+  126 Views Share on
+date: '1969-10-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-10-01-presiden-soeharto-resmikan-tugu-di-panjaitan
+aliases:
+- Presiden Soeharto Resmikan Tugu DI Panjaitan
+- 1969-10-01 Presiden Soeharto Resmikan Tugu DI Panjaitan – HM Soeharto
+tags:
+- balige
+- di-panjaitan
+- hari-kesaktian-pancasila
+- kepala-negara
+- orde-baru
+- pahlawan-nasional
+- perpustakaan-soeharto
+- presiden-soeharto
+- sisingamangaraja
+- sumatera-utara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-10-01-presiden-soeharto-resmikan-tugu-di-panjaitan/
+  judul: 1969-10-01 Presiden Soeharto Resmikan Tugu DI Panjaitan
+  tanggal: '1969-10-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-10-01-presiden-soeharto-resmikan-tugu-di-panjaitan/
 ---
+
 
 # 1969-10-01 Presiden Soeharto Resmikan Tugu DI Panjaitan
 

@@ -1,9 +1,50 @@
 ---
-title: "1977-09-03 Presiden Soeharto Menerima Duta Besar Jerman dan Anak Yatim Timor Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1977-09-03-presiden-soeharto-menerima-duta-besar-jerman-dan-anak-yatim-timor-timur/"
-date: "2017-08-22T16:13:55+07:00"
+title: 1977-09-03 Presiden Soeharto Menerima Duta Besar Jerman dan Anak Yatim Timor
+  Timur
+description: 20 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1977-09-03-presiden-soeharto-menerima-duta-besar-jerman-dan-anak-yatim-timor-timur/respond)
+  90 Views Share on
+date: '1977-09-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-09-03-presiden-soeharto-menerima-duta-besar-jerman-dan-anak-yatim-timor-timur
+aliases:
+- Presiden Soeharto Menerima Duta Besar Jerman dan Anak Yatim Timor Timur
+- 1977-09-03 Presiden Soeharto Menerima Duta Besar Jerman dan Anak Yatim Timor Timur
+  – HM Soeharto
+tags:
+- anak-yatim
+- arnaldo-dos-reis-araujo
+- asean
+- duta-besar
+- guenther-schoedel
+- jawa-tengah
+- mee
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- republik-federasi-jerman
+- santo-thomas
+- timor-timur
+- ungaran
+- yayasan-dharmais
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-09-03-presiden-soeharto-menerima-duta-besar-jerman-dan-anak-yatim-timor-timur/
+  judul: 1977-09-03 Presiden Soeharto Menerima Duta Besar Jerman dan Anak Yatim Timor
+    Timur
+  tanggal: '1977-09-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-09-03-presiden-soeharto-menerima-duta-besar-jerman-dan-anak-yatim-timor-timur/
 ---
+
 
 # 1977-09-03 Presiden Soeharto Menerima Duta Besar Jerman dan Anak Yatim Timor Timur
 

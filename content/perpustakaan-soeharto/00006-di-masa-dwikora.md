@@ -1,9 +1,34 @@
 ---
-title: "Di Masa Dwikora – HM Soeharto"
-source: "https://soehartolibrary.id/di-masa-dwikora/"
-date: "2018-01-10T19:17:32+07:00"
+title: Di Masa Dwikora
+description: Pada tanggal 1 Mei 1963, saya diangkat menjadi Panglima Komando Strategis
+  Angkatan Darat (Kostrad) dan kembalilah saya dengan kesibukan rutin.
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: di-masa-dwikora
+aliases:
+- Di Masa Dwikora – HM Soeharto
+tags:
+- biografi-2
+- dwikora
+- orde-baru
+- perpustakaan-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/di-masa-dwikora/
+  judul: Di Masa Dwikora
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/di-masa-dwikora/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/07/soeharto-b455-opt.jpg)
 

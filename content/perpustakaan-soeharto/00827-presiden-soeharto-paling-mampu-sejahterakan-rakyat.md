@@ -1,9 +1,42 @@
 ---
-title: "Presiden Soeharto Paling Mampu Sejahterakan Rakyat – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-paling-mampu-sejahterakan-rakyat/"
-date: "2017-08-23T11:58:25+07:00"
+title: Presiden Soeharto Paling Mampu Sejahterakan Rakyat
+description: Proyek stigmatisasi buruk dalam bentuk propaganda negatif secara gencar
+  kepada Presiden Soeharto selama era reformasi ternyata tidak berumur panjang. Hasil
+  Survei Indo Barometer yang dirilis pada hari Minggu tanggal 15 Mei 2011 yang...
+date: '2017-08-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-paling-mampu-sejahterakan-rakyat
+aliases:
+- Presiden Soeharto Paling Mampu Sejahterakan Rakyat – HM Soeharto
+tags:
+- indonesia
+- mobnas
+- orde-baru
+- pak-harto
+- pancasila
+- pembangunan
+- perpustakaan-soeharto
+- pki
+- presiden-soeharto
+- soeharto
+- tinggal-landas-2
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-paling-mampu-sejahterakan-rakyat/
+  judul: Presiden Soeharto Paling Mampu Sejahterakan Rakyat
+  tanggal: '2017-08-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-paling-mampu-sejahterakan-rakyat/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b323.jpg)
 

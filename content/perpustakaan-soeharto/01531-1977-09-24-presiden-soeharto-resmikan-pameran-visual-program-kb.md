@@ -1,9 +1,38 @@
 ---
-title: "1977-09-24 Presiden Soeharto Resmikan Pameran Visual Program KB – HM Soeharto"
-source: "https://soehartolibrary.id/1977-09-24-presiden-soeharto-resmikan-pameran-visual-program-kb/"
-date: "2017-08-22T16:11:46+07:00"
+title: 1977-09-24 Presiden Soeharto Resmikan Pameran Visual Program KB
+description: 22 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1977-09-24-presiden-soeharto-resmikan-pameran-visual-program-kb/respond)
+  156 Views Share on
+date: '1977-09-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-09-24-presiden-soeharto-resmikan-pameran-visual-program-kb
+aliases:
+- Presiden Soeharto Resmikan Pameran Visual Program KB
+- 1977-09-24 Presiden Soeharto Resmikan Pameran Visual Program KB – HM Soeharto
+tags:
+- kb
+- keluarga-berencana
+- orde-baru
+- pameran
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-09-24-presiden-soeharto-resmikan-pameran-visual-program-kb/
+  judul: 1977-09-24 Presiden Soeharto Resmikan Pameran Visual Program KB
+  tanggal: '1977-09-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-09-24-presiden-soeharto-resmikan-pameran-visual-program-kb/
 ---
+
 
 # 1977-09-24 Presiden Soeharto Resmikan Pameran Visual Program KB
 

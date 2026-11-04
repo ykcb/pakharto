@@ -1,9 +1,46 @@
 ---
-title: "1972-05-09 Presiden Soeharto Kunjungi Jepang – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-09-presiden-soeharto-kunjungi-jepang/"
-date: "2017-08-24T17:40:59+07:00"
+title: 1972-05-09 Presiden Soeharto Kunjungi Jepang
+description: SELASA, 9 Mei 1972, Presiden dan Ibu Tien Soeharto serta rombongan tiba
+  di Tokyo pukul 17.45 waktu setempat. Di lapangan terbang, rombongan disambut oleh
+  Menteri Luar Negeri Fukuda dan Kepala Protokol Tamu Negara Harumi Takeuchi, serta...
+date: '1972-05-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-09-presiden-soeharto-kunjungi-jepang
+aliases:
+- Presiden Soeharto Kunjungi Jepang
+- 1972-05-09 Presiden Soeharto Kunjungi Jepang – HM Soeharto
+tags:
+- duta-besar
+- fukuda
+- harumi-takeuchi
+- ibu-tien
+- jepang
+- menteri-luar-negeri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- radius-prawiro
+- ramli
+- sudharmono
+- tokyo
+- widjoyo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-09-presiden-soeharto-kunjungi-jepang/
+  judul: 1972-05-09 Presiden Soeharto Kunjungi Jepang
+  tanggal: '1972-05-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-09-presiden-soeharto-kunjungi-jepang/
 ---
+
 
 # 1972-05-09 Presiden Soeharto Kunjungi Jepang
 

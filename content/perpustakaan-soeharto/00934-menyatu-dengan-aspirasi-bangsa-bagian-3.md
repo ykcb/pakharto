@@ -1,9 +1,38 @@
 ---
-title: "BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 3) – HM Soeharto"
-source: "https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-3/"
-date: "2014-03-11T23:16:28+07:00"
+title: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 3)'
+description: Dari pengalaman sebagai seorang pemimpin gerakan mahasiswa di Eropa,
+  saya sadar bahwa suatu halangan tidak dapat didobrak dan suatu idea tidak mungkin
+  diwujudkan, hanya oleh satu orang saja. Pengalaman itu mengajarkan bahwa yang penting...
+date: '2014-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: menyatu-dengan-aspirasi-bangsa-bagian-3
+aliases:
+- 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 3) – HM Soeharto'
+tags:
+- bj-habibie
+- ibu-sutowo
+- jerman-barat
+- orde-baru
+- perpustakaan-soeharto
+- pertamina
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-3/
+  judul: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 3)'
+  tanggal: '2014-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-3/
 ---
+
 
 # BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 3)
 

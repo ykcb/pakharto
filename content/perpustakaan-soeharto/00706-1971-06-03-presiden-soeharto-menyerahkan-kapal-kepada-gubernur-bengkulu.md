@@ -1,9 +1,43 @@
 ---
-title: "1971-06-03 Presiden Soeharto Menyerahkan Kapal Kepada Gubernur Bengkulu – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-03-presiden-soeharto-menyerahkan-kapal-kepada-gubernur-bengkulu/"
-date: "2017-08-24T15:31:56+07:00"
+title: 1971-06-03 Presiden Soeharto Menyerahkan Kapal Kepada Gubernur Bengkulu
+description: KAMIS, 3 Juni 1971, Datang menghadap Presiden Soeharto di Bina Graha
+  hari ini adalah rombongan team dokter dari RSPAD Gatot Subroto, Jakarta. Dengan
+  mereka, Presiden Soeharto telah membicarakan rencana untuk meningkatkan fasilitas
+  dan...
+date: '1971-06-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-03-presiden-soeharto-menyerahkan-kapal-kepada-gubernur-bengkulu
+aliases:
+- Presiden Soeharto Menyerahkan Kapal Kepada Gubernur Bengkulu
+- 1971-06-03 Presiden Soeharto Menyerahkan Kapal Kepada Gubernur Bengkulu – HM Soeharto
+tags:
+- ali-amin-sh
+- gubernur-bengkulu
+- kapal
+- lalu-lintas
+- laut
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rspad-gatot-subroto
+- sungai
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-03-presiden-soeharto-menyerahkan-kapal-kepada-gubernur-bengkulu/
+  judul: 1971-06-03 Presiden Soeharto Menyerahkan Kapal Kepada Gubernur Bengkulu
+  tanggal: '1971-06-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-03-presiden-soeharto-menyerahkan-kapal-kepada-gubernur-bengkulu/
 ---
+
 
 # 1971-06-03 Presiden Soeharto Menyerahkan Kapal Kepada Gubernur Bengkulu
 

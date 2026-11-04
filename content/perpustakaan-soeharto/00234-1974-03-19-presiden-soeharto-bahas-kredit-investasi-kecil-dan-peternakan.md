@@ -1,9 +1,41 @@
 ---
-title: "1974-03-19 Presiden Soeharto Bahas Kredit Investasi Kecil dan Peternakan – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-19-presiden-soeharto-bahas-kredit-investasi-kecil-dan-peternakan/"
-date: "2017-08-29T17:40:29+07:00"
+title: 1974-03-19 Presiden Soeharto Bahas Kredit Investasi Kecil dan Peternakan
+description: SELASA, 19 MARET 1974, Presiden Soeharto pagi ini mempimpin sidang Dewan
+  Stabilisasi Ekonomi Nasional di Bina Graha. Berbagai macam masalah ekonomi telah
+  dibahas dalam sidang ini, tetapi pada umumnya meliputi masalah-masalah kredit...
+date: '1974-03-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-19-presiden-soeharto-bahas-kredit-investasi-kecil-dan-peternakan
+aliases:
+- Presiden Soeharto Bahas Kredit Investasi Kecil dan Peternakan
+- 1974-03-19 Presiden Soeharto Bahas Kredit Investasi Kecil dan Peternakan – HM Soeharto
+tags:
+- bea
+- investasi
+- kecil
+- kredit
+- masuk
+- orde-baru
+- perpustakaan-soeharto
+- peternakan
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-19-presiden-soeharto-bahas-kredit-investasi-kecil-dan-peternakan/
+  judul: 1974-03-19 Presiden Soeharto Bahas Kredit Investasi Kecil dan Peternakan
+  tanggal: '1974-03-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-19-presiden-soeharto-bahas-kredit-investasi-kecil-dan-peternakan/
 ---
+
 
 # 1974-03-19 Presiden Soeharto Bahas Kredit Investasi Kecil dan Peternakan
 

@@ -1,9 +1,43 @@
 ---
-title: "1972-09-06 Presiden Soeharto Minta Percepatan Penyempurnaan Prosedur Penanaman Modal – HM Soeharto"
-source: "https://soehartolibrary.id/1972-09-06-presiden-soeharto-minta-percepatan-penyempurnaan-prosedur-penanaman-modal/"
-date: "2017-08-23T11:06:32+07:00"
+title: 1972-09-06 Presiden Soeharto Minta Percepatan Penyempurnaan Prosedur Penanaman
+  Modal
+description: 13 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-09-06-presiden-soeharto-minta-percepatan-penyempurnaan-prosedur-penanaman-modal/respond)
+  90 Views Share on
+date: '1972-09-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-09-06-presiden-soeharto-minta-percepatan-penyempurnaan-prosedur-penanaman-modal
+aliases:
+- Presiden Soeharto Minta Percepatan Penyempurnaan Prosedur Penanaman Modal
+- 1972-09-06 Presiden Soeharto Minta Percepatan Penyempurnaan Prosedur Penanaman Modal
+  – HM Soeharto
+tags:
+- ketua-bappenas
+- menteri-perdagangan
+- orde-baru
+- penanaman-modal
+- perpustakaan-soeharto
+- presiden-soeharto
+- sumitro-djojohadikusumo
+- widjojo-nitisastro
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-09-06-presiden-soeharto-minta-percepatan-penyempurnaan-prosedur-penanaman-modal/
+  judul: 1972-09-06 Presiden Soeharto Minta Percepatan Penyempurnaan Prosedur Penanaman
+    Modal
+  tanggal: '1972-09-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-09-06-presiden-soeharto-minta-percepatan-penyempurnaan-prosedur-penanaman-modal/
 ---
+
 
 # 1972-09-06 Presiden Soeharto Minta Percepatan Penyempurnaan Prosedur Penanaman Modal
 

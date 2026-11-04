@@ -1,9 +1,48 @@
 ---
-title: "1968-09-17 Presiden Soeharto Bahas Delegasi Penangguhan Hutang – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang/"
-date: "2014-04-01T02:02:40+07:00"
+title: 1968-09-17 Presiden Soeharto Bahas Delegasi Penangguhan Hutang
+description: 1 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang/respond)
+  90 Views Share on
+date: '1968-09-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang
+aliases:
+- Presiden Soeharto Bahas Delegasi Penangguhan Hutang
+- 1968-09-17 Presiden Soeharto Bahas Delegasi Penangguhan Hutang – HM Soeharto
+tags:
+- gubernur-jawa-barat
+- honorarium-guru
+- istana-merdeka
+- kepala-negara
+- mayjen-mashudi
+- orde-baru
+- paris
+- pb5
+- penangguhan-hutang
+- perpustakaan-soeharto
+- presiden-soeharto
+- purwakarta
+- scheveningen
+- sidang-kabinet-terbatas
+- subsidi-haji
+- washington
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang/
+  judul: 1968-09-17 Presiden Soeharto Bahas Delegasi Penangguhan Hutang
+  tanggal: '1968-09-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang/
 ---
+
 
 # 1968-09-17 Presiden Soeharto Bahas Delegasi Penangguhan Hutang
 

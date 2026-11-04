@@ -1,9 +1,39 @@
 ---
-title: "1969-09-17 Presiden Soeharto Rapat Umum di Merauke – HM Soeharto"
-source: "https://soehartolibrary.id/1969-09-17-presiden-soeharto-rapat-umum-di-merauke/"
-date: "2017-08-22T17:38:07+07:00"
+title: 1969-09-17 Presiden Soeharto Rapat Umum di Merauke
+description: 4 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-09-17-presiden-soeharto-rapat-umum-di-merauke/respond)
+  107 Views Share on
+date: '1969-09-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-09-17-presiden-soeharto-rapat-umum-di-merauke
+aliases:
+- Presiden Soeharto Rapat Umum di Merauke
+- 1969-09-17 Presiden Soeharto Rapat Umum di Merauke – HM Soeharto
+tags:
+- jalan-sabang
+- kemerdekaan
+- merauke
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- wamena
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-09-17-presiden-soeharto-rapat-umum-di-merauke/
+  judul: 1969-09-17 Presiden Soeharto Rapat Umum di Merauke
+  tanggal: '1969-09-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-09-17-presiden-soeharto-rapat-umum-di-merauke/
 ---
+
 
 # 1969-09-17 Presiden Soeharto Rapat Umum di Merauke
 

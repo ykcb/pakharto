@@ -1,9 +1,39 @@
 ---
-title: "1970-06-03 Presiden Soeharto: Militerisme Bukan Alat Mencapai Cita-Cita – HM Soeharto"
-source: "https://soehartolibrary.id/1970-06-03-presiden-soeharto-militerisme-bukan-alat-mencapai-cita-cita/"
-date: "2017-08-25T15:37:29+07:00"
+title: '1970-06-03 Presiden Soeharto: Militerisme Bukan Alat Mencapai Cita-Cita'
+description: Rabu, 3 Juni 1970, Pagi ini Presiden Soeharto dan rombongan tiba di Osaka.
+  Rombongan disambut oleh Menteri Luar Negeri Jepang, Kiichi Aichi, serta para pejabat
+  Jepang lainnya. Sore harinya Presiden Soeharto dan rombongan meninjau Ekspo...
+date: '1970-06-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-06-03-presiden-soeharto-militerisme-bukan-alat-mencapai-cita-cita
+aliases:
+- 'Presiden Soeharto: Militerisme Bukan Alat Mencapai Cita-Cita'
+- '1970-06-03 Presiden Soeharto: Militerisme Bukan Alat Mencapai Cita-Cita – HM Soeharto'
+tags:
+- asia
+- jepang
+- militerisme
+- orde-baru
+- osaka
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-06-03-presiden-soeharto-militerisme-bukan-alat-mencapai-cita-cita/
+  judul: '1970-06-03 Presiden Soeharto: Militerisme Bukan Alat Mencapai Cita-Cita'
+  tanggal: '1970-06-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-06-03-presiden-soeharto-militerisme-bukan-alat-mencapai-cita-cita/
 ---
+
 
 # 1970-06-03 Presiden Soeharto: Militerisme Bukan Alat Mencapai Cita-Cita
 

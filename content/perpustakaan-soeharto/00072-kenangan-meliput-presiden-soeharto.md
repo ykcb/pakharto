@@ -1,9 +1,38 @@
 ---
-title: "Kenangan Meliput Presiden Soeharto – HM Soeharto"
-source: "https://soehartolibrary.id/kenangan-meliput-presiden-soeharto/"
-date: "2013-02-23T00:55:52+07:00"
+title: Kenangan Meliput Presiden Soeharto
+description: Kenangan indah dan mengesankan. Bahkan bisa saya katakan dengan jujur,
+  sangat membanggakan. Begitu banyak kenangan pribadi saya, ketika menjadi seorang
+  cameraman yang tergabung di bawah naungan Televisi Republik Indonesia (TVRI)....
+date: '2013-02-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: kenangan-meliput-presiden-soeharto
+aliases:
+- Kenangan Meliput Presiden Soeharto – HM Soeharto
+tags:
+- istana
+- kameramen
+- orde-baru
+- perpustakaan-soeharto
+- soeharto
+- tvri
+- wartawan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/kenangan-meliput-presiden-soeharto/
+  judul: Kenangan Meliput Presiden Soeharto
+  tanggal: '2013-02-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/kenangan-meliput-presiden-soeharto/
 ---
+
 
 # Kenangan Meliput Presiden Soeharto
 

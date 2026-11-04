@@ -1,9 +1,46 @@
 ---
-title: "1971-08-19 Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi Moral – HM Soeharto"
-source: "https://soehartolibrary.id/1971-08-19-presiden-soeharto-peningkatan-pariwisata-jangan-sebabkan-dekadensi-moral/"
-date: "2017-08-24T15:09:48+07:00"
+title: '1971-08-19 Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi
+  Moral'
+description: 16 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-08-19-presiden-soeharto-peningkatan-pariwisata-jangan-sebabkan-dekadensi-moral/respond)
+  108 Views Share on
+date: '1971-08-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-08-19-presiden-soeharto-peningkatan-pariwisata-jangan-sebabkan-dekadensi-moral
+aliases:
+- 'Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi Moral'
+- '1971-08-19 Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi
+  Moral – HM Soeharto'
+tags:
+- as
+- frans-seda
+- jenderal-soeharto
+- menteri-perhubungan
+- nixon
+- orde-baru
+- pak-harto
+- perdagangan-internasional
+- perpustakaan-soeharto
+- presiden-soeharto
+- prof-dr-widjoyo-nitisastro
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-08-19-presiden-soeharto-peningkatan-pariwisata-jangan-sebabkan-dekadensi-moral/
+  judul: '1971-08-19 Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi
+    Moral'
+  tanggal: '1971-08-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-08-19-presiden-soeharto-peningkatan-pariwisata-jangan-sebabkan-dekadensi-moral/
 ---
+
 
 # 1971-08-19 Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi Moral
 

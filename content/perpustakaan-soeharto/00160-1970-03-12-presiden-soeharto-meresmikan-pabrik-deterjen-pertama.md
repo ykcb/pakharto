@@ -1,9 +1,49 @@
 ---
-title: "1970-03-12 Presiden Soeharto Meresmikan Pabrik Deterjen Pertama – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-12-presiden-soeharto-meresmikan-pabrik-deterjen-pertama/"
-date: "2017-08-29T17:14:19+07:00"
+title: 1970-03-12 Presiden Soeharto Meresmikan Pabrik Deterjen Pertama
+description: KAMIS, 12 Maret 1970, Pagi hari Presiden beserta Ibu Tien Soeharto meresmikan
+  pabrik deterjen yang pertama di Indonesia, yang dibangun oleh PT. Unilever di Jakarta.
+  Dalam amanatnya, Presiden antara lain memperingatkan agar intensifikasi...
+date: '1970-03-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-12-presiden-soeharto-meresmikan-pabrik-deterjen-pertama
+aliases:
+- Presiden Soeharto Meresmikan Pabrik Deterjen Pertama
+- 1970-03-12 Presiden Soeharto Meresmikan Pabrik Deterjen Pertama – HM Soeharto
+tags:
+- belanda
+- bernhard
+- deterjen
+- ibu
+- intensifikasi
+- kerajaan
+- modal
+- orde-baru
+- pabrik
+- pak-harto
+- pangeran
+- pengangguran
+- perpustakaan-soeharto
+- presiden
+- pt-unilever
+- soeharto
+- tien
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-12-presiden-soeharto-meresmikan-pabrik-deterjen-pertama/
+  judul: 1970-03-12 Presiden Soeharto Meresmikan Pabrik Deterjen Pertama
+  tanggal: '1970-03-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-12-presiden-soeharto-meresmikan-pabrik-deterjen-pertama/
 ---
+
 
 # 1970-03-12 Presiden Soeharto Meresmikan Pabrik Deterjen Pertama
 

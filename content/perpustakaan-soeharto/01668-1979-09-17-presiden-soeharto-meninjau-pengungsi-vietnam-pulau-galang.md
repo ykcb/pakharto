@@ -1,9 +1,40 @@
 ---
-title: "1979-09-17 Presiden Soeharto Meninjau Pengungsi Vietnam Pulau Galang – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-17-presiden-soeharto-meninjau-pengungsi-vietnam-pulau-galang/"
-date: "2014-12-01T16:38:35+07:00"
+title: 1979-09-17 Presiden Soeharto Meninjau Pengungsi Vietnam Pulau Galang
+description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-17-presiden-soeharto-meninjau-pengungsi-vietnam-pulau-galang/respond)
+  104 Views Share on
+date: '1979-09-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-17-presiden-soeharto-meninjau-pengungsi-vietnam-pulau-galang
+aliases:
+- Presiden Soeharto Meninjau Pengungsi Vietnam Pulau Galang
+- 1979-09-17 Presiden Soeharto Meninjau Pengungsi Vietnam Pulau Galang – HM Soeharto
+tags:
+- kepala-negara
+- lee-kuan-yew
+- orde-baru
+- pengungsi-vietnam
+- perpustakaan-soeharto
+- presiden-soeharto
+- pulau-galang
+- singapura
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-17-presiden-soeharto-meninjau-pengungsi-vietnam-pulau-galang/
+  judul: 1979-09-17 Presiden Soeharto Meninjau Pengungsi Vietnam Pulau Galang
+  tanggal: '1979-09-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-17-presiden-soeharto-meninjau-pengungsi-vietnam-pulau-galang/
 ---
+
 
 # 1979-09-17 Presiden Soeharto Meninjau Pengungsi Vietnam Pulau Galang
 

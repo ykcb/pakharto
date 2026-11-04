@@ -1,9 +1,46 @@
 ---
-title: "1977-04-01 Presiden Soeharto Instruksikan Taat Aturan Dalam Pembangunan Pasar – HM Soeharto"
-source: "https://soehartolibrary.id/1977-04-01-presiden-soeharto-instruksikan-taat-aturan-dalam-pembangunan-pasar/"
-date: "2014-03-22T02:56:05+07:00"
+title: 1977-04-01 Presiden Soeharto Instruksikan Taat Aturan Dalam Pembangunan Pasar
+description: JUM’AT, 1 April 1977, Presiden Soeharto menginstruksikan kepada Menteri
+  Dalam Negeri, Menteri Perdagangan, Menteri Keungan, Menteri Negara Ekuin dan Gubernur
+  Bank Indonesia untuk menggunakan ketentuan-ketentuan dalam pelaksanaan program...
+date: '1977-04-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-04-01-presiden-soeharto-instruksikan-taat-aturan-dalam-pembangunan-pasar
+aliases:
+- Presiden Soeharto Instruksikan Taat Aturan Dalam Pembangunan Pasar
+- 1977-04-01 Presiden Soeharto Instruksikan Taat Aturan Dalam Pembangunan Pasar –
+  HM Soeharto
+tags:
+- dki
+- gubernur-bank-indonesia
+- kredit
+- menteri-dalam-negeri
+- menteri-keungan
+- menteri-negara-ekuin
+- menteri-perdagangan
+- orde-baru
+- pak-harto
+- pasar
+- pembangunan-pasar
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-04-01-presiden-soeharto-instruksikan-taat-aturan-dalam-pembangunan-pasar/
+  judul: 1977-04-01 Presiden Soeharto Instruksikan Taat Aturan Dalam Pembangunan Pasar
+  tanggal: '1977-04-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-04-01-presiden-soeharto-instruksikan-taat-aturan-dalam-pembangunan-pasar/
 ---
+
 
 # 1977-04-01 Presiden Soeharto Instruksikan Taat Aturan Dalam Pembangunan Pasar
 

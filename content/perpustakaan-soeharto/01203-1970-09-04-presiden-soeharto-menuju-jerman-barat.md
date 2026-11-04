@@ -1,9 +1,45 @@
 ---
-title: "1970-09-04 Presiden Soeharto Menuju Jerman Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1970-09-04-presiden-soeharto-menuju-jerman-barat/"
-date: "2017-08-22T17:34:31+07:00"
+title: 1970-09-04 Presiden Soeharto Menuju Jerman Barat
+description: 5 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-09-04-presiden-soeharto-menuju-jerman-barat/respond)
+  94 Views Share on
+date: '1970-09-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-09-04-presiden-soeharto-menuju-jerman-barat
+aliases:
+- Presiden Soeharto Menuju Jerman Barat
+- 1970-09-04 Presiden Soeharto Menuju Jerman Barat – HM Soeharto
+tags:
+- bonn
+- cologne
+- jerman-barat
+- lusaka
+- negeri-belanda
+- orde-baru
+- pangeran-bernhard
+- perpustakaan-soeharto
+- pm-piet-de-jong
+- presiden-soeharto
+- ratu-juliana
+- wartawan-jerman
+- zambia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-09-04-presiden-soeharto-menuju-jerman-barat/
+  judul: 1970-09-04 Presiden Soeharto Menuju Jerman Barat
+  tanggal: '1970-09-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-09-04-presiden-soeharto-menuju-jerman-barat/
 ---
+
 
 # 1970-09-04 Presiden Soeharto Menuju Jerman Barat
 

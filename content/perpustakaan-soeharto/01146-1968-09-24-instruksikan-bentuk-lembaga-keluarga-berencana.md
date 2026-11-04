@@ -1,9 +1,44 @@
 ---
-title: "1968-09-24 Instruksikan Bentuk Lembaga Keluarga Berencana – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-24-instruksikan-bentuk-lembaga-keluarga-berencana/"
-date: "2015-03-26T13:13:28+07:00"
+title: 1968-09-24 Instruksikan Bentuk Lembaga Keluarga Berencana
+description: 2 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-24-instruksikan-bentuk-lembaga-keluarga-berencana/respond)
+  87 Views Share on
+date: '1968-09-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-24-instruksikan-bentuk-lembaga-keluarga-berencana
+aliases:
+- Instruksikan Bentuk Lembaga Keluarga Berencana
+- 1968-09-24 Instruksikan Bentuk Lembaga Keluarga Berencana – HM Soeharto
+tags:
+- ciasem-hilir
+- hari-tani
+- idham-chalid
+- jawa-barat
+- kesejahteraan-rakyat
+- lembaga-keluarga-berencana
+- menteri-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- purareja
+- subang
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-24-instruksikan-bentuk-lembaga-keluarga-berencana/
+  judul: 1968-09-24 Instruksikan Bentuk Lembaga Keluarga Berencana
+  tanggal: '1968-09-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-24-instruksikan-bentuk-lembaga-keluarga-berencana/
 ---
+
 
 # 1968-09-24 Instruksikan Bentuk Lembaga Keluarga Berencana
 

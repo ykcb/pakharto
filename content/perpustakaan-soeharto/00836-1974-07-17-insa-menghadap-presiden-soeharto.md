@@ -1,9 +1,39 @@
 ---
-title: "1974-07-17 INSA Menghadap Presiden Soeharto – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-17-insa-menghadap-presiden-soeharto/"
-date: "2017-08-23T11:56:46+07:00"
+title: 1974-07-17 INSA Menghadap Presiden Soeharto
+description: RABU, 17 Juli 1974 Dewan Pimpinan Harian INSA (Indonesian National Shipowners
+  Asosiation) atau perhimpunan pemilik-pemilik kapal Indonesia, menghadap Presiden
+  Soeharto di Bina Graha siang ini. Dalam pertemuan tersebut, tokoh-tokoh dunia...
+date: '1974-07-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-17-insa-menghadap-presiden-soeharto
+aliases:
+- INSA Menghadap Presiden Soeharto
+- 1974-07-17 INSA Menghadap Presiden Soeharto – HM Soeharto
+tags:
+- bina-graha
+- insa
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- pt-pann
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-17-insa-menghadap-presiden-soeharto/
+  judul: 1974-07-17 INSA Menghadap Presiden Soeharto
+  tanggal: '1974-07-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-17-insa-menghadap-presiden-soeharto/
 ---
+
 
 # 1974-07-17 INSA Menghadap Presiden Soeharto
 

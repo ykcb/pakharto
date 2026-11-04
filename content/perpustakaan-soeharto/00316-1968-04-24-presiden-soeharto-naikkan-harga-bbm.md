@@ -1,9 +1,40 @@
 ---
-title: "1968-04-24 Presiden Soeharto Naikkan Harga BBM – HM Soeharto"
-source: "https://soehartolibrary.id/1968-04-24-presiden-soeharto-naikkan-harga-bbm/"
-date: "2014-03-22T03:01:29+07:00"
+title: 1968-04-24 Presiden Soeharto Naikkan Harga BBM
+description: RABU, 24 April 1968,Melalui siaran TVRI malam ini, Presiden Soeharto
+  telah menjelaskan secara langsung kebijaksanaan pemerintah untuk menaikkan harga
+  minyak bumi. Dalam hubungan ini, Jenderal Soeharto mengatakan bahwa pemerintah telah...
+date: '1968-04-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-04-24-presiden-soeharto-naikkan-harga-bbm
+aliases:
+- Presiden Soeharto Naikkan Harga BBM
+- 1968-04-24 Presiden Soeharto Naikkan Harga BBM – HM Soeharto
+tags:
+- bensin
+- jenderal-soeharto
+- kopi
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- rokok
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-04-24-presiden-soeharto-naikkan-harga-bbm/
+  judul: 1968-04-24 Presiden Soeharto Naikkan Harga BBM
+  tanggal: '1968-04-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-04-24-presiden-soeharto-naikkan-harga-bbm/
 ---
+
 
 # 1968-04-24 Presiden Soeharto Naikkan Harga BBM
 

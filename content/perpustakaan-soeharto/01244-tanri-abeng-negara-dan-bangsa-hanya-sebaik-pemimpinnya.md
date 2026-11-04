@@ -1,9 +1,33 @@
 ---
-title: "Tanri Abeng: Negara dan Bangsa Hanya Sebaik Pemimpinnya – HM Soeharto"
-source: "https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/"
-date: "2013-09-07T13:36:34+07:00"
+title: 'Tanri Abeng: Negara dan Bangsa Hanya Sebaik Pemimpinnya'
+description: 7 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/respond)
+  193 Views Share on
+date: '2013-09-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya
+aliases:
+- 'Tanri Abeng: Negara dan Bangsa Hanya Sebaik Pemimpinnya – HM Soeharto'
+tags:
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/
+  judul: 'Tanri Abeng: Negara dan Bangsa Hanya Sebaik Pemimpinnya'
+  tanggal: '2013-09-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/
 ---
+
 
 # Tanri Abeng: Negara dan Bangsa Hanya Sebaik Pemimpinnya
 

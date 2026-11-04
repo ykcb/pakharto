@@ -1,9 +1,39 @@
 ---
-title: "1969-07-10 Presiden Soeharto Menerima Menlu Tunisia dan Wartawan Jerman – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-10-presiden-soeharto-menerima-menlu-tunisia-dan-wartawan-jerman/"
-date: "2017-08-24T15:22:44+07:00"
+title: 1969-07-10 Presiden Soeharto Menerima Menlu Tunisia dan Wartawan Jerman
+description: KAMIS, 10 Juli 1969. Presiden Soeharto pagi ini menerima kunjungan kehormatan
+  Menlu Tunisia Habib Bourguiba Jr., di kediamannya. Kepada Menlu yang sedang mengunjungi
+  Indonesia sebagai tamu pemerintah, Presiden Soeharto telah memberikan...
+date: '1969-07-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-10-presiden-soeharto-menerima-menlu-tunisia-dan-wartawan-jerman
+aliases:
+- Presiden Soeharto Menerima Menlu Tunisia dan Wartawan Jerman
+- 1969-07-10 Presiden Soeharto Menerima Menlu Tunisia dan Wartawan Jerman – HM Soeharto
+tags:
+- jenderal-soeharto
+- jerman
+- menlu-tunisia
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-10-presiden-soeharto-menerima-menlu-tunisia-dan-wartawan-jerman/
+  judul: 1969-07-10 Presiden Soeharto Menerima Menlu Tunisia dan Wartawan Jerman
+  tanggal: '1969-07-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-10-presiden-soeharto-menerima-menlu-tunisia-dan-wartawan-jerman/
 ---
+
 
 # 1969-07-10 Presiden Soeharto Menerima Menlu Tunisia dan Wartawan Jerman
 

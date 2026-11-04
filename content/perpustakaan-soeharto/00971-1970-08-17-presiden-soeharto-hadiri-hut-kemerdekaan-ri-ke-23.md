@@ -1,9 +1,40 @@
 ---
-title: "1970-08-17 Presiden Soeharto Hadiri HUT Kemerdekaan RI Ke-23 – HM Soeharto"
-source: "https://soehartolibrary.id/1970-08-17-presiden-soeharto-hadiri-hut-kemerdekaan-ri-ke-23/"
-date: "2017-08-24T15:12:38+07:00"
+title: 1970-08-17 Presiden Soeharto Hadiri HUT Kemerdekaan RI Ke-23
+description: SENIN, 17 AGUSTUS 1970, Peringatan Hari Proklamasi Kemerdekaan RI ke-23
+  berlangsung pagi ini di halaman depan Istana Merdeka. Bersama-sama Presiden dan
+  Ibu Soeharto tampak hadir dalam peringatan itu para pembesar sipil maupun militer...
+date: '1970-08-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-08-17-presiden-soeharto-hadiri-hut-kemerdekaan-ri-ke-23
+aliases:
+- Presiden Soeharto Hadiri HUT Kemerdekaan RI Ke-23
+- 1970-08-17 Presiden Soeharto Hadiri HUT Kemerdekaan RI Ke-23 – HM Soeharto
+tags:
+- dpr-gr
+- ha-sjaichu
+- hut-kemerdekaan
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-08-17-presiden-soeharto-hadiri-hut-kemerdekaan-ri-ke-23/
+  judul: 1970-08-17 Presiden Soeharto Hadiri HUT Kemerdekaan RI Ke-23
+  tanggal: '1970-08-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-08-17-presiden-soeharto-hadiri-hut-kemerdekaan-ri-ke-23/
 ---
+
 
 # 1970-08-17 Presiden Soeharto Hadiri HUT Kemerdekaan RI Ke-23
 

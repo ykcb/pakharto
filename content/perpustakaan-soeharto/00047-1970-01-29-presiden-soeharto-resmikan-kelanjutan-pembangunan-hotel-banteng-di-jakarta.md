@@ -1,9 +1,42 @@
 ---
-title: "1970-01-29 Presiden Soeharto Resmikan Kelanjutan Pembangunan Hotel Banteng di Jakarta – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-29-presiden-soeharto-resmikan-kelanjutan-pembangunan-hotel-banteng-di-jakarta/"
-date: "2014-12-29T02:02:45+07:00"
+title: 1970-01-29 Presiden Soeharto Resmikan Kelanjutan Pembangunan Hotel Banteng
+  di Jakarta
+description: KAMIS 29 JANUARI 1970, Pagi ini Presiden Soeharto meresmikan kembali
+  kelanjutan pembangunan proyek Hotel Banteng, dengan menekan tombol pengecoran. Menurut
+  rencana, hotel ini nantinya akan merupakan hotel termodern di Indonesia. Pada...
+date: '1970-01-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-29-presiden-soeharto-resmikan-kelanjutan-pembangunan-hotel-banteng-di-jakarta
+aliases:
+- Presiden Soeharto Resmikan Kelanjutan Pembangunan Hotel Banteng di Jakarta
+- 1970-01-29 Presiden Soeharto Resmikan Kelanjutan Pembangunan Hotel Banteng di Jakarta
+  – HM Soeharto
+tags:
+- banteng
+- hotel
+- orde-baru
+- pengecoran
+- peresmian
+- perpustakaan-soeharto
+- tombol
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-29-presiden-soeharto-resmikan-kelanjutan-pembangunan-hotel-banteng-di-jakarta/
+  judul: 1970-01-29 Presiden Soeharto Resmikan Kelanjutan Pembangunan Hotel Banteng
+    di Jakarta
+  tanggal: '1970-01-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-29-presiden-soeharto-resmikan-kelanjutan-pembangunan-hotel-banteng-di-jakarta/
 ---
+
 
 # 1970-01-29 Presiden Soeharto Resmikan Kelanjutan Pembangunan Hotel Banteng di Jakarta
 

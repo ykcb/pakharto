@@ -1,9 +1,38 @@
 ---
-title: "Konsepsi Peradaban Pancasila (5) – HM Soeharto"
-source: "https://soehartolibrary.id/konsepsi-peradaban-pancasila-5/"
-date: "2013-04-28T12:58:37+07:00"
+title: Konsepsi Peradaban Pancasila (5)
+description: Sila keempat Pancasila mengamanatkan agar penyelenggaraan negara —dalam
+  rangka mewujudkan cita-cita pembangunan peradaban bangsa, yaitu tercapainya kesejahteraan
+  umum, cerdasnya kehidupan bangsa dan terlindunginya segenap tumpah darah...
+date: '2013-04-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: konsepsi-peradaban-pancasila-5
+aliases:
+- Konsepsi Peradaban Pancasila (5) – HM Soeharto
+tags:
+- hikmat-kebijaksanaan
+- kerakyatan
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- tni-polri
+- utusan-golongan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/konsepsi-peradaban-pancasila-5/
+  judul: Konsepsi Peradaban Pancasila (5)
+  tanggal: '2013-04-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/konsepsi-peradaban-pancasila-5/
 ---
+
 
 # Konsepsi Peradaban Pancasila (5)
 

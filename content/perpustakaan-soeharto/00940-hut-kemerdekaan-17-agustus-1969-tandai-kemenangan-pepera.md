@@ -1,9 +1,36 @@
 ---
-title: "HUT Kemerdekaan 17 Agustus 1969: Tandai Kemenangan Pepera – HM Soeharto"
-source: "https://soehartolibrary.id/hut-kemerdekaan-17-agustus-1969-tandai-kemenangan-pepera/"
-date: "2017-08-24T15:18:34+07:00"
+title: 'HUT Kemerdekaan 17 Agustus 1969: Tandai Kemenangan Pepera'
+description: SABTU, 17 AGUSTUS 1969, Seluruh rakyat Indonesia pagi ini memperingati
+  hari kemerdekaan Indonesia. Di Istana Negara, acara yang khidmat ini dipimpin oleh
+  Presiden Soeharto. Peringatan kemerdekaan kali ini mempunyai makna khusus karena...
+date: '2017-08-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: hut-kemerdekaan-17-agustus-1969-tandai-kemenangan-pepera
+aliases:
+- 'HUT Kemerdekaan 17 Agustus 1969: Tandai Kemenangan Pepera – HM Soeharto'
+tags:
+- orde-baru
+- pepera
+- perpustakaan-soeharto
+- presiden-soeharto
+- sabang-merauke
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/hut-kemerdekaan-17-agustus-1969-tandai-kemenangan-pepera/
+  judul: 'HUT Kemerdekaan 17 Agustus 1969: Tandai Kemenangan Pepera'
+  tanggal: '2017-08-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/hut-kemerdekaan-17-agustus-1969-tandai-kemenangan-pepera/
 ---
+
 
 # HUT Kemerdekaan 17 Agustus 1969: Tandai Kemenangan Pepera
 

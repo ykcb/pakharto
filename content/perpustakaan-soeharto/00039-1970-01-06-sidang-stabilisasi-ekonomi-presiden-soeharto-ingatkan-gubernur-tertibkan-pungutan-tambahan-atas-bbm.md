@@ -1,9 +1,53 @@
 ---
-title: "1970-01-06 Sidang Stabilisasi Ekonomi, Presiden Soeharto Ingatkan Gubernur Tertibkan Pungutan Tambahan Atas BBM – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-06-sidang-stabilisasi-ekonomi-presiden-soeharto-ingatkan-gubernur-tertibkan-pungutan-tambahan-atas-bbm/"
-date: "2014-12-29T14:16:11+07:00"
+title: 1970-01-06 Sidang Stabilisasi Ekonomi, Presiden Soeharto Ingatkan Gubernur
+  Tertibkan Pungutan Tambahan Atas BBM
+description: SELASA, 6 JANUARI 1970, Presiden Soeharto pagi hari memimpin sidang Sub-Dewan
+  Stabilisasi Ekonomi di Istana Merdeka. Dalam sidang itu Presiden telah mengingatkan
+  agar gubernur tidak mengadakan pungutan tambahan atas harga bensin dan...
+date: '1970-01-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-06-sidang-stabilisasi-ekonomi-presiden-soeharto-ingatkan-gubernur-tertibkan-pungutan-tambahan-atas-bbm
+aliases:
+- Sidang Stabilisasi Ekonomi, Presiden Soeharto Ingatkan Gubernur Tertibkan Pungutan
+  Tambahan Atas BBM
+- 1970-01-06 Sidang Stabilisasi Ekonomi, Presiden Soeharto Ingatkan Gubernur Tertibkan
+  Pungutan Tambahan Atas BBM – HM Soeharto
+tags:
+- bapak-pembangunan
+- bbm
+- bina-graha
+- cendana
+- gbhn
+- gubernur
+- istana-merdeka
+- ksau
+- macan-asia
+- orde-baru
+- pelita
+- penertiban
+- perpustakaan-soeharto
+- presiden-soeharto
+- pungutan
+- repelita
+- tinggal-landas-2
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-06-sidang-stabilisasi-ekonomi-presiden-soeharto-ingatkan-gubernur-tertibkan-pungutan-tambahan-atas-bbm/
+  judul: 1970-01-06 Sidang Stabilisasi Ekonomi, Presiden Soeharto Ingatkan Gubernur
+    Tertibkan Pungutan Tambahan Atas BBM
+  tanggal: '1970-01-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-06-sidang-stabilisasi-ekonomi-presiden-soeharto-ingatkan-gubernur-tertibkan-pungutan-tambahan-atas-bbm/
 ---
+
 
 # 1970-01-06 Sidang Stabilisasi Ekonomi, Presiden Soeharto Ingatkan Gubernur Tertibkan Pungutan Tambahan Atas BBM
 

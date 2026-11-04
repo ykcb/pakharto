@@ -1,9 +1,50 @@
 ---
-title: "1969-01-16 Presiden Soeharto Menerima Pimpinan Pusat Legiun Veteran – HM Soeharto"
-source: "https://soehartolibrary.id/1969-01-16-presiden-soeharto-menerima-pimpinan-pusat-legiun-veteran/"
-date: "2017-08-29T11:17:30+07:00"
+title: 1969-01-16 Presiden Soeharto Menerima Pimpinan Pusat Legiun Veteran
+description: KAMIS, 16 JANUARI 1969 Pimpinan Pusat Markas Besar Legiun Veteran RI
+  (LVRI) datang menghadap Presiden Soeharto di kediamannya. Dalam pertemuan tersebut
+  telah dibicarakan tentang penyusunan Dewan Paripurna Pusat Markas Besar LVRI, status...
+date: '1969-01-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-01-16-presiden-soeharto-menerima-pimpinan-pusat-legiun-veteran
+aliases:
+- Presiden Soeharto Menerima Pimpinan Pusat Legiun Veteran
+- 1969-01-16 Presiden Soeharto Menerima Pimpinan Pusat Legiun Veteran – HM Soeharto
+tags:
+- bapak-pembangunan
+- bina-graha
+- cendana
+- gbhn
+- gedung
+- istana-merdeka
+- legiun
+- macan-asia
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- pmbangunan
+- presiden
+- presiden-soeharto
+- repelita
+- soeharto
+- tinggal-landas-2
+- veteran
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-01-16-presiden-soeharto-menerima-pimpinan-pusat-legiun-veteran/
+  judul: 1969-01-16 Presiden Soeharto Menerima Pimpinan Pusat Legiun Veteran
+  tanggal: '1969-01-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-01-16-presiden-soeharto-menerima-pimpinan-pusat-legiun-veteran/
 ---
+
 
 # 1969-01-16 Presiden Soeharto Menerima Pimpinan Pusat Legiun Veteran
 

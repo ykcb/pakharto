@@ -1,9 +1,50 @@
 ---
-title: "1970-09-03 Transit di Istambul, Presiden Soeharto Disambut Upacara Militer – HM Soeharto"
-source: "https://soehartolibrary.id/1970-09-03-transit-di-istambul-presiden-soeharto-disambut-upacara-militer/"
-date: "2014-03-21T23:15:34+07:00"
+title: 1970-09-03 Transit di Istambul, Presiden Soeharto Disambut Upacara Militer
+description: 5 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-09-03-transit-di-istambul-presiden-soeharto-disambut-upacara-militer/respond)
+  138 Views Share on
+date: '1970-09-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-09-03-transit-di-istambul-presiden-soeharto-disambut-upacara-militer
+aliases:
+- Transit di Istambul, Presiden Soeharto Disambut Upacara Militer
+- 1970-09-03 Transit di Istambul, Presiden Soeharto Disambut Upacara Militer – HM
+  Soeharto
+tags:
+- ankara
+- de-haag
+- gubernur-belanda
+- huisten-bosch
+- ibu-tien
+- istambul
+- joseph-luns
+- menteri-luar-negeri
+- negeri-belanda
+- odink
+- orde-baru
+- pangeran-bernhard
+- perpustakaan-soeharto
+- pki
+- presiden-soeharto
+- ratu-juliana
+- salvo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-09-03-transit-di-istambul-presiden-soeharto-disambut-upacara-militer/
+  judul: 1970-09-03 Transit di Istambul, Presiden Soeharto Disambut Upacara Militer
+  tanggal: '1970-09-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-09-03-transit-di-istambul-presiden-soeharto-disambut-upacara-militer/
 ---
+
 
 # 1970-09-03 Transit di Istambul, Presiden Soeharto Disambut Upacara Militer
 

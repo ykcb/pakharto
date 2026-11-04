@@ -1,9 +1,41 @@
 ---
-title: "1974-10-10 Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit – HM Soeharto"
-source: "https://soehartolibrary.id/1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit/"
-date: "2014-12-01T13:54:14+07:00"
+title: 1974-10-10 Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit
+description: 14 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit/respond)
+  93 Views Share on
+date: '1974-10-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit
+aliases:
+- Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit
+- 1974-10-10 Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit – HM
+  Soeharto
+tags:
+- kasad
+- kepala-negara
+- kopasandha
+- makmun-murad
+- orde-baru
+- pangdam
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit/
+  judul: 1974-10-10 Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit
+  tanggal: '1974-10-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit/
 ---
+
 
 # 1974-10-10 Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit
 

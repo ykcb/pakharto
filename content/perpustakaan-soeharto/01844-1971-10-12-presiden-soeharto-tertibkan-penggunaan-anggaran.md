@@ -1,9 +1,40 @@
 ---
-title: "1971-10-12 Presiden Soeharto: Tertibkan Penggunaan Anggaran – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran/"
-date: "2014-12-01T16:21:09+07:00"
+title: '1971-10-12 Presiden Soeharto: Tertibkan Penggunaan Anggaran'
+description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran/respond)
+  91 Views Share on
+date: '1971-10-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran
+aliases:
+- 'Presiden Soeharto: Tertibkan Penggunaan Anggaran'
+- '1971-10-12 Presiden Soeharto: Tertibkan Penggunaan Anggaran – HM Soeharto'
+tags:
+- anggaran
+- bank-dunia
+- imf
+- kepala-negara
+- menteri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran/
+  judul: '1971-10-12 Presiden Soeharto: Tertibkan Penggunaan Anggaran'
+  tanggal: '1971-10-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran/
 ---
+
 
 # 1971-10-12 Presiden Soeharto: Tertibkan Penggunaan Anggaran
 

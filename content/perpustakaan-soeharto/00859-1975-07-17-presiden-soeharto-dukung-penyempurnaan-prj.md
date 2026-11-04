@@ -1,9 +1,44 @@
 ---
-title: "1975-07-17 Presiden Soeharto Dukung Penyempurnaan PRJ – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-17-presiden-soeharto-dukung-penyempurnaan-prj/"
-date: "2017-08-23T11:50:04+07:00"
+title: 1975-07-17 Presiden Soeharto Dukung Penyempurnaan PRJ
+description: KAMIS, 17 Juli 1975 Presiden Soeharto menyatakan bahwa ia akan turut
+  mendukung gagasan untuk lebih menyempurnakan penyelenggaraan Pekan Raya Jakarta
+  (PRJ) di tahun-tahun mendatang. Pernyataan tersebut dibuat oleh Kepala Negara didalam...
+date: '1975-07-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-17-presiden-soeharto-dukung-penyempurnaan-prj
+aliases:
+- Presiden Soeharto Dukung Penyempurnaan PRJ
+- 1975-07-17 Presiden Soeharto Dukung Penyempurnaan PRJ – HM Soeharto
+tags:
+- departemen-pertanian
+- dki-jaya
+- ibu-tien
+- kerajinan-tangan-pt-sri-tokay
+- orde-baru
+- pekan-raya-jakarta
+- penerangan-repelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- prj
+- pt-keramik-indonesia
+- yugoslavia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-17-presiden-soeharto-dukung-penyempurnaan-prj/
+  judul: 1975-07-17 Presiden Soeharto Dukung Penyempurnaan PRJ
+  tanggal: '1975-07-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-17-presiden-soeharto-dukung-penyempurnaan-prj/
 ---
+
 
 # 1975-07-17 Presiden Soeharto Dukung Penyempurnaan PRJ
 

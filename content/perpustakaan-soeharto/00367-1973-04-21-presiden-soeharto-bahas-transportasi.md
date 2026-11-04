@@ -1,9 +1,40 @@
 ---
-title: "1973-04-21 Presiden Soeharto Bahas Transportasi – HM Soeharto"
-source: "https://soehartolibrary.id/1973-04-21-presiden-soeharto-bahas-transportasi/"
-date: "2014-03-22T02:58:16+07:00"
+title: 1973-04-21 Presiden Soeharto Bahas Transportasi
+description: SABTU, 21 April 1973, masalah transportasi telah dibahas secara menyeluruh
+  oleh Presiden Soeharto dengan beberapa menteri serta Pangkopkantib Jenderal Soemitro
+  dalam suatu pertemuan yang berlangsung di kediaman Presiden di Jalan cendana...
+date: '1973-04-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-04-21-presiden-soeharto-bahas-transportasi
+aliases:
+- Presiden Soeharto Bahas Transportasi
+- 1973-04-21 Presiden Soeharto Bahas Transportasi – HM Soeharto
+tags:
+- ali-wardana
+- emil-salim
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sadli
+- sumitro
+- transportasi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-04-21-presiden-soeharto-bahas-transportasi/
+  judul: 1973-04-21 Presiden Soeharto Bahas Transportasi
+  tanggal: '1973-04-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-04-21-presiden-soeharto-bahas-transportasi/
 ---
+
 
 # 1973-04-21 Presiden Soeharto Bahas Transportasi
 

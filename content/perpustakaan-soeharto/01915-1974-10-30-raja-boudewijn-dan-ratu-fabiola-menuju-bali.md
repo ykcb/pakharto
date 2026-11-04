@@ -1,9 +1,39 @@
 ---
-title: "1974-10-30 Raja Boudewijn dan Ratu Fabiola Menuju Bali – HM Soeharto"
-source: "https://soehartolibrary.id/1974-10-30-raja-boudewijn-dan-ratu-fabiola-menuju-bali/"
-date: "2014-12-01T13:50:47+07:00"
+title: 1974-10-30 Raja Boudewijn dan Ratu Fabiola Menuju Bali
+description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-10-30-raja-boudewijn-dan-ratu-fabiola-menuju-bali/respond)
+  146 Views Share on
+date: '1974-10-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-10-30-raja-boudewijn-dan-ratu-fabiola-menuju-bali
+aliases:
+- Raja Boudewijn dan Ratu Fabiola Menuju Bali
+- 1974-10-30 Raja Boudewijn dan Ratu Fabiola Menuju Bali – HM Soeharto
+tags:
+- ibu-tien
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- raja-boudewijn
+- ratu-fabiola
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-10-30-raja-boudewijn-dan-ratu-fabiola-menuju-bali/
+  judul: 1974-10-30 Raja Boudewijn dan Ratu Fabiola Menuju Bali
+  tanggal: '1974-10-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-10-30-raja-boudewijn-dan-ratu-fabiola-menuju-bali/
 ---
+
 
 # 1974-10-30 Raja Boudewijn dan Ratu Fabiola Menuju Bali
 

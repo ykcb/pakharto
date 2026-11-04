@@ -1,9 +1,44 @@
 ---
-title: "1973-10-09 Presiden Soeharto Beri Hadiah Perintis Kemerdekaan – HM Soeharto"
-source: "https://soehartolibrary.id/1973-10-09-presiden-soeharto-beri-hadiah-perintis-kemerdekaan/"
-date: "2014-12-01T14:13:02+07:00"
+title: 1973-10-09 Presiden Soeharto Beri Hadiah Perintis Kemerdekaan
+description: 12 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-10-09-presiden-soeharto-beri-hadiah-perintis-kemerdekaan/respond)
+  120 Views Share on
+date: '1973-10-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-10-09-presiden-soeharto-beri-hadiah-perintis-kemerdekaan
+aliases:
+- Presiden Soeharto Beri Hadiah Perintis Kemerdekaan
+- 1973-10-09 Presiden Soeharto Beri Hadiah Perintis Kemerdekaan – HM Soeharto
+tags:
+- kartono-notodarmodjo
+- keluarga-dan-masyarakat
+- kepala-negara
+- menteri-sosial
+- mintaredja-sh
+- orde-baru
+- perintis-kemerdekaan
+- perpustakaan-soeharto
+- presiden-soeharto
+- rp-soeroso
+- rusiah-sardjono-sh
+- soehardi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-10-09-presiden-soeharto-beri-hadiah-perintis-kemerdekaan/
+  judul: 1973-10-09 Presiden Soeharto Beri Hadiah Perintis Kemerdekaan
+  tanggal: '1973-10-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-10-09-presiden-soeharto-beri-hadiah-perintis-kemerdekaan/
 ---
+
 
 # 1973-10-09 Presiden Soeharto Beri Hadiah Perintis Kemerdekaan
 

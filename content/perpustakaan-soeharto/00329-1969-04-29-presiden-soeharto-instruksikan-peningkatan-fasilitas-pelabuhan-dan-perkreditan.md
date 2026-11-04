@@ -1,9 +1,44 @@
 ---
-title: "1969-04-29 Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan dan Perkreditan – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-29-presiden-soeharto-instruksikan-peningkatan-fasilitas-pelabuhan-dan-perkreditan/"
-date: "2014-03-22T02:58:34+07:00"
+title: 1969-04-29 Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan dan
+  Perkreditan
+description: SELASA, 29 APRIL 1969, Hari ini Presiden Soeharto memimpin sidang dewan
+  stabilisasi ekonomi, bertempat di Istana Merdeka. Sehubungan dengan laporan Menteri
+  Perdagangan Soemitro Djojohadikusumo tentang kunjungannya ke daerah Sumatera...
+date: '1969-04-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-29-presiden-soeharto-instruksikan-peningkatan-fasilitas-pelabuhan-dan-perkreditan
+aliases:
+- Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan dan Perkreditan
+- 1969-04-29 Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan dan Perkreditan
+  – HM Soeharto
+tags:
+- jenderal-soeharto
+- musim-rendengan
+- orde-baru
+- pak-harto
+- pelabuhan
+- perkreditan
+- perpustakaan-soeharto
+- presiden-soeharto
+- pupuk
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-29-presiden-soeharto-instruksikan-peningkatan-fasilitas-pelabuhan-dan-perkreditan/
+  judul: 1969-04-29 Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan
+    dan Perkreditan
+  tanggal: '1969-04-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-29-presiden-soeharto-instruksikan-peningkatan-fasilitas-pelabuhan-dan-perkreditan/
 ---
+
 
 # 1969-04-29 Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan dan Perkreditan
 

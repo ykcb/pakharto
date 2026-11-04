@@ -1,9 +1,48 @@
 ---
-title: "1972-03-11 Presiden Soeharto Terima Marshall Green – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-11-presiden-soeharto-terima-marshall-green/"
-date: "2014-03-21T23:11:06+07:00"
+title: 1972-03-11 Presiden Soeharto Terima Marshall Green
+description: SABTU, 11 Maret 1972, Pembantu Luar Negeri Urusan Asia dan Pasifik AS,
+  Marshall Green, malam ini diterima Presiden Soeharto di Jalan Cendana. Bertindak
+  selaku utusan khusus Presiden AS, Marshall Green, datang untuk menjelaskan hasil...
+date: '1972-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-11-presiden-soeharto-terima-marshall-green
+aliases:
+- Presiden Soeharto Terima Marshall Green
+- 1972-03-11 Presiden Soeharto Terima Marshall Green – HM Soeharto
+tags:
+- asia
+- dunia
+- green
+- ketegangan
+- komunikas
+- luar
+- marshall
+- menteri
+- negeri
+- orde-baru
+- pak-harto
+- pasifik
+- perpustakaan-soeharto
+- presiden
+- rrc
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-11-presiden-soeharto-terima-marshall-green/
+  judul: 1972-03-11 Presiden Soeharto Terima Marshall Green
+  tanggal: '1972-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-11-presiden-soeharto-terima-marshall-green/
 ---
+
 
 # 1972-03-11 Presiden Soeharto Terima Marshall Green
 

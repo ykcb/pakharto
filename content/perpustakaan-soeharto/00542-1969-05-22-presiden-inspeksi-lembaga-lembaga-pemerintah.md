@@ -1,9 +1,41 @@
 ---
-title: "1969-05-22 Presiden Inspeksi Lembaga-Lembaga Pemerintah – HM Soeharto"
-source: "https://soehartolibrary.id/1969-05-22-presiden-inspeksi-lembaga-lembaga-pemerintah/"
-date: "2017-08-28T16:46:45+07:00"
+title: 1969-05-22 Presiden Inspeksi Lembaga-Lembaga Pemerintah
+description: KAMIS, 22 MEI 1969, Pagi ini Presiden Soeharto kembali mengadakan inspeksi
+  ke lembaga-lembaga pemerintahan. Yang di inspeksi pagi ini adalah Departemen Pertambangan
+  yang kemudian dilanjutkan dengan kunjungan ke Instalasi PN Pertamina di...
+date: '1969-05-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-05-22-presiden-inspeksi-lembaga-lembaga-pemerintah
+aliases:
+- Presiden Inspeksi Lembaga-Lembaga Pemerintah
+- 1969-05-22 Presiden Inspeksi Lembaga-Lembaga Pemerintah – HM Soeharto
+tags:
+- inspeksi
+- lembaga-pemerintah
+- menteri
+- modal-asing
+- orde-baru
+- perpustakaan-soeharto
+- pertambangan
+- presiden-soeharto
+- soemantri-brojonegoro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-05-22-presiden-inspeksi-lembaga-lembaga-pemerintah/
+  judul: 1969-05-22 Presiden Inspeksi Lembaga-Lembaga Pemerintah
+  tanggal: '1969-05-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-05-22-presiden-inspeksi-lembaga-lembaga-pemerintah/
 ---
+
 
 # 1969-05-22 Presiden Inspeksi Lembaga-Lembaga Pemerintah
 

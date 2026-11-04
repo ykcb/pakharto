@@ -1,9 +1,40 @@
 ---
-title: "1971-08-25 Presiden Soeharto Temui Ulama, Lurah dan Pejabat Daerah Palembang – HM Soeharto"
-source: "https://soehartolibrary.id/1971-08-25-presiden-soeharto-temui-ulama-lurah-dan-pejabat-daerah-palembang/"
-date: "2017-08-24T15:09:21+07:00"
+title: 1971-08-25 Presiden Soeharto Temui Ulama, Lurah dan Pejabat Daerah Palembang
+description: 18 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-08-25-presiden-soeharto-temui-ulama-lurah-dan-pejabat-daerah-palembang/respond)
+  114 Views Share on
+date: '1971-08-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-08-25-presiden-soeharto-temui-ulama-lurah-dan-pejabat-daerah-palembang
+aliases:
+- Presiden Soeharto Temui Ulama, Lurah dan Pejabat Daerah Palembang
+- 1971-08-25 Presiden Soeharto Temui Ulama, Lurah dan Pejabat Daerah Palembang – HM
+  Soeharto
+tags:
+- alim-ulama
+- lurah
+- orde-baru
+- palembang
+- pejabat-daerah
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-08-25-presiden-soeharto-temui-ulama-lurah-dan-pejabat-daerah-palembang/
+  judul: 1971-08-25 Presiden Soeharto Temui Ulama, Lurah dan Pejabat Daerah Palembang
+  tanggal: '1971-08-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-08-25-presiden-soeharto-temui-ulama-lurah-dan-pejabat-daerah-palembang/
 ---
+
 
 # 1971-08-25 Presiden Soeharto Temui Ulama, Lurah dan Pejabat Daerah Palembang
 

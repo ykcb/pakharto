@@ -1,9 +1,36 @@
 ---
-title: "PEMBANGUNAN MENTAL SPIRITUAL – HM Soeharto"
-source: "https://soehartolibrary.id/pembangunan-mental-spiritual/"
-date: "2017-10-19T14:51:58+07:00"
+title: PEMBANGUNAN MENTAL SPIRITUAL
+description: Masyarakat Nusantara merupakan masyarakat ber-Tuhan dan oleh karena itu
+  rumusan pertama sila Pancasila menekankan transendensi, Ketuhanan Yang Maha Esa”.
+  Berdasarkan rumusan tersebut peradaban yang hendak diwujudkan dalam konstruksi...
+date: '2017-10-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pembangunan-mental-spiritual
+aliases:
+- PEMBANGUNAN MENTAL SPIRITUAL – HM Soeharto
+tags:
+- ber-tuhan
+- masyarakat
+- orde-baru
+- perpustakaan-soeharto
+- toleransi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pembangunan-mental-spiritual/
+  judul: PEMBANGUNAN MENTAL SPIRITUAL
+  tanggal: '2017-10-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pembangunan-mental-spiritual/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b328.jpg)
 

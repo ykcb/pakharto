@@ -1,9 +1,40 @@
 ---
-title: "1978-09-09 Presiden Soeharto Instruksikan Penanganan Jamaah Umroh Yang Terlantar – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-09-presiden-soeharto-instruksikan-penanganan-jamaah-umroh-yang-terlantar/"
-date: "2017-08-22T16:09:17+07:00"
+title: 1978-09-09 Presiden Soeharto Instruksikan Penanganan Jamaah Umroh Yang Terlantar
+description: 26 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-09-presiden-soeharto-instruksikan-penanganan-jamaah-umroh-yang-terlantar/respond)
+  99 Views Share on
+date: '1978-09-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-09-presiden-soeharto-instruksikan-penanganan-jamaah-umroh-yang-terlantar
+aliases:
+- Presiden Soeharto Instruksikan Penanganan Jamaah Umroh Yang Terlantar
+- 1978-09-09 Presiden Soeharto Instruksikan Penanganan Jamaah Umroh Yang Terlantar
+  – HM Soeharto
+tags:
+- alamsyah-ratu-perwiranegara
+- departemen-agama
+- menteri-agama
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- umroh
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-09-presiden-soeharto-instruksikan-penanganan-jamaah-umroh-yang-terlantar/
+  judul: 1978-09-09 Presiden Soeharto Instruksikan Penanganan Jamaah Umroh Yang Terlantar
+  tanggal: '1978-09-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-09-presiden-soeharto-instruksikan-penanganan-jamaah-umroh-yang-terlantar/
 ---
+
 
 # 1978-09-09 Presiden Soeharto Instruksikan Penanganan Jamaah Umroh Yang Terlantar
 

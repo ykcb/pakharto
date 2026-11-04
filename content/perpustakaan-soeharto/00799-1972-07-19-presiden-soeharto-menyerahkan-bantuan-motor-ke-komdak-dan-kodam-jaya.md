@@ -1,9 +1,43 @@
 ---
-title: "1972-07-19 Presiden Soeharto Menyerahkan Bantuan Motor Ke Komdak dan Kodam Jaya – HM Soeharto"
-source: "https://soehartolibrary.id/1972-07-19-presiden-soeharto-menyerahkan-bantuan-motor-ke-komdak-dan-kodam-jaya/"
-date: "2017-08-25T15:28:24+07:00"
+title: 1972-07-19 Presiden Soeharto Menyerahkan Bantuan Motor Ke Komdak dan Kodam
+  Jaya
+description: RABU, 19 Juli 1972. Presiden Soeharto hari ini menyerahkan 25 sepeda
+  motor kepada Komdak VII/Jaya, dan lima buah lainnya kepada Kodam V/Jaya. Kendaraan-kendaraan
+  tersebut akan digunakan dalam tugas-tugas pengawalan kehormatan dan...
+date: '1972-07-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-07-19-presiden-soeharto-menyerahkan-bantuan-motor-ke-komdak-dan-kodam-jaya
+aliases:
+- Presiden Soeharto Menyerahkan Bantuan Motor Ke Komdak dan Kodam Jaya
+- 1972-07-19 Presiden Soeharto Menyerahkan Bantuan Motor Ke Komdak dan Kodam Jaya
+  – HM Soeharto
+tags:
+- jenderal-soeharto
+- kodam
+- komdak
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- sepeda-motor
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-07-19-presiden-soeharto-menyerahkan-bantuan-motor-ke-komdak-dan-kodam-jaya/
+  judul: 1972-07-19 Presiden Soeharto Menyerahkan Bantuan Motor Ke Komdak dan Kodam
+    Jaya
+  tanggal: '1972-07-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-07-19-presiden-soeharto-menyerahkan-bantuan-motor-ke-komdak-dan-kodam-jaya/
 ---
+
 
 # 1972-07-19 Presiden Soeharto Menyerahkan Bantuan Motor Ke Komdak dan Kodam Jaya
 

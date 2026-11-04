@@ -1,9 +1,42 @@
 ---
-title: "1974-04-02 Presiden Soeharto: Amankan Lahan Sawah Sekitar Trans Sumatera – HM Soeharto"
-source: "https://soehartolibrary.id/1974-04-02-presiden-soeharto-amankan-lahan-sawah-sekitar-trans-sumatera/"
-date: "2017-08-28T16:51:17+07:00"
+title: '1974-04-02 Presiden Soeharto: Amankan Lahan Sawah Sekitar Trans Sumatera'
+description: SELASA, 2 April 1974, Sidang Dewan Stabilisasi Ekonomi Nasional yang
+  berlangsung pagi ini di Bina Graha telah mendengarkan laporan Menteri Keuangan Ali
+  Wardhana dan Menteri PUTL Ir. Sutami. Menteri Keuangan antara lain melaporkan...
+date: '1974-04-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-04-02-presiden-soeharto-amankan-lahan-sawah-sekitar-trans-sumatera
+aliases:
+- 'Presiden Soeharto: Amankan Lahan Sawah Sekitar Trans Sumatera'
+- '1974-04-02 Presiden Soeharto: Amankan Lahan Sawah Sekitar Trans Sumatera – HM Soeharto'
+tags:
+- ali-wardhana
+- ir-sutami
+- menteri-keuangan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- putl
+- sawah
+- trans-sumatera
+- transmigrasi
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-04-02-presiden-soeharto-amankan-lahan-sawah-sekitar-trans-sumatera/
+  judul: '1974-04-02 Presiden Soeharto: Amankan Lahan Sawah Sekitar Trans Sumatera'
+  tanggal: '1974-04-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-04-02-presiden-soeharto-amankan-lahan-sawah-sekitar-trans-sumatera/
 ---
+
 
 # 1974-04-02 Presiden Soeharto: Amankan Lahan Sawah Sekitar Trans Sumatera
 

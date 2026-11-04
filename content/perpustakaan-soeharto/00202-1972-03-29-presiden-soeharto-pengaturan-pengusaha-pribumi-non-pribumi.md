@@ -1,9 +1,39 @@
 ---
-title: "1972-03-29 Presiden Soeharto: Pengaturan Pengusaha Pribumi-Non Pribumi – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-29-presiden-soeharto-pengaturan-pengusaha-pribumi-non-pribumi/"
-date: "2017-08-29T11:27:01+07:00"
+title: '1972-03-29 Presiden Soeharto: Pengaturan Pengusaha Pribumi-Non Pribumi'
+description: RABU, 29 Maret 1972, Dalam petemuannya dengan pengurus Kadin, yang dipimpin
+  oleh Ketua Umum Brigjen. Sofyar, hari ini di Bina Graha, Presiden soeharto menyatakan
+  keyakinannya bahwa pemerintah akan dapat melakukan suatu peraturan...
+date: '1972-03-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-29-presiden-soeharto-pengaturan-pengusaha-pribumi-non-pribumi
+aliases:
+- 'Presiden Soeharto: Pengaturan Pengusaha Pribumi-Non Pribumi'
+- '1972-03-29 Presiden Soeharto: Pengaturan Pengusaha Pribumi-Non Pribumi – HM Soeharto'
+tags:
+- non-pribumi
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- pribumi
+- soeharto-pengusaha
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-29-presiden-soeharto-pengaturan-pengusaha-pribumi-non-pribumi/
+  judul: '1972-03-29 Presiden Soeharto: Pengaturan Pengusaha Pribumi-Non Pribumi'
+  tanggal: '1972-03-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-29-presiden-soeharto-pengaturan-pengusaha-pribumi-non-pribumi/
 ---
+
 
 # 1972-03-29 Presiden Soeharto: Pengaturan Pengusaha Pribumi-Non Pribumi
 

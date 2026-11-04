@@ -1,9 +1,44 @@
 ---
-title: "1975-07-04 Presiden Soeharto Tamu Kehormatan Sidang Ke-30 Parlemen Kanada – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-04-presiden-soeharto-tamu-kehormatan-sidang-ke-30-parlemen-kanada/"
-date: "2017-08-23T11:52:43+07:00"
+title: 1975-07-04 Presiden Soeharto Tamu Kehormatan Sidang Ke-30 Parlemen Kanada
+description: JUM’AT, 04 Juli 1975, Hari ini Presiden Soeharto menghadiri sidang ke-30
+  Parlemen Kanada sebagai tamu kehormatan. Dalam sidang ini Kepala Negara menyaksikan
+  jalannya perdebatan antara kaum oposisi dan pemerintah.
+date: '1975-07-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-04-presiden-soeharto-tamu-kehormatan-sidang-ke-30-parlemen-kanada
+aliases:
+- Presiden Soeharto Tamu Kehormatan Sidang Ke-30 Parlemen Kanada
+- 1975-07-04 Presiden Soeharto Tamu Kehormatan Sidang Ke-30 Parlemen Kanada – HM Soeharto
+tags:
+- adam-malik
+- alastair-gillespie
+- allen-j-maceachen
+- memorandum-of-understanding
+- menteri-luar-negeri
+- menteri-negara-ekuin
+- orde-baru
+- parlemen-kanada
+- perpustakaan-soeharto
+- pm-trudeau
+- presiden-soeharto
+- widjojo-nitisastro
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-04-presiden-soeharto-tamu-kehormatan-sidang-ke-30-parlemen-kanada/
+  judul: 1975-07-04 Presiden Soeharto Tamu Kehormatan Sidang Ke-30 Parlemen Kanada
+  tanggal: '1975-07-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-04-presiden-soeharto-tamu-kehormatan-sidang-ke-30-parlemen-kanada/
 ---
+
 
 # 1975-07-04 Presiden Soeharto Tamu Kehormatan Sidang Ke-30 Parlemen Kanada
 

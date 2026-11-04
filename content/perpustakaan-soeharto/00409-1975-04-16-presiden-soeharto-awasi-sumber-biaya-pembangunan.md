@@ -1,9 +1,37 @@
 ---
-title: "1975-04-16 Presiden Soeharto: Awasi Sumber Biaya Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-16-presiden-soeharto-awasi-sumber-biaya-pembangunan/"
-date: "2017-08-30T14:16:31+07:00"
+title: '1975-04-16 Presiden Soeharto: Awasi Sumber Biaya Pembangunan'
+description: RABU, 16 April 1975, Bertempat di Istana Merdeka pagi ini, Presiden Soeharto
+  telah membuka rapat kerja unsur-unsur Departemen Keuangan dan Perbankan. Dalam sambutannya,
+  Kepala Negara mengatakan bahwa tugas dan kewajiban aparat keuangan...
+date: '1975-04-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-16-presiden-soeharto-awasi-sumber-biaya-pembangunan
+aliases:
+- 'Presiden Soeharto: Awasi Sumber Biaya Pembangunan'
+- '1975-04-16 Presiden Soeharto: Awasi Sumber Biaya Pembangunan – HM Soeharto'
+tags:
+- aparat-keuangan
+- orde-baru
+- perpustakaan-soeharto
+- perusahaan-negara
+- presiden-soehareto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-16-presiden-soeharto-awasi-sumber-biaya-pembangunan/
+  judul: '1975-04-16 Presiden Soeharto: Awasi Sumber Biaya Pembangunan'
+  tanggal: '1975-04-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-16-presiden-soeharto-awasi-sumber-biaya-pembangunan/
 ---
+
 
 # 1975-04-16 Presiden Soeharto: Awasi Sumber Biaya Pembangunan
 

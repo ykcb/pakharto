@@ -1,9 +1,49 @@
 ---
-title: "1972-09-19 Presiden Soeharto: Penertiban Jalan Raya Jangan Ganggu Pengangkutan Bahan Pokok – HM Soeharto"
-source: "https://soehartolibrary.id/1972-09-19-presiden-soeharto-penertiban-jalan-raya-jangan-ganggu-pengangkutan-bahan-pokok/"
-date: "2017-08-23T11:02:59+07:00"
+title: '1972-09-19 Presiden Soeharto: Penertiban Jalan Raya Jangan Ganggu Pengangkutan
+  Bahan Pokok'
+description: 14 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-09-19-presiden-soeharto-penertiban-jalan-raya-jangan-ganggu-pengangkutan-bahan-pokok/respond)
+  78 Views Share on
+date: '1972-09-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-09-19-presiden-soeharto-penertiban-jalan-raya-jangan-ganggu-pengangkutan-bahan-pokok
+aliases:
+- 'Presiden Soeharto: Penertiban Jalan Raya Jangan Ganggu Pengangkutan Bahan Pokok'
+- '1972-09-19 Presiden Soeharto: Penertiban Jalan Raya Jangan Ganggu Pengangkutan
+  Bahan Pokok – HM Soeharto'
+tags:
+- angkutan-jalan
+- bahan-pokok
+- budiardjo
+- emil-salim
+- frans-seda
+- menteri-keuangan
+- menteri-penerangan
+- menteri-pertanian
+- menteri-putl
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sutami
+- thoyib-hadiwidjaja
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-09-19-presiden-soeharto-penertiban-jalan-raya-jangan-ganggu-pengangkutan-bahan-pokok/
+  judul: '1972-09-19 Presiden Soeharto: Penertiban Jalan Raya Jangan Ganggu Pengangkutan
+    Bahan Pokok'
+  tanggal: '1972-09-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-09-19-presiden-soeharto-penertiban-jalan-raya-jangan-ganggu-pengangkutan-bahan-pokok/
 ---
+
 
 # 1972-09-19 Presiden Soeharto: Penertiban Jalan Raya Jangan Ganggu Pengangkutan Bahan Pokok
 

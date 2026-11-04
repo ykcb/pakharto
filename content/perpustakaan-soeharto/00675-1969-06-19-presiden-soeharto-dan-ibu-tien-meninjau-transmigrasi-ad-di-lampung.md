@@ -1,9 +1,40 @@
 ---
-title: "1969-06-19 Presiden Soeharto dan Ibu Tien Meninjau Transmigrasi AD di Lampung – HM Soeharto"
-source: "https://soehartolibrary.id/1969-06-19-presiden-soeharto-dan-ibu-tien-meninjau-transmigrasi-ad-di-lampung/"
-date: "2017-08-24T15:30:23+07:00"
+title: 1969-06-19 Presiden Soeharto dan Ibu Tien Meninjau Transmigrasi AD di Lampung
+description: KAMIS, 19 JUNI 1969, Presiden dan Ibu Tien Soeharto hari ini meninggalkan
+  Jakarta menuju Lampung untuk melakukan peninjauan sehari di provinsi itu. Di sana
+  Presiden meninjau proyek pertanian Kosgoro dan perkampungan Transad...
+date: '1969-06-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-06-19-presiden-soeharto-dan-ibu-tien-meninjau-transmigrasi-ad-di-lampung
+aliases:
+- Presiden Soeharto dan Ibu Tien Meninjau Transmigrasi AD di Lampung
+- 1969-06-19 Presiden Soeharto dan Ibu Tien Meninjau Transmigrasi AD di Lampung –
+  HM Soeharto
+tags:
+- ibu-tien
+- kosgoro
+- lampung-tengah
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- transmigrasi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-06-19-presiden-soeharto-dan-ibu-tien-meninjau-transmigrasi-ad-di-lampung/
+  judul: 1969-06-19 Presiden Soeharto dan Ibu Tien Meninjau Transmigrasi AD di Lampung
+  tanggal: '1969-06-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-06-19-presiden-soeharto-dan-ibu-tien-meninjau-transmigrasi-ad-di-lampung/
 ---
+
 
 # 1969-06-19 Presiden Soeharto dan Ibu Tien Meninjau Transmigrasi AD di Lampung
 

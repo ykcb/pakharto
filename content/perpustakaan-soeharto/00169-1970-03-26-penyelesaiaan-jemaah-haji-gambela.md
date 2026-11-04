@@ -1,9 +1,41 @@
 ---
-title: "1970-03-26 Penyelesaiaan Jemaah Haji Gambela – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-26-penyelesaiaan-jemaah-haji-gambela/"
-date: "2017-08-29T17:20:31+07:00"
+title: 1970-03-26 Penyelesaiaan Jemaah Haji Gambela
+description: KAMIS, 26 Maret 1970, Presiden Soeharto menginstruksikan kepada Jaksa
+  Agung agar persoalan jemaah haji “Gambela” dapat diselesaikan dengan bijaksana,
+  mengingat masalah ini menyangkut persoalan haji dan agama. (AFR)
+date: '1970-03-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-26-penyelesaiaan-jemaah-haji-gambela
+aliases:
+- Penyelesaiaan Jemaah Haji Gambela
+- 1970-03-26 Penyelesaiaan Jemaah Haji Gambela – HM Soeharto
+tags:
+- gambela
+- haji
+- harto
+- jamaah
+- orde-baru
+- pak
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-26-penyelesaiaan-jemaah-haji-gambela/
+  judul: 1970-03-26 Penyelesaiaan Jemaah Haji Gambela
+  tanggal: '1970-03-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-26-penyelesaiaan-jemaah-haji-gambela/
 ---
+
 
 # 1970-03-26 Penyelesaiaan Jemaah Haji Gambela
 

@@ -1,9 +1,49 @@
 ---
-title: "Semasa Kesatuan Aksi Mahasiswa Bermunculan – HM Soeharto"
-source: "https://soehartolibrary.id/semasa-kesatuan-aksi-mahasiswa-bermunculan/"
-date: "2018-01-10T19:20:39+07:00"
+title: Semasa Kesatuan Aksi Mahasiswa Bermunculan
+description: Pada tanggal 6 Oktober 1965 Presiden Soekarno memanggil kabinet untuk
+  bersidang di Istana Bogor. Saya pun dipanggilnya untuk datang dan memberikan laporan
+  mengenai situasi.
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: semasa-kesatuan-aksi-mahasiswa-bermunculan
+aliases:
+- Semasa Kesatuan Aksi Mahasiswa Bermunculan – HM Soeharto
+tags:
+- ade
+- aksi
+- bogor
+- complex
+- irma
+- istana
+- kabinet
+- kap-gestapu
+- kesatuan
+- makasiswa
+- merapi
+- merbabu
+- nasution
+- nyoto
+- orde-baru
+- perpustakaan-soeharto
+- sidang
+- suryani
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/semasa-kesatuan-aksi-mahasiswa-bermunculan/
+  judul: Semasa Kesatuan Aksi Mahasiswa Bermunculan
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/semasa-kesatuan-aksi-mahasiswa-bermunculan/
 ---
+
 
 # Semasa Kesatuan Aksi Mahasiswa Bermunculan
 

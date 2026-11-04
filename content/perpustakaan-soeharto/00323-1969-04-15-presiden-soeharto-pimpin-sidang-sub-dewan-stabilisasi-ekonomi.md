@@ -1,9 +1,42 @@
 ---
-title: "1969-04-15 Presiden Soeharto Pimpin Sidang Sub Dewan Stabilisasi Ekonomi – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-15-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi/"
-date: "2014-03-22T02:58:36+07:00"
+title: 1969-04-15 Presiden Soeharto Pimpin Sidang Sub Dewan Stabilisasi Ekonomi
+description: SELASA, 15 APRIL 1969, Hari ini di Istana Merdeka, Jakarta, Presiden
+  Soeharto memimpin sidang Sub-Dewan Stabilisasi Ekonomi. Sidang kali ini mendengar
+  laporan Menteri Perindustrian M Jusuf tentang perluasan pabrik pupuk Pusri di...
+date: '1969-04-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-15-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi
+aliases:
+- Presiden Soeharto Pimpin Sidang Sub Dewan Stabilisasi Ekonomi
+- 1969-04-15 Presiden Soeharto Pimpin Sidang Sub Dewan Stabilisasi Ekonomi – HM Soeharto
+tags:
+- asian-development-bank
+- jenderal-soeharto
+- keuangan
+- menteri-perdagangan
+- orde-baru
+- pak-harto
+- perindustrian
+- perpustakaan-soeharto
+- presiden-soeharto
+- stabilisasi-ekonomi
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-15-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi/
+  judul: 1969-04-15 Presiden Soeharto Pimpin Sidang Sub Dewan Stabilisasi Ekonomi
+  tanggal: '1969-04-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-15-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi/
 ---
+
 
 # 1969-04-15 Presiden Soeharto Pimpin Sidang Sub Dewan Stabilisasi Ekonomi
 

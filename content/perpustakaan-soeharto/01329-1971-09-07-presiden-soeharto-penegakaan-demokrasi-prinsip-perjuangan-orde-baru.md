@@ -1,9 +1,42 @@
 ---
-title: "1971-09-07 Presiden Soeharto: Penegakaan Demokrasi Prinsip Perjuangan Orde Baru – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-07-presiden-soeharto-penegakaan-demokrasi-prinsip-perjuangan-orde-baru/"
-date: "2017-08-23T11:14:00+07:00"
+title: '1971-09-07 Presiden Soeharto: Penegakaan Demokrasi Prinsip Perjuangan Orde
+  Baru'
+description: 12 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-07-presiden-soeharto-penegakaan-demokrasi-prinsip-perjuangan-orde-baru/respond)
+  90 Views Share on
+date: '1971-09-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-07-presiden-soeharto-penegakaan-demokrasi-prinsip-perjuangan-orde-baru
+aliases:
+- 'Presiden Soeharto: Penegakaan Demokrasi Prinsip Perjuangan Orde Baru'
+- '1971-09-07 Presiden Soeharto: Penegakaan Demokrasi Prinsip Perjuangan Orde Baru
+  – HM Soeharto'
+tags:
+- ibu-tien
+- keluarga-berencana
+- orde-baru
+- pekan-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- riau
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-07-presiden-soeharto-penegakaan-demokrasi-prinsip-perjuangan-orde-baru/
+  judul: '1971-09-07 Presiden Soeharto: Penegakaan Demokrasi Prinsip Perjuangan Orde
+    Baru'
+  tanggal: '1971-09-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-07-presiden-soeharto-penegakaan-demokrasi-prinsip-perjuangan-orde-baru/
 ---
+
 
 # 1971-09-07 Presiden Soeharto: Penegakaan Demokrasi Prinsip Perjuangan Orde Baru
 

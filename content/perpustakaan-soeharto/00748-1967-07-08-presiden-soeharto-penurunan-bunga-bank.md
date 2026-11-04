@@ -1,9 +1,42 @@
 ---
-title: "1967-07-08 Presiden Soeharto Menyetujui Penurunan Bunga Bank – HM Soeharto"
-source: "https://soehartolibrary.id/1967-07-08-presiden-soeharto-penurunan-bunga-bank/"
-date: "2014-04-01T02:00:08+07:00"
+title: 1967-07-08 Presiden Soeharto Menyetujui Penurunan Bunga Bank
+description: SELASA, 08 Juli 1969. Sebagai hasil sidang kabinet paripurna di Istana
+  Negara pagi ini, Presiden Soeharto menyetujui dilakukannya penurunan bunga bank,
+  yang mulai berlaku tanggal 10 Juli mendatang. Suku bunga deposito berjangka...
+date: '1967-07-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1967-07-08-presiden-soeharto-penurunan-bunga-bank
+aliases:
+- Presiden Soeharto Menyetujui Penurunan Bunga Bank
+- 1967-07-08 Presiden Soeharto Menyetujui Penurunan Bunga Bank – HM Soeharto
+tags:
+- bappenas
+- bina-graha
+- bunga-bank
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- penataran
+- perpustakaan-soeharto
+- presiden-soeharto
+- proyek
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1967-07-08-presiden-soeharto-penurunan-bunga-bank/
+  judul: 1967-07-08 Presiden Soeharto Menyetujui Penurunan Bunga Bank
+  tanggal: '1967-07-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1967-07-08-presiden-soeharto-penurunan-bunga-bank/
 ---
+
 
 # 1967-07-08 Presiden Soeharto Menyetujui Penurunan Bunga Bank
 

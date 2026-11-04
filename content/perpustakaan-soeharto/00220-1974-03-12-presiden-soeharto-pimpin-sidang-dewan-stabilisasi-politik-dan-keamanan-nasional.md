@@ -1,9 +1,44 @@
 ---
-title: "1974-03-12 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Politik dan Keamanan Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-12-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional/"
-date: "2017-08-29T17:40:16+07:00"
+title: 1974-03-12 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Politik dan Keamanan
+  Nasional
+description: SELASA, 12 Maret 1974, Dewan Stabilisasi Politik dan Keamanan Nasional
+  kembali bersidang jam 10.00 pagi di Bina Graha. Sidang yang di pimpin oleh Presiden
+  Soeharto itu telah mengambil beberapa keputusan. Pertama, mulai tanggal 1 April...
+date: '1974-03-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-12-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional
+aliases:
+- Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Politik dan Keamanan Nasional
+- 1974-03-12 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Politik dan Keamanan
+  Nasional – HM Soeharto
+tags:
+- keamanan
+- kopkamtib
+- nasional
+- orde-baru
+- partai-politik
+- perpustakaan-soeharto
+- politik
+- presiden-soeharto
+- stabilisasi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-12-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional/
+  judul: 1974-03-12 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Politik dan
+    Keamanan Nasional
+  tanggal: '1974-03-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-12-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional/
 ---
+
 
 # 1974-03-12 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Politik dan Keamanan Nasional
 

@@ -1,9 +1,41 @@
 ---
-title: "1969-08-28 Presiden Soeharto Menerima Surat Kepercayaan Dubes Soviet – HM Soeharto"
-source: "https://soehartolibrary.id/1969-08-28-presiden-soeharto-menerima-surat-kepercayaan-dubes-soviet/"
-date: "2017-08-24T15:16:01+07:00"
+title: 1969-08-28 Presiden Soeharto Menerima Surat Kepercayaan Dubes Soviet
+description: KAMIS, 28 AGUSTUS 1969, Pagi ini Presiden Soeharto menerima surat kepercayaan
+  dari duta besar Uni Soviet yang baru, Mikhail Mikhilovich Walkov, di Istana Merdeka.
+  Dalam Pidatonya, Presiden menyatakan penghargaannya terhadap maksud Uni...
+date: '1969-08-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-08-28-presiden-soeharto-menerima-surat-kepercayaan-dubes-soviet
+aliases:
+- Presiden Soeharto Menerima Surat Kepercayaan Dubes Soviet
+- 1969-08-28 Presiden Soeharto Menerima Surat Kepercayaan Dubes Soviet – HM Soeharto
+tags:
+- duta-besar
+- jenderal-soeharto
+- mikhail-mikhilovich-walkov
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- pidato-presiden
+- presiden-soeharto
+- soviet
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-08-28-presiden-soeharto-menerima-surat-kepercayaan-dubes-soviet/
+  judul: 1969-08-28 Presiden Soeharto Menerima Surat Kepercayaan Dubes Soviet
+  tanggal: '1969-08-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-08-28-presiden-soeharto-menerima-surat-kepercayaan-dubes-soviet/
 ---
+
 
 # 1969-08-28 Presiden Soeharto Menerima Surat Kepercayaan Dubes Soviet
 

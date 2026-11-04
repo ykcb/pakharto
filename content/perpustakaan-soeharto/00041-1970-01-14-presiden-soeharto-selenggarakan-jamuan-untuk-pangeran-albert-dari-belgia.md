@@ -1,9 +1,53 @@
 ---
-title: "1970-01-14 Presiden Soeharto Selenggarakan Jamuan Untuk Pangeran Albert dari Belgia – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-14-presiden-soeharto-selenggarakan-jamuan-untuk-pangeran-albert-dari-belgia/"
-date: "2017-08-28T17:11:58+07:00"
+title: 1970-01-14 Presiden Soeharto Selenggarakan Jamuan Untuk Pangeran Albert dari
+  Belgia
+description: RABU 14 JANUARI 1970, Presiden dan Ibu Soeharto malam ini bertempat di
+  kediaman Jalan Cendana, Jakarta menyelenggarakan jamuan makan malam untuk menghormati
+  kunjungan Pangeran Albert dari Belgia. Pada kesempatan itu Presiden...
+date: '1970-01-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-14-presiden-soeharto-selenggarakan-jamuan-untuk-pangeran-albert-dari-belgia
+aliases:
+- Presiden Soeharto Selenggarakan Jamuan Untuk Pangeran Albert dari Belgia
+- 1970-01-14 Presiden Soeharto Selenggarakan Jamuan Untuk Pangeran Albert dari Belgia
+  – HM Soeharto
+tags:
+- albert
+- bapak-pembangunan
+- belgia
+- bina-graha
+- cendana
+- eropa
+- gbhn
+- istana-merdeka
+- kenegaraan
+- macan-asia
+- menjamu
+- orde-baru
+- pangeran
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- tinggal-landas-2
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-14-presiden-soeharto-selenggarakan-jamuan-untuk-pangeran-albert-dari-belgia/
+  judul: 1970-01-14 Presiden Soeharto Selenggarakan Jamuan Untuk Pangeran Albert dari
+    Belgia
+  tanggal: '1970-01-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-14-presiden-soeharto-selenggarakan-jamuan-untuk-pangeran-albert-dari-belgia/
 ---
+
 
 # 1970-01-14 Presiden Soeharto Selenggarakan Jamuan Untuk Pangeran Albert dari Belgia
 

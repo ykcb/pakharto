@@ -1,9 +1,39 @@
 ---
-title: "1972-05-04 Presiden Soeharto Tertibkan Kendaraan Angkutan – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-04-presiden-soeharto-tertibkan-kendaraan-angkutan/"
-date: "2014-03-22T02:51:55+07:00"
+title: 1972-05-04 Presiden Soeharto Tertibkan Kendaraan Angkutan
+description: KAMIS, 4 Mei 1972, Presiden Soeharto memutuskan untuk mengambil tindakan
+  tegas terhadap kendaraan angkutan yang beratnya melampaui ketentuan sehingga menimbulkan
+  kerusakan jalan. Untuk itu pemerintah melarang pemasukan truk-truk yang...
+date: '1972-05-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-04-presiden-soeharto-tertibkan-kendaraan-angkutan
+aliases:
+- Presiden Soeharto Tertibkan Kendaraan Angkutan
+- 1972-05-04 Presiden Soeharto Tertibkan Kendaraan Angkutan – HM Soeharto
+tags:
+- departemen-perhubungan
+- jalan
+- kendaraan-angkutan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tonase
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-04-presiden-soeharto-tertibkan-kendaraan-angkutan/
+  judul: 1972-05-04 Presiden Soeharto Tertibkan Kendaraan Angkutan
+  tanggal: '1972-05-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-04-presiden-soeharto-tertibkan-kendaraan-angkutan/
 ---
+
 
 # 1972-05-04 Presiden Soeharto Tertibkan Kendaraan Angkutan
 

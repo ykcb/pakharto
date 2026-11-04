@@ -1,9 +1,40 @@
 ---
-title: "1975-02-15 Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara – HM Soeharto"
-source: "https://soehartolibrary.id/1975-02-15-presiden-soeharto-tertibkan-perilaku-buruk-aparatur-negara/"
-date: "2017-08-29T17:46:05+07:00"
+title: 1975-02-15 Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara
+description: SABTU, 15 MARET 1975, Hasil sensus pegawai negeri yang dilaksanakan pada
+  tahun yang lalu, jam 10.30 pagi ini diserahkan oleh Menteri PAN, Sumarlin, Kepada
+  Presiden Soeharto dalam suatu acara di Istana Merdeka. Turut menyaksikan...
+date: '1975-02-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-02-15-presiden-soeharto-tertibkan-perilaku-buruk-aparatur-negara
+aliases:
+- Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara
+- 1975-02-15 Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara – HM Soeharto
+tags:
+- aparatur-negara
+- karpeg
+- nip
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- sumarlin
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-02-15-presiden-soeharto-tertibkan-perilaku-buruk-aparatur-negara/
+  judul: 1975-02-15 Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara
+  tanggal: '1975-02-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-02-15-presiden-soeharto-tertibkan-perilaku-buruk-aparatur-negara/
 ---
+
 
 # 1975-02-15 Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara
 

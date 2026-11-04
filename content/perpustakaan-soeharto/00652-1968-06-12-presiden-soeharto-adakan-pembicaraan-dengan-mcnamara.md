@@ -1,9 +1,38 @@
 ---
-title: "1968-06-12 Presiden Soeharto Adakan Pembicaraan dengan McNamara – HM Soeharto"
-source: "https://soehartolibrary.id/1968-06-12-presiden-soeharto-adakan-pembicaraan-dengan-mcnamara/"
-date: "2017-08-29T16:59:52+07:00"
+title: 1968-06-12 Presiden Soeharto Adakan Pembicaraan dengan McNamara
+description: RABU, 12 JUNI 1968, Bertempat di kediaman Jalan Cendana, Jakarta, Presiden
+  Soeharto pagi ini mengadakan pembicaraan dengan McNamara, Presiden Bank Dunia. MacNamara
+  yang tiba kemarin sore, kini sedang mengadakan kunjungan resmi di...
+date: '1968-06-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-06-12-presiden-soeharto-adakan-pembicaraan-dengan-mcnamara
+aliases:
+- Presiden Soeharto Adakan Pembicaraan dengan McNamara
+- 1968-06-12 Presiden Soeharto Adakan Pembicaraan dengan McNamara – HM Soeharto
+tags:
+- bank-dunia
+- jalan-cendana
+- mcnamara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-06-12-presiden-soeharto-adakan-pembicaraan-dengan-mcnamara/
+  judul: 1968-06-12 Presiden Soeharto Adakan Pembicaraan dengan McNamara
+  tanggal: '1968-06-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-06-12-presiden-soeharto-adakan-pembicaraan-dengan-mcnamara/
 ---
+
 
 # 1968-06-12 Presiden Soeharto Adakan Pembicaraan dengan McNamara
 

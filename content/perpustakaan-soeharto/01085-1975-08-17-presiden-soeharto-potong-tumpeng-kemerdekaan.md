@@ -1,9 +1,45 @@
 ---
-title: "1975-08-17 Presiden Soeharto Potong Tumpeng Kemerdekaan – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-17-presiden-soeharto-potong-tumpeng-kemerdekaan/"
-date: "2017-08-22T17:48:20+07:00"
+title: 1975-08-17 Presiden Soeharto Potong Tumpeng Kemerdekaan
+description: 27 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-17-presiden-soeharto-potong-tumpeng-kemerdekaan/respond)
+  230 Views Share on
+date: '1975-08-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-17-presiden-soeharto-potong-tumpeng-kemerdekaan
+aliases:
+- Presiden Soeharto Potong Tumpeng Kemerdekaan
+- 1975-08-17 Presiden Soeharto Potong Tumpeng Kemerdekaan – HM Soeharto
+tags:
+- chalik
+- kemerdekaan
+- korps-diplomatik
+- nyonya-djuanda
+- ob-sjaf
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tumpeng
+- veteran
+- warakawuri
+- widya-pranata
+- wredhatama
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-17-presiden-soeharto-potong-tumpeng-kemerdekaan/
+  judul: 1975-08-17 Presiden Soeharto Potong Tumpeng Kemerdekaan
+  tanggal: '1975-08-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-17-presiden-soeharto-potong-tumpeng-kemerdekaan/
 ---
+
 
 # 1975-08-17 Presiden Soeharto Potong Tumpeng Kemerdekaan
 

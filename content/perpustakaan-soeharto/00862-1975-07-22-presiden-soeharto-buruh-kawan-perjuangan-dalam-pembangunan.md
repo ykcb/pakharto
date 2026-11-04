@@ -1,9 +1,37 @@
 ---
-title: "1975-07-22 Presiden Soeharto: Buruh, Kawan Perjuangan dalam Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-22-presiden-soeharto-buruh-kawan-perjuangan-dalam-pembangunan/"
-date: "2017-08-23T11:43:16+07:00"
+title: '1975-07-22 Presiden Soeharto: Buruh, Kawan Perjuangan dalam Pembangunan'
+description: SELASA, 22 Juli 1975 Rapat kerja Departemen Tenaga Kerja, Transmigrasi
+  dan Koperasi dibuka pagi ini oleh Presiden Soeharto di Bina Graha. Dalam amanatnya,
+  Kepala Negara mengatakan bahwa kini mutlak perlu adanya perjanjian perburuhan...
+date: '1975-07-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-22-presiden-soeharto-buruh-kawan-perjuangan-dalam-pembangunan
+aliases:
+- 'Presiden Soeharto: Buruh, Kawan Perjuangan dalam Pembangunan'
+- '1975-07-22 Presiden Soeharto: Buruh, Kawan Perjuangan dalam Pembangunan – HM Soeharto'
+tags:
+- orde-baru
+- pancasila
+- perburuhan
+- perpustakaan-soeharto
+- presiden-soehareto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-22-presiden-soeharto-buruh-kawan-perjuangan-dalam-pembangunan/
+  judul: '1975-07-22 Presiden Soeharto: Buruh, Kawan Perjuangan dalam Pembangunan'
+  tanggal: '1975-07-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-22-presiden-soeharto-buruh-kawan-perjuangan-dalam-pembangunan/
 ---
+
 
 # 1975-07-22 Presiden Soeharto: Buruh, Kawan Perjuangan dalam Pembangunan
 

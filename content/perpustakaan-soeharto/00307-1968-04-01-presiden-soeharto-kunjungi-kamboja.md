@@ -1,9 +1,40 @@
 ---
-title: "1968-04-01 Presiden Soeharto Kunjungi Kamboja – HM Soeharto"
-source: "https://soehartolibrary.id/1968-04-01-presiden-soeharto-kunjungi-kamboja/"
-date: "2016-06-17T15:00:04+07:00"
+title: 1968-04-01 Presiden Soeharto Kunjungi Kamboja
+description: KAMIS, 1 APRIL 1968, Presiden Soeharto tiba di Phnom Penh dari Tokyo
+  dalam rangka kunjungan kenegaraan di Kamboja. Untuk menghormati Presiden dan Ibu
+  Tien Soeharto, malam ini Pangeran Sihanouk Kepala Negara Kamboja, menyelenggarakan...
+date: '1968-04-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-04-01-presiden-soeharto-kunjungi-kamboja
+aliases:
+- Presiden Soeharto Kunjungi Kamboja
+- 1968-04-01 Presiden Soeharto Kunjungi Kamboja – HM Soeharto
+tags:
+- asia-tenggara
+- jenderal-soeharto
+- kamboja
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-04-01-presiden-soeharto-kunjungi-kamboja/
+  judul: 1968-04-01 Presiden Soeharto Kunjungi Kamboja
+  tanggal: '1968-04-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-04-01-presiden-soeharto-kunjungi-kamboja/
 ---
+
 
 # 1968-04-01 Presiden Soeharto Kunjungi Kamboja
 

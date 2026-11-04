@@ -1,9 +1,39 @@
 ---
-title: "1970-02-04 Peran dan Tanggung Jawab Aparat Kejaksaan – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-04-peran-dan-tanggung-jawab-aparat-kejaksaan/"
-date: "2014-11-21T06:18:41+07:00"
+title: 1970-02-04 Peran dan Tanggung Jawab Aparat Kejaksaan
+description: KAMIS, 4 PEBRUARI Pagi hari Presiden Soeharto menghadiri penutupan rapat
+  kerja kejaksaan di Kejaksaan Agung, Jakarta. Dalam amanatnya, Presiden Soeharto
+  meminta agar segenap aparat kejaksaan dan penegak hukum di Indonesia dapat...
+date: '1970-02-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-04-peran-dan-tanggung-jawab-aparat-kejaksaan
+aliases:
+- Peran dan Tanggung Jawab Aparat Kejaksaan
+- 1970-02-04 Peran dan Tanggung Jawab Aparat Kejaksaan – HM Soeharto
+tags:
+- agung
+- hukum
+- kejaksaan
+- kesadaran
+- masyarakat
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-04-peran-dan-tanggung-jawab-aparat-kejaksaan/
+  judul: 1970-02-04 Peran dan Tanggung Jawab Aparat Kejaksaan
+  tanggal: '1970-02-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-04-peran-dan-tanggung-jawab-aparat-kejaksaan/
 ---
+
 
 # 1970-02-04 Peran dan Tanggung Jawab Aparat Kejaksaan
 

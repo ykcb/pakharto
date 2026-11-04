@@ -1,9 +1,44 @@
 ---
-title: "1975-04-15 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional/"
-date: "2017-08-28T16:49:32+07:00"
+title: 1975-04-15 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi Nasional
+description: SELASA, 15 April 1975, Kepala Negara memimpin Sidang Dewan Stabilisasi
+  Ekonomi Nasional di Bina Graha pagi ini. Sidang yang berlangsung mulai jam 10.00
+  itu, antara lain telah membicarakan masalah perkembangan harga dan moneter pada...
+date: '1975-04-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional
+aliases:
+- Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi Nasional
+- 1975-04-15 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi Nasional –
+  HM Soeharto
+tags:
+- gresik
+- m-jusuf
+- menteri-perindustrian
+- orde-baru
+- padang
+- perpustakaan-soeharto
+- presiden-soeharto
+- pt-krakatau-steel
+- semen
+- t-ariwibowo
+- tonasa
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional/
+  judul: 1975-04-15 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi Nasional
+  tanggal: '1975-04-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional/
 ---
+
 
 # 1975-04-15 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi Nasional
 

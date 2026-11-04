@@ -1,9 +1,37 @@
 ---
-title: "1968-08-07 Presiden Soeharto Menerima Para Menlu ASEAN – HM Soeharto"
-source: "https://soehartolibrary.id/1968-08-07-presiden-soeharto-menerima-para-menlu-asean/"
-date: "2017-08-23T11:38:25+07:00"
+title: 1968-08-07 Presiden Soeharto Menerima Para Menlu ASEAN
+description: SELASA, 07 AGUSTUS 1968, Jam 09.00 pagi ini, Presiden Soeharto menerima
+  kunjungan kehormatan para menteri luar negeri negara-negara ASEAN bertempat di Istana
+  Merdeka, Jakarta. Para menteri luar negeri ASEAN berada di Jakarta dalam...
+date: '1968-08-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-08-07-presiden-soeharto-menerima-para-menlu-asean
+aliases:
+- Presiden Soeharto Menerima Para Menlu ASEAN
+- 1968-08-07 Presiden Soeharto Menerima Para Menlu ASEAN – HM Soeharto
+tags:
+- konferensi-tingkat-menteri
+- menlu-asean
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-08-07-presiden-soeharto-menerima-para-menlu-asean/
+  judul: 1968-08-07 Presiden Soeharto Menerima Para Menlu ASEAN
+  tanggal: '1968-08-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-08-07-presiden-soeharto-menerima-para-menlu-asean/
 ---
+
 
 # 1968-08-07 Presiden Soeharto Menerima Para Menlu ASEAN
 

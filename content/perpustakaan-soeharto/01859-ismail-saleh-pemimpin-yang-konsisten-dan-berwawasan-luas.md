@@ -1,9 +1,37 @@
 ---
-title: "Ismail Saleh: Pak Harto Pemimpin Yang Konsisten Dan Berwawasan Luas – HM Soeharto"
-source: "https://soehartolibrary.id/ismail-saleh-pemimpin-yang-konsisten-dan-berwawasan-luas/"
-date: "2014-11-25T12:33:42+07:00"
+title: 'Ismail Saleh: Pak Harto Pemimpin Yang Konsisten Dan Berwawasan Luas'
+description: 10 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/ismail-saleh-pemimpin-yang-konsisten-dan-berwawasan-luas/respond)
+  163 Views Share on
+date: '2014-11-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: ismail-saleh-pemimpin-yang-konsisten-dan-berwawasan-luas
+aliases:
+- 'Ismail Saleh: Pak Harto Pemimpin Yang Konsisten Dan Berwawasan Luas – HM Soeharto'
+tags:
+- ismail-saleh
+- kepala-negara
+- menteri-kehakiman
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/ismail-saleh-pemimpin-yang-konsisten-dan-berwawasan-luas/
+  judul: 'Ismail Saleh: Pak Harto Pemimpin Yang Konsisten Dan Berwawasan Luas'
+  tanggal: '2014-11-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/ismail-saleh-pemimpin-yang-konsisten-dan-berwawasan-luas/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/scan11_50_result.jpg)
 

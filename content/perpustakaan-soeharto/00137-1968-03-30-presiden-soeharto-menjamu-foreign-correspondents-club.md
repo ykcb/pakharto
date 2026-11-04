@@ -1,9 +1,45 @@
 ---
-title: "1968-03-30 Presiden Soeharto Menjamu Foreign Correspondents Club – HM Soeharto"
-source: "https://soehartolibrary.id/1968-03-30-presiden-soeharto-menjamu-foreign-correspondents-club/"
-date: "2017-08-29T17:04:49+07:00"
+title: 1968-03-30 Presiden Soeharto Menjamu Foreign Correspondents Club
+description: SABTU, 30 MARET 1968, Pada jamuan makan siang yang diselenggarakan oleh
+  Foreign Correspondents Club untuk menghormati kunjungannya di Jepang, Presiden Soeharto
+  memberikan penjelasan tentang Pancasila, politik dalam dan luar negeri RI,...
+date: '1968-03-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-03-30-presiden-soeharto-menjamu-foreign-correspondents-club
+aliases:
+- Presiden Soeharto Menjamu Foreign Correspondents Club
+- 1968-03-30 Presiden Soeharto Menjamu Foreign Correspondents Club – HM Soeharto
+tags:
+- asia-tenggara
+- club
+- correspondents
+- foreign
+- jepang
+- luar-negeri
+- militer
+- orde-baru
+- pakta-militer
+- pancasila
+- pangkalan
+- perpustakaan-soeharto
+- tokyo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-03-30-presiden-soeharto-menjamu-foreign-correspondents-club/
+  judul: 1968-03-30 Presiden Soeharto Menjamu Foreign Correspondents Club
+  tanggal: '1968-03-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-03-30-presiden-soeharto-menjamu-foreign-correspondents-club/
 ---
+
 
 # 1968-03-30 Presiden Soeharto Menjamu Foreign Correspondents Club
 

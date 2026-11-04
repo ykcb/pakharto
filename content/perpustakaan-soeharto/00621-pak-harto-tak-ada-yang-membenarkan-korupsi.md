@@ -1,9 +1,39 @@
 ---
-title: "Pak Harto: Tak Ada Yang Membenarkan Korupsi – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-tak-ada-yang-membenarkan-korupsi/"
-date: "2018-01-19T14:41:58+07:00"
+title: 'Pak Harto: Tak Ada Yang Membenarkan Korupsi'
+description: Orang pernah ramai bicara mengenai korupsi. Di tahun 1973 Ketua IGGI
+  Menteri J.P. Pronk datang di Jakarta. Para mahasiswa bicara dengannya mengenai soal
+  korupsi. lalu kegiatan para mahasiswa itu bermuara pada yang disebut “Malari” di...
+date: '2018-01-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-tak-ada-yang-membenarkan-korupsi
+aliases:
+- 'Pak Harto: Tak Ada Yang Membenarkan Korupsi – HM Soeharto'
+tags:
+- jaksa-agung
+- kasimo
+- komisi-anti-korupsi
+- komisi-empat
+- orde-baru
+- pak-harto
+- pekuneg
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-tak-ada-yang-membenarkan-korupsi/
+  judul: 'Pak Harto: Tak Ada Yang Membenarkan Korupsi'
+  tanggal: '2018-01-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-tak-ada-yang-membenarkan-korupsi/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/05/meninjau-Proyek.jpg)
 

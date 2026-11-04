@@ -1,9 +1,43 @@
 ---
-title: "1973-08-08 Presiden Soeharto Lantik Ketua dan Anggota DPA – HM Soeharto"
-source: "https://soehartolibrary.id/1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa/"
-date: "2017-08-23T11:37:06+07:00"
+title: 1973-08-08 Presiden Soeharto Lantik Ketua dan Anggota DPA
+description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa/respond)
+  112 Views Share on
+date: '1973-08-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa
+aliases:
+- Presiden Soeharto Lantik Ketua dan Anggota DPA
+- 1973-08-08 Presiden Soeharto Lantik Ketua dan Anggota DPA – HM Soeharto
+tags:
+- anwar-tjokroaminoto
+- dpa
+- hardi-sh
+- kh-moh-dahlan
+- letjen-purn-sarbini
+- letjen-purn-tb-simatupang
+- letjend-purn-d-suprayogi
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- wilopo-sh
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa/
+  judul: 1973-08-08 Presiden Soeharto Lantik Ketua dan Anggota DPA
+  tanggal: '1973-08-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa/
 ---
+
 
 # 1973-08-08 Presiden Soeharto Lantik Ketua dan Anggota DPA
 

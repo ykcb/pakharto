@@ -1,9 +1,45 @@
 ---
-title: "1972-09-16 Presiden Soeharto Lantik Lima Duta Besar – HM Soeharto"
-source: "https://soehartolibrary.id/1972-09-16-presiden-soeharto-lantik-lima-duta-besar/"
-date: "2017-08-23T11:03:23+07:00"
+title: 1972-09-16 Presiden Soeharto Lantik Lima Duta Besar
+description: 14 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-09-16-presiden-soeharto-lantik-lima-duta-besar/respond)
+  91 Views Share on
+date: '1972-09-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-09-16-presiden-soeharto-lantik-lima-duta-besar
+aliases:
+- Presiden Soeharto Lantik Lima Duta Besar
+- 1972-09-16 Presiden Soeharto Lantik Lima Duta Besar – HM Soeharto
+tags:
+- a-abubakar
+- abubakar-lubis
+- bangladesh
+- bulgaria
+- irak
+- lran
+- maimun-habsyah
+- malikuswari-muchtar
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rukminto-hendraningrat
+- singapura
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-09-16-presiden-soeharto-lantik-lima-duta-besar/
+  judul: 1972-09-16 Presiden Soeharto Lantik Lima Duta Besar
+  tanggal: '1972-09-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-09-16-presiden-soeharto-lantik-lima-duta-besar/
 ---
+
 
 # 1972-09-16 Presiden Soeharto Lantik Lima Duta Besar
 

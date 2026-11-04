@@ -1,9 +1,37 @@
 ---
-title: "1970-08-15 Pemerintah Bubarkan Komite Anti Korupsi – HM Soeharto"
-source: "https://soehartolibrary.id/1970-08-1970-pemerintah-bubarkan-komite-anti-korupsi/"
-date: "2014-11-21T06:22:52+07:00"
+title: 1970-08-15 Pemerintah Bubarkan Komite Anti Korupsi
+description: SABTU, 15 AGUSTUS 1970, Pemerintah membubarkan “Komite Anti Korupsi”
+  dan kelompok-kelompok lain yang sejenis dengannya. (AFR).
+date: '1970-08-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-08-1970-pemerintah-bubarkan-komite-anti-korupsi
+aliases:
+- Pemerintah Bubarkan Komite Anti Korupsi
+- 1970-08-15 Pemerintah Bubarkan Komite Anti Korupsi – HM Soeharto
+tags:
+- jenderal-soeharto
+- komite-anti-korupsi
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-08-1970-pemerintah-bubarkan-komite-anti-korupsi/
+  judul: 1970-08-15 Pemerintah Bubarkan Komite Anti Korupsi
+  tanggal: '1970-08-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-08-1970-pemerintah-bubarkan-komite-anti-korupsi/
 ---
+
 
 # 1970-08-15 Pemerintah Bubarkan Komite Anti Korupsi
 

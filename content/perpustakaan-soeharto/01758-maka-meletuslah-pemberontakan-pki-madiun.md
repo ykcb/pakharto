@@ -1,9 +1,43 @@
 ---
-title: "Maka Meletuslah Pemberontakan PKI Madiun – HM Soeharto"
-source: "https://soehartolibrary.id/maka-meletuslah-pemberontakan-pki-madiun/"
-date: "2018-01-10T19:07:32+07:00"
+title: Maka Meletuslah Pemberontakan PKI Madiun
+description: 6 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/maka-meletuslah-pemberontakan-pki-madiun/respond)
+  200 Views Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: maka-meletuslah-pemberontakan-pki-madiun
+aliases:
+- Maka Meletuslah Pemberontakan PKI Madiun – HM Soeharto
+tags:
+- alimin
+- amir-syarifudin
+- hatta
+- jenderal-soedirman
+- kepala-negara
+- muso
+- orde-baru
+- panembahan-senopati
+- perpustakaan-soeharto
+- presiden-soeharto
+- solo
+- suadi
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/maka-meletuslah-pemberontakan-pki-madiun/
+  judul: Maka Meletuslah Pemberontakan PKI Madiun
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/maka-meletuslah-pemberontakan-pki-madiun/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0412-copy_result.jpg)
 

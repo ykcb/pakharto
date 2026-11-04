@@ -1,9 +1,58 @@
 ---
-title: "1969-08-06 Presiden Soeharto Lanjutkan Konsultasi Dengan Partai-Partai Islam – HM Soeharto"
-source: "https://soehartolibrary.id/1969-08-06-presiden-soeharto-lanjutkan-konsultasi-dengan-partai-partai-islam/"
-date: "2017-08-24T15:20:42+07:00"
+title: 1969-08-06 Presiden Soeharto Lanjutkan Konsultasi Dengan Partai-Partai Islam
+description: RABU, 06 AGUSTUS 1969, Malam ini di Istana Merdeka, Presiden Soeharto
+  melanjutkan konsultasinya dengan partai-partai Islam, dengan menerima pemimpin-pemimpin
+  PSII, dan Parmusi, dalam rangka persiapan Kongres Umat Islam Indonesia (KUII)....
+date: '1969-08-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-08-06-presiden-soeharto-lanjutkan-konsultasi-dengan-partai-partai-islam
+aliases:
+- Presiden Soeharto Lanjutkan Konsultasi Dengan Partai-Partai Islam
+- 1969-08-06 Presiden Soeharto Lanjutkan Konsultasi Dengan Partai-Partai Islam – HM
+  Soeharto
+tags:
+- agus-sujono
+- bustaman-sh
+- drs-hasbullah
+- drs-mohammad-gobel
+- faisal-basir-sh
+- h-anwar-tjokroamonoto
+- h-djarnawi-hadikusumo
+- h-moch-ibrahim
+- h-uwes-abubakar
+- hamid-margana
+- indonesia
+- ir-mohd-sanusi
+- j-naro-sh
+- kongres
+- lukman-siregar
+- ny-hadidjah-razak
+- ok-azis
+- orde-baru
+- parmusi
+- perpustakaan-soeharto
+- presiden-soeharto
+- psii
+- syarifudin-siregar
+- umat-islam
+- wartomo-dwijojuwono
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-08-06-presiden-soeharto-lanjutkan-konsultasi-dengan-partai-partai-islam/
+  judul: 1969-08-06 Presiden Soeharto Lanjutkan Konsultasi Dengan Partai-Partai Islam
+  tanggal: '1969-08-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-08-06-presiden-soeharto-lanjutkan-konsultasi-dengan-partai-partai-islam/
 ---
+
 
 # 1969-08-06 Presiden Soeharto Lanjutkan Konsultasi Dengan Partai-Partai Islam
 

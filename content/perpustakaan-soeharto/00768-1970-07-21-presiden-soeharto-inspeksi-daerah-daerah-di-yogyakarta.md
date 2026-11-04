@@ -1,9 +1,41 @@
 ---
-title: "1970-07-21 Presiden Soeharto Inspeksi Daerah-Daerah di Yogyakarta – HM Soeharto"
-source: "https://soehartolibrary.id/1970-07-21-presiden-soeharto-inspeksi-daerah-daerah-di-yogyakarta/"
-date: "2017-08-25T15:31:59+07:00"
+title: 1970-07-21 Presiden Soeharto Inspeksi Daerah-Daerah di Yogyakarta
+description: SELASA, 21 Juli 1970. Pagi ini Presiden Soeharto yang tiba di Yogyakarta
+  dari Jakarta kemarin sore, mengadakan inspeksi di daerah-daerah di sekitar Yogyakarta.
+  Yang pertama ditinjauanya ialah proyek irigasi Kalibawang, yang diharapkan...
+date: '1970-07-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-07-21-presiden-soeharto-inspeksi-daerah-daerah-di-yogyakarta
+aliases:
+- Presiden Soeharto Inspeksi Daerah-Daerah di Yogyakarta
+- 1970-07-21 Presiden Soeharto Inspeksi Daerah-Daerah di Yogyakarta – HM Soeharto
+tags:
+- banjararum
+- borobudur
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- purworejo
+- sleman
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-07-21-presiden-soeharto-inspeksi-daerah-daerah-di-yogyakarta/
+  judul: 1970-07-21 Presiden Soeharto Inspeksi Daerah-Daerah di Yogyakarta
+  tanggal: '1970-07-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-07-21-presiden-soeharto-inspeksi-daerah-daerah-di-yogyakarta/
 ---
+
 
 # 1970-07-21 Presiden Soeharto Inspeksi Daerah-Daerah di Yogyakarta
 

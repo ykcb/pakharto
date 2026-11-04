@@ -1,9 +1,36 @@
 ---
-title: "Memahami Falsafah Hidup Pak Harto (4) – HM Soeharto"
-source: "https://soehartolibrary.id/memahami-falsafah-hidup-pak-harto/"
-date: "2013-04-26T10:17:39+07:00"
+title: Memahami Falsafah Hidup Pak Harto (4)
+description: Transformasi kenusantaraan yang diperoleh Pak Harto melalui para leluhurnya
+  tentunya juga menyangkut aspek-aspek tanggungjawab kepemimpinan. Salah satu ukuran
+  kepemimpinan yang baik bukan terletak pada kemampuan dan kesediaannya...
+date: '2013-04-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: memahami-falsafah-hidup-pak-harto
+aliases:
+- Memahami Falsafah Hidup Pak Harto (4) – HM Soeharto
+tags:
+- ham
+- kepemimpinan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/memahami-falsafah-hidup-pak-harto/
+  judul: Memahami Falsafah Hidup Pak Harto (4)
+  tanggal: '2013-04-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/memahami-falsafah-hidup-pak-harto/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/04/D.jpg)
 

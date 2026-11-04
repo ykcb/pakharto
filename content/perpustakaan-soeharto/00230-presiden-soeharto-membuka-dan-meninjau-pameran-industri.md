@@ -1,9 +1,40 @@
 ---
-title: "Presiden Soeharto Membuka dan Meninjau Pameran Industri – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-membuka-dan-meninjau-pameran-industri/"
-date: "2013-03-18T02:32:17+07:00"
+title: Presiden Soeharto Membuka dan Meninjau Pameran Industri
+description: Kemandirian ekonomi bangsa ditopang oleh usaha pertanian dan industri
+  yang tangguh. Oleh karena itu selain mendorong usaha pertanian, Presiden Soeharto
+  juga mendorong pengembangan industri nasional yang kuat. Pada tanggal 19 Agustus...
+date: '2013-03-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-membuka-dan-meninjau-pameran-industri
+aliases:
+- Presiden Soeharto Membuka dan Meninjau Pameran Industri – HM Soeharto
+tags:
+- '1974'
+- industri
+- membuka
+- meninjau
+- orde-baru
+- pameran
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-membuka-dan-meninjau-pameran-industri/
+  judul: Presiden Soeharto Membuka dan Meninjau Pameran Industri
+  tanggal: '2013-03-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-membuka-dan-meninjau-pameran-industri/
 ---
+
 
 # Presiden Soeharto Membuka dan Meninjau Pameran Industri
 

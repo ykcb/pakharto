@@ -1,9 +1,49 @@
 ---
-title: "1972-06-01 Presiden Soeharto Memberikan Bantuan Koperasi Peternak Unggas – HM Soeharto"
-source: "https://soehartolibrary.id/1972-06-01-presiden-soeharto-memberikan-bantuan-koperasi-peternak-unggas/"
-date: "2014-06-03T13:31:14+07:00"
+title: 1972-06-01 Presiden Soeharto Memberikan Bantuan Koperasi Peternak Unggas
+description: KAMIS, 01 Juni 1972, Presiden Soeharto akan memberikan bantuan sebesar
+  Rp. 30 juta bagi penbgembangan usaha koperasi peternakan unggas. Bantuan ini merupakan
+  reaksi Presiden terhadap laporan Menteri Transmigrasi dan Koperasi Subroto,...
+date: '1972-06-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-06-01-presiden-soeharto-memberikan-bantuan-koperasi-peternak-unggas
+aliases:
+- Presiden Soeharto Memberikan Bantuan Koperasi Peternak Unggas
+- 1972-06-01 Presiden Soeharto Memberikan Bantuan Koperasi Peternak Unggas – HM Soeharto
+tags:
+- cirebon
+- jaringan-distribusi-listrik
+- jaringan-telepon
+- kalimantan
+- kereta-api
+- koperasi
+- koperasi-dan-transmigrasi
+- menteri
+- orde-baru
+- pabrik-pemintalan
+- perikanan-tuna
+- perpustakaan-soeharto
+- peternak-unggas
+- presiden-soeharto
+- riam-kanan
+- tokyo
+- weleri
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-06-01-presiden-soeharto-memberikan-bantuan-koperasi-peternak-unggas/
+  judul: 1972-06-01 Presiden Soeharto Memberikan Bantuan Koperasi Peternak Unggas
+  tanggal: '1972-06-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-06-01-presiden-soeharto-memberikan-bantuan-koperasi-peternak-unggas/
 ---
+
 
 # 1972-06-01 Presiden Soeharto Memberikan Bantuan Koperasi Peternak Unggas
 

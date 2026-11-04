@@ -1,9 +1,40 @@
 ---
-title: "1969-01-11 Presiden Soeharto Menerima Kepala Suku Irian Mantan Pembelot – HM Soeharto"
-source: "https://soehartolibrary.id/1969-01-11-presiden-soeharto-menerima-kepala-suku-irian-mantan-pembelot/"
-date: "2017-10-19T14:49:01+07:00"
+title: 1969-01-11 Presiden Soeharto Menerima Kepala Suku Irian Mantan Pembelot
+description: SABTU, 11 JANUARI 1969. Presiden Soeharto hari ini menerima abang beradik
+  Mayor (Tituler) Lodewijk Mandatjan dan Kapten (Tituler) Barens Mandatjan di Istana
+  Merdeka. Lodewijk Mandatjan adalah seorang kepala suku di daerah kepala burung...
+date: '1969-01-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-01-11-presiden-soeharto-menerima-kepala-suku-irian-mantan-pembelot
+aliases:
+- Presiden Soeharto Menerima Kepala Suku Irian Mantan Pembelot
+- 1969-01-11 Presiden Soeharto Menerima Kepala Suku Irian Mantan Pembelot – HM Soeharto
+tags:
+- barat
+- irian
+- irian-jaya
+- orde-baru
+- pembelot
+- perpustakaan-soeharto
+- presiden
+- suku
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-01-11-presiden-soeharto-menerima-kepala-suku-irian-mantan-pembelot/
+  judul: 1969-01-11 Presiden Soeharto Menerima Kepala Suku Irian Mantan Pembelot
+  tanggal: '1969-01-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-01-11-presiden-soeharto-menerima-kepala-suku-irian-mantan-pembelot/
 ---
+
 
 # 1969-01-11 Presiden Soeharto Menerima Kepala Suku Irian Mantan Pembelot
 

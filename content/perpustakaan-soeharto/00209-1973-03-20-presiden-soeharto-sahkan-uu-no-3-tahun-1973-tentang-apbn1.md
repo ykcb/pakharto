@@ -1,9 +1,39 @@
 ---
-title: "1973-03-14 Presiden Soeharto Bantu ‘Lumbung Paceklik’ – HM Soeharto"
-source: "https://soehartolibrary.id/1973-03-20-presiden-soeharto-sahkan-uu-no-3-tahun-1973-tentang-apbn1/"
-date: "2017-08-29T11:28:00+07:00"
+title: 1973-03-14 Presiden Soeharto Bantu ‘Lumbung Paceklik’
+description: RABU, 14 Maret 1973, Pada jam 10.00 pagi Presiden Soeharto berkenan menerima
+  gubernur-gubernur dari Jawa Timur, Jawa Tengah, dan Daerah Istimewa Yogyakarta di
+  Bina Graha, Jakarta. Pada pertemuan ini Presiden telah memberikan bantuan...
+date: '1973-03-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-03-20-presiden-soeharto-sahkan-uu-no-3-tahun-1973-tentang-apbn1
+aliases:
+- Presiden Soeharto Bantu ‘Lumbung Paceklik’
+- 1973-03-14 Presiden Soeharto Bantu ‘Lumbung Paceklik’ – HM Soeharto
+tags:
+- lumbung-paceklik
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- petani
+- presiden-soeharto
+- soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-03-20-presiden-soeharto-sahkan-uu-no-3-tahun-1973-tentang-apbn1/
+  judul: 1973-03-14 Presiden Soeharto Bantu ‘Lumbung Paceklik’
+  tanggal: '1973-03-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-03-20-presiden-soeharto-sahkan-uu-no-3-tahun-1973-tentang-apbn1/
 ---
+
 
 # 1973-03-14 Presiden Soeharto Bantu ‘Lumbung Paceklik’
 

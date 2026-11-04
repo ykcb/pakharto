@@ -1,9 +1,40 @@
 ---
-title: "1971-07-19 Presiden Soeharto Kemukakan Gagasan Penyederhanaan Fraksi – HM Soeharto"
-source: "https://soehartolibrary.id/1971-07-19-presiden-soeharto-kemukakan-gagasan-penyederhanaan-fraksi/"
-date: "2017-08-29T16:56:00+07:00"
+title: 1971-07-19 Presiden Soeharto Kemukakan Gagasan Penyederhanaan Fraksi
+description: SENIN, 19 Juli 1971. Presiden Soeharto telah mengemukakan gagasannya
+  untuk mengadakan penyederhaan terhadap fraksi-fraksi yang ada di DPR hasil pemilihan
+  umum. Presiden menginginkan agar 13 fraksi yang ada sekarang dapat disederhanakan...
+date: '1971-07-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-07-19-presiden-soeharto-kemukakan-gagasan-penyederhanaan-fraksi
+aliases:
+- Presiden Soeharto Kemukakan Gagasan Penyederhanaan Fraksi
+- 1971-07-19 Presiden Soeharto Kemukakan Gagasan Penyederhanaan Fraksi – HM Soeharto
+tags:
+- angir-talaud
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- sexava
+- sulawesi-utara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-07-19-presiden-soeharto-kemukakan-gagasan-penyederhanaan-fraksi/
+  judul: 1971-07-19 Presiden Soeharto Kemukakan Gagasan Penyederhanaan Fraksi
+  tanggal: '1971-07-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-07-19-presiden-soeharto-kemukakan-gagasan-penyederhanaan-fraksi/
 ---
+
 
 # 1971-07-19 Presiden Soeharto Kemukakan Gagasan Penyederhanaan Fraksi
 

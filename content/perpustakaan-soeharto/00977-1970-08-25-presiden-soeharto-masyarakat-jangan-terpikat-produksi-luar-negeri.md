@@ -1,9 +1,41 @@
 ---
-title: "1970-08-25 Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1970-08-25-presiden-soeharto-masyarakat-jangan-terpikat-produksi-luar-negeri/"
-date: "2017-08-24T15:13:07+07:00"
+title: '1970-08-25 Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri'
+description: SELASA, 25 AGUSTUS 1970, Dalam sidang Sub-Dewan Stabilisasi Ekonomi yang
+  berlangsung pagi ini di Bina Graha, Presiden Soeharto telah meminta produksi dalam
+  negeri dapat ditingkatkan. Ia juga meminta kepada semua menteri agar masyarakat...
+date: '1970-08-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-08-25-presiden-soeharto-masyarakat-jangan-terpikat-produksi-luar-negeri
+aliases:
+- 'Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri'
+- '1970-08-25 Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri –
+  HM Soeharto'
+tags:
+- dalam-negeri
+- jenderal-soeharto
+- luar-negeri
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- produksi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-08-25-presiden-soeharto-masyarakat-jangan-terpikat-produksi-luar-negeri/
+  judul: '1970-08-25 Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri'
+  tanggal: '1970-08-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-08-25-presiden-soeharto-masyarakat-jangan-terpikat-produksi-luar-negeri/
 ---
+
 
 # 1970-08-25 Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri
 

@@ -1,9 +1,37 @@
 ---
-title: "1970-06-29 Presiden Soeharto: Keluarga Berencana Masalah Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/1970-06-29-presiden-soeharto-keluarga-berencana-masalah-nasional/"
-date: "2017-08-24T15:32:28+07:00"
+title: '1970-06-29 Presiden Soeharto: Keluarga Berencana Masalah Nasional'
+description: SENIN, 29 Juni 1970, Pagi ini Presiden Soeharto melantik Dewan Pembimbing
+  dan Badan Koordinasi Keluarga Berencana di Istana Negara. Dalam sambutannya, Presiden
+  mengatakan bahwa masalah keluarga berencana sungguh merupakan salah satu...
+date: '1970-06-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-06-29-presiden-soeharto-keluarga-berencana-masalah-nasional
+aliases:
+- 'Presiden Soeharto: Keluarga Berencana Masalah Nasional'
+- '1970-06-29 Presiden Soeharto: Keluarga Berencana Masalah Nasional – HM Soeharto'
+tags:
+- keluarga-berencana
+- orde-baru
+- penduduk
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-06-29-presiden-soeharto-keluarga-berencana-masalah-nasional/
+  judul: '1970-06-29 Presiden Soeharto: Keluarga Berencana Masalah Nasional'
+  tanggal: '1970-06-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-06-29-presiden-soeharto-keluarga-berencana-masalah-nasional/
 ---
+
 
 # 1970-06-29 Presiden Soeharto: Keluarga Berencana Masalah Nasional
 

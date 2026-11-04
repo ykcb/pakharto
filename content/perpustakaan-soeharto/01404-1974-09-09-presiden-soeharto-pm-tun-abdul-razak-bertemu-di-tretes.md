@@ -1,9 +1,45 @@
 ---
-title: "1974-09-09 Presiden Soeharto-PM Tun Abdul Razak Bertemu di Tretes – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-09-presiden-soeharto-pm-tun-abdul-razak-bertemu-di-tretes/"
-date: "2017-08-23T10:54:53+07:00"
+title: 1974-09-09 Presiden Soeharto-PM Tun Abdul Razak Bertemu di Tretes
+description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-09-presiden-soeharto-pm-tun-abdul-razak-bertemu-di-tretes/respond)
+  132 Views Share on
+date: '1974-09-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-09-presiden-soeharto-pm-tun-abdul-razak-bertemu-di-tretes
+aliases:
+- Presiden Soeharto-PM Tun Abdul Razak Bertemu di Tretes
+- 1974-09-09 Presiden Soeharto-PM Tun Abdul Razak Bertemu di Tretes – HM Soeharto
+tags:
+- bali
+- juanda
+- kontes-sapi
+- malaysia
+- orde-baru
+- pameran-ternak
+- pandaan
+- perdana-menteri
+- perpustakaan-soeharto
+- plumbon
+- presiden-soeharto
+- tretes
+- tun-abdul-razak
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-09-presiden-soeharto-pm-tun-abdul-razak-bertemu-di-tretes/
+  judul: 1974-09-09 Presiden Soeharto-PM Tun Abdul Razak Bertemu di Tretes
+  tanggal: '1974-09-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-09-presiden-soeharto-pm-tun-abdul-razak-bertemu-di-tretes/
 ---
+
 
 # 1974-09-09 Presiden Soeharto-PM Tun Abdul Razak Bertemu di Tretes
 

@@ -1,9 +1,43 @@
 ---
-title: "1968-09-23 Presiden Soeharto Minta Pertimbangan Soal Hukuman Mati – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-23-presiden-soeharto-minta-pertimbangan-soal-hukuman-mati/"
-date: "2014-04-01T02:13:53+07:00"
+title: 1968-09-23 Presiden Soeharto Minta Pertimbangan Soal Hukuman Mati
+description: 2 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-23-presiden-soeharto-minta-pertimbangan-soal-hukuman-mati/respond)
+  81 Views Share on
+date: '1968-09-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-23-presiden-soeharto-minta-pertimbangan-soal-hukuman-mati
+aliases:
+- Presiden Soeharto Minta Pertimbangan Soal Hukuman Mati
+- 1968-09-23 Presiden Soeharto Minta Pertimbangan Soal Hukuman Mati – HM Soeharto
+tags:
+- dpa
+- dpr-gr
+- hukuman-mati
+- istana-merdeka
+- mahmilub
+- menteri-negara
+- mintaredja-sh
+- mprs
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-23-presiden-soeharto-minta-pertimbangan-soal-hukuman-mati/
+  judul: 1968-09-23 Presiden Soeharto Minta Pertimbangan Soal Hukuman Mati
+  tanggal: '1968-09-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-23-presiden-soeharto-minta-pertimbangan-soal-hukuman-mati/
 ---
+
 
 # 1968-09-23 Presiden Soeharto Minta Pertimbangan Soal Hukuman Mati
 

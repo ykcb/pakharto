@@ -1,9 +1,41 @@
 ---
-title: "1969-01-29 SI Pimpin Sidang Kabinet, Presiden Soeharto: Efisiensi Aparatur Tidak Dengan Pemberhentian Pegawai Secara Massal – HM Soeharto"
-source: "https://soehartolibrary.id/1969-01-29-si-pimpin-sidang-kabinet-presiden-soeharto-efisiensi-aparatur-tidak-dengan-pemberhentian-pegawai-secara-massal/"
-date: "2014-12-29T00:55:52+07:00"
+title: '1969-01-29 SI Pimpin Sidang Kabinet, Presiden Soeharto: Efisiensi Aparatur
+  Tidak Dengan Pemberhentian Pegawai Secara Massal'
+description: RABU, 29 JANUARI 1969. Presiden Soeharto, pagi ini memimpin sidang kabinet
+  paripurna di Istana Negara. Dalam sidang tersebut Presiden Soeharto memusatkan perhatian
+  pada kesejahteraan pegawai negeri dan efisiensi aparatur negara....
+date: '1969-01-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-01-29-si-pimpin-sidang-kabinet-presiden-soeharto-efisiensi-aparatur-tidak-dengan-pemberhentian-pegawai-secara-massal
+aliases:
+- 'SI Pimpin Sidang Kabinet, Presiden Soeharto: Efisiensi Aparatur Tidak Dengan Pemberhentian
+  Pegawai Secara Massal'
+- '1969-01-29 SI Pimpin Sidang Kabinet, Presiden Soeharto: Efisiensi Aparatur Tidak
+  Dengan Pemberhentian Pegawai Secara Massal – HM Soeharto'
+tags:
+- aparatur
+- efisiensi
+- kesejahteraan-pegawai
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-01-29-si-pimpin-sidang-kabinet-presiden-soeharto-efisiensi-aparatur-tidak-dengan-pemberhentian-pegawai-secara-massal/
+  judul: '1969-01-29 SI Pimpin Sidang Kabinet, Presiden Soeharto: Efisiensi Aparatur
+    Tidak Dengan Pemberhentian Pegawai Secara Massal'
+  tanggal: '1969-01-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-01-29-si-pimpin-sidang-kabinet-presiden-soeharto-efisiensi-aparatur-tidak-dengan-pemberhentian-pegawai-secara-massal/
 ---
+
 
 # 1969-01-29 SI Pimpin Sidang Kabinet, Presiden Soeharto: Efisiensi Aparatur Tidak Dengan Pemberhentian Pegawai Secara Massal
 

@@ -1,9 +1,44 @@
 ---
-title: "1971-09-27 Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri/"
-date: "2017-08-23T11:06:11+07:00"
+title: 1971-09-27 Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar
+  Negeri
+description: 13 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri/respond)
+  94 Views Share on
+date: '1971-09-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri
+aliases:
+- Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar Negeri
+- 1971-09-27 Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar Negeri
+  – HM Soeharto
+tags:
+- bank-indonesia
+- bantuan-luar-negeri
+- bappenas
+- hutang
+- menteri-keuangan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- proyek
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri/
+  judul: 1971-09-27 Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar
+    Negeri
+  tanggal: '1971-09-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri/
 ---
+
 
 # 1971-09-27 Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar Negeri
 

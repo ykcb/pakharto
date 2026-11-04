@@ -1,9 +1,40 @@
 ---
-title: "1978-09-04 Presiden Soeharto Sholat Ied dan Open House Lebaran – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-04-presiden-soeharto-sholat-ied-dan-open-house-lebaran/"
-date: "2017-08-22T16:09:38+07:00"
+title: 1978-09-04 Presiden Soeharto Sholat Ied dan Open House Lebaran
+description: 26 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-04-presiden-soeharto-sholat-ied-dan-open-house-lebaran/respond)
+  99 Views Share on
+date: '1978-09-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-04-presiden-soeharto-sholat-ied-dan-open-house-lebaran
+aliases:
+- Presiden Soeharto Sholat Ied dan Open House Lebaran
+- 1978-09-04 Presiden Soeharto Sholat Ied dan Open House Lebaran – HM Soeharto
+tags:
+- adam-malik
+- istiqlal
+- kh-mochtar-nasir
+- kh-syafari-abdullah
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sholat-ied
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-04-presiden-soeharto-sholat-ied-dan-open-house-lebaran/
+  judul: 1978-09-04 Presiden Soeharto Sholat Ied dan Open House Lebaran
+  tanggal: '1978-09-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-04-presiden-soeharto-sholat-ied-dan-open-house-lebaran/
 ---
+
 
 # 1978-09-04 Presiden Soeharto Sholat Ied dan Open House Lebaran
 

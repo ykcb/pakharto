@@ -1,9 +1,38 @@
 ---
-title: "Diangkatlah Saya Jadi Presiden RI yang Kedua – HM Soeharto"
-source: "https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/"
-date: "2018-01-10T19:01:30+07:00"
+title: Diangkatlah Saya Jadi Presiden RI yang Kedua
+description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/respond)
+  199 Views Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: diangkatlah-saya-jadi-presiden-ri-yang-kedua
+aliases:
+- Diangkatlah Saya Jadi Presiden RI yang Kedua – HM Soeharto
+tags:
+- jenderal-nasution
+- kepala-negara
+- mprs
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- presiden-soekarno
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/
+  judul: Diangkatlah Saya Jadi Presiden RI yang Kedua
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0741_result.jpg)
 

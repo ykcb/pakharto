@@ -1,9 +1,38 @@
 ---
-title: "1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-06-presiden-soeharto-bahas-penyelenggaraan-haji/"
-date: "2017-08-22T17:39:57+07:00"
+title: 1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji
+description: 3 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-06-presiden-soeharto-bahas-penyelenggaraan-haji/respond)
+  153 Views Share on
+date: '1968-09-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-06-presiden-soeharto-bahas-penyelenggaraan-haji
+aliases:
+- Presiden Soeharto Bahas Penyelenggaraan Haji
+- 1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji – HM Soeharto
+tags:
+- khm-dachlan
+- menteri-agama
+- orde-baru
+- penyelenggaraan-haji
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-06-presiden-soeharto-bahas-penyelenggaraan-haji/
+  judul: 1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji
+  tanggal: '1968-09-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-06-presiden-soeharto-bahas-penyelenggaraan-haji/
 ---
+
 
 # 1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji
 

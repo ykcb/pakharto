@@ -1,9 +1,41 @@
 ---
-title: "1977-04-19 Presiden Soeharto Resmikan Jembatan Sungai Siak Riau – HM Soeharto"
-source: "https://soehartolibrary.id/1977-04-19-presiden-soeharto-resmikan-jembatan-sungai-siak-riau/"
-date: "2014-03-22T02:53:56+07:00"
+title: 1977-04-19 Presiden Soeharto Resmikan Jembatan Sungai Siak Riau
+description: SELASA, 19 April 1977, Hari ini Presiden Soeharto meresmikan jembatan
+  sungai Siak di Riau. Jembatan tersebut dibangun dengan bantuan biaya sebesar Rp.
+  1,2 milyar dari perusahaan minyak PT Caltex Pacific Indonesia. Pada peresmian ini...
+date: '1977-04-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-04-19-presiden-soeharto-resmikan-jembatan-sungai-siak-riau
+aliases:
+- Presiden Soeharto Resmikan Jembatan Sungai Siak Riau
+- 1977-04-19 Presiden Soeharto Resmikan Jembatan Sungai Siak Riau – HM Soeharto
+tags:
+- jembatan
+- modal-asing
+- orde-baru
+- pembangunan
+- peresminan
+- perpustakaan-soeharto
+- presiden-soeharto
+- riau
+- sungai-siak
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-04-19-presiden-soeharto-resmikan-jembatan-sungai-siak-riau/
+  judul: 1977-04-19 Presiden Soeharto Resmikan Jembatan Sungai Siak Riau
+  tanggal: '1977-04-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-04-19-presiden-soeharto-resmikan-jembatan-sungai-siak-riau/
 ---
+
 
 # 1977-04-19 Presiden Soeharto Resmikan Jembatan Sungai Siak Riau
 

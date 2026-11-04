@@ -1,9 +1,44 @@
 ---
-title: "1972-03-21 Presiden Soeharto Sahkan Batas Landas Kontinen Indonesia-Muangthai – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-21-presiden-soeharto-sahkan-batas-landas-kontinen-indonesia-muangthai/"
-date: "2017-08-29T11:28:32+07:00"
+title: 1972-03-21 Presiden Soeharto Sahkan Batas Landas Kontinen Indonesia-Muangthai
+description: SELASA, 21 Maret 1972, Di Bina Graha hari ini Presiden Soeharto menerima
+  Menteri Luar Negeri Korea Selatan Kim Yong Shok. Pada kesempatan itu keduanya membahas
+  usaha peningkatan kerjasama antara kedua Negara di bidang perdagangan,...
+date: '1972-03-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-21-presiden-soeharto-sahkan-batas-landas-kontinen-indonesia-muangthai
+aliases:
+- Presiden Soeharto Sahkan Batas Landas Kontinen Indonesia-Muangthai
+- 1972-03-21 Presiden Soeharto Sahkan Batas Landas Kontinen Indonesia-Muangthai –
+  HM Soeharto
+tags:
+- batas
+- kontinen
+- landas
+- malaka
+- muangthai
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden
+- selat
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-21-presiden-soeharto-sahkan-batas-landas-kontinen-indonesia-muangthai/
+  judul: 1972-03-21 Presiden Soeharto Sahkan Batas Landas Kontinen Indonesia-Muangthai
+  tanggal: '1972-03-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-21-presiden-soeharto-sahkan-batas-landas-kontinen-indonesia-muangthai/
 ---
+
 
 # 1972-03-21 Presiden Soeharto Sahkan Batas Landas Kontinen Indonesia-Muangthai
 

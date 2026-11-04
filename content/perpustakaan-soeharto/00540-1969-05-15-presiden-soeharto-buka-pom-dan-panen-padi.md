@@ -1,9 +1,42 @@
 ---
-title: "1969-05-15 Presiden Soeharto Buka POM dan Panen Padi – HM Soeharto"
-source: "https://soehartolibrary.id/1969-05-15-presiden-soeharto-buka-pom-dan-panen-padi/"
-date: "2017-08-28T16:47:03+07:00"
+title: 1969-05-15 Presiden Soeharto Buka POM dan Panen Padi
+description: KAMIS, 15 MEI 1969, Dengan menggunakan pesawat kepresidenan Jetstar,
+  Presiden dan Ibu Soeharto berangkat menuju Makassar pagi ini. Dalam kunjungan dua
+  hari, Presiden antara lain kan membuka Pekan Olahraga Mahasiswa dan meninjua Pabrik...
+date: '1969-05-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-05-15-presiden-soeharto-buka-pom-dan-panen-padi
+aliases:
+- Presiden Soeharto Buka POM dan Panen Padi
+- 1969-05-15 Presiden Soeharto Buka POM dan Panen Padi – HM Soeharto
+tags:
+- dpr-gr
+- luar-negeri
+- mahasiswa
+- makasar
+- maros
+- olah-raga
+- orde-baru
+- padi
+- perpustakaan-soeharto
+- pom
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-05-15-presiden-soeharto-buka-pom-dan-panen-padi/
+  judul: 1969-05-15 Presiden Soeharto Buka POM dan Panen Padi
+  tanggal: '1969-05-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-05-15-presiden-soeharto-buka-pom-dan-panen-padi/
 ---
+
 
 # 1969-05-15 Presiden Soeharto Buka POM dan Panen Padi
 

@@ -1,9 +1,37 @@
 ---
-title: "1974-07-02 Presiden Soeharto Putuskan Re-Ekspor Station Wagon – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-02-presiden-soeharto-putuskan-re-ekspor-station-wagon/"
-date: "2017-08-23T11:58:53+07:00"
+title: 1974-07-02 Presiden Soeharto Putuskan Re-Ekspor Station Wagon
+description: SELASA, 2 Juli 1974, Pemerintah memberi batas waktu kepada semua pemilik
+  kendaraan sedan dan station wagon yang terkena larangan impor sedan berdasarkan
+  Surat Keputusan Menteri Perdagangan No. 25/KP/1/1974, untuk mengekspor kembali...
+date: '1974-07-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-02-presiden-soeharto-putuskan-re-ekspor-station-wagon
+aliases:
+- Presiden Soeharto Putuskan Re-Ekspor Station Wagon
+- 1974-07-02 Presiden Soeharto Putuskan Re-Ekspor Station Wagon – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- re-ekspor
+- station-wagon
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-02-presiden-soeharto-putuskan-re-ekspor-station-wagon/
+  judul: 1974-07-02 Presiden Soeharto Putuskan Re-Ekspor Station Wagon
+  tanggal: '1974-07-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-02-presiden-soeharto-putuskan-re-ekspor-station-wagon/
 ---
+
 
 # 1974-07-02 Presiden Soeharto Putuskan Re-Ekspor Station Wagon
 

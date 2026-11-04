@@ -1,9 +1,49 @@
 ---
-title: "1970-05-23 Presiden Soeharto Keluarkan SK Peserta Pemilu – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-23-presiden-soeharto-keluarkan-sk-peserta-pemilu/"
-date: "2017-08-28T16:45:40+07:00"
+title: 1970-05-23 Presiden Soeharto Keluarkan SK Peserta Pemilu
+description: SABTU, 23 MEI 1970, Hari ini, Presiden Soeharto mengeluarkan Surat Keputusan
+  No. 43/1970 tentang organisasi politik yang ikut serta dalam pemilihan umum dan
+  anggota DPR/DPRD yang diangkat. Dalam keputusan itu ditetapkan bahwa organisasi...
+date: '1970-05-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-23-presiden-soeharto-keluarkan-sk-peserta-pemilu
+aliases:
+- Presiden Soeharto Keluarkan SK Peserta Pemilu
+- 1970-05-23 Presiden Soeharto Keluarkan SK Peserta Pemilu – HM Soeharto
+tags:
+- abri
+- dpr
+- dprd
+- golkar
+- ipki
+- murba
+- nu
+- orde-baru
+- parkindo
+- parmusi
+- partai-katolik
+- pemilu
+- perpustakaan-soeharto
+- perti
+- pni
+- presiden-soeharto
+- psii
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-23-presiden-soeharto-keluarkan-sk-peserta-pemilu/
+  judul: 1970-05-23 Presiden Soeharto Keluarkan SK Peserta Pemilu
+  tanggal: '1970-05-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-23-presiden-soeharto-keluarkan-sk-peserta-pemilu/
 ---
+
 
 # 1970-05-23 Presiden Soeharto Keluarkan SK Peserta Pemilu
 

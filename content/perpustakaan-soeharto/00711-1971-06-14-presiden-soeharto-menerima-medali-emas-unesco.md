@@ -1,9 +1,38 @@
 ---
-title: "1971-06-14 Presiden Soeharto Menerima Medali Emas Unesco – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-14-presiden-soeharto-menerima-medali-emas-unesco/"
-date: "2017-08-24T15:31:10+07:00"
+title: 1971-06-14 Presiden Soeharto Menerima Medali Emas Unesco
+description: SABTU, 14 Juni 1971, Presiden Soeharto menerima medali Emas dari UNESCO
+  sebagai penghargaan atas karya-karyanya. Tanda penghargaan tersebut disampaikan
+  oleh Direktur Jenderal UNESCO Dr. Rene Maheu, ketika diterima Presiden Soeharto
+  di...
+date: '1971-06-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-14-presiden-soeharto-menerima-medali-emas-unesco
+aliases:
+- Presiden Soeharto Menerima Medali Emas Unesco
+- 1971-06-14 Presiden Soeharto Menerima Medali Emas Unesco – HM Soeharto
+tags:
+- medali
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- unesco
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-14-presiden-soeharto-menerima-medali-emas-unesco/
+  judul: 1971-06-14 Presiden Soeharto Menerima Medali Emas Unesco
+  tanggal: '1971-06-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-14-presiden-soeharto-menerima-medali-emas-unesco/
 ---
+
 
 # 1971-06-14 Presiden Soeharto Menerima Medali Emas Unesco
 

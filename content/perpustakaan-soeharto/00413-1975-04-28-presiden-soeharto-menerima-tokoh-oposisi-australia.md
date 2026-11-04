@@ -1,9 +1,39 @@
 ---
-title: "1975-04-28 Presiden Soeharto Menerima Tokoh Oposisi Australia – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-28-presiden-soeharto-menerima-tokoh-oposisi-australia/"
-date: "2017-08-28T16:49:13+07:00"
+title: 1975-04-28 Presiden Soeharto Menerima Tokoh Oposisi Australia
+description: SENIN, 28 April 1975, Presiden Soeharto jam 10.00 pagi ini menerima kunjungan
+  Andrew Peacock, anggota parlemen dan salah seorang tokoh terpenting partai oposisi
+  Australia, Partai Liberal. Dalam sistem politik Australia, Peacock adalah...
+date: '1975-04-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-28-presiden-soeharto-menerima-tokoh-oposisi-australia
+aliases:
+- Presiden Soeharto Menerima Tokoh Oposisi Australia
+- 1975-04-28 Presiden Soeharto Menerima Tokoh Oposisi Australia – HM Soeharto
+tags:
+- andrew-peacock
+- oposisi-australia
+- orde-baru
+- parlemen
+- partai-liberal
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-28-presiden-soeharto-menerima-tokoh-oposisi-australia/
+  judul: 1975-04-28 Presiden Soeharto Menerima Tokoh Oposisi Australia
+  tanggal: '1975-04-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-28-presiden-soeharto-menerima-tokoh-oposisi-australia/
 ---
+
 
 # 1975-04-28 Presiden Soeharto Menerima Tokoh Oposisi Australia
 

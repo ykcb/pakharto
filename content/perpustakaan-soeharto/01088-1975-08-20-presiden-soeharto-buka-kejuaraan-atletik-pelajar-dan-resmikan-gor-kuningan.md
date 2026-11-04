@@ -1,9 +1,43 @@
 ---
-title: "1975-08-20 Presiden Soeharto Buka Kejuaraan Atletik Pelajar dan Resmikan GOR Kuningan – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-20-presiden-soeharto-buka-kejuaraan-atletik-pelajar-dan-resmikan-gor-kuningan/"
-date: "2017-08-22T17:44:35+07:00"
+title: 1975-08-20 Presiden Soeharto Buka Kejuaraan Atletik Pelajar dan Resmikan GOR
+  Kuningan
+description: 28 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-20-presiden-soeharto-buka-kejuaraan-atletik-pelajar-dan-resmikan-gor-kuningan/respond)
+  84 Views Share on
+date: '1975-08-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-20-presiden-soeharto-buka-kejuaraan-atletik-pelajar-dan-resmikan-gor-kuningan
+aliases:
+- Presiden Soeharto Buka Kejuaraan Atletik Pelajar dan Resmikan GOR Kuningan
+- 1975-08-20 Presiden Soeharto Buka Kejuaraan Atletik Pelajar dan Resmikan GOR Kuningan
+  – HM Soeharto
+tags:
+- gor
+- kejuaran-atletik
+- kuningan
+- mahasiswa
+- orde-baru
+- pelajar
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-20-presiden-soeharto-buka-kejuaraan-atletik-pelajar-dan-resmikan-gor-kuningan/
+  judul: 1975-08-20 Presiden Soeharto Buka Kejuaraan Atletik Pelajar dan Resmikan
+    GOR Kuningan
+  tanggal: '1975-08-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-20-presiden-soeharto-buka-kejuaraan-atletik-pelajar-dan-resmikan-gor-kuningan/
 ---
+
 
 # 1975-08-20 Presiden Soeharto Buka Kejuaraan Atletik Pelajar dan Resmikan GOR Kuningan
 

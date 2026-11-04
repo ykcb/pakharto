@@ -1,9 +1,45 @@
 ---
-title: "Serangan Umum 1 Maret 1949 – HM Soeharto"
-source: "https://soehartolibrary.id/serangan-umum-1-maret-1949/"
-date: "2018-01-10T19:10:22+07:00"
+title: Serangan Umum 1 Maret 1949
+description: Di bulan November 1948, sementara rundingan Indonesia-Belanda terus berjalan,
+  dan melelahkan rasanya buat saya, berita sedih datang dengan tiba-tiba. Jenderal
+  Urip Sumohardjo meninggal dengan mendadak. Seorang pemimpin yang telah...
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: serangan-umum-1-maret-1949
+aliases:
+- Serangan Umum 1 Maret 1949 – HM Soeharto
+tags:
+- 1-maret-1949
+- birma
+- gerilya
+- india
+- ln-palar
+- malioboro
+- orde-baru
+- pbb
+- perpustakaan-soeharto
+- serangan-umum
+- van-langen
+- van-zanten
+- wehrkreise
+- yogyakarta
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/serangan-umum-1-maret-1949/
+  judul: Serangan Umum 1 Maret 1949
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/serangan-umum-1-maret-1949/
 ---
+
 
 ![Soeharto, SU 1 maret 1949](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b031.jpg)
 

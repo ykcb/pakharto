@@ -1,9 +1,41 @@
 ---
-title: "1975-04-20 Presiden Soeharto Resmikan TMII – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-20-presiden-soeharto-resmikan-tmii/"
-date: "2014-03-21T23:32:40+07:00"
+title: 1975-04-20 Presiden Soeharto Resmikan TMII
+description: MINGGU, 20 April 1975, Pada pukul 17.00 sore ini Presiden Soeharto meresmikan
+  Taman Mini Indonesia Indah (TMII). Proyek yang terletak di Jakarta Timur ini mulai
+  dibangun sejak akhir Juni 1972 dan bentuk fisiknya merupakan miniatur...
+date: '1975-04-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-20-presiden-soeharto-resmikan-tmii
+aliases:
+- Presiden Soeharto Resmikan TMII
+- 1975-04-20 Presiden Soeharto Resmikan TMII – HM Soeharto
+tags:
+- filipina
+- ibu-tien
+- nyonya-marcos
+- nyonya-sears
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- singapura
+- tmii
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-20-presiden-soeharto-resmikan-tmii/
+  judul: 1975-04-20 Presiden Soeharto Resmikan TMII
+  tanggal: '1975-04-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-20-presiden-soeharto-resmikan-tmii/
 ---
+
 
 # 1975-04-20 Presiden Soeharto Resmikan TMII
 

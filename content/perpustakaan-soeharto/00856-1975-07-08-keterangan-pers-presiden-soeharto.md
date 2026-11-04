@@ -1,9 +1,52 @@
 ---
-title: "1975-07-08 Keterangan Pers Presiden Soeharto – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-08-keterangan-pers-presiden-soeharto/"
-date: "2017-08-23T11:51:15+07:00"
+title: 1975-07-08 Keterangan Pers Presiden Soeharto
+description: SELASA, 08 Juli 1975, Siang ini, pukul 14.00 waktu setempat, Presiden
+  dan Ibu Soeharto meninggalkan Tokyo menuju Jakarta. Pesawat Garuda DC-8 Siliwangi,
+  yang menerbangkan Presiden Soeharto dan rombongan dalam perjalanan muhibah kali...
+date: '1975-07-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-08-keterangan-pers-presiden-soeharto
+aliases:
+- Keterangan Pers Presiden Soeharto
+- 1975-07-08 Keterangan Pers Presiden Soeharto – HM Soeharto
+tags:
+- amerika-serikat
+- dc-8-siliwangi
+- indonesia
+- iran
+- jakarta
+- jepang
+- kanada
+- kepala-negara
+- keterangan-pers
+- opec
+- orde-baru
+- penyatuan-korea
+- perpustakaan-soeharto
+- pesawat-garuda
+- presiden-soeharto
+- rrc
+- timor-portugis
+- tokyo
+- wawasan-nusantara
+- yugoslavia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-08-keterangan-pers-presiden-soeharto/
+  judul: 1975-07-08 Keterangan Pers Presiden Soeharto
+  tanggal: '1975-07-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-08-keterangan-pers-presiden-soeharto/
 ---
+
 
 # 1975-07-08 Keterangan Pers Presiden Soeharto
 

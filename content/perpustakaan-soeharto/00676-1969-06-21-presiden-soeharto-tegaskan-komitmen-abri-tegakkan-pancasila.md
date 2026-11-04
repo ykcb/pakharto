@@ -1,9 +1,40 @@
 ---
-title: "1969-06-21 Presiden Soeharto Tegaskan Komitmen ABRI Tegakkan Pancasila – HM Soeharto"
-source: "https://soehartolibrary.id/1969-06-21-presiden-soeharto-tegaskan-komitmen-abri-tegakkan-pancasila/"
-date: "2017-08-24T15:30:32+07:00"
+title: 1969-06-21 Presiden Soeharto Tegaskan Komitmen ABRI Tegakkan Pancasila
+description: SABTU, 21 JUNI 1969, Di Medan pagi ini Presiden Soeharto menganugerahkan
+  Samkarya Nugraha kepada Kodam II/Bukit Barisan bertepatan dengan ulang tahun ke-18
+  kesatuan itu. Dalam pidatonya Presiden menyatakan penghargaannya terhadap...
+date: '1969-06-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-06-21-presiden-soeharto-tegaskan-komitmen-abri-tegakkan-pancasila
+aliases:
+- Presiden Soeharto Tegaskan Komitmen ABRI Tegakkan Pancasila
+- 1969-06-21 Presiden Soeharto Tegaskan Komitmen ABRI Tegakkan Pancasila – HM Soeharto
+tags:
+- abri
+- bukit-barisan
+- kodam-ii
+- orde-baru
+- pancasila
+- perpustakaan-soeharto
+- presiden-soeharto
+- uud-1945
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-06-21-presiden-soeharto-tegaskan-komitmen-abri-tegakkan-pancasila/
+  judul: 1969-06-21 Presiden Soeharto Tegaskan Komitmen ABRI Tegakkan Pancasila
+  tanggal: '1969-06-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-06-21-presiden-soeharto-tegaskan-komitmen-abri-tegakkan-pancasila/
 ---
+
 
 # 1969-06-21 Presiden Soeharto Tegaskan Komitmen ABRI Tegakkan Pancasila
 

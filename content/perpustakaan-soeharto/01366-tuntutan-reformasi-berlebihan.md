@@ -1,9 +1,39 @@
 ---
-title: "Tuntutan Reformasi Berlebihan – HM Soeharto"
-source: "https://soehartolibrary.id/tuntutan-reformasi-berlebihan/"
-date: "2017-07-04T12:30:14+07:00"
+title: Tuntutan Reformasi Berlebihan
+description: 13 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/tuntutan-reformasi-berlebihan/respond) 137
+  Views Share on
+date: '2017-07-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: tuntutan-reformasi-berlebihan
+aliases:
+- Tuntutan Reformasi Berlebihan – HM Soeharto
+tags:
+- emporia
+- kansas
+- mahasiswa
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- reformasi
+- usa
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/tuntutan-reformasi-berlebihan/
+  judul: Tuntutan Reformasi Berlebihan
+  tanggal: '2017-07-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/tuntutan-reformasi-berlebihan/
 ---
+
 
 # Tuntutan Reformasi Berlebihan
 

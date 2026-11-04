@@ -1,9 +1,42 @@
 ---
-title: "1970-08-03 Presiden Soeharto Deadline Daftar Kekayaan Pribadi Pejabat – HM Soeharto"
-source: "https://soehartolibrary.id/1970-08-03-presiden-soeharto-deadline-daftar-kekayaan-pribadi-pejabat/"
-date: "2017-08-24T15:13:48+07:00"
+title: 1970-08-03 Presiden Soeharto Deadline Daftar Kekayaan Pribadi Pejabat
+description: SENIN, 03 AGUSTUS 1970, Hari ini Presiden Soeharto memutuskan bahwa semua
+  pejabat teras di departemen-departemen dan semua pegawai tinggi (Golongan/Ruang
+  IV C) serta perwira tinggi ABRI, selambat-lambatnya tanggal 31 Agustus 1970 sudah...
+date: '1970-08-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-08-03-presiden-soeharto-deadline-daftar-kekayaan-pribadi-pejabat
+aliases:
+- Presiden Soeharto Deadline Daftar Kekayaan Pribadi Pejabat
+- 1970-08-03 Presiden Soeharto Deadline Daftar Kekayaan Pribadi Pejabat – HM Soeharto
+tags:
+- abri
+- departemen
+- janderal-soeharto
+- komite-anti-korupsi
+- orde-baru
+- pak-harto
+- pejabat
+- perpustakaan-soeharto
+- perwira
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-08-03-presiden-soeharto-deadline-daftar-kekayaan-pribadi-pejabat/
+  judul: 1970-08-03 Presiden Soeharto Deadline Daftar Kekayaan Pribadi Pejabat
+  tanggal: '1970-08-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-08-03-presiden-soeharto-deadline-daftar-kekayaan-pribadi-pejabat/
 ---
+
 
 # 1970-08-03 Presiden Soeharto Deadline Daftar Kekayaan Pribadi Pejabat
 

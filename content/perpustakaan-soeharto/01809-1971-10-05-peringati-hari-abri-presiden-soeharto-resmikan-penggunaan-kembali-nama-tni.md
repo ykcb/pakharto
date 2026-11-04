@@ -1,9 +1,41 @@
 ---
-title: "1971-10-05 Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali Nama TNI – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-05-peringati-hari-abri-presiden-soeharto-resmikan-penggunaan-kembali-nama-tni/"
-date: "2014-12-01T16:22:57+07:00"
+title: 1971-10-05 Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali
+  Nama TNI
+description: 8 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-05-peringati-hari-abri-presiden-soeharto-resmikan-penggunaan-kembali-nama-tni/respond)
+  158 Views Share on
+date: '1971-10-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-05-peringati-hari-abri-presiden-soeharto-resmikan-penggunaan-kembali-nama-tni
+aliases:
+- Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali Nama TNI
+- 1971-10-05 Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali Nama
+  TNI – HM Soeharto
+tags:
+- hari-abri
+- jenderal-soeharto
+- menhankampangab
+- orde-baru
+- perpustakaan-soeharto
+- tni
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-05-peringati-hari-abri-presiden-soeharto-resmikan-penggunaan-kembali-nama-tni/
+  judul: 1971-10-05 Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali
+    Nama TNI
+  tanggal: '1971-10-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-05-peringati-hari-abri-presiden-soeharto-resmikan-penggunaan-kembali-nama-tni/
 ---
+
 
 # 1971-10-05 Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali Nama TNI
 

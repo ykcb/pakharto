@@ -1,9 +1,41 @@
 ---
-title: "1969-02-07 PRESIDEN SOEHARTO APRESIASI HMI – HM Soeharto"
-source: "https://soehartolibrary.id/1969-02-07-presiden-soeharto-apresiasi-hmi/"
-date: "2017-08-28T17:12:34+07:00"
+title: 1969-02-07 PRESIDEN SOEHARTO APRESIASI HMI
+description: JUM’AT, 7 FEBRUARI 1969. Presiden Soeharto menyatakan bahwa ia sangat
+  menghargai tema dies natalis HMI, yang berjudul “Peranan Mahasiswa dalam menyukseskan
+  Pembangunan Nasional dan menegakkan demokrasi yang sehat.” Berbicara soal...
+date: '1969-02-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-02-07-presiden-soeharto-apresiasi-hmi
+aliases:
+- PRESIDEN SOEHARTO APRESIASI HMI
+- 1969-02-07 PRESIDEN SOEHARTO APRESIASI HMI – HM Soeharto
+tags:
+- apresiasi
+- die
+- hmi
+- natalis
+- orde-baru
+- perpustakaan-soeharto
+- presiden
+- ui
+- xii
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-02-07-presiden-soeharto-apresiasi-hmi/
+  judul: 1969-02-07 PRESIDEN SOEHARTO APRESIASI HMI
+  tanggal: '1969-02-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-02-07-presiden-soeharto-apresiasi-hmi/
 ---
+
 
 # 1969-02-07 PRESIDEN SOEHARTO APRESIASI HMI
 

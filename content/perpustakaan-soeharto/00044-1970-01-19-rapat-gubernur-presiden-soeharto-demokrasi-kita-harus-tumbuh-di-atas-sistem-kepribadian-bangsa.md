@@ -1,9 +1,54 @@
 ---
-title: "1970-01-19 Rapat Gubernur, Presiden Soeharto: Demokrasi Kita Harus Tumbuh Di Atas Sistem Kepribadian Bangsa – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-19-rapat-gubernur-presiden-soeharto-demokrasi-kita-harus-tumbuh-di-atas-sistem-kepribadian-bangsa/"
-date: "2015-02-24T21:17:23+07:00"
+title: '1970-01-19 Rapat Gubernur, Presiden Soeharto: Demokrasi Kita Harus Tumbuh
+  Di Atas Sistem Kepribadian Bangsa'
+description: SENIN 19 JANUARI 1970, Dalam rangka pelaksanaan pemilihan umum di daerah
+  dan penilaian terhadap pelaksanaan Pelita, pagi jam 09.00 Presiden Soeharto membuka
+  rapat gubernur seluruh Indonesia bertempat di gedung DPRD Jakarta. Didalam...
+date: '1970-01-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-19-rapat-gubernur-presiden-soeharto-demokrasi-kita-harus-tumbuh-di-atas-sistem-kepribadian-bangsa
+aliases:
+- 'Rapat Gubernur, Presiden Soeharto: Demokrasi Kita Harus Tumbuh Di Atas Sistem Kepribadian
+  Bangsa'
+- '1970-01-19 Rapat Gubernur, Presiden Soeharto: Demokrasi Kita Harus Tumbuh Di Atas
+  Sistem Kepribadian Bangsa – HM Soeharto'
+tags:
+- bapak-pembangunan
+- bina-graha
+- cendana
+- demokrasi
+- dki
+- gbhn
+- gubernur
+- indonesia
+- istana-merdeka
+- jakarta
+- macan-asia
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- rapat
+- repelita
+- tinggal-landas-2
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-19-rapat-gubernur-presiden-soeharto-demokrasi-kita-harus-tumbuh-di-atas-sistem-kepribadian-bangsa/
+  judul: '1970-01-19 Rapat Gubernur, Presiden Soeharto: Demokrasi Kita Harus Tumbuh
+    Di Atas Sistem Kepribadian Bangsa'
+  tanggal: '1970-01-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-19-rapat-gubernur-presiden-soeharto-demokrasi-kita-harus-tumbuh-di-atas-sistem-kepribadian-bangsa/
 ---
+
 
 # 1970-01-19 Rapat Gubernur, Presiden Soeharto: Demokrasi Kita Harus Tumbuh Di Atas Sistem Kepribadian Bangsa
 

@@ -1,9 +1,44 @@
 ---
-title: "1970-05-28 Presiden Soeharto: Indonesia Junjung Tinggi Dasasila Bandung – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-28-presiden-soeharto-indonesia-junjung-tinggi-dasasila-bandung/"
-date: "2017-08-30T14:14:28+07:00"
+title: '1970-05-28 Presiden Soeharto: Indonesia Junjung Tinggi Dasasila Bandung'
+description: KAMIS, 28 MEI 1970, Hari ini sebelum mengakhiri kunjungan resminya di
+  Washington dan berangkat menuju New York, Presiden Soeharto mengadakan pertemuan
+  kedua kalinya dengan Presiden Nixon di Gedung Putih. Tidak ada sesuatu komunike...
+date: '1970-05-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-28-presiden-soeharto-indonesia-junjung-tinggi-dasasila-bandung
+aliases:
+- 'Presiden Soeharto: Indonesia Junjung Tinggi Dasasila Bandung'
+- '1970-05-28 Presiden Soeharto: Indonesia Junjung Tinggi Dasasila Bandung – HM Soeharto'
+tags:
+- bebas-aktif
+- dasasila-bandung
+- gedung-putih
+- nixon
+- non-blok
+- orde-baru
+- pbb
+- perpustakaan-soeharto
+- politik-luar-negeri
+- presiden-soeharto
+- sekjen-pbb
+- u-thant
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-28-presiden-soeharto-indonesia-junjung-tinggi-dasasila-bandung/
+  judul: '1970-05-28 Presiden Soeharto: Indonesia Junjung Tinggi Dasasila Bandung'
+  tanggal: '1970-05-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-28-presiden-soeharto-indonesia-junjung-tinggi-dasasila-bandung/
 ---
+
 
 # 1970-05-28 Presiden Soeharto: Indonesia Junjung Tinggi Dasasila Bandung
 

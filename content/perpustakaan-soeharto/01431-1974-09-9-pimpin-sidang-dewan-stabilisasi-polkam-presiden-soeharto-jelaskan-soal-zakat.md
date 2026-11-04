@@ -1,9 +1,40 @@
 ---
-title: "1974-09-9 Pimpin Sidang Dewan Stabilisasi Polkam, Presiden Soeharto Jelaskan Soal Zakat – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-9-pimpin-sidang-dewan-stabilisasi-polkam-presiden-soeharto-jelaskan-soal-zakat/"
-date: "2017-08-23T10:50:10+07:00"
+title: 1974-09-9 Pimpin Sidang Dewan Stabilisasi Polkam, Presiden Soeharto Jelaskan
+  Soal Zakat
+description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-9-pimpin-sidang-dewan-stabilisasi-polkam-presiden-soeharto-jelaskan-soal-zakat/respond)
+  154 Views Share on
+date: '2017-08-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-9-pimpin-sidang-dewan-stabilisasi-polkam-presiden-soeharto-jelaskan-soal-zakat
+aliases:
+- 1974-09-9 Pimpin Sidang Dewan Stabilisasi Polkam, Presiden Soeharto Jelaskan Soal
+  Zakat – HM Soeharto
+tags:
+- dewan-stabilisasi
+- orde-baru
+- perpustakaan-soeharto
+- politik-dan-keamanan-nasional
+- presiden-soeharto
+- sidang
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-9-pimpin-sidang-dewan-stabilisasi-polkam-presiden-soeharto-jelaskan-soal-zakat/
+  judul: 1974-09-9 Pimpin Sidang Dewan Stabilisasi Polkam, Presiden Soeharto Jelaskan
+    Soal Zakat
+  tanggal: '2017-08-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-9-pimpin-sidang-dewan-stabilisasi-polkam-presiden-soeharto-jelaskan-soal-zakat/
 ---
+
 
 # 1974-09-9 Pimpin Sidang Dewan Stabilisasi Polkam, Presiden Soeharto Jelaskan Soal Zakat
 

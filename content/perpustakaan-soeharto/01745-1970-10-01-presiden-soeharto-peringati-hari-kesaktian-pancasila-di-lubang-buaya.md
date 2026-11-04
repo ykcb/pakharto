@@ -1,9 +1,39 @@
 ---
-title: "1970-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila di Lubang Buaya – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-di-lubang-buaya/"
-date: "2014-12-01T16:33:00+07:00"
+title: 1970-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila di Lubang Buaya
+description: 5 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-di-lubang-buaya/respond)
+  100 Views Share on
+date: '1970-10-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-di-lubang-buaya
+aliases:
+- Presiden Soeharto Peringati Hari Kesaktian Pancasila di Lubang Buaya
+- 1970-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila di Lubang Buaya
+  – HM Soeharto
+tags:
+- kepala-negara
+- kesaktian-pancasila
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-di-lubang-buaya/
+  judul: 1970-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila di Lubang
+    Buaya
+  tanggal: '1970-10-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-di-lubang-buaya/
 ---
+
 
 # 1970-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila di Lubang Buaya
 

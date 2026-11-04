@@ -1,9 +1,40 @@
 ---
-title: "Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 2, Habis) – HM Soeharto"
-source: "https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/"
-date: "2014-11-24T08:06:49+07:00"
+title: 'Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 2, Habis)'
+description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/respond)
+  131 Views Share on
+date: '2014-11-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis
+aliases:
+- 'Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 2, Habis)
+  – HM Soeharto'
+tags:
+- bappenas
+- kepala-negara
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- saleh-afiff
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/
+  judul: 'Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 2,
+    Habis)'
+  tanggal: '2014-11-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/5_1_result.jpg)
 

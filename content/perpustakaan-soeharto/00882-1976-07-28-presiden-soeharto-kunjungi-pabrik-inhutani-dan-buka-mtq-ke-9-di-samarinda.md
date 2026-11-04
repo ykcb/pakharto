@@ -1,9 +1,44 @@
 ---
-title: "1976-07-28 Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di Samarinda – HM Soeharto"
-source: "https://soehartolibrary.id/1976-07-28-presiden-soeharto-kunjungi-pabrik-inhutani-dan-buka-mtq-ke-9-di-samarinda/"
-date: "2017-08-23T11:39:13+07:00"
+title: 1976-07-28 Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di
+  Samarinda
+description: RABU, 28 Juli 1976 Presiden Soeharto dan Ibu Soeharto pagi ini berangkat
+  menuju Balikpapan dan terus ke Samarinda dalam rangka kunjungan kerja selama dua
+  hari di Kalimantan Timur. Di Samarinda sore ini Presiden Soeharto meninjau...
+date: '1976-07-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-07-28-presiden-soeharto-kunjungi-pabrik-inhutani-dan-buka-mtq-ke-9-di-samarinda
+aliases:
+- Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di Samarinda
+- 1976-07-28 Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di Samarinda
+  – HM Soeharto
+tags:
+- balikpapan
+- inhutani
+- karang-asam
+- mtq
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- samarinda
+- segiri
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-07-28-presiden-soeharto-kunjungi-pabrik-inhutani-dan-buka-mtq-ke-9-di-samarinda/
+  judul: 1976-07-28 Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di
+    Samarinda
+  tanggal: '1976-07-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-07-28-presiden-soeharto-kunjungi-pabrik-inhutani-dan-buka-mtq-ke-9-di-samarinda/
 ---
+
 
 # 1976-07-28 Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di Samarinda
 

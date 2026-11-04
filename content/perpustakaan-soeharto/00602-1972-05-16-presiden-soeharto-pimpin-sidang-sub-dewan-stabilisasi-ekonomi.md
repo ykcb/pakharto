@@ -1,9 +1,37 @@
 ---
-title: "1972-05-16 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-16-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi/"
-date: "2017-08-24T17:42:52+07:00"
+title: 1972-05-16 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi
+description: SELASA, 16 Mei 1972, Presiden Soeharto yang tiba kembali di tanah air
+  dua hari yang lalu, hari ini memimpin sidang Sub-Dewan Stabilisasi Ekonomi. Dalam
+  sidang itu Presiden antara lain telah menjelaskan tentang hasil-hasil perundingannya...
+date: '1972-05-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-16-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi
+aliases:
+- Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi
+- 1972-05-16 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi – HM Soeharto
+tags:
+- dewan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- stabilisasi-ekonomi
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-16-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi/
+  judul: 1972-05-16 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi
+  tanggal: '1972-05-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-16-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi/
 ---
+
 
 # 1972-05-16 Presiden Soeharto Pimpin Sidang Sub-Dewan Stabilisasi Ekonomi
 

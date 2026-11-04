@@ -1,9 +1,49 @@
 ---
-title: "1969-03-13 Presiden Soeharto Menerima OANA – HM Soeharto"
-source: "https://soehartolibrary.id/1969-03-13-presiden-soeharto-menerima-oana/"
-date: "2017-08-29T17:35:44+07:00"
+title: 1969-03-13 Presiden Soeharto Menerima OANA
+description: KAMIS, 13 MARET 1969, Di Istana Merdeka, pagi hari Presiden Soeharto
+  menerima 13 orang anggota Dewan Pimpinan OANA (Organization Asian News Agencies)
+  yang dipimpin oleh ketuanya, Shintaro Fukushima. Mereka baru saja menghadiri sidang...
+date: '1969-03-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-03-13-presiden-soeharto-menerima-oana
+aliases:
+- Presiden Soeharto Menerima OANA
+- 1969-03-13 Presiden Soeharto Menerima OANA – HM Soeharto
+tags:
+- agencies
+- asia
+- asian
+- inggris
+- kerjasama
+- news
+- oana
+- orde-baru
+- organization
+- pak-harto
+- perpustakaan-soeharto
+- pertahanan
+- presiden
+- regional
+- singapura
+- soeharto
+- tenggara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-03-13-presiden-soeharto-menerima-oana/
+  judul: 1969-03-13 Presiden Soeharto Menerima OANA
+  tanggal: '1969-03-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-03-13-presiden-soeharto-menerima-oana/
 ---
+
 
 # 1969-03-13 Presiden Soeharto Menerima OANA
 

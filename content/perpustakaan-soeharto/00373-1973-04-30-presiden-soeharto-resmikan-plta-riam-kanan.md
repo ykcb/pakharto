@@ -1,9 +1,40 @@
 ---
-title: "1973-04-30 Presiden Soeharto Resmikan PLTA Riam Kanan – HM Soeharto"
-source: "https://soehartolibrary.id/1973-04-30-presiden-soeharto-resmikan-plta-riam-kanan/"
-date: "2014-03-22T02:56:23+07:00"
+title: 1973-04-30 Presiden Soeharto Resmikan PLTA Riam Kanan
+description: SENIN, 30 April 1973, Presiden Soeharto hari ini meresmikan bendungan
+  dan PLTA Riam Kanan di Banjarmasin, Kalimantan Selatan. Dalam pidato sambutannya,
+  Kepala Negara antara lain mengatakan bahwa perbedaan-perbedaan yang terjadi dalam...
+date: '1973-04-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-04-30-presiden-soeharto-resmikan-plta-riam-kanan
+aliases:
+- Presiden Soeharto Resmikan PLTA Riam Kanan
+- 1973-04-30 Presiden Soeharto Resmikan PLTA Riam Kanan – HM Soeharto
+tags:
+- kalimantan-selatan
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- plta
+- presiden-soeharto
+- prioritas
+- riam-kanan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-04-30-presiden-soeharto-resmikan-plta-riam-kanan/
+  judul: 1973-04-30 Presiden Soeharto Resmikan PLTA Riam Kanan
+  tanggal: '1973-04-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-04-30-presiden-soeharto-resmikan-plta-riam-kanan/
 ---
+
 
 # 1973-04-30 Presiden Soeharto Resmikan PLTA Riam Kanan
 

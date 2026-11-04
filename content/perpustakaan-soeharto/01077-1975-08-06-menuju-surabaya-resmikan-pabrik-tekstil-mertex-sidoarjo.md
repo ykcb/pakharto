@@ -1,9 +1,42 @@
 ---
-title: "1975-08-06 Menuju Surabaya Resmikan Pabrik Tekstil Mertex Sidoarjo – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-06-menuju-surabaya-resmikan-pabrik-tekstil-mertex-sidoarjo/"
-date: "2017-08-23T11:15:53+07:00"
+title: 1975-08-06 Menuju Surabaya Resmikan Pabrik Tekstil Mertex Sidoarjo
+description: 26 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-06-menuju-surabaya-resmikan-pabrik-tekstil-mertex-sidoarjo/respond)
+  114 Views Share on
+date: '1975-08-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-06-menuju-surabaya-resmikan-pabrik-tekstil-mertex-sidoarjo
+aliases:
+- Menuju Surabaya Resmikan Pabrik Tekstil Mertex Sidoarjo
+- 1975-08-06 Menuju Surabaya Resmikan Pabrik Tekstil Mertex Sidoarjo – HM Soeharto
+tags:
+- halim-perdanakusuma
+- kota-gede
+- mertex
+- orde-baru
+- pameran-kerajinan
+- perpustakaan-soeharto
+- presiden-soeharto
+- surabaya
+- tekstil
+- yogyakarta
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-06-menuju-surabaya-resmikan-pabrik-tekstil-mertex-sidoarjo/
+  judul: 1975-08-06 Menuju Surabaya Resmikan Pabrik Tekstil Mertex Sidoarjo
+  tanggal: '1975-08-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-06-menuju-surabaya-resmikan-pabrik-tekstil-mertex-sidoarjo/
 ---
+
 
 # 1975-08-06 Menuju Surabaya Resmikan Pabrik Tekstil Mertex Sidoarjo
 

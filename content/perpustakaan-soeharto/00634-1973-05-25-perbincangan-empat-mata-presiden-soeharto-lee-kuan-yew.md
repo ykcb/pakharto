@@ -1,9 +1,40 @@
 ---
-title: "1973-05-25 Perbincangan Empat Mata Presiden Soeharto-Lee Kuan Yew – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-25-perbincangan-empat-mata-presiden-soeharto-lee-kuan-yew/"
-date: "2017-08-25T15:33:54+07:00"
+title: 1973-05-25 Perbincangan Empat Mata Presiden Soeharto-Lee Kuan Yew
+description: JUM’AT, 25 Mei 1973, Sore ini telah berlangsung pembicaraan empat mata
+  antara Presiden Soeharto dengan Perdana Menteri Singapura, Lee Kuan Yew, di Istana
+  Merdeka. Pertemuan yang berlangsung setelah acara tukar menukar cinderamata itu...
+date: '1973-05-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-25-perbincangan-empat-mata-presiden-soeharto-lee-kuan-yew
+aliases:
+- Perbincangan Empat Mata Presiden Soeharto-Lee Kuan Yew
+- 1973-05-25 Perbincangan Empat Mata Presiden Soeharto-Lee Kuan Yew – HM Soeharto
+tags:
+- asean
+- ibu-tien
+- istana-merdeka
+- kemayoran
+- lee-kuan-yeew
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-25-perbincangan-empat-mata-presiden-soeharto-lee-kuan-yew/
+  judul: 1973-05-25 Perbincangan Empat Mata Presiden Soeharto-Lee Kuan Yew
+  tanggal: '1973-05-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-25-perbincangan-empat-mata-presiden-soeharto-lee-kuan-yew/
 ---
+
 
 # 1973-05-25 Perbincangan Empat Mata Presiden Soeharto-Lee Kuan Yew
 

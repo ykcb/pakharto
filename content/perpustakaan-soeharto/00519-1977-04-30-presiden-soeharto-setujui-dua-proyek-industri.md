@@ -1,9 +1,41 @@
 ---
-title: "1977-04-30 Presiden Soeharto Setujui Dua Proyek Industri – HM Soeharto"
-source: "https://soehartolibrary.id/1977-04-30-presiden-soeharto-setujui-dua-proyek-industri/"
-date: "2014-03-22T02:53:55+07:00"
+title: 1977-04-30 Presiden Soeharto Setujui Dua Proyek Industri
+description: SABTU, 30 April 1977, Kantor Wilayah Departemen P dan K DKI Jakarta mengumumkan
+  bahwa sebanyak 189 siswa kelas I, II, dan III dari 7 STM, serta 55 siswa dari 21
+  SMEA di Ibukota, telah menerima beasiswa Supersemar hari ini. Penyerahan...
+date: '1977-04-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-04-30-presiden-soeharto-setujui-dua-proyek-industri
+aliases:
+- Presiden Soeharto Setujui Dua Proyek Industri
+- 1977-04-30 Presiden Soeharto Setujui Dua Proyek Industri – HM Soeharto
+tags:
+- ali-sadikin
+- beasiswa
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- proyek-industri
+- pt-inoue-rubber
+- pt-ngk-busi
+- supersemar
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-04-30-presiden-soeharto-setujui-dua-proyek-industri/
+  judul: 1977-04-30 Presiden Soeharto Setujui Dua Proyek Industri
+  tanggal: '1977-04-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-04-30-presiden-soeharto-setujui-dua-proyek-industri/
 ---
+
 
 # 1977-04-30 Presiden Soeharto Setujui Dua Proyek Industri
 

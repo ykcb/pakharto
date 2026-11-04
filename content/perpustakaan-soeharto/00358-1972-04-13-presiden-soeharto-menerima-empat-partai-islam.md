@@ -1,9 +1,42 @@
 ---
-title: "1972-04-13 Presiden Soeharto Menerima Empat Partai Islam – HM Soeharto"
-source: "https://soehartolibrary.id/1972-04-13-presiden-soeharto-menerima-empat-partai-islam/"
-date: "2014-03-22T02:58:21+07:00"
+title: 1972-04-13 Presiden Soeharto Menerima Empat Partai Islam
+description: KAMIS, 13 APRIL 1972, Hari ini para ketua umum dari empat partai Islam
+  di Indonesia, yaitu NU, Parmusi, PSII dan Perti, menghadap Presiden Soeharto. Mereka
+  melaporkan tentang berhasilnya mereka merealisasikan persatuan dalam bentuk...
+date: '1972-04-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-04-13-presiden-soeharto-menerima-empat-partai-islam
+aliases:
+- Presiden Soeharto Menerima Empat Partai Islam
+- 1972-04-13 Presiden Soeharto Menerima Empat Partai Islam – HM Soeharto
+tags:
+- konfederasi
+- nu
+- orde-baru
+- parmusi
+- partai-islam
+- perpustakaan-soeharto
+- persatuan-pembangunan
+- perti
+- presiden-soeharto
+- psii
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-04-13-presiden-soeharto-menerima-empat-partai-islam/
+  judul: 1972-04-13 Presiden Soeharto Menerima Empat Partai Islam
+  tanggal: '1972-04-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-04-13-presiden-soeharto-menerima-empat-partai-islam/
 ---
+
 
 # 1972-04-13 Presiden Soeharto Menerima Empat Partai Islam
 

@@ -1,9 +1,45 @@
 ---
-title: "1975-08-30 Presiden Soeharto Bahas Perkembangan Timor Portugis – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-26-presiden-soeharto-bahas-perkembangan-timor-portugis/"
-date: "2014-03-21T23:29:07+07:00"
+title: 1975-08-30 Presiden Soeharto Bahas Perkembangan Timor Portugis
+description: 28 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-26-presiden-soeharto-bahas-perkembangan-timor-portugis/respond)
+  104 Views Share on
+date: '1975-08-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-26-presiden-soeharto-bahas-perkembangan-timor-portugis
+aliases:
+- Presiden Soeharto Bahas Perkembangan Timor Portugis
+- 1975-08-30 Presiden Soeharto Bahas Perkembangan Timor Portugis – HM Soeharto
+tags:
+- ad-interim
+- asisten-i-hankam
+- dr-antonio-almeida-santos
+- kepala-staf-operasi-hankam
+- marsekal-madya-soedharmono
+- mayjen-beny-moerdani
+- menteri-luar-negeri
+- mochtar-kusumaatmadja
+- orde-baru
+- perpustakaan-soeharto
+- presiden-portugis
+- presiden-soeharto
+- timor-portugis
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-26-presiden-soeharto-bahas-perkembangan-timor-portugis/
+  judul: 1975-08-30 Presiden Soeharto Bahas Perkembangan Timor Portugis
+  tanggal: '1975-08-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-26-presiden-soeharto-bahas-perkembangan-timor-portugis/
 ---
+
 
 # 1975-08-30 Presiden Soeharto Bahas Perkembangan Timor Portugis
 

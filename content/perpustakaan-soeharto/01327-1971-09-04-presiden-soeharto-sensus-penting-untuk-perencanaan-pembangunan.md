@@ -1,9 +1,48 @@
 ---
-title: "1971-09-04 Presiden Soeharto: Sensus Penting Untuk Perencanaan Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-04-presiden-soeharto-sensus-penting-untuk-perencanaan-pembangunan/"
-date: "2017-08-22T16:21:29+07:00"
+title: '1971-09-04 Presiden Soeharto: Sensus Penting Untuk Perencanaan Pembangunan'
+description: 12 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-04-presiden-soeharto-sensus-penting-untuk-perencanaan-pembangunan/respond)
+  92 Views Share on
+date: '1971-09-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-04-presiden-soeharto-sensus-penting-untuk-perencanaan-pembangunan
+aliases:
+- 'Presiden Soeharto: Sensus Penting Untuk Perencanaan Pembangunan'
+- '1971-09-04 Presiden Soeharto: Sensus Penting Untuk Perencanaan Pembangunan – HM
+  Soeharto'
+tags:
+- dr-mohammad-hatta
+- hotel-indonesia
+- jenderal-ah-nasution
+- ketu-dpr-gr
+- ketua-mprs
+- kh-sjaichu
+- orde-baru
+- pangeran-bernhard
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- ratu-juliana
+- sensus-penduduk
+- tanjung-priok
+- tvri
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-04-presiden-soeharto-sensus-penting-untuk-perencanaan-pembangunan/
+  judul: '1971-09-04 Presiden Soeharto: Sensus Penting Untuk Perencanaan Pembangunan'
+  tanggal: '1971-09-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-04-presiden-soeharto-sensus-penting-untuk-perencanaan-pembangunan/
 ---
+
 
 # 1971-09-04 Presiden Soeharto: Sensus Penting Untuk Perencanaan Pembangunan
 

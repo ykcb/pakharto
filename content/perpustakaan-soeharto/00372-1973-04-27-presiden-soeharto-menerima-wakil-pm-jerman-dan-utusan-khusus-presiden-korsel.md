@@ -1,9 +1,41 @@
 ---
-title: "1973-04-27 Presiden Soeharto Menerima Wakil PM Jerman Dan Utusan Khusus Presiden Korsel – HM Soeharto"
-source: "https://soehartolibrary.id/1973-04-27-presiden-soeharto-menerima-wakil-pm-jerman-dan-utusan-khusus-presiden-korsel/"
-date: "2017-08-28T16:51:42+07:00"
+title: 1973-04-27 Presiden Soeharto Menerima Wakil PM Jerman Dan Utusan Khusus Presiden
+  Korsel
+description: JUM’AT, 27 April 1973, Bertempat di Istana Merdeka, Presiden Soeharto
+  pagi ini menerima kunjungan kehormatan Wakil Perdana Menteri Luar Negeri Republik
+  Federasi Jerman, Walter Scheel,di Istana Merdeka. Pada kesempatan ini, pemimpin...
+date: '1973-04-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-04-27-presiden-soeharto-menerima-wakil-pm-jerman-dan-utusan-khusus-presiden-korsel
+aliases:
+- Presiden Soeharto Menerima Wakil PM Jerman Dan Utusan Khusus Presiden Korsel
+- 1973-04-27 Presiden Soeharto Menerima Wakil PM Jerman Dan Utusan Khusus Presiden
+  Korsel – HM Soeharto
+tags:
+- jerman
+- korea-selatan
+- korea-utara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-04-27-presiden-soeharto-menerima-wakil-pm-jerman-dan-utusan-khusus-presiden-korsel/
+  judul: 1973-04-27 Presiden Soeharto Menerima Wakil PM Jerman Dan Utusan Khusus Presiden
+    Korsel
+  tanggal: '1973-04-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-04-27-presiden-soeharto-menerima-wakil-pm-jerman-dan-utusan-khusus-presiden-korsel/
 ---
+
 
 # 1973-04-27 Presiden Soeharto Menerima Wakil PM Jerman Dan Utusan Khusus Presiden Korsel
 

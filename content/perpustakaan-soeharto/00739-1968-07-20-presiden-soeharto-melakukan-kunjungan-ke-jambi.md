@@ -1,9 +1,39 @@
 ---
-title: "1968-07-20 Presiden Soeharto Melakukan Kunjungan Ke Jambi – HM Soeharto"
-source: "https://soehartolibrary.id/1968-07-20-presiden-soeharto-melakukan-kunjungan-ke-jambi/"
-date: "2017-08-24T15:26:37+07:00"
+title: 1968-07-20 Presiden Soeharto Melakukan Kunjungan Ke Jambi
+description: SABTU, 20 Juli 1968, Jam 09.30 pagi ini Presiden Soeharto dan rombongan
+  meneruskan perjalanan ke Provinsi Jambi, yang merupakan bahagian terakhir dari kunjungannya
+  di Sumatera Selatan. Di provinsi ini Presiden dan rombongan hanya...
+date: '1968-07-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-07-20-presiden-soeharto-melakukan-kunjungan-ke-jambi
+aliases:
+- Presiden Soeharto Melakukan Kunjungan Ke Jambi
+- 1968-07-20 Presiden Soeharto Melakukan Kunjungan Ke Jambi – HM Soeharto
+tags:
+- jenderal-soeharto
+- kunjungan-daerah
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- provinsi-jambi
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-07-20-presiden-soeharto-melakukan-kunjungan-ke-jambi/
+  judul: 1968-07-20 Presiden Soeharto Melakukan Kunjungan Ke Jambi
+  tanggal: '1968-07-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-07-20-presiden-soeharto-melakukan-kunjungan-ke-jambi/
 ---
+
 
 # 1968-07-20 Presiden Soeharto Melakukan Kunjungan Ke Jambi
 

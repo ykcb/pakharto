@@ -1,9 +1,42 @@
 ---
-title: "Lopes da Cruz: Menyesalkan Sikap Pimpinan DPR/MPR – HM Soeharto"
-source: "https://soehartolibrary.id/lopes-da-cruz-menyesalkan-sikap-pimpinan-dprmpr/"
-date: "2013-08-19T02:20:09+07:00"
+title: 'Lopes da Cruz: Menyesalkan Sikap Pimpinan DPR/MPR'
+description: 19 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/lopes-da-cruz-menyesalkan-sikap-pimpinan-dprmpr/respond)
+  86 Views Share on
+date: '2013-08-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: lopes-da-cruz-menyesalkan-sikap-pimpinan-dprmpr
+aliases:
+- 'Lopes da Cruz: Menyesalkan Sikap Pimpinan DPR/MPR – HM Soeharto'
+tags:
+- amin-rais
+- bapak-integrasi
+- bapak-pembangunan
+- lopes-da-cruz
+- lorosae
+- manado
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- timor-timor
+- timor-timur
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/lopes-da-cruz-menyesalkan-sikap-pimpinan-dprmpr/
+  judul: 'Lopes da Cruz: Menyesalkan Sikap Pimpinan DPR/MPR'
+  tanggal: '2013-08-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/lopes-da-cruz-menyesalkan-sikap-pimpinan-dprmpr/
 ---
+
 
 # Lopes da Cruz: Menyesalkan Sikap Pimpinan DPR/MPR
 

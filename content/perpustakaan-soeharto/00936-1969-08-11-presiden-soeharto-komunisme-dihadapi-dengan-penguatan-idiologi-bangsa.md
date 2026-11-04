@@ -1,9 +1,44 @@
 ---
-title: "1969-08-11 Presiden Soeharto: Komunisme Dihadapi Dengan Penguatan Idiologi Bangsa – HM Soeharto"
-source: "https://soehartolibrary.id/1969-08-11-presiden-soeharto-komunisme-dihadapi-dengan-penguatan-idiologi-bangsa/"
-date: "2017-08-24T15:20:31+07:00"
+title: '1969-08-11 Presiden Soeharto: Komunisme Dihadapi Dengan Penguatan Idiologi
+  Bangsa'
+description: SABTU, 11 AGUSTUS 1969, Dalam sidang paripurna kabinet pagi ini, Presiden
+  Soeharto memberikan penjelasan mengenai pertemuan empat mata dengan Presiden Nixon
+  baru-baru ini. Dikatakannya bahwa maksud kedatangan Nixon ke beberapa negara di...
+date: '1969-08-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-08-11-presiden-soeharto-komunisme-dihadapi-dengan-penguatan-idiologi-bangsa
+aliases:
+- 'Presiden Soeharto: Komunisme Dihadapi Dengan Penguatan Idiologi Bangsa'
+- '1969-08-11 Presiden Soeharto: Komunisme Dihadapi Dengan Penguatan Idiologi Bangsa
+  – HM Soeharto'
+tags:
+- as
+- asia-tenggara
+- idiologi-bangsa
+- komunisme
+- nixon
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sidang-paripurna
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-08-11-presiden-soeharto-komunisme-dihadapi-dengan-penguatan-idiologi-bangsa/
+  judul: '1969-08-11 Presiden Soeharto: Komunisme Dihadapi Dengan Penguatan Idiologi
+    Bangsa'
+  tanggal: '1969-08-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-08-11-presiden-soeharto-komunisme-dihadapi-dengan-penguatan-idiologi-bangsa/
 ---
+
 
 # 1969-08-11 Presiden Soeharto: Komunisme Dihadapi Dengan Penguatan Idiologi Bangsa
 

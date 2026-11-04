@@ -1,9 +1,37 @@
 ---
-title: "JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 3) – HM Soeharto"
-source: "https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3/"
-date: "2014-11-25T12:34:22+07:00"
+title: 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 3)'
+description: 5 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3/respond)
+  100 Views Share on
+date: '2014-11-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3
+aliases:
+- 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 3) – HM Soeharto'
+tags:
+- kepala-negara
+- krakatau-steel
+- krisis-pertamina
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3/
+  judul: 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 3)'
+  tanggal: '2014-11-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/JB-Sumarlin.jpg)
 

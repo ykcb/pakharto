@@ -1,9 +1,33 @@
 ---
-title: "Yang Menang Kita Bersama – HM Soeharto"
-source: "https://soehartolibrary.id/yang-menang-kita-bersama/"
-date: "2014-04-01T02:34:06+07:00"
+title: Yang Menang Kita Bersama
+description: 11 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [1 Comment](https://soehartolibrary.id/yang-menang-kita-bersama/comments) 160 Views
+  Share on
+date: '2014-04-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: yang-menang-kita-bersama
+aliases:
+- Yang Menang Kita Bersama – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/yang-menang-kita-bersama/
+  judul: Yang Menang Kita Bersama
+  tanggal: '2014-04-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/yang-menang-kita-bersama/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0439_result.jpg)
 

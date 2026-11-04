@@ -1,9 +1,41 @@
 ---
-title: "1969-05-21 Presiden Soeharto: Target Produksi Beras Harus Dicapai – HM Soeharto"
-source: "https://soehartolibrary.id/1969-05-21-presiden-soeharto-target-produksi-beras-harus-dicapai/"
-date: "2017-08-28T16:46:54+07:00"
+title: '1969-05-21 Presiden Soeharto: Target Produksi Beras Harus Dicapai'
+description: RABU, 21 MEI 1969, “Target produksi beras pada akhir Pelita 1973 sebanyak
+  15,4 juta ton harus dicapai”, demikian pesan Presiden Soeharto ketika menerima para
+  Gubernur se-Jawa dan Sumatera Barat, serta kepala logistik dan inspektorat...
+date: '1969-05-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-05-21-presiden-soeharto-target-produksi-beras-harus-dicapai
+aliases:
+- 'Presiden Soeharto: Target Produksi Beras Harus Dicapai'
+- '1969-05-21 Presiden Soeharto: Target Produksi Beras Harus Dicapai – HM Soeharto'
+tags:
+- bimas
+- bulog
+- gotong-royong
+- gubernur
+- istana-merdeka
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- produksi-beras
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-05-21-presiden-soeharto-target-produksi-beras-harus-dicapai/
+  judul: '1969-05-21 Presiden Soeharto: Target Produksi Beras Harus Dicapai'
+  tanggal: '1969-05-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-05-21-presiden-soeharto-target-produksi-beras-harus-dicapai/
 ---
+
 
 # 1969-05-21 Presiden Soeharto: Target Produksi Beras Harus Dicapai
 

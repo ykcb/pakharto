@@ -1,9 +1,39 @@
 ---
-title: "1971-07-12 Presiden Soeharto Membuka Pekan Tabungan Koperasi – HM Soeharto"
-source: "https://soehartolibrary.id/1971-07-12-presiden-soeharto-membuka-pekan-tabungan-koperasi/"
-date: "2017-08-25T15:46:34+07:00"
+title: 1971-07-12 Presiden Soeharto Membuka Pekan Tabungan Koperasi
+description: SENIN, 12 Juli 1971. Hari ini adalah Hari Koperasi yang diperingati dengan
+  Pembukaan Pekan Tabungan Koperasi oleh Presiden Soeharto. Pekan Tabungan Koperasi
+  ini berlangsung dari tanggal 12 hingga 18 Juli.
+date: '1971-07-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-07-12-presiden-soeharto-membuka-pekan-tabungan-koperasi
+aliases:
+- Presiden Soeharto Membuka Pekan Tabungan Koperasi
+- 1971-07-12 Presiden Soeharto Membuka Pekan Tabungan Koperasi – HM Soeharto
+tags:
+- jenderal-soeharto
+- koperasi
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- tabungan
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-07-12-presiden-soeharto-membuka-pekan-tabungan-koperasi/
+  judul: 1971-07-12 Presiden Soeharto Membuka Pekan Tabungan Koperasi
+  tanggal: '1971-07-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-07-12-presiden-soeharto-membuka-pekan-tabungan-koperasi/
 ---
+
 
 # 1971-07-12 Presiden Soeharto Membuka Pekan Tabungan Koperasi
 

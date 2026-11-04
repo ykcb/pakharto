@@ -1,9 +1,39 @@
 ---
-title: "1973-05-29 Presiden Soeharto Tertibkan Penimbun dan Spekulan Beras – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-29-presiden-soeharto-tertibkan-penimbun-dan-spekulan-beras/"
-date: "2017-08-28T16:44:12+07:00"
+title: 1973-05-29 Presiden Soeharto Tertibkan Penimbun dan Spekulan Beras
+description: SELASA, 29 Mei 1973, Presiden Soeharto menginstruksikan agar aparat pemerintah
+  di daerah-daerah tidak menghambat kelancaran arus pengangkutan beras antar daerah.
+  Instruksi ini dikeluarkan didalam sidang Dewan Stabilisasi Ekonomi...
+date: '1973-05-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-29-presiden-soeharto-tertibkan-penimbun-dan-spekulan-beras
+aliases:
+- Presiden Soeharto Tertibkan Penimbun dan Spekulan Beras
+- 1973-05-29 Presiden Soeharto Tertibkan Penimbun dan Spekulan Beras – HM Soeharto
+tags:
+- beras
+- jawa-barat
+- orde-baru
+- penimbun
+- perpustakaan-soeharto
+- presiden-soeharto
+- spekulan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-29-presiden-soeharto-tertibkan-penimbun-dan-spekulan-beras/
+  judul: 1973-05-29 Presiden Soeharto Tertibkan Penimbun dan Spekulan Beras
+  tanggal: '1973-05-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-29-presiden-soeharto-tertibkan-penimbun-dan-spekulan-beras/
 ---
+
 
 # 1973-05-29 Presiden Soeharto Tertibkan Penimbun dan Spekulan Beras
 

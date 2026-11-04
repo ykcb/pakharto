@@ -1,9 +1,40 @@
 ---
-title: "1975-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan Zakat – HM Soeharto"
-source: "https://soehartolibrary.id/1975-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-dan-serahkan-zakat/"
-date: "2014-06-13T18:54:50+07:00"
+title: 1975-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan
+  Zakat
+description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-dan-serahkan-zakat/respond)
+  95 Views Share on
+date: '1975-10-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-dan-serahkan-zakat
+aliases:
+- Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan Zakat
+- 1975-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan Zakat
+  – HM Soeharto
+tags:
+- hari-kesaktian-pancasila
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-dan-serahkan-zakat/
+  judul: 1975-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan
+    Zakat
+  tanggal: '1975-10-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-dan-serahkan-zakat/
 ---
+
 
 # 1975-10-01 Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan Zakat
 

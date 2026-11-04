@@ -1,9 +1,38 @@
 ---
-title: "1969-04-14 Presiden Soeharto Menerima Buku The Smiling General – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-14-presiden-soeharto-menerima-buku-the-smiling-general/"
-date: "2014-03-22T02:58:36+07:00"
+title: 1969-04-14 Presiden Soeharto Menerima Buku The Smiling General
+description: 'SENIN, 14 APRIL 1969, Siang ini Presiden Soeharto menerima Dr. Roeder
+  yang diantar oleh Mas Agung. Keduanya datang untuk menyerahkan buku biografi Presiden
+  Soeharto, hasil karya penulis Jerman Barat itu. Buku tersebut berjudul : The...'
+date: '1969-04-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-14-presiden-soeharto-menerima-buku-the-smiling-general
+aliases:
+- Presiden Soeharto Menerima Buku The Smiling General
+- 1969-04-14 Presiden Soeharto Menerima Buku The Smiling General – HM Soeharto
+tags:
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- the-smiling-general
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-14-presiden-soeharto-menerima-buku-the-smiling-general/
+  judul: 1969-04-14 Presiden Soeharto Menerima Buku The Smiling General
+  tanggal: '1969-04-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-14-presiden-soeharto-menerima-buku-the-smiling-general/
 ---
+
 
 # 1969-04-14 Presiden Soeharto Menerima Buku The Smiling General
 

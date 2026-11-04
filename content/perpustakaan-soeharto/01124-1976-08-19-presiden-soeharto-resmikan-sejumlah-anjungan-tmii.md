@@ -1,9 +1,40 @@
 ---
-title: "1976-08-19 Presiden Soeharto Resmikan Sejumlah Anjungan TMII – HM Soeharto"
-source: "https://soehartolibrary.id/1976-08-19-presiden-soeharto-resmikan-sejumlah-anjungan-tmii/"
-date: "2017-08-22T17:43:16+07:00"
+title: 1976-08-19 Presiden Soeharto Resmikan Sejumlah Anjungan TMII
+description: 31 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-08-19-presiden-soeharto-resmikan-sejumlah-anjungan-tmii/respond)
+  91 Views Share on
+date: '1976-08-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-08-19-presiden-soeharto-resmikan-sejumlah-anjungan-tmii
+aliases:
+- Presiden Soeharto Resmikan Sejumlah Anjungan TMII
+- 1976-08-19 Presiden Soeharto Resmikan Sejumlah Anjungan TMII – HM Soeharto
+tags:
+- balairung
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- suamatera-barat
+- taman-burung
+- taman-ria
+- tmii
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-08-19-presiden-soeharto-resmikan-sejumlah-anjungan-tmii/
+  judul: 1976-08-19 Presiden Soeharto Resmikan Sejumlah Anjungan TMII
+  tanggal: '1976-08-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-08-19-presiden-soeharto-resmikan-sejumlah-anjungan-tmii/
 ---
+
 
 # 1976-08-19 Presiden Soeharto Resmikan Sejumlah Anjungan TMII
 

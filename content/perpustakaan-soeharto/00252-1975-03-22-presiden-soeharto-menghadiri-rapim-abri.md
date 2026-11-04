@@ -1,9 +1,38 @@
 ---
-title: "1975-03-22 Presiden Soeharto Menghadiri Rapim ABRI – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-22-presiden-soeharto-menghadiri-rapim-abri/"
-date: "2017-08-29T17:42:29+07:00"
+title: 1975-03-22 Presiden Soeharto Menghadiri Rapim ABRI
+description: SABTU, 22 MARET 1975, Jam 11.00 pagi Presiden Soeharto menerima para
+  peserta Rapim ABRI di Istana Merdeka. Pada kesempatan itu Kepala Negara telah mengamanatkan
+  bahwa Indonesia memang harus bergerak kearah suatu masyarakat yang modern,...
+date: '1975-03-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-22-presiden-soeharto-menghadiri-rapim-abri
+aliases:
+- Presiden Soeharto Menghadiri Rapim ABRI
+- 1975-03-22 Presiden Soeharto Menghadiri Rapim ABRI – HM Soeharto
+tags:
+- abri
+- demokrasi
+- orde-baru
+- pancasila
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-22-presiden-soeharto-menghadiri-rapim-abri/
+  judul: 1975-03-22 Presiden Soeharto Menghadiri Rapim ABRI
+  tanggal: '1975-03-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-22-presiden-soeharto-menghadiri-rapim-abri/
 ---
+
 
 # 1975-03-22 Presiden Soeharto Menghadiri Rapim ABRI
 

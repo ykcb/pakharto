@@ -1,9 +1,38 @@
 ---
-title: "1969-03-01 Melantik Tiga Duta Besar – HM Soeharto"
-source: "https://soehartolibrary.id/1969-03-01-melantik-tiga-duta-besar/"
-date: "2017-08-29T17:05:23+07:00"
+title: 1969-03-01 Melantik Tiga Duta Besar
+description: SABTU, 01 MARET 1969, Tiga orang duta besar RI yang baru, dilantik oleh
+  Presiden Soeharto pagi ini di Istana Merdeka. Ketiga dutabesar itu adalah Mayjen.
+  Asykari untuk Prancis, Isma’il Yusuf untuk Republik Federasi Jerman, dan Husein...
+date: '1969-03-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-03-01-melantik-tiga-duta-besar
+aliases:
+- Melantik Tiga Duta Besar
+- 1969-03-01 Melantik Tiga Duta Besar – HM Soeharto
+tags:
+- duta-besar
+- federasi-jerman
+- orde-baru
+- perpustakaan-soeharto
+- prancis
+- vatikan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-03-01-melantik-tiga-duta-besar/
+  judul: 1969-03-01 Melantik Tiga Duta Besar
+  tanggal: '1969-03-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-03-01-melantik-tiga-duta-besar/
 ---
+
 
 # 1969-03-01 Melantik Tiga Duta Besar
 

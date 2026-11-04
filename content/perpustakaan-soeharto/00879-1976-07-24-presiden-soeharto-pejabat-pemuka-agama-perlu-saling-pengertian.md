@@ -1,9 +1,39 @@
 ---
-title: "1976-07-24 Presiden Soeharto: Pejabat-Pemuka Agama Perlu Saling Pengertian – HM Soeharto"
-source: "https://soehartolibrary.id/1976-07-24-presiden-soeharto-pejabat-pemuka-agama-perlu-saling-pengertian/"
-date: "2017-08-23T11:40:14+07:00"
+title: '1976-07-24 Presiden Soeharto: Pejabat-Pemuka Agama Perlu Saling Pengertian'
+description: SABTU, 24 Juli 1976 Presiden Soeharto menghadiri acara peringatan Isra’
+  Mi’raj yang diselenggarakan di Istana Negara malam ini. Dalam amanatnya, Kepala
+  Negara mengatakan bahwa umat Islam tidak perlu takut terhadap teknologi, karena...
+date: '1976-07-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-07-24-presiden-soeharto-pejabat-pemuka-agama-perlu-saling-pengertian
+aliases:
+- 'Presiden Soeharto: Pejabat-Pemuka Agama Perlu Saling Pengertian'
+- '1976-07-24 Presiden Soeharto: Pejabat-Pemuka Agama Perlu Saling Pengertian – HM
+  Soeharto'
+tags:
+- orde-baru
+- pejabat
+- pembangunan
+- pemuka-agama
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-07-24-presiden-soeharto-pejabat-pemuka-agama-perlu-saling-pengertian/
+  judul: '1976-07-24 Presiden Soeharto: Pejabat-Pemuka Agama Perlu Saling Pengertian'
+  tanggal: '1976-07-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-07-24-presiden-soeharto-pejabat-pemuka-agama-perlu-saling-pengertian/
 ---
+
 
 # 1976-07-24 Presiden Soeharto: Pejabat-Pemuka Agama Perlu Saling Pengertian
 

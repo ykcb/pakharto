@@ -1,9 +1,42 @@
 ---
-title: "1976-03-30 Presiden Soeharto: Membayar Pajak Merupakan Realisasi Falsafah Pancasila – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-30-presiden-soeharto-membayar-pajak-merupakan-realisasi-falsafah-pancasila/"
-date: "2017-08-29T17:43:58+07:00"
+title: '1976-03-30 Presiden Soeharto: Membayar Pajak Merupakan Realisasi Falsafah
+  Pancasila'
+description: SELASA, 30 MARET 1976, Presiden Soeharto menyatakan pendapatnya bahwa
+  membayar pajak kepada negara merupakan realisasi kehidupan Pancasila, oleh karena
+  itu sistem perpajakan di Indonesia harus pula sesuai dengan falsafah Pancasila....
+date: '1976-03-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-30-presiden-soeharto-membayar-pajak-merupakan-realisasi-falsafah-pancasila
+aliases:
+- 'Presiden Soeharto: Membayar Pajak Merupakan Realisasi Falsafah Pancasila'
+- '1976-03-30 Presiden Soeharto: Membayar Pajak Merupakan Realisasi Falsafah Pancasila
+  – HM Soeharto'
+tags:
+- orde-baru
+- pajak
+- pancasila
+- perpustakaan-soeharto
+- presiden-soeharto
+- sekolah
+- sma
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-30-presiden-soeharto-membayar-pajak-merupakan-realisasi-falsafah-pancasila/
+  judul: '1976-03-30 Presiden Soeharto: Membayar Pajak Merupakan Realisasi Falsafah
+    Pancasila'
+  tanggal: '1976-03-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-30-presiden-soeharto-membayar-pajak-merupakan-realisasi-falsafah-pancasila/
 ---
+
 
 # 1976-03-30 Presiden Soeharto: Membayar Pajak Merupakan Realisasi Falsafah Pancasila
 

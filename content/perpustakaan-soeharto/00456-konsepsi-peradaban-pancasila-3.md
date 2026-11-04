@@ -1,9 +1,38 @@
 ---
-title: "Konsepsi Peradaban Pancasila (3) – HM Soeharto"
-source: "https://soehartolibrary.id/konsepsi-peradaban-pancasila-3/"
-date: "2013-04-26T10:16:20+07:00"
+title: Konsepsi Peradaban Pancasila (3)
+description: Sebagaimana etos transendensi, pluralisme juga telah menjiwa dalam masyarakat
+  Nusantara. Pluralisme merupakan sistem nilai yang memandang positif dan optimis
+  terhadap keragaman dengan menerimanya sebagai kenyataan dan melakukan...
+date: '2013-04-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: konsepsi-peradaban-pancasila-3
+aliases:
+- Konsepsi Peradaban Pancasila (3) – HM Soeharto
+tags:
+- keadaban
+- keadilan
+- orde-baru
+- pancasila
+- perpustakaan-soeharto
+- pluralisme
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/konsepsi-peradaban-pancasila-3/
+  judul: Konsepsi Peradaban Pancasila (3)
+  tanggal: '2013-04-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/konsepsi-peradaban-pancasila-3/
 ---
+
 
 # Konsepsi Peradaban Pancasila (3)
 

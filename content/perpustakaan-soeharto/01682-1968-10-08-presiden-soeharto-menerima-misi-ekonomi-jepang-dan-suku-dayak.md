@@ -1,9 +1,38 @@
 ---
-title: "1968-10-08 Presiden Soeharto Menerima Misi Ekonomi Jepang dan Suku Dayak – HM Soeharto"
-source: "https://soehartolibrary.id/1968-10-08-presiden-soeharto-menerima-misi-ekonomi-jepang-dan-suku-dayak/"
-date: "2014-04-01T02:12:31+07:00"
+title: 1968-10-08 Presiden Soeharto Menerima Misi Ekonomi Jepang dan Suku Dayak
+description: 1 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-10-08-presiden-soeharto-menerima-misi-ekonomi-jepang-dan-suku-dayak/respond)
+  153 Views Share on
+date: '1968-10-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-10-08-presiden-soeharto-menerima-misi-ekonomi-jepang-dan-suku-dayak
+aliases:
+- Presiden Soeharto Menerima Misi Ekonomi Jepang dan Suku Dayak
+- 1968-10-08 Presiden Soeharto Menerima Misi Ekonomi Jepang dan Suku Dayak – HM Soeharto
+tags:
+- jepang
+- keidanren
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- suku-dayak
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-10-08-presiden-soeharto-menerima-misi-ekonomi-jepang-dan-suku-dayak/
+  judul: 1968-10-08 Presiden Soeharto Menerima Misi Ekonomi Jepang dan Suku Dayak
+  tanggal: '1968-10-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-10-08-presiden-soeharto-menerima-misi-ekonomi-jepang-dan-suku-dayak/
 ---
+
 
 # 1968-10-08 Presiden Soeharto Menerima Misi Ekonomi Jepang dan Suku Dayak
 

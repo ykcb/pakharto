@@ -1,9 +1,43 @@
 ---
-title: "1970-05-26 Presiden Soeharto: Asia Tenggara Tidak Perlu Persekutuan Militer – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-26-presiden-soeharto-asia-tenggara-tidak-perlu-persekutuan-militer/"
-date: "2017-08-28T16:45:19+07:00"
+title: '1970-05-26 Presiden Soeharto: Asia Tenggara Tidak Perlu Persekutuan Militer'
+description: 'Presiden Soeharto: Asia Tenggara Tidak Perlu Persekutuan Militer'
+date: '1970-05-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-26-presiden-soeharto-asia-tenggara-tidak-perlu-persekutuan-militer
+aliases:
+- 'Presiden Soeharto: Asia Tenggara Tidak Perlu Persekutuan Militer'
+- '1970-05-26 Presiden Soeharto: Asia Tenggara Tidak Perlu Persekutuan Militer – HM
+  Soeharto'
+tags:
+- amerika-serikat
+- arlington
+- asia-tenggara
+- gedung-putih
+- nixon
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- spiro-agnew
+- virginia
+- washington
+- williamsburg
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-26-presiden-soeharto-asia-tenggara-tidak-perlu-persekutuan-militer/
+  judul: '1970-05-26 Presiden Soeharto: Asia Tenggara Tidak Perlu Persekutuan Militer'
+  tanggal: '1970-05-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-26-presiden-soeharto-asia-tenggara-tidak-perlu-persekutuan-militer/
 ---
+
 
 # 1970-05-26 Presiden Soeharto: Asia Tenggara Tidak Perlu Persekutuan Militer
 

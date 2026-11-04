@@ -1,9 +1,41 @@
 ---
-title: "1974-10-02 Presiden Soeharto Adakan Pembicaraan Resmi dengan Shah Iran dan Hadiri Nuzulul Qur’an – HM Soeharto"
-source: "https://soehartolibrary.id/1974-10-02-presiden-soeharto-adakan-pembicaraan-resmi-dengan-shah-iran-dan-hadiri-nuzulul-quran/"
-date: "2014-12-01T13:55:43+07:00"
+title: 1974-10-02 Presiden Soeharto Adakan Pembicaraan Resmi dengan Shah Iran dan
+  Hadiri Nuzulul Qur’an
+description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-10-02-presiden-soeharto-adakan-pembicaraan-resmi-dengan-shah-iran-dan-hadiri-nuzulul-quran/respond)
+  91 Views Share on
+date: '1974-10-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-10-02-presiden-soeharto-adakan-pembicaraan-resmi-dengan-shah-iran-dan-hadiri-nuzulul-quran
+aliases:
+- Presiden Soeharto Adakan Pembicaraan Resmi dengan Shah Iran dan Hadiri Nuzulul Qur’an
+- 1974-10-02 Presiden Soeharto Adakan Pembicaraan Resmi dengan Shah Iran dan Hadiri
+  Nuzulul Qur’an – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- ratu-pahlevi
+- shah-iran
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-10-02-presiden-soeharto-adakan-pembicaraan-resmi-dengan-shah-iran-dan-hadiri-nuzulul-quran/
+  judul: 1974-10-02 Presiden Soeharto Adakan Pembicaraan Resmi dengan Shah Iran dan
+    Hadiri Nuzulul Qur’an
+  tanggal: '1974-10-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-10-02-presiden-soeharto-adakan-pembicaraan-resmi-dengan-shah-iran-dan-hadiri-nuzulul-quran/
 ---
+
 
 # 1974-10-02 Presiden Soeharto Adakan Pembicaraan Resmi dengan Shah Iran dan Hadiri Nuzulul Qur’an
 

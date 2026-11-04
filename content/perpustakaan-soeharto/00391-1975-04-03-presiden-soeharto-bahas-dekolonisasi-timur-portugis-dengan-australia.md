@@ -1,9 +1,44 @@
 ---
-title: "1975-04-03 Presiden Soeharto Bahas Dekolonisasi Timur Portugis Dengan Australia – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-03-presiden-soeharto-bahas-dekolonisasi-timur-portugis-dengan-australia/"
-date: "2014-03-22T02:56:18+07:00"
+title: 1975-04-03 Presiden Soeharto Bahas Dekolonisasi Timur Portugis Dengan Australia
+description: KAMIS, 3 April 1975, Pukul 07.00 pagi ini, Presiden Soeharto meninggalkan
+  tanah air menuju Australia dalam rangka kunjungan tidak remi selama tiga hari di
+  Negara Kangguru itu. Setiba di Townsville sore ini, Kepala Negara disambut oleh...
+date: '1975-04-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-03-presiden-soeharto-bahas-dekolonisasi-timur-portugis-dengan-australia
+aliases:
+- Presiden Soeharto Bahas Dekolonisasi Timur Portugis Dengan Australia
+- 1975-04-03 Presiden Soeharto Bahas Dekolonisasi Timur Portugis Dengan Australia
+  – HM Soeharto
+tags:
+- dekolonisasi
+- gough-whitlam
+- indo-cina
+- kangguru
+- orde-baru
+- perdana-menteri-australia
+- perpustakaan-soeharto
+- presiden-soeharto
+- queensland
+- timur-portugis
+- townsville
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-03-presiden-soeharto-bahas-dekolonisasi-timur-portugis-dengan-australia/
+  judul: 1975-04-03 Presiden Soeharto Bahas Dekolonisasi Timur Portugis Dengan Australia
+  tanggal: '1975-04-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-03-presiden-soeharto-bahas-dekolonisasi-timur-portugis-dengan-australia/
 ---
+
 
 # 1975-04-03 Presiden Soeharto Bahas Dekolonisasi Timur Portugis Dengan Australia
 

@@ -1,9 +1,35 @@
 ---
-title: "Pak Harto Dan Trilogi Pembangunan (5) – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-5/"
-date: "2014-04-07T01:13:12+07:00"
+title: Pak Harto Dan Trilogi Pembangunan (5)
+description: Terdapat dua instrumen pemersatu energi bangsa yang dipergunakan Presiden
+  Soeharto dalam membangun kembali Indonesia. Pertama, konsolidasi orientasi idiologi
+  kebangsaan yang diletakkan dalam pijakan Pancasila dan UUD 1945. Kedua, visi...
+date: '2014-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-dan-trilogi-pembangunan-5
+aliases:
+- Pak Harto Dan Trilogi Pembangunan (5) – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- trilogi-pembangunan
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-5/
+  judul: Pak Harto Dan Trilogi Pembangunan (5)
+  tanggal: '2014-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-5/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/05/42.jpg)
 

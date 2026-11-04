@@ -1,9 +1,37 @@
 ---
-title: "1971-06-26 Pemerintah Tetap Berlakukan Retribusi Barang Ex Luar Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-26-pemerintah-tetap-berlakukan-retribusi-barang-ex-luar-negeri/"
-date: "2017-08-24T15:28:11+07:00"
+title: 1971-06-26 Pemerintah Tetap Berlakukan Retribusi Barang Ex Luar Negeri
+description: SABTU, 26 Juni 1971, Pada hari ini ditegaskan kembali oleh Departemen
+  Penerangan tentang berlakunya Keppres No. 47 tahun 1971. Adapun keputusan itu telah
+  menetapkan tentang pungutan retribusi terhadap barang-barang ex luar negeri yang...
+date: '1971-06-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-26-pemerintah-tetap-berlakukan-retribusi-barang-ex-luar-negeri
+aliases:
+- Pemerintah Tetap Berlakukan Retribusi Barang Ex Luar Negeri
+- 1971-06-26 Pemerintah Tetap Berlakukan Retribusi Barang Ex Luar Negeri – HM Soeharto
+tags:
+- keppres-no-47-tahun-1971
+- orde-baru
+- perpustakaan-soeharto
+- retribusi
+- sabang
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-26-pemerintah-tetap-berlakukan-retribusi-barang-ex-luar-negeri/
+  judul: 1971-06-26 Pemerintah Tetap Berlakukan Retribusi Barang Ex Luar Negeri
+  tanggal: '1971-06-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-26-pemerintah-tetap-berlakukan-retribusi-barang-ex-luar-negeri/
 ---
+
 
 # 1971-06-26 Pemerintah Tetap Berlakukan Retribusi Barang Ex Luar Negeri
 

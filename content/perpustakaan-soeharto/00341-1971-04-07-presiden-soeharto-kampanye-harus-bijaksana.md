@@ -1,9 +1,39 @@
 ---
-title: "1971-04-07 Presiden Soeharto: Kampanye Harus Bijaksana – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-07-presiden-soeharto-kampanye-harus-bijaksana/"
-date: "2014-03-22T02:58:28+07:00"
+title: '1971-04-07 Presiden Soeharto: Kampanye Harus Bijaksana'
+description: RABU 7 April 1971, Pagi ini jam 10.00 bertempat di Bina Graha, Presiden
+  Soeharto mengadakan pertemuan dengan pimpinan partai politik dan Golkar. Kepada
+  para pemimpin organisasi politik ini, Presiden Soeharto menjelaskan tentang...
+date: '1971-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-07-presiden-soeharto-kampanye-harus-bijaksana
+aliases:
+- 'Presiden Soeharto: Kampanye Harus Bijaksana'
+- '1971-04-07 Presiden Soeharto: Kampanye Harus Bijaksana – HM Soeharto'
+tags:
+- golkar
+- kampanye
+- orde-baru
+- partai-politik
+- pemilu
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-07-presiden-soeharto-kampanye-harus-bijaksana/
+  judul: '1971-04-07 Presiden Soeharto: Kampanye Harus Bijaksana'
+  tanggal: '1971-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-07-presiden-soeharto-kampanye-harus-bijaksana/
 ---
+
 
 # 1971-04-07 Presiden Soeharto: Kampanye Harus Bijaksana
 

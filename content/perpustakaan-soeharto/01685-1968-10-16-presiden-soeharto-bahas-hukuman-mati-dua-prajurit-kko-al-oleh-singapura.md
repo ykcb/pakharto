@@ -1,9 +1,42 @@
 ---
-title: "1968-10-16 Presiden Soeharto Bahas Hukuman Mati Dua Prajurit KKO-AL Oleh Singapura – HM Soeharto"
-source: "https://soehartolibrary.id/1968-10-16-presiden-soeharto-bahas-hukuman-mati-dua-prajurit-kko-al-oleh-singapura/"
-date: "2015-02-25T08:54:51+07:00"
+title: 1968-10-16 Presiden Soeharto Bahas Hukuman Mati Dua Prajurit KKO-AL Oleh Singapura
+description: 1 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-10-16-presiden-soeharto-bahas-hukuman-mati-dua-prajurit-kko-al-oleh-singapura/respond)
+  88 Views Share on
+date: '1968-10-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-10-16-presiden-soeharto-bahas-hukuman-mati-dua-prajurit-kko-al-oleh-singapura
+aliases:
+- Presiden Soeharto Bahas Hukuman Mati Dua Prajurit KKO-AL Oleh Singapura
+- 1968-10-16 Presiden Soeharto Bahas Hukuman Mati Dua Prajurit KKO-AL Oleh Singapura
+  – HM Soeharto
+tags:
+- harun-said
+- kepala-negara
+- kko-al
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- singapura
+- usman-ali
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-10-16-presiden-soeharto-bahas-hukuman-mati-dua-prajurit-kko-al-oleh-singapura/
+  judul: 1968-10-16 Presiden Soeharto Bahas Hukuman Mati Dua Prajurit KKO-AL Oleh
+    Singapura
+  tanggal: '1968-10-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-10-16-presiden-soeharto-bahas-hukuman-mati-dua-prajurit-kko-al-oleh-singapura/
 ---
+
 
 # 1968-10-16 Presiden Soeharto Bahas Hukuman Mati Dua Prajurit KKO-AL Oleh Singapura
 

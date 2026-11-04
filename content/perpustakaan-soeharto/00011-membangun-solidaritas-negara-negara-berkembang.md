@@ -1,9 +1,35 @@
 ---
-title: "MEMBANGUN SOLIDARITAS NEGARA-NEGARA BERKEMBANG – HM Soeharto"
-source: "https://soehartolibrary.id/membangun-solidaritas-negara-negara-berkembang/"
-date: "2014-03-22T00:33:59+07:00"
+title: MEMBANGUN SOLIDARITAS NEGARA-NEGARA BERKEMBANG
+description: Setelah mengukuhkan pijakan atas kendali stabilitas dalam negeri dan
+  kawasan Asean, Presiden Soeharto melancarkan politik luar negeri dalam skala lebih
+  luas. Indonesia proaktif dalam agenda pembebasan dunia dari bentuk-bentuk soft and...
+date: '2014-03-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: membangun-solidaritas-negara-negara-berkembang
+aliases:
+- MEMBANGUN SOLIDARITAS NEGARA-NEGARA BERKEMBANG – HM Soeharto
+tags:
+- negara-berkembang
+- orde-baru
+- perpustakaan-soeharto
+- politik-luar-negeri
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/membangun-solidaritas-negara-negara-berkembang/
+  judul: MEMBANGUN SOLIDARITAS NEGARA-NEGARA BERKEMBANG
+  tanggal: '2014-03-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/membangun-solidaritas-negara-negara-berkembang/
 ---
+
 
 # MEMBANGUN SOLIDARITAS NEGARA-NEGARA BERKEMBANG
 

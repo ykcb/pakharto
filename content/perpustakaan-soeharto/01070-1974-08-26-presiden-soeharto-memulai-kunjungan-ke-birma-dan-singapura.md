@@ -1,9 +1,39 @@
 ---
-title: "1974-08-26 Presiden Soeharto Memulai Kunjungan Ke Birma dan Singapura – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-26-presiden-soeharto-memulai-kunjungan-ke-birma-dan-singapura/"
-date: "2017-08-23T11:17:38+07:00"
+title: 1974-08-26 Presiden Soeharto Memulai Kunjungan Ke Birma dan Singapura
+description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-26-presiden-soeharto-memulai-kunjungan-ke-birma-dan-singapura/respond)
+  97 Views Share on
+date: '1974-08-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-26-presiden-soeharto-memulai-kunjungan-ke-birma-dan-singapura
+aliases:
+- Presiden Soeharto Memulai Kunjungan Ke Birma dan Singapura
+- 1974-08-26 Presiden Soeharto Memulai Kunjungan Ke Birma dan Singapura – HM Soeharto
+tags:
+- birma
+- ibu-tien-soeharto
+- kunjungan-kenegaraan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- singapura
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-26-presiden-soeharto-memulai-kunjungan-ke-birma-dan-singapura/
+  judul: 1974-08-26 Presiden Soeharto Memulai Kunjungan Ke Birma dan Singapura
+  tanggal: '1974-08-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-26-presiden-soeharto-memulai-kunjungan-ke-birma-dan-singapura/
 ---
+
 
 # 1974-08-26 Presiden Soeharto Memulai Kunjungan Ke Birma dan Singapura
 

@@ -1,9 +1,40 @@
 ---
-title: "1969-06-14 Presiden Soeharto: Jakarta Fair Penggerak Semangat Kemajuan – HM Soeharto"
-source: "https://soehartolibrary.id/1969-06-14-presiden-soeharto-jakarta-fair-penggerak-semangat-kemajuan/"
-date: "2017-08-24T15:29:59+07:00"
+title: '1969-06-14 Presiden Soeharto: Jakarta Fair Penggerak Semangat Kemajuan'
+description: SABTU, 14 JUNI 1969, Presiden Soeharto dengan didampingi oleh Gubernur
+  DKI Ali Sadikin dan Ketua Penyelenggara, Ir. Oemar Tusin, sore ini membuka Jakarta
+  Fair 1969, dengan menekan tombol yang menyalakan penerangan listrik di seluruh...
+date: '1969-06-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-06-14-presiden-soeharto-jakarta-fair-penggerak-semangat-kemajuan
+aliases:
+- 'Presiden Soeharto: Jakarta Fair Penggerak Semangat Kemajuan'
+- '1969-06-14 Presiden Soeharto: Jakarta Fair Penggerak Semangat Kemajuan – HM Soeharto'
+tags:
+- ali-sadikin
+- gubernur-dki
+- ir-oemar-tusin
+- jakarta-fair
+- metropolitan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-06-14-presiden-soeharto-jakarta-fair-penggerak-semangat-kemajuan/
+  judul: '1969-06-14 Presiden Soeharto: Jakarta Fair Penggerak Semangat Kemajuan'
+  tanggal: '1969-06-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-06-14-presiden-soeharto-jakarta-fair-penggerak-semangat-kemajuan/
 ---
+
 
 # 1969-06-14 Presiden Soeharto: Jakarta Fair Penggerak Semangat Kemajuan
 

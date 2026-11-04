@@ -1,9 +1,42 @@
 ---
-title: "1974-03-20 Presiden Soeharto: RUU Harus Sesuai Aspirasi dan Perjuangan Bangsa Indonesia – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-20-presiden-soeharto-ruu-harus-sesuai-aspirasi-dan-perjuangan-bangsa-indonesia/"
-date: "2014-03-22T03:01:48+07:00"
+title: '1974-03-20 Presiden Soeharto: RUU Harus Sesuai Aspirasi dan Perjuangan Bangsa
+  Indonesia'
+description: RABU, 20 MARET 1974, Pada jam 10.00 pagi, Presiden Soeharto mengadakan
+  rapat koordinasi dengan Menteri Dalam Negeri Amirmachmud, Menteri Kehakiman Mochtar
+  Kusumaatmaja, Menteri/Sekretaris Negara Sudharmono, Menteri Pertahanan/Keamanan...
+date: '1974-03-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-20-presiden-soeharto-ruu-harus-sesuai-aspirasi-dan-perjuangan-bangsa-indonesia
+aliases:
+- 'Presiden Soeharto: RUU Harus Sesuai Aspirasi dan Perjuangan Bangsa Indonesia'
+- '1974-03-20 Presiden Soeharto: RUU Harus Sesuai Aspirasi dan Perjuangan Bangsa Indonesia
+  – HM Soeharto'
+tags:
+- aspirasi
+- menteri
+- orde-baru
+- perjuangan
+- perpustakaan-soeharto
+- presiden-soeharto
+- ruu
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-20-presiden-soeharto-ruu-harus-sesuai-aspirasi-dan-perjuangan-bangsa-indonesia/
+  judul: '1974-03-20 Presiden Soeharto: RUU Harus Sesuai Aspirasi dan Perjuangan Bangsa
+    Indonesia'
+  tanggal: '1974-03-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-20-presiden-soeharto-ruu-harus-sesuai-aspirasi-dan-perjuangan-bangsa-indonesia/
 ---
+
 
 # 1974-03-20 Presiden Soeharto: RUU Harus Sesuai Aspirasi dan Perjuangan Bangsa Indonesia
 

@@ -1,9 +1,43 @@
 ---
-title: "Pak Harto: Harga Diri Bangsa di Bela Dengan Pertaruhan Nyawa – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-harga-diri-bangsa-dibela-dengan-pertaruhan-nyawa/"
-date: "2013-06-20T17:50:23+07:00"
+title: 'Pak Harto: Harga Diri Bangsa di Bela Dengan Pertaruhan Nyawa'
+description: Salah satu keunggulan karakter kepemimpinan Pak Harto adalah nasionalismenya
+  yang sangat tinggi, berani mengambil risiko, memanggul beban tanggung jawab (tidak
+  lari dari tanggung jawab), serta mau belajar kepada siapapun, termasuk...
+date: '2013-06-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-harga-diri-bangsa-dibela-dengan-pertaruhan-nyawa
+aliases:
+- 'Pak Harto: Harga Diri Bangsa di Bela Dengan Pertaruhan Nyawa – HM Soeharto'
+tags:
+- achmad-mansyur
+- bandung
+- belanda
+- iggi
+- jp-pronk
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sejarawan
+- sri-edi-swasono
+- universitas-padjajaran
+- uud-1945
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-harga-diri-bangsa-dibela-dengan-pertaruhan-nyawa/
+  judul: 'Pak Harto: Harga Diri Bangsa di Bela Dengan Pertaruhan Nyawa'
+  tanggal: '2013-06-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-harga-diri-bangsa-dibela-dengan-pertaruhan-nyawa/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/05/Prof-Edi-1.jpg)
 

@@ -1,9 +1,44 @@
 ---
-title: "1972-09-25 Presiden Soeharto Nyatakan Gembira KPP Tidak Soalkan Piagam Jakarta – HM Soeharto"
-source: "https://soehartolibrary.id/1972-09-25-presiden-soeharto-nyatakan-gembira-ppp-tidak-soalkan-piagam-jakarta/"
-date: "2017-08-23T11:01:53+07:00"
+title: 1972-09-25 Presiden Soeharto Nyatakan Gembira KPP Tidak Soalkan Piagam Jakarta
+description: 15 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-09-25-presiden-soeharto-nyatakan-gembira-ppp-tidak-soalkan-piagam-jakarta/respond)
+  102 Views Share on
+date: '1972-09-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-09-25-presiden-soeharto-nyatakan-gembira-ppp-tidak-soalkan-piagam-jakarta
+aliases:
+- Presiden Soeharto Nyatakan Gembira KPP Tidak Soalkan Piagam Jakarta
+- 1972-09-25 Presiden Soeharto Nyatakan Gembira KPP Tidak Soalkan Piagam Jakarta –
+  HM Soeharto
+tags:
+- hms-mintaredja
+- nu
+- orde-baru
+- pancasila
+- parmusi
+- perpustakaan-soeharto
+- persatuan-pembangunan
+- perti
+- piagam-jakarta
+- presiden-soeharto
+- psii
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-09-25-presiden-soeharto-nyatakan-gembira-ppp-tidak-soalkan-piagam-jakarta/
+  judul: 1972-09-25 Presiden Soeharto Nyatakan Gembira KPP Tidak Soalkan Piagam Jakarta
+  tanggal: '1972-09-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-09-25-presiden-soeharto-nyatakan-gembira-ppp-tidak-soalkan-piagam-jakarta/
 ---
+
 
 # 1972-09-25 Presiden Soeharto Nyatakan Gembira KPP Tidak Soalkan Piagam Jakarta
 

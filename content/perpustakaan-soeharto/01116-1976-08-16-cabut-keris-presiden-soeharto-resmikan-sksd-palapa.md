@@ -1,9 +1,45 @@
 ---
-title: "1976-08-16 Cabut Keris, Presiden Soeharto Resmikan SKSD Palapa – HM Soeharto"
-source: "https://soehartolibrary.id/1976-08-16-cabut-keris-presiden-soeharto-resmikan-sksd-palapa/"
-date: "2014-03-21T23:15:48+07:00"
+title: 1976-08-16 Cabut Keris, Presiden Soeharto Resmikan SKSD Palapa
+description: 30 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-08-16-cabut-keris-presiden-soeharto-resmikan-sksd-palapa/respond)
+  100 Views Share on
+date: '1976-08-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-08-16-cabut-keris-presiden-soeharto-resmikan-sksd-palapa
+aliases:
+- Cabut Keris, Presiden Soeharto Resmikan SKSD Palapa
+- 1976-08-16 Cabut Keris, Presiden Soeharto Resmikan SKSD Palapa – HM Soeharto
+tags:
+- gnp
+- gubernur-aceh
+- gubernur-irian-jaya
+- kepala-negara
+- keris
+- muzakkir-walad
+- orde-baru
+- pancasila
+- perpustakaan-soeharto
+- presiden-soeharto
+- sutran
+- timor-timur
+- tombol-elektronis
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-08-16-cabut-keris-presiden-soeharto-resmikan-sksd-palapa/
+  judul: 1976-08-16 Cabut Keris, Presiden Soeharto Resmikan SKSD Palapa
+  tanggal: '1976-08-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-08-16-cabut-keris-presiden-soeharto-resmikan-sksd-palapa/
 ---
+
 
 # 1976-08-16 Cabut Keris, Presiden Soeharto Resmikan SKSD Palapa
 

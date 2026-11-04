@@ -1,9 +1,47 @@
 ---
-title: "1970-02-12 Meninjau Banjir Jakarta & Dialog Dengan Warga – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-12-meninjau-banjir-jakarta-dialog-dengan-warga/"
-date: "2017-08-29T11:16:33+07:00"
+title: 1970-02-12 Meninjau Banjir Jakarta & Dialog Dengan Warga
+description: '(Berdialog Dengan Penduduk Setempat: Pekerja Buruh Harian, Penimbun
+  Jalan, Penjual Singkong, Penjual Kopi)'
+date: '1970-02-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-12-meninjau-banjir-jakarta-dialog-dengan-warga
+aliases:
+- Meninjau Banjir Jakarta & Dialog Dengan Warga
+- 1970-02-12 Meninjau Banjir Jakarta & Dialog Dengan Warga – HM Soeharto
+tags:
+- banjir
+- buruh-harian
+- dialog
+- jakarta
+- kramat-jati
+- orde-baru
+- penimbun-jalan
+- penjual-kopi
+- penjual-singkong
+- perpustakaan-soeharto
+- pintu-air-manggarai
+- pintu-air-pejompongan
+- rumah-sakit-yayasan-jakarta
+- tanah-abang
+- tanggul-tomang
+- waduk-setiabudi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-12-meninjau-banjir-jakarta-dialog-dengan-warga/
+  judul: 1970-02-12 Meninjau Banjir Jakarta & Dialog Dengan Warga
+  tanggal: '1970-02-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-12-meninjau-banjir-jakarta-dialog-dengan-warga/
 ---
+
 
 # 1970-02-12 Meninjau Banjir Jakarta & Dialog Dengan Warga
 

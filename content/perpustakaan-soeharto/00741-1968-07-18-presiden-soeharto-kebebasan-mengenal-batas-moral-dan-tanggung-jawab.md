@@ -1,9 +1,43 @@
 ---
-title: "1968-07-18 Presiden Soeharto: Kebebasan Mengenal Batas Moral dan Tanggung Jawab – HM Soeharto"
-source: "https://soehartolibrary.id/1968-07-18-presiden-soeharto-kebebasan-mengenal-batas-moral-dan-tanggung-jawab/"
-date: "2017-08-24T15:26:28+07:00"
+title: '1968-07-18 Presiden Soeharto: Kebebasan Mengenal Batas Moral dan Tanggung
+  Jawab'
+description: KAMIS,18 Juli 1968. Pada hari kedua kunjungannya di Sumatera Selatan,
+  Presiden Soeharto antara lain telah bertatap muka dengan tokoh-tokoh pemerintah
+  daerah, partai politik/organisasi massa Sumatera Selatan di gedung DPR-GR. Dalam...
+date: '1968-07-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-07-18-presiden-soeharto-kebebasan-mengenal-batas-moral-dan-tanggung-jawab
+aliases:
+- 'Presiden Soeharto: Kebebasan Mengenal Batas Moral dan Tanggung Jawab'
+- '1968-07-18 Presiden Soeharto: Kebebasan Mengenal Batas Moral dan Tanggung Jawab
+  – HM Soeharto'
+tags:
+- demokrasi
+- dpr-gr
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- sumatera-selatan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-07-18-presiden-soeharto-kebebasan-mengenal-batas-moral-dan-tanggung-jawab/
+  judul: '1968-07-18 Presiden Soeharto: Kebebasan Mengenal Batas Moral dan Tanggung
+    Jawab'
+  tanggal: '1968-07-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-07-18-presiden-soeharto-kebebasan-mengenal-batas-moral-dan-tanggung-jawab/
 ---
+
 
 # 1968-07-18 Presiden Soeharto: Kebebasan Mengenal Batas Moral dan Tanggung Jawab
 

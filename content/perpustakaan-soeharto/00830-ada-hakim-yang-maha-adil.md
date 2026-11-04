@@ -1,9 +1,36 @@
 ---
-title: "Ada Hakim Yang Maha Adil – HM Soeharto"
-source: "https://soehartolibrary.id/ada-hakim-yang-maha-adil/"
-date: "2013-07-24T10:43:12+07:00"
+title: Ada Hakim Yang Maha Adil
+description: Saya sangat sedih dengan keadaan yang melanda Indonesia. Saya sedih,
+  mengapa Bapak Berhenti jadi presiden dan meninggalkan kami rakyat kecil yang masih
+  membutuhkan bimbingan Bapak. Tidak semua rakyat menolak Bapak. Bapak adalah figur...
+date: '2013-07-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: ada-hakim-yang-maha-adil
+aliases:
+- Ada Hakim Yang Maha Adil – HM Soeharto
+tags:
+- denpasar
+- mengundurkan-diri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/ada-hakim-yang-maha-adil/
+  judul: Ada Hakim Yang Maha Adil
+  tanggal: '2013-07-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/ada-hakim-yang-maha-adil/
 ---
+
 
 # Ada Hakim Yang Maha Adil
 

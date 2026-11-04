@@ -1,9 +1,42 @@
 ---
-title: "1970-02-24 Peredaran Uang, Judi Nalo dan Pelabuhan Impor – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-24-peredaran-uang-judi-nalo-dan-pelabuhan-impor/"
-date: "2017-07-05T15:33:19+07:00"
+title: 1970-02-24 Peredaran Uang, Judi Nalo dan Pelabuhan Impor
+description: PEREDARAN UANG, JUDI BUNTUT NALO DAN PELABUHAN IMPOR
+date: '1970-02-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-24-peredaran-uang-judi-nalo-dan-pelabuhan-impor
+aliases:
+- Peredaran Uang, Judi Nalo dan Pelabuhan Impor
+- 1970-02-24 Peredaran Uang, Judi Nalo dan Pelabuhan Impor – HM Soeharto
+tags:
+- impor
+- irian-barat
+- judi
+- nalo
+- orde-baru
+- pelabuhan
+- peredaran
+- perpustakaan-soeharto
+- presiden
+- riau
+- soeharto
+- uang
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-24-peredaran-uang-judi-nalo-dan-pelabuhan-impor/
+  judul: 1970-02-24 Peredaran Uang, Judi Nalo dan Pelabuhan Impor
+  tanggal: '1970-02-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-24-peredaran-uang-judi-nalo-dan-pelabuhan-impor/
 ---
+
 
 # 1970-02-24 Peredaran Uang, Judi Nalo dan Pelabuhan Impor
 

@@ -1,9 +1,44 @@
 ---
-title: "1974-09-17 Presiden Soeharto Bahas Moneter dan Serangan Hama Belalang di Sumba – HM Soeharto"
-source: "https://soehartolibrary.id/1974-09-17-presiden-soeharto-bahas-moneter-dan-serangan-hama-belalang-di-sumba/"
-date: "2017-08-23T10:53:22+07:00"
+title: 1974-09-17 Presiden Soeharto Bahas Moneter dan Serangan Hama Belalang di Sumba
+description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-09-17-presiden-soeharto-bahas-moneter-dan-serangan-hama-belalang-di-sumba/respond)
+  110 Views Share on
+date: '1974-09-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-09-17-presiden-soeharto-bahas-moneter-dan-serangan-hama-belalang-di-sumba
+aliases:
+- Presiden Soeharto Bahas Moneter dan Serangan Hama Belalang di Sumba
+- 1974-09-17 Presiden Soeharto Bahas Moneter dan Serangan Hama Belalang di Sumba –
+  HM Soeharto
+tags:
+- ali-wardhana
+- hama-belalang
+- menteri-keuangan
+- menteri-pertanian
+- nusa-tenggara-timur
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- prof-thojib-hadiwidjaja
+- pulau-sumba
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-09-17-presiden-soeharto-bahas-moneter-dan-serangan-hama-belalang-di-sumba/
+  judul: 1974-09-17 Presiden Soeharto Bahas Moneter dan Serangan Hama Belalang di
+    Sumba
+  tanggal: '1974-09-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-09-17-presiden-soeharto-bahas-moneter-dan-serangan-hama-belalang-di-sumba/
 ---
+
 
 # 1974-09-17 Presiden Soeharto Bahas Moneter dan Serangan Hama Belalang di Sumba
 

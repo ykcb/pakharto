@@ -1,9 +1,45 @@
 ---
-title: "1972-05-20 Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha Dharma – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-20-presiden-soeharto-anugerahkan-jenderal-sudirman-bintang-yudha-dharma/"
-date: "2017-08-24T17:43:00+07:00"
+title: 1972-05-20 Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha Dharma
+description: SABTU, 20 Mei 1972, Presiden Soeharto hari ini di Istana Negara menganugerahkan
+  Bintang Yudha Dharma dan Bintang Mahaputra kepada tujuh orang perwira tinggi, sehubungan
+  dengan jasa-jasa dan pengabdian mereka kepada nusa dan bangsa.
+date: '1972-05-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-20-presiden-soeharto-anugerahkan-jenderal-sudirman-bintang-yudha-dharma
+aliases:
+- Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha Dharma
+- 1972-05-20 Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha Dharma
+  – HM Soeharto
+tags:
+- bintang-mahaputra
+- bintang-yudha-dharma
+- jenderal-ah-nasution
+- jenderal-m-panggabean
+- jenderal-sudirman
+- letjen-ibnu-soetowo
+- letjen-pur-tb-simatupang
+- letjen-urip-sumohardjo
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-20-presiden-soeharto-anugerahkan-jenderal-sudirman-bintang-yudha-dharma/
+  judul: 1972-05-20 Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha
+    Dharma
+  tanggal: '1972-05-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-20-presiden-soeharto-anugerahkan-jenderal-sudirman-bintang-yudha-dharma/
 ---
+
 
 # 1972-05-20 Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha Dharma
 

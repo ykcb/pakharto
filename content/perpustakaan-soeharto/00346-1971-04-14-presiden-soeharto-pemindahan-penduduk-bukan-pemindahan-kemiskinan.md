@@ -1,9 +1,40 @@
 ---
-title: "1971-04-14 Presiden Soeharto: Pemindahan Penduduk Bukan Pemindahan Kemiskinan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-14-presiden-soeharto-pemindahan-penduduk-bukan-pemindahan-kemiskinan/"
-date: "2017-08-30T14:17:34+07:00"
+title: '1971-04-14 Presiden Soeharto: Pemindahan Penduduk Bukan Pemindahan Kemiskinan'
+description: RABU, 14 April 1971, Setelah meninjau beberapa proyek pembangunan, sore
+  ini Presiden Soeharto mengadakan pertemuan dengan tokoh-tokoh masyarakat se-Provinsi
+  Sulawesi Tenggara. Dalam dialog itu Presiden mengatakan bahwa pemindahan...
+date: '1971-04-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-14-presiden-soeharto-pemindahan-penduduk-bukan-pemindahan-kemiskinan
+aliases:
+- 'Presiden Soeharto: Pemindahan Penduduk Bukan Pemindahan Kemiskinan'
+- '1971-04-14 Presiden Soeharto: Pemindahan Penduduk Bukan Pemindahan Kemiskinan –
+  HM Soeharto'
+tags:
+- kemiskinan
+- orde-baru
+- pemindahan-penduduk
+- perpustakaan-soeharto
+- presiden-soeharto
+- sulawesi-tenggara
+- transmigrasi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-14-presiden-soeharto-pemindahan-penduduk-bukan-pemindahan-kemiskinan/
+  judul: '1971-04-14 Presiden Soeharto: Pemindahan Penduduk Bukan Pemindahan Kemiskinan'
+  tanggal: '1971-04-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-14-presiden-soeharto-pemindahan-penduduk-bukan-pemindahan-kemiskinan/
 ---
+
 
 # 1971-04-14 Presiden Soeharto: Pemindahan Penduduk Bukan Pemindahan Kemiskinan
 

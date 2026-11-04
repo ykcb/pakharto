@@ -1,9 +1,38 @@
 ---
-title: "1969-05-12 Presiden Soeharto Bahas Manajemen Zakat dan Haji – HM Soeharto"
-source: "https://soehartolibrary.id/1969-05-12-presiden-soeharto-bahas-manajemen-zakat-dan-haji/"
-date: "2017-08-28T16:47:19+07:00"
+title: 1969-05-12 Presiden Soeharto Bahas Manajemen Zakat dan Haji
+description: SENIN, 12 MEI 1969, Siang ini Presiden Soeharto bertempat di Istana Merdeka
+  telah menerima Pimpinan Pusat Muhammadiyah. Dalam pertemuan tersebut telah dibicarakan
+  masalah zakat dan penggunaannya, disamping masalah ibadah haji. Kepada...
+date: '1969-05-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-05-12-presiden-soeharto-bahas-manajemen-zakat-dan-haji
+aliases:
+- Presiden Soeharto Bahas Manajemen Zakat dan Haji
+- 1969-05-12 Presiden Soeharto Bahas Manajemen Zakat dan Haji – HM Soeharto
+tags:
+- haji
+- istana-merdeka
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- zakat
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-05-12-presiden-soeharto-bahas-manajemen-zakat-dan-haji/
+  judul: 1969-05-12 Presiden Soeharto Bahas Manajemen Zakat dan Haji
+  tanggal: '1969-05-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-05-12-presiden-soeharto-bahas-manajemen-zakat-dan-haji/
 ---
+
 
 # 1969-05-12 Presiden Soeharto Bahas Manajemen Zakat dan Haji
 

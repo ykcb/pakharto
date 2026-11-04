@@ -1,9 +1,43 @@
 ---
-title: "1968-07-17  Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan – HM Soeharto"
-source: "https://soehartolibrary.id/1968-07-17-presiden-soeharto-gubernur-harus-mendorong-diversifikasi-pangan/"
-date: "2017-08-24T15:26:47+07:00"
+title: '1968-07-17  Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan'
+description: RABU, 17 Juli 1968, Setelah dua hari berada di Lampung, pagi ini Presiden
+  Soeharto dan rombongan mengakhiri kunjungannya di daerah ini. Dari Lampung Presiden
+  dan Ibu Tiean Soeharto berangkat menuju Palembang dan akan berada di sana...
+date: '1968-07-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-07-17-presiden-soeharto-gubernur-harus-mendorong-diversifikasi-pangan
+aliases:
+- 'Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan'
+- '1968-07-17  Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan –
+  HM Soeharto'
+tags:
+- diversifikasi-pangan
+- gubernur
+- jenderal-soeharto
+- kunjungan-presiden
+- orde-baru
+- pak-harto
+- pemuka-masyarakat
+- perpustakaan-soeharto
+- presiden-soeharto
+- sumatera-selatan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-07-17-presiden-soeharto-gubernur-harus-mendorong-diversifikasi-pangan/
+  judul: '1968-07-17  Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan'
+  tanggal: '1968-07-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-07-17-presiden-soeharto-gubernur-harus-mendorong-diversifikasi-pangan/
 ---
+
 
 # 1968-07-17 Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan
 

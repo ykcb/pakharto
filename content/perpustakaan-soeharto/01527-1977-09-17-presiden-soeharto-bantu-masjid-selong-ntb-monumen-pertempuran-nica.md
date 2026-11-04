@@ -1,9 +1,42 @@
 ---
-title: "1977-09-17 Presiden Soeharto Bantu Masjid Selong NTB, Monumen Pertempuran NICA – HM Soeharto"
-source: "https://soehartolibrary.id/1977-09-17-presiden-soeharto-bantu-masjid-selong-ntb-monumen-pertempuran-nica/"
-date: "2017-08-22T16:12:04+07:00"
+title: 1977-09-17 Presiden Soeharto Bantu Masjid Selong NTB, Monumen Pertempuran NICA
+description: 21 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1977-09-17-presiden-soeharto-bantu-masjid-selong-ntb-monumen-pertempuran-nica/respond)
+  100 Views Share on
+date: '1977-09-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-09-17-presiden-soeharto-bantu-masjid-selong-ntb-monumen-pertempuran-nica
+aliases:
+- Presiden Soeharto Bantu Masjid Selong NTB, Monumen Pertempuran NICA
+- 1977-09-17 Presiden Soeharto Bantu Masjid Selong NTB, Monumen Pertempuran NICA –
+  HM Soeharto
+tags:
+- lombok-timur
+- masjid
+- nica
+- nusa-tenggara-barat
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- selong
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-09-17-presiden-soeharto-bantu-masjid-selong-ntb-monumen-pertempuran-nica/
+  judul: 1977-09-17 Presiden Soeharto Bantu Masjid Selong NTB, Monumen Pertempuran
+    NICA
+  tanggal: '1977-09-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-09-17-presiden-soeharto-bantu-masjid-selong-ntb-monumen-pertempuran-nica/
 ---
+
 
 # 1977-09-17 Presiden Soeharto Bantu Masjid Selong NTB, Monumen Pertempuran NICA
 

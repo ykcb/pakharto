@@ -1,9 +1,37 @@
 ---
-title: "1978-09-21 Presiden Soeharto Menerima PM Vietnam Pham Van Dong – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-21-presiden-soeharto-menerima-pm-vietnam-pham-van-dong/"
-date: "2017-08-22T11:47:30+07:00"
+title: 1978-09-21 Presiden Soeharto Menerima PM Vietnam Pham Van Dong
+description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-21-presiden-soeharto-menerima-pm-vietnam-pham-van-dong/respond)
+  105 Views Share on
+date: '1978-09-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-21-presiden-soeharto-menerima-pm-vietnam-pham-van-dong
+aliases:
+- Presiden Soeharto Menerima PM Vietnam Pham Van Dong
+- 1978-09-21 Presiden Soeharto Menerima PM Vietnam Pham Van Dong – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- pham-van-dong
+- pm-vietnam
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-21-presiden-soeharto-menerima-pm-vietnam-pham-van-dong/
+  judul: 1978-09-21 Presiden Soeharto Menerima PM Vietnam Pham Van Dong
+  tanggal: '1978-09-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-21-presiden-soeharto-menerima-pm-vietnam-pham-van-dong/
 ---
+
 
 # 1978-09-21 Presiden Soeharto Menerima PM Vietnam Pham Van Dong
 

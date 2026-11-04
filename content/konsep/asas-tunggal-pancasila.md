@@ -27,6 +27,8 @@ relasi:
   - type: ditentang_oleh
     target: "petisi-50"
 last_modified: 2026-11-03
+last_updated: "2026-11-04"
+updated: 2026-11-04
 verification_status: "verified"
 ---
 

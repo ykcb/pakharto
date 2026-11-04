@@ -1,9 +1,49 @@
 ---
-title: "1969-01-20 Hadiri Sidang DPA, Presiden Soeharto: DPA Orba Tidak Rangkap Jabatan – HM Soeharto"
-source: "https://soehartolibrary.id/1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan/"
-date: "2014-12-29T01:15:39+07:00"
+title: '1969-01-20 Hadiri Sidang DPA, Presiden Soeharto: DPA Orba Tidak Rangkap Jabatan'
+description: SENIN, 20 JANUARI 1969 Presiden Soeharto pagi ini menghadiri sidang pertama
+  DPA tahun 1969 yang akan membahas masalah-masalah hukum. Dalam pidatonya Presiden
+  Soeharto antara lain mengatakan bahwa dalam usaha mewujudkan stabilisasi...
+date: '1969-01-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan
+aliases:
+- 'Hadiri Sidang DPA, Presiden Soeharto: DPA Orba Tidak Rangkap Jabatan'
+- '1969-01-20 Hadiri Sidang DPA, Presiden Soeharto: DPA Orba Tidak Rangkap Jabatan
+  – HM Soeharto'
+tags:
+- bapak-pembangunan
+- bina-graha
+- cendana
+- dpa
+- gbhn
+- istana-merdeka
+- macan-asia
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- sidang
+- soksi
+- tinggal-landas-2
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan/
+  judul: '1969-01-20 Hadiri Sidang DPA, Presiden Soeharto: DPA Orba Tidak Rangkap
+    Jabatan'
+  tanggal: '1969-01-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan/
 ---
+
 
 # 1969-01-20 Hadiri Sidang DPA, Presiden Soeharto: DPA Orba Tidak Rangkap Jabatan
 

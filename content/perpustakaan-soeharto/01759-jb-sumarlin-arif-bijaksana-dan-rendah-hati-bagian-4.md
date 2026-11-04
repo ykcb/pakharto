@@ -1,9 +1,43 @@
 ---
-title: "JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 4) – HM Soeharto"
-source: "https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-4/"
-date: "2014-11-25T12:34:21+07:00"
+title: 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 4)'
+description: 6 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-4/respond)
+  146 Views Share on
+date: '2014-11-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-4
+aliases:
+- 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 4) – HM Soeharto'
+tags:
+- fao
+- integrated-pest-management
+- ipm
+- irri
+- jb-sumarlin
+- kepala-negara
+- kongres-as
+- orde-baru
+- perpustakaan-soeharto
+- pht
+- presiden-soeharto
+- swasembada-pangan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-4/
+  judul: 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 4)'
+  tanggal: '2014-11-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-4/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/JB-Sumarlin.jpg)
 

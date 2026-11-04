@@ -1,9 +1,40 @@
 ---
-title: "1975-04-08 Presiden Soeharto Bahas Maraknya Judi Olah Raga – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-08-presiden-soeharto-bahas-maraknya-judi-olah-raga/"
-date: "2017-08-30T14:16:39+07:00"
+title: 1975-04-08 Presiden Soeharto Bahas Maraknya Judi Olah Raga
+description: SELASA, 8 April 1975, Presiden Soeharto pagi ini memimpin Sidang Dewan
+  Stabilisasi Politik dan Keamanan di Bina Graha. Sidang telah membahas gejala meluasnya
+  perjudian dalam masyarakat akhir-akhir ini, yaitu dalam bentuk totalisator...
+date: '1975-04-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-08-presiden-soeharto-bahas-maraknya-judi-olah-raga
+aliases:
+- Presiden Soeharto Bahas Maraknya Judi Olah Raga
+- 1975-04-08 Presiden Soeharto Bahas Maraknya Judi Olah Raga – HM Soeharto
+tags:
+- dewan-stabilisasi
+- judi
+- keamanan
+- olah-raga
+- orde-baru
+- perpustakaan-soeharto
+- politik
+- presiden-soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-08-presiden-soeharto-bahas-maraknya-judi-olah-raga/
+  judul: 1975-04-08 Presiden Soeharto Bahas Maraknya Judi Olah Raga
+  tanggal: '1975-04-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-08-presiden-soeharto-bahas-maraknya-judi-olah-raga/
 ---
+
 
 # 1975-04-08 Presiden Soeharto Bahas Maraknya Judi Olah Raga
 

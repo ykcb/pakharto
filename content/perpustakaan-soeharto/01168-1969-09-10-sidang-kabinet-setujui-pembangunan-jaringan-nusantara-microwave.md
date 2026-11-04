@@ -1,9 +1,43 @@
 ---
-title: "1969-09-10 Sidang Kabinet Setujui Pembangunan Jaringan Nusantara Microwave – HM Soeharto"
-source: "https://soehartolibrary.id/1969-09-10-sidang-kabinet-setujui-pembangunan-jaringan-nusantara-microwave/"
-date: "2017-08-22T17:39:16+07:00"
+title: 1969-09-10 Sidang Kabinet Setujui Pembangunan Jaringan Nusantara Microwave
+description: 3 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1969-09-10-sidang-kabinet-setujui-pembangunan-jaringan-nusantara-microwave/respond)
+  105 Views Share on
+date: '1969-09-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-09-10-sidang-kabinet-setujui-pembangunan-jaringan-nusantara-microwave
+aliases:
+- Sidang Kabinet Setujui Pembangunan Jaringan Nusantara Microwave
+- 1969-09-10 Sidang Kabinet Setujui Pembangunan Jaringan Nusantara Microwave – HM
+  Soeharto
+tags:
+- flores
+- jawa
+- makassar
+- nusa-tenggara
+- nusantara-microwave
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sabang
+- trans-sumatera
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-09-10-sidang-kabinet-setujui-pembangunan-jaringan-nusantara-microwave/
+  judul: 1969-09-10 Sidang Kabinet Setujui Pembangunan Jaringan Nusantara Microwave
+  tanggal: '1969-09-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-09-10-sidang-kabinet-setujui-pembangunan-jaringan-nusantara-microwave/
 ---
+
 
 # 1969-09-10 Sidang Kabinet Setujui Pembangunan Jaringan Nusantara Microwave
 

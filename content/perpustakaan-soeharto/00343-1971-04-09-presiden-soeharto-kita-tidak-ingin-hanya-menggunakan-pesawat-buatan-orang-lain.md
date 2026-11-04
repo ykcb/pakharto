@@ -1,9 +1,41 @@
 ---
-title: "1971-04-09 Presiden Soeharto: Kita Tidak Ingin Hanya Menggunakan Pesawat Buatan Orang Lain – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-09-presiden-soeharto-kita-tidak-ingin-hanya-menggunakan-pesawat-buatan-orang-lain/"
-date: "2014-03-22T02:58:27+07:00"
+title: '1971-04-09 Presiden Soeharto: Kita Tidak Ingin Hanya Menggunakan Pesawat Buatan
+  Orang Lain'
+description: JUM’AT, 9 April 1971, Presiden Soeharto mengatakan bahwa dalam bidang
+  penerbangan kita memang jauh ketinggalan dibandingkan dengan kemajuan-kemajuan yang
+  dicapai dalam dunia penerbangan. Kita harus mengejar ketinggalan ini agar angkasa...
+date: '1971-04-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-09-presiden-soeharto-kita-tidak-ingin-hanya-menggunakan-pesawat-buatan-orang-lain
+aliases:
+- 'Presiden Soeharto: Kita Tidak Ingin Hanya Menggunakan Pesawat Buatan Orang Lain'
+- '1971-04-09 Presiden Soeharto: Kita Tidak Ingin Hanya Menggunakan Pesawat Buatan
+  Orang Lain – HM Soeharto'
+tags:
+- abri
+- auri
+- orde-baru
+- penerbangan-nasional
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-09-presiden-soeharto-kita-tidak-ingin-hanya-menggunakan-pesawat-buatan-orang-lain/
+  judul: '1971-04-09 Presiden Soeharto: Kita Tidak Ingin Hanya Menggunakan Pesawat
+    Buatan Orang Lain'
+  tanggal: '1971-04-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-09-presiden-soeharto-kita-tidak-ingin-hanya-menggunakan-pesawat-buatan-orang-lain/
 ---
+
 
 # 1971-04-09 Presiden Soeharto: Kita Tidak Ingin Hanya Menggunakan Pesawat Buatan Orang Lain
 

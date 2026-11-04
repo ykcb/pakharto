@@ -1,9 +1,44 @@
 ---
-title: "1973-05-05 Presiden Soeharto Kunjungi Proyek Sawah Pasang Surut Delta Upang – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-05-presiden-soeharto-kunjungi-proyek-sawah-pasang-surut-delta-upang/"
-date: "2017-08-24T17:43:52+07:00"
+title: 1973-05-05 Presiden Soeharto Kunjungi Proyek Sawah Pasang Surut Delta Upang
+description: SABTU, 5 Mei 1973, Presiden Soeharto malam ini di Palembang menjamu Perdana
+  Menteri Tun Abdul Razak. Perdana Menteri Malaysia itu hari ini tiba di palembang
+  untuk beristirahat dan akan kembali ke negerinya besok pagi. Kesempatan yang...
+date: '1973-05-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-05-presiden-soeharto-kunjungi-proyek-sawah-pasang-surut-delta-upang
+aliases:
+- Presiden Soeharto Kunjungi Proyek Sawah Pasang Surut Delta Upang
+- 1973-05-05 Presiden Soeharto Kunjungi Proyek Sawah Pasang Surut Delta Upang – HM
+  Soeharto
+tags:
+- delta-upang
+- malaysia
+- orde-baru
+- palembang
+- pasang-surut
+- perdana-menteri
+- perpustakaan-soeharto
+- presiden-soeharto
+- sawah
+- transmigrasi
+- tun-abdul-razak
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-05-presiden-soeharto-kunjungi-proyek-sawah-pasang-surut-delta-upang/
+  judul: 1973-05-05 Presiden Soeharto Kunjungi Proyek Sawah Pasang Surut Delta Upang
+  tanggal: '1973-05-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-05-presiden-soeharto-kunjungi-proyek-sawah-pasang-surut-delta-upang/
 ---
+
 
 # 1973-05-05 Presiden Soeharto Kunjungi Proyek Sawah Pasang Surut Delta Upang
 

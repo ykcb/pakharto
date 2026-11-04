@@ -1,9 +1,46 @@
 ---
-title: "1969-03-31 Penandatanganan RUU APBN 1969/1970 – HM Soeharto"
-source: "https://soehartolibrary.id/1969-03-31-penandatanganan-ruu-apbn-19691970/"
-date: "2017-08-28T17:08:39+07:00"
+title: 1969-03-31 Penandatanganan RUU APBN 1969/1970
+description: SENIN, 31 MARET 1969, Pukul 9.00 pagi ini bertempat di Istana Merdeka
+  Presiden Soeharto menandatangani RUU APBN 1969/1970. Penandatanganan ini disaksikan
+  oleh para ketua MPRS, DPA – DPR-GR, dan lembaga-lembaga tinggi lainnya, serta...
+date: '1969-03-31'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-03-31-penandatanganan-ruu-apbn-19691970
+aliases:
+- Penandatanganan RUU APBN 1969/1970
+- 1969-03-31 Penandatanganan RUU APBN 1969/1970 – HM Soeharto
+tags:
+- apbn
+- dpa
+- dpr-gr
+- kerja
+- mprs
+- orde-baru
+- pak-harto
+- pelaksanaan
+- perpustakaan-soeharto
+- presiden
+- rencana
+- repelita
+- ruu
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-03-31-penandatanganan-ruu-apbn-19691970/
+  judul: 1969-03-31 Penandatanganan RUU APBN 1969/1970
+  tanggal: '1969-03-31'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-03-31-penandatanganan-ruu-apbn-19691970/
 ---
+
 
 # 1969-03-31 Penandatanganan RUU APBN 1969/1970
 

@@ -1,9 +1,40 @@
 ---
-title: "1972-03-06 Pengangkatan Anggota MPR – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-06-pengangkatan-anggota-mpr/"
-date: "2017-08-29T17:01:41+07:00"
+title: 1972-03-06 Pengangkatan Anggota MPR
+description: SENIN, 6 Maret 1972, Presiden Soeharto mengangkat 207 anggota tambahan
+  MPR; 155 orang diantaranya dari golongan ABRI, dan 52 sisanya dari golongan non-ABRI.
+  Pengangkatan ini dicantumkan dalam Kepres No. 36/M/1972, yang dikeluarkan hari...
+date: '1972-03-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-06-pengangkatan-anggota-mpr
+aliases:
+- Pengangkatan Anggota MPR
+- 1972-03-06 Pengangkatan Anggota MPR – HM Soeharto
+tags:
+- anggota
+- mpr
+- orde-baru
+- pak-harto
+- pengangkatan
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-06-pengangkatan-anggota-mpr/
+  judul: 1972-03-06 Pengangkatan Anggota MPR
+  tanggal: '1972-03-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-06-pengangkatan-anggota-mpr/
 ---
+
 
 # 1972-03-06 Pengangkatan Anggota MPR
 

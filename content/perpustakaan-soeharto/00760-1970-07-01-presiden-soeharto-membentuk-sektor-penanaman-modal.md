@@ -1,9 +1,38 @@
 ---
-title: "1970-07-01 Presiden Soeharto Membentuk Sektor Penanaman Modal – HM Soeharto"
-source: "https://soehartolibrary.id/1970-07-01-presiden-soeharto-membentuk-sektor-penanaman-modal/"
-date: "2017-08-24T15:21:23+07:00"
+title: 1970-07-01 Presiden Soeharto Membentuk Sektor Penanaman Modal
+description: RABU, 01 Juli 1970. Sebagai tindak lanjut dari Keputusan Presiden No.
+  36 tertanggal 20 Mei 1970, maka hari ini dibentuk sektor khusus penanaman modal
+  yang dinamakan sektor “R”. Adapun tugas sektor “R” ialah mengamankan kebijaksanaan...
+date: '1970-07-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-07-01-presiden-soeharto-membentuk-sektor-penanaman-modal
+aliases:
+- Presiden Soeharto Membentuk Sektor Penanaman Modal
+- 1970-07-01 Presiden Soeharto Membentuk Sektor Penanaman Modal – HM Soeharto
+tags:
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- penanaman-modal
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-07-01-presiden-soeharto-membentuk-sektor-penanaman-modal/
+  judul: 1970-07-01 Presiden Soeharto Membentuk Sektor Penanaman Modal
+  tanggal: '1970-07-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-07-01-presiden-soeharto-membentuk-sektor-penanaman-modal/
 ---
+
 
 # 1970-07-01 Presiden Soeharto Membentuk Sektor Penanaman Modal
 

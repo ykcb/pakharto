@@ -1,9 +1,39 @@
 ---
-title: "1974-03-27 Kunjungan Maurice E Granville Kepada Presiden Soeharto – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-27-kunjungan-maurice-e-granville-kepada-presiden-soeharto/"
-date: "2014-03-22T03:01:46+07:00"
+title: 1974-03-27 Kunjungan Maurice E Granville Kepada Presiden Soeharto
+description: RABU, 27 MARET 1974, Ketua Dewan Direksi Texaco, Maurice E Granville,
+  dari Amerika Serikat, mengadakan kunjungan kehormatan kepada Presiden Soeharto di
+  Istana Merdeka pagi ini. Kepada pimpinan Texaco itu, Kepala Negara antara lain...
+date: '1974-03-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-27-kunjungan-maurice-e-granville-kepada-presiden-soeharto
+aliases:
+- Kunjungan Maurice E Granville Kepada Presiden Soeharto
+- 1974-03-27 Kunjungan Maurice E Granville Kepada Presiden Soeharto – HM Soeharto
+tags:
+- amerika-serikat
+- maurice-e-granville
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rakyat
+- texaco
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-27-kunjungan-maurice-e-granville-kepada-presiden-soeharto/
+  judul: 1974-03-27 Kunjungan Maurice E Granville Kepada Presiden Soeharto
+  tanggal: '1974-03-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-27-kunjungan-maurice-e-granville-kepada-presiden-soeharto/
 ---
+
 
 # 1974-03-27 Kunjungan Maurice E Granville Kepada Presiden Soeharto
 

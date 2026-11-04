@@ -1,9 +1,44 @@
 ---
-title: "Yang Disebut “PETRUS” – HM Soeharto"
-source: "https://soehartolibrary.id/yang-disebut-petrus/"
-date: "2018-01-19T15:24:15+07:00"
+title: Yang Disebut “PETRUS”
+description: Pers ramai menulis mengenai kematian misterius sejumlah orang, dengan
+  menyebut penembakan terhadap gali-gali, atau “penembakan misterius”, atau “penembak
+  misterius”, atau disingkatnya lagi dengan sebutan “petrus” dan sebagainya.
+date: '2018-01-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: yang-disebut-petrus
+aliases:
+- Yang Disebut “PETRUS” – HM Soeharto
+tags:
+- gali-gali
+- grasi
+- hukuman
+- mati
+- msisterius
+- orde-baru
+- pemerkosaan
+- penembak
+- penembakan
+- perampokan
+- perpustakaan-soeharto
+- petrus
+- shock-theraphy
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/yang-disebut-petrus/
+  judul: Yang Disebut “PETRUS”
+  tanggal: '2018-01-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/yang-disebut-petrus/
 ---
+
 
 # Yang Disebut “PETRUS”
 

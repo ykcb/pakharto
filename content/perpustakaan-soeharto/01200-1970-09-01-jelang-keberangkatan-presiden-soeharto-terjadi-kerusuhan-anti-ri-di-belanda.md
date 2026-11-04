@@ -1,9 +1,42 @@
 ---
-title: "1970-09-01 Jelang Keberangkatan Presiden Soeharto, Terjadi Kerusuhan Anti RI di Belanda – HM Soeharto"
-source: "https://soehartolibrary.id/1970-09-01-jelang-keberangkatan-presiden-soeharto-terjadi-kerusuhan-anti-ri-di-belanda/"
-date: "2017-08-22T17:34:18+07:00"
+title: 1970-09-01 Jelang Keberangkatan Presiden Soeharto, Terjadi Kerusuhan Anti RI
+  di Belanda
+description: 5 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-09-01-jelang-keberangkatan-presiden-soeharto-terjadi-kerusuhan-anti-ri-di-belanda/respond)
+  97 Views Share on
+date: '1970-09-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-09-01-jelang-keberangkatan-presiden-soeharto-terjadi-kerusuhan-anti-ri-di-belanda
+aliases:
+- Jelang Keberangkatan Presiden Soeharto, Terjadi Kerusuhan Anti RI di Belanda
+- 1970-09-01 Jelang Keberangkatan Presiden Soeharto, Terjadi Kerusuhan Anti RI di
+  Belanda – HM Soeharto
+tags:
+- duta-besar
+- negeri-belanda
+- orde-baru
+- perpustakaan-soeharto
+- pm-piet-di-jong
+- presiden-soeharto
+- wassenar
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-09-01-jelang-keberangkatan-presiden-soeharto-terjadi-kerusuhan-anti-ri-di-belanda/
+  judul: 1970-09-01 Jelang Keberangkatan Presiden Soeharto, Terjadi Kerusuhan Anti
+    RI di Belanda
+  tanggal: '1970-09-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-09-01-jelang-keberangkatan-presiden-soeharto-terjadi-kerusuhan-anti-ri-di-belanda/
 ---
+
 
 # 1970-09-01 Jelang Keberangkatan Presiden Soeharto, Terjadi Kerusuhan Anti RI di Belanda
 

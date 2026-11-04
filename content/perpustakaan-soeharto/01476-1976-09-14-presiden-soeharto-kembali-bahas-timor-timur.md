@@ -1,9 +1,40 @@
 ---
-title: "1976-09-14 Presiden Soeharto Kembali Bahas Timor Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1976-09-14-presiden-soeharto-kembali-bahas-timor-timur/"
-date: "2017-08-22T16:16:22+07:00"
+title: 1976-09-14 Presiden Soeharto Kembali Bahas Timor Timur
+description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-09-14-presiden-soeharto-kembali-bahas-timor-timur/respond)
+  79 Views Share on
+date: '1976-09-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-09-14-presiden-soeharto-kembali-bahas-timor-timur
+aliases:
+- Presiden Soeharto Kembali Bahas Timor Timur
+- 1976-09-14 Presiden Soeharto Kembali Bahas Timor Timur – HM Soeharto
+tags:
+- colombo
+- ktt-non-blok
+- orde-baru
+- pbb
+- perpustakaan-soeharto
+- presiden-soeharto
+- sidang-umum
+- timor-timur
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-09-14-presiden-soeharto-kembali-bahas-timor-timur/
+  judul: 1976-09-14 Presiden Soeharto Kembali Bahas Timor Timur
+  tanggal: '1976-09-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-09-14-presiden-soeharto-kembali-bahas-timor-timur/
 ---
+
 
 # 1976-09-14 Presiden Soeharto Kembali Bahas Timor Timur
 

@@ -1,9 +1,43 @@
 ---
-title: "1973-05-17 Presiden Soeharto: Gubernur Tidak Boleh Bertindak Memperturutkan Selera – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-17-presiden-soeharto-gubernur-tidak-boleh-bertindak-memperturutkan-selera/"
-date: "2017-08-25T15:33:29+07:00"
+title: '1973-05-17 Presiden Soeharto: Gubernur Tidak Boleh Bertindak Memperturutkan
+  Selera'
+description: KAMIS, 17 Mei 1973, Presiden Soeharto menegaskan bahwa peranan gubernur
+  sebagai penguasa tunggal di daerah tidak dapat diartikan bahwa mereka dapat bertindak
+  menurut selera mereka sendiri dengan menyimpang dari kebijaksanaan umum yang...
+date: '1973-05-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-17-presiden-soeharto-gubernur-tidak-boleh-bertindak-memperturutkan-selera
+aliases:
+- 'Presiden Soeharto: Gubernur Tidak Boleh Bertindak Memperturutkan Selera'
+- '1973-05-17 Presiden Soeharto: Gubernur Tidak Boleh Bertindak Memperturutkan Selera
+  – HM Soeharto'
+tags:
+- gubernur
+- kebijakan
+- kewenangan
+- orde-baru
+- penguasa-tunggal
+- perpustakaan-soeharto
+- presiden-soeharto
+- uu
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-17-presiden-soeharto-gubernur-tidak-boleh-bertindak-memperturutkan-selera/
+  judul: '1973-05-17 Presiden Soeharto: Gubernur Tidak Boleh Bertindak Memperturutkan
+    Selera'
+  tanggal: '1973-05-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-17-presiden-soeharto-gubernur-tidak-boleh-bertindak-memperturutkan-selera/
 ---
+
 
 # 1973-05-17 Presiden Soeharto: Gubernur Tidak Boleh Bertindak Memperturutkan Selera
 

@@ -1,9 +1,38 @@
 ---
-title: "1971-04-15 Presiden Soeharto: Kemakmuran Bukan Untuk Segolongan Manusia – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-15-presiden-soeharto-kemakmuran-bukan-untuk-segolongan-manusia/"
-date: "2014-03-22T02:58:26+07:00"
+title: '1971-04-15 Presiden Soeharto: Kemakmuran Bukan Untuk Segolongan Manusia'
+description: KAMIS, 15 April 1971, Hari ini Presiden Soeharto beserta rombongan tiba
+  di Ambon dari Kendari. Dalam rapat umum yang menyambutnya di kota ini Presiden Soeharto
+  mengatakan bahwa bila seluruh rakyat Indonesia sadar akan tanggung jawabnya...
+date: '1971-04-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-15-presiden-soeharto-kemakmuran-bukan-untuk-segolongan-manusia
+aliases:
+- 'Presiden Soeharto: Kemakmuran Bukan Untuk Segolongan Manusia'
+- '1971-04-15 Presiden Soeharto: Kemakmuran Bukan Untuk Segolongan Manusia – HM Soeharto'
+tags:
+- ambon
+- kendari
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-15-presiden-soeharto-kemakmuran-bukan-untuk-segolongan-manusia/
+  judul: '1971-04-15 Presiden Soeharto: Kemakmuran Bukan Untuk Segolongan Manusia'
+  tanggal: '1971-04-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-15-presiden-soeharto-kemakmuran-bukan-untuk-segolongan-manusia/
 ---
+
 
 # 1971-04-15 Presiden Soeharto: Kemakmuran Bukan Untuk Segolongan Manusia
 

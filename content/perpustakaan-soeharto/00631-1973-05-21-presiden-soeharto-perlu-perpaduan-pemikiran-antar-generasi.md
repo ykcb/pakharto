@@ -1,9 +1,37 @@
 ---
-title: "1973-05-21 Presiden Soeharto: Perlu Perpaduan Pemikiran Antar Generasi – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-21-presiden-soeharto-perlu-perpaduan-pemikiran-antar-generasi/"
-date: "2017-08-25T15:44:30+07:00"
+title: '1973-05-21 Presiden Soeharto: Perlu Perpaduan Pemikiran Antar Generasi'
+description: KAMIS, 21 Mei 1973, Dalam rangka Hari Kebangkitan Nasional, dalam suatu
+  upacara yang berlangsung sejak pukul 10.00 pagi ini di Istana Negara, Presiden Soeharto
+  telah menganugerahkan bintang-bintang kehormatan kepada 24 orang putera...
+date: '1973-05-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-21-presiden-soeharto-perlu-perpaduan-pemikiran-antar-generasi
+aliases:
+- 'Presiden Soeharto: Perlu Perpaduan Pemikiran Antar Generasi'
+- '1973-05-21 Presiden Soeharto: Perlu Perpaduan Pemikiran Antar Generasi – HM Soeharto'
+tags:
+- budi-utomo
+- kebangkitan-nasional
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-21-presiden-soeharto-perlu-perpaduan-pemikiran-antar-generasi/
+  judul: '1973-05-21 Presiden Soeharto: Perlu Perpaduan Pemikiran Antar Generasi'
+  tanggal: '1973-05-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-21-presiden-soeharto-perlu-perpaduan-pemikiran-antar-generasi/
 ---
+
 
 # 1973-05-21 Presiden Soeharto: Perlu Perpaduan Pemikiran Antar Generasi
 

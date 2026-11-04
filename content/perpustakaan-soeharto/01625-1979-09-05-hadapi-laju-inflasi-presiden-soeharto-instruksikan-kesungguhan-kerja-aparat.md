@@ -1,9 +1,43 @@
 ---
-title: "1979-09-05 Hadapi Laju Inflasi, Presiden Soeharto Instruksikan Kesungguhan Kerja Aparat – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat/"
-date: "2017-08-22T11:52:48+07:00"
+title: 1979-09-05 Hadapi Laju Inflasi, Presiden Soeharto Instruksikan Kesungguhan
+  Kerja Aparat
+description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat/respond)
+  91 Views Share on
+date: '1979-09-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat
+aliases:
+- Hadapi Laju Inflasi, Presiden Soeharto Instruksikan Kesungguhan Kerja Aparat
+- 1979-09-05 Hadapi Laju Inflasi, Presiden Soeharto Instruksikan Kesungguhan Kerja
+  Aparat – HM Soeharto
+tags:
+- aparat-pemerintah
+- ekuin
+- inflasi
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- semen-cibinong
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat/
+  judul: 1979-09-05 Hadapi Laju Inflasi, Presiden Soeharto Instruksikan Kesungguhan
+    Kerja Aparat
+  tanggal: '1979-09-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat/
 ---
+
 
 # 1979-09-05 Hadapi Laju Inflasi, Presiden Soeharto Instruksikan Kesungguhan Kerja Aparat
 

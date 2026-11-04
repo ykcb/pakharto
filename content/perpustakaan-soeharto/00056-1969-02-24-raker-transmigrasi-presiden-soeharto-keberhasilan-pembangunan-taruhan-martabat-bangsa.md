@@ -1,9 +1,46 @@
 ---
-title: "1969-02-24 Raker Transmigrasi, Presiden Soeharto: Keberhasilan Pembangunan Taruhan Martabat Bangsa – HM Soeharto"
-source: "https://soehartolibrary.id/1969-02-24-raker-transmigrasi-presiden-soeharto-keberhasilan-pembangunan-taruhan-martabat-bangsa/"
-date: "2017-08-28T17:11:35+07:00"
+title: '1969-02-24 Raker Transmigrasi, Presiden Soeharto: Keberhasilan Pembangunan
+  Taruhan Martabat Bangsa'
+description: SENIN, 24 FEBRUARI 1969. Presiden Soeharto menegaskan bahwa suksesnya
+  pembangunan adalah taruhan bagi martabat dan kehormatan kita sebagai bangsa merdeka.
+  Berbicara soal sasaran-sasaran yang akan dicapi dalam pembangunan, Presiden...
+date: '1969-02-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-02-24-raker-transmigrasi-presiden-soeharto-keberhasilan-pembangunan-taruhan-martabat-bangsa
+aliases:
+- 'Raker Transmigrasi, Presiden Soeharto: Keberhasilan Pembangunan Taruhan Martabat
+  Bangsa'
+- '1969-02-24 Raker Transmigrasi, Presiden Soeharto: Keberhasilan Pembangunan Taruhan
+  Martabat Bangsa – HM Soeharto'
+tags:
+- bangsa
+- harkat
+- koperasi
+- martabat
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- raker
+- taruhan
+- transmigrasi
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-02-24-raker-transmigrasi-presiden-soeharto-keberhasilan-pembangunan-taruhan-martabat-bangsa/
+  judul: '1969-02-24 Raker Transmigrasi, Presiden Soeharto: Keberhasilan Pembangunan
+    Taruhan Martabat Bangsa'
+  tanggal: '1969-02-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-02-24-raker-transmigrasi-presiden-soeharto-keberhasilan-pembangunan-taruhan-martabat-bangsa/
 ---
+
 
 # 1969-02-24 Raker Transmigrasi, Presiden Soeharto: Keberhasilan Pembangunan Taruhan Martabat Bangsa
 

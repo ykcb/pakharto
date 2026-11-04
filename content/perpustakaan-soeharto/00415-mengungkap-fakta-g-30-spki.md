@@ -1,9 +1,45 @@
 ---
-title: "Mengungkap Fakta G 30 S/PKI – HM Soeharto"
-source: "https://soehartolibrary.id/mengungkap-fakta-g-30-spki/"
-date: "2013-04-18T20:52:23+07:00"
+title: Mengungkap Fakta G 30 S/PKI
+description: Perlu mengetahui apa yang bersirat dari fakta-fakta apa yang sudah disampaikan.
+  Dimulai dengan presentasi Pak AB Lapian mengenai apa yang terjadi pada tanggal 1
+  Oktober. Barangkali saya bisa mulai dari satu hari sebelumnya, yaitu...
+date: '2013-04-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: mengungkap-fakta-g-30-spki
+aliases:
+- Mengungkap Fakta G 30 S/PKI – HM Soeharto
+tags:
+- aidit
+- as
+- bung-karno
+- cgmi
+- cia
+- g30spki
+- hmi
+- jenderal-soeharto
+- kgb
+- nu
+- orde-baru
+- perpustakaan-soeharto
+- subhan
+- sulastomo
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/mengungkap-fakta-g-30-spki/
+  judul: Mengungkap Fakta G 30 S/PKI
+  tanggal: '2013-04-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/mengungkap-fakta-g-30-spki/
 ---
+
 
 ![Pengangkatan Pahlawan Revolusi](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b455.jpg)
 

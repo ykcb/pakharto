@@ -1,9 +1,37 @@
 ---
-title: "1976-04-27 Presiden Soeharto: Tindak Tegas Perkelahian Pelajar – HM Soeharto"
-source: "https://soehartolibrary.id/1976-04-27-presiden-soeharto-tindak-tegas-perkelahian-pelajar/"
-date: "2014-03-22T02:56:07+07:00"
+title: '1976-04-27 Presiden Soeharto: Tindak Tegas Perkelahian Pelajar'
+description: 'Presiden Soeharto: Tindak Tegas Perkelahian Pelajar'
+date: '1976-04-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-04-27-presiden-soeharto-tindak-tegas-perkelahian-pelajar
+aliases:
+- 'Presiden Soeharto: Tindak Tegas Perkelahian Pelajar'
+- '1976-04-27 Presiden Soeharto: Tindak Tegas Perkelahian Pelajar – HM Soeharto'
+tags:
+- bina-graha
+- menteri-p-k
+- orde-baru
+- perkelahian-pelajar
+- perpustakaan-soeharto
+- presiden-soeharto
+- sjarif-thajeb
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-04-27-presiden-soeharto-tindak-tegas-perkelahian-pelajar/
+  judul: '1976-04-27 Presiden Soeharto: Tindak Tegas Perkelahian Pelajar'
+  tanggal: '1976-04-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-04-27-presiden-soeharto-tindak-tegas-perkelahian-pelajar/
 ---
+
 
 # 1976-04-27 Presiden Soeharto: Tindak Tegas Perkelahian Pelajar
 

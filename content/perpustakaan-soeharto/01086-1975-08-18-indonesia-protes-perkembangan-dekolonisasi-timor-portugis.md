@@ -1,9 +1,52 @@
 ---
-title: "1975-08-18 Indonesia Protes Perkembangan Dekolonisasi Timor Portugis – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-18-indonesia-protes-perkembangan-dekolonisasi-timor-portugis/"
-date: "2017-08-22T17:45:31+07:00"
+title: 1975-08-18 Indonesia Protes Perkembangan Dekolonisasi Timor Portugis
+description: 28 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-18-indonesia-protes-perkembangan-dekolonisasi-timor-portugis/respond)
+  100 Views Share on
+date: '1975-08-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-18-indonesia-protes-perkembangan-dekolonisasi-timor-portugis
+aliases:
+- Indonesia Protes Perkembangan Dekolonisasi Timor Portugis
+- 1975-08-18 Indonesia Protes Perkembangan Dekolonisasi Timor Portugis – HM Soeharto
+tags:
+- adam-malik
+- ali-murtopo
+- amirmachmud
+- asisten-operasi-hankam
+- dekolonisasi
+- intel-hankam
+- kepala-bakin
+- kepala-staf-kekaryaan-hankam
+- kepala-staf-operasi-hankam
+- m-panggabean
+- menteri-dalam-negeri
+- menteri-luar-negeri
+- menteri-pertahanan-keamanan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- timor-portugis
+- wakil-asisten-operasi-hankam
+- wakil-kepala-bakin
+- yoga-sugama
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-18-indonesia-protes-perkembangan-dekolonisasi-timor-portugis/
+  judul: 1975-08-18 Indonesia Protes Perkembangan Dekolonisasi Timor Portugis
+  tanggal: '1975-08-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-18-indonesia-protes-perkembangan-dekolonisasi-timor-portugis/
 ---
+
 
 # 1975-08-18 Indonesia Protes Perkembangan Dekolonisasi Timor Portugis
 

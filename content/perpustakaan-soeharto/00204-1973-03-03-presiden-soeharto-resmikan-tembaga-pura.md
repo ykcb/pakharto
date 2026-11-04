@@ -1,9 +1,38 @@
 ---
-title: "1973-03-03 Presiden Soeharto Resmikan Tembaga Pura – HM Soeharto"
-source: "https://soehartolibrary.id/1973-03-03-presiden-soeharto-resmikan-tembaga-pura/"
-date: "2014-03-22T03:04:40+07:00"
+title: 1973-03-03 Presiden Soeharto Resmikan Tembaga Pura
+description: SABTU, 3 Maret 1973, Jam 5.50 pagi Presiden Soeharto berangkat dari bandar
+  udara Kemayoran menuju Irian Jaya dalam rangka peresmian beberapa proyek pembangunan
+  di daerah tertentu. Tiba di Irian Jaya, Presiden langsung menuju proyek...
+date: '1973-03-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-03-03-presiden-soeharto-resmikan-tembaga-pura
+aliases:
+- Presiden Soeharto Resmikan Tembaga Pura
+- 1973-03-03 Presiden Soeharto Resmikan Tembaga Pura – HM Soeharto
+tags:
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- soeharto
+- tembaga-pura
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-03-03-presiden-soeharto-resmikan-tembaga-pura/
+  judul: 1973-03-03 Presiden Soeharto Resmikan Tembaga Pura
+  tanggal: '1973-03-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-03-03-presiden-soeharto-resmikan-tembaga-pura/
 ---
+
 
 # 1973-03-03 Presiden Soeharto Resmikan Tembaga Pura
 

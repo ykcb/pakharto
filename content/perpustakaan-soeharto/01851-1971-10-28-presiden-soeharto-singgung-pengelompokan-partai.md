@@ -1,9 +1,35 @@
 ---
-title: "1971-10-28 Presiden Soeharto Singgung Pengelompokan Partai – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-28-presiden-soeharto-singgung-pengelompokan-partai/"
-date: "2014-12-01T16:20:38+07:00"
+title: 1971-10-28 Presiden Soeharto Singgung Pengelompokan Partai
+description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-28-presiden-soeharto-singgung-pengelompokan-partai/respond)
+  77 Views Share on
+date: '1971-10-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-28-presiden-soeharto-singgung-pengelompokan-partai
+aliases:
+- Presiden Soeharto Singgung Pengelompokan Partai
+- 1971-10-28 Presiden Soeharto Singgung Pengelompokan Partai – HM Soeharto
+tags:
+- orde-baru
+- pengelompokan-partai
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-28-presiden-soeharto-singgung-pengelompokan-partai/
+  judul: 1971-10-28 Presiden Soeharto Singgung Pengelompokan Partai
+  tanggal: '1971-10-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-28-presiden-soeharto-singgung-pengelompokan-partai/
 ---
+
 
 # 1971-10-28 Presiden Soeharto Singgung Pengelompokan Partai
 

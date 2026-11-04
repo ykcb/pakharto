@@ -1,9 +1,41 @@
 ---
-title: "1971-06-12 Presiden Soeharto Bahas Golput – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-12-presiden-soeharto-bahas-golput/"
-date: "2017-08-24T15:31:19+07:00"
+title: 1971-06-12 Presiden Soeharto Bahas Golput
+description: SABTU, 12 Juni 1971, Bertempat di kediamannya, Presiden Soeharto menerima
+  Wapangab Jenderal M. Panggabean, Wapangkopkamtib Letjen. Sumitro, Kas Hankam Mayjen.
+  Hasnan Habib. Tidak diketahui apa yang dibicarakan dalam pertemuan itu. Akan...
+date: '1971-06-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-12-presiden-soeharto-bahas-golput
+aliases:
+- Presiden Soeharto Bahas Golput
+- 1971-06-12 Presiden Soeharto Bahas Golput – HM Soeharto
+tags:
+- golongan-putih
+- golput
+- letjen-soemitro
+- m-panggabean
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- wapangab
+- wapangkopkambtib
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-12-presiden-soeharto-bahas-golput/
+  judul: 1971-06-12 Presiden Soeharto Bahas Golput
+  tanggal: '1971-06-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-12-presiden-soeharto-bahas-golput/
 ---
+
 
 # 1971-06-12 Presiden Soeharto Bahas Golput
 

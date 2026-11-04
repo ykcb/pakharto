@@ -1,9 +1,33 @@
 ---
-title: "Belanda Meninggalkan Yogya – HM Soeharto"
-source: "https://soehartolibrary.id/belanda-meninggalkan-yogya/"
-date: "2018-01-10T19:11:03+07:00"
+title: Belanda Meninggalkan Yogya
+description: 7 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/belanda-meninggalkan-yogya/respond) 230
+  Views Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: belanda-meninggalkan-yogya
+aliases:
+- Belanda Meninggalkan Yogya – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/belanda-meninggalkan-yogya/
+  judul: Belanda Meninggalkan Yogya
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/belanda-meninggalkan-yogya/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0434_result.jpg)
 

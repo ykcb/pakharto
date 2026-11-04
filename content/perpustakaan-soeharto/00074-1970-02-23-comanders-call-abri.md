@@ -1,9 +1,39 @@
 ---
-title: "1970-02-23 Comander’s Call ABRI – HM Soeharto"
-source: "https://soehartolibrary.id/1970-02-23-comanders-call-abri/"
-date: "2017-08-29T11:16:19+07:00"
+title: 1970-02-23 Comander’s Call ABRI
+description: (ABRI Tidak Boleh Hidup Berlebih-Lebihan)
+date: '1970-02-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-02-23-comanders-call-abri
+aliases:
+- Comander’s Call ABRI
+- 1970-02-23 Comander’s Call ABRI – HM Soeharto
+tags:
+- abri
+- bhakti
+- comanders-call
+- g-30-spki
+- kopkamtib
+- operasi
+- orde-baru
+- perpustakaan-soeharto
+- soeharto
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-02-23-comanders-call-abri/
+  judul: 1970-02-23 Comander’s Call ABRI
+  tanggal: '1970-02-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-02-23-comanders-call-abri/
 ---
+
 
 # 1970-02-23 Comander’s Call ABRI
 

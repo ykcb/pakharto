@@ -1,9 +1,38 @@
 ---
-title: "1974-07-03 Soal Malari: Yoga Sugama Menghadap Presiden Soeharto – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-03-soal-malari-yoga-sugama-menghadap-presiden-soeharto/"
-date: "2017-08-23T11:59:57+07:00"
+title: '1974-07-03 Soal Malari: Yoga Sugama Menghadap Presiden Soeharto'
+description: RABU, 3 Juli 1974 Kepala Bakin, Yoga Sugama, menghadap Presiden Soeharto
+  di Istana Merdeka pagi ini. Selesai pertemuan dengan Kepala Negara, ia mengungkapkan
+  bahwa Pemerintah sudah siap untuk membawa semua pelaku yang terlibat dalam...
+date: '1974-07-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-03-soal-malari-yoga-sugama-menghadap-presiden-soeharto
+aliases:
+- 'Soal Malari: Yoga Sugama Menghadap Presiden Soeharto'
+- '1974-07-03 Soal Malari: Yoga Sugama Menghadap Presiden Soeharto – HM Soeharto'
+tags:
+- bakin
+- malari
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- yoga-sugama
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-03-soal-malari-yoga-sugama-menghadap-presiden-soeharto/
+  judul: '1974-07-03 Soal Malari: Yoga Sugama Menghadap Presiden Soeharto'
+  tanggal: '1974-07-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-03-soal-malari-yoga-sugama-menghadap-presiden-soeharto/
 ---
+
 
 # 1974-07-03 Soal Malari: Yoga Sugama Menghadap Presiden Soeharto
 

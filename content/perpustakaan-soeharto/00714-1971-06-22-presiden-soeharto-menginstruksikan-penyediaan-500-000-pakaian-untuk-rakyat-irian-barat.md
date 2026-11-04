@@ -1,9 +1,43 @@
 ---
-title: "1971-06-22 Presiden Soeharto Menginstruksikan Penyediaan 500.000 Pakaian Untuk Rakyat Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-22-presiden-soeharto-menginstruksikan-penyediaan-500-000-pakaian-untuk-rakyat-irian-barat/"
-date: "2017-08-24T15:28:22+07:00"
+title: 1971-06-22 Presiden Soeharto Menginstruksikan Penyediaan 500.000 Pakaian Untuk
+  Rakyat Irian Barat
+description: SELASA, 22 Juni 1971, Dalam sidang Sub-Dewan Stabilisasi Ekonomi di Bina
+  Graha hari ini Presiden Soeharto menginstruksikan kepada Menteri Perindustrian,
+  Menteri Keuangan, dan Menteri Dalam Negeri agar dalam tahun 1972 menyediakan...
+date: '1971-06-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-22-presiden-soeharto-menginstruksikan-penyediaan-500-000-pakaian-untuk-rakyat-irian-barat
+aliases:
+- Presiden Soeharto Menginstruksikan Penyediaan 500.000 Pakaian Untuk Rakyat Irian
+  Barat
+- 1971-06-22 Presiden Soeharto Menginstruksikan Penyediaan 500.000 Pakaian Untuk Rakyat
+  Irian Barat – HM Soeharto
+tags:
+- celana-kolor
+- irian-barat
+- orde-baru
+- pakaian
+- perpustakaan-soeharto
+- presiden-soeharto
+- sarung
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-22-presiden-soeharto-menginstruksikan-penyediaan-500-000-pakaian-untuk-rakyat-irian-barat/
+  judul: 1971-06-22 Presiden Soeharto Menginstruksikan Penyediaan 500.000 Pakaian
+    Untuk Rakyat Irian Barat
+  tanggal: '1971-06-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-22-presiden-soeharto-menginstruksikan-penyediaan-500-000-pakaian-untuk-rakyat-irian-barat/
 ---
+
 
 # 1971-06-22 Presiden Soeharto Menginstruksikan Penyediaan 500.000 Pakaian Untuk Rakyat Irian Barat
 

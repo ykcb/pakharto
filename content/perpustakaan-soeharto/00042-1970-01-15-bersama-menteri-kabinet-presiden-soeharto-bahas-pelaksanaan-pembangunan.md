@@ -1,9 +1,50 @@
 ---
-title: "1970-01-15 Bersama Menteri Kabinet, Presiden Soeharto Bahas Pelaksanaan Pembangunan – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-15-bersama-menteri-kabinet-presiden-soeharto-bahas-pelaksanaan-pembangunan/"
-date: "2014-12-29T13:41:10+07:00"
+title: 1970-01-15 Bersama Menteri Kabinet, Presiden Soeharto Bahas Pelaksanaan Pembangunan
+description: KAMIS 15 JANUARI 1970, Presiden Soeharto di Istana Merdeka hari ini mengadakan
+  rapat dengan menteri-menteri kabinet dan pejabat lembaga-lembaga pemerintahan lainnya
+  mengenai pelaksanaan pembangunan berdasarkan anggaran tahun 1969/1970....
+date: '1970-01-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-15-bersama-menteri-kabinet-presiden-soeharto-bahas-pelaksanaan-pembangunan
+aliases:
+- Bersama Menteri Kabinet, Presiden Soeharto Bahas Pelaksanaan Pembangunan
+- 1970-01-15 Bersama Menteri Kabinet, Presiden Soeharto Bahas Pelaksanaan Pembangunan
+  – HM Soeharto
+tags:
+- bapak-pembangunan
+- bina-graha
+- cendana
+- gbhn
+- istana
+- istana-merdeka
+- kabinet
+- macan-asia
+- menteri
+- merdeka
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
+- rapat
+- repelita
+- tinggal-landas-2
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-15-bersama-menteri-kabinet-presiden-soeharto-bahas-pelaksanaan-pembangunan/
+  judul: 1970-01-15 Bersama Menteri Kabinet, Presiden Soeharto Bahas Pelaksanaan Pembangunan
+  tanggal: '1970-01-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-15-bersama-menteri-kabinet-presiden-soeharto-bahas-pelaksanaan-pembangunan/
 ---
+
 
 # 1970-01-15 Bersama Menteri Kabinet, Presiden Soeharto Bahas Pelaksanaan Pembangunan
 

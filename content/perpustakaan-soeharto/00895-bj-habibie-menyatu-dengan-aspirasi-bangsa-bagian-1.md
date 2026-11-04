@@ -1,9 +1,40 @@
 ---
-title: "BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 1) – HM Soeharto"
-source: "https://soehartolibrary.id/bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-1/"
-date: "2014-03-11T23:16:40+07:00"
+title: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 1)'
+description: Pada saat Pak Harto merayakan ulang tahun beliau yang ketujuhpuluh tahun
+  ini, berarti telah 41 tahun saya mengenal beliau. Dari tahun 1950 hingga tahun 1974
+  pertemuan antara Pak Harto dengan saya pribadi dan keluarga tidak sesering...
+date: '2014-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-1
+aliases:
+- 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 1) – HM Soeharto'
+tags:
+- bj
+- habibie
+- jerman
+- makasar
+- menristek
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- subono-manthovani
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-1/
+  judul: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 1)'
+  tanggal: '2014-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-1/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/08/Pak-Harto-dan-Habibie.jpg)
 

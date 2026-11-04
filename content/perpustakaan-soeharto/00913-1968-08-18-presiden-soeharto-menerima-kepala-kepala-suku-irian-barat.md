@@ -1,9 +1,46 @@
 ---
-title: "1968-08-18 Presiden Soeharto Menerima Kepala-Kepala Suku Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/1968-08-18-presiden-soeharto-menerima-kepala-kepala-suku-irian-barat/"
-date: "2017-08-23T11:37:55+07:00"
+title: 1968-08-18 Presiden Soeharto Menerima Kepala-Kepala Suku Irian Barat
+description: MINGGU, 18 AGUSTUS 1968, Hari ini secara khusus Presiden Soeharto telah
+  menerima kepala-kepala suku/adat dari Irian Barat, bertempat di Istana Negara. Tokoh-tokoh
+  masyarakat Irian Barat tersebut berada di Jakarta dalam rangka menghadiri...
+date: '1968-08-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-08-18-presiden-soeharto-menerima-kepala-kepala-suku-irian-barat
+aliases:
+- Presiden Soeharto Menerima Kepala-Kepala Suku Irian Barat
+- 1968-08-18 Presiden Soeharto Menerima Kepala-Kepala Suku Irian Barat – HM Soeharto
+tags:
+- fakfak
+- j-kafiar
+- jayawijaya
+- kebulatan-tekad
+- manokwari
+- merauke
+- orde-baru
+- paniai
+- pepera
+- perpustakaan-soeharto
+- presiden-soeharto
+- sorong
+- sukarnopura
+- teluk-cendrawasih
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-08-18-presiden-soeharto-menerima-kepala-kepala-suku-irian-barat/
+  judul: 1968-08-18 Presiden Soeharto Menerima Kepala-Kepala Suku Irian Barat
+  tanggal: '1968-08-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-08-18-presiden-soeharto-menerima-kepala-kepala-suku-irian-barat/
 ---
+
 
 # 1968-08-18 Presiden Soeharto Menerima Kepala-Kepala Suku Irian Barat
 

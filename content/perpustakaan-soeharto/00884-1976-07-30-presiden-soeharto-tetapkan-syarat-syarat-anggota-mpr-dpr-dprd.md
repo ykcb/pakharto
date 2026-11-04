@@ -1,9 +1,41 @@
 ---
-title: "1976-07-30 Presiden Soeharto Tetapkan Syarat-Syarat Anggota MPR-DPR-DPRD – HM Soeharto"
-source: "https://soehartolibrary.id/1976-07-30-presiden-soeharto-tetapkan-syarat-syarat-anggota-mpr-dpr-dprd/"
-date: "2017-08-23T11:39:34+07:00"
+title: 1976-07-30 Presiden Soeharto Tetapkan Syarat-Syarat Anggota MPR-DPR-DPRD
+description: JUM’AT, 30 Juli 1976 Presiden Soeharto hari ini menetapkan syarat-syarat
+  yang harus dipenuhi oleh anggota-anggota MPR, DPR, DPRD Tingkat I, dan DPRD Tingkat
+  II. Syarat-syarat tersebut adalah, pertama, warga negara Indonesia berusia...
+date: '1976-07-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-07-30-presiden-soeharto-tetapkan-syarat-syarat-anggota-mpr-dpr-dprd
+aliases:
+- Presiden Soeharto Tetapkan Syarat-Syarat Anggota MPR-DPR-DPRD
+- 1976-07-30 Presiden Soeharto Tetapkan Syarat-Syarat Anggota MPR-DPR-DPRD – HM Soeharto
+tags:
+- dpr
+- dprd-i
+- dprd-ii
+- keanggotaan
+- mpr
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- syarat
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-07-30-presiden-soeharto-tetapkan-syarat-syarat-anggota-mpr-dpr-dprd/
+  judul: 1976-07-30 Presiden Soeharto Tetapkan Syarat-Syarat Anggota MPR-DPR-DPRD
+  tanggal: '1976-07-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-07-30-presiden-soeharto-tetapkan-syarat-syarat-anggota-mpr-dpr-dprd/
 ---
+
 
 # 1976-07-30 Presiden Soeharto Tetapkan Syarat-Syarat Anggota MPR-DPR-DPRD
 

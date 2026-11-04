@@ -1,9 +1,44 @@
 ---
-title: "1971-10-27 Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri Masa Jabatan – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan/"
-date: "2014-12-01T16:31:47+07:00"
+title: 1971-10-27 Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri
+  Masa Jabatan
+description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan/respond)
+  146 Views Share on
+date: '1971-10-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan
+aliases:
+- Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri Masa Jabatan
+- 1971-10-27 Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri
+  Masa Jabatan – HM Soeharto
+tags:
+- ben-mang-reng-say
+- dpr-gr
+- ha-sjaichu
+- isnaeni
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sulistio
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan/
+  judul: 1971-10-27 Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri
+    Masa Jabatan
+  tanggal: '1971-10-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan/
 ---
+
 
 # 1971-10-27 Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri Masa Jabatan
 

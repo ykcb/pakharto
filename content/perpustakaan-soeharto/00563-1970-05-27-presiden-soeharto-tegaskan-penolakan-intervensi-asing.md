@@ -1,9 +1,41 @@
 ---
-title: "1970-05-27 Presiden Soeharto Tegaskan Penolakan Intervensi Asing – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-27-presiden-soeharto-tegaskan-penolakan-intervensi-asing/"
-date: "2014-03-22T02:53:32+07:00"
+title: 1970-05-27 Presiden Soeharto Tegaskan Penolakan Intervensi Asing
+description: RABU, 27 MEI 1970, Hari ini Presiden Soeharto mengadakan pertemuan dengan
+  Ketua IMF, Piere Paul Schweitzer, dan Presiden Bank Dunia, Robert McNamara, di Blair
+  House, tempat Presiden dan Ibu Soeharto menginap selama di Washington. Dalam...
+date: '1970-05-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-27-presiden-soeharto-tegaskan-penolakan-intervensi-asing
+aliases:
+- Presiden Soeharto Tegaskan Penolakan Intervensi Asing
+- 1970-05-27 Presiden Soeharto Tegaskan Penolakan Intervensi Asing – HM Soeharto
+tags:
+- asia-tenggara
+- bank-dunia
+- blair-house
+- imf
+- orde-baru
+- perpustakaan-soeharto
+- piere-paul-schweitzer
+- presiden-soeharto
+- robert-mcnamara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-27-presiden-soeharto-tegaskan-penolakan-intervensi-asing/
+  judul: 1970-05-27 Presiden Soeharto Tegaskan Penolakan Intervensi Asing
+  tanggal: '1970-05-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-27-presiden-soeharto-tegaskan-penolakan-intervensi-asing/
 ---
+
 
 # 1970-05-27 Presiden Soeharto Tegaskan Penolakan Intervensi Asing
 

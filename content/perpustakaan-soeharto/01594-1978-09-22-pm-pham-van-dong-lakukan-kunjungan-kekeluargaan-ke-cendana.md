@@ -1,9 +1,39 @@
 ---
-title: "1978-09-22 PM Pham Van Dong Lakukan Kunjungan Kekeluargaan Ke Cendana – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-22-pm-pham-van-dong-lakukan-kunjungan-kekeluargaan-ke-cendana/"
-date: "2017-08-22T12:05:05+07:00"
+title: 1978-09-22 PM Pham Van Dong Lakukan Kunjungan Kekeluargaan Ke Cendana
+description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-22-pm-pham-van-dong-lakukan-kunjungan-kekeluargaan-ke-cendana/respond)
+  90 Views Share on
+date: '1978-09-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-22-pm-pham-van-dong-lakukan-kunjungan-kekeluargaan-ke-cendana
+aliases:
+- PM Pham Van Dong Lakukan Kunjungan Kekeluargaan Ke Cendana
+- 1978-09-22 PM Pham Van Dong Lakukan Kunjungan Kekeluargaan Ke Cendana – HM Soeharto
+tags:
+- cendana
+- kekeluargaan
+- orde-baru
+- perpustakaan-soeharto
+- pham-van-dong
+- pm-vietnam
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-22-pm-pham-van-dong-lakukan-kunjungan-kekeluargaan-ke-cendana/
+  judul: 1978-09-22 PM Pham Van Dong Lakukan Kunjungan Kekeluargaan Ke Cendana
+  tanggal: '1978-09-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-22-pm-pham-van-dong-lakukan-kunjungan-kekeluargaan-ke-cendana/
 ---
+
 
 # 1978-09-22 PM Pham Van Dong Lakukan Kunjungan Kekeluargaan Ke Cendana
 

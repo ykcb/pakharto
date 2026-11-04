@@ -1,9 +1,37 @@
 ---
-title: "1975-03-01 Presiden Soeharto Menerima Menlu Korea Selatan – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-01-presiden-soeharto-menerima-menlu-korea-selatan/"
-date: "2014-03-22T03:01:46+07:00"
+title: 1975-03-01 Presiden Soeharto Menerima Menlu Korea Selatan
+description: SABTU, 1 MARET 1975, Menteri Luar Negeri Korea Selatan, Dr. Kim Dong
+  Jo, jam 09.00 pagi mengadakan kunjungan kehormatan kepada Presiden Soeharto di Istana
+  Merdeka. Kesempatan itu telah dipergunakan oleh kedua pemimpin untuk saling...
+date: '1975-03-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-01-presiden-soeharto-menerima-menlu-korea-selatan
+aliases:
+- Presiden Soeharto Menerima Menlu Korea Selatan
+- 1975-03-01 Presiden Soeharto Menerima Menlu Korea Selatan – HM Soeharto
+tags:
+- korea-selatan
+- menteri-luar-negeri
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-01-presiden-soeharto-menerima-menlu-korea-selatan/
+  judul: 1975-03-01 Presiden Soeharto Menerima Menlu Korea Selatan
+  tanggal: '1975-03-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-01-presiden-soeharto-menerima-menlu-korea-selatan/
 ---
+
 
 # 1975-03-01 Presiden Soeharto Menerima Menlu Korea Selatan
 

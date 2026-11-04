@@ -1,9 +1,33 @@
 ---
-title: "Di Tengah Konflik Yang Menekan – HM Soeharto"
-source: "https://soehartolibrary.id/di-tengah-konflik-yang-menekan/"
-date: "2018-01-10T19:30:47+07:00"
+title: Di Tengah Konflik Yang Menekan
+description: Saya mengerti, masyarakat menunggu, bagaimana rupa kabinet baru sesudah
+  Sidang Umum MPRS 1966 itu. Rundingan dilakukan dengan pelbagai pihak, dengan pelbagai
+  kekuatan yang nyata pada waktu itu. Juga dengan Presiden Soekarno tentunya....
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: di-tengah-konflik-yang-menekan
+aliases:
+- Di Tengah Konflik Yang Menekan – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/di-tengah-konflik-yang-menekan/
+  judul: Di Tengah Konflik Yang Menekan
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/di-tengah-konflik-yang-menekan/
 ---
+
 
 # Di Tengah Konflik Yang Menekan
 

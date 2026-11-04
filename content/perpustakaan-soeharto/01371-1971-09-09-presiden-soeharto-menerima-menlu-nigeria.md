@@ -1,9 +1,42 @@
 ---
-title: "1972-09-09 Presiden Soeharto Menerima Menlu Nigeria – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-09-presiden-soeharto-menerima-menlu-nigeria/"
-date: "2017-08-23T11:04:58+07:00"
+title: 1972-09-09 Presiden Soeharto Menerima Menlu Nigeria
+description: 14 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-09-presiden-soeharto-menerima-menlu-nigeria/respond)
+  97 Views Share on
+date: '1971-09-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-09-presiden-soeharto-menerima-menlu-nigeria
+aliases:
+- Presiden Soeharto Menerima Menlu Nigeria
+- 1972-09-09 Presiden Soeharto Menerima Menlu Nigeria – HM Soeharto
+tags:
+- adam-malik
+- dr-okoi-arikpo
+- ktt-non-blok
+- lusaka
+- menteri-luar-negeri
+- nigeria
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- zambia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-09-presiden-soeharto-menerima-menlu-nigeria/
+  judul: 1972-09-09 Presiden Soeharto Menerima Menlu Nigeria
+  tanggal: '1971-09-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-09-presiden-soeharto-menerima-menlu-nigeria/
 ---
+
 
 # 1972-09-09 Presiden Soeharto Menerima Menlu Nigeria
 

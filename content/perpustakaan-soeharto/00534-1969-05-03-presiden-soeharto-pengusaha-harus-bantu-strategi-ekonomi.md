@@ -1,9 +1,43 @@
 ---
-title: "1969-05-03 Presiden Soeharto: Pengusaha Harus Bantu Strategi Ekonomi – HM Soeharto"
-source: "https://soehartolibrary.id/1969-05-03-presiden-soeharto-pengusaha-harus-bantu-strategi-ekonomi/"
-date: "2017-08-28T16:47:59+07:00"
+title: '1969-05-03 Presiden Soeharto: Pengusaha Harus Bantu Strategi Ekonomi'
+description: SABTU, 3 MEI 1969, Presiden Soeharto ketika menerima anggota-anggota
+  Pengurus Forum Swasta Nasional di Istana Merdeka pagi ini menyatakan bahwa wadah
+  pengusaha swasta harus diisi dan diatur oleh para pengusaha itu sendiri dan ini
+  harus...
+date: '1969-05-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-05-03-presiden-soeharto-pengusaha-harus-bantu-strategi-ekonomi
+aliases:
+- 'Presiden Soeharto: Pengusaha Harus Bantu Strategi Ekonomi'
+- '1969-05-03 Presiden Soeharto: Pengusaha Harus Bantu Strategi Ekonomi – HM Soeharto'
+tags:
+- ekonomi
+- nasional
+- orde-baru
+- pelita
+- pengusaha
+- perpustakaan-soeharto
+- presiden-soeharto
+- repelita
+- strategi
+- swasta
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-05-03-presiden-soeharto-pengusaha-harus-bantu-strategi-ekonomi/
+  judul: '1969-05-03 Presiden Soeharto: Pengusaha Harus Bantu Strategi Ekonomi'
+  tanggal: '1969-05-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-05-03-presiden-soeharto-pengusaha-harus-bantu-strategi-ekonomi/
 ---
+
 
 # 1969-05-03 Presiden Soeharto: Pengusaha Harus Bantu Strategi Ekonomi
 

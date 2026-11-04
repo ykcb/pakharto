@@ -1,9 +1,39 @@
 ---
-title: "1973-08-28 Presiden Soeharto Putuskan Kenaikan Tunjangan Kerja Minimum – HM Soeharto"
-source: "https://soehartolibrary.id/1973-08-28-presiden-soeharto-putuskan-kenaikan-tunjangan-kerja-minimum/"
-date: "2017-08-23T11:35:46+07:00"
+title: 1973-08-28 Presiden Soeharto Putuskan Kenaikan Tunjangan Kerja Minimum
+description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-08-28-presiden-soeharto-putuskan-kenaikan-tunjangan-kerja-minimum/respond)
+  93 Views Share on
+date: '1973-08-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-08-28-presiden-soeharto-putuskan-kenaikan-tunjangan-kerja-minimum
+aliases:
+- Presiden Soeharto Putuskan Kenaikan Tunjangan Kerja Minimum
+- 1973-08-28 Presiden Soeharto Putuskan Kenaikan Tunjangan Kerja Minimum – HM Soeharto
+tags:
+- gaji-pns
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- tunjangan-kerja-minimum
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-08-28-presiden-soeharto-putuskan-kenaikan-tunjangan-kerja-minimum/
+  judul: 1973-08-28 Presiden Soeharto Putuskan Kenaikan Tunjangan Kerja Minimum
+  tanggal: '1973-08-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-08-28-presiden-soeharto-putuskan-kenaikan-tunjangan-kerja-minimum/
 ---
+
 
 # 1973-08-28 Presiden Soeharto Putuskan Kenaikan Tunjangan Kerja Minimum
 

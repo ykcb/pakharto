@@ -1,9 +1,39 @@
 ---
-title: "1968-06-11 Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW – HM Soeharto"
-source: "https://soehartolibrary.id/1968-06-11-presiden-soeharto-menghadiri-peringatan-maulid-nabi-muhammad-saw/"
-date: "2017-08-25T15:44:55+07:00"
+title: 1968-06-11 Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW
+description: SELASA, 11 JUNI 1968, Peringatan Maulid Nabi Muhammad Saw., dilangsungkan
+  di Istana Negara malam ini. Dalam sambutannya, Presiden Soeharto mengemukakan bahwa
+  dalam mewujudkan persatuan bangsa antara lain harus ditumbuhkan kehidupan...
+date: '1968-06-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-06-11-presiden-soeharto-menghadiri-peringatan-maulid-nabi-muhammad-saw
+aliases:
+- Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW
+- 1968-06-11 Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW – HM
+  Soeharto
+tags:
+- istana-negara
+- maulid-nabi
+- muhammad-saw
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-06-11-presiden-soeharto-menghadiri-peringatan-maulid-nabi-muhammad-saw/
+  judul: 1968-06-11 Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW
+  tanggal: '1968-06-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-06-11-presiden-soeharto-menghadiri-peringatan-maulid-nabi-muhammad-saw/
 ---
+
 
 # 1968-06-11 Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW
 

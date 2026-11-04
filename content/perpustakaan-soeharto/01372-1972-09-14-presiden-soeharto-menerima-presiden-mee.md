@@ -1,9 +1,37 @@
 ---
-title: "1972-09-14 Presiden Soeharto Menerima Presiden MEE – HM Soeharto"
-source: "https://soehartolibrary.id/1972-09-14-presiden-soeharto-menerima-presiden-mee/"
-date: "2017-08-23T11:04:24+07:00"
+title: 1972-09-14 Presiden Soeharto Menerima Presiden MEE
+description: 14 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-09-14-presiden-soeharto-menerima-presiden-mee/respond)
+  142 Views Share on
+date: '1972-09-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-09-14-presiden-soeharto-menerima-presiden-mee
+aliases:
+- Presiden Soeharto Menerima Presiden MEE
+- 1972-09-14 Presiden Soeharto Menerima Presiden MEE – HM Soeharto
+tags:
+- mee
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sisco-l-mansholt
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-09-14-presiden-soeharto-menerima-presiden-mee/
+  judul: 1972-09-14 Presiden Soeharto Menerima Presiden MEE
+  tanggal: '1972-09-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-09-14-presiden-soeharto-menerima-presiden-mee/
 ---
+
 
 # 1972-09-14 Presiden Soeharto Menerima Presiden MEE
 

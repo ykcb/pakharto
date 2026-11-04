@@ -1,9 +1,40 @@
 ---
-title: "1975-08-04 Presiden Soeharto Resmikan Pabrik Semen Cibinong – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-04-presiden-soeharto-resmikan-pabrik-semen-cibinong/"
-date: "2017-08-23T11:16:02+07:00"
+title: 1975-08-04 Presiden Soeharto Resmikan Pabrik Semen Cibinong
+description: 26 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-04-presiden-soeharto-resmikan-pabrik-semen-cibinong/respond)
+  118 Views Share on
+date: '1975-08-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-04-presiden-soeharto-resmikan-pabrik-semen-cibinong
+aliases:
+- Presiden Soeharto Resmikan Pabrik Semen Cibinong
+- 1975-08-04 Presiden Soeharto Resmikan Pabrik Semen Cibinong – HM Soeharto
+tags:
+- alim-ulama
+- isra-miraj
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- produksi-dalam-negeri
+- semen-cibinong
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-04-presiden-soeharto-resmikan-pabrik-semen-cibinong/
+  judul: 1975-08-04 Presiden Soeharto Resmikan Pabrik Semen Cibinong
+  tanggal: '1975-08-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-04-presiden-soeharto-resmikan-pabrik-semen-cibinong/
 ---
+
 
 # 1975-08-04 Presiden Soeharto Resmikan Pabrik Semen Cibinong
 

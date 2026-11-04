@@ -1,9 +1,39 @@
 ---
-title: "1978-09-19 Presiden Soeharto Resmikan Kilang Gas Alam (LNG) Arun Aceh – HM Soeharto"
-source: "https://soehartolibrary.id/1978-09-19-presiden-soeharto-resmikan-kilang-gas-alam-lng-arun-aceh/"
-date: "2017-08-22T12:05:39+07:00"
+title: 1978-09-19 Presiden Soeharto Resmikan Kilang Gas Alam (LNG) Arun Aceh
+description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1978-09-19-presiden-soeharto-resmikan-kilang-gas-alam-lng-arun-aceh/respond)
+  170 Views Share on
+date: '1978-09-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1978-09-19-presiden-soeharto-resmikan-kilang-gas-alam-lng-arun-aceh
+aliases:
+- Presiden Soeharto Resmikan Kilang Gas Alam (LNG) Arun Aceh
+- 1978-09-19 Presiden Soeharto Resmikan Kilang Gas Alam (LNG) Arun Aceh – HM Soeharto
+tags:
+- arun
+- gas-alam
+- kepala-negara
+- lng
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1978-09-19-presiden-soeharto-resmikan-kilang-gas-alam-lng-arun-aceh/
+  judul: 1978-09-19 Presiden Soeharto Resmikan Kilang Gas Alam (LNG) Arun Aceh
+  tanggal: '1978-09-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1978-09-19-presiden-soeharto-resmikan-kilang-gas-alam-lng-arun-aceh/
 ---
+
 
 # 1978-09-19 Presiden Soeharto Resmikan Kilang Gas Alam (LNG) Arun Aceh
 

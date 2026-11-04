@@ -1,9 +1,46 @@
 ---
-title: "1974-08-29 Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan Nusantara – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara/"
-date: "2017-08-23T11:17:24+07:00"
+title: '1974-08-29 Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan
+  Nusantara'
+description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara/respond)
+  105 Views Share on
+date: '1974-08-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara
+aliases:
+- 'Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan Nusantara'
+- '1974-08-29 Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan Nusantara
+  – HM Soeharto'
+tags:
+- batas-laut
+- birma
+- ekonomi
+- kerjasama-teknik
+- ne-win
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- ratifikasi
+- singapura
+- wawasan-nusantara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara/
+  judul: '1974-08-29 Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan
+    Nusantara'
+  tanggal: '1974-08-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara/
 ---
+
 
 # 1974-08-29 Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan Nusantara
 

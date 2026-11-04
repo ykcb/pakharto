@@ -1,9 +1,48 @@
 ---
-title: "1971-06-29 Presiden Soeharto Memberikan Bantuan Ke Sejumlah Pemerintah Daerah – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-29-presiden-soeharto-memberikan-bantuan-ke-sejumlah-pemerintah-daerah/"
-date: "2017-08-24T15:27:48+07:00"
+title: 1971-06-29 Presiden Soeharto Memberikan Bantuan Ke Sejumlah Pemerintah Daerah
+description: SELASA, 29 Juni 1971, Beberapa pejabat daerah dari Jawa Tengah dan Jawa
+  Barat diterima oleh Presiden Soeharto di Bina Graha pagi ini. Pada kesempatan ini
+  Presiden menyerahkan sumbangan Rp. 10 juta kepada Gubernur Jawa Tengah untuk...
+date: '1971-06-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-29-presiden-soeharto-memberikan-bantuan-ke-sejumlah-pemerintah-daerah
+aliases:
+- Presiden Soeharto Memberikan Bantuan Ke Sejumlah Pemerintah Daerah
+- 1971-06-29 Presiden Soeharto Memberikan Bantuan Ke Sejumlah Pemerintah Daerah –
+  HM Soeharto
+tags:
+- bantar-kawung
+- bantuan
+- bogor
+- brebes
+- bupati
+- mesjid-raya-bogor
+- orde-baru
+- pemerintah-daerah
+- perpustakaan-soeharto
+- presiden-soeharto
+- solo
+- sri-paku-alam
+- universitas-tjokroaminoto
+- wonosari
+- yogyakarta
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-29-presiden-soeharto-memberikan-bantuan-ke-sejumlah-pemerintah-daerah/
+  judul: 1971-06-29 Presiden Soeharto Memberikan Bantuan Ke Sejumlah Pemerintah Daerah
+  tanggal: '1971-06-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-29-presiden-soeharto-memberikan-bantuan-ke-sejumlah-pemerintah-daerah/
 ---
+
 
 # 1971-06-29 Presiden Soeharto Memberikan Bantuan Ke Sejumlah Pemerintah Daerah
 

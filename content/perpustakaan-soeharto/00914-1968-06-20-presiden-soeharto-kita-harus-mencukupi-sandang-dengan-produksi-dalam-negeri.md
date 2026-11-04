@@ -1,9 +1,41 @@
 ---
-title: "1968-06-20 Presiden Soeharto: Kita Harus Mencukupi Sandang dengan Produksi Dalam Negeri – HM Soeharto"
-source: "https://soehartolibrary.id/1968-06-20-presiden-soeharto-kita-harus-mencukupi-sandang-dengan-produksi-dalam-negeri/"
-date: "2014-04-01T02:19:36+07:00"
+title: '1968-06-20 Presiden Soeharto: Kita Harus Mencukupi Sandang dengan Produksi
+  Dalam Negeri'
+description: SELASA, 20 AGUSTUS 1968, Presiden Soeharto dalam amanat tertulisnya pada
+  pembukaan pameran sutera nasional di Puri Eka Warna, Kebayoran Baru, Jakarta, malam
+  ini mengatakan bahwa pemerintah akan terus berusaha agar produksi sandang dalam...
+date: '1968-06-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-06-20-presiden-soeharto-kita-harus-mencukupi-sandang-dengan-produksi-dalam-negeri
+aliases:
+- 'Presiden Soeharto: Kita Harus Mencukupi Sandang dengan Produksi Dalam Negeri'
+- '1968-06-20 Presiden Soeharto: Kita Harus Mencukupi Sandang dengan Produksi Dalam
+  Negeri – HM Soeharto'
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- produksi-dalam-negeri
+- sandang
+- sutera
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-06-20-presiden-soeharto-kita-harus-mencukupi-sandang-dengan-produksi-dalam-negeri/
+  judul: '1968-06-20 Presiden Soeharto: Kita Harus Mencukupi Sandang dengan Produksi
+    Dalam Negeri'
+  tanggal: '1968-06-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-06-20-presiden-soeharto-kita-harus-mencukupi-sandang-dengan-produksi-dalam-negeri/
 ---
+
 
 # 1968-06-20 Presiden Soeharto: Kita Harus Mencukupi Sandang dengan Produksi Dalam Negeri
 

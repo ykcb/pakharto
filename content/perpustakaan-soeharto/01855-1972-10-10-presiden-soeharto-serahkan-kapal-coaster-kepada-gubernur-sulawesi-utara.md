@@ -1,9 +1,42 @@
 ---
-title: "1972-10-10 Presiden Soeharto Serahkan Kapal Coaster Kepada Gubernur Sulawesi Utara – HM Soeharto"
-source: "https://soehartolibrary.id/1972-10-10-presiden-soeharto-serahkan-kapal-coaster-kepada-gubernur-sulawesi-utara/"
-date: "2014-12-01T16:09:55+07:00"
+title: 1972-10-10 Presiden Soeharto Serahkan Kapal Coaster Kepada Gubernur Sulawesi
+  Utara
+description: 10 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1972-10-10-presiden-soeharto-serahkan-kapal-coaster-kepada-gubernur-sulawesi-utara/respond)
+  97 Views Share on
+date: '1972-10-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-10-10-presiden-soeharto-serahkan-kapal-coaster-kepada-gubernur-sulawesi-utara
+aliases:
+- Presiden Soeharto Serahkan Kapal Coaster Kepada Gubernur Sulawesi Utara
+- 1972-10-10 Presiden Soeharto Serahkan Kapal Coaster Kepada Gubernur Sulawesi Utara
+  – HM Soeharto
+tags:
+- hv-worang
+- kapal-coaster
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sulawesi-utara
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-10-10-presiden-soeharto-serahkan-kapal-coaster-kepada-gubernur-sulawesi-utara/
+  judul: 1972-10-10 Presiden Soeharto Serahkan Kapal Coaster Kepada Gubernur Sulawesi
+    Utara
+  tanggal: '1972-10-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-10-10-presiden-soeharto-serahkan-kapal-coaster-kepada-gubernur-sulawesi-utara/
 ---
+
 
 # 1972-10-10 Presiden Soeharto Serahkan Kapal Coaster Kepada Gubernur Sulawesi Utara
 

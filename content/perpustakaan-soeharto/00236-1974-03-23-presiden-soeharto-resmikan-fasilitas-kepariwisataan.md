@@ -1,9 +1,40 @@
 ---
-title: "1974-03-23 Presiden Soeharto Resmikan Fasilitas Kepariwisataan – HM Soeharto"
-source: "https://soehartolibrary.id/1974-03-23-presiden-soeharto-resmikan-fasilitas-kepariwisataan/"
-date: "2014-03-22T03:01:48+07:00"
+title: 1974-03-23 Presiden Soeharto Resmikan Fasilitas Kepariwisataan
+description: SABTU, 23 MARET 1974, Bertempat di Bina Graha, pagi, Presiden Soeharto
+  meresmikan beberapa fasilitas kepariwisataan, baik yang baru selesai dibangun maupun
+  yang baru selesai diperluas, secara sekaligus. Proyek yang diresmikan itu adalah...
+date: '1974-03-23'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-03-23-presiden-soeharto-resmikan-fasilitas-kepariwisataan
+aliases:
+- Presiden Soeharto Resmikan Fasilitas Kepariwisataan
+- 1974-03-23 Presiden Soeharto Resmikan Fasilitas Kepariwisataan – HM Soeharto
+tags:
+- dan-hotel-indonesia
+- hotel-ambasador
+- hotel-borobudur
+- hotel-kartika-candra
+- hotel-sahid-jaya-boulevard
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-03-23-presiden-soeharto-resmikan-fasilitas-kepariwisataan/
+  judul: 1974-03-23 Presiden Soeharto Resmikan Fasilitas Kepariwisataan
+  tanggal: '1974-03-23'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-03-23-presiden-soeharto-resmikan-fasilitas-kepariwisataan/
 ---
+
 
 # 1974-03-23 Presiden Soeharto Resmikan Fasilitas Kepariwisataan
 

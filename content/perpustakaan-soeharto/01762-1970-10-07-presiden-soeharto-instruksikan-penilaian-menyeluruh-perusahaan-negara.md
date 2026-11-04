@@ -1,9 +1,39 @@
 ---
-title: "1970-10-07 Presiden Soeharto Instruksikan Penilaian Menyeluruh Perusahaan Negara – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-07-presiden-soeharto-instruksikan-penilaian-menyeluruh-perusahaan-negara/"
-date: "2014-12-01T16:27:23+07:00"
+title: 1970-10-07 Presiden Soeharto Instruksikan Penilaian Menyeluruh Perusahaan Negara
+description: 6 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-07-presiden-soeharto-instruksikan-penilaian-menyeluruh-perusahaan-negara/respond)
+  101 Views Share on
+date: '1970-10-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-07-presiden-soeharto-instruksikan-penilaian-menyeluruh-perusahaan-negara
+aliases:
+- Presiden Soeharto Instruksikan Penilaian Menyeluruh Perusahaan Negara
+- 1970-10-07 Presiden Soeharto Instruksikan Penilaian Menyeluruh Perusahaan Negara
+  – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- perusahaan-negara
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-07-presiden-soeharto-instruksikan-penilaian-menyeluruh-perusahaan-negara/
+  judul: 1970-10-07 Presiden Soeharto Instruksikan Penilaian Menyeluruh Perusahaan
+    Negara
+  tanggal: '1970-10-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-07-presiden-soeharto-instruksikan-penilaian-menyeluruh-perusahaan-negara/
 ---
+
 
 # 1970-10-07 Presiden Soeharto Instruksikan Penilaian Menyeluruh Perusahaan Negara
 

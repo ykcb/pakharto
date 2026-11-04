@@ -1,9 +1,46 @@
 ---
-title: "Mengatasi G 30 S/PKI – HM Soeharto"
-source: "https://soehartolibrary.id/mengatasi-g-30-s/"
-date: "2018-01-10T19:18:42+07:00"
+title: Mengatasi G 30 S/PKI
+description: Tanggal 30 September 1965. Kira-kira pukul sembilan malam saya bersama
+  istri saya berada di Rumah Sakit Gatot Subroto. Kami menengok anak kami, Tomy, yang
+  masih berumur empat tahun, dirawat disana karena tersiram air sup yang panas....
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: mengatasi-g-30-s
+aliases:
+- Mengatasi G 30 S/PKI – HM Soeharto
+tags:
+- '1965'
+- dewan-jenderal
+- g-30-spki
+- halim
+- istana-bogor
+- istana-negara
+- kup
+- mayjen-soeharto
+- omar-dhani
+- orde-baru
+- perpustakaan-soeharto
+- rri
+- soekarno
+- supardjo
+- untung
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/mengatasi-g-30-s/
+  judul: Mengatasi G 30 S/PKI
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/mengatasi-g-30-s/
 ---
+
 
 ![Pengangkatan Pahlawan Revolusi](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b455.jpg)
 

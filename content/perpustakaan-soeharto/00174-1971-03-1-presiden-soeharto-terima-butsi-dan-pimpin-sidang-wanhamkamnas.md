@@ -1,9 +1,38 @@
 ---
-title: "1971-03-1 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas – HM Soeharto"
-source: "https://soehartolibrary.id/1971-03-1-presiden-soeharto-terima-butsi-dan-pimpin-sidang-wanhamkamnas/"
-date: "2017-08-29T17:13:18+07:00"
+title: 1971-03-1 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas
+description: SENIN, 1 Maret 1971, Presiden Soeharto sangat menghargai kerelaan para
+  sarjana untuk bekerja di pedesaan. Hal ini diungkapkan ketika ia menerima 30 orang
+  sarjana yang mengikuti program Badan Urusan Tenagakerja Sukarela Indonesia (BUTSI)...
+date: '2017-08-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-03-1-presiden-soeharto-terima-butsi-dan-pimpin-sidang-wanhamkamnas
+aliases:
+- 1971-03-1 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas – HM Soeharto
+tags:
+- orde-baru
+- pak-harto
+- pelita
+- perpustakaan-soeharto
+- presiden
+- soeharto
+- wanhamkamnas
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-03-1-presiden-soeharto-terima-butsi-dan-pimpin-sidang-wanhamkamnas/
+  judul: 1971-03-1 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas
+  tanggal: '2017-08-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-03-1-presiden-soeharto-terima-butsi-dan-pimpin-sidang-wanhamkamnas/
 ---
+
 
 # 1971-03-1 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas
 

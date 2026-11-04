@@ -1,9 +1,41 @@
 ---
-title: "1971-04-26 Presiden Soeharto Menyerahkan Sarana Prasarana Pembangunan Banten – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-26-presiden-soeharto-menyerahkan-sarana-prasarana-pembangunan-banten/"
-date: "2017-08-28T16:52:08+07:00"
+title: 1971-04-26 Presiden Soeharto Menyerahkan Sarana Prasarana Pembangunan Banten
+description: SENIN, 26 April 1971, Hari ini di Bina Graha pagi ini, Presiden Soeharto
+  menyerahkan beberapa buah kendaraan dan peralatan lainnya untuk pembangunan prasarana
+  di daerah Banten, disamping uang sejumlah Rp 20 juta untuk pembangunan di...
+date: '1971-04-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-26-presiden-soeharto-menyerahkan-sarana-prasarana-pembangunan-banten
+aliases:
+- Presiden Soeharto Menyerahkan Sarana Prasarana Pembangunan Banten
+- 1971-04-26 Presiden Soeharto Menyerahkan Sarana Prasarana Pembangunan Banten – HM
+  Soeharto
+tags:
+- banten
+- bantuan
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- spirituil
+- ulama
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-26-presiden-soeharto-menyerahkan-sarana-prasarana-pembangunan-banten/
+  judul: 1971-04-26 Presiden Soeharto Menyerahkan Sarana Prasarana Pembangunan Banten
+  tanggal: '1971-04-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-26-presiden-soeharto-menyerahkan-sarana-prasarana-pembangunan-banten/
 ---
+
 
 # 1971-04-26 Presiden Soeharto Menyerahkan Sarana Prasarana Pembangunan Banten
 

@@ -1,9 +1,38 @@
 ---
-title: "1979-09-21 Presiden Soeharto Buka Seagames X – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-21-presiden-soeharto-buka-seagames-x/"
-date: "2014-03-21T23:12:17+07:00"
+title: 1979-09-21 Presiden Soeharto Buka Seagames X
+description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-21-presiden-soeharto-buka-seagames-x/respond)
+  101 Views Share on
+date: '1979-09-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-21-presiden-soeharto-buka-seagames-x
+aliases:
+- Presiden Soeharto Buka Seagames X
+- 1979-09-21 Presiden Soeharto Buka Seagames X – HM Soeharto
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- seagames
+- senayan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-21-presiden-soeharto-buka-seagames-x/
+  judul: 1979-09-21 Presiden Soeharto Buka Seagames X
+  tanggal: '1979-09-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-21-presiden-soeharto-buka-seagames-x/
 ---
+
 
 # 1979-09-21 Presiden Soeharto Buka Seagames X
 

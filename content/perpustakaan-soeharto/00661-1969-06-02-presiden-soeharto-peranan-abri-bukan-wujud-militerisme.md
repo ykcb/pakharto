@@ -1,9 +1,41 @@
 ---
-title: "1969-06-02 Presiden Soeharto: Peranan ABRI Bukan Wujud Militerisme – HM Soeharto"
-source: "https://soehartolibrary.id/1969-06-02-presiden-soeharto-peranan-abri-bukan-wujud-militerisme/"
-date: "2017-08-25T15:35:54+07:00"
+title: '1969-06-02 Presiden Soeharto: Peranan ABRI Bukan Wujud Militerisme'
+description: SENIN, 2 JUNI 1969, Presiden Soeharto menegaskan bahwa peranan ABRI sekarang
+  ini sama sekali bukan wujud “militerisme”, bahkan bukan gejala “militerisme”. Peranan
+  yang dipikul di pundak ABRI sekarang terutama di dorong oleh kesetiaannya...
+date: '1969-06-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-06-02-presiden-soeharto-peranan-abri-bukan-wujud-militerisme
+aliases:
+- 'Presiden Soeharto: Peranan ABRI Bukan Wujud Militerisme'
+- '1969-06-02 Presiden Soeharto: Peranan ABRI Bukan Wujud Militerisme – HM Soeharto'
+tags:
+- abri
+- gakoptri
+- gula
+- industri
+- militerisme
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- tebu
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-06-02-presiden-soeharto-peranan-abri-bukan-wujud-militerisme/
+  judul: '1969-06-02 Presiden Soeharto: Peranan ABRI Bukan Wujud Militerisme'
+  tanggal: '1969-06-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-06-02-presiden-soeharto-peranan-abri-bukan-wujud-militerisme/
 ---
+
 
 # 1969-06-02 Presiden Soeharto: Peranan ABRI Bukan Wujud Militerisme
 

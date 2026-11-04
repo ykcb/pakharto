@@ -1,9 +1,37 @@
 ---
-title: "1968-06-10 Presiden Soeharto Melantik Kabinet Pembangunan I – HM Soeharto"
-source: "https://soehartolibrary.id/1968-06-10-presiden-soeharto-melantik-kabinet-pembangunan-i/"
-date: "2017-08-28T16:44:00+07:00"
+title: 1968-06-10 Presiden Soeharto Melantik Kabinet Pembangunan I
+description: SENIN, 10 JUNI 1968, Pukul 10.00 pagi ini, Presiden Soeharto melantik
+  para menteri Kabinet Pembangunan I di Istana Merdeka, Jakarta. Dalam pidato pelantikan,
+  Presiden Soeharto menyatakan bahwa tugas yang dipikul oleh para menteri...
+date: '1968-06-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-06-10-presiden-soeharto-melantik-kabinet-pembangunan-i
+aliases:
+- Presiden Soeharto Melantik Kabinet Pembangunan I
+- 1968-06-10 Presiden Soeharto Melantik Kabinet Pembangunan I – HM Soeharto
+tags:
+- istana-merdeka
+- kabinet-pembangunan-i
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-06-10-presiden-soeharto-melantik-kabinet-pembangunan-i/
+  judul: 1968-06-10 Presiden Soeharto Melantik Kabinet Pembangunan I
+  tanggal: '1968-06-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-06-10-presiden-soeharto-melantik-kabinet-pembangunan-i/
 ---
+
 
 # 1968-06-10 Presiden Soeharto Melantik Kabinet Pembangunan I
 

@@ -1,9 +1,40 @@
 ---
-title: "1971-06-10 Presiden Soeharto Meresmikan Serangkaian Proyek di Cilacap – HM Soeharto"
-source: "https://soehartolibrary.id/1971-06-10-presiden-soeharto-meresmikan-serangkaian-proyek-di-cilacap/"
-date: "2017-08-24T15:31:28+07:00"
+title: 1971-06-10 Presiden Soeharto Meresmikan Serangkaian Proyek di Cilacap
+description: KAMIS, 10 Juni 1971, Hari ini Presiden Soeharto berada di Cilacap, Jawa
+  Tengah, untuk meninjau dan sekaligus meresmikan proyek pasir besi, kawasan industri
+  dan pipa minyak Pertamina. Pada peresmian proyek pasir besi, yang diusahakan...
+date: '1971-06-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-06-10-presiden-soeharto-meresmikan-serangkaian-proyek-di-cilacap
+aliases:
+- Presiden Soeharto Meresmikan Serangkaian Proyek di Cilacap
+- 1971-06-10 Presiden Soeharto Meresmikan Serangkaian Proyek di Cilacap – HM Soeharto
+tags:
+- cilacap
+- kawasan-industri
+- orde-baru
+- pasir-besi
+- perpustakaan-soeharto
+- pipanisasi-pertamina
+- pn-aneka-usaha
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-06-10-presiden-soeharto-meresmikan-serangkaian-proyek-di-cilacap/
+  judul: 1971-06-10 Presiden Soeharto Meresmikan Serangkaian Proyek di Cilacap
+  tanggal: '1971-06-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-06-10-presiden-soeharto-meresmikan-serangkaian-proyek-di-cilacap/
 ---
+
 
 # 1971-06-10 Presiden Soeharto Meresmikan Serangkaian Proyek di Cilacap
 

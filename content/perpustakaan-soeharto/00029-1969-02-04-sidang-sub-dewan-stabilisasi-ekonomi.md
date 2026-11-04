@@ -1,9 +1,37 @@
 ---
-title: "1969-02-04 SIDANG SUB DEWAN STABILISASI EKONOMI – HM Soeharto"
-source: "https://soehartolibrary.id/1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi/"
-date: "2017-08-28T17:12:54+07:00"
+title: 1969-02-04 SIDANG SUB DEWAN STABILISASI EKONOMI
+description: SIDANG SUB DEWAN STABILISASI EKONOMI[](ftn1)
+date: '1969-02-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi
+aliases:
+- SIDANG SUB DEWAN STABILISASI EKONOMI
+- 1969-02-04 SIDANG SUB DEWAN STABILISASI EKONOMI – HM Soeharto
+tags:
+- dewan
+- ekonomi
+- orde-baru
+- perpustakaan-soeharto
+- sidang
+- stabilisasi
+- sub
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi/
+  judul: 1969-02-04 SIDANG SUB DEWAN STABILISASI EKONOMI
+  tanggal: '1969-02-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi/
 ---
+
 
 # 1969-02-04 SIDANG SUB DEWAN STABILISASI EKONOMI
 

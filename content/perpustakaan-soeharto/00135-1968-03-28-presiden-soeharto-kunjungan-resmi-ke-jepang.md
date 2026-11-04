@@ -1,9 +1,44 @@
 ---
-title: "1968-03-28 Presiden Soeharto Kunjungan Resmi Ke Jepang – HM Soeharto"
-source: "https://soehartolibrary.id/1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang/"
-date: "2017-08-28T17:09:50+07:00"
+title: 1968-03-28 Presiden Soeharto Kunjungan Resmi Ke Jepang
+description: KAMIS, 28 MARET 1968, Presiden dan Ibu Tien Soeharto beserta anggota
+  rombongan jam 07.30 hari ini pergi meninggalkan Jakarta untuk melakukan kunjungan
+  resmi ke Jepang dan Kamboja selama satu minggu.
+date: '1968-03-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang
+aliases:
+- Presiden Soeharto Kunjungan Resmi Ke Jepang
+- 1968-03-28 Presiden Soeharto Kunjungan Resmi Ke Jepang – HM Soeharto
+tags:
+- jepang
+- kamboja
+- kunjungan
+- orde-baru
+- pampasan-perang
+- perekonomian
+- perpustakaan-soeharto
+- presiden
+- rakyat
+- resmi
+- soeharto
+- tokyo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang/
+  judul: 1968-03-28 Presiden Soeharto Kunjungan Resmi Ke Jepang
+  tanggal: '1968-03-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang/
 ---
+
 
 # 1968-03-28 Presiden Soeharto Kunjungan Resmi Ke Jepang
 

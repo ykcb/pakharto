@@ -1,9 +1,40 @@
 ---
-title: "1970-07-22 Presiden Soeharto Mengunjungi Pesantren Krapyak Yogyakarta – HM Soeharto"
-source: "https://soehartolibrary.id/1970-07-22-presiden-soeharto-mengunjungi-pesantren-krapyak-yogyakarta/"
-date: "2017-08-25T15:32:08+07:00"
+title: 1970-07-22 Presiden Soeharto Mengunjungi Pesantren Krapyak Yogyakarta
+description: RABU, 22 Juli 1970. Selama lebih kurang 45 menit pagi ini Presiden meninjau
+  pondok pesantren Krapyak, dekat Yogyakarta, dan berdialog dengan para santrinya.
+  Pimpinan pesantren tersebut, KH Ali Ma’sum, memberi penjelasan kepada Presiden...
+date: '1970-07-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-07-22-presiden-soeharto-mengunjungi-pesantren-krapyak-yogyakarta
+aliases:
+- Presiden Soeharto Mengunjungi Pesantren Krapyak Yogyakarta
+- 1970-07-22 Presiden Soeharto Mengunjungi Pesantren Krapyak Yogyakarta – HM Soeharto
+tags:
+- jenderal-soeharto
+- kh-maksum
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- pesantren-krapyak
+- presiden-soeharto
+- yogyakarta
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-07-22-presiden-soeharto-mengunjungi-pesantren-krapyak-yogyakarta/
+  judul: 1970-07-22 Presiden Soeharto Mengunjungi Pesantren Krapyak Yogyakarta
+  tanggal: '1970-07-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-07-22-presiden-soeharto-mengunjungi-pesantren-krapyak-yogyakarta/
 ---
+
 
 # 1970-07-22 Presiden Soeharto Mengunjungi Pesantren Krapyak Yogyakarta
 

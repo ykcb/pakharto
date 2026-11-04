@@ -1,9 +1,38 @@
 ---
-title: "Tak Ingin Goncangan Lebih Keras – HM Soeharto"
-source: "https://soehartolibrary.id/tak-ingin-goncangan-lebih-keras/"
-date: "2018-01-10T19:29:40+07:00"
+title: Tak Ingin Goncangan Lebih Keras
+description: Tanggal 27 Maret 1966 Presiden Soekarno mengumumkan Kabinet Dwikora yang
+  disempurnakan lagi, terdiri atas Presidium Kabinet dengan enam Waperdam. Saya diantara
+  keenam Waperdam ad interim merangkap Men. Hankam/Panglima AD/Kas Koti itu...
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: tak-ingin-goncangan-lebih-keras
+aliases:
+- Tak Ingin Goncangan Lebih Keras – HM Soeharto
+tags:
+- g-30-spki
+- jenderal-nasution
+- mprs
+- nawaksara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soekarno
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/tak-ingin-goncangan-lebih-keras/
+  judul: Tak Ingin Goncangan Lebih Keras
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/tak-ingin-goncangan-lebih-keras/
 ---
+
 
 ![Ketua Presidium Kabinet Letjen Soeharto sedang mengumumkan Kabinet Ampera, 1 Juli 1966](https://soehartolibrary.id/wp-content/uploads/2013/02/03-01-Foto-Jejak-Langkah-1-Ketua-Presidium-Kabinet-Letjen-Soeharto-sedang-mengumumkan-Kabinet-Ampera-I-Juli-1966.jpg)
 

@@ -1,9 +1,39 @@
 ---
-title: "1973-09-15 Presiden Soeharto: Indonesia Kehendaki Perdamaian Sejati – HM Soeharto"
-source: "https://soehartolibrary.id/1973-09-15-presiden-soeharto-indonesia-kehendaki-perdamaian-sejati/"
-date: "2017-08-23T11:00:10+07:00"
+title: '1973-09-15 Presiden Soeharto: Indonesia Kehendaki Perdamaian Sejati'
+description: 15 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-09-15-presiden-soeharto-indonesia-kehendaki-perdamaian-sejati/respond)
+  120 Views Share on
+date: '1973-09-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-09-15-presiden-soeharto-indonesia-kehendaki-perdamaian-sejati
+aliases:
+- 'Presiden Soeharto: Indonesia Kehendaki Perdamaian Sejati'
+- '1973-09-15 Presiden Soeharto: Indonesia Kehendaki Perdamaian Sejati – HM Soeharto'
+tags:
+- duta-besar
+- nguyen-hoa
+- orde-baru
+- pengawas-internasional
+- perpustakaan-soeharto
+- presiden-soeharto
+- vietnam
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-09-15-presiden-soeharto-indonesia-kehendaki-perdamaian-sejati/
+  judul: '1973-09-15 Presiden Soeharto: Indonesia Kehendaki Perdamaian Sejati'
+  tanggal: '1973-09-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-09-15-presiden-soeharto-indonesia-kehendaki-perdamaian-sejati/
 ---
+
 
 # 1973-09-15 Presiden Soeharto: Indonesia Kehendaki Perdamaian Sejati
 

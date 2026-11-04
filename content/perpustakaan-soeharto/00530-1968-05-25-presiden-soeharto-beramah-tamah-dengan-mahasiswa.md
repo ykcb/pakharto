@@ -1,9 +1,38 @@
 ---
-title: "1968-05-25 Presiden Soeharto Beramah Tamah Dengan Mahasiswa – HM Soeharto"
-source: "https://soehartolibrary.id/1968-05-25-presiden-soeharto-beramah-tamah-dengan-mahasiswa/"
-date: "2017-08-28T16:48:20+07:00"
+title: 1968-05-25 Presiden Soeharto Beramah Tamah Dengan Mahasiswa
+description: SABTU, 25 Mei 1968, Pagi ini Presiden Soeharto beramah tamah dengan 142
+  orang mahasiswa dari universitas/institute negeri seluruh Indonesia. Mereka adalah
+  pimpinan Dewan-Dewan Mahasiswa yang baru saja mengikuti diskusi besar yang...
+date: '1968-05-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-05-25-presiden-soeharto-beramah-tamah-dengan-mahasiswa
+aliases:
+- Presiden Soeharto Beramah Tamah Dengan Mahasiswa
+- 1968-05-25 Presiden Soeharto Beramah Tamah Dengan Mahasiswa – HM Soeharto
+tags:
+- institute
+- mahasiswa
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- universitas
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-05-25-presiden-soeharto-beramah-tamah-dengan-mahasiswa/
+  judul: 1968-05-25 Presiden Soeharto Beramah Tamah Dengan Mahasiswa
+  tanggal: '1968-05-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-05-25-presiden-soeharto-beramah-tamah-dengan-mahasiswa/
 ---
+
 
 # 1968-05-25 Presiden Soeharto Beramah Tamah Dengan Mahasiswa
 

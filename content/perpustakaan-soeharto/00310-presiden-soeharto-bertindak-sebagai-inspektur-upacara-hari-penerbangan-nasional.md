@@ -1,9 +1,41 @@
 ---
-title: "1968-04-9 Presiden Soeharto Bertindak Sebagai Inspektur Upacara Hari Penerbangan Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-bertindak-sebagai-inspektur-upacara-hari-penerbangan-nasional/"
-date: "2017-08-29T17:36:36+07:00"
+title: 1968-04-9 Presiden Soeharto Bertindak Sebagai Inspektur Upacara Hari Penerbangan
+  Nasional
+description: Presiden Soeharto Bertindak Sebagai Inspektur Upacara Hari Penerbangan
+  Nasional
+date: '2017-08-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-bertindak-sebagai-inspektur-upacara-hari-penerbangan-nasional
+aliases:
+- 1968-04-9 Presiden Soeharto Bertindak Sebagai Inspektur Upacara Hari Penerbangan
+  Nasional – HM Soeharto
+tags:
+- auri
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- penebangan-nasional
+- perpustakaan-soeharto
+- presiden-soeharto
+- soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-bertindak-sebagai-inspektur-upacara-hari-penerbangan-nasional/
+  judul: 1968-04-9 Presiden Soeharto Bertindak Sebagai Inspektur Upacara Hari Penerbangan
+    Nasional
+  tanggal: '2017-08-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-bertindak-sebagai-inspektur-upacara-hari-penerbangan-nasional/
 ---
+
 
 # 1968-04-9 Presiden Soeharto Bertindak Sebagai Inspektur Upacara Hari Penerbangan Nasional
 

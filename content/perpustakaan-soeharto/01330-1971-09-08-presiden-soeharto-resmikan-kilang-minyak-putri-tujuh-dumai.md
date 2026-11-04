@@ -1,9 +1,41 @@
 ---
-title: "1971-09-08 Presiden Soeharto Resmikan Kilang Minyak Putri Tujuh Dumai – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-08-presiden-soeharto-resmikan-kilang-minyak-putri-tujuh-dumai/"
-date: "2017-08-23T11:12:04+07:00"
+title: 1971-09-08 Presiden Soeharto Resmikan Kilang Minyak Putri Tujuh Dumai
+description: 12 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-08-presiden-soeharto-resmikan-kilang-minyak-putri-tujuh-dumai/respond)
+  108 Views Share on
+date: '1971-09-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-08-presiden-soeharto-resmikan-kilang-minyak-putri-tujuh-dumai
+aliases:
+- Presiden Soeharto Resmikan Kilang Minyak Putri Tujuh Dumai
+- 1971-09-08 Presiden Soeharto Resmikan Kilang Minyak Putri Tujuh Dumai – HM Soeharto
+tags:
+- dumai
+- ikahi
+- kilah-minyak
+- medan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- putri-tujuh
+- riau
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-08-presiden-soeharto-resmikan-kilang-minyak-putri-tujuh-dumai/
+  judul: 1971-09-08 Presiden Soeharto Resmikan Kilang Minyak Putri Tujuh Dumai
+  tanggal: '1971-09-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-08-presiden-soeharto-resmikan-kilang-minyak-putri-tujuh-dumai/
 ---
+
 
 # 1971-09-08 Presiden Soeharto Resmikan Kilang Minyak Putri Tujuh Dumai
 

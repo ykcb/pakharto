@@ -1,9 +1,46 @@
 ---
-title: "1975-07-01 Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya Sendiri – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-01-presiden-soeharto-indonesia-yugoslavia-ingin-menjadi-tuan-di-negerinya-sendiri/"
-date: "2014-03-21T23:29:46+07:00"
+title: '1975-07-01 Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya
+  Sendiri'
+description: SELASA, 01 Juli 1975, Pukul 12.30 waktu setempat, Presiden Soeharto dan
+  rombongan tiba di Brioni, Yugoslavia. Terletak di tepi Laut Adriatik, Brioni adalah
+  sebuah pulau tempat peristirahatan Presiden Josef Broz Tito. Di dermaga Brioni...
+date: '1975-07-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-01-presiden-soeharto-indonesia-yugoslavia-ingin-menjadi-tuan-di-negerinya-sendiri
+aliases:
+- 'Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya Sendiri'
+- '1975-07-01 Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya
+  Sendiri – HM Soeharto'
+tags:
+- afrika
+- asia
+- brioni
+- indonesia
+- josef-broz-tito
+- laut-adriatik
+- non-blok
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- yugoslavia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-01-presiden-soeharto-indonesia-yugoslavia-ingin-menjadi-tuan-di-negerinya-sendiri/
+  judul: '1975-07-01 Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di
+    Negerinya Sendiri'
+  tanggal: '1975-07-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-01-presiden-soeharto-indonesia-yugoslavia-ingin-menjadi-tuan-di-negerinya-sendiri/
 ---
+
 
 # 1975-07-01 Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya Sendiri
 

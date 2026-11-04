@@ -1,9 +1,42 @@
 ---
-title: "1979-09-15 Presiden Soeharto: Pramuka Gembleng Manusia Pembangunan Paripurna – HM Soeharto"
-source: "https://soehartolibrary.id/1979-09-15-presiden-soeharto-pramuka-gembleng-manusia-pembangunan-paripurna/"
-date: "2014-12-01T16:38:57+07:00"
+title: '1979-09-15 Presiden Soeharto: Pramuka Gembleng Manusia Pembangunan Paripurna'
+description: 29 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1979-09-15-presiden-soeharto-pramuka-gembleng-manusia-pembangunan-paripurna/respond)
+  87 Views Share on
+date: '1979-09-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1979-09-15-presiden-soeharto-pramuka-gembleng-manusia-pembangunan-paripurna
+aliases:
+- 'Presiden Soeharto: Pramuka Gembleng Manusia Pembangunan Paripurna'
+- '1979-09-15 Presiden Soeharto: Pramuka Gembleng Manusia Pembangunan Paripurna –
+  HM Soeharto'
+tags:
+- cibodas
+- jawa-barat
+- kepala-negara
+- mandala-kitri
+- manusia-pembangunan
+- orde-baru
+- perpustakaan-soeharto
+- pramuka
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1979-09-15-presiden-soeharto-pramuka-gembleng-manusia-pembangunan-paripurna/
+  judul: '1979-09-15 Presiden Soeharto: Pramuka Gembleng Manusia Pembangunan Paripurna'
+  tanggal: '1979-09-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1979-09-15-presiden-soeharto-pramuka-gembleng-manusia-pembangunan-paripurna/
 ---
+
 
 # 1979-09-15 Presiden Soeharto: Pramuka Gembleng Manusia Pembangunan Paripurna
 

@@ -1,9 +1,39 @@
 ---
-title: "1972-05-05 Presiden Soeharto Menerima PM Malaysia – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-05-presiden-soeharto-menerima-pm-malaysia/"
-date: "2017-08-25T15:44:02+07:00"
+title: 1972-05-05 Presiden Soeharto Menerima PM Malaysia
+description: JUM’AT, 5 Mei 1972, Pagi ini bertempat di Istana Merdeka, Presiden Soeharto
+  menerima PM Malaysia Tun Abdul Razak beserta istrinya, Toh Puah Rahah. Oleh karena
+  kunjungan Tun Abdul Razak ini merupakan kunjungan tidak resmi, maka tidak...
+date: '1972-05-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-05-presiden-soeharto-menerima-pm-malaysia
+aliases:
+- Presiden Soeharto Menerima PM Malaysia
+- 1972-05-05 Presiden Soeharto Menerima PM Malaysia – HM Soeharto
+tags:
+- kunjungan-tidak-resmi
+- orde-baru
+- perpustakaan-soeharto
+- pm-malaysia
+- presiden-soeharto
+- toh-puah-rahah
+- tun-abdul-razak
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-05-presiden-soeharto-menerima-pm-malaysia/
+  judul: 1972-05-05 Presiden Soeharto Menerima PM Malaysia
+  tanggal: '1972-05-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-05-presiden-soeharto-menerima-pm-malaysia/
 ---
+
 
 # 1972-05-05 Presiden Soeharto Menerima PM Malaysia
 

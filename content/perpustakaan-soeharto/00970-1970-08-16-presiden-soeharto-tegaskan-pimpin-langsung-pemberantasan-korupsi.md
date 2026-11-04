@@ -1,9 +1,40 @@
 ---
-title: "1970-08-16 Presiden Soeharto Tegaskan Pimpin Langsung Pemberantasan Korupsi – HM Soeharto"
-source: "https://soehartolibrary.id/1970-08-16-presiden-soeharto-tegaskan-pimpin-langsung-pemberantasan-korupsi/"
-date: "2017-08-24T15:13:15+07:00"
+title: 1970-08-16 Presiden Soeharto Tegaskan Pimpin Langsung Pemberantasan Korupsi
+description: MINGGU, 16 AGUSTUS 1970, Dalam rangka peringatan hari kemerdekaan RI
+  pagi ini jam 09.00 WIB, untuk yang keempat kalinya, Presiden Soeharto menyampaikan
+  amanat kenegaraan di depan sidang DPR-GR. Kepala Negara antara lain mengemukakan...
+date: '1970-08-16'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-08-16-presiden-soeharto-tegaskan-pimpin-langsung-pemberantasan-korupsi
+aliases:
+- Presiden Soeharto Tegaskan Pimpin Langsung Pemberantasan Korupsi
+- 1970-08-16 Presiden Soeharto Tegaskan Pimpin Langsung Pemberantasan Korupsi – HM
+  Soeharto
+tags:
+- ekspor-bahan-mentah
+- jenderal-soeharto
+- korupsi
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-08-16-presiden-soeharto-tegaskan-pimpin-langsung-pemberantasan-korupsi/
+  judul: 1970-08-16 Presiden Soeharto Tegaskan Pimpin Langsung Pemberantasan Korupsi
+  tanggal: '1970-08-16'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-08-16-presiden-soeharto-tegaskan-pimpin-langsung-pemberantasan-korupsi/
 ---
+
 
 # 1970-08-16 Presiden Soeharto Tegaskan Pimpin Langsung Pemberantasan Korupsi
 

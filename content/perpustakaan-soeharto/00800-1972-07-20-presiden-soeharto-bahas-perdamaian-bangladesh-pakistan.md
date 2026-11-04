@@ -1,9 +1,42 @@
 ---
-title: "1972-07-20 Presiden Soeharto Bahas Perdamaian Bangladesh-Pakistan – HM Soeharto"
-source: "https://soehartolibrary.id/1972-07-20-presiden-soeharto-bahas-perdamaian-bangladesh-pakistan/"
-date: "2017-08-25T15:28:05+07:00"
+title: 1972-07-20 Presiden Soeharto Bahas Perdamaian Bangladesh-Pakistan
+description: KAMIS, 20 Juli 1972. Selama lebih kurang 70 menit, Presiden Soeharto
+  dan Menteri Luar Negeri Bangladesh, Abdul Samad, hari ini membahas penyelesaian
+  masalah-masalah antara Bangladesh dan Pakistan. Dalam hubungan ini Presiden Soeharto...
+date: '1972-07-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-07-20-presiden-soeharto-bahas-perdamaian-bangladesh-pakistan
+aliases:
+- Presiden Soeharto Bahas Perdamaian Bangladesh-Pakistan
+- 1972-07-20 Presiden Soeharto Bahas Perdamaian Bangladesh-Pakistan – HM Soeharto
+tags:
+- abdul-samad
+- bangladesh
+- jenderal-soeharto
+- menteri-luar-negeri
+- orde-baru
+- pak-harto
+- pakistan
+- perdamaian
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-07-20-presiden-soeharto-bahas-perdamaian-bangladesh-pakistan/
+  judul: 1972-07-20 Presiden Soeharto Bahas Perdamaian Bangladesh-Pakistan
+  tanggal: '1972-07-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-07-20-presiden-soeharto-bahas-perdamaian-bangladesh-pakistan/
 ---
+
 
 # 1972-07-20 Presiden Soeharto Bahas Perdamaian Bangladesh-Pakistan
 

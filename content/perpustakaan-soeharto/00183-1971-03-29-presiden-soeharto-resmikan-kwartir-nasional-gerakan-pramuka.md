@@ -1,9 +1,44 @@
 ---
-title: "1971-03-29 Presiden Soeharto Resmikan Kwartir Nasional Gerakan Pramuka – HM Soeharto"
-source: "https://soehartolibrary.id/1971-03-29-presiden-soeharto-resmikan-kwartir-nasional-gerakan-pramuka/"
-date: "2017-08-29T11:29:57+07:00"
+title: 1971-03-29 Presiden Soeharto Resmikan Kwartir Nasional Gerakan Pramuka
+description: SENIN, 29 Maret 1971, Bertempat di Istana Merdeka, pagi ini Presiden
+  soeharto meresmikan terbentuknya pengurus baru Kwartir Nasional Gerakan Pramuka.
+  Dalam amanatnya Presiden antara lain mengatakan bahwa mental ideologi pancasila
+  ini...
+date: '1971-03-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-03-29-presiden-soeharto-resmikan-kwartir-nasional-gerakan-pramuka
+aliases:
+- Presiden Soeharto Resmikan Kwartir Nasional Gerakan Pramuka
+- 1971-03-29 Presiden Soeharto Resmikan Kwartir Nasional Gerakan Pramuka – HM Soeharto
+tags:
+- gerakan
+- idiologi
+- kwartir
+- mental
+- nasional
+- orde-baru
+- pancasila
+- perpustakaan-soeharto
+- pramuka
+- presiden
+- soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-03-29-presiden-soeharto-resmikan-kwartir-nasional-gerakan-pramuka/
+  judul: 1971-03-29 Presiden Soeharto Resmikan Kwartir Nasional Gerakan Pramuka
+  tanggal: '1971-03-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-03-29-presiden-soeharto-resmikan-kwartir-nasional-gerakan-pramuka/
 ---
+
 
 # 1971-03-29 Presiden Soeharto Resmikan Kwartir Nasional Gerakan Pramuka
 

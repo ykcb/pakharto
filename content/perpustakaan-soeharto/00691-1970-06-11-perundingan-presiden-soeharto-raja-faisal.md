@@ -1,9 +1,38 @@
 ---
-title: "1970-06-11 Perundingan Presiden Soeharto-Raja Faisal – HM Soeharto"
-source: "https://soehartolibrary.id/1970-06-11-perundingan-presiden-soeharto-raja-faisal/"
-date: "2017-08-29T16:56:56+07:00"
+title: 1970-06-11 Perundingan Presiden Soeharto-Raja Faisal
+description: Kamis, 11 Juni 1970, Pagi ini Presiden Soeharto dan Raja Faisal mengadakan
+  perundingan yang berlangsung selama satu setengah jam di Istana Merdeka. Kedua pemimpin
+  tersebut telah membahas masalah krisis Timur Tengah. Dalam pertemuan ini...
+date: '1970-06-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-06-11-perundingan-presiden-soeharto-raja-faisal
+aliases:
+- Perundingan Presiden Soeharto-Raja Faisal
+- 1970-06-11 Perundingan Presiden Soeharto-Raja Faisal – HM Soeharto
+tags:
+- arab-saudi
+- orde-baru
+- perpustakaan-soeharto
+- perundingan
+- presiden-soeharto
+- raja-faisal
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-06-11-perundingan-presiden-soeharto-raja-faisal/
+  judul: 1970-06-11 Perundingan Presiden Soeharto-Raja Faisal
+  tanggal: '1970-06-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-06-11-perundingan-presiden-soeharto-raja-faisal/
 ---
+
 
 # 1970-06-11 Perundingan Presiden Soeharto-Raja Faisal
 

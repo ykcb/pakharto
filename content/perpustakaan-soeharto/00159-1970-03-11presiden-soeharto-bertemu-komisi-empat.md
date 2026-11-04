@@ -1,9 +1,42 @@
 ---
-title: "1970-03-11 Presiden Soeharto Bertemu Komisi Empat – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-11presiden-soeharto-bertemu-komisi-empat/"
-date: "2017-08-29T17:14:39+07:00"
+title: 1970-03-11 Presiden Soeharto Bertemu Komisi Empat
+description: RABU, 11 Maret 1970, Presiden Soeharto mengadakan pertemuan dengan Komisi
+  Empat di Istana Merdeka. Pertemuan ini dimaksudkan untuk membahas masalah penyelewengan
+  Bimas Coopa dan PN Pertamina. Pertemuan yang berlangsung selama tiga jam...
+date: '1970-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-11presiden-soeharto-bertemu-komisi-empat
+aliases:
+- Presiden Soeharto Bertemu Komisi Empat
+- 1970-03-11 Presiden Soeharto Bertemu Komisi Empat – HM Soeharto
+tags:
+- bimas
+- bung-hatta
+- coopa
+- empat
+- kimisi
+- korupsi
+- orde-baru
+- perpustakaan-soeharto
+- pertamina
+- wilopo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-11presiden-soeharto-bertemu-komisi-empat/
+  judul: 1970-03-11 Presiden Soeharto Bertemu Komisi Empat
+  tanggal: '1970-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-11presiden-soeharto-bertemu-komisi-empat/
 ---
+
 
 # 1970-03-11 Presiden Soeharto Bertemu Komisi Empat
 

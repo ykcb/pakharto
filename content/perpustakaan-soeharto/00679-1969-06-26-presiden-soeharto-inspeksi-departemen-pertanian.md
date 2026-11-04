@@ -1,9 +1,37 @@
 ---
-title: "1969-06-26 Presiden Soeharto Inspeksi Departemen Pertanian – HM Soeharto"
-source: "https://soehartolibrary.id/1969-06-26-presiden-soeharto-inspeksi-departemen-pertanian/"
-date: "2017-08-25T15:36:56+07:00"
+title: 1969-06-26 Presiden Soeharto Inspeksi Departemen Pertanian
+description: KAMIS, 26 JUNI 1969, Setelah mengadakan inspeksi di Departemen Pertanian
+  dan mendengarkan laporan-laporan Menteri, Sekretaris Jenderal, para Direktur Jenderal
+  dan Inspektur Jenderal dari departemen tersebut, Presiden Soeharto mengatakan...
+date: '1969-06-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-06-26-presiden-soeharto-inspeksi-departemen-pertanian
+aliases:
+- Presiden Soeharto Inspeksi Departemen Pertanian
+- 1969-06-26 Presiden Soeharto Inspeksi Departemen Pertanian – HM Soeharto
+tags:
+- departemen-pertanian
+- operasional-proyek
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-06-26-presiden-soeharto-inspeksi-departemen-pertanian/
+  judul: 1969-06-26 Presiden Soeharto Inspeksi Departemen Pertanian
+  tanggal: '1969-06-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-06-26-presiden-soeharto-inspeksi-departemen-pertanian/
 ---
+
 
 # 1969-06-26 Presiden Soeharto Inspeksi Departemen Pertanian
 

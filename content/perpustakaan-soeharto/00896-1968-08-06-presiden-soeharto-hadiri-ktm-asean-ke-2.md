@@ -1,9 +1,46 @@
 ---
-title: "1968-08-06 Presiden Soeharto Hadiri KTM ASEAN Ke-2 – HM Soeharto"
-source: "https://soehartolibrary.id/1968-08-06-presiden-soeharto-hadiri-ktm-asean-ke-2/"
-date: "2017-08-23T11:38:17+07:00"
+title: 1968-08-06 Presiden Soeharto Hadiri KTM ASEAN Ke-2
+description: SELASA, 6 AGUSTUS 1968, Pukul 10.00 WIB pagi ini Presiden Soeharto menghadiri
+  pembukaan Konferensi Tingkat Menteri (KTM) ASEAN yang ke-2 di Jakarta. Dalam sambutannya
+  Presiden antara lain mengatakan bahwa pembangunan ekonomi dan...
+date: '1968-08-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-08-06-presiden-soeharto-hadiri-ktm-asean-ke-2
+aliases:
+- Presiden Soeharto Hadiri KTM ASEAN Ke-2
+- 1968-08-06 Presiden Soeharto Hadiri KTM ASEAN Ke-2 – HM Soeharto
+tags:
+- asean
+- filiphina
+- indonesia
+- jakarta
+- jenderal-soeharto
+- konferensi
+- malaysia
+- muangthai
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- singapura
+- tingkat-menteri
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-08-06-presiden-soeharto-hadiri-ktm-asean-ke-2/
+  judul: 1968-08-06 Presiden Soeharto Hadiri KTM ASEAN Ke-2
+  tanggal: '1968-08-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-08-06-presiden-soeharto-hadiri-ktm-asean-ke-2/
 ---
+
 
 # 1968-08-06 Presiden Soeharto Hadiri KTM ASEAN Ke-2
 

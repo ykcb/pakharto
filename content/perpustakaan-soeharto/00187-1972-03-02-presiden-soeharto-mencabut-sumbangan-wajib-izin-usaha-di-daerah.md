@@ -1,9 +1,42 @@
 ---
-title: "1972-03-02 Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah/"
-date: "2017-08-29T11:29:20+07:00"
+title: 1972-03-02 Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah
+description: KAMIS, 2 Maret 1972, Ketika menerima Menteri Pertanian yang menyertakan
+  para peternak yang terhimpun dalam Perhimpunan Pengusaha Ternak Indonesia, Presiden
+  telah menginstruksikan agar dipelajari secara mendalam apakah target produksi...
+date: '1972-03-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah
+aliases:
+- Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah
+- 1972-03-02 Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah – HM
+  Soeharto
+tags:
+- daerah
+- izin
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden
+- sar
+- soeharto
+- usaha
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah/
+  judul: 1972-03-02 Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah
+  tanggal: '1972-03-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah/
 ---
+
 
 # 1972-03-02 Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah
 

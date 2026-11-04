@@ -1,9 +1,36 @@
 ---
-title: "Dari Zaman KNIL ke Zaman PETA – HM Soeharto"
-source: "https://soehartolibrary.id/dari-zaman-knil-ke-zaman-peta/"
-date: "2018-01-10T19:02:28+07:00"
+title: Dari Zaman KNIL ke Zaman PETA
+description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/dari-zaman-knil-ke-zaman-peta/respond) 218
+  Views Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: dari-zaman-knil-ke-zaman-peta
+aliases:
+- Dari Zaman KNIL ke Zaman PETA – HM Soeharto
+tags:
+- knil
+- orde-baru
+- perpustakaan-soeharto
+- peta
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/dari-zaman-knil-ke-zaman-peta/
+  judul: Dari Zaman KNIL ke Zaman PETA
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/dari-zaman-knil-ke-zaman-peta/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/09/DSC_0441_result.jpg)
 

@@ -1,9 +1,50 @@
 ---
-title: "1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri – HM Soeharto"
-source: "https://soehartolibrary.id/1975-08-05-pemerintah-transmigrasikan-12-000-kk-penduduk-wonogiri/"
-date: "2017-08-22T17:42:39+07:00"
+title: 1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri
+description: 29 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-08-05-pemerintah-transmigrasikan-12-000-kk-penduduk-wonogiri/respond)
+  91 Views Share on
+date: '1975-08-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-08-05-pemerintah-transmigrasikan-12-000-kk-penduduk-wonogiri
+aliases:
+- Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri
+- 1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri – HM Soeharto
+tags:
+- abdurrahman-setjowibowo
+- bendungan
+- direktur-jenderal-agraria
+- gubernur-sumatera-barat
+- harun-zein
+- jambi
+- kepala-negara
+- kota-baru
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- proyek
+- sitiung
+- subroto
+- sumatera-barat
+- suprapto
+- sutidjab-sukadis
+- wonogiri
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-08-05-pemerintah-transmigrasikan-12-000-kk-penduduk-wonogiri/
+  judul: 1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri
+  tanggal: '1975-08-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-08-05-pemerintah-transmigrasikan-12-000-kk-penduduk-wonogiri/
 ---
+
 
 # 1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri
 

@@ -1,9 +1,37 @@
 ---
-title: "Reformasi: KUD Terbengkalai, Harga Pupuk Membumbung Tinggi – HM Soeharto"
-source: "https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/"
-date: "2013-03-06T18:16:03+07:00"
+title: 'Reformasi: KUD Terbengkalai, Harga Pupuk Membumbung Tinggi'
+description: KOPERASI Unit Desa (KUD) merupakan salah satu pilar perekonomian yang
+  berperan penting dalam pembangunan perekonomian nasional. Indonesia pernah sukses
+  dalam swasembada pangan pada 1985/1986. Prestasi itu tidak bisa dilepaskan dari...
+date: '2013-03-06'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi
+aliases:
+- 'Reformasi: KUD Terbengkalai, Harga Pupuk Membumbung Tinggi – HM Soeharto'
+tags:
+- kud
+- orde-baru
+- perpustakaan-soeharto
+- pertanian
+- pupuk
+- ukm
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
+  judul: 'Reformasi: KUD Terbengkalai, Harga Pupuk Membumbung Tinggi'
+  tanggal: '2013-03-06'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
 ---
+
 
 # Reformasi: KUD Terbengkalai, Harga Pupuk Membumbung Tinggi
 

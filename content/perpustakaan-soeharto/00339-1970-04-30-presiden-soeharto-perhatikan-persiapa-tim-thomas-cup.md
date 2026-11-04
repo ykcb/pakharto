@@ -1,9 +1,36 @@
 ---
-title: "1970-04-30 Presiden Soeharto Perhatikan Persiapan Tim Thomas Cup – HM Soeharto"
-source: "https://soehartolibrary.id/1970-04-30-presiden-soeharto-perhatikan-persiapa-tim-thomas-cup/"
-date: "2014-03-22T02:58:29+07:00"
+title: 1970-04-30 Presiden Soeharto Perhatikan Persiapan Tim Thomas Cup
+description: KAMIS, 30 APRIL 1970, Hari ini Presiden Soeharto memanggil Direktur Jenderal
+  Olahraga, Mayjen. Supardi, dan Ketua KONI Pusat, Jonosewojo, untuk menghadapnya
+  di Istana Negara. Pada pertemuan itu, Presiden menanyakan tentang persiapan...
+date: '1970-04-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-04-30-presiden-soeharto-perhatikan-persiapa-tim-thomas-cup
+aliases:
+- Presiden Soeharto Perhatikan Persiapan Tim Thomas Cup
+- 1970-04-30 Presiden Soeharto Perhatikan Persiapan Tim Thomas Cup – HM Soeharto
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- thomas-cup
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-04-30-presiden-soeharto-perhatikan-persiapa-tim-thomas-cup/
+  judul: 1970-04-30 Presiden Soeharto Perhatikan Persiapan Tim Thomas Cup
+  tanggal: '1970-04-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-04-30-presiden-soeharto-perhatikan-persiapa-tim-thomas-cup/
 ---
+
 
 # 1970-04-30 Presiden Soeharto Perhatikan Persiapan Tim Thomas Cup
 

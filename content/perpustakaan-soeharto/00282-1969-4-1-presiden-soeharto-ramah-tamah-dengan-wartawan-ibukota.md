@@ -1,9 +1,38 @@
 ---
-title: "1969-4-1 Presiden Soeharto Ramah Tamah Dengan Wartawan Ibukota – HM Soeharto"
-source: "https://soehartolibrary.id/1969-4-1-presiden-soeharto-ramah-tamah-dengan-wartawan-ibukota/"
-date: "2017-08-29T17:37:09+07:00"
+title: 1969-4-1 Presiden Soeharto Ramah Tamah Dengan Wartawan Ibukota
+description: SELASA, 1 April 1969, Hari ini Presiden Soeharto beramah tamah dengan
+  wartawan-wartawan ibukota di Istana Bogor. Pertemuan ini merupakan indikasi dari
+  Presiden akan perlunya personal approach secara langsung dengan pers, guna memupuk...
+date: '2017-08-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-4-1-presiden-soeharto-ramah-tamah-dengan-wartawan-ibukota
+aliases:
+- 1969-4-1 Presiden Soeharto Ramah Tamah Dengan Wartawan Ibukota – HM Soeharto
+tags:
+- istana-bogor
+- orde-baru
+- pangan
+- perpustakaan-soeharto
+- perumahan-rakyat
+- presiden-soeharto
+- sandang
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-4-1-presiden-soeharto-ramah-tamah-dengan-wartawan-ibukota/
+  judul: 1969-4-1 Presiden Soeharto Ramah Tamah Dengan Wartawan Ibukota
+  tanggal: '2017-08-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-4-1-presiden-soeharto-ramah-tamah-dengan-wartawan-ibukota/
 ---
+
 
 # 1969-4-1 Presiden Soeharto Ramah Tamah Dengan Wartawan Ibukota
 

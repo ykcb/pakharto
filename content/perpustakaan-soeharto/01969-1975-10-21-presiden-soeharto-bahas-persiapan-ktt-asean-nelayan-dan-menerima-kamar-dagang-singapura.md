@@ -1,9 +1,45 @@
 ---
-title: "1975-10-21 Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima Kamar Dagang Singapura – HM Soeharto"
-source: "https://soehartolibrary.id/1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura/"
-date: "2014-06-13T18:52:19+07:00"
+title: 1975-10-21 Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima
+  Kamar Dagang Singapura
+description: 17 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura/respond)
+  94 Views...
+date: '1975-10-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura
+aliases:
+- Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima Kamar Dagang Singapura
+- 1975-10-21 Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima Kamar
+  Dagang Singapura – HM Soeharto
+tags:
+- adam-malik
+- kamar-dagang
+- kepala-negara
+- ktt-asean
+- menteri-luar-negeri
+- nelayan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- singapura
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura/
+  judul: 1975-10-21 Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima
+    Kamar Dagang Singapura
+  tanggal: '1975-10-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura/
 ---
+
 
 # 1975-10-21 Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima Kamar Dagang Singapura
 

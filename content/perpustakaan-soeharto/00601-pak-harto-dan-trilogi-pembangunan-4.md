@@ -1,9 +1,37 @@
 ---
-title: "Pak Harto Dan Trilogi Pembangunan (4) – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-4/"
-date: "2014-04-07T01:13:13+07:00"
+title: Pak Harto Dan Trilogi Pembangunan (4)
+description: Setelah mengukuhkan stabilitas, road map kemandirian bangsa diwujudkan
+  oleh pemerintahan Presiden Soeharto melalui dua tahap pembangunan jangka panjang
+  (PJP) dalam kurun 25 tahunan yang diderivasikan melalui program pembangunan lima...
+date: '2014-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-dan-trilogi-pembangunan-4
+aliases:
+- Pak Harto Dan Trilogi Pembangunan (4) – HM Soeharto
+tags:
+- delapan-jalur-pemerataan
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
+- tinggal-landas-2
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-4/
+  judul: Pak Harto Dan Trilogi Pembangunan (4)
+  tanggal: '2014-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-4/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/05/W.jpg)
 

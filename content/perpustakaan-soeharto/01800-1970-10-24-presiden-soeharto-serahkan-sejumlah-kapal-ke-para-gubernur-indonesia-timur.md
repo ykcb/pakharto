@@ -1,9 +1,49 @@
 ---
-title: "1970-10-24 Presiden Soeharto Serahkan Sejumlah Kapal Ke Para Gubernur  Indonesia Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1970-10-24-presiden-soeharto-serahkan-sejumlah-kapal-ke-para-gubernur-indonesia-timur/"
-date: "2014-12-01T16:24:46+07:00"
+title: 1970-10-24 Presiden Soeharto Serahkan Sejumlah Kapal Ke Para Gubernur  Indonesia
+  Timur
+description: 7 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1970-10-24-presiden-soeharto-serahkan-sejumlah-kapal-ke-para-gubernur-indonesia-timur/respond)
+  109 Views Share on
+date: '1970-10-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-10-24-presiden-soeharto-serahkan-sejumlah-kapal-ke-para-gubernur-indonesia-timur
+aliases:
+- Presiden Soeharto Serahkan Sejumlah Kapal Ke Para Gubernur  Indonesia Timur
+- 1970-10-24 Presiden Soeharto Serahkan Sejumlah Kapal Ke Para Gubernur  Indonesia
+  Timur – HM Soeharto
+tags:
+- budiardjo
+- gubernur
+- kalimantan-timur
+- kapal
+- kepala-negara
+- maluku
+- menteri-penerangan
+- nusa-tenggara-timur
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sulawesi-selatan
+- sulawesi-tengah
+- sulawesi-tenggara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-10-24-presiden-soeharto-serahkan-sejumlah-kapal-ke-para-gubernur-indonesia-timur/
+  judul: 1970-10-24 Presiden Soeharto Serahkan Sejumlah Kapal Ke Para Gubernur  Indonesia
+    Timur
+  tanggal: '1970-10-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-10-24-presiden-soeharto-serahkan-sejumlah-kapal-ke-para-gubernur-indonesia-timur/
 ---
+
 
 # 1970-10-24 Presiden Soeharto Serahkan Sejumlah Kapal Ke Para Gubernur Indonesia Timur
 

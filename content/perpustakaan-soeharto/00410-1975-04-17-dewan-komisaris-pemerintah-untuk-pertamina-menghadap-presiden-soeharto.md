@@ -1,9 +1,40 @@
 ---
-title: "1975-04-17 Dewan Komisaris Pemerintah Untuk Pertamina Menghadap Presiden Soeharto – HM Soeharto"
-source: "https://soehartolibrary.id/1975-04-17-dewan-komisaris-pemerintah-untuk-pertamina-menghadap-presiden-soeharto/"
-date: "2017-08-30T14:16:23+07:00"
+title: 1975-04-17 Dewan Komisaris Pemerintah Untuk Pertamina Menghadap Presiden Soeharto
+description: KAMIS, 17 April 1975, Dewan Komisaris Pemerintah untuk Pertamina beserta
+  Kepala Staf Kopkamtib Laksamana Sudomo, Gubernur Bank Central Rachmat Saleh, dan
+  Menteri Penerangan Mashuri, pukul 19.30 malam ini menghadap Kepala Negara di...
+date: '1975-04-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-04-17-dewan-komisaris-pemerintah-untuk-pertamina-menghadap-presiden-soeharto
+aliases:
+- Dewan Komisaris Pemerintah Untuk Pertamina Menghadap Presiden Soeharto
+- 1975-04-17 Dewan Komisaris Pemerintah Untuk Pertamina Menghadap Presiden Soeharto
+  – HM Soeharto
+tags:
+- cendana
+- komisaris
+- orde-baru
+- perpustakaan-soeharto
+- pertamina
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-04-17-dewan-komisaris-pemerintah-untuk-pertamina-menghadap-presiden-soeharto/
+  judul: 1975-04-17 Dewan Komisaris Pemerintah Untuk Pertamina Menghadap Presiden
+    Soeharto
+  tanggal: '1975-04-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-04-17-dewan-komisaris-pemerintah-untuk-pertamina-menghadap-presiden-soeharto/
 ---
+
 
 # 1975-04-17 Dewan Komisaris Pemerintah Untuk Pertamina Menghadap Presiden Soeharto
 

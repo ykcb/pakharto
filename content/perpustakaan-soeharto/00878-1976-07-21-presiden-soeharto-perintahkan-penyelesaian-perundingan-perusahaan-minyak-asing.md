@@ -1,9 +1,49 @@
 ---
-title: "1976-07-21 Presiden Soeharto Perintahkan Penyelesaian Perundingan Perusahaan Minyak Asing – HM Soeharto"
-source: "https://soehartolibrary.id/1976-07-21-presiden-soeharto-perintahkan-penyelesaian-perundingan-perusahaan-minyak-asing/"
-date: "2017-08-25T15:24:54+07:00"
+title: 1976-07-21 Presiden Soeharto Perintahkan Penyelesaian Perundingan Perusahaan
+  Minyak Asing
+description: RABU, 21 Juli 1976 Presiden Soeharto hari ini memerintahkan agar perundingan
+  yang dilakukan pemerintah dengan perusahaan-perusahaan minyak asing yang beroperasi
+  di Indonesia atas dasar kontrak bagi hasil diselesaikan pada akhir bulan...
+date: '1976-07-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-07-21-presiden-soeharto-perintahkan-penyelesaian-perundingan-perusahaan-minyak-asing
+aliases:
+- Presiden Soeharto Perintahkan Penyelesaian Perundingan Perusahaan Minyak Asing
+- 1976-07-21 Presiden Soeharto Perintahkan Penyelesaian Perundingan Perusahaan Minyak
+  Asing – HM Soeharto
+tags:
+- direktur-utama-pertamina
+- ketua-bappenas
+- kontrak
+- menteri-negara-ekuin
+- menteri-perdagangan
+- menteri-pertambangan
+- mohammad-sadli
+- orde-baru
+- perpustakaan-soeharto
+- perusahaan-minyak-asing
+- piet-haryono
+- presiden-soeharto
+- radius-prawiro
+- widjoyo-nitisastro
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-07-21-presiden-soeharto-perintahkan-penyelesaian-perundingan-perusahaan-minyak-asing/
+  judul: 1976-07-21 Presiden Soeharto Perintahkan Penyelesaian Perundingan Perusahaan
+    Minyak Asing
+  tanggal: '1976-07-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-07-21-presiden-soeharto-perintahkan-penyelesaian-perundingan-perusahaan-minyak-asing/
 ---
+
 
 # 1976-07-21 Presiden Soeharto Perintahkan Penyelesaian Perundingan Perusahaan Minyak Asing
 

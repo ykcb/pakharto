@@ -1,9 +1,49 @@
 ---
-title: "Mahathir Muhamad: Kejayaan Pak Harto Lebih Besar – HM Soeharto"
-source: "https://soehartolibrary.id/mahathir-muhammad-memandang-soeharto/"
-date: "2015-03-25T06:54:50+07:00"
+title: 'Mahathir Muhamad: Kejayaan Pak Harto Lebih Besar'
+description: Sebelum saya bertemu langsung dengan Presiden Soeharto, saya selalu mengikuti
+  perkembangan dari berbagai kebijakan yang dijalankan oleh pemerintahan beliau. Saya
+  merencanakan apabila nanti diangkat menjadi Perdana Menteri, maka...
+date: '2015-03-25'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: mahathir-muhammad-memandang-soeharto
+aliases:
+- 'Mahathir Muhamad: Kejayaan Pak Harto Lebih Besar – HM Soeharto'
+tags:
+- asean
+- besar
+- brunei-darussalam
+- camdesus
+- direktur
+- imf
+- kejayaan
+- mahathir
+- malaysia
+- michael
+- mohamad
+- orde-baru
+- perpustakaan-soeharto
+- philipina
+- singapura
+- thailand
+- tun
+- vietnam
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/mahathir-muhammad-memandang-soeharto/
+  judul: 'Mahathir Muhamad: Kejayaan Pak Harto Lebih Besar'
+  tanggal: '2015-03-25'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/mahathir-muhammad-memandang-soeharto/
 ---
+
 
 # Mahathir Muhamad: Kejayaan Pak Harto Lebih Besar
 

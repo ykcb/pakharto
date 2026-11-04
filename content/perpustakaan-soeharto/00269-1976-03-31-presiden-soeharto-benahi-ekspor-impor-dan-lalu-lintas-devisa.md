@@ -1,9 +1,38 @@
 ---
-title: "1976-03-31 Presiden Soeharto Benahi Ekspor Impor dan Lalu Lintas Devisa – HM Soeharto"
-source: "https://soehartolibrary.id/1976-03-31-presiden-soeharto-benahi-ekspor-impor-dan-lalu-lintas-devisa/"
-date: "2017-08-29T17:37:18+07:00"
+title: 1976-03-31 Presiden Soeharto Benahi Ekspor Impor dan Lalu Lintas Devisa
+description: RABU, 31 MARET 1976, Pagi ini, pukul 09.00, Presiden Soeharto menerima
+  para pengurus Ikatan Akuntan Indonesia (IAI) di Cendana. Selain Ketua Pengurus Pusat
+  IAI, Drs.Radius Prawiro, dan penasehat Pengurus Pusat Prof. Sumardjo...
+date: '1976-03-31'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-03-31-presiden-soeharto-benahi-ekspor-impor-dan-lalu-lintas-devisa
+aliases:
+- Presiden Soeharto Benahi Ekspor Impor dan Lalu Lintas Devisa
+- 1976-03-31 Presiden Soeharto Benahi Ekspor Impor dan Lalu Lintas Devisa – HM Soeharto
+tags:
+- ekspor-impor
+- iai
+- orde-baru
+- pasar-modal
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-03-31-presiden-soeharto-benahi-ekspor-impor-dan-lalu-lintas-devisa/
+  judul: 1976-03-31 Presiden Soeharto Benahi Ekspor Impor dan Lalu Lintas Devisa
+  tanggal: '1976-03-31'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-03-31-presiden-soeharto-benahi-ekspor-impor-dan-lalu-lintas-devisa/
 ---
+
 
 # 1976-03-31 Presiden Soeharto Benahi Ekspor Impor dan Lalu Lintas Devisa
 

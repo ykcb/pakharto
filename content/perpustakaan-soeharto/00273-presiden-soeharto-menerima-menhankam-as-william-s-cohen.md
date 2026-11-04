@@ -1,9 +1,37 @@
 ---
-title: "Presiden Soeharto Menerima Menhankam AS William S Cohen – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-menerima-menhankam-as-william-s-cohen/"
-date: "2013-03-29T23:33:56+07:00"
+title: Presiden Soeharto Menerima Menhankam AS William S Cohen
+description: Presiden Soeharto Menerima Menhankam AS William S Cohen di kediamannya
+  Jalan Cendana pada tanggal 14 Januari 1998. Melalui Memoar Lee Kuan Yew, dapat diketahui
+  secara jelas antusiasme AS agar Presiden Soeharto berhenti dari jabatannya....
+date: '2013-03-29'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-menerima-menhankam-as-william-s-cohen
+aliases:
+- Presiden Soeharto Menerima Menhankam AS William S Cohen – HM Soeharto
+tags:
+- as
+- lee-kwan-yeew
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- willaim-s-cohen
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-menerima-menhankam-as-william-s-cohen/
+  judul: Presiden Soeharto Menerima Menhankam AS William S Cohen
+  tanggal: '2013-03-29'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-menerima-menhankam-as-william-s-cohen/
 ---
+
 
 # Presiden Soeharto Menerima Menhankam AS William S Cohen
 

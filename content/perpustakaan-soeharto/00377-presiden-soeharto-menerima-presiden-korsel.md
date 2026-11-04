@@ -1,9 +1,35 @@
 ---
-title: "Presiden Soeharto Menerima Presiden Korsel – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-menerima-presiden-korsel/"
-date: "2013-04-10T20:46:01+07:00"
+title: Presiden Soeharto Menerima Presiden Korsel
+description: Konsistensi dalam memegang teguh prinsip politik luar negeri bebas aktif
+  dalam rangka menjalankan amanat UUD 1945 untuk turut serta mewujudkan ketertiban
+  dunia, Indonesia di bawah kepemimpinan Presiden Soeharto memperoleh apresiasi...
+date: '2013-04-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-menerima-presiden-korsel
+aliases:
+- Presiden Soeharto Menerima Presiden Korsel – HM Soeharto
+tags:
+- korea-selatan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-menerima-presiden-korsel/
+  judul: Presiden Soeharto Menerima Presiden Korsel
+  tanggal: '2013-04-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-menerima-presiden-korsel/
 ---
+
 
 # Presiden Soeharto Menerima Presiden Korsel
 

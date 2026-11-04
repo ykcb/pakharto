@@ -1,9 +1,43 @@
 ---
-title: "1971-02-17 Bantuan Perguruan Tinggi dan Sidang DPR – HM Soeharto"
-source: "https://soehartolibrary.id/1971-02-17-bantuan-perguruan-tinggi-dan-sidang-dpr/"
-date: "2017-08-28T17:10:35+07:00"
+title: 1971-02-17 Bantuan Perguruan Tinggi dan Sidang DPR
+description: RABU 17 PEBRUARI 1971, Jam 10 pagi hari, bertempat di Bina Graha, Presiden
+  Soeharto menerima 12 rektor perguruan tinggi negeri di Indonesia. Pada kesempatan
+  itu, Presiden telah memberikan sumbangan kepada keduabelas perguruan tinggi...
+date: '1971-02-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-02-17-bantuan-perguruan-tinggi-dan-sidang-dpr
+aliases:
+- Bantuan Perguruan Tinggi dan Sidang DPR
+- 1971-02-17 Bantuan Perguruan Tinggi dan Sidang DPR – HM Soeharto
+tags:
+- dpr
+- ikip
+- itb
+- orde-baru
+- pemilu
+- perguruan-tinggi
+- perpustakaan-soeharto
+- ui
+- undip
+- unhsa
+- usu
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-02-17-bantuan-perguruan-tinggi-dan-sidang-dpr/
+  judul: 1971-02-17 Bantuan Perguruan Tinggi dan Sidang DPR
+  tanggal: '1971-02-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-02-17-bantuan-perguruan-tinggi-dan-sidang-dpr/
 ---
+
 
 # 1971-02-17 Bantuan Perguruan Tinggi dan Sidang DPR
 

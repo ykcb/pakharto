@@ -1,9 +1,43 @@
 ---
-title: "1970-03-14 Pertemuan Komisi Empat dengan Bulog – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-14-pertemuan-komisi-empat-dengan-bulog/"
-date: "2017-08-29T17:14:01+07:00"
+title: 1970-03-14 Pertemuan Komisi Empat dengan Bulog
+description: SABTU, 14 Maret 1970, Komisi Empat mengadakan pertemuan dengan Kepala
+  Bulog, Achmad Tirtosudiro, di gedung DPA. Usai pertemuan dengan Bung Hatta, sebagai
+  penasihat Komisi Empat, mengatakan bahwa ia tidak keberatan adanya suatu...
+date: '1970-03-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-14-pertemuan-komisi-empat-dengan-bulog
+aliases:
+- Pertemuan Komisi Empat dengan Bulog
+- 1970-03-14 Pertemuan Komisi Empat dengan Bulog – HM Soeharto
+tags:
+- beras
+- bulog
+- bung
+- dpa
+- empat
+- hatta
+- komisi
+- monopoli
+- murah
+- orde-baru
+- perpustakaan-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-14-pertemuan-komisi-empat-dengan-bulog/
+  judul: 1970-03-14 Pertemuan Komisi Empat dengan Bulog
+  tanggal: '1970-03-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-14-pertemuan-komisi-empat-dengan-bulog/
 ---
+
 
 # 1970-03-14 Pertemuan Komisi Empat dengan Bulog
 

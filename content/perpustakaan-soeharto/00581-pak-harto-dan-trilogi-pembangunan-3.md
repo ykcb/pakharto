@@ -1,9 +1,39 @@
 ---
-title: "Pak Harto Dan Trilogi Pembangunan (3) – HM Soeharto"
-source: "https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-3/"
-date: "2014-04-07T01:13:13+07:00"
+title: Pak Harto Dan Trilogi Pembangunan (3)
+description: Presiden Soeharto juga dinilai berhasil mewujudkan stabilitas ekonomi
+  yang ditandai dengan relatif stabilnya harga-harga barang kebutuhan pokok. Stabilitas
+  ini diwujudkan dengan menerapkan mekanisme pasar terkelola dan menghindari...
+date: '2014-04-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: pak-harto-dan-trilogi-pembangunan-3
+aliases:
+- Pak Harto Dan Trilogi Pembangunan (3) – HM Soeharto
+tags:
+- hyper-inflasi
+- mekanisme-pasar
+- orde-baru
+- perekonomian-pasar-terkelola
+- perpustakaan-soeharto
+- presiden-soeharto
+- stabilitas-ekonomi
+- trilogi-pembangunan
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-3/
+  judul: Pak Harto Dan Trilogi Pembangunan (3)
+  tanggal: '2014-04-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-3/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/05/31.jpg)
 

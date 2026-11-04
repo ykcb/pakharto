@@ -1,9 +1,41 @@
 ---
-title: "1968-08-30 Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh – HM Soeharto"
-source: "https://soehartolibrary.id/1968-08-30-presiden-soeharto-rapat-umum-di-blang-padang-banda-aceh/"
-date: "2014-04-01T02:18:09+07:00"
+title: 1968-08-30 Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh
+description: JUM’AT, 30 AGUSTUS 1968, Presiden Soeharto mengatakan bahwa rakyat Sumatera
+  Barat telah menunjukkan perhatian dan kesungguhan dalam usaha perbaikan ekonomi,
+  sesuai dengan sasaran yang ditentukan oleh pemerintah daerah. Demikianlah kesan...
+date: '1968-08-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-08-30-presiden-soeharto-rapat-umum-di-blang-padang-banda-aceh
+aliases:
+- Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh
+- 1968-08-30 Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh – HM Soeharto
+tags:
+- banda-aceh
+- blang-padang
+- masjid-baiturrachman
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- serambi-mekah
+- sumatera-barat
+- umat-islam
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-08-30-presiden-soeharto-rapat-umum-di-blang-padang-banda-aceh/
+  judul: 1968-08-30 Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh
+  tanggal: '1968-08-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-08-30-presiden-soeharto-rapat-umum-di-blang-padang-banda-aceh/
 ---
+
 
 # 1968-08-30 Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh
 

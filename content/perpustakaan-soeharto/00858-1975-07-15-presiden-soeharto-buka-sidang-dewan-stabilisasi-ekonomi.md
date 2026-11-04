@@ -1,9 +1,50 @@
 ---
-title: "1975-07-15 Presiden Soeharto Buka Sidang Dewan Stabilisasi Ekonomi – HM Soeharto"
-source: "https://soehartolibrary.id/1975-07-15-presiden-soeharto-buka-sidang-dewan-stabilisasi-ekonomi/"
-date: "2017-08-23T11:50:25+07:00"
+title: 1975-07-15 Presiden Soeharto Buka Sidang Dewan Stabilisasi Ekonomi
+description: SELASA, 15 Juli 1975 Tepat pukul 10.00 pagi ini Presiden Soeharto membuka
+  sidang Dewan Stabilisasi Ekonomi Nasional di Bina Graha. Sidang pagi ini antara
+  lain mendengarkan penjelasan Menteri Negara Ekuin Widjoyo Nitisastro tentang...
+date: '1975-07-15'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-07-15-presiden-soeharto-buka-sidang-dewan-stabilisasi-ekonomi
+aliases:
+- Presiden Soeharto Buka Sidang Dewan Stabilisasi Ekonomi
+- 1975-07-15 Presiden Soeharto Buka Sidang Dewan Stabilisasi Ekonomi – HM Soeharto
+tags:
+- amerika-serikat
+- asahan
+- cida
+- gresik
+- iran
+- jepang
+- kanada
+- lombok
+- menteri-negara-ekuin
+- ntt
+- oecf
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- pt-barata
+- waduk-wlingi
+- widjoyo-nitisastro
+- yugoslavia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-07-15-presiden-soeharto-buka-sidang-dewan-stabilisasi-ekonomi/
+  judul: 1975-07-15 Presiden Soeharto Buka Sidang Dewan Stabilisasi Ekonomi
+  tanggal: '1975-07-15'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-07-15-presiden-soeharto-buka-sidang-dewan-stabilisasi-ekonomi/
 ---
+
 
 # 1975-07-15 Presiden Soeharto Buka Sidang Dewan Stabilisasi Ekonomi
 

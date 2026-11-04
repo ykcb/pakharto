@@ -1,9 +1,43 @@
 ---
-title: "J.B. Sumarlin Si Cabe Rawit – HM Soeharto"
-source: "https://soehartolibrary.id/si-cabe-rawit/"
-date: "2013-07-19T06:25:41+07:00"
+title: J.B. Sumarlin Si Cabe Rawit
+description: Saya cukup terkejut ketika pertama kali bersalaman dengan Pak Harto di
+  tahun 1971. Saya tak menyangka bahwa tokoh yang namanya sudah banyak saya dengar
+  sejak masih menjadi anggota tentara pelajar (TP) di tahun 1948 itu berkomentar,
+  “Oh,...
+date: '2013-07-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: si-cabe-rawit
+aliases:
+- J.B. Sumarlin Si Cabe Rawit – HM Soeharto
+tags:
+- bj-habibie
+- hama-wereng-cokelat
+- jb-sumarlin
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- pal
+- perpustakaan-soeharto
+- pertamina
+- pesawat-kepresidenan
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/si-cabe-rawit/
+  judul: J.B. Sumarlin Si Cabe Rawit
+  tanggal: '2013-07-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/si-cabe-rawit/
 ---
+
 
 ![pidato soeharto](https://soehartolibrary.id/wp-content/uploads/2013/04/soeharto048.jpg)
 

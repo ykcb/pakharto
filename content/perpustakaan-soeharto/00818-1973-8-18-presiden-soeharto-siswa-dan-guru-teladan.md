@@ -1,9 +1,39 @@
 ---
-title: "1973-8-18 Presiden Soeharto Bersama Siswa dan Guru Teladan – HM Soeharto"
-source: "https://soehartolibrary.id/1973-8-18-presiden-soeharto-siswa-dan-guru-teladan/"
-date: "2013-07-28T07:23:21+07:00"
+title: 1973-8-18 Presiden Soeharto Bersama Siswa dan Guru Teladan
+description: Presiden Soeharto selalu meluangkan waktu untuk berdialog dengan masyarakat
+  dari berbagai golongan, tingkatan usia, profesi, maupun pendidikan di sela-sela
+  acara formal. Presiden Soeharto dikenal amat lihai menyesuaikan diri dengan alam...
+date: '2013-07-28'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-8-18-presiden-soeharto-siswa-dan-guru-teladan
+aliases:
+- 1973-8-18 Presiden Soeharto Bersama Siswa dan Guru Teladan – HM Soeharto
+tags:
+- guru
+- kalimantan-timur
+- orde-baru
+- penari
+- perpustakaan-soeharto
+- presiden-soeharto
+- siswa
+- teladan
 kategori: krisis-dan-reformasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-8-18-presiden-soeharto-siswa-dan-guru-teladan/
+  judul: 1973-8-18 Presiden Soeharto Bersama Siswa dan Guru Teladan
+  tanggal: '2013-07-28'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-8-18-presiden-soeharto-siswa-dan-guru-teladan/
 ---
+
 
 # 1973-8-18 Presiden Soeharto Bersama Siswa dan Guru Teladan
 

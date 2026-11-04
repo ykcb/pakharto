@@ -1,9 +1,42 @@
 ---
-title: "1968-10-18 Presiden Soeharto Hadiahkan Gong Kepada Suku Dayak – HM Soeharto"
-source: "https://soehartolibrary.id/1968-10-18-presiden-soeharto-hadiahkan-gong-kepada-suku-dayak/"
-date: "2014-04-01T02:11:18+07:00"
+title: 1968-10-18 Presiden Soeharto Hadiahkan Gong Kepada Suku Dayak
+description: 3 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-10-18-presiden-soeharto-hadiahkan-gong-kepada-suku-dayak/respond)
+  108 Views Share on
+date: '1968-10-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-10-18-presiden-soeharto-hadiahkan-gong-kepada-suku-dayak
+aliases:
+- Presiden Soeharto Hadiahkan Gong Kepada Suku Dayak
+- 1968-10-18 Presiden Soeharto Hadiahkan Gong Kepada Suku Dayak – HM Soeharto
+tags:
+- hukum
+- ikahi
+- kalimantan-tengah
+- orde-baru
+- paraku
+- perpustakaan-soeharto
+- pgrs
+- presiden-soeharto
+- suku-dayak
+- yogyakarta
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-10-18-presiden-soeharto-hadiahkan-gong-kepada-suku-dayak/
+  judul: 1968-10-18 Presiden Soeharto Hadiahkan Gong Kepada Suku Dayak
+  tanggal: '1968-10-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-10-18-presiden-soeharto-hadiahkan-gong-kepada-suku-dayak/
 ---
+
 
 # 1968-10-18 Presiden Soeharto Hadiahkan Gong Kepada Suku Dayak
 

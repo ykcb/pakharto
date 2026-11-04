@@ -1,9 +1,38 @@
 ---
-title: "1973-07-31 Presiden Soeharto: Rice Estate Terbuka Bagi Swasta – HM Soeharto"
-source: "https://soehartolibrary.id/1973-07-31-presiden-soeharto-rice-estate-terbuka-bagi-swasta/"
-date: "2017-08-29T17:01:03+07:00"
+title: '1973-07-31 Presiden Soeharto: Rice Estate Terbuka Bagi Swasta'
+description: SELASA, 31 Juli 1973, Sidang Dewan Nasional yang berlangsung pagi ini
+  di Bina Graha pukul 10.00. Sidang yang dipimpin oleh Presiden Soeharto itu memutuskan
+  bahwa proyek rice estate membuka pintu bagi modal swasta, termasuk swasta asing....
+date: '1973-07-31'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-07-31-presiden-soeharto-rice-estate-terbuka-bagi-swasta
+aliases:
+- 'Presiden Soeharto: Rice Estate Terbuka Bagi Swasta'
+- '1973-07-31 Presiden Soeharto: Rice Estate Terbuka Bagi Swasta – HM Soeharto'
+tags:
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- rice-estate
+- swasta
+- swasta-asing
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-07-31-presiden-soeharto-rice-estate-terbuka-bagi-swasta/
+  judul: '1973-07-31 Presiden Soeharto: Rice Estate Terbuka Bagi Swasta'
+  tanggal: '1973-07-31'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-07-31-presiden-soeharto-rice-estate-terbuka-bagi-swasta/
 ---
+
 
 # 1973-07-31 Presiden Soeharto: Rice Estate Terbuka Bagi Swasta
 

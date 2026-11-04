@@ -1,9 +1,41 @@
 ---
-title: "1975-03-26 Presiden Soeharto: Wartawan Harus Jaga Martabat Kebebasan Pers – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-26-presiden-soeharto-wartawan-harus-jaga-martabat-kebebasan-pers/"
-date: "2017-08-29T17:43:12+07:00"
+title: '1975-03-26 Presiden Soeharto: Wartawan Harus Jaga Martabat Kebebasan Pers'
+description: RABU, 26 MARET 1975, Presiden Soeharto hari ini memperingatkan dunia
+  pers Indonesia bahwa mereka sendirilah yang pertama-tama bertanggungjawab memelihara
+  martabat kebebasan pers dan tidak membiarkan kebebasan itu tergelincir menjadi...
+date: '1975-03-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-26-presiden-soeharto-wartawan-harus-jaga-martabat-kebebasan-pers
+aliases:
+- 'Presiden Soeharto: Wartawan Harus Jaga Martabat Kebebasan Pers'
+- '1975-03-26 Presiden Soeharto: Wartawan Harus Jaga Martabat Kebebasan Pers – HM
+  Soeharto'
+tags:
+- kebebasan-pers
+- kramasan
+- orde-baru
+- palembang
+- perpustakaan-soeharto
+- pltu
+- presiden-soeharto
+- yugoslavia
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-26-presiden-soeharto-wartawan-harus-jaga-martabat-kebebasan-pers/
+  judul: '1975-03-26 Presiden Soeharto: Wartawan Harus Jaga Martabat Kebebasan Pers'
+  tanggal: '1975-03-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-26-presiden-soeharto-wartawan-harus-jaga-martabat-kebebasan-pers/
 ---
+
 
 # 1975-03-26 Presiden Soeharto: Wartawan Harus Jaga Martabat Kebebasan Pers
 

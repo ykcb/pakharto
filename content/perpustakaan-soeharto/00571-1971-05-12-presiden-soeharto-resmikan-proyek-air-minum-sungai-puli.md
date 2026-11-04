@@ -1,9 +1,39 @@
 ---
-title: "1971-05-12 Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli – HM Soeharto"
-source: "https://soehartolibrary.id/1971-05-12-presiden-soeharto-resmikan-proyek-air-minum-sungai-puli/"
-date: "2017-08-28T16:44:34+07:00"
+title: 1971-05-12 Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli
+description: RABU, 12 Mei 1971, tepat pukul 07.30 pagi hari ini Presiden dan Ibu Tien
+  Soeharto beserta rombongan meninggalkan Jakarta menuju Tajung Pinang untuk meninjau
+  proyek-proyek pembangunan yang ada di Riau Kepulauan.
+date: '1971-05-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-05-12-presiden-soeharto-resmikan-proyek-air-minum-sungai-puli
+aliases:
+- Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli
+- 1971-05-12 Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli – HM Soeharto
+tags:
+- batam
+- ibu-tien
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sungai-puli
+- tanjung-pinang
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-05-12-presiden-soeharto-resmikan-proyek-air-minum-sungai-puli/
+  judul: 1971-05-12 Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli
+  tanggal: '1971-05-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-05-12-presiden-soeharto-resmikan-proyek-air-minum-sungai-puli/
 ---
+
 
 # 1971-05-12 Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli
 

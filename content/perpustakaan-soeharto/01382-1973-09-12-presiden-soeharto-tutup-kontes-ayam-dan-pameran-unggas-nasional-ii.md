@@ -1,9 +1,44 @@
 ---
-title: "1973-09-12 Presiden Soeharto Tutup Kontes Ayam dan Pameran Unggas Nasional II – HM Soeharto"
-source: "https://soehartolibrary.id/1973-09-12-presiden-soeharto-tutup-kontes-ayam-dan-pameran-unggas-nasional-ii/"
-date: "2017-08-23T11:01:20+07:00"
+title: 1973-09-12 Presiden Soeharto Tutup Kontes Ayam dan Pameran Unggas Nasional
+  II
+description: 15 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-09-12-presiden-soeharto-tutup-kontes-ayam-dan-pameran-unggas-nasional-ii/respond)
+  102 Views Share on
+date: '1973-09-12'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-09-12-presiden-soeharto-tutup-kontes-ayam-dan-pameran-unggas-nasional-ii
+aliases:
+- Presiden Soeharto Tutup Kontes Ayam dan Pameran Unggas Nasional II
+- 1973-09-12 Presiden Soeharto Tutup Kontes Ayam dan Pameran Unggas Nasional II –
+  HM Soeharto
+tags:
+- ayam
+- bandung
+- ibu-tien-soeharto
+- kontes
+- orde-baru
+- pameran
+- perpustakaan-soeharto
+- presiden-soeharto
+- unggas
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-09-12-presiden-soeharto-tutup-kontes-ayam-dan-pameran-unggas-nasional-ii/
+  judul: 1973-09-12 Presiden Soeharto Tutup Kontes Ayam dan Pameran Unggas Nasional
+    II
+  tanggal: '1973-09-12'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-09-12-presiden-soeharto-tutup-kontes-ayam-dan-pameran-unggas-nasional-ii/
 ---
+
 
 # 1973-09-12 Presiden Soeharto Tutup Kontes Ayam dan Pameran Unggas Nasional II
 

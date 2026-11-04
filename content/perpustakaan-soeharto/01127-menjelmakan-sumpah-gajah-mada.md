@@ -1,9 +1,43 @@
 ---
-title: "Menjelmakan Sumpah Gajah Mada – HM Soeharto"
-source: "https://soehartolibrary.id/menjelmakan-sumpah-gajah-mada/"
-date: "2018-01-19T15:03:20+07:00"
+title: Menjelmakan Sumpah Gajah Mada
+description: 31 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/menjelmakan-sumpah-gajah-mada/respond) 128
+  Views Share on
+date: '2018-01-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: menjelmakan-sumpah-gajah-mada
+aliases:
+- Menjelmakan Sumpah Gajah Mada – HM Soeharto
+tags:
+- alvin-tofflrer
+- amerika
+- gelombang-ketiga
+- mpr
+- negara-berkembang
+- orde-baru
+- palapa-a
+- palapa-b
+- perpustakaan-soeharto
+- presiden-soeharto
+- satelit-palapa
+- sumpah-gajah-mada
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/menjelmakan-sumpah-gajah-mada/
+  judul: Menjelmakan Sumpah Gajah Mada
+  tanggal: '2018-01-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/menjelmakan-sumpah-gajah-mada/
 ---
+
 
 # Menjelmakan Sumpah Gajah Mada
 

@@ -1,9 +1,40 @@
 ---
-title: "Try Sutrisno: Perjalanan Rahasia Pak Harto – HM Soeharto"
-source: "https://soehartolibrary.id/try-sutrisno-perjalanan-rahasia/"
-date: "2013-10-20T04:31:24+07:00"
+title: 'Try Sutrisno: Perjalanan Rahasia Pak Harto'
+description: Pak Harto dikenal sebagai pemimpin yang selalu memperhatikan keadaan
+  bawahannya bahkan sampai pada hal-hal kecil. Pak Harto selalu dapat bersikap tenang
+  namun penuh perhitungan. Pak Harto juga senantiasa mengambil keputusan dengan...
+date: '2013-10-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: try-sutrisno-perjalanan-rahasia
+aliases:
+- 'Try Sutrisno: Perjalanan Rahasia Pak Harto – HM Soeharto'
+tags:
+- incognito
+- jabar
+- jateng
+- jatium
+- orde-baru
+- perjalan
+- perpustakaan-soeharto
+- rahasia
+- try-sutrisno
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/try-sutrisno-perjalanan-rahasia/
+  judul: 'Try Sutrisno: Perjalanan Rahasia Pak Harto'
+  tanggal: '2013-10-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/try-sutrisno-perjalanan-rahasia/
 ---
+
 
 # Try Sutrisno: Perjalanan Rahasia Pak Harto
 

@@ -1,9 +1,46 @@
 ---
-title: "1974-07-27 Presiden Soeharto: Duta Besar Harus Bekerja Penuh Dinamika – HM Soeharto"
-source: "https://soehartolibrary.id/1974-07-27-presiden-soehareto-duta-besar-harus-bekerja-penuh-dinamika/"
-date: "2017-08-23T11:53:54+07:00"
+title: '1974-07-27 Presiden Soeharto: Duta Besar Harus Bekerja Penuh Dinamika'
+description: SABTU, 27 Juli 1974, Di Bina Graha pagi ini Presiden Soeharto menerima
+  Menteri Pendidikan dan Kebudayaan, Sjarif Thajeb, beserta para rektor dari 18 PTN
+  se-Jawa. Pada kesempatan itu, Kepala Negara telah memperkenalkan Yayasan Beasiswa...
+date: '1974-07-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-07-27-presiden-soehareto-duta-besar-harus-bekerja-penuh-dinamika
+aliases:
+- 'Presiden Soeharto: Duta Besar Harus Bekerja Penuh Dinamika'
+- '1974-07-27 Presiden Soeharto: Duta Besar Harus Bekerja Penuh Dinamika – HM Soeharto'
+tags:
+- afghanistan
+- birma
+- duta-besar
+- duta-besar-abdul-habir
+- hongaria
+- iljas-hamzah
+- india
+- letjen-sugih-arto
+- orde-baru
+- perpustakaan-soeharto
+- presiden
+- sjarif-thajeb
+- soeharto
+- supersemar
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-07-27-presiden-soehareto-duta-besar-harus-bekerja-penuh-dinamika/
+  judul: '1974-07-27 Presiden Soeharto: Duta Besar Harus Bekerja Penuh Dinamika'
+  tanggal: '1974-07-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-07-27-presiden-soehareto-duta-besar-harus-bekerja-penuh-dinamika/
 ---
+
 
 # 1974-07-27 Presiden Soeharto: Duta Besar Harus Bekerja Penuh Dinamika
 

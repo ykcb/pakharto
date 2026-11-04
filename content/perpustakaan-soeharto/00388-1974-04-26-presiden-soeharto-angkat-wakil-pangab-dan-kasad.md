@@ -1,9 +1,35 @@
 ---
-title: "1974-04-26 Presiden Soeharto Angkat Wakil Pangab dan Kasad – HM Soeharto"
-source: "https://soehartolibrary.id/1974-04-26-presiden-soeharto-angkat-wakil-pangab-dan-kasad/"
-date: "2014-03-22T02:56:19+07:00"
+title: 1974-04-26 Presiden Soeharto Angkat Wakil Pangab dan Kasad
+description: Presiden Soeharto Angkat Wakil Pangab dan Kasad
+date: '1974-04-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-04-26-presiden-soeharto-angkat-wakil-pangab-dan-kasad
+aliases:
+- Presiden Soeharto Angkat Wakil Pangab dan Kasad
+- 1974-04-26 Presiden Soeharto Angkat Wakil Pangab dan Kasad – HM Soeharto
+tags:
+- kasad
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- wakil-pangab
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-04-26-presiden-soeharto-angkat-wakil-pangab-dan-kasad/
+  judul: 1974-04-26 Presiden Soeharto Angkat Wakil Pangab dan Kasad
+  tanggal: '1974-04-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-04-26-presiden-soeharto-angkat-wakil-pangab-dan-kasad/
 ---
+
 
 # 1974-04-26 Presiden Soeharto Angkat Wakil Pangab dan Kasad
 

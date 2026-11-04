@@ -1,9 +1,42 @@
 ---
-title: "1969-06-10 Presiden Soeharto Melakukan Sidang Kabinet Terbatas – HM Soeharto"
-source: "https://soehartolibrary.id/1969-06-10-presiden-soeharto-melakukan-sidang-kabinet-terbatas/"
-date: "2017-08-24T15:29:49+07:00"
+title: 1969-06-10 Presiden Soeharto Melakukan Sidang Kabinet Terbatas
+description: SELASA, 10 JUNI 1969, Pagi ini bertempat di Guest House Istana, Presiden
+  menrima laporan beberapa menteri dalam sidang kabinet terbatas. Menteri Perdagangan
+  Sumitro Djojohadikusumo melaporkan bahwa tidak ada lagi bahaya inflasi di...
+date: '1969-06-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-06-10-presiden-soeharto-melakukan-sidang-kabinet-terbatas
+aliases:
+- Presiden Soeharto Melakukan Sidang Kabinet Terbatas
+- 1969-06-10 Presiden Soeharto Melakukan Sidang Kabinet Terbatas – HM Soeharto
+tags:
+- ali-wardhana
+- frans-seda
+- menteri-keuangan
+- menteri-perdagangan
+- menteri-perhubungan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sidang-kabinet
+- sumitro-djojohadikusumo
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-06-10-presiden-soeharto-melakukan-sidang-kabinet-terbatas/
+  judul: 1969-06-10 Presiden Soeharto Melakukan Sidang Kabinet Terbatas
+  tanggal: '1969-06-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-06-10-presiden-soeharto-melakukan-sidang-kabinet-terbatas/
 ---
+
 
 # 1969-06-10 Presiden Soeharto Melakukan Sidang Kabinet Terbatas
 

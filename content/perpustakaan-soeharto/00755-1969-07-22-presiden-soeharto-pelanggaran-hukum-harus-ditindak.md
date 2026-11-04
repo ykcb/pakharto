@@ -1,9 +1,41 @@
 ---
-title: "1969-07-22 Presiden Soeharto: Segala Bentuk Pelanggaran Hukum Harus Ditindak – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-22-presiden-soeharto-pelanggaran-hukum-harus-ditindak/"
-date: "2014-11-21T06:18:58+07:00"
+title: '1969-07-22 Presiden Soeharto: Segala Bentuk Pelanggaran Hukum Harus Ditindak'
+description: SELASA, 22 Juli 1969. Presiden Soeharto menyatakan bahwa segala bentuk
+  pelanggaran hukum, baik yang besar maupun yang kecil, siapapun pelakunya harus ditindak
+  sesuai dengan prosedur dan ketentuan hukum oleh alat-alat negara yang...
+date: '1969-07-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-22-presiden-soeharto-pelanggaran-hukum-harus-ditindak
+aliases:
+- 'Presiden Soeharto: Segala Bentuk Pelanggaran Hukum Harus Ditindak'
+- '1969-07-22 Presiden Soeharto: Segala Bentuk Pelanggaran Hukum Harus Ditindak –
+  HM Soeharto'
+tags:
+- hukum
+- jenderal-soeharto
+- keadilan
+- kejaksaan
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-22-presiden-soeharto-pelanggaran-hukum-harus-ditindak/
+  judul: '1969-07-22 Presiden Soeharto: Segala Bentuk Pelanggaran Hukum Harus Ditindak'
+  tanggal: '1969-07-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-22-presiden-soeharto-pelanggaran-hukum-harus-ditindak/
 ---
+
 
 # 1969-07-22 Presiden Soeharto: Segala Bentuk Pelanggaran Hukum Harus Ditindak
 

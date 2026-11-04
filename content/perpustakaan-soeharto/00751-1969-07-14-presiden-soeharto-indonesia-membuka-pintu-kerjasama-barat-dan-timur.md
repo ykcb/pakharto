@@ -1,9 +1,43 @@
 ---
-title: "1969-07-14 Presiden Soeharto: Indonesia Membuka Pintu Kerjasama Barat dan Timur – HM Soeharto"
-source: "https://soehartolibrary.id/1969-07-14-presiden-soeharto-indonesia-membuka-pintu-kerjasama-barat-dan-timur/"
-date: "2017-08-24T15:22:57+07:00"
+title: '1969-07-14 Presiden Soeharto: Indonesia Membuka Pintu Kerjasama Barat dan
+  Timur'
+description: SENIN, 14 Juli 1969. Pagi ini di Istana Merdeka Presiden Soeharto menerima
+  Duta Besar Hongaria, Farenc Turi, yang berpamitan sehubungan dengan akhir masa tugasnya
+  di Indonesia. Dalam pertemuan tersebut Presiden menyatakan bahwa...
+date: '1969-07-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-07-14-presiden-soeharto-indonesia-membuka-pintu-kerjasama-barat-dan-timur
+aliases:
+- 'Presiden Soeharto: Indonesia Membuka Pintu Kerjasama Barat dan Timur'
+- '1969-07-14 Presiden Soeharto: Indonesia Membuka Pintu Kerjasama Barat dan Timur
+  – HM Soeharto'
+tags:
+- duta-besar
+- farenc-turi
+- hongaria
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-07-14-presiden-soeharto-indonesia-membuka-pintu-kerjasama-barat-dan-timur/
+  judul: '1969-07-14 Presiden Soeharto: Indonesia Membuka Pintu Kerjasama Barat dan
+    Timur'
+  tanggal: '1969-07-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-07-14-presiden-soeharto-indonesia-membuka-pintu-kerjasama-barat-dan-timur/
 ---
+
 
 # 1969-07-14 Presiden Soeharto: Indonesia Membuka Pintu Kerjasama Barat dan Timur
 

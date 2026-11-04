@@ -1,9 +1,37 @@
 ---
-title: "Sjarif Thajeb: Pak Harto Tegas, Konsisten, Tetapi Luwes (Bagian 2, Habis) – HM Soeharto"
-source: "https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis/"
-date: "2014-11-24T08:08:09+07:00"
+title: 'Sjarif Thajeb: Pak Harto Tegas, Konsisten, Tetapi Luwes (Bagian 2, Habis)'
+description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis/respond)
+  127 Views Share on
+date: '2014-11-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis
+aliases:
+- 'Sjarif Thajeb: Pak Harto Tegas, Konsisten, Tetapi Luwes (Bagian 2, Habis) – HM
+  Soeharto'
+tags:
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- sjarif-thajeb
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis/
+  judul: 'Sjarif Thajeb: Pak Harto Tegas, Konsisten, Tetapi Luwes (Bagian 2, Habis)'
+  tanggal: '2014-11-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/scan0012_7_result.jpg)
 

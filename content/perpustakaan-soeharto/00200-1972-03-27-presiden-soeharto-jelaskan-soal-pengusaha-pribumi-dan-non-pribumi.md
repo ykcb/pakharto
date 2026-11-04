@@ -1,9 +1,42 @@
 ---
-title: "1972-03-27 Presiden Soeharto Jelaskan Soal Pengusaha Pribumi dan Non Pribumi – HM Soeharto"
-source: "https://soehartolibrary.id/1972-03-27-presiden-soeharto-jelaskan-soal-pengusaha-pribumi-dan-non-pribumi/"
-date: "2017-08-29T11:28:16+07:00"
+title: 1972-03-27 Presiden Soeharto Jelaskan Soal Pengusaha Pribumi dan Non Pribumi
+description: SENIN, 27 Maret 1972, Dalam amanatnya di depan para rektor dan kepala
+  perwakilan Departemen Pendidikan dan Kebudayaan yang baru saja mengikuti rapat kerja,
+  Presiden mengatakan ada kekhawatiran di sementara kalangan bahwa perekonomian...
+date: '1972-03-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-03-27-presiden-soeharto-jelaskan-soal-pengusaha-pribumi-dan-non-pribumi
+aliases:
+- Presiden Soeharto Jelaskan Soal Pengusaha Pribumi dan Non Pribumi
+- 1972-03-27 Presiden Soeharto Jelaskan Soal Pengusaha Pribumi dan Non Pribumi – HM
+  Soeharto
+tags:
+- cina
+- non-pribumi
+- orde-baru
+- pak-harto
+- pengusaha
+- perpustakaan-soeharto
+- presiden-soeharto
+- pribumi
+- soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-03-27-presiden-soeharto-jelaskan-soal-pengusaha-pribumi-dan-non-pribumi/
+  judul: 1972-03-27 Presiden Soeharto Jelaskan Soal Pengusaha Pribumi dan Non Pribumi
+  tanggal: '1972-03-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-03-27-presiden-soeharto-jelaskan-soal-pengusaha-pribumi-dan-non-pribumi/
 ---
+
 
 # 1972-03-27 Presiden Soeharto Jelaskan Soal Pengusaha Pribumi dan Non Pribumi
 

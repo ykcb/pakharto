@@ -1,9 +1,36 @@
 ---
-title: "Bertugas di Sulawesi Selatan – HM Soeharto"
-source: "https://soehartolibrary.id/bertugas-di-sulawesi-selatan/"
-date: "2018-01-10T19:13:37+07:00"
+title: Bertugas di Sulawesi Selatan
+description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/bertugas-di-sulawesi-selatan/respond) 336
+  Views Share on
+date: '2018-01-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: bertugas-di-sulawesi-selatan
+aliases:
+- Bertugas di Sulawesi Selatan – HM Soeharto
+tags:
+- andi-azis
+- orde-baru
+- perpustakaan-soeharto
+- ris
+- sulawesi-seatan
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/bertugas-di-sulawesi-selatan/
+  judul: Bertugas di Sulawesi Selatan
+  tanggal: '2018-01-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/bertugas-di-sulawesi-selatan/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/DSC_0435_result.jpg)
 

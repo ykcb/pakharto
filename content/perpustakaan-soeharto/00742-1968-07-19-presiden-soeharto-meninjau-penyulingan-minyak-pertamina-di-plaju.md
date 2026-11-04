@@ -1,9 +1,46 @@
 ---
-title: "1968-07-19 Presiden Soeharto Meninjau Penyulingan Minyak Pertamina di Plaju – HM Soeharto"
-source: "https://soehartolibrary.id/1968-07-19-presiden-soeharto-meninjau-penyulingan-minyak-pertamina-di-plaju/"
-date: "2017-08-24T15:30:47+07:00"
+title: 1968-07-19 Presiden Soeharto Meninjau Penyulingan Minyak Pertamina di Plaju
+description: JUM’AT, 19 Juli 1968, Presiden Soeharto pagi ini mengadakan peninjauan
+  ke penyulingan minyak Pertamina di Plaju. Kepada karyawan Pertamina, Presiden mengharapkan
+  agar hendaknya mereka selalu ingat bahwa masih banyak masyarakat di luar...
+date: '1968-07-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-07-19-presiden-soeharto-meninjau-penyulingan-minyak-pertamina-di-plaju
+aliases:
+- Presiden Soeharto Meninjau Penyulingan Minyak Pertamina di Plaju
+- 1968-07-19 Presiden Soeharto Meninjau Penyulingan Minyak Pertamina di Plaju – HM
+  Soeharto
+tags:
+- jenderal-soeharto
+- masjid-agung
+- orde-baru
+- pak-harto
+- palembang
+- pembangunan
+- penyulingan-minyak
+- perpustakaan-soeharto
+- pertamina
+- plaju
+- presiden-soeharto
+- shoalt-jumat
+- umat-islam
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-07-19-presiden-soeharto-meninjau-penyulingan-minyak-pertamina-di-plaju/
+  judul: 1968-07-19 Presiden Soeharto Meninjau Penyulingan Minyak Pertamina di Plaju
+  tanggal: '1968-07-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-07-19-presiden-soeharto-meninjau-penyulingan-minyak-pertamina-di-plaju/
 ---
+
 
 # 1968-07-19 Presiden Soeharto Meninjau Penyulingan Minyak Pertamina di Plaju
 

@@ -1,9 +1,39 @@
 ---
-title: "1968-09-03 Presiden Soeharto Meninjau Perkebunan Tembakau Deli PNP IX Kisaran – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-03-presiden-soeharto-meninjau-perkebunan-tembakau-deli-pnp-ix-kisaran/"
-date: "2014-04-01T02:16:27+07:00"
+title: 1968-09-03 Presiden Soeharto Meninjau Perkebunan Tembakau Deli PNP IX Kisaran
+description: 1 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-03-presiden-soeharto-meninjau-perkebunan-tembakau-deli-pnp-ix-kisaran/respond)
+  86 Views Share on
+date: '1968-09-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-03-presiden-soeharto-meninjau-perkebunan-tembakau-deli-pnp-ix-kisaran
+aliases:
+- Presiden Soeharto Meninjau Perkebunan Tembakau Deli PNP IX Kisaran
+- 1968-09-03 Presiden Soeharto Meninjau Perkebunan Tembakau Deli PNP IX Kisaran –
+  HM Soeharto
+tags:
+- kisaran
+- orde-baru
+- perpustakaan-soeharto
+- pnp-ix
+- presiden-soeharto
+- tembakau-deli
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-03-presiden-soeharto-meninjau-perkebunan-tembakau-deli-pnp-ix-kisaran/
+  judul: 1968-09-03 Presiden Soeharto Meninjau Perkebunan Tembakau Deli PNP IX Kisaran
+  tanggal: '1968-09-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-03-presiden-soeharto-meninjau-perkebunan-tembakau-deli-pnp-ix-kisaran/
 ---
+
 
 # 1968-09-03 Presiden Soeharto Meninjau Perkebunan Tembakau Deli PNP IX Kisaran
 

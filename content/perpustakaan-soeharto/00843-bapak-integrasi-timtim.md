@@ -1,9 +1,37 @@
 ---
-title: "Bapak Integrasi TIMTIM – HM Soeharto"
-source: "https://soehartolibrary.id/bapak-integrasi-timtim/"
-date: "2013-07-26T11:12:44+07:00"
+title: Bapak Integrasi TIMTIM
+description: Dengan segala kerendahan hati, kami sampaikan salam hormat, Semoga Bapak
+  selalu dalam keadaan sehat wal afiat dalam lindungan dan rahmat Tuhan Yang Maha
+  Esa.
+date: '2013-07-26'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: bapak-integrasi-timtim
+aliases:
+- Bapak Integrasi TIMTIM – HM Soeharto
+tags:
+- east-timor
+- integrasi-timor-timur
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- student-movement
 kategori: keamanan-dan-kebebasan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/bapak-integrasi-timtim/
+  judul: Bapak Integrasi TIMTIM
+  tanggal: '2013-07-26'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/bapak-integrasi-timtim/
 ---
+
 
 # Bapak Integrasi TIMTIM
 

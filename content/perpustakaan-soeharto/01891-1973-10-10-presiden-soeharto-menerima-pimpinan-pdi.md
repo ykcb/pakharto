@@ -1,9 +1,47 @@
 ---
-title: "1973-10-10 Presiden Soeharto Menerima Pimpinan PDI – HM Soeharto"
-source: "https://soehartolibrary.id/1973-10-10-presiden-soeharto-menerima-pimpinan-pdi/"
-date: "2014-03-21T23:11:55+07:00"
+title: 1973-10-10 Presiden Soeharto Menerima Pimpinan PDI
+description: 12 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1973-10-10-presiden-soeharto-menerima-pimpinan-pdi/respond)
+  118 Views Share on
+date: '1973-10-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-10-10-presiden-soeharto-menerima-pimpinan-pdi
+aliases:
+- Presiden Soeharto Menerima Pimpinan PDI
+- 1973-10-10 Presiden Soeharto Menerima Pimpinan PDI – HM Soeharto
+tags:
+- abdul-madjid
+- achmad-sukarmadidjaja
+- alex-wenas
+- ben-mang-reng-say
+- john-pakan
+- kepala-negara
+- mh-isnaeni-itu
+- orde-baru
+- pdi
+- perpustakaan-soeharto
+- presiden-soeharto
+- soegiarto-murbandoko
+- sunawar-sukawati
+- wa-chalik
+- wignjo-sumarsono
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-10-10-presiden-soeharto-menerima-pimpinan-pdi/
+  judul: 1973-10-10 Presiden Soeharto Menerima Pimpinan PDI
+  tanggal: '1973-10-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-10-10-presiden-soeharto-menerima-pimpinan-pdi/
 ---
+
 
 # 1973-10-10 Presiden Soeharto Menerima Pimpinan PDI
 

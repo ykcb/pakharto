@@ -1,9 +1,38 @@
 ---
-title: "M Kharis Suhud: Pak Harto Intuisinya Sangat Tajam, (Bagian 2, Habis) – HM Soeharto"
-source: "https://soehartolibrary.id/m-kharis-suhud-pak-harto-intuisinya-sangat-tajam-bagian-2-habis/"
-date: "2014-03-11T23:20:05+07:00"
+title: 'M Kharis Suhud: Pak Harto Intuisinya Sangat Tajam, (Bagian 2, Habis)'
+description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/m-kharis-suhud-pak-harto-intuisinya-sangat-tajam-bagian-2-habis/respond)
+  148 Views Share on
+date: '2014-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: m-kharis-suhud-pak-harto-intuisinya-sangat-tajam-bagian-2-habis
+aliases:
+- 'M Kharis Suhud: Pak Harto Intuisinya Sangat Tajam, (Bagian 2, Habis) – HM Soeharto'
+tags:
+- dpr
+- kepala-negara
+- kharis-suhud
+- mpr
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/m-kharis-suhud-pak-harto-intuisinya-sangat-tajam-bagian-2-habis/
+  judul: 'M Kharis Suhud: Pak Harto Intuisinya Sangat Tajam, (Bagian 2, Habis)'
+  tanggal: '2014-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/m-kharis-suhud-pak-harto-intuisinya-sangat-tajam-bagian-2-habis/
 ---
+
 
 ![](https://soehartolibrary.id/wp-content/uploads/2013/10/scan0004_4_result.jpg)
 

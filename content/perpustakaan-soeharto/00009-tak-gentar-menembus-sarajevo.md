@@ -1,9 +1,39 @@
 ---
-title: "Tak Gentar Menembus Sarajevo – HM Soeharto"
-source: "https://soehartolibrary.id/tak-gentar-menembus-sarajevo/"
-date: "2017-10-19T14:42:20+07:00"
+title: Tak Gentar Menembus Sarajevo
+description: Presiden Soeharto dikenal sebagai pemimpin tegas dan berani mengambil
+  risiko, bukan hanya di dalam negeri akan tetapi juga di luar negeri. Ketika kawasan
+  Balkan dilanda konflik, dalam kapasitasnya sebagai Pimpinan Negara Non Blok,...
+date: '2017-10-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: tak-gentar-menembus-sarajevo
+aliases:
+- Tak Gentar Menembus Sarajevo – HM Soeharto
+tags:
+- bebas-aktif
+- gerakan-non-blok-gnb
+- konflik-balkan
+- menembus-sarajevo
+- orde-baru
+- perpustakaan-soeharto
+- politik-luar-negeri
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/tak-gentar-menembus-sarajevo/
+  judul: Tak Gentar Menembus Sarajevo
+  tanggal: '2017-10-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/tak-gentar-menembus-sarajevo/
 ---
+
 
 ![Menembus Sarajevo](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b131.jpg)
 

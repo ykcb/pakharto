@@ -1,9 +1,38 @@
 ---
-title: "1972-05-13 Kesepakatan Presiden Soeharto-PM Eisaku Sato – HM Soeharto"
-source: "https://soehartolibrary.id/1972-05-13-kesepakatan-presiden-soeharto-pm-eisaku-sato/"
-date: "2017-08-24T17:42:42+07:00"
+title: 1972-05-13 Kesepakatan Presiden Soeharto-PM Eisaku Sato
+description: SABTU, 13 Mei 1972, Pembicaraan-pembicaraan yang dilakukan Presiden Soeharto
+  selama kunjungannya di Jepang terungkap didalam pernyataan bersama pemerintah Indonesia
+  dan Jepang yang dikeluarkan hari ini secara serentak di Tokyo maupun di...
+date: '1972-05-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-05-13-kesepakatan-presiden-soeharto-pm-eisaku-sato
+aliases:
+- Kesepakatan Presiden Soeharto-PM Eisaku Sato
+- 1972-05-13 Kesepakatan Presiden Soeharto-PM Eisaku Sato – HM Soeharto
+tags:
+- eisaku-sato
+- jepang
+- minyak
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-05-13-kesepakatan-presiden-soeharto-pm-eisaku-sato/
+  judul: 1972-05-13 Kesepakatan Presiden Soeharto-PM Eisaku Sato
+  tanggal: '1972-05-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-05-13-kesepakatan-presiden-soeharto-pm-eisaku-sato/
 ---
+
 
 # 1972-05-13 Kesepakatan Presiden Soeharto-PM Eisaku Sato
 

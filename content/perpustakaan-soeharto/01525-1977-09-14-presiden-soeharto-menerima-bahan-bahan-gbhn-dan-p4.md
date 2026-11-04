@@ -1,9 +1,47 @@
 ---
-title: "1977-09-14 Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4 – HM Soeharto"
-source: "https://soehartolibrary.id/1977-09-14-presiden-soeharto-menerima-bahan-bahan-gbhn-dan-p4/"
-date: "2017-08-22T16:12:49+07:00"
+title: 1977-09-14 Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4
+description: 21 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1977-09-14-presiden-soeharto-menerima-bahan-bahan-gbhn-dan-p4/respond)
+  91 Views Share on
+date: '1977-09-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-09-14-presiden-soeharto-menerima-bahan-bahan-gbhn-dan-p4
+aliases:
+- Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4
+- 1977-09-14 Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4 – HM Soeharto
+tags:
+- daryatmo
+- dpr
+- gbhn
+- ismail-saleh
+- kartakusumah
+- kartidjo
+- mahasiswa
+- mashuri
+- orde-baru
+- p4
+- perpustakaan-soeharto
+- presiden-soeharto
+- sudharmono
+- sudomo
+- sumarlin
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-09-14-presiden-soeharto-menerima-bahan-bahan-gbhn-dan-p4/
+  judul: 1977-09-14 Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4
+  tanggal: '1977-09-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-09-14-presiden-soeharto-menerima-bahan-bahan-gbhn-dan-p4/
 ---
+
 
 # 1977-09-14 Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4
 

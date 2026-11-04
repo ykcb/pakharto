@@ -1,9 +1,37 @@
 ---
-title: "1971-10-02 Drs. Moh. Hasan Dilantik Sebagai Kapolri – HM Soeharto"
-source: "https://soehartolibrary.id/1971-10-02-drs-moh-hasan-dilantik-sebagai-kapolri/"
-date: "2014-12-01T16:23:14+07:00"
+title: 1971-10-02 Drs. Moh. Hasan Dilantik Sebagai Kapolri
+description: 8 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-10-02-drs-moh-hasan-dilantik-sebagai-kapolri/respond)
+  143 Views Share on
+date: '1971-10-02'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-10-02-drs-moh-hasan-dilantik-sebagai-kapolri
+aliases:
+- Drs. Moh. Hasan Dilantik Sebagai Kapolri
+- 1971-10-02 Drs. Moh. Hasan Dilantik Sebagai Kapolri – HM Soeharto
+tags:
+- jenderal-soeharto
+- kapolri
+- menhankam
+- orde-baru
+- perpustakaan-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-10-02-drs-moh-hasan-dilantik-sebagai-kapolri/
+  judul: 1971-10-02 Drs. Moh. Hasan Dilantik Sebagai Kapolri
+  tanggal: '1971-10-02'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-10-02-drs-moh-hasan-dilantik-sebagai-kapolri/
 ---
+
 
 # 1971-10-02 Drs. Moh. Hasan Dilantik Sebagai Kapolri
 

@@ -1,9 +1,39 @@
 ---
-title: "1974-08-13 Presiden Soeharto Bahas Kebutuhan Pokok Menjelang Idul Fitri – HM Soeharto"
-source: "https://soehartolibrary.id/1974-08-13-presiden-soeharto-bahas-kebutuhan-pokok-menjelang-idul-fitri/"
-date: "2017-08-23T11:18:52+07:00"
+title: 1974-08-13 Presiden Soeharto Bahas Kebutuhan Pokok Menjelang Idul Fitri
+description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1974-08-13-presiden-soeharto-bahas-kebutuhan-pokok-menjelang-idul-fitri/respond)
+  83 Views Share on
+date: '1974-08-13'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1974-08-13-presiden-soeharto-bahas-kebutuhan-pokok-menjelang-idul-fitri
+aliases:
+- Presiden Soeharto Bahas Kebutuhan Pokok Menjelang Idul Fitri
+- 1974-08-13 Presiden Soeharto Bahas Kebutuhan Pokok Menjelang Idul Fitri – HM Soeharto
+tags:
+- bustanil-arifin
+- idul-fitri
+- kabulog
+- kebutuhan-pokok
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1974-08-13-presiden-soeharto-bahas-kebutuhan-pokok-menjelang-idul-fitri/
+  judul: 1974-08-13 Presiden Soeharto Bahas Kebutuhan Pokok Menjelang Idul Fitri
+  tanggal: '1974-08-13'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1974-08-13-presiden-soeharto-bahas-kebutuhan-pokok-menjelang-idul-fitri/
 ---
+
 
 # 1974-08-13 Presiden Soeharto Bahas Kebutuhan Pokok Menjelang Idul Fitri
 

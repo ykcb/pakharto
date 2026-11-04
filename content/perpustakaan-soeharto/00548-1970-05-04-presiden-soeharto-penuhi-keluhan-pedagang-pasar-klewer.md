@@ -1,9 +1,44 @@
 ---
-title: "1970-05-04 Presiden Soeharto Penuhi Keluhan Pedagang Pasar Klewer – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-04-presiden-soeharto-penuhi-keluhan-pedagang-pasar-klewer/"
-date: "2017-08-28T16:46:01+07:00"
+title: 1970-05-04 Presiden Soeharto Penuhi Keluhan Pedagang Pasar Klewer
+description: SENIN, 4 MEI 1970, Presiden Soeharto memanggil Walikota Solo, Koenandar,
+  sehubungan dengan pembangunan Pasar Klewer, Solo. Kepada Walikota yang didampingi
+  oleh Sukamdani Gitosardjono (Direktur PT. Sahid), dan Direktur Utama BBD, RAB...
+date: '1970-05-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-04-presiden-soeharto-penuhi-keluhan-pedagang-pasar-klewer
+aliases:
+- Presiden Soeharto Penuhi Keluhan Pedagang Pasar Klewer
+- 1970-05-04 Presiden Soeharto Penuhi Keluhan Pedagang Pasar Klewer – HM Soeharto
+tags:
+- bali
+- bank-bumi-daya
+- jawa
+- koenandar
+- orde-baru
+- pasar-klewer
+- perpustakaan-soeharto
+- presiden-soeharto
+- pt-sahid
+- solo
+- sukamdani-gitosardjono
+- walikota
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-04-presiden-soeharto-penuhi-keluhan-pedagang-pasar-klewer/
+  judul: 1970-05-04 Presiden Soeharto Penuhi Keluhan Pedagang Pasar Klewer
+  tanggal: '1970-05-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-04-presiden-soeharto-penuhi-keluhan-pedagang-pasar-klewer/
 ---
+
 
 # 1970-05-04 Presiden Soeharto Penuhi Keluhan Pedagang Pasar Klewer
 

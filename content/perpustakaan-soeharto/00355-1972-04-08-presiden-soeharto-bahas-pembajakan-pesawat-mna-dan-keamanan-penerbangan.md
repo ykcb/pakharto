@@ -1,9 +1,41 @@
 ---
-title: "1972-04-08 Presiden Soeharto Bahas Pembajakan Pesawat MNA dan Keamanan Penerbangan – HM Soeharto"
-source: "https://soehartolibrary.id/1972-04-08-presiden-soeharto-bahas-pembajakan-pesawat-mna-dan-keamanan-penerbangan/"
-date: "2014-03-21T23:32:58+07:00"
+title: 1972-04-08 Presiden Soeharto Bahas Pembajakan Pesawat MNA dan Keamanan Penerbangan
+description: SABTU, 8 APRIL 1972, Presiden Soeharto pagi ini mengadakan pertemuan
+  dengan KASAU, Marsekal Suwoto Sukendar, di Istana Merdeka. Dalam pertemuan itu telah
+  dibahas mengenai usaha pembajakan pesawat MNA pada tanggal 5 April yang lalu....
+date: '1972-04-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-04-08-presiden-soeharto-bahas-pembajakan-pesawat-mna-dan-keamanan-penerbangan
+aliases:
+- Presiden Soeharto Bahas Pembajakan Pesawat MNA dan Keamanan Penerbangan
+- 1972-04-08 Presiden Soeharto Bahas Pembajakan Pesawat MNA dan Keamanan Penerbangan
+  – HM Soeharto
+tags:
+- keselamatan-penerbangan
+- orde-baru
+- pelantikan
+- pembajakan-pesawat
+- perpustakaan-soeharto
+- presiden-soeharto
+- sekretaris-negara
+- sudharmono
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-04-08-presiden-soeharto-bahas-pembajakan-pesawat-mna-dan-keamanan-penerbangan/
+  judul: 1972-04-08 Presiden Soeharto Bahas Pembajakan Pesawat MNA dan Keamanan Penerbangan
+  tanggal: '1972-04-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-04-08-presiden-soeharto-bahas-pembajakan-pesawat-mna-dan-keamanan-penerbangan/
 ---
+
 
 # 1972-04-08 Presiden Soeharto Bahas Pembajakan Pesawat MNA dan Keamanan Penerbangan
 

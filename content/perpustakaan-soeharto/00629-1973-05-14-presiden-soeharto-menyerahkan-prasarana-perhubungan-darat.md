@@ -1,9 +1,43 @@
 ---
-title: "1973-05-14 Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat – HM Soeharto"
-source: "https://soehartolibrary.id/1973-05-14-presiden-soeharto-menyerahkan-prasarana-perhubungan-darat/"
-date: "2017-08-25T15:44:22+07:00"
+title: 1973-05-14 Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat
+description: SENIN, 14 Mei 1973, Sejumlah mesin giling, truk dan mesin pemecah batu,
+  pagi ini diserahkan oleh Presiden Soeharto kepada provinsi-provinsi NTB dan NTT.
+  Bantuan prasarana perhubungan darat itu diserahkan secara simbolis dalam suatu...
+date: '1973-05-14'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1973-05-14-presiden-soeharto-menyerahkan-prasarana-perhubungan-darat
+aliases:
+- Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat
+- 1973-05-14 Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat – HM Soeharto
+tags:
+- brigjen-yogi-supardi
+- gubernur-ntt-el-tari
+- ntb
+- ntt
+- orde-baru
+- pangdam-udaya
+- perhubungan
+- perpustakaan-soeharto
+- prasarana
+- presiden-soeharto
+- wasino-kusumah
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1973-05-14-presiden-soeharto-menyerahkan-prasarana-perhubungan-darat/
+  judul: 1973-05-14 Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat
+  tanggal: '1973-05-14'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1973-05-14-presiden-soeharto-menyerahkan-prasarana-perhubungan-darat/
 ---
+
 
 # 1973-05-14 Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat
 

@@ -1,9 +1,45 @@
 ---
-title: "1972-07-08 Presiden Soeharto Menerima Bekas Raja Belgia Leopold – HM Soeharto"
-source: "https://soehartolibrary.id/1972-07-08-presiden-soeharto-menerima-bekas-raja-belgia-leopold/"
-date: "2017-08-25T15:28:54+07:00"
+title: 1972-07-08 Presiden Soeharto Menerima Bekas Raja Belgia Leopold
+description: SABTU, 08 Juli 1972. Presiden Soeharto hari ini di Istana Merdeka menerima
+  kunjungan bekas Raja Belgia, Leopold. Leopold datang untuk mengucapkan terima kasihnya
+  atas fasilitas-fasilitas yang diterimanya selama kunjungannya di Sumatera....
+date: '1972-07-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1972-07-08-presiden-soeharto-menerima-bekas-raja-belgia-leopold
+aliases:
+- Presiden Soeharto Menerima Bekas Raja Belgia Leopold
+- 1972-07-08 Presiden Soeharto Menerima Bekas Raja Belgia Leopold – HM Soeharto
+tags:
+- belgia
+- bukittinggi
+- danau-toba
+- jambi
+- jenderal-soeharto
+- leopold
+- orde-baru
+- padang
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- pulau-nias
+- sibolga
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1972-07-08-presiden-soeharto-menerima-bekas-raja-belgia-leopold/
+  judul: 1972-07-08 Presiden Soeharto Menerima Bekas Raja Belgia Leopold
+  tanggal: '1972-07-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1972-07-08-presiden-soeharto-menerima-bekas-raja-belgia-leopold/
 ---
+
 
 # 1972-07-08 Presiden Soeharto Menerima Bekas Raja Belgia Leopold
 

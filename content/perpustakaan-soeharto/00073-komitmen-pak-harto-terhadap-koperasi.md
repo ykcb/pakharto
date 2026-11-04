@@ -1,9 +1,40 @@
 ---
-title: "Komitmen Pak Harto Terhadap Koperasi – HM Soeharto"
-source: "https://soehartolibrary.id/komitmen-pak-harto-terhadap-koperasi/"
-date: "2013-02-21T18:12:36+07:00"
+title: Komitmen Pak Harto Terhadap Koperasi
+description: Melanjutkan konsepsi “Bapak Koperasi Indonesia”, Bung Hatta yang telah
+  menuangkan Pasal 33 di dalam Undang-Undang Dasar 1945, Pak Harto adalah sosok Pemimpin
+  Negara Kesatuan Republik Indonesia yang secara konsisten membangun...
+date: '2013-02-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: komitmen-pak-harto-terhadap-koperasi
+aliases:
+- Komitmen Pak Harto Terhadap Koperasi – HM Soeharto
+tags:
+- bulog
+- bumn
+- ekonomi
+- kekuatan
+- koperasi
+- nasional
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/komitmen-pak-harto-terhadap-koperasi/
+  judul: Komitmen Pak Harto Terhadap Koperasi
+  tanggal: '2013-02-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/komitmen-pak-harto-terhadap-koperasi/
 ---
+
 
 ![Presiden Soeharto](https://soehartolibrary.id/wp-content/uploads/2013/01/soeharto-b331.jpg)
 

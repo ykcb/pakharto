@@ -1,9 +1,44 @@
 ---
-title: "1976-10-10 Presiden Soeharto Ajak PM Fraser Kunjungi Proyek Penelitian Peternakan Ciawi dan Tapos – HM Soeharto"
-source: "https://soehartolibrary.id/1976-10-10-presiden-soeharto-ajak-pm-fraser-kunjungi-proyek-penelitian-peternakan-ciawi-dan-tapos/"
-date: "2014-06-13T18:49:30+07:00"
+title: 1976-10-10 Presiden Soeharto Ajak PM Fraser Kunjungi Proyek Penelitian Peternakan
+  Ciawi dan Tapos
+description: 19 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-10-10-presiden-soeharto-ajak-pm-fraser-kunjungi-proyek-penelitian-peternakan-ciawi-dan-tapos/respond)
+  99 Views...
+date: '1976-10-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-10-10-presiden-soeharto-ajak-pm-fraser-kunjungi-proyek-penelitian-peternakan-ciawi-dan-tapos
+aliases:
+- Presiden Soeharto Ajak PM Fraser Kunjungi Proyek Penelitian Peternakan Ciawi dan
+  Tapos
+- 1976-10-10 Presiden Soeharto Ajak PM Fraser Kunjungi Proyek Penelitian Peternakan
+  Ciawi dan Tapos – HM Soeharto
+tags:
+- ciawi
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- peternakan
+- pm-fraser
+- presiden-soeharto
+- tapos
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-10-10-presiden-soeharto-ajak-pm-fraser-kunjungi-proyek-penelitian-peternakan-ciawi-dan-tapos/
+  judul: 1976-10-10 Presiden Soeharto Ajak PM Fraser Kunjungi Proyek Penelitian Peternakan
+    Ciawi dan Tapos
+  tanggal: '1976-10-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-10-10-presiden-soeharto-ajak-pm-fraser-kunjungi-proyek-penelitian-peternakan-ciawi-dan-tapos/
 ---
+
 
 # 1976-10-10 Presiden Soeharto Ajak PM Fraser Kunjungi Proyek Penelitian Peternakan Ciawi dan Tapos
 

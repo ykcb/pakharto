@@ -1,9 +1,34 @@
 ---
-title: "1977-04-10 Presiden Soeharto: Tapos Untuk Hasilkan Pejantan Yang Baik – HM Soeharto"
-source: "https://soehartolibrary.id/1977-04-10-presiden-soeharto-tapos-untuk-hasilkan-pejantan-yang-baik/"
-date: "2014-03-22T02:56:01+07:00"
+title: '1977-04-10 Presiden Soeharto: Tapos Untuk Hasilkan Pejantan Yang Baik'
+description: MINGGU, 10 April 1977, kurang lebih 100 orang anggota Kontak Tani hari
+  ini mengadakan kunjungan ke usaha pertanian “Tri-S” di Tapos, dan usaha pertanian
+  campuran di Ciomas. Kinjungan mereka diterima langsung oleh Presiden Soeharto....
+date: '1977-04-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1977-04-10-presiden-soeharto-tapos-untuk-hasilkan-pejantan-yang-baik
+aliases:
+- 'Presiden Soeharto: Tapos Untuk Hasilkan Pejantan Yang Baik'
+- '1977-04-10 Presiden Soeharto: Tapos Untuk Hasilkan Pejantan Yang Baik – HM Soeharto'
+tags:
+- orde-baru
+- perpustakaan-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1977-04-10-presiden-soeharto-tapos-untuk-hasilkan-pejantan-yang-baik/
+  judul: '1977-04-10 Presiden Soeharto: Tapos Untuk Hasilkan Pejantan Yang Baik'
+  tanggal: '1977-04-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1977-04-10-presiden-soeharto-tapos-untuk-hasilkan-pejantan-yang-baik/
 ---
+
 
 # 1977-04-10 Presiden Soeharto: Tapos Untuk Hasilkan Pejantan Yang Baik
 

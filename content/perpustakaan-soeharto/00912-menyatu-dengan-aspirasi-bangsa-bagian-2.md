@@ -1,9 +1,38 @@
 ---
-title: "BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 2) – HM Soeharto"
-source: "https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-2/"
-date: "2014-03-11T23:16:44+07:00"
+title: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 2)'
+description: Sementara Pak Harto berkembang didalam kariernya di bumi Indonesia, saya
+  di Jerman Barat pun bertambah pengalaman, sesuai dengan ritme perkembangan semangat
+  pembangunan diantara pemuda pelajar di rantau, dan dengan mendapatkan inspirasi...
+date: '2014-03-11'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: menyatu-dengan-aspirasi-bangsa-bagian-2
+aliases:
+- 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 2) – HM Soeharto'
+tags:
+- bj-habibie
+- jerman-barat
+- nasution
+- orde-baru
+- perpustakaan-soeharto
+- ppi
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-2/
+  judul: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 2)'
+  tanggal: '2014-03-11'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-2/
 ---
+
 
 # BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 2)
 

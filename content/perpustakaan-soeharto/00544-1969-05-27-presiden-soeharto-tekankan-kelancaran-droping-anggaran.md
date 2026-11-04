@@ -1,9 +1,39 @@
 ---
-title: "1969-05-27 Presiden Soeharto Tekankan Kelancaran Droping Anggaran – HM Soeharto"
-source: "https://soehartolibrary.id/1969-05-27-presiden-soeharto-tekankan-kelancaran-droping-anggaran/"
-date: "2017-08-28T16:46:29+07:00"
+title: 1969-05-27 Presiden Soeharto Tekankan Kelancaran Droping Anggaran
+description: SELASA, 27 MEI 1969, Presiden Soeharto jam 10.00 pagi ini memimpin sidang
+  Sub-Dewan Stabilisasi Ekonomi di Istana Merdeka. Pada kesempatan itu Presiden menekankan
+  perlunya kelancaran dropping anggaran pembangunan, khususnya bagi...
+date: '1969-05-27'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-05-27-presiden-soeharto-tekankan-kelancaran-droping-anggaran
+aliases:
+- Presiden Soeharto Tekankan Kelancaran Droping Anggaran
+- 1969-05-27 Presiden Soeharto Tekankan Kelancaran Droping Anggaran – HM Soeharto
+tags:
+- anggaran
+- daerah
+- droping
+- orde-baru
+- pembangunan
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-05-27-presiden-soeharto-tekankan-kelancaran-droping-anggaran/
+  judul: 1969-05-27 Presiden Soeharto Tekankan Kelancaran Droping Anggaran
+  tanggal: '1969-05-27'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-05-27-presiden-soeharto-tekankan-kelancaran-droping-anggaran/
 ---
+
 
 # 1969-05-27 Presiden Soeharto Tekankan Kelancaran Droping Anggaran
 

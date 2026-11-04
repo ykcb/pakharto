@@ -1,9 +1,50 @@
 ---
-title: "1969-03-07 Produktivitas Nasional dan Kebijakan Urusan Haji – HM Soeharto"
-source: "https://soehartolibrary.id/1969-03-07-produktivitas-nasional-dan-kebijakan-urusan-haji/"
-date: "2017-08-29T17:17:26+07:00"
+title: 1969-03-07 Produktivitas Nasional dan Kebijakan Urusan Haji
+description: JUM’AT, 07 MARET 1969, Presiden Soeharto mengatakan bahwa masalah pembangunan
+  tidak terlepas dari sikap mental dan pola berfikir, dan bahwa peningkatan produktivitas
+  harus tercermin dalam peningkatan pendapatan nasional dan taraf hidup...
+date: '1969-03-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-03-07-produktivitas-nasional-dan-kebijakan-urusan-haji
+aliases:
+- Produktivitas Nasional dan Kebijakan Urusan Haji
+- 1969-03-07 Produktivitas Nasional dan Kebijakan Urusan Haji – HM Soeharto
+tags:
+- badan
+- departemen
+- haji
+- kerja
+- musyawarah
+- nasional
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- pimpinan
+- presiden
+- produktivitas
+- pusat
+- rakyat
+- soeharto
+- taraf-hidup
+- tenaga
+- urusan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-03-07-produktivitas-nasional-dan-kebijakan-urusan-haji/
+  judul: 1969-03-07 Produktivitas Nasional dan Kebijakan Urusan Haji
+  tanggal: '1969-03-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-03-07-produktivitas-nasional-dan-kebijakan-urusan-haji/
 ---
+
 
 # 1969-03-07 Produktivitas Nasional dan Kebijakan Urusan Haji
 

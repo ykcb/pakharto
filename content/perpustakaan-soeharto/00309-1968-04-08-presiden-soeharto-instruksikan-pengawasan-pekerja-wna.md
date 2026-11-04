@@ -1,9 +1,38 @@
 ---
-title: "1968-04-08 Presiden Soeharto Instruksikan Pengawasan Pekerja WNA – HM Soeharto"
-source: "https://soehartolibrary.id/1968-04-08-presiden-soeharto-instruksikan-pengawasan-pekerja-wna/"
-date: "2017-08-29T17:36:50+07:00"
+title: 1968-04-08 Presiden Soeharto Instruksikan Pengawasan Pekerja WNA
+description: KAMIS, 8 APRIL 1968, Presiden Soeharto telah menginstruksikan Menteri
+  Tenaga Kerja untuk mengawasi WNA yang melakukan pekerjaan bebas di Indonesia. Menteri
+  Tenaga Kerja juga diinstruksikan untuk melaksanakan pasal 3 dari Instruksi...
+date: '1968-04-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-04-08-presiden-soeharto-instruksikan-pengawasan-pekerja-wna
+aliases:
+- Presiden Soeharto Instruksikan Pengawasan Pekerja WNA
+- 1968-04-08 Presiden Soeharto Instruksikan Pengawasan Pekerja WNA – HM Soeharto
+tags:
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden-soeharto
+- soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-04-08-presiden-soeharto-instruksikan-pengawasan-pekerja-wna/
+  judul: 1968-04-08 Presiden Soeharto Instruksikan Pengawasan Pekerja WNA
+  tanggal: '1968-04-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-04-08-presiden-soeharto-instruksikan-pengawasan-pekerja-wna/
 ---
+
 
 # 1968-04-08 Presiden Soeharto Instruksikan Pengawasan Pekerja WNA
 

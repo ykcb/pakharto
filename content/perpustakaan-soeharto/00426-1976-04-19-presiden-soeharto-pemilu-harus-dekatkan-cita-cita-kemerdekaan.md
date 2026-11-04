@@ -1,9 +1,43 @@
 ---
-title: "1976-04-19 Presiden Soeharto: Pemilu Harus Dekatkan Cita-Cita Kemerdekaan – HM Soeharto"
-source: "https://soehartolibrary.id/1976-04-19-presiden-soeharto-pemilu-harus-dekatkan-cita-cita-kemerdekaan/"
-date: "2017-08-28T16:48:37+07:00"
+title: '1976-04-19 Presiden Soeharto: Pemilu Harus Dekatkan Cita-Cita Kemerdekaan'
+description: SENIN, 19 April 1976, Presiden Soeharto mengatakan bahwa pemilihan umum
+  yang akan datang harus kita hubungkan dengan usaha kita untuk makin mendekati cita-cita
+  kemerdekaan, yaitu mewujudkan masyarakat yang maju, sejahtera, dan...
+date: '1976-04-19'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-04-19-presiden-soeharto-pemilu-harus-dekatkan-cita-cita-kemerdekaan
+aliases:
+- 'Presiden Soeharto: Pemilu Harus Dekatkan Cita-Cita Kemerdekaan'
+- '1976-04-19 Presiden Soeharto: Pemilu Harus Dekatkan Cita-Cita Kemerdekaan – HM
+  Soeharto'
+tags:
+- cipayung
+- kemerdekaan
+- orde-baru
+- pancasila
+- pepabri
+- perpustakaan-soeharto
+- presiden-soeharto
+- tjokropranolo
+- uud-1945
+- wakil-rakyat
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-04-19-presiden-soeharto-pemilu-harus-dekatkan-cita-cita-kemerdekaan/
+  judul: '1976-04-19 Presiden Soeharto: Pemilu Harus Dekatkan Cita-Cita Kemerdekaan'
+  tanggal: '1976-04-19'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-04-19-presiden-soeharto-pemilu-harus-dekatkan-cita-cita-kemerdekaan/
 ---
+
 
 # 1976-04-19 Presiden Soeharto: Pemilu Harus Dekatkan Cita-Cita Kemerdekaan
 

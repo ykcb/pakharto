@@ -1,9 +1,38 @@
 ---
-title: "1968-09-18 Presiden Soeharto: Pemerintah Tidak Pengaruhi Proses Hukum – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-18-presiden-soeharto-pemerintah-tidak-pengaruhi-proses-hukum/"
-date: "2014-04-01T02:14:47+07:00"
+title: '1968-09-18 Presiden Soeharto: Pemerintah Tidak Pengaruhi Proses Hukum'
+description: 2 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-18-presiden-soeharto-pemerintah-tidak-pengaruhi-proses-hukum/respond)
+  90 Views Share on
+date: '1968-09-18'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-18-presiden-soeharto-pemerintah-tidak-pengaruhi-proses-hukum
+aliases:
+- 'Presiden Soeharto: Pemerintah Tidak Pengaruhi Proses Hukum'
+- '1968-09-18 Presiden Soeharto: Pemerintah Tidak Pengaruhi Proses Hukum – HM Soeharto'
+tags:
+- hakim
+- hukum
+- ikahi
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-18-presiden-soeharto-pemerintah-tidak-pengaruhi-proses-hukum/
+  judul: '1968-09-18 Presiden Soeharto: Pemerintah Tidak Pengaruhi Proses Hukum'
+  tanggal: '1968-09-18'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-18-presiden-soeharto-pemerintah-tidak-pengaruhi-proses-hukum/
 ---
+
 
 # 1968-09-18 Presiden Soeharto: Pemerintah Tidak Pengaruhi Proses Hukum
 

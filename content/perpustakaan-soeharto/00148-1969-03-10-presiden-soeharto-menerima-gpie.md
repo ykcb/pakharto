@@ -1,9 +1,39 @@
 ---
-title: "1969-03-10 Presiden Soeharto Menerima GPIE – HM Soeharto"
-source: "https://soehartolibrary.id/1969-03-10-presiden-soeharto-menerima-gpie/"
-date: "2017-08-29T17:22:37+07:00"
+title: 1969-03-10 Presiden Soeharto Menerima GPIE
+description: SENIN, 10 MARET 1969, Pukul 10.00 pagi bertempat di Istana Merdeka, Presiden
+  Soeharto menerima pimpinan GPIE. Mereka datang untuk melaporkan hasil-hasil konferensi
+  GPIE yang ke-5, disamping menyampaikan kebulatan tekad seluruh eksportir...
+date: '1969-03-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-03-10-presiden-soeharto-menerima-gpie
+aliases:
+- Presiden Soeharto Menerima GPIE
+- 1969-03-10 Presiden Soeharto Menerima GPIE – HM Soeharto
+tags:
+- ekspor
+- gpie
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-03-10-presiden-soeharto-menerima-gpie/
+  judul: 1969-03-10 Presiden Soeharto Menerima GPIE
+  tanggal: '1969-03-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-03-10-presiden-soeharto-menerima-gpie/
 ---
+
 
 # 1969-03-10 Presiden Soeharto Menerima GPIE
 

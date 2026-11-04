@@ -1,9 +1,40 @@
 ---
-title: "1970-03-20 Pembicaraan Resmi Presiden Soeharto-PM Thanom Kittikachorn – HM Soeharto"
-source: "https://soehartolibrary.id/1970-03-20-pembicaraan-resmi-presiden-soeharto-pm-thanom-kittikachorn/"
-date: "2017-08-28T17:14:52+07:00"
+title: 1970-03-20 Pembicaraan Resmi Presiden Soeharto-PM Thanom Kittikachorn
+description: JUM’AT, 20 Maret 1970, Presiden Soeharto mengadakan pembicaraan resmi
+  dengan PM Thanom Kittikachorn. Kedua pemimpin membahas situasi keamanan di Asia
+  Tenggara, dan menegaskan kembali keinginan untuk mengadakan kerjasama regional yang...
+date: '1970-03-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-03-20-pembicaraan-resmi-presiden-soeharto-pm-thanom-kittikachorn
+aliases:
+- Pembicaraan Resmi Presiden Soeharto-PM Thanom Kittikachorn
+- 1970-03-20 Pembicaraan Resmi Presiden Soeharto-PM Thanom Kittikachorn – HM Soeharto
+tags:
+- asia
+- dagang
+- ekspor
+- hubungan
+- orde-baru
+- perpustakaan-soeharto
+- pm-thanom-kittikachorn
+- tenggara
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-03-20-pembicaraan-resmi-presiden-soeharto-pm-thanom-kittikachorn/
+  judul: 1970-03-20 Pembicaraan Resmi Presiden Soeharto-PM Thanom Kittikachorn
+  tanggal: '1970-03-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-03-20-pembicaraan-resmi-presiden-soeharto-pm-thanom-kittikachorn/
 ---
+
 
 # 1970-03-20 Pembicaraan Resmi Presiden Soeharto-PM Thanom Kittikachorn
 

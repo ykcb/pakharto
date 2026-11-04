@@ -1,9 +1,44 @@
 ---
-title: "1970-01-20 Mentamben Di Datangi Aksi “Mahasiswa Menggugat”, Presiden Soeharto: Berikan Penjelasan Kebijakan Yang Ditempuh – HM Soeharto"
-source: "https://soehartolibrary.id/1970-01-20-mentamben-di-datangi-aksi-mahasiswa-menggugat-presiden-soeharto-berikan-penjelasan-kebijakan-yang-ditempuh/"
-date: "2017-08-28T17:12:06+07:00"
+title: '1970-01-20 Mentamben Di Datangi Aksi “Mahasiswa Menggugat”, Presiden Soeharto:
+  Berikan Penjelasan Kebijakan Yang Ditempuh'
+description: 'Mentamben Di Datangi Aksi “Mahasiswa Menggugat”, Presiden Soeharto:
+  Berikan Penjelasan Kebijakan Yang Ditempuh[](ftn1)'
+date: '1970-01-20'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-01-20-mentamben-di-datangi-aksi-mahasiswa-menggugat-presiden-soeharto-berikan-penjelasan-kebijakan-yang-ditempuh
+aliases:
+- 'Mentamben Di Datangi Aksi “Mahasiswa Menggugat”, Presiden Soeharto: Berikan Penjelasan
+  Kebijakan Yang Ditempuh'
+- '1970-01-20 Mentamben Di Datangi Aksi “Mahasiswa Menggugat”, Presiden Soeharto:
+  Berikan Penjelasan Kebijakan Yang Ditempuh – HM Soeharto'
+tags:
+- bimas
+- kabinet
+- kapas
+- kebijakan
+- orde-baru
+- penjelasan
+- perpustakaan-soeharto
+- sidang
+- terbatas
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-01-20-mentamben-di-datangi-aksi-mahasiswa-menggugat-presiden-soeharto-berikan-penjelasan-kebijakan-yang-ditempuh/
+  judul: '1970-01-20 Mentamben Di Datangi Aksi “Mahasiswa Menggugat”, Presiden Soeharto:
+    Berikan Penjelasan Kebijakan Yang Ditempuh'
+  tanggal: '1970-01-20'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-01-20-mentamben-di-datangi-aksi-mahasiswa-menggugat-presiden-soeharto-berikan-penjelasan-kebijakan-yang-ditempuh/
 ---
+
 
 # 1970-01-20 Mentamben Di Datangi Aksi “Mahasiswa Menggugat”, Presiden Soeharto: Berikan Penjelasan Kebijakan Yang Ditempuh
 

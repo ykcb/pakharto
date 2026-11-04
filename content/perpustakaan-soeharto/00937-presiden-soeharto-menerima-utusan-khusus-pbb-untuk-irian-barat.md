@@ -1,9 +1,38 @@
 ---
-title: "Presiden Soeharto Menerima Utusan Khusus PBB Untuk Irian Barat – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-menerima-utusan-khusus-pbb-untuk-irian-barat/"
-date: "2017-08-24T15:19:30+07:00"
+title: Presiden Soeharto Menerima Utusan Khusus PBB Untuk Irian Barat
+description: SELASA, 12 AGUSTUS 1969, Utusan khusus Sekretaris Jenderal PBB untuk
+  Irian Barat, Duta Besar Fernandez Ortiz Sanz dari Bolivia, pagi ini mengadakan kunjungan
+  kehormatan kepada Presiden Soeharto di Istana Merdeka. Ortiz Sanz sebelumnya...
+date: '2017-08-24'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-menerima-utusan-khusus-pbb-untuk-irian-barat
+aliases:
+- Presiden Soeharto Menerima Utusan Khusus PBB Untuk Irian Barat – HM Soeharto
+tags:
+- bolivia
+- duta-besar
+- fernandez-ortiz-sanz
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- utusan-khusus-pbb
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-menerima-utusan-khusus-pbb-untuk-irian-barat/
+  judul: Presiden Soeharto Menerima Utusan Khusus PBB Untuk Irian Barat
+  tanggal: '2017-08-24'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-menerima-utusan-khusus-pbb-untuk-irian-barat/
 ---
+
 
 # Presiden Soeharto Menerima Utusan Khusus PBB Untuk Irian Barat
 

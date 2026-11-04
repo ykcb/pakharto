@@ -1,9 +1,38 @@
 ---
-title: "1969-04-3 Presiden Soeharto Menerima Panitia Kongres ISEI – HM Soeharto"
-source: "https://soehartolibrary.id/1969-04-3-presiden-soeharto-menerima-panitia-kongres-isei/"
-date: "2014-03-22T02:58:39+07:00"
+title: 1969-04-3 Presiden Soeharto Menerima Panitia Kongres ISEI
+description: KAMIS, 3 APRIL 1969, Presiden Soeharto mengharapkan agar Kongres ISEI
+  tidak lagi membahas Pelita, akan tetapi memusatkan diri pada pengamanan dan pengawasan
+  program-program operasional Pelita. Walaupun demikian, Presiden menegaskan...
+date: '2014-03-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-04-3-presiden-soeharto-menerima-panitia-kongres-isei
+aliases:
+- 1969-04-3 Presiden Soeharto Menerima Panitia Kongres ISEI – HM Soeharto
+tags:
+- isei
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- pelita
+- perpustakaan-soeharto
+- presiden-soehart
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-04-3-presiden-soeharto-menerima-panitia-kongres-isei/
+  judul: 1969-04-3 Presiden Soeharto Menerima Panitia Kongres ISEI
+  tanggal: '2014-03-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-04-3-presiden-soeharto-menerima-panitia-kongres-isei/
 ---
+
 
 # 1969-04-3 Presiden Soeharto Menerima Panitia Kongres ISEI
 

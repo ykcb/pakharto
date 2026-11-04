@@ -1,9 +1,39 @@
 ---
-title: "1968-10-21 Presiden Soeharto Rapat Umum di Lapangan Merdeka Banjarmasin – HM Soeharto"
-source: "https://soehartolibrary.id/1968-10-21-presiden-soeharto-rapat-umum-di-lapangan-merdeka-banjarmasin/"
-date: "2014-04-01T02:09:29+07:00"
+title: 1968-10-21 Presiden Soeharto Rapat Umum di Lapangan Merdeka Banjarmasin
+description: 3 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-10-21-presiden-soeharto-rapat-umum-di-lapangan-merdeka-banjarmasin/respond)
+  161 Views Share on
+date: '1968-10-21'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-10-21-presiden-soeharto-rapat-umum-di-lapangan-merdeka-banjarmasin
+aliases:
+- Presiden Soeharto Rapat Umum di Lapangan Merdeka Banjarmasin
+- 1968-10-21 Presiden Soeharto Rapat Umum di Lapangan Merdeka Banjarmasin – HM Soeharto
+tags:
+- banjarmasin
+- kalimantan-selatan
+- kepala-negara
+- lapangan-merdeka
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-10-21-presiden-soeharto-rapat-umum-di-lapangan-merdeka-banjarmasin/
+  judul: 1968-10-21 Presiden Soeharto Rapat Umum di Lapangan Merdeka Banjarmasin
+  tanggal: '1968-10-21'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-10-21-presiden-soeharto-rapat-umum-di-lapangan-merdeka-banjarmasin/
 ---
+
 
 # 1968-10-21 Presiden Soeharto Rapat Umum di Lapangan Merdeka Banjarmasin
 

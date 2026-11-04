@@ -1,9 +1,40 @@
 ---
-title: "1971-04-08 Presiden Soeharto: Indonesia Tetap Gelar Pemilu – HM Soeharto"
-source: "https://soehartolibrary.id/1971-04-08-presiden-soeharto-indonesia-tetap-gelar-pemilu/"
-date: "2014-03-22T02:58:28+07:00"
+title: '1971-04-08 Presiden Soeharto: Indonesia Tetap Gelar Pemilu'
+description: KAMIS, 8 April 1971, Di istana Merdeka jam 09.00 pagi ini Presiden Soeharto
+  menerima Menteri Urusan Kerjasama Ekonomi Jerman Barat, Dr. Erhadr Eppler. Pada
+  pertemuan ini Dr. Eppler sempat memberi komentar tentang akan diadakannya...
+date: '1971-04-08'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-04-08-presiden-soeharto-indonesia-tetap-gelar-pemilu
+aliases:
+- 'Presiden Soeharto: Indonesia Tetap Gelar Pemilu'
+- '1971-04-08 Presiden Soeharto: Indonesia Tetap Gelar Pemilu – HM Soeharto'
+tags:
+- erhadr-eppler
+- jerman-barat
+- kampanye
+- menteri
+- orde-baru
+- pemilu
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-04-08-presiden-soeharto-indonesia-tetap-gelar-pemilu/
+  judul: '1971-04-08 Presiden Soeharto: Indonesia Tetap Gelar Pemilu'
+  tanggal: '1971-04-08'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-04-08-presiden-soeharto-indonesia-tetap-gelar-pemilu/
 ---
+
 
 # 1971-04-08 Presiden Soeharto: Indonesia Tetap Gelar Pemilu
 

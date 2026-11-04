@@ -1,9 +1,38 @@
 ---
-title: "Presiden Soeharto Menyerahkan Mobil Ambulan – HM Soeharto"
-source: "https://soehartolibrary.id/presiden-soeharto-menyerahkan-mobil-ambulan/"
-date: "2013-04-10T21:03:08+07:00"
+title: Presiden Soeharto Menyerahkan Mobil Ambulan
+description: 'Strategi Presiden Soeharto dalam membangun kembali Indonesia dikenal
+  dengan Trilogi Pembangunan. Yaitu: 1. Stabilitas Nasional, 2. Pembangunan di Segala
+  Bidang, dan 3. Pemerataan Pembangunan. Tak terkecuali dalam pembangunan sektor...'
+date: '2013-04-10'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: presiden-soeharto-menyerahkan-mobil-ambulan
+aliases:
+- Presiden Soeharto Menyerahkan Mobil Ambulan – HM Soeharto
+tags:
+- ambulan
+- kesehatan
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- puskesmas
+- trilogi-pembangunan
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/presiden-soeharto-menyerahkan-mobil-ambulan/
+  judul: Presiden Soeharto Menyerahkan Mobil Ambulan
+  tanggal: '2013-04-10'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-menyerahkan-mobil-ambulan/
 ---
+
 
 # Presiden Soeharto Menyerahkan Mobil Ambulan
 

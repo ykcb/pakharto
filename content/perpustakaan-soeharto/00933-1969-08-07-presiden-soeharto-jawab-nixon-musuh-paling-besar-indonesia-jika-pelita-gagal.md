@@ -1,9 +1,42 @@
 ---
-title: "1969-08-07 Presiden Soeharto Jawab Nixon: Musuh Paling Besar Indonesia Jika Pelita Gagal – HM Soeharto"
-source: "https://soehartolibrary.id/1969-08-07-presiden-soeharto-jawab-nixon-musuh-paling-besar-indonesia-jika-pelita-gagal/"
-date: "2017-08-24T15:20:49+07:00"
+title: '1969-08-07 Presiden Soeharto Jawab Nixon: Musuh Paling Besar Indonesia Jika
+  Pelita Gagal'
+description: KAMIS, 07 AGUSTUS 1969,Presiden Soeharto pagi ini mengadakan inspeksi
+  ke Departemen Perdagangan, Bulog, Entreport Umum dan lembaga penelitian Bulog di
+  Tambun (Bekasi). Pada kesempatan ini Presiden telah mengungkapkan pembicaraannya...
+date: '1969-08-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-08-07-presiden-soeharto-jawab-nixon-musuh-paling-besar-indonesia-jika-pelita-gagal
+aliases:
+- 'Presiden Soeharto Jawab Nixon: Musuh Paling Besar Indonesia Jika Pelita Gagal'
+- '1969-08-07 Presiden Soeharto Jawab Nixon: Musuh Paling Besar Indonesia Jika Pelita
+  Gagal – HM Soeharto'
+tags:
+- indonesia
+- musuh
+- nixon
+- orde-baru
+- pelita
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-08-07-presiden-soeharto-jawab-nixon-musuh-paling-besar-indonesia-jika-pelita-gagal/
+  judul: '1969-08-07 Presiden Soeharto Jawab Nixon: Musuh Paling Besar Indonesia Jika
+    Pelita Gagal'
+  tanggal: '1969-08-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-08-07-presiden-soeharto-jawab-nixon-musuh-paling-besar-indonesia-jika-pelita-gagal/
 ---
+
 
 # 1969-08-07 Presiden Soeharto Jawab Nixon: Musuh Paling Besar Indonesia Jika Pelita Gagal
 

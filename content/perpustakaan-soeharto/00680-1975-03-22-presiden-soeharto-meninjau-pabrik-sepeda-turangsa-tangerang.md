@@ -1,9 +1,38 @@
 ---
-title: "1975-03-22 Presiden Soeharto Meninjau Pabrik Sepeda Turangsa Tangerang  – HM Soeharto"
-source: "https://soehartolibrary.id/1975-03-22-presiden-soeharto-meninjau-pabrik-sepeda-turangsa-tangerang/"
-date: "2013-06-14T23:04:57+07:00"
+title: 1975-03-22 Presiden Soeharto Meninjau Pabrik Sepeda Turangsa Tangerang
+description: Presiden Soeharto berusaha menggerakkan semua potensi untuk membangun
+  perekonomian Indonesia, tidak hanya sektor pertanian dan industri strategis, akan
+  tetapi juga industri-industri kecil. Selain pertanian yang kuat, industri dalam...
+date: '1975-03-22'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1975-03-22-presiden-soeharto-meninjau-pabrik-sepeda-turangsa-tangerang
+aliases:
+- Presiden Soeharto Meninjau Pabrik Sepeda Turangsa Tangerang
+- 1975-03-22 Presiden Soeharto Meninjau Pabrik Sepeda Turangsa Tangerang  – HM Soeharto
+tags:
+- orde-baru
+- pabrik-sepeda
+- perpustakaan-soeharto
+- presiden-soeharto
+- tangerang
+- turangsa
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1975-03-22-presiden-soeharto-meninjau-pabrik-sepeda-turangsa-tangerang/
+  judul: 1975-03-22 Presiden Soeharto Meninjau Pabrik Sepeda Turangsa Tangerang
+  tanggal: '1975-03-22'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1975-03-22-presiden-soeharto-meninjau-pabrik-sepeda-turangsa-tangerang/
 ---
+
 
 # 1975-03-22 Presiden Soeharto Meninjau Pabrik Sepeda Turangsa Tangerang
 

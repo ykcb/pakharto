@@ -1,9 +1,38 @@
 ---
-title: "1971-09-17 Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama – HM Soeharto"
-source: "https://soehartolibrary.id/1971-09-17-presiden-soeharto-ajak-bangsa-indonesia-pegang-jiwa-agama/"
-date: "2017-08-23T11:11:36+07:00"
+title: 1971-09-17 Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama
+description: 12 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1971-09-17-presiden-soeharto-ajak-bangsa-indonesia-pegang-jiwa-agama/respond)
+  103 Views Share on
+date: '1971-09-17'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-09-17-presiden-soeharto-ajak-bangsa-indonesia-pegang-jiwa-agama
+aliases:
+- Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama
+- 1971-09-17 Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama – HM Soeharto
+tags:
+- isra-miraj
+- jiwa-agama
+- orde-baru
+- pancasila
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-09-17-presiden-soeharto-ajak-bangsa-indonesia-pegang-jiwa-agama/
+  judul: 1971-09-17 Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama
+  tanggal: '1971-09-17'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-09-17-presiden-soeharto-ajak-bangsa-indonesia-pegang-jiwa-agama/
 ---
+
 
 # 1971-09-17 Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama
 

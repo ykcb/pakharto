@@ -1,9 +1,39 @@
 ---
-title: "1968-10-09 Hadapi Lebaran, Pemerintah Putuskan Impor Terigu – HM Soeharto"
-source: "https://soehartolibrary.id/1968-10-09-hadapi-lebaran-pemerintah-putuskan-impor-terigu/"
-date: "2014-04-01T02:12:18+07:00"
+title: 1968-10-09 Hadapi Lebaran, Pemerintah Putuskan Impor Terigu
+description: 1 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-10-09-hadapi-lebaran-pemerintah-putuskan-impor-terigu/respond)
+  83 Views Share on
+date: '1968-10-09'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-10-09-hadapi-lebaran-pemerintah-putuskan-impor-terigu
+aliases:
+- Hadapi Lebaran, Pemerintah Putuskan Impor Terigu
+- 1968-10-09 Hadapi Lebaran, Pemerintah Putuskan Impor Terigu – HM Soeharto
+tags:
+- as
+- impor-terigu
+- kepala-negara
+- lebaran
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-10-09-hadapi-lebaran-pemerintah-putuskan-impor-terigu/
+  judul: 1968-10-09 Hadapi Lebaran, Pemerintah Putuskan Impor Terigu
+  tanggal: '1968-10-09'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-10-09-hadapi-lebaran-pemerintah-putuskan-impor-terigu/
 ---
+
 
 # 1968-10-09 Hadapi Lebaran, Pemerintah Putuskan Impor Terigu
 

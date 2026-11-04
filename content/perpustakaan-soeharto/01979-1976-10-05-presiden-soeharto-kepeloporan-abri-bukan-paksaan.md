@@ -1,9 +1,38 @@
 ---
-title: "1976-10-05 Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan – HM Soeharto"
-source: "https://soehartolibrary.id/1976-10-05-presiden-soeharto-kepeloporan-abri-bukan-paksaan/"
-date: "2014-06-13T18:50:25+07:00"
+title: '1976-10-05 Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan'
+description: 18 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1976-10-05-presiden-soeharto-kepeloporan-abri-bukan-paksaan/respond)
+  150 Views Share on
+date: '1976-10-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1976-10-05-presiden-soeharto-kepeloporan-abri-bukan-paksaan
+aliases:
+- 'Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan'
+- '1976-10-05 Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan – HM Soeharto'
+tags:
+- abri
+- kepala-negara
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
+- senayan
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1976-10-05-presiden-soeharto-kepeloporan-abri-bukan-paksaan/
+  judul: '1976-10-05 Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan'
+  tanggal: '1976-10-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1976-10-05-presiden-soeharto-kepeloporan-abri-bukan-paksaan/
 ---
+
 
 # 1976-10-05 Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan
 

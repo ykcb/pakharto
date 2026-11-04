@@ -1,9 +1,46 @@
 ---
-title: "1968-08-31    Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh dan Temui Mahasiswa – HM Soeharto"
-source: "https://soehartolibrary.id/1968-08-31-presiden-soeharto-tinjau-pelabuhan-olele-proyek-peternakan-sibreh-dan-temui-mahasiswa/"
-date: "2014-04-01T02:17:53+07:00"
+title: 1968-08-31    Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh
+  dan Temui Mahasiswa
+description: SABTU, 31 AGUSTUS 1968, Hari ini adalah hari kedua dan terakhir dari
+  kunjungan kerja Presiden Soeharto di Provinsi Aceh. Pada kesempatan ini, Presiden
+  Soeharto telah meninjau Pelabuhan Olele, Banda Aceh. Pelabuhan alam ini tampaknya...
+date: '1968-08-31'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-08-31-presiden-soeharto-tinjau-pelabuhan-olele-proyek-peternakan-sibreh-dan-temui-mahasiswa
+aliases:
+- Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh dan Temui Mahasiswa
+- 1968-08-31    Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh
+  dan Temui Mahasiswa – HM Soeharto
+tags:
+- banda-aceh
+- g-30-spki
+- mahasiswa
+- orde-baru
+- pelabuhan-olele
+- perpustakaan-soeharto
+- peternakan
+- presiden-soeharto
+- sibrek
+- syah-kuala
+- ternak
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-08-31-presiden-soeharto-tinjau-pelabuhan-olele-proyek-peternakan-sibreh-dan-temui-mahasiswa/
+  judul: 1968-08-31    Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan
+    Sibreh dan Temui Mahasiswa
+  tanggal: '1968-08-31'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-08-31-presiden-soeharto-tinjau-pelabuhan-olele-proyek-peternakan-sibreh-dan-temui-mahasiswa/
 ---
+
 
 # 1968-08-31 Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh dan Temui Mahasiswa
 

@@ -1,9 +1,59 @@
 ---
-title: "1969-08-04 Presiden Soeharto Buka Pekan Pembinaan Pelaksanaan Pembangunan Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional/"
-date: "2017-08-23T11:37:36+07:00"
+title: 1969-08-04 Presiden Soeharto Buka Pekan Pembinaan Pelaksanaan Pembangunan Nasional
+description: SENIN, 04 AGUSTUS 1969, Presiden Soeharto membuka Pekan Pembinaan Pelaksanaan
+  Pembangunan Nasional di gedung Bappenas. Dalam amanatnya Presiden sekali lagi memperingatkan
+  agar tata kerja seperti pada masa sebelum tahun 1966 tidak boleh...
+date: '1969-08-04'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional
+aliases:
+- Presiden Soeharto Buka Pekan Pembinaan Pelaksanaan Pembangunan Nasional
+- 1969-08-04 Presiden Soeharto Buka Pekan Pembinaan Pelaksanaan Pembangunan Nasional
+  – HM Soeharto
+tags:
+- adil
+- bappenas
+- djamaludin-malik
+- drs-syamsu-alamsyah
+- hm-subchan-ze
+- imron-rosjadi-sh
+- iskandar-sarumala
+- kh-idham-chalid
+- kh-masjkur
+- kongres-ummat-islam
+- makmur
+- moh-ali-hanafiah
+- nu
+- nurhasan-ibnu-hajar
+- orde-baru
+- pancasila
+- pekan
+- pembangunan-nasional
+- pembinaan
+- pepera
+- perpustakaan-soeharto
+- perti
+- presiden-soeharto
+- tengku-muhammad-saleh
+- yudo-paripurno-sh
 kategori: pembangunan-dan-kehidupan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional/
+  judul: 1969-08-04 Presiden Soeharto Buka Pekan Pembinaan Pelaksanaan Pembangunan
+    Nasional
+  tanggal: '1969-08-04'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional/
 ---
+
 
 # 1969-08-04 Presiden Soeharto Buka Pekan Pembinaan Pelaksanaan Pembangunan Nasional
 

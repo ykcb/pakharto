@@ -1,9 +1,38 @@
 ---
-title: "1970-07-07 Presiden Soeharto Menetapkan Daftar Ulang PNS – HM Soeharto"
-source: "https://soehartolibrary.id/1970-07-07-presiden-soeharto-menetapkan-daftar-ulang-pns/"
-date: "2017-08-25T15:28:40+07:00"
+title: 1970-07-07 Presiden Soeharto Menetapkan Daftar Ulang PNS
+description: SABTU, 7 Juli 1970. Dengan Surat Keputusan Presiden No. 27/1973 yang
+  dikeluarkan hari ini, Presiden menetapkan adanya pendaftaran ulang pegawai negeri
+  sipil. Pendaftaran ulang yang diadakan mulai tahun anggaran 1973/1974 dan dilanjutkan...
+date: '1970-07-07'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-07-07-presiden-soeharto-menetapkan-daftar-ulang-pns
+aliases:
+- Presiden Soeharto Menetapkan Daftar Ulang PNS
+- 1970-07-07 Presiden Soeharto Menetapkan Daftar Ulang PNS – HM Soeharto
+tags:
+- jenderal-soeharto
+- orde-baru
+- pak-harto
+- perpustakaan-soeharto
+- pns
+- presiden-soeharto
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-07-07-presiden-soeharto-menetapkan-daftar-ulang-pns/
+  judul: 1970-07-07 Presiden Soeharto Menetapkan Daftar Ulang PNS
+  tanggal: '1970-07-07'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-07-07-presiden-soeharto-menetapkan-daftar-ulang-pns/
 ---
+
 
 # 1970-07-07 Presiden Soeharto Menetapkan Daftar Ulang PNS
 

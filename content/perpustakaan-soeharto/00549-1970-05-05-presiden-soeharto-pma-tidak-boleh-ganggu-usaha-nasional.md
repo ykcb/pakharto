@@ -1,9 +1,41 @@
 ---
-title: "1970-05-05 Presiden Soeharto: PMA Tidak Boleh Ganggu Usaha Nasional – HM Soeharto"
-source: "https://soehartolibrary.id/1970-05-05-presiden-soeharto-pma-tidak-boleh-ganggu-usaha-nasional/"
-date: "2014-03-22T02:53:40+07:00"
+title: '1970-05-05 Presiden Soeharto: PMA Tidak Boleh Ganggu Usaha Nasional'
+description: SELASA, 5 MEI 1970, Presiden Soeharto Soeharto memimpin sidang Sub-Dewan
+  Stabiliasi Ekonomi di Bina Graha, Jakarta. Presiden menginstruksikan Menteri Keuangan
+  Ali Wardhana untuk meneliti laporan pelaksanaan APBN tahun 1969/1970, karena...
+date: '1970-05-05'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1970-05-05-presiden-soeharto-pma-tidak-boleh-ganggu-usaha-nasional
+aliases:
+- 'Presiden Soeharto: PMA Tidak Boleh Ganggu Usaha Nasional'
+- '1970-05-05 Presiden Soeharto: PMA Tidak Boleh Ganggu Usaha Nasional – HM Soeharto'
+tags:
+- ali-wardhana
+- orde-baru
+- perpustakaan-soeharto
+- pma
+- pmdn
+- presiden-soeharto
+- prof-m-sadli
+- stabilisasi-ekonomi
+- usaha-nasional
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1970-05-05-presiden-soeharto-pma-tidak-boleh-ganggu-usaha-nasional/
+  judul: '1970-05-05 Presiden Soeharto: PMA Tidak Boleh Ganggu Usaha Nasional'
+  tanggal: '1970-05-05'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1970-05-05-presiden-soeharto-pma-tidak-boleh-ganggu-usaha-nasional/
 ---
+
 
 # 1970-05-05 Presiden Soeharto: PMA Tidak Boleh Ganggu Usaha Nasional
 

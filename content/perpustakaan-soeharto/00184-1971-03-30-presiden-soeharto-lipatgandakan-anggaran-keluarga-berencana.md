@@ -1,9 +1,43 @@
 ---
-title: "1971-03-30 Presiden Soeharto Lipatgandakan Anggaran Keluarga Berencana – HM Soeharto"
-source: "https://soehartolibrary.id/1971-03-30-presiden-soeharto-lipatgandakan-anggaran-keluarga-berencana/"
-date: "2017-08-29T11:29:43+07:00"
+title: 1971-03-30 Presiden Soeharto Lipatgandakan Anggaran Keluarga Berencana
+description: SELASA, 30 Maret 1971, Presiden Soeharto mengungkapkan bahwa anggaran
+  untuk keluarga berencana dalam APBN 1971/1972 dilipatgandakan tiga kali. Hal ini
+  sebab ia berpendapat bahwa keluarga berencana dan perencanaan penduduk merupakan...
+date: '1971-03-30'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1971-03-30-presiden-soeharto-lipatgandakan-anggaran-keluarga-berencana
+aliases:
+- Presiden Soeharto Lipatgandakan Anggaran Keluarga Berencana
+- 1971-03-30 Presiden Soeharto Lipatgandakan Anggaran Keluarga Berencana – HM Soeharto
+tags:
+- berencana
+- departemen
+- kekayaan
+- keluarga
+- keuangan
+- negara
+- orde-baru
+- pengelolaan
+- perpustakaan-soeharto
+- presiden
+- soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1971-03-30-presiden-soeharto-lipatgandakan-anggaran-keluarga-berencana/
+  judul: 1971-03-30 Presiden Soeharto Lipatgandakan Anggaran Keluarga Berencana
+  tanggal: '1971-03-30'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1971-03-30-presiden-soeharto-lipatgandakan-anggaran-keluarga-berencana/
 ---
+
 
 # 1971-03-30 Presiden Soeharto Lipatgandakan Anggaran Keluarga Berencana
 

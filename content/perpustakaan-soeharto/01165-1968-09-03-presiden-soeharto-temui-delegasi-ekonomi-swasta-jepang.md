@@ -1,9 +1,38 @@
 ---
-title: "1969-09-03 Presiden Soeharto Temui Delegasi Ekonomi Swasta Jepang – HM Soeharto"
-source: "https://soehartolibrary.id/1968-09-03-presiden-soeharto-temui-delegasi-ekonomi-swasta-jepang/"
-date: "2017-08-22T17:39:37+07:00"
+title: 1969-09-03 Presiden Soeharto Temui Delegasi Ekonomi Swasta Jepang
+description: 3 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
+  [No Comment](https://soehartolibrary.id/1968-09-03-presiden-soeharto-temui-delegasi-ekonomi-swasta-jepang/respond)
+  143 Views Share on
+date: '1968-09-03'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-09-03-presiden-soeharto-temui-delegasi-ekonomi-swasta-jepang
+aliases:
+- Presiden Soeharto Temui Delegasi Ekonomi Swasta Jepang
+- 1969-09-03 Presiden Soeharto Temui Delegasi Ekonomi Swasta Jepang – HM Soeharto
+tags:
+- delegasi-ekonomi-swasta
+- dr-narahashi
+- jepang
+- orde-baru
+- perpustakaan-soeharto
+- presiden-soeharto
 kategori: ekonomi-dan-kepemilikan
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-09-03-presiden-soeharto-temui-delegasi-ekonomi-swasta-jepang/
+  judul: 1969-09-03 Presiden Soeharto Temui Delegasi Ekonomi Swasta Jepang
+  tanggal: '1968-09-03'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-09-03-presiden-soeharto-temui-delegasi-ekonomi-swasta-jepang/
 ---
+
 
 # 1969-09-03 Presiden Soeharto Temui Delegasi Ekonomi Swasta Jepang
 

@@ -1,9 +1,39 @@
 ---
-title: "1968-05-01 Presiden Soeharto Selenggarakan Program Penghematan – HM Soeharto"
-source: "https://soehartolibrary.id/1968-05-01-presiden-soeharto-selenggarakan-program-penghematan/"
-date: "2014-03-22T02:53:54+07:00"
+title: 1968-05-01 Presiden Soeharto Selenggarakan Program Penghematan
+description: RABU, 1 Mei 1968, Presiden Soeharto pagi ini memimpin sidang kabinet
+  terbatas. Masalah yang dibicarakan antara lain adalah tentang pelaksanaan penghematan
+  disegala bidang secara drastis. Ini merupakan langkah lanjutan dari pemerintah,...
+date: '1968-05-01'
+updated: '2026-11-04'
+last_updated: '2026-11-04'
+entity_type: topik
+entity_id: 1968-05-01-presiden-soeharto-selenggarakan-program-penghematan
+aliases:
+- Presiden Soeharto Selenggarakan Program Penghematan
+- 1968-05-01 Presiden Soeharto Selenggarakan Program Penghematan – HM Soeharto
+tags:
+- orde-baru
+- penghematan
+- perjalanan
+- perpustakaan-soeharto
+- personalia
+- presiden-soeharto
+- sidang-kabinet-terbatas
 kategori: kekuasaan-dan-legitimasi
+kategori_tambahan: []
+risiko_editorial: rendah
+status: ''
+confidence: high
+sumber:
+- url: https://soehartolibrary.id/1968-05-01-presiden-soeharto-selenggarakan-program-penghematan/
+  judul: 1968-05-01 Presiden Soeharto Selenggarakan Program Penghematan
+  tanggal: '1968-05-01'
+relasi:
+- predikat: terkait_dengan
+  objek: Soeharto
+  sumber: https://soehartolibrary.id/1968-05-01-presiden-soeharto-selenggarakan-program-penghematan/
 ---
+
 
 # 1968-05-01 Presiden Soeharto Selenggarakan Program Penghematan
 
