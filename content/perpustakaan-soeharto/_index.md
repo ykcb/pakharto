@@ -1,6 +1,6 @@
 ---
 title: "Perpustakaan Soeharto"
-description: "1.000 artikel, pidato, dokumen, dan kliping pers dari soehartolibrary.id — fondasi sumber primer Wiki Soeharto, tersusun mengikuti halaman-halaman hub."
+description: "1.233 artikel, dokumen, dan kliping pers dari soehartolibrary.id — fondasi sumber primer Wiki Soeharto, tersusun mengikuti halaman-halaman hub."
 date: 2026-11-04
 updated: 2026-11-04
 last_updated: "2026-11-04"
@@ -9,7 +9,7 @@ tags: [perpustakaan, index, orde-baru]
 
 # Perpustakaan Soeharto
 
-**1.000 artikel, pidato, dokumen, dan kliping pers** dari soehartolibrary.id — fondasi sumber primer wiki ini. Di halaman-halaman hub, capaian disajikan sebagai data dan kritik sebagai atribusi; di sinilah datanya dapat diperiksa langsung: pidato kenegaraan Soeharto, dokumen kebijakan, berita sezaman, kesaksian, dan tulisan opini tentangnya.
+**1.233 artikel, dokumen, dan kliping pers** dari soehartolibrary.id — fondasi sumber primer wiki ini. Di halaman-halaman hub, capaian disajikan sebagai data dan kritik sebagai atribusi; di sinilah datanya dapat diperiksa langsung: dokumen kebijakan, berita sezaman, kesaksian, dan tulisan opini tentangnya.
 
 Koleksi ini disusun mengikuti **halaman-hub wiki** — esai-esai tematik yang merangkum satu pemikiran utuh tentang Orde Baru. Setiap hub dilengkapi sorotan arsip primer yang melengkapinya.
 
@@ -62,7 +62,7 @@ Akhir Orde Baru: krisis moneter, gerakan mahasiswa, kerusuhan Mei 1998, dan berh
 
 ## 📖 Tentang Koleksi Ini
 
-- Artikel-artikel ini dipublikasikan oleh soehartolibrary.id — arsip pidato, dokumen, dan kliping pers sezaman 1966–1998, ditambah kesaksian dan tulisan opini.
+- Artikel-artikel ini dipublikasikan oleh soehartolibrary.id — arsip dokumen dan kliping pers sezaman 1966–1998, ditambah kesaksian dan tulisan opini.
 - Judul berawalan tanggal (mis. *"1972-05-10 …"*) adalah arsip berita sezaman; judul tanpa tanggal umumnya tulisan, kesaksian, atau profil.
 - Setiap artikel mencantumkan sumber aslinya. Isi artikel adalah dokumen arsip apa adanya — bukan suara redaksi wiki ini.
 - Untuk menelusuri topik spesifik di seluruh koleksi, gunakan pencarian situs.
