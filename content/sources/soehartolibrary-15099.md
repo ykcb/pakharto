@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1990-07-kata-sambutan-presiden-soeharto-pada-konferensi-gerakan-kepramukaan-sedunia-ke-32"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1972-06-03-idato-jawaban-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-yang-mulia-kamel-ai-sharef-duta-besar-kerajaan-hashimiah-jordan"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

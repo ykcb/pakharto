@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1982-12-15-sambutan-presiden-soeharto-pada-pembukaan-rakernas-badan-musyawarah-nasional-kesejahteraan-sosial"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

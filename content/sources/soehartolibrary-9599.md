@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1978-05-05-keterangan-pemerintah-tentang-rapbn-tahun-19781979-pada-sidang-dpr"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

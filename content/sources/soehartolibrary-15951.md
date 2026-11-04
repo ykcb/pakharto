@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1992-01-13-sambutan-presiden-soeharto-pada-pembukaan-konvensi-nasional-dan-pencanangan-dimulainya-kampanye-keselamatan-dan-kesehatan-kerja-tahun-1992"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1995-04-17-pidato-balasan-presiden-soeharto-pada-jamuan-santap-malam-resmi-untuk-menghormat-putera-mahkotaperdana-menteri-negara-kuwait"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

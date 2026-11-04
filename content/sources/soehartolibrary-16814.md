@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1993-09-02-sambutan-presiden-soeharto-pada-dies-natalis-ke-30-ipb-dan-kongres-ke-8-himpunan-alumni-ipb"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

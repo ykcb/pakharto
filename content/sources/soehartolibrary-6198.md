@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1970-04-amanat-presiden-soeharto-pada-pelantikan-duta-besar-republik-indonesia-untuk-republik-soviet-sosialis-republik-polandia-dan-republik-rakyat-hongaria"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

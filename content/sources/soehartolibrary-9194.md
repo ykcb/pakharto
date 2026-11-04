@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1977-01-12-pidato-presiden-soeharto-pada-pembukaan-rapat-kerja-gubernur-istana-negara-kepala-daerah-tingkat-dan-bupatiwalikota-kepala-daerah-tingkat-ii-se-indonesia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

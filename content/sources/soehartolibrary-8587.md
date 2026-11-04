@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1975-06-21-amanat-presiden-soeharto-pada-pelantikan-duta-besar-ri-untuk-republik-sosialis-rumania-dan-kerajaan-muangthai"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

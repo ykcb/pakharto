@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1988-06-06-sambutan-presiden-soeharto-pada-pembukaan-sidang-umum-iv-dan-seminar-internasional-iii-organisasi-badan-pemeriksa-keuangan-se-asia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

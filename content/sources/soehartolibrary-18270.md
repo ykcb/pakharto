@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1994-03-31-amanat-presiden-soeharto-pada-upacara-penyerahan-daftar-isian-proyek-tahun-anggaran-19941995-kepada-para-gubernur"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

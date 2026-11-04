@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1969-03-23-sambutan-presiden-soeharto-pada-pembukaan-seminar-kesehatan-dalam-rangka-peningkatan-efisiensi-dan-produktivitas-perusahaan-serta-tenaga-kerja"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

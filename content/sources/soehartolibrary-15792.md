@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1991-10-08-sambutan-presiden-soeharto-pada-pembukaan-konvensi-tahunan-asosiasi-perminyakan-indonesia-xx-dan-konferensi-energi-internasional-ii-tahun-1991"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

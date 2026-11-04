@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1972-02-16-sambutan-presiden-soeharto-pada-peringatan-1-suro-yang-diselenggarakan-oleh-sekretariat-kerjasama-kepercayaan-pusat"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

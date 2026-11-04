@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1995-11-30-sambutan-presiden-soeharto-pada-peresmian-bumi-perumahan-rumah-sangat-sederhana-rumah-sederhana-dan-rumah-susun-sederhana-di-27-propinsi"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

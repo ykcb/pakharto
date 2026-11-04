@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1980-05-26-sambutan-presiden-soeharto-pada-upacara-pembukaan-rapat-kerja-dan-latihan-pengarahan-teknis-kepala%c2%ad-kepala-kantor-sensus-dan-statistik-daerah-tingkat-seluruh-indonesia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

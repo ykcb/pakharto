@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1987-03-17-sambutan-presiden-soeharto-pada-peresmian-dermaga-umum-dan-terminal-peti-kemas-pelabuhan-belawan-serta-jalan-tol-belawan-medan%c2%ad-tanjung-morawa"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

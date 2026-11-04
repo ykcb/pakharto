@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1994-02-14-sambutan-presiden-soeharto-pada-upacara-pelantikan-majelis-pembimbing-nasional-dan-pengurus-kwartir-nasional-gerakan-pramuka-masa-bakti-1993-1998"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

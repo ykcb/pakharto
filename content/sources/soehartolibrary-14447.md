@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1989-07-19-sambutan-presiden-soeharto-pada-peringatan-hari-koperasi-ke-42-hari-krida-pertanian-ke-17-dan-hari-program-kb-ke-19"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

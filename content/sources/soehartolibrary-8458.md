@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1975-01-18-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaandr-milan-macha-duta-besar-republik-sosialis-cekoslowakia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

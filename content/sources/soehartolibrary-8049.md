@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1973-09-26-pidato-balasan-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-dubes-republik-demokrasi-sudan"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1990-01-15-sambutan-presiden-soeharto-pada-penyerahan-penghargaan-kepada-para-juara-perlombaan-lntensifikasi-pertanian-tingkat-nasional-19881989"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

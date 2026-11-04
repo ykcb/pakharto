@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1973-05-01-pidato-balasan-presiden-soeharto-pada-penyerahan-surat-surat-kepercayaan-yang-mulia-peter-stockmann-duta-besar-republik-demokrasi-jerman"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

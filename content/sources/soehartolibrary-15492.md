@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1991-03-30-sambutan-presiden-soeharto-saat-menerima-anggota-anggota-dewan-pimpinan-nasional-soksi-masa-bakti-1991-1996"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1992-09-17-sambutan-presiden-soeharto-pada-penyerahan-tanda-penghargaan-wahana-tata-nugraha-kepada-para-pemenang-lomba-tertib-lalu-lintas-dan-angkutan-serta-pembukaan-munas-xi-organda"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

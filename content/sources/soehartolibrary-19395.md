@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1995-09-12-sambutan-presiden-soeharto-pada-peresmian-pembukaan-konferensi-regional-asia-pasifik-ke-10-tentang-rehabilitasi-internasional-penyandang-cacat"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

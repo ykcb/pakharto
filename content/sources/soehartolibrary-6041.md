@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1969-11-06-pidato-jawaban-atas-pidato-duta-besar-luar-biasa-dan-berkuasa-penuh-republik-federasi-sosialis-yugoslavia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

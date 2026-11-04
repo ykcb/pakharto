@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1993-10-12-sambutan-presiden-soeharto-pada-pembukaan-konvensi-tahunan-ke-22-asosiasi-perminyakan-indonesia-dan-konferensi-energi-internasional-ke-4"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

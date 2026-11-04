@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1972-08-15-amanat-presiden-soeharto-pada-upacara-penganugerahan-tanda-kehormatan-bintang-republik-indonesia-kelas-satu-kepada-mohammad-hatta"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

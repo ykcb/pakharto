@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1994-09-10-sambutan-presiden-soeharto-pada-penganugerahan-tanda-kehormatan-parasamya-pumakarya-nugraha-kepada-propinsi-dki-jakarta-dan-prayojanakrtya-pata-parasamya-purnakarya-nugraha-kepada-daer"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

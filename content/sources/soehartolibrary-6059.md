@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1969-12-05-amanat-presiden-soeharto-pada-upacara-penganugerahaan-tanda-kehormatan-samkarya-nugraha-kepada-kodamar-v-koarsam-koartara-dan-paskoarma-ikkol-al"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

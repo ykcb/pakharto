@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1978-03-11-pidato-pertanggungjawaban-presiden-soeharto-di-depan-sidang-umum-majelis-permusyawaratan-rakyat-republik-indonesia-mpr"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1968-06-01-pidato-presiden-soeharo-pada-pelantikan-duta-besar-luar-biasa-dan-berkuasa-penuh-republik-indonesia-untuk-ethiopia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

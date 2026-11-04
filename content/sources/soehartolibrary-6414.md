@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1970-07-31-amanat-presiden-soeharto-pada-pembukaan-sidang-ke-tiga-dewan-menteri-badan-kerjasama-ekonomi-dan-kebudayaan-indonesia-pakistan"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

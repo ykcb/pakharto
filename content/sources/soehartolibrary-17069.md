@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1993-12-16-pernyataan-presiden-ri-pada-ktt-sembilan-negara-berkembang-yang-berpenduduk-besar-tentang-pendidikan-untuk-semua"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1995-09-01-pesan-presiden-republik-indonesia-selaku-ketua-tingkat-menteri-gerakan-non-blok-pada-konferensi-iv-gerakan-non-blok-mengenal-wanita-dalam-pembangunan"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

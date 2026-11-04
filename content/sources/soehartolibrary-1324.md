@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1966-10-1-pidato-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-peringatan-setahun-pengkhianatan-gestapu-pki-2"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

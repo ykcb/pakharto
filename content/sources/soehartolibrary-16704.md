@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1993-06-15-sambutan-tertulis-presiden-ri-selaku-ketua-gerakan-non-blok-pada-pembukaan-konferensi-iv-menteri-menteri-penerangan-negara-negara-non-blok"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

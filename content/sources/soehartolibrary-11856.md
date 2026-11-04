@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1983-05-31-sambutan-presiden-soeharto-pada-peresmianpenggunaan-komplek-gedung-kantor-dan-laboratoria-lembaga-elektroteknika-nasional%c2%ad-lipi"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

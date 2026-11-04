@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1990-09-09-sambutan-presiden-soeharto-pada-peresmian-kawasan-industri-makasar-tiga-belas-buah-pabrik-dan-gedung-politeknik-pertanian-universitas-hasanudin"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

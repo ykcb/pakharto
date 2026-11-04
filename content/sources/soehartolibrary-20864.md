@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1996-06-20-sambutan-presiden-soeharto-ppada-pembukaan-lokakarya-gerakan-percepatan-penurunan-angka-kematian-ibu-hamil-dan-bersalin"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1966-10-2-pidato-ketua-presidium-kabinet-ampera-jenderal-soeharto-pada-kongres-nasional-ii-sarbumit-gasbiindo"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

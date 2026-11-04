@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1975-02-08-pidato-presiden-soeharto-jawaban-pada-upacara-penyerahan-surat-surat-kepercayaan-mohamed-khair-ei-dean-nasser-duta-besar-republik-arab-mesir"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

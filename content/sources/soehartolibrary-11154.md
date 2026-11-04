@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1981-08-27-sambutan-presiden-soeharto-saat-pembubaran-panitia-penyelenggara-jambore-nasional-gerakan-pramuka-1981-dan-asia-pasifik-vi"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

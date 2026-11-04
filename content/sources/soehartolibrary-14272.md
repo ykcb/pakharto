@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1989-02-06-sambutan-presiden-soeharto-pada-pembukaan-konvensi-nasional-keselamatan-dan-kesehatan-kerja-tahun-1989"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

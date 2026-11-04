@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1993-07-12-sambutan-presiden-soeharto-saat-menerima-peserta-rakernas-departemen-koperasi-dan-pembinaan-pengusaha-kecil-1993-dan-peserta-munas-dewan-koperasi-indonesia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

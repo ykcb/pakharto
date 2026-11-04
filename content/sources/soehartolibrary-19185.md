@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1995-04-28-sambutan-presiden-soeharto-pada-pembukaan-pameran-dan-seminar-seni-rupa-kontemporer-negara%c2%ad-negara-non-blok"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

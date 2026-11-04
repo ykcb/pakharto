@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1992-08-24-pidato-presiden-soeharto-pada-peresmian-sekolah-tinggi-pemerintahan-dalam-negeri-dan-wisuda-lulusan-angkatan-stpdn"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

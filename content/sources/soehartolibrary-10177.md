@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1979-06-07-sambutan-presiden-soeharto-pada-jamuan-makan-siang-diselenggarakan-oleh-badan-badan-dan-organisasi-organisasi-ekonomi-swasta-jepang"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

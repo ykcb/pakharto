@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1987-08-18-sambutan-presiden-soeharto-pada-peringatan-hari-pramuka-ke-26-dan-apel-besar-pramuka-tingkat-nasional"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1978-03-02-amanat-pada-presiden-soeharto-peringatan-setengah-abad-dan-peresmian-masjid-jami-pondok-modern-darussalam-gontor"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

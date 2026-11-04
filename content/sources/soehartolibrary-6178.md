@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1970-03-10-amanat-menteri-pertahanan-keamanan-panglima-angkatnan-bersenjata-pada-upacara-serah-terima-para-penguasa-perang-daerah-jawa-tengah-dan-daerah-istimewa-jogjakarta"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

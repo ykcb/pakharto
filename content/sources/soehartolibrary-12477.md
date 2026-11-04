@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1984-05-24-sambutan-presiden-soeharto-pada-peresmian-pabrik-pengolahan-kelapa-sawit-pnp-v-dan-pabrik-pulp"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

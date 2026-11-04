@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1989-03-27-sambutan-presiden-soeharto-pada-pembukaan-forum-komunikasi-dan-konsultasi-departemen-dalam-negeri-dengan-bp-7-pusat-dan-daerah"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

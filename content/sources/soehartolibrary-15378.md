@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1990-12-12-sambutan-presiden-soeharto-pada-peresmian-instalasi-radiometalurgi-serta-instalasi-keselamatan-dan-keteknikan-reaktor"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

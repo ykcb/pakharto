@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1992-05-25-sambutan-presiden-soeharto-pada-peresmian-22-buah-pabrik-kelompok-industri-kimia-dasar-dan-pengukuhan-pendirian-594-koperasi-karyawan-industri-se-jabar"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

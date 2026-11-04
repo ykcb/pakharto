@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1995-02-20-sambutan-presiden-soeharto-pada-pembukaan-raker-kantor-menteri-negara-agrariabadan-pertanahan-nasional-tahun-1995"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

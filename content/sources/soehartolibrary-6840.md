@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1971-04-22-pidato-jawaban-presiden-soeharto-pada-upacara-penyerahan-surat-surat-kepercayaan-oleh-duta-besar-republik-persatuan-arab"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

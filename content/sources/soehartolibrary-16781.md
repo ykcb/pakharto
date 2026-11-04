@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1993-08-05-sambutan-presiden-soeharto-pada-pembukaan-rakorforum-komunikasi-departemen-dalam-negeri-dan-konsultasi-antara-bp-7-pusat-dengan-bp-7-daerah-serta-direktorat-sosial-politik-daerah-tingkat"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1971-07-10-amanat-presiden-soeharto-pada-upacara-penyerahan-duplikat-bendera-pusaka-dan-duplikat-naskah-proklamasi-kemerdekaan-kepada-perwakilan-perwakilan-republik-indonesia-di-luar-negeri"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

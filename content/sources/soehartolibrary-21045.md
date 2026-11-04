@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1996-07-30-sambutan-presiden-soeharto-pada-peresmian-pabrik-tabung-gambar-televisi-monitor-dan-perekam-kaset-video-pt-lg-electronics-display-devices-indonesia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

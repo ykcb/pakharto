@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1971-01-27-amanat-presiden-soeharto-pada-pembukaan-briefing-kebijaksanaan-umum-pemerintah-kepada-gubernur-kepala-daerah-tingkat-dan-bupatiwalikota-kepala-daerah-tingkat-ii-seluruh-indonesia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

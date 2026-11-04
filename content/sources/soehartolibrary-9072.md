@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1976-08-19-sambutan-presiden-soeharto-pada-upacara-penyerahan-piala-para-pemenang-perlombaan-dalam-rangka-hut-proklamasi-kemerdekaan-ri-ke-31"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

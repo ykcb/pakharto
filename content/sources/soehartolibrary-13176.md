@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1986-08-09-pidato-balasan-presiden-soeharto-pada-penyerahan-surat-kepercayaan-apostolic-pro-nuncio-tahta-suci-untuk-republik-indonesia"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

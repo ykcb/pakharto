@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1994-08-09-sambutan-presiden-soeharto-pada-pembukaan-munas-v-persatuan-tarbiyah-islamiyah-munas-ii-persatuan-wanita-tarbiyah-islamiyah-dan-rakernas-ikatan-pemuda-tarbiyah-islamiyah"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1991-09-09-sambutan-presiden-soeharto-pada-pembukaan-sabha-vi-parisada-hindu-dharma-indonesia-dan-utsawa-dharma-gita-iv"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

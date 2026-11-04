@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1969-08-05-amanat-presiden-soeharto-pada-penyerahan-sang-merah-putih-duplikat-bendera-pusaka-dan-reproduksi-naskah-asli-proklamasi-kemerdekaan"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

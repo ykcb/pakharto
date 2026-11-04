@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1970-12-21-pidato-presiden-soehato-pada-pelantikan-duta-duta-besar-luar-biasa-dan-berkuasa-republik-indonesia-untukrepublik-islam-pakistan-republik-turki-dan-kerajaan-afganistan"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang

@@ -7,7 +7,7 @@ last_updated: "2026-11-02"
 entity_type: topik
 entity_id: "1989-10-19-sambutan-presiden-soeharto-pada-peresmian-jembatan-aur-duri-sungai-batanghari-dan-pabrik-pengolahan-karet-remah-pir-iii"
 aliases: []
-tags: ['sumber', 'orde-baru', 'pidato']
+tags: ['sumber', 'orde-baru']
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: sedang
