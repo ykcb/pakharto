@@ -1,3 +1,18 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Link "✎ Edit halaman ini" di footer halaman — pintu masuk editor tim (/input).
+.edit-page-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 2px 8px;
+  font-size: 0.8rem;
+  color: var(--gray, #888);
+  text-decoration: none;
+  border: 1px solid var(--lightgray, #ddd);
+  border-radius: 6px;
+
+  &:hover {
+    color: var(--secondary, #8b1a1a);
+    border-color: var(--secondary, #8b1a1a);
+  }
+}

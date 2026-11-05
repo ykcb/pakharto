@@ -1,7 +1,9 @@
 import { PageFrame, PageFrameProps } from "./types"
 import HeaderConstructor from "../Header"
+import EditLinkConstructor from "../EditLink"
 
 const Header = HeaderConstructor()
+const EditLink = EditLinkConstructor()
 
 /**
  * The default page frame — three-column layout with left sidebar, center
@@ -47,6 +49,7 @@ export const DefaultFrame: PageFrame = {
             {afterBody.map((BodyComponent) => (
               <BodyComponent {...componentData} />
             ))}
+            <EditLink {...componentData} />
           </div>
         </div>
         <div class="right sidebar">
