@@ -1,13 +1,5 @@
 name: Auto PR (input & edit)
 
-# Dipicu ketika server /input mendorong branch `input/*` (kiriman materi baru)
-# atau `edit/*` (suntingan halaman). Membuat Pull Request otomatis memakai
-# GITHUB_TOKEN bawaan Actions — jadi TIDAK butuh token pribadi.
-#
-# Kalau tab Actions di repo ykcb/pakharto mati, workflow ini tidak berjalan dan
-# pipeline kembali ke perilaku sebelumnya (branch di-push + link compare di
-# notifikasi Telegram, PR dibuka manual).
-
 on:
   push:
     branches:
@@ -23,21 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Buat Pull Request bila belum ada
+      - name: Buat Pull Request
         env:
           GH_TOKEN: ${{ github.token }}
-          BRANCH: ${{ github.ref_name }}
-        run: |
-          if gh pr list --head "$BRANCH" --state open --json number | grep -q '"number"'; then
-            echo "PR untuk $BRANCH sudah ada — dilewati."
-            exit 0
-          fi
-
-          gh pr create --base main --head "$BRANCH" \
-            --title "Kiriman/suntingan tim: $BRANCH" \
-            --body "Dibuat otomatis dari branch \`$BRANCH\`.
-
-          Perlu review kurator sebelum merge: periksa diff, pastikan hanya perubahan yang diharapkan (untuk suntingan halaman, frontmatter tidak boleh berubah)."
+        run: >
+          gh pr create --repo ykcb/pakharto --base main
+          --head "${{ github.ref_name }}"
+          --title "Kiriman/suntingan tim: ${{ github.ref_name }}"
+          --body "Dibuat otomatis dari branch ${{ github.ref_name }}."
