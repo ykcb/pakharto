@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto Jelaskan Soal Pengusaha Pribumi dan Non Pribumi
 
-## (Soal Kekawatiran Terhadap Hegemoni Pengusaha Non Pribumi)[[1]](#_ftn1)
+## (Soal Kekawatiran Terhadap Hegemoni Pengusaha Non Pribumi)1
 
 ##
 
@@ -50,6 +50,6 @@ SENIN, 27 Maret 1972, Dalam amanatnya di depan para rektor dan kepala perwakilan
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 426-427
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 426-427
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Cina](https://soehartolibrary.id/tag/cina/), [Non Pribumi](https://soehartolibrary.id/tag/non-pribumi/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pengusaha](https://soehartolibrary.id/tag/pengusaha/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Pribumi](https://soehartolibrary.id/tag/pribumi/), [Soeharto](https://soehartolibrary.id/tag/soeharto/)

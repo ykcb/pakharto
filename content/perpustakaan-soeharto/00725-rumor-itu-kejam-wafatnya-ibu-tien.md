@@ -39,9 +39,9 @@ relasi:
 
 # Rumor Itu Kejam: Wafatnya Ibu Tien
 
-# Rumor Itu Kejam: Wafatnya Ibu Tien[[1]](#_ftn1)
+# Rumor Itu Kejam: Wafatnya Ibu Tien1
 
-### Sutanto[[2]](#_ftn2)
+### Sutanto2
 
 Saya bertugas sebagai ajudan yang mendapingi Pak Harto, ketika badai berturut-turut menghantam perasaan Pak Harto. Mulai saat Ibu Tien wafat secara mendadak berlanjut hingga kemelut politik dan ekonomi pada tahun 1998.
 
@@ -133,8 +133,8 @@ Pak Harto adalah kepala negara yang memiliki jiwa kepemimpinan yang tinggi. Ia d
 
 ---
 
-[[1]](#_ftnref1)       Penuturan Jenderal Polisi   (Purn.) Sutanto, sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2002), hal 497.
+1       Penuturan Jenderal Polisi   (Purn.) Sutanto, sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2002), hal 497.
 
-[[2]](#_ftnref2)       Jenderal Polisi   (Purn.) Sutanto, kelahiran Comal, Pemalang 30 September 1950. Lulusan terbaik Kepolisian 1973, ini sangat kaya pengalaman dan memiliki karier yang mulus. Sebelum menjadi Kapolri (Juli 2005-September 2008, ia Kepala Badan Pelaksana Harian Badan narkotika Nasional. Ia juga sempat menjadi Komisaris Utama PT Pertamina. Sejak 22 Oktober 2009 ia menjabat Kepala Badan Inteleijen Negara.
+2       Jenderal Polisi   (Purn.) Sutanto, kelahiran Comal, Pemalang 30 September 1950. Lulusan terbaik Kepolisian 1973, ini sangat kaya pengalaman dan memiliki karier yang mulus. Sebelum menjadi Kapolri (Juli 2005-September 2008, ia Kepala Badan Pelaksana Harian Badan narkotika Nasional. Ia juga sempat menjadi Komisaris Utama PT Pertamina. Sejak 22 Oktober 2009 ia menjabat Kepala Badan Inteleijen Negara.
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Ibu Tien](https://soehartolibrary.id/tag/ibu-tien/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [RPSAD](https://soehartolibrary.id/tag/rpsad/), [Sutanto](https://soehartolibrary.id/tag/sutanto/), [Taman Buah Mekarsari](https://soehartolibrary.id/tag/taman-buah-mekarsari/), [Wafat](https://soehartolibrary.id/tag/wafat/)

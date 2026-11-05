@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto Memulai Incognito Ke Jawa Barat dan Jawa Tengah
 
-## (Pejabat Daerah Dihimbau Kompak dan Efektif Menunaikan Tugasnya)[[1]](#_ftn1)
+## (Pejabat Daerah Dihimbau Kompak dan Efektif Menunaikan Tugasnya)1
 
 SENIN, 6 APRIL 1970, Presiden memulai kunjungan *incognito* ke Jawa Barat dan Jawa Tengah. Kunjungan yang diadakan bertepatan dengan awal pelaksanaan tahun kedua Pelita I ini, merupakan inspeksi langsung Presiden Soeharto di daerah pedesaan. Tempat-tempat yang ditinjau hari ini adalah desa-desa Binong, Subang, Sindang, dan Kertasmaya, semuanya di Propinsi Jawa Barat. Di tempat-tempat tersebut Jenderal Soeharto berdialog dengan para petani, disamping melihat secara langsung pembangunan jalan, pengairan dan irigasi di pedesaan Jawa Barat itu. Malam ini Presiden bermalam di desa Tambi, sebuah desa di Indramayu, dan meninjau akibat banjir di sana.
 
@@ -51,6 +51,6 @@ Kepada para pejabat daerah-daerah yang ditemuinya, Presiden berpesan agar didala
 
 ---
 
-[[1]](#_ftnref1)     Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 215-216.
+1     Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 215-216.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Banjir](https://soehartolibrary.id/tag/banjir/), [Incognito](https://soehartolibrary.id/tag/incognito/), [Jawa Barat](https://soehartolibrary.id/tag/jawa-barat/), [Jawa Tengah](https://soehartolibrary.id/tag/jawa-tengah/), [Pelita I](https://soehartolibrary.id/tag/pelita-i/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

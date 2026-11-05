@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto: Kesetiaan Pada Pancasila Kekuatan Terbesar Kita
 
-## (Sampaikan Amanat Kenegaraan 16 Agustus 1971)[[1]](#_ftn1)
+## (Sampaikan Amanat Kenegaraan 16 Agustus 1971)1
 
 SENIN, 16 AGUSTUS 1971, Jam 09.00 pagi ini Presiden Soeharto menyampaikan amanat kenegaraannya di depan sidang DPR-GR, dalam rangka peringatan Hari Kemerdekaan. Dalam amanatnya Presiden menekankan bahwa kekuatan kita yang paling besar dalam menegakkan Orde Baru ialah kesetiaan kita kepada Pancasila.Ingat, lima tahun yang lalu kekuatan rakyat dimana-mana bangkit bersama ABRI untuk menumpas G.30.S/PKI, demi mempertahankan Pancasila. Ditegaskan pula bahwa tanpa keyakinan kepada Pancasila, kita tidak mungkin menumpas pemberontakan PKI, yang dahulu dikenal sebagai partai politik terkuat, dan barangkali kita juga tidak mungkin meruntuhkan Orde Lama yang telah begitu lama memusatkan kekuasaan negara pada satu tangan. Menurut Presiden, idiologi nasional yang nyata-nyata di dukung dan berakar dari jiwa bangsa adalah modal yang paling berharga dan kekuatan yang paling besar terutama pada saat-saat bangsa ini menghadapi suatu ancaman bahaya. Oleh sebab itu Presiden Soeharto mengajurkan agar golongan-golongan atau partai-partai politik jangan menyempitkan diri dengan idiologi sendiri. Sebab, demikian Presiden, bangsa kita harus dan memang telah memiliki idiologi nasional dan kesempitan idiologi golongan inilah yang sesungguhnya menjadi sumber peruncing dan pertentangan pada masa-masa lampau yang akhirnya juga membatasi ruang gerak partai politik itu.
 
@@ -76,6 +76,6 @@ Demikian antara lain pokok-pokok dari amanat kenegaraan Presiden Soeharto. (AFR)
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 355-357. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 355-357. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Amanat Kenegaraan](https://soehartolibrary.id/tag/amanat-kenegaraan/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [G.30.S/PKI](https://soehartolibrary.id/tag/g-30-spki/), [Hankam](https://soehartolibrary.id/tag/hankam/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Politik](https://soehartolibrary.id/tag/politik/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

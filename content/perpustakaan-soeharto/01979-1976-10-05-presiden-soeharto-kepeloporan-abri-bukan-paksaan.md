@@ -38,7 +38,7 @@ relasi:
 
 18 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1976-10-05-presiden-soeharto-kepeloporan-abri-bukan-paksaan/#respond)  150 Views Share on
 
-# Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan[[1]](#_ftn1)
+# Presiden Soeharto: Kepeloporan ABRI Bukan Paksaan1
 
 **SELASA, 5 OKTOBER** **1976** Ulang tahun ABRI yang ke-31, pagi ini diperingati dalam suatu upacara di Parkir Timur, Senayan, Jakarta, dimana Presiden Soeharto bertindak sebagai Inspektur Upacara. Dalam amanatnya, Kepala Negara antara lain mengatakan bahwa kepeloporan ABRI bukan didasarkan atas paksaan dengan mengandalkan kekuatan senjata, melainkan dengan bekal dan menyebarkan kemurnian Semangat 45 yang memang menjadi kekuatan pokok ABRI. Inti Semangat 45 adalah kesetiaan pada dasar-dasar dan tujuan kemerdekaan, kerelaan berkorban untuk mempertahankan dan mewujudkan tujuan kemerdekaan, serta kemampuan untuk menundukkan tantangan-tantangan dalam mewujudkan cita-cita itu.
 
@@ -48,6 +48,6 @@ Dalam hubungan ini, Presiden sekali lagi menegaskan bahwa setiap langkah ketatan
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 401-402. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 401-402. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [ABRI](https://soehartolibrary.id/tag/abri/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Senayan](https://soehartolibrary.id/tag/senayan/)

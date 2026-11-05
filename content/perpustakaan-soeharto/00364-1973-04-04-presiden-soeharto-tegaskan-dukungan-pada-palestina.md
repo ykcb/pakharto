@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto Tegaskan Dukungan Pada Palestina
 
-## (Menerima Duta Besar dan Melantik Sejumlah Menteri[[1]](#_ftn1)
+## (Menerima Duta Besar dan Melantik Sejumlah Menteri1
 
 RABU, 4  April 1973, Pada pukul 09.00 dan 10.00 pagi ini, secara berturut-turut Presiden Soeharto menerima surat-surat kepercayaan dari Duta Besar Luar Biasa dan Berkuasa Penuh Republik Irak, Fathil Salman Al-Assaf, dan Duta Besar Luar Biasa  dan Berkuasa Penuh Kerajaan Muangthai, Kasem S Kasemsri, di Istana Merdeka.
 
@@ -57,6 +57,6 @@ Diakui oleh Presiden bahwa meskipun perkembangan di bidang ekonomi dan politik d
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 9-10.                                                                                                                          .
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 9-10.                                                                                                                          .
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Ali Said](https://soehartolibrary.id/tag/ali-said/), [Ali Wardhana](https://soehartolibrary.id/tag/ali-wardhana/), [Irak](https://soehartolibrary.id/tag/irak/), [Jaksa Agung](https://soehartolibrary.id/tag/jaksa-agung/), [Menteri](https://soehartolibrary.id/tag/menteri/), [Muangthai](https://soehartolibrary.id/tag/muangthai/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Rachmat Saleh](https://soehartolibrary.id/tag/rachmat-saleh/), [Soemitro](https://soehartolibrary.id/tag/soemitro/)

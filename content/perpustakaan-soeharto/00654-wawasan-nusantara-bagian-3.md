@@ -38,7 +38,7 @@ relasi:
 
 # **Wawasan Nusantara (Bagian 3)**
 
-## (Unsur Ke-3 Wawasan Nusantara: Kekuatan Keragaman Karakteristik SDM Nusantara)[[1]](#_ftn1)
+## (Unsur Ke-3 Wawasan Nusantara: Kekuatan Keragaman Karakteristik SDM Nusantara)1
 
 **Oleh:**
 
@@ -54,9 +54,9 @@ Eksplorasi kekuatan keragaman karakteristik SDM juga dimanfaatkan untuk menyeles
 
 Kemampuan Presiden Soeharto mengelola kekuatan karakteristik SDM berbasis suku bangsa menjadikan kebijakan-kebijakannya relatif bisa melewati *cultural barier* (hambatan kultural) sehingga pembangunan terlaksana secara efektif dan bahkan mampu memobilisasi partisipasi rakyat secara luas. Penyusunan komposisi *team work* pembangunan atas dasar pertimbangan-pertimbangan tersebut bukan perkara mudah, karena implementasinya harus disesuaikan dengan konteks ruang dan waktu serta agenda-agenda prioritas yang sedang dihadapi.
 
-Akomodasi personalia anggota kabinet atau lembaga negara dari berbagai latar belakang suku bangsa bukan semata-mata untuk memenuhi keterwakilan (representasi) kawasan di Indonesia[[2]](#_ftn2), akan tetapi untuk memaksimalkan kontribusi keunggulan karakter masing-masing suku bangsa dalam proses penyelenggaraan negara. Implementasi pengelolaan kekuatan keragaman karakteristik SDM berbasis suku bangsa itu dikombinasikan dengan persyaratan kualitas kepakaran dan kompetensi teknis manajerial yang dipersyaratkan dalam masing-masing bidang pembangunan.
+Akomodasi personalia anggota kabinet atau lembaga negara dari berbagai latar belakang suku bangsa bukan semata-mata untuk memenuhi keterwakilan (representasi) kawasan di Indonesia2, akan tetapi untuk memaksimalkan kontribusi keunggulan karakter masing-masing suku bangsa dalam proses penyelenggaraan negara. Implementasi pengelolaan kekuatan keragaman karakteristik SDM berbasis suku bangsa itu dikombinasikan dengan persyaratan kualitas kepakaran dan kompetensi teknis manajerial yang dipersyaratkan dalam masing-masing bidang pembangunan.
 
-Pada era reformasi, penyusunan kabinet didasarkan pada representasi kekuatan politik koalisi pendukung pemerintah. Bahkan pada era pemerintahan Presiden Susilo Bambang Yudhoyono —yang relatif stabil jika dibandingkan dengan dua kepemimpinan presiden sebelumnya— juga tidak cukup leluasa untuk memilih *team work*-nya berdasarkan kekuatan keragaman karakteristik SDM berbasis suku bangsa. Walaupun telah melibatkan anggota kabinet dari berbagai latar belakang wilayah dan suku bangsa di Indonesia[[3]](#_ftn3), adanya tarik ulur partai-partai koalisi menyebabkan penempatannya tidak cukup sesuai dengan konteks ruang dan waktu serta agenda-agenda prioritas yang sedang dihadapi. Dengan kata lain, adanya tarik ulur tersebut menyebabkan eksplorasi kekuatan karakteristik SDM berbasis suku bangsa —dalam konteks kesesuaiannya dengan ruang dan waktu serta agenda prioritas— tidak bisa diaplikasikan secara menyeluruh dan hanya bisa diwujudkan sebagian.
+Pada era reformasi, penyusunan kabinet didasarkan pada representasi kekuatan politik koalisi pendukung pemerintah. Bahkan pada era pemerintahan Presiden Susilo Bambang Yudhoyono —yang relatif stabil jika dibandingkan dengan dua kepemimpinan presiden sebelumnya— juga tidak cukup leluasa untuk memilih *team work*-nya berdasarkan kekuatan keragaman karakteristik SDM berbasis suku bangsa. Walaupun telah melibatkan anggota kabinet dari berbagai latar belakang wilayah dan suku bangsa di Indonesia3, adanya tarik ulur partai-partai koalisi menyebabkan penempatannya tidak cukup sesuai dengan konteks ruang dan waktu serta agenda-agenda prioritas yang sedang dihadapi. Dengan kata lain, adanya tarik ulur tersebut menyebabkan eksplorasi kekuatan karakteristik SDM berbasis suku bangsa —dalam konteks kesesuaiannya dengan ruang dan waktu serta agenda prioritas— tidak bisa diaplikasikan secara menyeluruh dan hanya bisa diwujudkan sebagian.
 
 Tidak optimalnya manajemen SDM pembangunan berbasis karakteristik suku bangsa dapat menjelaskan kenapa pada era reformasi —yang sudah didukung dengan ketersediaan banyak pakar dalam berbagai disiplin akademis— kurang mampu mengelola pembangunan secara efektif. Bahkan publik sering mengeluhkan kegagapan pemerintah dalam menghadapi moment-moment kritis, seperti penanganan bencana, pemberantasan korupsi, konflik-konflik warga maupun dalam pengelolaan agenda-agenda prioritas pembangunan. Hal ini menunjukkan manajemen SDM berbasis kompetensi akademik saja tidak cukup dalam menghadapi dan mengatasi *cultural barier* dalam pelaksanaan pembangunan Indonesia yang multikultural.
 
@@ -66,10 +66,10 @@ Pada masa-masa yang akan datang, kiranya perlu dilakukan pemetaan dan kajian aka
 
 ---
 
-[[1]](#_ftnref1)     Disarikan dari buku Politik Kenusantaraan
+1     Disarikan dari buku Politik Kenusantaraan
 
-[[2]](#_ftnref2)     Terdiri dari personalia yang datang dari beragam suku bangsa di Indonesia.
+2     Terdiri dari personalia yang datang dari beragam suku bangsa di Indonesia.
 
-[[3]](#_ftnref3)     Sperti halnya Fredi Numberi dari Papua, Gamawan Fauzi dari Padang, dll.
+3     Sperti halnya Fredi Numberi dari Papua, Gamawan Fauzi dari Padang, dll.
 
  [Idiologi Bangsa](https://soehartolibrary.id/category/tinggal-landas/idiologi-bangsa/)  [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [SDM](https://soehartolibrary.id/tag/sdm/), [Wauku Bangsa](https://soehartolibrary.id/tag/wauku-bangsa/)

@@ -40,7 +40,7 @@ relasi:
 
 # Presiden Soeharto: Kita Bertekad Untuk Bersatu dan Bersatu
 
-# Serahkan Duplikat Bendera Pusaka Seluruh Dati I[[1]](#_ftn1)
+# Serahkan Duplikat Bendera Pusaka Seluruh Dati I1
 
 SELASA, 05 AGUSTUS 1969, dalam upacara khidmat pagi ini di Istana Merdeka, Presiden Soeharto secara simbolis menyerahkan duplikat bendera pusaka dan duplikat naskah proklamasi kepada semua daerah tingkat I melalui Pangandahan dan Sekretaris Jenderal Departemen Dalam Negeri.
 
@@ -48,6 +48,6 @@ Presiden Soeharto meminta agar bendera persatuan yang telah diserahkan itu dikib
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 148. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 148. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Bendera Pusaka](https://soehartolibrary.id/tag/bendera-pusaka/), [Bersatu](https://soehartolibrary.id/tag/bersatu/), [Duplikat](https://soehartolibrary.id/tag/duplikat/), [Istana Merdeka](https://soehartolibrary.id/tag/istana-merdeka/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Teks Proklamasi](https://soehartolibrary.id/tag/teks-proklamasi/)

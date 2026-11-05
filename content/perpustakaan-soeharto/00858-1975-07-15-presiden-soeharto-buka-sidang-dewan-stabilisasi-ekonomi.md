@@ -50,7 +50,7 @@ relasi:
 
 # Presiden Soeharto Buka Sidang Dewan Stabilisasi Ekonomi
 
-## (Bahas Laporan Hasil Kunjungan Ke Luar Negeri)[[1]](#_ftn1)
+## (Bahas Laporan Hasil Kunjungan Ke Luar Negeri)1
 
 SELASA, 15 Juli 1975 Tepat pukul 10.00 pagi ini Presiden Soeharto membuka sidang Dewan Stabilisasi Ekonomi Nasional di Bina Graha. Sidang pagi ini antara lain mendengarkan penjelasan Menteri Negara Ekuin Widjoyo Nitisastro tentang hasil-hasil di bidang ekonomi yang dicapai Indonesia dari Kunjungan Presiden Soeharto dan rombongan ke beberapa negara pada akhir Juni hingga awal Juli yang lalu.
 
@@ -66,6 +66,6 @@ Pemerintah Jepang telah menyetujui untuk membantu proyek Asahan sebesar US$870 j
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 266-267. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
+1 Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 266-267. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Amerika Serikat](https://soehartolibrary.id/tag/amerika-serikat/), [Asahan](https://soehartolibrary.id/tag/asahan/), [CIDA](https://soehartolibrary.id/tag/cida/), [Gresik](https://soehartolibrary.id/tag/gresik/), [Iran](https://soehartolibrary.id/tag/iran/), [Jepang](https://soehartolibrary.id/tag/jepang/), [Kanada](https://soehartolibrary.id/tag/kanada/), [Lombok](https://soehartolibrary.id/tag/lombok/), [Menteri Negara Ekuin](https://soehartolibrary.id/tag/menteri-negara-ekuin/), [NTT](https://soehartolibrary.id/tag/ntt/), [OECF](https://soehartolibrary.id/tag/oecf/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [PT Barata](https://soehartolibrary.id/tag/pt-barata/), [Sidang Dewan Stabilisasi Ekonomi](https://soehartolibrary.id/tag/sidang-dewan-stabilisasi-ekonomi/), [waduk wlingi](https://soehartolibrary.id/tag/waduk-wlingi/), [Widjoyo Nitisastro](https://soehartolibrary.id/tag/widjoyo-nitisastro/), [Yugoslavia](https://soehartolibrary.id/tag/yugoslavia/)

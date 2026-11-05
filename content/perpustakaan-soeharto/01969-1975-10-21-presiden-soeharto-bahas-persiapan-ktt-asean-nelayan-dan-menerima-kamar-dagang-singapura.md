@@ -45,7 +45,7 @@ relasi:
 
 17 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura/#respond)  94 Views Share on
 
-# Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima Kamar Dagang Singapura[[1]](#_ftn1)
+# Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima Kamar Dagang Singapura1
 
 SELASA, 21 OKTOBER 1975 Sidang Dewan Stabilisasi Politik dan Keamanan Nasional berlangsung pagi ini di Bina Graha dibawah pimpinan Presiden Soeharto. Sidang yang berlangsung sejak jam 10.00 itu telah mendengar laporan Menteri Luar Negeri Adam Malik mengenai persiapan KTT ASEAN yang akan datang, disamping membahas masalah-masalah sosial dalam pembangunan. Menyangkut penyelenggaraan KTT ASEAN itu, Kepala Negara menekankan agar dalam kertas-kertas kerja nanti ditonjolkan pula masalah-masalah dalam bidang sosial budaya. Hal ini ditekankannya mengingat selama ini telah terbukti bahwa kerjasama dalam bidang sosial dan budaya dapat meningkatkan hubungan batin antara bangsa-bangsa ASEAN.
 
@@ -55,6 +55,6 @@ Selesai sidang, Kepala Negara menerima kunjungan lima orang delegasi Kamar Dagan
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 293-294. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 293-294. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Adam Malik](https://soehartolibrary.id/tag/adam-malik/), [kamar dagang](https://soehartolibrary.id/tag/kamar-dagang/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [KTT Asean](https://soehartolibrary.id/tag/ktt-asean/), [Menteri Luar Negeri](https://soehartolibrary.id/tag/menteri-luar-negeri/), [Nelayan](https://soehartolibrary.id/tag/nelayan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Singapura](https://soehartolibrary.id/tag/singapura/)

@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Politik dan Keamanan Nasional
 
-## (Menetapkan Lima Langkah Menekan Inflasi)[[1]](#_ftn1)
+## (Menetapkan Lima Langkah Menekan Inflasi)1
 
 SELASA, 9 April 1974, pagi ini bertempat di Bina Graha, Presiden Soeharto memimpin Sidang Dewan Stabilisasi Politik dan Keamanan Nasional. Berlainan dari biasanya, sidang kali ini juga dihadiri oleh para ketua Sub-Dewan Stabilisasi Ekonomi. Dalam sidang telah ditetapkan langkah-langkah yang akan diambil untuk menekan laju inflasi . Langkah itu adalah sebagai berikut:
 
@@ -57,6 +57,6 @@ Kelima, memperkenalkan ketentuan-ketentuan baru terhadap pemasukan modal dari lu
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 115-116.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 115-116.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Inflasi](https://soehartolibrary.id/tag/inflasi/), [Keamanan Nasional](https://soehartolibrary.id/tag/keamanan-nasional/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Stabilisasi Politik](https://soehartolibrary.id/tag/stabilisasi-politik/)

@@ -49,7 +49,7 @@ relasi:
 
 # Presiden Soeharto Resmikan Monumen Trikora dan Irian Barat Daerah Otonom
 
-## Hadiri Sidang Istimewa DPRD-GR dan Rapat Umum di Jayapura [[1]](#_ftn1)
+## Hadiri Sidang Istimewa DPRD-GR dan Rapat Umum di Jayapura 1
 
 SELASA, 16 SEPTEMBER 1969, Dalam sidang istimewa DPRD-GR Provinsi Irian Barat di Jayapura pagi ini Presiden Soeharto meresmikan Irian Barat sebagai daerah otonom. Presiden menyatakan bahwa pemberian otonomi ini adalah untuk mensejajarkan Irian Barat dengan daerah-daerah lainnya. Presiden yakin bahwa dengan pemberian otonomi ini, maka kemajuan Irian Barat akan berkembang lebih cepat sesuai dengan kemauan dan kemampuan masyarakat sendiri.
 
@@ -59,6 +59,6 @@ Sore ini Presiden berbicara di depan rapat umum yang dihadiri oleh ribuan rakyat
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 157-158. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 157-158. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Abolisi](https://soehartolibrary.id/tag/abolisi/), [Amnesti](https://soehartolibrary.id/tag/amnesti/), [Awom](https://soehartolibrary.id/tag/awom/), [Daerah Otonom](https://soehartolibrary.id/tag/daerah-otonom/), [Enarotali](https://soehartolibrary.id/tag/enarotali/), [Irian Barat](https://soehartolibrary.id/tag/irian-barat/), [Mandatjan](https://soehartolibrary.id/tag/mandatjan/), [Monumen Trikora](https://soehartolibrary.id/tag/monumen-trikora/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Waghete](https://soehartolibrary.id/tag/waghete/)

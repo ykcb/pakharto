@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Soeharto Menerima Pejabat Birma Dan Parlemen Yugoslavia
 
-## (Birma Mempelajari Production Sharing)[[1]](#_ftn1)
+## (Birma Mempelajari Production Sharing)1
 
 KAMIS, 26 April 1973, Diantar oleh Menteri Pertambangan Prof. Sadli, Menteri Pertambangan Birma, Komodor Thaun Tin, mengadakan kunjungan kehormatan kepada Presiden Soeharto di Istana Merdeka. Menurut  Prof. Sadli,  Pertambangan Birma ingin mempelajari pengalaman Indonesia dalam hal pertambangan, khususnya pertambangan minyak. Ditambahkannya bahwa pejabat tinggi Birma itu sangat terkesan akan *system production sharing* (bagi hasil) yang dipraktekkan di Indonesia.
 
@@ -47,6 +47,6 @@ Pagi ini pula di tempat yang sama, Kepala Negara menerima kunjungan delegasi Par
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 12-13.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 12-13.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Birma](https://soehartolibrary.id/tag/birma/), [Pertambangan](https://soehartolibrary.id/tag/pertambangan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Yugoslavia](https://soehartolibrary.id/tag/yugoslavia/)

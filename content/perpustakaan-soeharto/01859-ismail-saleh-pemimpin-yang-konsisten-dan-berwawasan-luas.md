@@ -39,7 +39,7 @@ relasi:
 
 10 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/ismail-saleh-pemimpin-yang-konsisten-dan-berwawasan-luas/#respond)  163 Views Share on
 
-# Pemimpin Yang Konsisten Dan Berwawasan Luas [[1]](#_ftn1)
+# Pemimpin Yang Konsisten Dan Berwawasan Luas 1
 
 ## Ismail Saleh **[**[2]**](#_ftn2)**
 
@@ -89,8 +89,8 @@ Pak Harto telah memberikan teladan bagaimana manfaat dari suatu kunjungan mendad
 
 ---
 
-[[1]](#_ftnref1)     Ismail Saleh, “Pemimpin Yang Konsisten Dan Berwawasan Luas “, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun”  (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 84-89.
+1     Ismail Saleh, “Pemimpin Yang Konsisten Dan Berwawasan Luas “, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun”  (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 84-89.
 
-[[2]](#_ftnref2)     Menteri Kehakiman dalam Kabinet Pembangunan V.
+2     Menteri Kehakiman dalam Kabinet Pembangunan V.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/)  [Ismail Saleh](https://soehartolibrary.id/tag/ismail-saleh/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Menteri Kehakiman](https://soehartolibrary.id/tag/menteri-kehakiman/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

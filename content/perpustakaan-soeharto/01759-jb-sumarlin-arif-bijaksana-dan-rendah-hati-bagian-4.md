@@ -45,7 +45,7 @@ relasi:
 
 6 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-4/#respond)  146 Views Share on
 
-# Arif, Bijaksana dan Rendah Hati (Bagian 4)[[1]](#_ftn1)
+# Arif, Bijaksana dan Rendah Hati (Bagian 4)1
 
 ## Hama  Wereng Caklat Tahun 1986
 
@@ -131,8 +131,8 @@ Ini merupakan hal yang pertama kali nama Indonesia tercatat dan memperoleh tangg
 
 ---
 
-[[1]](#_ftnref1)     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
+1     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
 
-[[2]](#_ftnref2)     Menteri Keuangan dalam Kabinet Pembangunan V
+2     Menteri Keuangan dalam Kabinet Pembangunan V
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Tinggal Landas](https://soehartolibrary.id/category/tinggal-landas/)  [FAO](https://soehartolibrary.id/tag/fao/), [Integrated Pest Management](https://soehartolibrary.id/tag/integrated-pest-management/), [IPM](https://soehartolibrary.id/tag/ipm/), [IRRI](https://soehartolibrary.id/tag/irri/), [JB Sumarlin](https://soehartolibrary.id/tag/jb-sumarlin/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Kongres AS](https://soehartolibrary.id/tag/kongres-as/), [PHT](https://soehartolibrary.id/tag/pht/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Swasembada Pangan](https://soehartolibrary.id/tag/swasembada-pangan/)

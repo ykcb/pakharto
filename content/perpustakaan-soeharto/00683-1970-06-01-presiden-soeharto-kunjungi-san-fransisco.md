@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto Kunjungi San Fransisco
 
-## (Kesenjangan Negara Kaya-Miskin Harus Dipersempit)[[1]](#_ftn1)
+## (Kesenjangan Negara Kaya-Miskin Harus Dipersempit)1
 
 Senin, 1 Juni 1970, Presiden Soeharto dan rombongan yang tiba di San Francisco kemarin, pagi ini meninjau pelabuhan Oakland, San Francisco. Pelabuhan ini merupakan pelabuhan *container* kedua terbesar di AS, setelah New York. Dalam peninjauan ini Presiden telah meninjau penanganan peti kemas di pelabuhan. Ketika melihat bagaimana derek digerakkan untuk mengangkut peti kemas, Presiden mengatakan bahwa mesin-mesin derek yang besar itu berguna bagi negeri yang memiliki jembatan-jembatan yang rendah.
 
@@ -53,6 +53,6 @@ Menyinggung soal Repelita, Presiden mengatakan bahwa sasaran yang akan dicapai I
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 233-234. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 233-234. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Asia](https://soehartolibrary.id/tag/asia/), [mix farming](https://soehartolibrary.id/tag/mix-farming/), [Oakland](https://soehartolibrary.id/tag/oakland/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [repelita](https://soehartolibrary.id/tag/repelita/), [San Fransisco](https://soehartolibrary.id/tag/san-fransisco/), [Stanislaus](https://soehartolibrary.id/tag/stanislaus/)

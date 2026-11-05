@@ -44,7 +44,7 @@ relasi:
 
 # PRESIDEN SOEHARTO KUNJUNGAN RESMI KE JEPANG
 
-## (Menagih Pampasan Perang Secara Halus Kepada Pemerintah Jepang)[[1]](#_ftn1)
+## (Menagih Pampasan Perang Secara Halus Kepada Pemerintah Jepang)1
 
 KAMIS, 28 MARET 1968, Presiden dan Ibu Tien Soeharto beserta anggota rombongan jam 07.30 hari ini pergi meninggalkan Jakarta untuk melakukan kunjungan resmi ke Jepang dan Kamboja selama satu minggu.
 
@@ -54,6 +54,6 @@ Catatan: Menurut Koos Arumdanie, Wartawan Senior Istana pada masa Presiden Soeka
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Jepang](https://soehartolibrary.id/tag/jepang/), [Kamboja](https://soehartolibrary.id/tag/kamboja/), [Kunjungan](https://soehartolibrary.id/tag/kunjungan/), [Pampasan Perang](https://soehartolibrary.id/tag/pampasan-perang/), [Perekonomian](https://soehartolibrary.id/tag/perekonomian/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Rakyat](https://soehartolibrary.id/tag/rakyat/), [Resmi](https://soehartolibrary.id/tag/resmi/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Tokyo](https://soehartolibrary.id/tag/tokyo/)

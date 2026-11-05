@@ -41,7 +41,7 @@ relasi:
 
 18 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1975-19-17-presiden-soeharto-minta-mui-ambil-inisiatif-musyawarah-antar-agama/#respond)  129 Views Share on
 
-# Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama[[1]](#_ftn1)
+# Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama1
 
 **RABU, 17 SEPTEMBER** **1975**Presiden Soeharto meminta Majelis Ulama Indonesia mengambil inisiatif untuk mengadakan musyawarah antar-agama guna mewujudkan kerukunan beragama di Indonesia. Demikian dikemukakan Kepala Negara kepada Dewan Pimpinan Majelis Ulama Indonesia yang menghadapnya di Istana Merdeka pukul 11.30 hari ini. Dr. Hamka yang mewakili pimpinah MUI, pada kesempatan itu menyatakan kesediaan dan kesanggupannya untuk menyelenggarakan musyawarah yang dimaksudkan oleh Presiden Soeharto.
 
@@ -51,6 +51,6 @@ Presiden Soeharto hari ini menugaskan Menteri PAN/Wakil Ketua Bappenas, Dr. JB S
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 286. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 286. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Dr. Hamka](https://soehartolibrary.id/tag/dr-hamka/), [Dr. JB Sumarlin](https://soehartolibrary.id/tag/dr-jb-sumarlin/), [Indo-Cina](https://soehartolibrary.id/tag/indo-cina/), [Komunis](https://soehartolibrary.id/tag/komunis/), [Menteri PAN/Wakil Ketua Bappenas](https://soehartolibrary.id/tag/menteri-panwakil-ketua-bappenas/), [Pemuda Asean](https://soehartolibrary.id/tag/pemuda-asean/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

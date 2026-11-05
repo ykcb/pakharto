@@ -54,7 +54,7 @@ Lalu saya dipindahkan ke Salatiga, diserahi memimpin “Brigade Pragola I”, di
 
 Saya ditugasi untuk menyusun 9 batalyon menjadi 4 batalyon. Betapa sulitnya tugas itu ! Bukan karena teknisnya, melainkan faktor psikologislah yang mempersulit, yakni harus mengorbankan banyak perwira. Rupanya Tuhan memberi jalan, karena ternyata salah satu batalyon ialah Batalyon 426 yang dipimpin oleh Mayor Munawar dan wakilnya Kapten Sofjan memberontak. Dalam menghadapi dan menyelesaikan pemberontakan Batalyon 426 ini saya dapat melakukan seleksi secara alamiah.
 
-Pada minggu keempat bulan Januari 1950, terjadi peristiwa APRA[[2]](#_ftn2) di Bandung. Sementara itu di Jawa Tengah mulai dilakukan dengan lebih sungguh-sungguh penumpasan terhadap DI/TII, dengan pembentukan Gerakan Benteng Nasional (GBN). Dengan itu, Panglima TT-IV menetapkan ketegasannya, harus memisahkan gerombolan DI/TII pimpinan Amir Fatah dari gerombolan DI/TII Kartosuwirjo, yang kemudian menghancurkannya sama sekali, serta membersihkan sel-selnya yang masih ada di daerah-daerahnya. Operasi penumpasan gerombolan ini ternyata memakan waktu panjang.
+Pada minggu keempat bulan Januari 1950, terjadi peristiwa APRA2 di Bandung. Sementara itu di Jawa Tengah mulai dilakukan dengan lebih sungguh-sungguh penumpasan terhadap DI/TII, dengan pembentukan Gerakan Benteng Nasional (GBN). Dengan itu, Panglima TT-IV menetapkan ketegasannya, harus memisahkan gerombolan DI/TII pimpinan Amir Fatah dari gerombolan DI/TII Kartosuwirjo, yang kemudian menghancurkannya sama sekali, serta membersihkan sel-selnya yang masih ada di daerah-daerahnya. Operasi penumpasan gerombolan ini ternyata memakan waktu panjang.
 
 Di bulan Desember 1951 terjadi pemberontakan Batalyon Infantri 426. Mayor TII Mughny tertembak, dan dari kematiannya terungkap hubungan rahasia antara beberapa perwira Batalyon 423 dan 426 dengan DII/TII. Dengan peristiwa ini Panglima TT-IV bertindak tegas. Beberapa perwira Batalyon 423, termasuk komandannya Mayor Basuno segera diperiksa, dan sewaktu pemeriksaan itu Mayor Basuno ditembak anak buahnya sendiri yang sudah kena pengaruh DI/TII. Mayor Basuno ditembak di rumahnya sendiri di Jatingaleh, Semarang. Berikutnya, Komandan Batalyon 426, Mayor Munawar,.Kapten Sofjan, dan seorang perwira lain dipanggil menghadap Panglima. Ternyata Kapten Sofjan membangkang dan malahan menyatakan “siap perang”.
 
@@ -104,8 +104,8 @@ Dalam waktu-waktu itu, sementara saya sibuk dengan menghadapi soal gerombolan, t
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 82-88.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 82-88.
 
-[[2]](#_ftnref2) *Angkatan Perang Ratu Adil, bentukan Westerling*
+2 *Angkatan Perang Ratu Adil, bentukan Westerling*
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [DI/TII](https://soehartolibrary.id/tag/ditii/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

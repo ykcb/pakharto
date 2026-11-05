@@ -40,7 +40,7 @@ relasi:
 
 19 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1976-09-21-presiden-soeharto-instruksikan-pejabat-tidak-perlakuan-istimewa-keluarganya/#respond)  84 Views Share on
 
-# Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa Keluarganya[[1]](#_ftn1)
+# Presiden Soeharto Instruksikan Pejabat Tidak Perlakuan Istimewa Keluarganya1
 
 SELASA, 21 SEPTEMBER 1976 Hari ini Presiden Soeharto mengeluarkan sepucuk surat edaran yang ditujukan kepada semua menteri dan pimpinan lembaga non-departemen. Surat yang diberi nomor B-3/ Pres/9/1976 berisi:
 
@@ -53,6 +53,6 @@ SELASA, 21 SEPTEMBER 1976 Hari ini Presiden Soeharto mengeluarkan sepucuk surat 
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 395-396. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 395-396. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Keluarga Presiden](https://soehartolibrary.id/tag/keluarga-presiden/), [Perlakuan Istimewa](https://soehartolibrary.id/tag/perlakuan-istimewa/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

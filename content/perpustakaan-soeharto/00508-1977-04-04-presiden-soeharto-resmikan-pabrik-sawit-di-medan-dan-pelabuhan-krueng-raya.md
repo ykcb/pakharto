@@ -45,7 +45,7 @@ relasi:
 
 # Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan Krueng Raya
 
-## (Tingkah Laku Perorangan Dan Golongan Tidak Boleh Menganggu Persatuan Dan Kesatuan)[[1]](#_ftn1)
+## (Tingkah Laku Perorangan Dan Golongan Tidak Boleh Menganggu Persatuan Dan Kesatuan)1
 
 SENIN, 4 April 1977, Presiden Soeharto di Adolina, Sumatera Utara, pagi ini meresmikan pabrik minyak sawit milik PNP Tnjowan dan PTP Pagar Merbau. Kawasan ini meliputi pabrik Fraksional dan refinasi minyak sawit Adolina serta  Sekolah Pembangunan/Pusat Latihan Pegawai.
 
@@ -57,6 +57,6 @@ Presiden Soeharto mengadakan pertemuan dengan 350 orang alim ulama seluruh Aceh 
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 475-476.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 475-476.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Adolina](https://soehartolibrary.id/tag/adolina/), [Banda Aceh](https://soehartolibrary.id/tag/banda-aceh/), [golongan](https://soehartolibrary.id/tag/golongan/), [Krueng Raya](https://soehartolibrary.id/tag/krueng-raya/), [Medan](https://soehartolibrary.id/tag/medan/), [Persatuan](https://soehartolibrary.id/tag/persatuan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Ulama](https://soehartolibrary.id/tag/ulama/)

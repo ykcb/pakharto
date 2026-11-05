@@ -48,6 +48,6 @@ SELASA 20 JANUARI 1970, Didalam sidang kabinet terbatas di Wisma Tamu Istana pag
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [bimas](https://soehartolibrary.id/tag/bimas/), [Kabinet](https://soehartolibrary.id/tag/kabinet/), [Kapas](https://soehartolibrary.id/tag/kapas/), [kebijakan](https://soehartolibrary.id/tag/kebijakan/), [Penjelasan](https://soehartolibrary.id/tag/penjelasan/), [Sidang](https://soehartolibrary.id/tag/sidang/), [Terbatas](https://soehartolibrary.id/tag/terbatas/)

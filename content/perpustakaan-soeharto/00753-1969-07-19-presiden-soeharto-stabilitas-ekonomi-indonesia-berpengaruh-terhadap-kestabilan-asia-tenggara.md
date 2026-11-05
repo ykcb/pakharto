@@ -49,7 +49,7 @@ relasi:
 
 # 1969-07-19 Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap Kestabilan Asia Tenggara
 
-# Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap Kestabilan Asia Tenggara[[1]](#_ftn1)
+# Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap Kestabilan Asia Tenggara1
 
 SABTU, 19 Juli 1969. Presiden Soeharto mengatakan bahwa rakyat Indonesia selalu menaruh perhatian yang besar terhadap AS. Ia juga gembira melihat kerjasama kedua negara, terutama di bidang ekonomi telah membawa hasil yang membesarkan hati. Selain itu Presiden juga mengungkapkan keyakinan bahwa stabilitas ekonomi di Indonesia akan mempunyai pengaruh baik terhadap kestabilan ekonomi dan politik di Asia Tenggara pada umumnya. Demikian antara lain dikatakan Presiden Soeharto ketika menerima surat kepercayaan dari Duta Besar AS yang baru Francis J. Galbraith, di Istana Merdeka pagi ini. Sementara itu, dalam pidatonya Galbraith antara lain mengatakan bahwa rakyat AS ingin melihat Indonesia berkembang dan menjadi makmur. Ia mengatakan bahwa kemajuan yang dicapai Indonesia dalam tahun-tahun terakhir ini sungguh menggemberikan.
 
@@ -59,6 +59,6 @@ Dalam pertemuan dengan Ketua DPR-GR, HA Sjaichu, hari ini, Presiden Soeharto men
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 138-139. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 138-139. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [DPR-GR](https://soehartolibrary.id/tag/dpr-gr/), [Duta Besar](https://soehartolibrary.id/tag/duta-besar/), [Duta Besar AS](https://soehartolibrary.id/tag/duta-besar-as/), [Francis J. Galbraith](https://soehartolibrary.id/tag/francis-j-galbraith/), [HA Sjaichu](https://soehartolibrary.id/tag/ha-sjaichu/), [HR Dharsono](https://soehartolibrary.id/tag/hr-dharsono/), [Istana Merdeka](https://soehartolibrary.id/tag/istana-merdeka/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Muangthai](https://soehartolibrary.id/tag/muangthai/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [RUU Pemilu](https://soehartolibrary.id/tag/ruu-pemilu/), [Sunarsono](https://soehartolibrary.id/tag/sunarsono/)

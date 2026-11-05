@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab
 
-## (Menerima Duta Besar Australia, Pimpinan Angkatan Bersenjata Muangthai dan Wisuda IIP)[[1]](#_ftn1)
+## (Menerima Duta Besar Australia, Pimpinan Angkatan Bersenjata Muangthai dan Wisuda IIP)1
 
 SABTU, 8 MARET  1975,  Duta Besar Australia, Richard A Woolcont, hari ini menyerahnkan surat kepecayaannya kepada Presiden Soeharto di Istana Merdeka. Ketika menyerahkan surat kepercayaan itu ia mengatakan bahwa negerinya menghargai peranan penting yang telah dimainkan Indonesia dalam memupuk kerjasama dan keamanan regional. Menurutnya, Presiden Soeharto sendiri telah banyak berbuat untuk mengkonsolidasikan dan mengembangkan hubungan erat yang ada sekarang antara Australia dan Indonesia.
 
@@ -56,7 +56,7 @@ Dalam hubungan ini Presiden mempertanyakan bagaimana melaksanakan pembangunan de
 
 ---
 
-[[1]](#_ftnref1)
+1
          [1]      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.222-223.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Angkatan Bersenjata](https://soehartolibrary.id/tag/angkatan-bersenjata/), [Australia](https://soehartolibrary.id/tag/australia/), [Demokrasi](https://soehartolibrary.id/tag/demokrasi/), [Duta Besar](https://soehartolibrary.id/tag/duta-besar/), [IIP](https://soehartolibrary.id/tag/iip/), [Muangthai](https://soehartolibrary.id/tag/muangthai/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

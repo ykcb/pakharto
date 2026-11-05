@@ -45,7 +45,7 @@ relasi:
 
 # MENJAMU *FOREIGN CORRESPONDENTS CLUB*
 
-## (Menjelaskan Soal Pancasila dan Kerjasama Regional Asia Tenggara serta Penolakan Pangkalan Militer Asing di Asia Tenggara)[[1]](#_ftn1)
+## (Menjelaskan Soal Pancasila dan Kerjasama Regional Asia Tenggara serta Penolakan Pangkalan Militer Asing di Asia Tenggara)1
 
 SABTU, 30 MARET 1968, Pada jamuan makan siang yang diselenggarakan oleh *Foreign Correspondents Club* untuk menghormati kunjungannya di Jepang, Presiden Soeharto memberikan penjelasan tentang Pancasila, politik dalam dan luar negeri RI, terutama yang berhubungan dengan pembangunan di Indonesia. Dijelaskan oleh Presiden bahwa Indonesia memberikan prioritas kepada kerjasama regional dan pembangunan Asia Tenggara di bidang ekonomi, social dan kebudayaan. Ditegaskannya pula bahwa Indonesia tidak menghendaki pakta militer atau pangkalan militer asing di asia Tenggara. Akan tetapi Indonesia cukup realistis untuk dapat menerima pertimbangan dari negara-negara tetangganya bahwa pangkalan-pangkalan militer asing itu tidak dimaksud untuk merongrong kemerdekaan negara lain.
 
@@ -53,6 +53,6 @@ Catatan: Menurut Koos Arumdanie, Wartawan Senior Istana pada masa Presiden Soeka
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Asia Tenggara](https://soehartolibrary.id/tag/asia-tenggara/), [Club](https://soehartolibrary.id/tag/club/), [Correspondents](https://soehartolibrary.id/tag/correspondents/), [Foreign](https://soehartolibrary.id/tag/foreign/), [Jepang](https://soehartolibrary.id/tag/jepang/), [Luar Negeri](https://soehartolibrary.id/tag/luar-negeri/), [Militer](https://soehartolibrary.id/tag/militer/), [Pakta Militer](https://soehartolibrary.id/tag/pakta-militer/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Pangkalan](https://soehartolibrary.id/tag/pangkalan/), [Tokyo](https://soehartolibrary.id/tag/tokyo/)

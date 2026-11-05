@@ -91,6 +91,6 @@ Pada Kabinet Pembangunan VII, Subiakto masih ditunjuk Pak Harto kembali menduduk
 
 ---
 
-[[1]](#_ftnref1)     Wartawan Senior Istana Pada Masa Kepemimpinan Presiden Soekarno (1964-1967) dan Presiden Soeharto (1974-1983).
+1     Wartawan Senior Istana Pada Masa Kepemimpinan Presiden Soekarno (1964-1967) dan Presiden Soeharto (1974-1983).
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Prestasi Pembangunan](https://soehartolibrary.id/category/tinggal-landas/prestasi-pembangunan/)  [Australia](https://soehartolibrary.id/tag/australia/), [bimas](https://soehartolibrary.id/tag/bimas/), [BUUD](https://soehartolibrary.id/tag/buud/), [ICA](https://soehartolibrary.id/tag/ica/), [inmas](https://soehartolibrary.id/tag/inmas/), [Koperasi](https://soehartolibrary.id/tag/koperasi/), [KUD](https://soehartolibrary.id/tag/kud/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [PPL](https://soehartolibrary.id/tag/ppl/), [Sidney](https://soehartolibrary.id/tag/sidney/), [Transmigrasi](https://soehartolibrary.id/tag/transmigrasi/), [WTO](https://soehartolibrary.id/tag/wto/)

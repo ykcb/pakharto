@@ -52,6 +52,6 @@ SABTU 31 JANUARI 1970, Dalam sidang kabinet lengkap pagi ini Presiden Soeharto m
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Agenda Kabinet](https://soehartolibrary.id/category/aktifitas-kenegaraan/agenda-kabinet/)  [Bapak Pembangunan](https://soehartolibrary.id/tag/bapak-pembangunan/), [Bina Graha](https://soehartolibrary.id/tag/bina-graha/), [Cendana](https://soehartolibrary.id/tag/cendana/), [GBHN](https://soehartolibrary.id/tag/gbhn/), [Istana Merdeka](https://soehartolibrary.id/tag/istana-merdeka/), [Macan Asia](https://soehartolibrary.id/tag/macan-asia/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Pers](https://soehartolibrary.id/tag/pers/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [repelita](https://soehartolibrary.id/tag/repelita/), [tinggal landas](https://soehartolibrary.id/tag/tinggal-landas-2/)

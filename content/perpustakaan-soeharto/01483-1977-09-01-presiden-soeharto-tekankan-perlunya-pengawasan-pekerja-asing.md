@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto Tekankan Perlunya Pengawasan Pekerja Asing
 
-## Instruksikan Kesiapan Instansi Terkait dalam Sensus Konstruksi[[1]](#_ftn1)
+## Instruksikan Kesiapan Instansi Terkait dalam Sensus Konstruksi1
 
 **KAMIS,****1 SEPTEMBER** **1977** Presiden Soeharto menekankan sekali lagi perlunya pengawasan yang betul-betul terhadap perusahaan perusahaan yang mempekerjakan tenaga kerja asing, sehingga kepentingan buruh di Indonesia tidak dirugikan. Hal itu dikatakannya ketika menerima Menteri Tenaga Kerja; Transmigrasi dan Koperasi Prof. Dr. Subroto di jalan Cendana Jakarta. Dalam kesempatan itu Subroto telah menyampaikan laporan mengenai pelaksanaan Keputusan Presiden No. 36 Tahun 1977, tentang pembentukan suatu badan yang akan mengatur dan mengawasi pengeksporan jasa konstruksi dan barang-barang ke luar negeri, khususnya ke Timur Tengah.
 
@@ -54,6 +54,6 @@ Presiden Soeharto menginstruksikan kepada Menteri PUTL, Menteri Dalam Negeri dan
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 533. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 533. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Kepala Biro Statistik](https://soehartolibrary.id/tag/kepala-biro-statistik/), [menteri dalam negeri](https://soehartolibrary.id/tag/menteri-dalam-negeri/), [Menteri PUTL](https://soehartolibrary.id/tag/menteri-putl/), [Pekerja Asing](https://soehartolibrary.id/tag/pekerja-asing/), [perminyakan](https://soehartolibrary.id/tag/perminyakan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Prof. Dr. Subroto](https://soehartolibrary.id/tag/prof-dr-subroto/), [Sensus Konstruksi](https://soehartolibrary.id/tag/sensus-konstruksi/)

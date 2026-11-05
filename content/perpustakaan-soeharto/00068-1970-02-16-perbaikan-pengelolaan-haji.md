@@ -39,7 +39,7 @@ relasi:
 
 IDUL ADHA DAN PERBAIKAN PENGELOLAAN HAJI
 
-(Segala Kebijaksanaan dan Pengaturan Haji dibuat Untuk Kepentingan Jamaah haji)[[1]](#_ftn1)
+(Segala Kebijaksanaan dan Pengaturan Haji dibuat Untuk Kepentingan Jamaah haji)1
 
 SENIN, 16 PEBRUARI, Menyambut hari raya Idul Adha, pagi hari Presiden Soeharto bersama-sama ummat Islam ibukota melakukan sholat *Ied* di halaman Istana Negara.
 
@@ -49,6 +49,6 @@ Presiden mengungkapkan bahwa sejak tahun lalu jemaah haji tidak lagi mendapat su
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Haji](https://soehartolibrary.id/tag/haji/), [Istana](https://soehartolibrary.id/tag/istana/), [Jamaah](https://soehartolibrary.id/tag/jamaah/), [Merdeka](https://soehartolibrary.id/tag/merdeka/), [Pengaturan](https://soehartolibrary.id/tag/pengaturan/), [Ummat Islam](https://soehartolibrary.id/tag/ummat-islam/)

@@ -45,6 +45,6 @@ JUM’AT, 7 FEBRUARI 1969. Presiden Soeharto menyatakan bahwa ia sangat mengharg
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Apresiasi](https://soehartolibrary.id/tag/apresiasi/), [Die](https://soehartolibrary.id/tag/die/), [HMI](https://soehartolibrary.id/tag/hmi/), [Natalis](https://soehartolibrary.id/tag/natalis/), [Presiden](https://soehartolibrary.id/tag/presiden/), [UI](https://soehartolibrary.id/tag/ui/), [XII](https://soehartolibrary.id/tag/xii/)

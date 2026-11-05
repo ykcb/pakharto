@@ -62,7 +62,7 @@ Kopkamtib beroperasi dengan jaringan hierarkis dari pusat hingga ke daerah:
 | Periode | Panglima Kopkamtib (Pangkopkamtib) | Catatan Kebijakan Utama |
 |---|---|---|
 | **1965–1973** | Jenderal [[Soeharto]] | Konsolidasi kekuasaan militer pasca-G30S, pembentukan Laksusda |
-| **1973–1974** | Jenderal Soemitro | Pendekatan dialogis awal dengan mahasiswa hingga meletusnya [[Peristiwa Malari 1974]] |
+| **1973–1974** | Jenderal Soemitro | Pendekatan dialogis awal dengan mahasiswa hingga meletusnya [[peristiwa/malari-1974]] |
 | **1974–1978** | Jenderal [[Soeharto]] (Diambil alih langsung) | Pembubaran Aspri, pembersihan kampus, dan penertiban pers nasional |
 | **1978–1983** | Laksamana Sudomo | Operasi Tertib (Opstib), penanganan kasus pembajakan pesawat Woyla 1981 |
 | **1983–1988** | Jenderal L. B. Moerdani | Pendekatan keamanan terintegrasi ABRI, penanganan Peristiwa Tanjung Priok 1984 |

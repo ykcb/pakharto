@@ -43,7 +43,7 @@ relasi:
 
 Presiden Soeharto: Asia Tenggara Tidak Perlu Persekutuan Militer
 
-(Disambut Presiden Nixon)[[1]](#_ftn1)
+(Disambut Presiden Nixon)1
 
 SELASA, 26 MEI 1970, Presiden dan Ibu Tien Soeharto kemarin tiba di Williamsburg, Virginia, kurang lebig 230 km dari Washington. Pagi ini Presiden Soeharto dan rombongan dijemput dengan helikopter kepresidenan menuju Washington dan selanjutnya disambut secara resmi oleh Presiden Nixon di halaman Gedung Putih. Dalam upacara penyambutan itu Presiden Soeharto mengatakan bahwa persahabatan antara Indonesia dan Amerika Serikat yang telah lama terjalin dan tidaklah didasarkan pada perhitungan untung atau rugi, melainkan persahabatan yang berlandaskan pada kesamaan orientasi dan keserasian dalam tujuan-tujuan pokok. Meskipun demikian tidak berarti bahwa diantara kedua negara tidak ada perbedaan pandangan terhadap berbagai masalah dunia. Lebih lanjut dikatakan oleh Presiden bahwa saat kunjungannya ini bertepatan dengan semakin mendesaknya kebutuhan akan usaha-usaha yang sungguh-sungguh serta realistis keanrah perdamaian dunia, khususnya di Asia Tenggara. Dalam hubungan ini dikatakan oleh Presiden bahwa stabilitas di Asia tidak saja memerlukan usaha bersama dari negara-Negara yang ada diwilayah ini, melainkan juga dari negara-negara di luarnya, karena kita semua bertanggungjawab untuk perdamaian dunia.
 
@@ -59,6 +59,6 @@ Siang ini Presiden dan Ibu Tien Soeharto dijamu makan siang oleh Wakil Presiden 
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 228-229.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 228-229.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Amerika Serikat](https://soehartolibrary.id/tag/amerika-serikat/), [Arlington](https://soehartolibrary.id/tag/arlington/), [Asia Tenggara](https://soehartolibrary.id/tag/asia-tenggara/), [Gedung Putih](https://soehartolibrary.id/tag/gedung-putih/), [Nixon](https://soehartolibrary.id/tag/nixon/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Spiro Agnew](https://soehartolibrary.id/tag/spiro-agnew/), [Virginia](https://soehartolibrary.id/tag/virginia/), [Washington](https://soehartolibrary.id/tag/washington/), [Williamsburg](https://soehartolibrary.id/tag/williamsburg/)

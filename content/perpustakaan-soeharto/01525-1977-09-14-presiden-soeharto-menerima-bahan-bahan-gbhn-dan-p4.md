@@ -49,7 +49,7 @@ relasi:
 
 # Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4
 
-## Delapan Mahasiswa Duduki DPR, Sudomo: *An**a**rcho-Syndicalism* [[1]](#_ftn1)
+## Delapan Mahasiswa Duduki DPR, Sudomo: *An**a**rcho-Syndicalism* 1
 
 ##
 
@@ -61,6 +61,6 @@ Presiden Soeharto hari ini menerima bahan-bahan untuk GBHN dan bahan-bahan yang 
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 536-537. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 536-537. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Daryatmo](https://soehartolibrary.id/tag/daryatmo/), [DPR](https://soehartolibrary.id/tag/dpr/), [GBHN](https://soehartolibrary.id/tag/gbhn/), [Ismail Saleh](https://soehartolibrary.id/tag/ismail-saleh/), [Kartakusumah](https://soehartolibrary.id/tag/kartakusumah/), [Kartidjo](https://soehartolibrary.id/tag/kartidjo/), [Mahasiswa](https://soehartolibrary.id/tag/mahasiswa/), [Mashuri](https://soehartolibrary.id/tag/mashuri/), [P4](https://soehartolibrary.id/tag/p4/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sudharmono](https://soehartolibrary.id/tag/sudharmono/), [SUdomo](https://soehartolibrary.id/tag/sudomo/), [Sumarlin](https://soehartolibrary.id/tag/sumarlin/)

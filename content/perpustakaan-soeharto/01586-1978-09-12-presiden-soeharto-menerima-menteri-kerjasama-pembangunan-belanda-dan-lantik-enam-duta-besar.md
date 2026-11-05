@@ -52,7 +52,7 @@ relasi:
 
 26 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1978-09-12-presiden-soeharto-menerima-menteri-kerjasama-pembangunan-belanda-dan-lantik-enam-duta-besar/#respond)  102 Views Share on
 
-# Presiden Soeharto Menerima Menteri Kerjasama Pembangunan Belanda dan Lantik Enam Duta Besar[[1]](#_ftn1)
+# Presiden Soeharto Menerima Menteri Kerjasama Pembangunan Belanda dan Lantik Enam Duta Besar1
 
 **SELASA, 12 SEPTEMBER** **1978**Menteri Kerjasama Pembangunan Belanda, Jan de Koning, pukul 09.00 pagi ini melakukan kunjungan kehormatan kepada Presiden Soeharto di Istana Merdeka. Pada kesempatan itu ia didampingi oleh Duta Besar Belanda untuk Indonesia, sementara Kepala Negara didampingi oleh Menko Ekuin, Widjojo Nitisastro. Dalam pertemuan tersebut telah dibicarakan mengenai perkembangan ekonomi negara-negara sedang berkembang, dan kemungkinan-kemungkinan untuk mencari jalan guna menjembatani jurang pemisah antara negara-negara industri dengan negara-negara sedang berkembang.
 
@@ -64,6 +64,6 @@ Dalam amanat pelantikannya, Kepala Negara antara lain telah menggariskan keyakin
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 62. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 62. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Brigjen. Soesidarto](https://soehartolibrary.id/tag/brigjen-soesidarto/), [Duta Besar](https://soehartolibrary.id/tag/duta-besar/), [Jan de Koning](https://soehartolibrary.id/tag/jan-de-koning/), [Kerajaan Belanda](https://soehartolibrary.id/tag/kerajaan-belanda/), [Kerajaan Thailand](https://soehartolibrary.id/tag/kerajaan-thailand/), [Laksdya. Sjamsul Bachri Tjiptosuhardjo](https://soehartolibrary.id/tag/laksdya-sjamsul-bachri-tjiptosuhardjo/), [Letjen. TNI A Hasnan Habib](https://soehartolibrary.id/tag/letjen-tni-a-hasnan-habib/), [Mayjen. Kaharudin Nasution](https://soehartolibrary.id/tag/mayjen-kaharudin-nasution/), [Mayjen. Sumpono Bajuadji](https://soehartolibrary.id/tag/mayjen-sumpono-bajuadji/), [Menko Ekuin](https://soehartolibrary.id/tag/menko-ekuin/), [Menteri Kerjasama Pembangunan Belanda](https://soehartolibrary.id/tag/menteri-kerjasama-pembangunan-belanda/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Republik India](https://soehartolibrary.id/tag/republik-india/), [Republik Korea](https://soehartolibrary.id/tag/republik-korea/), [Republik Sosialis Rumania](https://soehartolibrary.id/tag/republik-sosialis-rumania/), [Widjojo Nitisastro](https://soehartolibrary.id/tag/widjojo-nitisastro/)

@@ -41,7 +41,7 @@ relasi:
 
 # Kita Memiliki Kekhasan Demokrasi Sendiri
 
-## Pidato Tun Dr. Mahathir Mohamad[[1]](#_ftn1)
+## Pidato Tun Dr. Mahathir Mohamad1
 
 *Tun Dr. Mahathir Mohamad berkunjung ke Jakarta dalam rangka program Mahathir Bicara pada hari Kamis, 8 November 2012 di Universitas Mercu Buana. Acara tersebut merupakan kerjasama Yayasan Harapan Kita dengan* *Jabatan Hal Ehwal Khas (Jasa) Malaysia**. Kehadiran Perdana Menteri Malaysia pada periode 1983-2003 tersebut didampingi Ibu Tun Dr. Siti Hasmah. Ada pun tema ceramah yang dibawakan Tun Dr. Mahathir Mohamad adalah* ***Refleksi Hubungan RI-Malaysia Membangun Kemakmuran dan Kejayaan Berbasis Budaya Lokal di ASEAN Serta Peran Strategis di Dunia Internasional******.*** *Berikut ini pidato Tun Dr. Mahathir Mohaman dalam acara yang diikuti tidak kurang dari 2000 peserta, yang terdiri dari mahasiswa, guru, dosen, politisi, pengamat politik,dan lain sebagainya :*
 
@@ -135,6 +135,6 @@ Kita tidak dapat hapuskan sama sekali korupsi. Terpaksa kita terima tetapi korup
 
 ---
 
-[[1]](#_ftnref1) Perdana Menteri Malaysia 1983-2003
+1 Perdana Menteri Malaysia 1983-2003
 
  [Idiologi Bangsa](https://soehartolibrary.id/category/tinggal-landas/idiologi-bangsa/), [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Demokrasi](https://soehartolibrary.id/tag/demokrasi/), [Filipina](https://soehartolibrary.id/tag/filipina/), [ISA](https://soehartolibrary.id/tag/isa/), [Mahathir Mogamad](https://soehartolibrary.id/tag/mahathir-mogamad/), [Malaysia](https://soehartolibrary.id/tag/malaysia/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Singapura](https://soehartolibrary.id/tag/singapura/), [Thailand](https://soehartolibrary.id/tag/thailand/)

@@ -48,6 +48,6 @@ RABU, 19 FEBRUARI 1969. Presiden Soeharto pagi ini membuka rapat Departemen Pert
 
 ---
 
-[[1]](#_ftnref1)     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003
+1     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [dalam](https://soehartolibrary.id/tag/dalam/), [kecukupan](https://soehartolibrary.id/tag/kecukupan/), [Negeri](https://soehartolibrary.id/tag/negeri/), [pangan](https://soehartolibrary.id/tag/pangan/), [pertanian](https://soehartolibrary.id/tag/pertanian/), [sektor](https://soehartolibrary.id/tag/sektor/)

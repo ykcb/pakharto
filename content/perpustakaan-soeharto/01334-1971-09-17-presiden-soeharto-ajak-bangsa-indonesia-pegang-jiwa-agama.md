@@ -40,7 +40,7 @@ relasi:
 
 # Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama
 
-## Pembangunan Hendaknya Tetap Berakar Pada Kepribadian Bangsa[[1]](#_ftn1)
+## Pembangunan Hendaknya Tetap Berakar Pada Kepribadian Bangsa1
 
 **JUM’AT, 17 SEPTEMBER** **1971** Pada peringatan Isra’ Mi’raj di Istana Negara malam ini. Presiden mengajak segenap bangsa Indonesia untuk berpegang  kepada  “jiwa”  ajaran  agamanya  masing-masing, yaitu  pembangunan masyarakat yang telah dirintis baik oleh Nabi Muhammad SAW maupun nabi-nabi sebelumnya. Menurut Presiden, selama ini kita sering terlupa akan bagian penting dari ajaran agama itu, yakni “isi” dan “jiwa” ajaran agama kita. Malahan tidak jarang kita terseret dalam perselisihan­-perselisihan hangat  mengenai  “kulit” atau  “baju luar”-nya  saja.  Oleh karena itu kita harus kembali berpegang pada “jiwa” ajaran agama kita.
 
@@ -48,6 +48,6 @@ Presiden juga mengatakan bahwa pembangunan masyarakat hendaknya tetap berakar da
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 367-368. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 367-368. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Isra’ Mi’raj](https://soehartolibrary.id/tag/isra-miraj/), [Jiwa Agama](https://soehartolibrary.id/tag/jiwa-agama/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

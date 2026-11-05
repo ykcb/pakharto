@@ -91,6 +91,6 @@ Korupsi sebagai *issue* politik memang paling ampuh, mudah sekali diterima rakya
 
 ---
 
-[[1]](#_ftnref1)        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal. 250
+1        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal. 250
 
  [Masa Pembangunan](https://soehartolibrary.id/category/biografi/masa-pembangunan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Jaksa Agung](https://soehartolibrary.id/tag/jaksa-agung/), [Kasimo](https://soehartolibrary.id/tag/kasimo/), [Komisi Anti Korupsi](https://soehartolibrary.id/tag/komisi-anti-korupsi/), [Komisi Empat](https://soehartolibrary.id/tag/komisi-empat/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pekuneg](https://soehartolibrary.id/tag/pekuneg/)

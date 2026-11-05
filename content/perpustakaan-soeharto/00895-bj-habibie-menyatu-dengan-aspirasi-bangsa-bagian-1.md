@@ -40,9 +40,9 @@ relasi:
 
 # BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 1)
 
-# Menyatu dengan Aspirasi Bangsa (Bagian 1)[[1]](#_ftn1)
+# Menyatu dengan Aspirasi Bangsa (Bagian 1)1
 
-## BJ Habibie[[2]](#_ftn2)
+## BJ Habibie2
 
 Pada saat Pak Harto merayakan ulang tahun beliau yang ketujuhpuluh tahun ini, berarti telah 41 tahun saya mengenal beliau. Dari tahun 1950 hingga tahun 1974 pertemuan antara Pak Harto dengan saya pribadi dan keluarga tidak sesering sebagaimana telah berlangsung sejak saya, pada tahun 1974, memperoleh kehormatan membantu beliau sebagai Presiden/Mandataris MPR melaksanakan pembangunan bangsa dan negara. Namun hubungan kerja dan silaturahmi dengan pertemuan-pertemuan yang sedemikian sering, teratur dan sistematis sejak tahun 1974 itu didahului oleh ikatan batin dan kekeluargaan yang telah berlangsung selama hampir 24 tahun.
 
@@ -81,8 +81,8 @@ BJ Habibie terpilih sebagai wakil Presiden pada tahun 1997 mendampingi Presiden 
 
 ---
 
-[[1]](#_ftnref1) BJ. Habibie, “Menyatu dengan Aspirasi Bangsa”, dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 370-373.
+1 BJ. Habibie, “Menyatu dengan Aspirasi Bangsa”, dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 370-373.
 
-[[2]](#_ftnref2) Menteri Negara Riset dan Teknologi dalam Kabinet Pembangunan V.
+2 Menteri Negara Riset dan Teknologi dalam Kabinet Pembangunan V.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [BJ](https://soehartolibrary.id/tag/bj/), [Habibie](https://soehartolibrary.id/tag/habibie/), [Jerman](https://soehartolibrary.id/tag/jerman/), [Makasar](https://soehartolibrary.id/tag/makasar/), [Menristek](https://soehartolibrary.id/tag/menristek/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Subono Manthovani](https://soehartolibrary.id/tag/subono-manthovani/)

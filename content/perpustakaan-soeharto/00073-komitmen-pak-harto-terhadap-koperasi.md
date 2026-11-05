@@ -280,6 +280,6 @@ Fakta yang jelas terpampang, globalisasi harus disikapi dengan kesiapan yuridis 
 
 ---
 
-[[1]](#_ftnref1) Wartawan Senior Istana Pada Masa Kepemimpinan Presiden Soekarno (1964-1967) dan Presiden Soeharto (1974-1983).
+1 Wartawan Senior Istana Pada Masa Kepemimpinan Presiden Soekarno (1964-1967) dan Presiden Soeharto (1974-1983).
 
  [Prestasi Pembangunan](https://soehartolibrary.id/category/tinggal-landas/prestasi-pembangunan/)  [Bulog](https://soehartolibrary.id/tag/bulog/), [BUMN](https://soehartolibrary.id/tag/bumn/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [Kekuatan](https://soehartolibrary.id/tag/kekuatan/), [Koperasi](https://soehartolibrary.id/tag/koperasi/), [Nasional](https://soehartolibrary.id/tag/nasional/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/)

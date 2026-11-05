@@ -42,7 +42,7 @@ relasi:
 
 # 1969-06-28 Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira Gandi
 
-# Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira Gandi[[1]](#_ftn1)
+# Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira Gandi1
 
 Sabtu, 28 Juni 1969, Presiden dan Ibu Tien Soeharto sore ini menyambut kedatangan PM India, Nyonya Indira Gandhi, di lapangan udara kemayoran, Jakarta. Dalam pidato sambutannya, Presiden mengemukakan bahwa Nyonya Indira Gandhi dan rakyat India terasa sangat dekat di hati rakyat Indonesia. Presiden mengharapkan bahwa Kunjungan PM Indira Gandhi akan mempererat hubungan persahabatan, saling pengertian dan kerjasama antara kedua Negara. PM Indira Gandhi, dalam pidato balasannya membenarkan ucapan Presiden Soeharto. Ia mengatakan bahwa banyak perkembangan yang terjadi sejak kemerdekaan Indonesia pada tanggal 17 Agustus 1945, baik di dalam kedua Negara maupun di dunia pada umumnya. Walaupun demikian, ia berpendapat bahwa yang dicetuskan oleh konferensi Bandung pada tahun 1955 tetap bermanfaat, karena prinsip-prinsip itu berhubungan dengan kebenaran yang hakiki.
 
@@ -52,6 +52,6 @@ PM India Nyonya Indira Gandhi dalam sambutannya, mengatakan bahwa ia melihat ban
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 132-233. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 132-233. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Bebas Aktif](https://soehartolibrary.id/tag/bebas-aktif/), [Dasasila Bandung](https://soehartolibrary.id/tag/dasasila-bandung/), [Ibu Tien](https://soehartolibrary.id/tag/ibu-tien/), [Nyonya Indira Gandi](https://soehartolibrary.id/tag/nyonya-indira-gandi/), [Pm India](https://soehartolibrary.id/tag/pm-india/), [Politik Luar Negeri](https://soehartolibrary.id/tag/politik-luar-negeri/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

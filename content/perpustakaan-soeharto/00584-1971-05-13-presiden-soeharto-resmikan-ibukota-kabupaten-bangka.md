@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto Resmikan Ibukota Kabupaten Bangka
 
-## (Anjurkan Hidupkan Koperasi Untuk Petani Lada dan Kopi)[[1]](#_ftn1)
+## (Anjurkan Hidupkan Koperasi Untuk Petani Lada dan Kopi)1
 
 Kamis, 13 Mei 1971, Dari Tanjung Pinang, Presiden Soeharto beserta rombongan pagi ini tiba di Pulau Bangka. Di Pulau “Timah” ini Presiden meresmikan ibukota Kabupaten Bangka yang baru, yaitu Sungai Liat. Setelah itu Presiden meninjau tambang timah Bangka. Dalam amanatnya kepada karyawan tambang, para camat, lurah dan bupati di daerah tersebut, Presiden Soeharto mengatakan bahwa pemerintah tidak mengulang tindakan-tindakan yang pernah dilakukan pada masa Orde Lama, seperti pemotongan uang, karena hal itu akan memukul rakyat sendiri. Sebaliknya, pemerintah akan menstabilkan ekonomi dan dengan sekuat tenaga menekan inflasi.
 
@@ -53,6 +53,6 @@ Sebagaimana halnya di Tanjung Pinang, di Bangka pun malam harinya Presiden menga
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 327-328.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 327-328.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [alim ulama](https://soehartolibrary.id/tag/alim-ulama/), [Bangka](https://soehartolibrary.id/tag/bangka/), [Ibukota](https://soehartolibrary.id/tag/ibukota/), [kopi](https://soehartolibrary.id/tag/kopi/), [kperasi](https://soehartolibrary.id/tag/kperasi/), [lada](https://soehartolibrary.id/tag/lada/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sungai Liat](https://soehartolibrary.id/tag/sungai-liat/), [Timah](https://soehartolibrary.id/tag/timah/)

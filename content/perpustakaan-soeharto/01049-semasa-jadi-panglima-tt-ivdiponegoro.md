@@ -129,6 +129,6 @@ Saya menangkap dalam kesempatan itu semangat Insinyur Habibie dalam menghadapi b
 
 ---
 
-[[1]](#_ftnref1)        Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal. 89.
+1        Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal. 89.
 
  [Biografi](https://soehartolibrary.id/category/biografi/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Bob Hasan](https://soehartolibrary.id/tag/bob-hasan/), [Gatot Soebroto](https://soehartolibrary.id/tag/gatot-soebroto/), [Ki Hajar Dewantara](https://soehartolibrary.id/tag/ki-hajar-dewantara/), [Nasution](https://soehartolibrary.id/tag/nasution/), [Panglima Diponegoro](https://soehartolibrary.id/tag/panglima-diponegoro/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

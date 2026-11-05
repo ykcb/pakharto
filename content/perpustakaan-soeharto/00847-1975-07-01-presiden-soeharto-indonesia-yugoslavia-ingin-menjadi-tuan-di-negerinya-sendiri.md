@@ -44,7 +44,7 @@ relasi:
 
 # 1975-07-01 Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya Sendiri
 
-# Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya Sendiri[[1]](#_ftn1)
+# Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya Sendiri1
 
 SELASA, 01 Juli 1975, Pukul 12.30 waktu setempat, Presiden Soeharto dan rombongan tiba di Brioni, Yugoslavia. Terletak di tepi Laut Adriatik, Brioni adalah sebuah pulau tempat peristirahatan Presiden Josef Broz Tito. Di dermaga Brioni Presiden dan Ibu Soeharto disambut oleh Presiden dan Nyonya Tito, Perdana Menteri Bijedic serta pejabat-pejabat tinggi negara itu.
 
@@ -56,6 +56,6 @@ Menyambut pidato Kepala Negara Yugoslavia itu, Presiden Soeharto mengatakan bahw
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 263. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
+1 Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 263. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Afrika](https://soehartolibrary.id/tag/afrika/), [Asia](https://soehartolibrary.id/tag/asia/), [Brioni](https://soehartolibrary.id/tag/brioni/), [Indonesia](https://soehartolibrary.id/tag/indonesia/), [Josef Broz Tito](https://soehartolibrary.id/tag/josef-broz-tito/), [Laut Adriatik](https://soehartolibrary.id/tag/laut-adriatik/), [Non Blok](https://soehartolibrary.id/tag/non-blok/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Yugoslavia](https://soehartolibrary.id/tag/yugoslavia/)

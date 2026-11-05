@@ -38,7 +38,7 @@ relasi:
 
 #
 
-# Ke Tangga Pejabat Presiden [[1]](#_ftn1)
+# Ke Tangga Pejabat Presiden 1
 
 Saya di dorong-dorong di tengah suasana konflik politik untuk tampil ke depan. Ada politisi yang tidak sabar akan perubahan dan pergantian pimpinan. Sampai-sampai mengusulkan supaya saya mengoper begitu saja kekuasaan negara. Usul tersebut langsung saja jawab: “kalau caranya begitu, lebih baik mundur saja.” Cara-cara seperti itu bukan cara yang baik. Merebut kekuasaan dengan kekuasaan militer tidak akan menimbulkan stabilitas yang langgeng. Saya tidak akan mewariskan sejarah yang menunjukkan bahwa di Indonesia ini pernah terjadi perebutan kekuasaan dengan kekuatan militer. Saya tidak mempunyai sedikitpun pikiran di benak saya, untuk melakukan *coup* atau gerakan yang bernoda. Gerakan serupa itu, menurut saya, tidak akan berhasil.
 
@@ -162,6 +162,6 @@ Istri saya sepaham. Istri saya juga pejuang. Kami sependirian, bahwa kalau ada s
 
 ---
 
-[[1]](#_ftnref1) Penuturan Presiden Soeharto, dikutip langsung dari buku “Soeharto: Pikiran, Ucapan dan Tindakan Saya”, (Jakarta: PT. Citra Kharisma Bunda, 1989), Hal. 185-192)
+1 Penuturan Presiden Soeharto, dikutip langsung dari buku “Soeharto: Pikiran, Ucapan dan Tindakan Saya”, (Jakarta: PT. Citra Kharisma Bunda, 1989), Hal. 185-192)
 
  [Masa Pembangunan](https://soehartolibrary.id/category/biografi/masa-pembangunan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Pak Harto. Pejabat Presiden](https://soehartolibrary.id/tag/pak-harto-pejabat-presiden/)

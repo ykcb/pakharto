@@ -35,9 +35,9 @@ relasi:
 
 # BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 4)
 
-# Menyatu dengan Aspirasi Bangsa (Bagian 4)[[1]](#_ftn1)
+# Menyatu dengan Aspirasi Bangsa (Bagian 4)1
 
-## BJ Habibie[[2]](#_ftn2)
+## BJ Habibie2
 
 Sejak pertemuan itu, saya memperoleh kesempatan untuk secara periodik berdialog dengan Pak Harto dan dengan demikian, mendengar sendiri dari dekat pemikiran-pemikiran beliau. Ternyata bahwa Pak Harto yang saya kenal sejak tahun 1950 sebagai pemimpin pemuda yang pendiam berumur 28 tahun, yang memiliki rasa kemanusiaan dan jiwa perjuangan yang tinggi, oleh sejarah serta perkembangan hidupnya telah dibentuk menjadi seorang pemikir falsafah, pemikir setrategis, dan pemikir politik, serta seorang negarawan.
 
@@ -63,8 +63,8 @@ Oleh karena itu, saya melaksanakan tugas-tugas dengan tenang dan mantap. Saya me
 
 ---
 
-[[1]](#_ftnref1) BJ. Habibie, “Menyatu Dengan Aspirasi Bangsa”,  dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 381-384.
+1 BJ. Habibie, “Menyatu Dengan Aspirasi Bangsa”,  dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 381-384.
 
-[[2]](#_ftnref2) Menteri Negara Riset dan Teknologi dalam Kabinet Pembangunan V.
+2 Menteri Negara Riset dan Teknologi dalam Kabinet Pembangunan V.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [BJ. Habibie](https://soehartolibrary.id/tag/bj-habibie/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

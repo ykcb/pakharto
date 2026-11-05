@@ -47,7 +47,7 @@ Sistem ini dibenarkan sebagai cara menjaga **Stabilitas Nasional** dan menghinda
 ## Hubungan dengan konsep lain
 
 - Berhubungan erat dengan [[Dwifungsi ABRI]] karena ABRI menjadi penjaga implementasi Demokrasi Pancasila.
-- Diimplementasikan melalui [[Pemilu-pemilu Orde Baru]] sebagai mekanisme pemilihan umum yang terkendali.
+- Diimplementasikan melalui [[hub/pemilu-orde-baru]] sebagai mekanisme pemilihan umum yang terkendali.
 
 ## Sumber
 

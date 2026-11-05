@@ -51,6 +51,6 @@ Untuk memperlancar pelaksanaan ibadah haji, maka mulai tahun ini penyetoran uang
 
 ---
 
-[[1]](#_ftnref1)    Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003
+1    Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Adha](https://soehartolibrary.id/tag/adha/), [Haji](https://soehartolibrary.id/tag/haji/), [Ibadah](https://soehartolibrary.id/tag/ibadah/), [Iedul](https://soehartolibrary.id/tag/iedul/), [Istana](https://soehartolibrary.id/tag/istana/), [Merdeka](https://soehartolibrary.id/tag/merdeka/), [Pengelolaan](https://soehartolibrary.id/tag/pengelolaan/), [Zakat](https://soehartolibrary.id/tag/zakat/)

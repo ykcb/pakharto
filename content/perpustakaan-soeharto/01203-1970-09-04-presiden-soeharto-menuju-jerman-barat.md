@@ -45,7 +45,7 @@ relasi:
 
 5 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1970-09-04-presiden-soeharto-menuju-jerman-barat/#respond)  94 Views Share on
 
-# Presiden Soeharto Menuju Jerman Barat[[1]](#_ftn1)
+# Presiden Soeharto Menuju Jerman Barat1
 
 JUM’AT, 04 SEPTEMBER 1970, Jam 10.05 waktu setempat Presiden Soeharto beserta rombongan meninggalkan Negeri Belanda menuju Jerman Barat, dilepas oleh Ratu Juliana dan Pangeran Bernhard serta PM Piet de Jong, dengan suatu upacara militer.
 
@@ -61,6 +61,6 @@ Untuk menghormati kunjungan Presiden dan Ibu Soeharto di Jerman Barat, malam har
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 254-255. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 254-255. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Bonn](https://soehartolibrary.id/tag/bonn/), [Cologne](https://soehartolibrary.id/tag/cologne/), [Jerman Barat](https://soehartolibrary.id/tag/jerman-barat/), [Lusaka](https://soehartolibrary.id/tag/lusaka/), [Negeri Belanda](https://soehartolibrary.id/tag/negeri-belanda/), [Pangeran Bernhard](https://soehartolibrary.id/tag/pangeran-bernhard/), [PM Piet de Jong](https://soehartolibrary.id/tag/pm-piet-de-jong/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Ratu Juliana](https://soehartolibrary.id/tag/ratu-juliana/), [wartawan Jerman](https://soehartolibrary.id/tag/wartawan-jerman/), [Zambia](https://soehartolibrary.id/tag/zambia/)

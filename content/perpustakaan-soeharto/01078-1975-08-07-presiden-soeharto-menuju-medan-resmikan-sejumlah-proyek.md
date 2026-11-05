@@ -52,7 +52,7 @@ relasi:
 
 # Presiden Soeharto Menuju Medan Resmikan Sejumlah Proyek
 
-## Pusat Kesenian Tapian Daya, Trans Sumatera Microwave dan Plywood Besitang[[1]](#_ftn1)
+## Pusat Kesenian Tapian Daya, Trans Sumatera Microwave dan Plywood Besitang1
 
 KAMIS, 07 AGUSTUS 1975. Dengan menumpang pesawat Fokker-28, Presiden Soeharto berangkat ke Medan dari lapangan udara Halim Perdanakusuma dalam rangka peresmian sejumlah proyek pembangunan di Sumatera Utara. Proyek-proyek tersebut adalah Pusat Kesenian Tapian Daya, Trans Sumatera Microwave, dan pabrik plywood PT Raja Garuda Mas yang terletak di Besitang.
 
@@ -62,6 +62,6 @@ Sementara itu, ketika meresmikan Trans Sumatera Microwave secara simbolis di Gub
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 274-275. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 274-275. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ali Sadikin](https://soehartolibrary.id/tag/ali-sadikin/), [Besitang](https://soehartolibrary.id/tag/besitang/), [Gubernur Bali](https://soehartolibrary.id/tag/gubernur-bali/), [Gubernur DKI Jakarta](https://soehartolibrary.id/tag/gubernur-dki-jakarta/), [Gubernur Jawa Timur](https://soehartolibrary.id/tag/gubernur-jawa-timur/), [Medan](https://soehartolibrary.id/tag/medan/), [Mohammad Noer](https://soehartolibrary.id/tag/mohammad-noer/), [pabrik plywood](https://soehartolibrary.id/tag/pabrik-plywood/), [Persmian Proyek](https://soehartolibrary.id/tag/persmian-proyek/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [PT Raja Garuda Mas](https://soehartolibrary.id/tag/pt-raja-garuda-mas/), [Pusat Kesenian](https://soehartolibrary.id/tag/pusat-kesenian/), [Sukarmen](https://soehartolibrary.id/tag/sukarmen/), [Sumatera Utara](https://soehartolibrary.id/tag/sumatera-utara/), [Tapian Daya](https://soehartolibrary.id/tag/tapian-daya/), [Trans Sumatera Microwave](https://soehartolibrary.id/tag/trans-sumatera-microwave/)

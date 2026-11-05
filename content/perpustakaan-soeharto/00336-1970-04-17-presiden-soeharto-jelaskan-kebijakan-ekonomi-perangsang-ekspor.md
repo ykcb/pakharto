@@ -37,7 +37,7 @@ relasi:
 
 # 1970-04-17 Presiden Soeharto Jelaskan Kebijakan Ekonomi Perangsang Ekspor
 
-# Presiden Soeharto Jelaskan Kebijakan Ekonomi Perangsang Ekspor[[1]](#_ftn1)
+# Presiden Soeharto Jelaskan Kebijakan Ekonomi Perangsang Ekspor1
 
 JUM’AT, 17  APRIL 1970, Pagi ini Presiden Soeharto mengadakan pembicaraan dengan pimpinan DPR-GR, pimpinan partai politik dan Golkar bertempat di Istana Negara. Dalam pertemuan tersebut, Presiden memberi penjelasan atas kebijaksanaan baru pemerintah di bidang ekonomi dan keuangan yang bertujuan  merangsang kegiatan ekspor.
 
@@ -45,6 +45,6 @@ Selain itu Presiden mengumumkan juga tentang penyederhanaan kurs valuta asing da
 
 ---
 
-[[1]](#_ftnref1)     Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 218.
+1     Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 218.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [DPRGR](https://soehartolibrary.id/tag/dprgr/), [Ekspor](https://soehartolibrary.id/tag/ekspor/), [kurs](https://soehartolibrary.id/tag/kurs/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [valuta asing](https://soehartolibrary.id/tag/valuta-asing/)

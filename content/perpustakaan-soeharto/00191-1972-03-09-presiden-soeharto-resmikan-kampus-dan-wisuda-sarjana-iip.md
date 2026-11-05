@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto Resmikan Kampus dan Wisuda Sarjana IIP
 
-## (Pembicaraan dengan Wakil PM Malaysia di Cendana)[[1]](#_ftn1)
+## (Pembicaraan dengan Wakil PM Malaysia di Cendana)1
 
 ##
 
@@ -53,6 +53,6 @@ Sebelum itu Presiden Soeharto telah mengadakan pertemuan dengan Wakil PM Malaysi
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 424
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 424
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [IIP](https://soehartolibrary.id/tag/iip/), [Kampus](https://soehartolibrary.id/tag/kampus/), [Ketahanan](https://soehartolibrary.id/tag/ketahanan/), [Malaysia](https://soehartolibrary.id/tag/malaysia/), [Nasional](https://soehartolibrary.id/tag/nasional/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Wisuda](https://soehartolibrary.id/tag/wisuda/)

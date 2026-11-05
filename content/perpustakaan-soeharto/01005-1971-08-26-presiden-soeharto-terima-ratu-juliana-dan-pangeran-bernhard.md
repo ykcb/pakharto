@@ -38,7 +38,7 @@ relasi:
 
 18 Agustus 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1971-08-26-presiden-soeharto-terima-ratu-juliana-dan-pangeran-bernhard/#respond)  116 Views Share on
 
-# Presiden Soeharto Terima Ratu Juliana dan Pangeran Bernhard[[1]](#_ftn1)
+# Presiden Soeharto Terima Ratu Juliana dan Pangeran Bernhard1
 
 KAMIS, 26 AGUSTUS 1971, Presiden dan Ibu Tien Soeharto menyambut Kepala Negara Belanda Ratu Juliana dan Pangeran Bernhard di lapangan udara Kemayoran. Mereka berada di Indonesia selama 10 hari, dan ini merupakan kunjungan pertama dari Kepala Negara Belanda di negeri yang pernah dijajahnya.
 
@@ -48,6 +48,6 @@ Dalam pidato balasannya, Ratu Juliana mengatakan bahwa merupakan suatu kehormata
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 359. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 359. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Belanda](https://soehartolibrary.id/tag/belanda/), [Pangeran Bernhard](https://soehartolibrary.id/tag/pangeran-bernhard/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Ratu Juliana](https://soehartolibrary.id/tag/ratu-juliana/)

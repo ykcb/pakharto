@@ -48,7 +48,7 @@ relasi:
 
 # Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan Nusantara
 
-## Tandatangani Kerjasama Teknik dan Tukar Menukar Naskah Ratifikasi Batas Laut[[1]](#_ftn1)
+## Tandatangani Kerjasama Teknik dan Tukar Menukar Naskah Ratifikasi Batas Laut1
 
 KAMIS, 29 AGUSTUS 1974, Sebelum meninggalkan Birma hari ini, Presiden Soeharto dan Presiden Ne Win telah mengeluarkan suatu pernyataan bersama. Dalam pernyataan bersama itu antara lain dinyatakan bahwa Birma mendukung konsep Wawasan Nusantara yang sedang diperjuangkan Indonesia.
 
@@ -58,6 +58,6 @@ Pada hari pertama kunjungan Presiden Soeharto, telah ditandatangani suatu perset
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 150-151. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 150-151. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Batas Laut](https://soehartolibrary.id/tag/batas-laut/), [Birma](https://soehartolibrary.id/tag/birma/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [Kerjasama Teknik](https://soehartolibrary.id/tag/kerjasama-teknik/), [Ne Win](https://soehartolibrary.id/tag/ne-win/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [ratifikasi](https://soehartolibrary.id/tag/ratifikasi/), [Singapura](https://soehartolibrary.id/tag/singapura/), [Wawasan Nusantara](https://soehartolibrary.id/tag/wawasan-nusantara/)

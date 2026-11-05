@@ -51,7 +51,7 @@ Jakarta-Indonesia
 
 #
 
-# Tuntutan Reformasi Berlebihan[[1]](#_ftn1)
+# Tuntutan Reformasi Berlebihan1
 
 **Salam Perjuangan,**
 
@@ -71,6 +71,6 @@ Emporia Kansas – USA
 
 ---
 
-[[1]](#_ftnref1)       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 643-644. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto menyatakan berhenti dari kursi Kepresidenan. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
+1       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 643-644. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto menyatakan berhenti dari kursi Kepresidenan. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
 
  [Simpati](https://soehartolibrary.id/category/biografi/simpati/)  [Emporia](https://soehartolibrary.id/tag/emporia/), [Kansas](https://soehartolibrary.id/tag/kansas/), [Mahasiswa](https://soehartolibrary.id/tag/mahasiswa/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Reformasi](https://soehartolibrary.id/tag/reformasi/), [USA](https://soehartolibrary.id/tag/usa/)

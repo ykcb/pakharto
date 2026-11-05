@@ -47,7 +47,7 @@ relasi:
 
 # Presiden Soeharto-PM Tun Abdul Razak Bertemu di Tretes
 
-## Hadiri Kontes Sapi dan Pameran Ternak di Plumbon Pandaan [[1]](#_ftn1)
+## Hadiri Kontes Sapi dan Pameran Ternak di Plumbon Pandaan 1
 
 **SENIN, 9** **SEPTEMBER** **1974** Pukul 08.40 pagi ini Presiden Soeharto tiba di lapangah udara Juanda, Surabaya. Sepuluh menit kemudian di tempat yang sama tiba pula Perdana Menteri Malaysia, Tun Abdul Razak. Keberadaan kedua pemimpin di sini adalah dalam rangka pembicaraan tidak resmi yang berlangsung siang ini di daerah peristirahatan Jawa Timur yang terkenal, Tretes. Pembicaraan tidak resmi ini meliputi masalah­masalah bilateral dan regional, akan tetapi tidak diperoleh keterangan mengenai persoalan-persoalan yang telah dibahas. Namun demikian, kedua belah pihak menilai pertemuan tidak resmi itu sebagai sangat memuaskan.
 
@@ -57,6 +57,6 @@ Sebelum melangsungkan pembicaraan di Tretes, pukul 10.00 pagi ini Presiden Soeha
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 155-156. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 155-156. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Bali](https://soehartolibrary.id/tag/bali/), [Juanda](https://soehartolibrary.id/tag/juanda/), [Kontes Sapi](https://soehartolibrary.id/tag/kontes-sapi/), [Malaysia](https://soehartolibrary.id/tag/malaysia/), [Pameran Ternak](https://soehartolibrary.id/tag/pameran-ternak/), [Pandaan](https://soehartolibrary.id/tag/pandaan/), [Perdana Menteri](https://soehartolibrary.id/tag/perdana-menteri/), [Plumbon](https://soehartolibrary.id/tag/plumbon/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Tretes](https://soehartolibrary.id/tag/tretes/), [Tun Abdul Razak](https://soehartolibrary.id/tag/tun-abdul-razak/)

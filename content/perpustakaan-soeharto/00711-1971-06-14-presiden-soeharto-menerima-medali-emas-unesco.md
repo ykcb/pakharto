@@ -36,12 +36,12 @@ relasi:
 
 # 1971-06-14 Presiden Soeharto Menerima Medali Emas Unesco
 
-# Presiden Soeharto Menerima Medali Emas Unesco[[1]](#_ftn1)
+# Presiden Soeharto Menerima Medali Emas Unesco1
 
 SABTU, 14 Juni 1971, Presiden Soeharto menerima medali Emas dari UNESCO sebagai penghargaan atas karya-karyanya. Tanda penghargaan tersebut disampaikan oleh Direktur Jenderal UNESCO Dr. Rene Maheu, ketika diterima Presiden Soeharto di Istana Merdeka pagi ini. (AFR).
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 336. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 336. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Medali](https://soehartolibrary.id/tag/medali/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Unesco](https://soehartolibrary.id/tag/unesco/)

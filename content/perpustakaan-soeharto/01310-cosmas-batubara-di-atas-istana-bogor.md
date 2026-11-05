@@ -41,9 +41,9 @@ relasi:
 
 10 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/cosmas-batubara-di-atas-istana-bogor/#respond)  123 Views Share on
 
-# Di Atas Istana Bogor[[1]](#_ftn1)
+# Di Atas Istana Bogor1
 
-## Oleh: Cosmas Batubara[[2]](#_ftn2)
+## Oleh: Cosmas Batubara2
 
 15 Januari 1966 —suatu hari di antara situasi politik yang kian panas dan mencekam— berlangsunglah Sidang Kabinet Paripurna di Istana Bogor. Saya dan kawan-kawan  mahasiswa dari pimpinan Kesatuan Aksi Mahasiswa Indonesia (KAMI) diundang menghadiri sidang tersebut.
 
@@ -87,8 +87,8 @@ Perencanaan atau pengaturan waktu beliau sangat tepat. Belum pernah saya mendeng
 
 ---
 
-[[1]](#_ftnref1)       Penuturan Cosmas Batubara sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 177).
+1       Penuturan Cosmas Batubara sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 177).
 
-[[2]](#_ftnref2)       Cosmas batubara yang lahir di Purbasaribu, Simalungun, Sumatera Utara, 19 September 1938 , ia pernah menjabat Menteri Muda Urusah Perumahan Rakyat Kabinet Pembangunan III, Menteri Negara Perumahan Rakyat Kabinet Pembangunan IV, dan Menteri Tenaga Kerja Kabinet Pembangunan V. Semasa kuliah Cosmas aktif di Persatuan Mahasiswa Katolik Republik Indonesia (PMKRI) hingga menjadi Ketua Umum Pengurus Pusat. Pasca pemberontakan G.30.S/PKI tahun 1965, ia Ketua Presidium KAMI (Kesatuan Aksi Mahasiswa Indonesia) Pusat di tahun 1966.
+2       Cosmas batubara yang lahir di Purbasaribu, Simalungun, Sumatera Utara, 19 September 1938 , ia pernah menjabat Menteri Muda Urusah Perumahan Rakyat Kabinet Pembangunan III, Menteri Negara Perumahan Rakyat Kabinet Pembangunan IV, dan Menteri Tenaga Kerja Kabinet Pembangunan V. Semasa kuliah Cosmas aktif di Persatuan Mahasiswa Katolik Republik Indonesia (PMKRI) hingga menjadi Ketua Umum Pengurus Pusat. Pasca pemberontakan G.30.S/PKI tahun 1965, ia Ketua Presidium KAMI (Kesatuan Aksi Mahasiswa Indonesia) Pusat di tahun 1966.
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Cosmas Batubara](https://soehartolibrary.id/tag/cosmas-batubara/), [Imam Katolik](https://soehartolibrary.id/tag/imam-katolik/), [Istana Bogor](https://soehartolibrary.id/tag/istana-bogor/), [Menteri Perumahan Rakyat](https://soehartolibrary.id/tag/menteri-perumahan-rakyat/), [Menteri Tenaga Kerja](https://soehartolibrary.id/tag/menteri-tenaga-kerja/), [PMKRI](https://soehartolibrary.id/tag/pmkri/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Tritura](https://soehartolibrary.id/tag/tritura/)

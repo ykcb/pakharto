@@ -36,7 +36,7 @@ relasi:
 
 # 1973-04-7 Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika
 
-# Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika[[1]](#_ftn1)
+# Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika1
 
 SABTU, 7  April 1973, Sejumlah 55 orang Pengusaha Amerika Serikat mengadakan kunjungan kehormatan kepada Presiden Soeharto di Istana Merdeka pagi ini. Maksud kunjungan mereka adalah dalam rangka melaporkan informasi langsung mengenai aspek-aspek penanaman modal di Indonesia. Kepada para usahawan Amerika ini Presiden Soeharto menegaskan sikapnya yang membuka kesempatan bagi investor asing untuk menanamkan modal mereka di sini, dengan tujuan untuk memperlancar proses pemabangunan kita. Dalam uraiannya Presiden juga menguraikan secara panjang lebar mengenai Repelita II yang memerlukan dana yang besar terutama dalam bidang industry pengolahan. Adapun bidang-bidang yang masih terbuka untuk penanaman modal dari luar negeri adalah pertambangan, perhubungan, pengusaha kayu hutan berikut industri pengolahannya.
 
@@ -44,6 +44,6 @@ Sebelumnya, di tempat yang sama Presiden soeharto menerima kunjungan kehormatan 
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 10.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 10.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Amerika](https://soehartolibrary.id/tag/amerika/), [Australia](https://soehartolibrary.id/tag/australia/), [Menteri Pertahanan](https://soehartolibrary.id/tag/menteri-pertahanan/), [Pengusaha](https://soehartolibrary.id/tag/pengusaha/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

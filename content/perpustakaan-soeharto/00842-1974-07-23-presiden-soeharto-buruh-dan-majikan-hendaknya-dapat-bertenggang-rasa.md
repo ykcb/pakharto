@@ -48,7 +48,7 @@ relasi:
 
 # Presiden Soeharto: Buruh dan Majikan Hendaknya Dapat Bertenggang Rasa
 
-## (Lantik Empat Irjenbang, Penyerahan Naskah Negara Kertagama dan Bahas Ketenagakerjaan)[[1]](#_ftn1)
+## (Lantik Empat Irjenbang, Penyerahan Naskah Negara Kertagama dan Bahas Ketenagakerjaan)1
 
 SELASA, 23 Juli 1974, Empat orang Inspektur Jenderal Pembangunan (Irjenbang) dilantik oleh Presiden Soeharto dalam suatu upacara yang berlangsung  di Bina Graha mulai jam 09.00 pagi ini. Keempat Irjenbang yang dilantik itu adalah E. Soekasah Somawidjaja, Marsdya. Sutopo, Mayjen. Soedjono Humardhani, dan Mayjen. dr. Soedjono. Dalam pidato pelantikannya, Kepala Negara mengatakan bahwa tanggungjawab moral yang sangat berat yang dipikul oleh pemerintah termasuk para pejabat, pegawai negeri dan pamong desa, adalah tanggungjawab kepada rakyat yang memiliki uang dari cucuran keringatnya. Oleh sebab itu, demikian Presiden salah satu segi penting untuk mewujudkan tanggungjawab itu adalah melalui pengawasan, yaitu dengan mengawasi apakah setiap rupiah yang berasal dari keringat rakyat itu benar-benar digunakan secara semestinya.
 
@@ -62,6 +62,6 @@ Dalam rangka pembinaan tenaga kerja ini, pemerintah akan mengambil langkah-langk
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 139-140. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 139-140. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [E. Soekasah Somawidjaja](https://soehartolibrary.id/tag/e-soekasah-somawidjaja/), [Irjenbang](https://soehartolibrary.id/tag/irjenbang/), [Mandataris MPR](https://soehartolibrary.id/tag/mandataris-mpr/), [Marsdya. Sutopo](https://soehartolibrary.id/tag/marsdya-sutopo/), [Mayjen. dr. Soedjono](https://soehartolibrary.id/tag/mayjen-dr-soedjono/), [Mayjen. Soedjono Humardhani](https://soehartolibrary.id/tag/mayjen-soedjono-humardhani/), [Menteri Pendidikan dan Kebudayaan](https://soehartolibrary.id/tag/menteri-pendidikan-dan-kebudayaan/), [Menteri Tenaga Kerja](https://soehartolibrary.id/tag/menteri-tenaga-kerja/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sjarif Thajeb](https://soehartolibrary.id/tag/sjarif-thajeb/), [Subroto](https://soehartolibrary.id/tag/subroto/), [Transmigrasi dan Koperasi](https://soehartolibrary.id/tag/transmigrasi-dan-koperasi/)

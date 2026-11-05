@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto: Perlu Moralitas Baru Kerjasama Antar Bangsa
 
-## Karangan Bunga Ulang Tahun Presiden Untuk Kegiatan Sosial[[1]](#_ftn1)
+## Karangan Bunga Ulang Tahun Presiden Untuk Kegiatan Sosial1
 
 SABTU, 03 Juni 1972, “Perlu ada moralitas baru dan kerjasama yang konstruktif dalam hubungan antar-bangsa. Bangsa besar ataupun kecil yang memberi bantuan hendaknya bekerjasama dalam tingkatan yang sederajad, dengan saling hormat-menghormati, bahu membahu dan saling mengakui kedaulatan penuh masingi-masing negara. Kedaulatan bangsa adalah prinsip yang kami pegang teguh, dan kami menganggapnya sebagai hak mutlak dari setiap bangsa, baik bangsa besar maupun bangsa kecil”. Demikian ditegaskan oleh Presiden Soeharto ketika menerima surat kepercayaan dari Duta Besar Kerajaan Yordania untuk Indonesia, Kamil Al-Sharif, di Istana Merdeka hari ini.
 
@@ -51,6 +51,6 @@ Berkenaan dengan hari ulang tahun Presiden Soeharto pada tanggal 8 Juni yang aka
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 443. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 443. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Duta Besar](https://soehartolibrary.id/tag/duta-besar/), [Kamil Al-Sharif](https://soehartolibrary.id/tag/kamil-al-sharif/), [Karangan Bunga](https://soehartolibrary.id/tag/karangan-bunga/), [PMI](https://soehartolibrary.id/tag/pmi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sosial](https://soehartolibrary.id/tag/sosial/), [Ulang Tahun](https://soehartolibrary.id/tag/ulang-tahun/), [Yordania](https://soehartolibrary.id/tag/yordania/)

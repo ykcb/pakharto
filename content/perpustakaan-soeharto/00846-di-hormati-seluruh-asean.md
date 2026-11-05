@@ -35,7 +35,7 @@ relasi:
 
 24 June B.E. 2541 (1998)
 
-# Di Hormati  Seluruh ASEAN[[1]](#_ftn1)
+# Di Hormati  Seluruh ASEAN1
 
 **Your Excellency,**
 
@@ -57,6 +57,6 @@ Jakarta
 
 ---
 
-[[1]](#_ftnref1)       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 160-161. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
+1       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 160-161. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
 
  [Simpati](https://soehartolibrary.id/category/biografi/simpati/)

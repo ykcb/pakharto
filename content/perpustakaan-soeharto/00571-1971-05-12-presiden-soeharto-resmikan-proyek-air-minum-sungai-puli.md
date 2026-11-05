@@ -37,7 +37,7 @@ relasi:
 
 # 1971-05-12 Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli
 
-# Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli[[1]](#_ftn1)
+# Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli1
 
 RABU, 12 Mei 1971, tepat pukul 07.30 pagi hari ini Presiden dan Ibu Tien Soeharto beserta rombongan meninggalkan Jakarta menuju Tajung Pinang untuk meninjau proyek-proyek pembangunan yang ada di Riau Kepulauan.
 
@@ -47,6 +47,6 @@ Di Tanjung Pinang malam ini Presiden Soeharto mengadakan tatap muka dengan para 
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal.327.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal.327.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Batam](https://soehartolibrary.id/tag/batam/), [Ibu Tien](https://soehartolibrary.id/tag/ibu-tien/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sungai Puli](https://soehartolibrary.id/tag/sungai-puli/), [Tanjung Pinang](https://soehartolibrary.id/tag/tanjung-pinang/)

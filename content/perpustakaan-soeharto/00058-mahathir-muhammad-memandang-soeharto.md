@@ -47,9 +47,9 @@ relasi:
 
 # Mahathir Muhamad: Kejayaan Pak Harto Lebih Besar
 
-# Kejayaan Pak Harto Lebih Besar[[1]](#_ftn1)
+# Kejayaan Pak Harto Lebih Besar1
 
-## [Dr. Tun Mahathir Bin Muhamad](http://en.wikipedia.org/wiki/Mahathir_Mohamad "Mahathir Mohamad")[[2]](#_ftn2)
+## [Dr. Tun Mahathir Bin Muhamad](http://en.wikipedia.org/wiki/Mahathir_Mohamad "Mahathir Mohamad")2
 
 Sebelum saya bertemu langsung dengan Presiden Soeharto, saya selalu mengikuti perkembangan dari berbagai kebijakan yang dijalankan oleh pemerintahan beliau. Saya merencanakan apabila nanti diangkat menjadi Perdana Menteri, maka kunjungan luar negeri saya yang pertama kali adalah kepada Presiden Soeharto. Dan itu terjadi setelah saya dilantik menjadi Perdana Menteri malaysia menggantikan Datuk Hussein On pada tahun 1981.
 
@@ -103,8 +103,8 @@ Saya mengetahui beberapa hal yang menjadikan kunci sukses Pak Harto di dalam mem
 
 ---
 
-[[1]](#_ftnref1)       Penuturan Tun Mahathir bin Mohamad sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2002).
+1       Penuturan Tun Mahathir bin Mohamad sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2002).
 
-[[2]](#_ftnref2)       Dr. Tun Mahathir bin Mohamad lahir 20 Desember 1925 di Alor Star, Kedah. Bapak dari dua orang putra dan seorang putri ini rajin menulis artikel politik di Sunday Times. Artikel-artikel tersebut kemudian dibukukan dengan judul *The Malay Dilemma*. Mulai aktif di UMNO tahun 1964, Tun Mahathir menjadi Deputi Perdana Menteri pada 1974 setelah sebelumnya menjabat Menteri Perdagangan dan Industri Malaysia.  Ia menjadi Perdana Menteri Malaysia pada 1981-2003. Kini Dr. Tun Mahathir memimpin Perdana Leadership Foundation yang terletak di Putrajaya, Malaysia.
+2       Dr. Tun Mahathir bin Mohamad lahir 20 Desember 1925 di Alor Star, Kedah. Bapak dari dua orang putra dan seorang putri ini rajin menulis artikel politik di Sunday Times. Artikel-artikel tersebut kemudian dibukukan dengan judul *The Malay Dilemma*. Mulai aktif di UMNO tahun 1964, Tun Mahathir menjadi Deputi Perdana Menteri pada 1974 setelah sebelumnya menjabat Menteri Perdagangan dan Industri Malaysia.  Ia menjadi Perdana Menteri Malaysia pada 1981-2003. Kini Dr. Tun Mahathir memimpin Perdana Leadership Foundation yang terletak di Putrajaya, Malaysia.
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Asean](https://soehartolibrary.id/tag/asean/), [Besar](https://soehartolibrary.id/tag/besar/), [Brunei Darussalam](https://soehartolibrary.id/tag/brunei-darussalam/), [Camdesus](https://soehartolibrary.id/tag/camdesus/), [Direktur](https://soehartolibrary.id/tag/direktur/), [IMF](https://soehartolibrary.id/tag/imf/), [Kejayaan](https://soehartolibrary.id/tag/kejayaan/), [Mahathir](https://soehartolibrary.id/tag/mahathir/), [Malaysia](https://soehartolibrary.id/tag/malaysia/), [Michael](https://soehartolibrary.id/tag/michael/), [Mohamad](https://soehartolibrary.id/tag/mohamad/), [Philipina](https://soehartolibrary.id/tag/philipina/), [Singapura](https://soehartolibrary.id/tag/singapura/), [Thailand](https://soehartolibrary.id/tag/thailand/), [Tun](https://soehartolibrary.id/tag/tun/), [Vietnam](https://soehartolibrary.id/tag/vietnam/)

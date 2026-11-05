@@ -39,7 +39,7 @@ relasi:
 
 # PRESIDEN SOEHARTO MENJAMU KAINDAREN DI TOKYO
 
-## (Indonesia Tegaskan Menolak Pakta Militer di Asia Tenggara)[[1]](#_ftn1)
+## (Indonesia Tegaskan Menolak Pakta Militer di Asia Tenggara)1
 
 JUM’AT, 29 MARET 1968, Di Tokyo, hari ini Presiden Soeharto mengadakan perundingan dengan PM Jepang, Eisaku Sato. Menjawab pertanyaan para wartawan dalam suatu konferensi pers di Tokyo, Presiden Soeharto mengatakan bahwa dalam pertemuan tersebut ia membicarakan soal bantuan Jepang kepada Indonesia. Ketika ditanya tentang ancaman RRC terhadap Asia Tenggara, Presiden mengatakan bahwa bagaimanapun Indonesia tidak akan bergeser kearah pembentukan pakta militer. Mengenai pandangannya tentang perang Vietnam, Presiden mengatakan bahwa Indonesia menginginkan agar masalah Vietnam dapat diselesaikan secara damai oleh rakyat Vietnam.
 
@@ -49,6 +49,6 @@ Catatan: Menurut Koos Arumdanie, Wartawan Senior Istana pada masa Presiden Soeka
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Eisaku Sato](https://soehartolibrary.id/tag/eisaku-sato/), [Jepang](https://soehartolibrary.id/tag/jepang/), [Kaindanren](https://soehartolibrary.id/tag/kaindanren/), [Menteri](https://soehartolibrary.id/tag/menteri/), [Perdana](https://soehartolibrary.id/tag/perdana/)

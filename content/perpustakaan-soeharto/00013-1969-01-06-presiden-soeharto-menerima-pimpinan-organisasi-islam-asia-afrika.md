@@ -54,6 +54,6 @@ Dalam pertemuan tersebut membahas hal-hal yang bersangkutan dengan penyelenggara
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Asia Afrika](https://soehartolibrary.id/tag/asia-afrika/), [Bapak Pembangunan](https://soehartolibrary.id/tag/bapak-pembangunan/), [Bina Graha](https://soehartolibrary.id/tag/bina-graha/), [Cendana](https://soehartolibrary.id/tag/cendana/), [GBHN](https://soehartolibrary.id/tag/gbhn/), [India](https://soehartolibrary.id/tag/india/), [Islam](https://soehartolibrary.id/tag/islam/), [Istana Merdeka](https://soehartolibrary.id/tag/istana-merdeka/), [Macan Asia](https://soehartolibrary.id/tag/macan-asia/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [repelita](https://soehartolibrary.id/tag/repelita/), [tinggal landas](https://soehartolibrary.id/tag/tinggal-landas-2/)

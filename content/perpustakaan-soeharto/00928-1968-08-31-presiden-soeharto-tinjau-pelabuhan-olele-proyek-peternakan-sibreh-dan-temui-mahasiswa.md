@@ -44,7 +44,7 @@ relasi:
 
 # 1968-08-31 Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh dan Temui Mahasiswa
 
-# Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh dan Temui Mahasiswa[[1]](#_ftn1)
+# Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh dan Temui Mahasiswa1
 
 SABTU, 31 AGUSTUS 1968, Hari ini adalah hari kedua dan terakhir dari kunjungan kerja Presiden Soeharto di Provinsi Aceh. Pada kesempatan ini, Presiden Soeharto telah meninjau Pelabuhan Olele, Banda Aceh. Pelabuhan alam ini tampaknya sudah berada dalam situasi yang memperihatinkan dan memerlukan perhatian besar. Dalam kunjungan itu, Presiden menaruh perhatian yang dalam pada usaha-usaha rehabilitasi yang dilakukan di pelabuhan tersebut. Selain pelabuhan, Presiden meninjau proyek peternakan di Sibreh, dimana ia telah memberikan hadiah sebesar Rp. 22.000,- untuk pemilik tiga ekor sapi terbaik diantara 25 ekor yang dipamerkan. Pada kesempatan itu Presiden Soeharto menyerukan agar kaum tani tergerak di dalam bermacam-macam bidang usaha, seperti peternakan, pertanian, perkebunan; barulah dengan demikian para petani akan dapat meningkatkan kehidupan ekonomi mereka, demikian Presiden Soeharto.
 
@@ -54,6 +54,6 @@ Dalam pada itu ketika bertatap muka dengan para mahasiswa Universitas Syah Kuala
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 39-40. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 39-40. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Banda Aceh](https://soehartolibrary.id/tag/banda-aceh/), [G.30.S/PKI](https://soehartolibrary.id/tag/g-30-spki/), [Mahasiswa](https://soehartolibrary.id/tag/mahasiswa/), [Pelabuhan Olele](https://soehartolibrary.id/tag/pelabuhan-olele/), [peternakan](https://soehartolibrary.id/tag/peternakan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sibrek](https://soehartolibrary.id/tag/sibrek/), [Syah Kuala](https://soehartolibrary.id/tag/syah-kuala/), [ternak](https://soehartolibrary.id/tag/ternak/)

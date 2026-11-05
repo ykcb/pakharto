@@ -47,7 +47,7 @@ relasi:
 
 # Presiden Soeharto Kecam “Jor-Joran Monopolis” dan “Pengkotak-Kotakan Rakyat”
 
-## Buka Munas Golkar I, Resmikan Karangkates dan Tinjau BUUD Sumber Pucung[[1]](#_ftn1)
+## Buka Munas Golkar I, Resmikan Karangkates dan Tinjau BUUD Sumber Pucung1
 
 SELASA, 4 SEPTEMBER 1973 Presiden Soeharto membuka, Munas Golkar I di Surabaya. Dalam pidato sambutannya Kepala Negara mengatakan bahwa pembinaan kesadaran politik merupakan kesadaran dan tanggungjawab bersama, dan bukan hanya urusan partai politik, Golkar dan Pemerintah saja. Pada kesempatan itu pula Presiden Soeharto mengecam “jor-joran monopolis”, mengkotak-kotakkan rakyat, dan menghimpun massa sebanyak-banyaknya hanya untuk kepentingan partai atau pimpinan saja, seperti yang dipraktekkan pada masa lalu. Juga dikatakan bahwa fanatisme terhadap golongan sendiri tidak akan mampu memantulkan kepentingan seluruh rakyat, dan malah akan menjadi bahan pemisah komunikasi antar golongan dan masyarakat. Demikian Presiden Soeharto.
 
@@ -59,6 +59,6 @@ Sebelumnya, pagi ini Presiden telah pula meninjau dua BUUD, yaitu Sumber Pucung 
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 49. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 49. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [BUUD](https://soehartolibrary.id/tag/buud/), [Kelistrikan](https://soehartolibrary.id/tag/kelistrikan/), [Malang](https://soehartolibrary.id/tag/malang/), [Munas Golkar](https://soehartolibrary.id/tag/munas-golkar/), [PLTA Karangkates](https://soehartolibrary.id/tag/plta-karangkates/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sumberpucung](https://soehartolibrary.id/tag/sumberpucung/), [Surabaya](https://soehartolibrary.id/tag/surabaya/)

@@ -37,12 +37,12 @@ relasi:
 
 # 1968-06-11 Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW
 
-# Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW[[1]](#_ftn1)
+# Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW1
 
 SELASA, 11 JUNI 1968, Peringatan Maulid Nabi Muhammad Saw., dilangsungkan di Istana Negara malam ini. Dalam sambutannya, Presiden Soeharto mengemukakan bahwa dalam mewujudkan persatuan bangsa antara lain harus ditumbuhkan kehidupan beragama yang sehat, mengamalkan ajaran-ajaran agama yang kita anut, mempertinggi kekuatan mental dan moral kehidupan serta mewujukan semangat toleransi agama. (AFR)
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 22.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 22.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Istana Negara](https://soehartolibrary.id/tag/istana-negara/), [maulid nabi](https://soehartolibrary.id/tag/maulid-nabi/), [Muhammad SAW](https://soehartolibrary.id/tag/muhammad-saw/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

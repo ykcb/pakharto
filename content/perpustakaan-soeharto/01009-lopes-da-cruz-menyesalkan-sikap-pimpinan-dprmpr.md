@@ -50,7 +50,7 @@ Kepada
 
 di    Jakarta
 
-# Menyesalkan Sikap Pimpinan DPR/MPR[[1]](#_ftn1)
+# Menyesalkan Sikap Pimpinan DPR/MPR1
 
 Dengan Hormat,
 
@@ -84,6 +84,6 @@ Catatan:
 
 ---
 
-[[1]](#_ftnref1)       Dikutip dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 916-917. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
+1       Dikutip dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 916-917. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
 
  [Simpati](https://soehartolibrary.id/category/biografi/simpati/)  [Amin Rais](https://soehartolibrary.id/tag/amin-rais/), [Bapak Integrasi](https://soehartolibrary.id/tag/bapak-integrasi/), [Bapak Pembangunan](https://soehartolibrary.id/tag/bapak-pembangunan/), [Lopes da Cruz](https://soehartolibrary.id/tag/lopes-da-cruz/), [Lorosae](https://soehartolibrary.id/tag/lorosae/), [Manado](https://soehartolibrary.id/tag/manado/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Timor Timor](https://soehartolibrary.id/tag/timor-timor/), [Timor-Timur](https://soehartolibrary.id/tag/timor-timur/)

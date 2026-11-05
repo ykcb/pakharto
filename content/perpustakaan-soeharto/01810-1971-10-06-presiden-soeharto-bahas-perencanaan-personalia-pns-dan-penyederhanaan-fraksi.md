@@ -43,7 +43,7 @@ relasi:
 
 8 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1971-10-06-presiden-soeharto-bahas-perencanaan-personalia-pns-dan-penyederhanaan-fraksi/#respond)  85 Views Share on
 
-# Presiden Soeharto Bahas Perencanaan Personalia PNS dan Penyederhanaan Fraksi[[1]](#_ftn1)
+# Presiden Soeharto Bahas Perencanaan Personalia PNS dan Penyederhanaan Fraksi1
 
 RABU, 6 OKTOBER 1971 Presiden Soeharto membahas masalah pegawai negeri dengan Menteri Negara Penyempurnaan Aparatur Negara Emil Salim di Istana Merdeka siang ini. Pembahasan berkisar pada penyempurnaan apar tur negara yang konsentrasinya dalam jangka pendek diletakkan dan ditujukan pada perencanaan personalia. Menurut Emil Salim, jumlah pegawai negeri hingga saat ini adalah 541.873 orang. Dari jumlah itu, pegawai goIongan IV (pegawai tinggi) hanya 6.602 orang (1 %), dan golongan III 52.337 (9%), golongan II 211.506 (39%), dan golongan I 272.428 orang (50%).
 
@@ -51,6 +51,6 @@ Sepanjang sore dan malam ini Presiden Soeharto mengadakan pertemuan konsultasi d
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 374-375. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 374-375. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Fraksi](https://soehartolibrary.id/tag/fraksi/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Partai](https://soehartolibrary.id/tag/partai/), [personalia](https://soehartolibrary.id/tag/personalia/), [PNS](https://soehartolibrary.id/tag/pns/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

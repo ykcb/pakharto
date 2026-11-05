@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto Menyaksikan Pameran Visual BATAN
 
-## (Sahkan Tarif Preferensi ASEAN)[[1]](#_ftn1)
+## (Sahkan Tarif Preferensi ASEAN)1
 
 SABTU, 9 April 1977, Pagi ini Presiden Soeharto telah menyaksikan pameran visual perkembangan Badan Tenaga Kerja Atom Nasional (Batan) di Bina Graha. Sebelum pameran visual dimulai, Direktur Jenderal Batan Prof. Dr. A. Baiquni, melaporkan maksud diadakannya pameran ini. Dilaporkannya bahwa pameran ini dimaksudkan untuk menyajikan ”pertanggungan jawab” pembiayaan dan pelaksanaan kegiatan Batan selama tahun-tahun Pelita  yang sudah lewat, disamping secara rutin setiap tahun dan bahkan setiap triwulan atau secara insidentil sebenarnya telah memberikan laporan secara tertulis kepada Presiden. Adalah kewajibannya sebagai Direktur Jenderal Batan untuk memberikan laporan secara langsung kepada Presiden, karena Kepala Negara  langsung membawahi badan ini.
 
@@ -50,6 +50,6 @@ Presiden Soeharto hari ini mensahkan persetujuan mengenai tarif preferensi ASEAN
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 477-478.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 477-478.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Asean](https://soehartolibrary.id/tag/asean/), [Baiquni](https://soehartolibrary.id/tag/baiquni/), [BATAN](https://soehartolibrary.id/tag/batan/), [Direktur Jenderal](https://soehartolibrary.id/tag/direktur-jenderal/), [Preferensi](https://soehartolibrary.id/tag/preferensi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Tarif](https://soehartolibrary.id/tag/tarif/), [Tenaga Atom](https://soehartolibrary.id/tag/tenaga-atom/)

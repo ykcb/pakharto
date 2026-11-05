@@ -48,6 +48,6 @@ Sebelumnya Presiden Soeharto menerima kunjungan kehormatan 55 orang wartawan AS 
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Association](https://soehartolibrary.id/tag/association/), [Atom](https://soehartolibrary.id/tag/atom/), [BATAN](https://soehartolibrary.id/tag/batan/), [Newspaper](https://soehartolibrary.id/tag/newspaper/), [Prancis](https://soehartolibrary.id/tag/prancis/), [Sidang](https://soehartolibrary.id/tag/sidang/), [Tenaga](https://soehartolibrary.id/tag/tenaga/), [United States](https://soehartolibrary.id/tag/united-states/)

@@ -42,7 +42,7 @@ relasi:
 
 18 Agustus 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1971-08-23-pemerintah-ubah-nilai-tukar-rupiah/#respond)  142 Views Share on
 
-# Pemerintah Ubah Nilai Tukar Rupiah[[1]](#_ftn1)
+# Pemerintah Ubah Nilai Tukar Rupiah1
 
 SENIN, 23 AGUSTUS 1971, Sehubungan dengan kegoncangan yang terjadi dalam sistem moneter internasional, maka mulai hari ini pemerintah mengubah nilai tukar rupiah terhadap dolar AS. Ini merupakan hasil pembahasan Presiden Soeharto dengan Menteri Keuangan, Menteri Perdagangan, Ketua Bappenas dan Gubernur Bank Sentral serta Sekretaris Kabinet Beberapa hari yang lalu.
 
@@ -55,6 +55,6 @@ Ketua Bappenas mengatakan kepada pers bahwa tindakan ini dilakukan untuk mengata
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 358. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 358. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Dolar AS](https://soehartolibrary.id/tag/dolar-as/), [Gubernur Bank Sentral](https://soehartolibrary.id/tag/gubernur-bank-sentral/), [Ketua Bappenas](https://soehartolibrary.id/tag/ketua-bappenas/), [Menteri Keuangan](https://soehartolibrary.id/tag/menteri-keuangan/), [Menteri Perdagangan](https://soehartolibrary.id/tag/menteri-perdagangan/), [nilai Tukar Rupiah](https://soehartolibrary.id/tag/nilai-tukar-rupiah/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sekretaris Kabinet](https://soehartolibrary.id/tag/sekretaris-kabinet/)

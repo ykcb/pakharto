@@ -42,7 +42,7 @@ relasi:
 
 9 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1972-10-01-presiden-soeharto-mempertahankan-dan-melaksanakan-pancasila-harus-tanpa-ragu/#respond)  95 Views Share on
 
-# Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila Harus Tanpa Ragu[[1]](#_ftn1)
+# Presiden Soeharto: Mempertahankan dan Melaksanakan Pancasila Harus Tanpa Ragu1
 
 MINGGU, 1 OKTOBER 1972 Presiden Soeharto hari ini menghadiri pelantikan anggota-anggota MPR. Dalam amanatnya Presiden antara lain mengatakan bahwa mempertahankan dan melaksanakan Pancasila merupakan kewajiban yang harus kita lakukan tanpa keragu-raguan sedikitpun. Kita telah berbulat hati untuk membangun suatu Indonesia baru di atas dasar-dasar kita yang lama, yaitu Pancasila. Kita ingin menjadikan Republik Indonesia ini sebagai wadah perumahan keluarga besar Bangsa Indonesia dan kita benar-benar merasa kerasan hidup di dalamnya, merasa tenteram jiwa dan batin kita, bergairah mengembangkan bakat dan bangga karena berprestasi, dilindungi hak-hak kita dan sadar akan kewajiban sebagai warganegara yang bertanggungjawab. Demikian dikatakan oleh Presiden.
 
@@ -50,6 +50,6 @@ Pada kesempatan itu pula Presiden telah menyerahkan sebuah naskah GBHN kepada MP
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 475. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 475. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [GBHN](https://soehartolibrary.id/tag/gbhn/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [MPR](https://soehartolibrary.id/tag/mpr/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

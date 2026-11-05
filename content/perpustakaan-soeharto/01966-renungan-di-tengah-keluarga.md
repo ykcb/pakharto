@@ -88,7 +88,7 @@ Kadang-kadang ada keramaian di rumah kami. Tapi terhitung sederhana saja. Misaln
 
 Pada kejadian kekeluargaan seperti ini muncul “akar” kami. Seperti pada waktu kami memperingati hari *tumbuk warsa* atau *temu windu*istri saya belum lama ini, yang dihadiri oleh kerabat dekat kami.
 
-Pada kesempatan itu saya memberi pengertian terinci mengenai tahun Jawa. Menurut perhitungan kalender Jawa, nama hari hanya lima[[2]](#_ftn2) yang sering disebut pula sebagai pasaran, setahun dua belas bulan, dan nama tahun hanya sampai delapan yang tercakup dalam sewindu. Setiap sewindu, hari pasaran, tanggal dan bulan serta tahun dengan nama yang sama akan bertemu. Itulah yang disebut *tumbuk* *warsa.* Dan hari Rabu Kliwon; bulan Suro, tahun *Je*, yang jatuh pada Selasa malam tanggal 24 September 1985 itu untuk kedelapan kalinya istri saya memperingati hari lahir dengan nama hari pasaran, tanggal dan bulan serta tahun yang sama. Dalam kalender Jawa, hari dimulai pukul 18.00, bukan pukul 00.00.
+Pada kesempatan itu saya memberi pengertian terinci mengenai tahun Jawa. Menurut perhitungan kalender Jawa, nama hari hanya lima2 yang sering disebut pula sebagai pasaran, setahun dua belas bulan, dan nama tahun hanya sampai delapan yang tercakup dalam sewindu. Setiap sewindu, hari pasaran, tanggal dan bulan serta tahun dengan nama yang sama akan bertemu. Itulah yang disebut *tumbuk* *warsa.* Dan hari Rabu Kliwon; bulan Suro, tahun *Je*, yang jatuh pada Selasa malam tanggal 24 September 1985 itu untuk kedelapan kalinya istri saya memperingati hari lahir dengan nama hari pasaran, tanggal dan bulan serta tahun yang sama. Dalam kalender Jawa, hari dimulai pukul 18.00, bukan pukul 00.00.
 
 Waktu merayakan *tumbuk warsa* istri saya itu saya mengenakan *surjan* gaya Yogya, warna hijau. Istri saya juga mengenakan kebaya warna kehijau-hijauan. *Tumbuk warsa* 8 windu itu terjadi hanya satu kali seumur hidup kita masing-masing. Bahkan tumbuk delapan windu itu juga disebut *tumbuk besar.* Itu penting artinya bagi perjalanan hidup manusia. Karena itu harus diperingati.
 
@@ -136,7 +136,7 @@ Yang saya tangkap dari ucapan mereka juga, adalah bahwa mereka sama sekali tidak
 
 Mengenai Istana, saya pikir, Istana Presiden bukan untuk Presiden saja. Gedung itu adalah Istana Negara, Istana Kepala Negara, milik rakyat. Saya tidak mengadakan perubahan besar di gedung itu. Tetapi memang saya perintahkan untuk mengatur isinya dan iklimnya sedemikian rupa sehingga benar-benar representatif sebagai Istana. Istri saya sangat teliti dalam mengaturnya.
 
-Belakangan ini diadakan acara-acara yang terbuka sifatnya[[3]](#_ftn3), yang bisa dilihat oleh orang banyak. Dengan begitu dimaksudkan, supaya rakyat merasa dekat. Pembelian cenderamata untuk keperluan Presiden dibeli oleh Rumah Tangga Kepresidenan yang ditunjang oleh anggaran. Kalau ada yang kita terima dari negara sahabat; maka saya tetapkan itu menjadi milik negara. Dan semuanya itu diinventarisasikan, dicatat, kecuali yang tidak bisa disimpan, seperti makanan, atau minuman.
+Belakangan ini diadakan acara-acara yang terbuka sifatnya3, yang bisa dilihat oleh orang banyak. Dengan begitu dimaksudkan, supaya rakyat merasa dekat. Pembelian cenderamata untuk keperluan Presiden dibeli oleh Rumah Tangga Kepresidenan yang ditunjang oleh anggaran. Kalau ada yang kita terima dari negara sahabat; maka saya tetapkan itu menjadi milik negara. Dan semuanya itu diinventarisasikan, dicatat, kecuali yang tidak bisa disimpan, seperti makanan, atau minuman.
 
 Barang-barang berharga, semuanya disimpan di museum khusus di Istana yang jadi tempat menyimpan cenderamata yang kita terima dan menggambarkan keseluruhan dari daerah mana dan negara mana.
 
@@ -144,10 +144,10 @@ Barang-barang berharga, semuanya disimpan di museum khusus di Istana yang jadi t
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 229-237.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 229-237.
 
-[[2]](#_ftnref2) *pon, wage, kliwon, legi, pahing*
+2 *pon, wage, kliwon, legi, pahing*
 
-[[3]](#_ftnref3) *seperti parade  senja dan kunjungan masyarakat umum*
+3 *seperti parade  senja dan kunjungan masyarakat umum*
 
  [Masa Pembangunan](https://soehartolibrary.id/category/biografi/masa-pembangunan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Keluarga](https://soehartolibrary.id/tag/keluarga/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

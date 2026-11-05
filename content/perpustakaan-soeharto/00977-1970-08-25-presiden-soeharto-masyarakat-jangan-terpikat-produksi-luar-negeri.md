@@ -39,12 +39,12 @@ relasi:
 
 # 1970-08-25 Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri
 
-# Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri[[1]](#_ftn1)
+# Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri1
 
 SELASA, 25 AGUSTUS 1970, Dalam sidang Sub-Dewan Stabilisasi Ekonomi yang berlangsung pagi ini di Bina Graha, Presiden Soeharto telah meminta produksi dalam negeri dapat ditingkatkan. Ia juga meminta kepada semua menteri agar masyarakat jangan terpikat produksi luar negeri. (AFR).
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 249-250. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 249-250. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [dalam negeri](https://soehartolibrary.id/tag/dalam-negeri/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Luar Negeri](https://soehartolibrary.id/tag/luar-negeri/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Produksi](https://soehartolibrary.id/tag/produksi/)

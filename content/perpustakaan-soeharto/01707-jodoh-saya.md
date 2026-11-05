@@ -69,6 +69,6 @@ Dengan pegangan itu kami berlayar di atas perahu keluarga kami. Dan kami kemudia
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 43-46.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 43-46.
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Ibu Tien](https://soehartolibrary.id/tag/ibu-tien/), [Jodoh](https://soehartolibrary.id/tag/jodoh/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

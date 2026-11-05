@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah
 
-## (Pembenahan SAR Melalui PP No. 12 Tahun 1972)[[1]](#_ftn1)
+## (Pembenahan SAR Melalui PP No. 12 Tahun 1972)1
 
 KAMIS, 2 Maret 1972, Ketika menerima Menteri Pertanian yang menyertakan para peternak yang terhimpun dalam Perhimpunan Pengusaha Ternak Indonesia, Presiden telah menginstruksikan agar dipelajari secara mendalam apakah target produksi beras pada akhir Pelita I sebanak 15,4 juta ton  perlu diteruskan atau tidak.
 
@@ -52,6 +52,6 @@ Hari ini dikeluarkan pula Peraturan Pemerintah No. 12 tahun 1972 tentang dinas p
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 423
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 423
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Daerah](https://soehartolibrary.id/tag/daerah/), [Izin](https://soehartolibrary.id/tag/izin/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden](https://soehartolibrary.id/tag/presiden/), [SAR](https://soehartolibrary.id/tag/sar/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Usaha](https://soehartolibrary.id/tag/usaha/)

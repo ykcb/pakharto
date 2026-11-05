@@ -44,6 +44,6 @@ JUM’AT, 1 JANUARI 1970, Presiden dan Ibu Tien Soeharto pada malam hari mengada
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [1970](https://soehartolibrary.id/tag/1970/), [baru](https://soehartolibrary.id/tag/baru/), [Istana](https://soehartolibrary.id/tag/istana/), [Merdeka](https://soehartolibrary.id/tag/merdeka/), [resepsi](https://soehartolibrary.id/tag/resepsi/), [tahun](https://soehartolibrary.id/tag/tahun/)

@@ -38,9 +38,9 @@ relasi:
 
 8 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/denny-malik-tidak-ada-yang-memberi-apresiasi-sebesar-pak-harto/#respond)  117 Views Share on
 
-# Tidak Ada Yang Memberi Apresiasi Sebesar Pak Harto[[1]](#_ftn1)
+# Tidak Ada Yang Memberi Apresiasi Sebesar Pak Harto1
 
-## Oleh: Denny Malik[[2]](#_ftn2)
+## Oleh: Denny Malik2
 
 Menggelar karya di depan Presiden dan Ibu Negara, selalu memberi kebanggaan tersendiri pada setiap seniman. Saya pun termasuk yang beberapa kali merasakannya. Saya terkenang akan kebiasaan Pak Harto dan Ibu Tien yang selalu menyempatkan diri menyalami para penari dan penyanyi di akhir acara. Apalagi kalau ada anak-anak, Pak Harto dan Ibu selalu berbelok dan menyapa mereka.
 
@@ -66,8 +66,8 @@ Tak pernah terfikir dibenak saya bahwa keluarga Pak Harto begitu memperhatikan s
 
 ---
 
-[[1]](#_ftnref1)       Penuturan Denny Malik sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 322.
+1       Penuturan Denny Malik sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 322.
 
-[[2]](#_ftnref2)       Denny Malik yang berdarah Minang lahir tanggal 16 Februari 1963. Mengawali kariernya di Swara Mahardika, Denny menjadi koreografer yang sangat kreatif dan meraih penghargaan pada Festival Tari Asia Pasifik. Denny memperoleh AMI Award untuk kategori Penyanyi Dangdut Pria Terbaik 2003. Denny juga membintangi beberapa film bergenre anak muda. Kini ia menjadi koreografer dan pelatih tari yang disegani.
+2       Denny Malik yang berdarah Minang lahir tanggal 16 Februari 1963. Mengawali kariernya di Swara Mahardika, Denny menjadi koreografer yang sangat kreatif dan meraih penghargaan pada Festival Tari Asia Pasifik. Denny memperoleh AMI Award untuk kategori Penyanyi Dangdut Pria Terbaik 2003. Denny juga membintangi beberapa film bergenre anak muda. Kini ia menjadi koreografer dan pelatih tari yang disegani.
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Denny Malik](https://soehartolibrary.id/tag/denny-malik/), [Guruh Sukarnoputra](https://soehartolibrary.id/tag/guruh-sukarnoputra/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Seni dan budaya](https://soehartolibrary.id/tag/seni-dan-budaya/), [Swara Mahardika](https://soehartolibrary.id/tag/swara-mahardika/)

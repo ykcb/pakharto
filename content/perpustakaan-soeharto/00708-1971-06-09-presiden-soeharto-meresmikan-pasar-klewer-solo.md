@@ -38,7 +38,7 @@ relasi:
 
 # 1971-06-09 Presiden Soeharto Meresmikan Pasar Klewer Solo
 
-# Presiden Soeharto Meresmikan Pasar Klewer Solo[[1]](#_ftn1)
+# Presiden Soeharto Meresmikan Pasar Klewer Solo1
 
 RABU, 9 Juni 1971, Setelah meresmikan tugu monumen Sri Mangkunegoro I di makam raja-raja di Mangadeg, siang ini di Surakarta Presiden Soeharto meremikan Pasar Klewer yang baru saja selesai pembangunannya. Memberikan amanat tanpa teks pada peresmian itu, Presiden antara lain menanggapi lontaran-lontaran yang ada dalam masyarakat sekarang ini. Dikatakannya masih ada sementara pemimpin yang menyuarakan bahwa mereka akan berjihad jika pemilihan umum nanti tidak dimenangkan. Menanggapi hal itu, Jenderal Soeharto mengatakan bahwa “saya peringatkan dari sekarang bahwa pemerintah dan angkatan bersenjata akan menghadapi maksud dari suara tersebut bersama-sama rakyat”. Disamping tidak dapat mengerti bahwa masih ada pemimpin-pemimpin yang bersikap demikian, Presiden juga mengatakan bahwa ia menilai ucapan itu sebagai usaha untuk mengundang kekacauan dan pemberontakan. Kepada pemimpin-pemimpin itu Presiden menyerahkan agar lebih sabar dan tidak menghasut rakyat.
 
@@ -64,6 +64,6 @@ Akhirnya Presiden mengajak rakyat untuk memperbesar pengabdian, kepada kepenting
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 335-336. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 335-336. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Mangkunegoro I](https://soehartolibrary.id/tag/mangkunegoro-i/), [melu handarbeni](https://soehartolibrary.id/tag/melu-handarbeni/), [melu hangrungkebi](https://soehartolibrary.id/tag/melu-hangrungkebi/), [mulat sarira hangrasawani](https://soehartolibrary.id/tag/mulat-sarira-hangrasawani/), [Pasal Klewer](https://soehartolibrary.id/tag/pasal-klewer/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

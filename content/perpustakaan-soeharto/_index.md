@@ -1,6 +1,6 @@
 ---
 title: "Perpustakaan Soeharto"
-description: "1.233 artikel, dokumen, dan kliping pers dari soehartolibrary.id — fondasi sumber primer Wiki Soeharto, tersusun mengikuti halaman-halaman hub."
+description: "1.112 artikel, dokumen, dan kliping pers dari soehartolibrary.id — fondasi sumber primer Wiki Soeharto, tersusun mengikuti halaman-halaman hub."
 date: 2026-11-04
 updated: 2026-11-04
 last_updated: "2026-11-04"
@@ -9,7 +9,7 @@ tags: [perpustakaan, index, orde-baru]
 
 # Perpustakaan Soeharto
 
-**1.233 artikel, dokumen, dan kliping pers** dari soehartolibrary.id — fondasi sumber primer wiki ini. Di halaman-halaman hub, capaian disajikan sebagai data dan kritik sebagai atribusi; di sinilah datanya dapat diperiksa langsung: dokumen kebijakan, berita sezaman, kesaksian, dan tulisan opini tentangnya.
+**1.112 artikel, dokumen, dan kliping pers** dari soehartolibrary.id — fondasi sumber primer wiki ini. Di halaman-halaman hub, capaian disajikan sebagai data dan kritik sebagai atribusi; di sinilah datanya dapat diperiksa langsung: dokumen kebijakan, berita sezaman, kesaksian, dan tulisan opini tentangnya.
 
 Koleksi ini disusun mengikuti **halaman-hub wiki** — esai-esai tematik yang merangkum satu pemikiran utuh tentang Orde Baru. Setiap hub dilengkapi sorotan arsip primer yang melengkapinya.
 

@@ -40,7 +40,7 @@ relasi:
 
 PEMBANGUNAN *RICE MILLING* DAN BANTUAN BANJIR JAKARTA
 
-(Pembangunan *Rice Milling*, Pompa Air, Industri Pacul Lisensi Jerman dan Dana Bantuan Banjir DKI Jakarta)[[1]](#_ftn1)
+(Pembangunan *Rice Milling*, Pompa Air, Industri Pacul Lisensi Jerman dan Dana Bantuan Banjir DKI Jakarta)1
 
 SELASA, 17 PEBRUARI Presiden Soeharto pagi hari memimpin Sub Dewan Stabilisasi Ekonomi, di Istana Merdeka. Sidang telah mendengarkan laporan dari Direktur Jenderal Perindustrian, yang mewakili Menteri Perindustrian, tentang rencana pembangunan proyek *Rice Milling* yang berlokasi di Jawa Timur dengan lisensi dari perusahaan Schule Jerman Barat, proyek pompa air, serta industri pacul dengan lisensi Schilpper (Jerman Barat) yang berkapasitas 400.000 pacul per tahun.
 
@@ -50,6 +50,6 @@ Pada Akhir sidang diputuskan untuk member bantuan sebesar Rp. 335 juta kepada DK
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Banjir](https://soehartolibrary.id/tag/banjir/), [Jakarta](https://soehartolibrary.id/tag/jakarta/), [Jerman Barat](https://soehartolibrary.id/tag/jerman-barat/), [Pacul](https://soehartolibrary.id/tag/pacul/), [Pompa Air](https://soehartolibrary.id/tag/pompa-air/), [Rice Milling](https://soehartolibrary.id/tag/rice-milling/), [Schilpper](https://soehartolibrary.id/tag/schilpper/), [Schule](https://soehartolibrary.id/tag/schule/)

@@ -39,7 +39,7 @@ relasi:
 
 # 1968-08-30 Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh
 
-# Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh[[1]](#_ftn1)
+# Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh1
 
 JUM’AT, 30 AGUSTUS 1968, Presiden Soeharto mengatakan bahwa rakyat Sumatera Barat telah menunjukkan perhatian dan kesungguhan dalam usaha perbaikan ekonomi, sesuai dengan sasaran yang ditentukan oleh pemerintah daerah. Demikianlah kesan Presiden tentang Sumatera Barat yang disampaikan kepada rakyat sebelum meninggalkan provinsi di tepi barat Pulau Sumatera itu. Lebih lanjut Presiden mengemukakan bahwa ia melihat kemungkinan-kemungkinan untuk meningkatkan penghasilan rakyat di Sumatera Barat, terutama di sektor pertanian. Untuk itu peranan swasta nasional harus dapat dimanfaatkan. Kepada pemerintah daerah diminta agar memberikan perhatian yang sungguh-sungguh pada bidang perkebunan sehingga dapat meningkatkan hasil ekspor.
 
@@ -51,6 +51,6 @@ Seusai sembahyang Jum’at, Presiden Soeharto menghadiri rapat umum di Lapangan 
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 37-38. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 37-38. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Banda Aceh](https://soehartolibrary.id/tag/banda-aceh/), [Blang Padang](https://soehartolibrary.id/tag/blang-padang/), [Masjid Baiturrachman](https://soehartolibrary.id/tag/masjid-baiturrachman/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Serambi Mekah](https://soehartolibrary.id/tag/serambi-mekah/), [Sumatera Barat](https://soehartolibrary.id/tag/sumatera-barat/), [Umat Islam](https://soehartolibrary.id/tag/umat-islam/)

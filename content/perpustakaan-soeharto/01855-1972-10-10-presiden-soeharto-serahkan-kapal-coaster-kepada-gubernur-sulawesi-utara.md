@@ -42,7 +42,7 @@ relasi:
 
 10 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1972-10-10-presiden-soeharto-serahkan-kapal-coaster-kepada-gubernur-sulawesi-utara/#respond)  97 Views Share on
 
-# Presiden Soeharto Serahkan Kapal *Coaster* Kepada Gubernur Sulawesi Utara[[1]](#_ftn1)
+# Presiden Soeharto Serahkan Kapal *Coaster* Kepada Gubernur Sulawesi Utara1
 
 SELASA, 10 OKTOBER.1972 Dalam sidang Sub-Dewan Stabilisasi Ekonomi di Bina Graha hari ini, Presiden Soeharto menginstruksikan Bulog agar dalam menghadapi hari raya Idul Fitri, harga sembilan bahan kebutuhan pokok tetap stabil. Sementara itu Menteri Perhubungan diinstruksi untuk mengkoordinasikan alat angkutan kereta api dan jalan raya sehingga dapat memberikan pelayanan untuk pengangkutan bahan­bahan dari daerah produksi ke daerah konsumen.
 
@@ -52,6 +52,6 @@ Ketika menyerahkan kapal tersebut Presiden menegaskan kembali kebijaksanaan peme
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 476. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 476. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [HV Worang](https://soehartolibrary.id/tag/hv-worang/), [Kapal coaster](https://soehartolibrary.id/tag/kapal-coaster/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sulawesi Utara](https://soehartolibrary.id/tag/sulawesi-utara/)

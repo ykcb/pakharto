@@ -38,7 +38,7 @@ relasi:
 
 13 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1974-10-01-presiden-soeharto-sambut-shah-iran/#respond)  210 Views Share on
 
-# Presiden Soeharto Sambut Shah Iran[[1]](#_ftn1)
+# Presiden Soeharto Sambut Shah Iran1
 
 SELASA, 1 OKTOBER 1974 Presiden dan Ibu Soeharto sore ini menyambut kedatangan Shah Iran, Mohammad Reza Pahlevi, dan Ratu Farah Diba di pelabuhan udara internasional Halim Perdanakusuma. Mendarat pada pukul 15.35, Shah dan Ratu Iran mengadakan kunjungan kenegaraan singkat di Indonesia; Shah dan rombongan akan meninggalkan Indonesia besok pagi pukul 10.15. Sore ini, pada jam 17.15, Shah dan Ratu Iran mengadakan kunjungan kehormatan kepada Presiden dan Ibu Soeharto di Istana Merdeka.
 
@@ -50,6 +50,6 @@ Sementara itu, dalam pidato balasannya, Shah Iran mengatakan bahwa kemakmuran ad
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 163. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 163. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Ratu Pahlevi](https://soehartolibrary.id/tag/ratu-pahlevi/), [Shah Itan](https://soehartolibrary.id/tag/shah-itan/)

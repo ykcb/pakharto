@@ -46,7 +46,7 @@ relasi:
 
 # Presiden Soeharto Tolak Halus Anugerah Doktor HC UI
 
-# (Menerima Delegasi Parlemen Eropa)[[1]](#_ftn1)
+# (Menerima Delegasi Parlemen Eropa)1
 
 RABU, 30 Juli 1975 Bertempat di Bina Graha, pagi ini Presiden Soeharto menerima kunjungan kehormatan delegasi Parlemen Eropa yang dipimpin George Spenalo. Dalam pertemuan yang berlangsung selaam hampir satu jam itu, Kepala negara telah menguraikan tentang perkembangan pembangunan dan masalah-masalah yang dihadapi Indonesia. Secara khusus Presiden menjelaskan juga tentang proyek jalan raya di Pulau SUmatera dan proyek transmigrasi.
 
@@ -58,6 +58,6 @@ Tampak mendampingi Rektor UI dalam pertemuan tersebut: Pembantu Rektor, Prof. Dr
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 269-270. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
+1 Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 269-270. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [dan Dekan Fakultas Kedokteran](https://soehartolibrary.id/tag/dan-dekan-fakultas-kedokteran/), [Dekan Fakultas Ilmu-Ilmu Sosial](https://soehartolibrary.id/tag/dekan-fakultas-ilmu-ilmu-sosial/), [Dekan Fakultas Psikologi](https://soehartolibrary.id/tag/dekan-fakultas-psikologi/), [George Spenalo](https://soehartolibrary.id/tag/george-spenalo/), [Mohammad Hatta](https://soehartolibrary.id/tag/mohammad-hatta/), [Parlemen Eropa](https://soehartolibrary.id/tag/parlemen-eropa/), [Pembantu Rektor](https://soehartolibrary.id/tag/pembantu-rektor/), [Prof. Dr. Djamaluddin](https://soehartolibrary.id/tag/prof-dr-djamaluddin/), [Prof. Dr. Fuad Hassan](https://soehartolibrary.id/tag/prof-dr-fuad-hassan/), [Prof. Dr. Slamet Iman Santoso](https://soehartolibrary.id/tag/prof-dr-slamet-iman-santoso/), [Prof. Mahar Mardjono](https://soehartolibrary.id/tag/prof-mahar-mardjono/), [Prof. Miriam Budiardjo MA](https://soehartolibrary.id/tag/prof-miriam-budiardjo-ma/), [Rektor UI](https://soehartolibrary.id/tag/rektor-ui/)

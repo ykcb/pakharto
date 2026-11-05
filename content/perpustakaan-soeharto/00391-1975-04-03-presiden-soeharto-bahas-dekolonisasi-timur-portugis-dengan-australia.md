@@ -44,12 +44,12 @@ relasi:
 
 # Presiden Soeharto Bahas Dekolonisasi Timur Portugis Dengan Australia
 
-## (Mengawali Kunjungan Ke Australia)[[1]](#_ftn1)
+## (Mengawali Kunjungan Ke Australia)1
 
 KAMIS, 3 April 1975, Pukul 07.00 pagi ini, Presiden Soeharto meninggalkan tanah air menuju Australia dalam rangka kunjungan tidak remi selama tiga hari di Negara Kangguru itu. Setiba di Townsville sore ini, Kepala Negara disambut oleh Perdana Menteri Australia, Gough Whitlam. Di kota wisata yang terletak di Negara Bagian Queensland ini, malam ini kedua pemimpin memulai serangkaian pembicaraan tidak resmi mereka selama dua jam. Selain membahas hubungan belateral kedua negara, pembicaraan pertama ini juga telah menyinggung perkembangan di Indo-Cina dan proses dekolonisasi  di Timur Portugis. (AFR)
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 234.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 234.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [dekolonisasi](https://soehartolibrary.id/tag/dekolonisasi/), [Gough Whitlam](https://soehartolibrary.id/tag/gough-whitlam/), [Indo-Cina](https://soehartolibrary.id/tag/indo-cina/), [Kangguru](https://soehartolibrary.id/tag/kangguru/), [Perdana Menteri Australia](https://soehartolibrary.id/tag/perdana-menteri-australia/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Queensland](https://soehartolibrary.id/tag/queensland/), [Timur Portugis](https://soehartolibrary.id/tag/timur-portugis/), [Townsville](https://soehartolibrary.id/tag/townsville/)

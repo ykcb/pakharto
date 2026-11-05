@@ -38,7 +38,7 @@ relasi:
 
 21 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1977-09-20-presiden-soeharto-instruksikan-pembentukan-tata-niaga-garam/#respond)  113 Views Share on
 
-# Presiden Soeharto Instruksikan Pembentukan Tata Niaga Garam[[1]](#_ftn1)
+# Presiden Soeharto Instruksikan Pembentukan Tata Niaga Garam1
 
 SELASA 20 SEPTEMBER 1977 Presiden Soeharto menginstruksikan pembentukan tata niaga garam rakyat dengan menetapkan harga terendah (*floor price*) dan harga terlinggi (*ceiling price*). Hal ini sama juga dengan tata niaga beras/gabah yang telah dilakukah Bulog. Masalah ini dibicarakan dalam sidang Dewan Stabilisasi Ekonomi Nasional di Bina Graha hari ini.
 
@@ -52,6 +52,6 @@ Demikianlah antara lain pengarahan Presiden Soeharto. (AFR).
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 538-539. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 538-539. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ekspor](https://soehartolibrary.id/tag/ekspor/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Tata Niaga Garam](https://soehartolibrary.id/tag/tata-niaga-garam/), [Timur Tengah](https://soehartolibrary.id/tag/timur-tengah/)

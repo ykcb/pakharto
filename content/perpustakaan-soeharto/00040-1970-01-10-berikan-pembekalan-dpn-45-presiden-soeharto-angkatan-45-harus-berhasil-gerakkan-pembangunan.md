@@ -55,6 +55,6 @@ SABTU 10 JANUARI 1970, Dalam amanat tertulisnya pada pembukaan musyawarah Dewan 
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  ['45](https://soehartolibrary.id/tag/45/), [angkatan](https://soehartolibrary.id/tag/angkatan/), [Bapak Pembangunan](https://soehartolibrary.id/tag/bapak-pembangunan/), [Bina Graha](https://soehartolibrary.id/tag/bina-graha/), [Cendana](https://soehartolibrary.id/tag/cendana/), [DPN](https://soehartolibrary.id/tag/dpn/), [GBHN](https://soehartolibrary.id/tag/gbhn/), [Istana Merdeka](https://soehartolibrary.id/tag/istana-merdeka/), [Macan Asia](https://soehartolibrary.id/tag/macan-asia/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [repelita](https://soehartolibrary.id/tag/repelita/), [tinggal landas](https://soehartolibrary.id/tag/tinggal-landas-2/)

@@ -50,7 +50,7 @@ relasi:
 
 # Presiden Soeharto Kunjungan Kenegaraan Ke Malaysia dan Muangthai
 
-## (Komitmen Persaudaraan Indonesia-Malaysia)[[1]](#_ftn1)
+## (Komitmen Persaudaraan Indonesia-Malaysia)1
 
 SENIN, 16 Maret 1970, Presiden dan Ibu Tien Soeharto beserta rombongan bertolak ke Kuala Lumpur untuk memulai kunjungan kenegaraan selama tujuh hari di Malaysia dan Muangthai. Kunjungan Presiden Soeharto di Malaysia mempunyai arti khusus, sebab inilah pertama kalinya seorang Kepala Negara Indonesia berkunjung ke negara lain. Setiba di lapangan udara Subang, Kula Lumpur, sore ini Presiden dan Ibu Soeharto beserta rombongan disambut Timbalan Yangg Dipertuan Agong Malaysia, Sultan dan Sultana Kedah, karena Yang Dipertuan Agong sedang sakit.
 
@@ -58,6 +58,6 @@ Dalam jamuan makan malam yang diselenggarakan oleh Timbalan Yang Dipertuan Agong
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 209
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 209
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Agong](https://soehartolibrary.id/tag/agong/), [Dipertuan](https://soehartolibrary.id/tag/dipertuan/), [Ibu](https://soehartolibrary.id/tag/ibu/), [Indonesia](https://soehartolibrary.id/tag/indonesia/), [Kedah](https://soehartolibrary.id/tag/kedah/), [Kuala Lumpur](https://soehartolibrary.id/tag/kuala-lumpur/), [Malaysia](https://soehartolibrary.id/tag/malaysia/), [Muangthai](https://soehartolibrary.id/tag/muangthai/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Persaudaraan](https://soehartolibrary.id/tag/persaudaraan/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Sultan dan Sultana Kedah](https://soehartolibrary.id/tag/sultan-dan-sultana-kedah/), [Tien](https://soehartolibrary.id/tag/tien/), [Timbalan Yangg Dipertuan Agong Malaysia](https://soehartolibrary.id/tag/timbalan-yangg-dipertuan-agong-malaysia/), [Yang](https://soehartolibrary.id/tag/yang/)

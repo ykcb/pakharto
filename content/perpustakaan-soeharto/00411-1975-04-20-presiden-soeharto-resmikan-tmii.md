@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto Resmikan TMII
 
-## (Taman Mini Milik Seluruh Bangsa)[[1]](#_ftn1)
+## (Taman Mini Milik Seluruh Bangsa)1
 
 MINGGU, 20 April 1975, Pada pukul 17.00 sore ini Presiden  Soeharto meresmikan Taman Mini Indonesia Indah (TMII). Proyek yang terletak di Jakarta Timur ini mulai dibangun sejak akhir Juni 1972 dan bentuk fisiknya merupakan miniatur rumah-rumah tradisional dari 26 provinsi yang ada di Indonesia. Selain dihadiri oleh Ibu Tien Soeharto, acara peresmian ini juga dihadiri oleh Ibu Negara Filipina Nyonya Marcos, dan Ibu Negara Singapura Nyonya Sears. Kedua tamu dari Singapura dan Filipina itu khusus datang untuk acara pembukaan TMII.
 
@@ -49,6 +49,6 @@ Dalam amanat peresmiannya Kepala Negara mengatakan bahwa Taman Mini  ini adalah
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 236-239.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 236-239.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Filipina](https://soehartolibrary.id/tag/filipina/), [Ibu Tien](https://soehartolibrary.id/tag/ibu-tien/), [Nyonya Marcos](https://soehartolibrary.id/tag/nyonya-marcos/), [Nyonya Sears](https://soehartolibrary.id/tag/nyonya-sears/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Singapura](https://soehartolibrary.id/tag/singapura/), [TMII](https://soehartolibrary.id/tag/tmii/)

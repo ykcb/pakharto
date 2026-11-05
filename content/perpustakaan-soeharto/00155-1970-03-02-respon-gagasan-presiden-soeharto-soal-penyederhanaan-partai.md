@@ -42,12 +42,12 @@ relasi:
 
 # Respon Gagasan Presiden Soeharto Soal Penyederhanaan Partai
 
-## IPKI dan Partai Katolik Menyambut Baik)[[1]](#_ftn1)
+## IPKI dan Partai Katolik Menyambut Baik)1
 
 SENIN, 2 Maret 1970, Gagasan Presiden Soeharto mengenai pengelompokan partai politik yang mengarah pada penyederhanaan kepartaian disambut dengan hangat oleh dua partai politik hari ini, IPKI dan Partai Katolik. (AFR)
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 207
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 207
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [IPKI](https://soehartolibrary.id/tag/ipki/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Partai](https://soehartolibrary.id/tag/partai/), [Partai Katolik](https://soehartolibrary.id/tag/partai-katolik/), [Penyederhanaan](https://soehartolibrary.id/tag/penyederhanaan/), [Politik](https://soehartolibrary.id/tag/politik/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/)

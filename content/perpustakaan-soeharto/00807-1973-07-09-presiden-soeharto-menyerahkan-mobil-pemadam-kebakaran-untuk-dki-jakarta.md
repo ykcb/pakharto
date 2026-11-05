@@ -44,7 +44,7 @@ relasi:
 
 # 1973-07-09 Presiden Soeharto Menyerahkan Mobil Pemadam Kebakaran Untuk DKI Jakarta
 
-# Presiden Soeharto Menyerahkan Mobil Pemadam Kebakaran Untuk DKI Jakarta[[1]](#_ftn1)
+# Presiden Soeharto Menyerahkan Mobil Pemadam Kebakaran Untuk DKI Jakarta1
 
 SENIN, 9 Juli 1973, Pagi ini Presiden Soeharto menyerahkan tiga unit mobil pemadam kebakaran kepada Gubernur DKI Jakarta, Ali Sadikin dalam suatu upacara di lantai II Wisma Negara. Dalam sambutannya, Presiden mengharapkan agar unit-unit pemadam kebakaran itu dipergunakan tidak hanya mengatasi kebakaran di gedung-gedung bertingkat tinggi saja, melainkan juga untuk memadamkan kebakaran di kampung-kampung di ibukota.
 
@@ -52,6 +52,6 @@ Selesai acara serah terima unit-unit pemadam kebakaran itu, Presiden menyaksikan
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 36-37. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 36-37. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ali Sadikin](https://soehartolibrary.id/tag/ali-sadikin/), [Amirmachmud](https://soehartolibrary.id/tag/amirmachmud/), [DKI Jakarta](https://soehartolibrary.id/tag/dki-jakarta/), [Emil Salim](https://soehartolibrary.id/tag/emil-salim/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Mobil](https://soehartolibrary.id/tag/mobil/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pemadam Kebakaran](https://soehartolibrary.id/tag/pemadam-kebakaran/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

@@ -38,7 +38,7 @@ relasi:
 
 1 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1968-10-08-presiden-soeharto-menerima-misi-ekonomi-jepang-dan-suku-dayak/#respond)  153 Views Share on
 
-# Presiden Soeharto Menerima Misi Ekonomi Jepang dan Suku Dayak[[1]](#_ftn1)
+# Presiden Soeharto Menerima Misi Ekonomi Jepang dan Suku Dayak1
 
 SELASA, 8 OKTOBER 1968 Bertempat di Istana Merdeka pagi ini Presiden Soeharto menerima misi ekonomi Jepang yang terdiri atas 20 pengusaha yang tergabung dalam *Keidanren* (federasi organisasi-organisasi ekonomi Jepang). Kepada pengusaha-pengusaha Jepang tersebut, Presiden Soeharto mengatakan bahwa pembangunan hanya bermanfaat bagi rakyat apabila dilakukan dengan mengerahkan segala daya dan dana yang dimiliki oleh bangsa Indonesia sendiri. Sekarang ini pembangunan Indonesia tidak mungkin dicapai tanpa bantuan asing; sebaliknya bila selamanya menggantungkan diri pada bantuan asing pun, tujuan pembangunan tidak akan tercapai. Oleh karena itu, dijelaskan oleh Presiden, bahwa penanaman modal asing diarahkan pada sektor-sektor yang belum dapat dilaksanakan oleh modal Indonesia sendiri.
 
@@ -46,6 +46,6 @@ Siang hari, pukul 12.30, Presiden Soeharto menerima 10 orang utusan suku Dayak d
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 53-54. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 53-54. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Jepang](https://soehartolibrary.id/tag/jepang/), [Keidanren](https://soehartolibrary.id/tag/keidanren/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Suku Dayak](https://soehartolibrary.id/tag/suku-dayak/)

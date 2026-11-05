@@ -40,12 +40,12 @@ relasi:
 
 # 1972-07-04 Menlu Inggris Douglas Hume: Pembicaraan Dengan Presiden Soeharto Berharga
 
-# Menlu Inggris Douglas Hume: Pembicaraan Dengan Presiden Soeharto Berharga[[1]](#_ftn1)
+# Menlu Inggris Douglas Hume: Pembicaraan Dengan Presiden Soeharto Berharga1
 
 SELASA, 04 Juli 1972. Presiden Soeharto menerima Menteri Luar Negeri Inggris, Sir Alex Douglas Hume. Kepada pers Menteri Luar Negeri Inggris mengatakan bahwa pembicaraannya dengan Presiden Soeharto sangat berharga dan rahasia. (AFR).
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 451. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 451. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Menteri Luar Negeri Inggris](https://soehartolibrary.id/tag/menteri-luar-negeri-inggris/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sir Alex Douglas Hume](https://soehartolibrary.id/tag/sir-alex-douglas-hume/)

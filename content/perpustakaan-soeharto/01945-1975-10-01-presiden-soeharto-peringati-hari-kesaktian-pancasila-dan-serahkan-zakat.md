@@ -40,7 +40,7 @@ relasi:
 
 16 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1975-10-01-presiden-soeharto-peringati-hari-kesaktian-pancasila-dan-serahkan-zakat/#respond)  95 Views Share on
 
-# Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan Zakat[[1]](#_ftn1)
+# Presiden Soeharto Peringati Hari Kesaktian Pancasila dan Serahkan Zakat1
 
 RABU, 1 OKTOBER 1975 Hari Kesaktian Pancasila diperingati pagi ini dalam suatu upacara khidmat di Lubang Buaya, Jakarta Timur, dipimpin sendiri oleh Presiden Soeharto. Setelah lagu Indonesia Raya diperdengarkan, Ketua DPR/MPR Idham Chalid membacakan teks Pancasila, dan Menteri Pendidikan dan Kebudayaan Sjarif Thajeb membacakan Pembukaan UUD 1945. Penandatanganan ikrar setia kepada Pancasila dan negara RI dilakukan oleh Wakil Ketua DPR/MPR Domo Pranoto. Upacara yang dihadiri oleh lebih kurang 1.400 undangan ini diakhiri dengan pembacaan doa yang·dipimpin oleh Menteri Agama Mukti Ali.
 
@@ -52,6 +52,6 @@ Hari ini pula Presiden Soeharto menyerahkan zakat sebanyak 50 ton beras kepada k
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 291. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 291. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Hari Kesaktian Pancasila](https://soehartolibrary.id/tag/hari-kesaktian-pancasila/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

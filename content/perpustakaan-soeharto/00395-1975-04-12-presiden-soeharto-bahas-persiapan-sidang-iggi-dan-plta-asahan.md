@@ -43,7 +43,7 @@ relasi:
 
 ## Presiden Soeharto Bahas Persiapan Sidang IGGI dan PLTA Asahan
 
-## (Membahas Selebaran Gelap Adu Antar Agama Dengan Sudomo)[[1]](#_ftn1)
+## (Membahas Selebaran Gelap Adu Antar Agama Dengan Sudomo)1
 
 SABTU, 12 April 1975, Menteri Negara Ekuin/Ketua Bappenas, Widjojo Nitisostro, Menteri Keuangan, Ali Wardhana, Menteri Perdagangan, Radius Prawiro, dan Gubernur Bank Central, Rachmat Saleh, menghadap Kepala Negara di Cendana jam 09.00 pagi ini. Dalam pertemuan yang berlangsung lebih kurang satu jam itu telah dibahas persiapan-persiapan lanjutan delegasi Indonesia menjelang berlangsungnya sidang IGGI di Negeri Belanda, dan masalah yang berkenaan dengan pembangunan proyek listrik tenaga air Asahan, Sumatera Utara.
 
@@ -51,6 +51,6 @@ Sementara itu, dalam pertemuan dengan Kepala Staf Kopkamtib, Laksamanan Sudomo, 
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 236-237.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 236-237.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Agama](https://soehartolibrary.id/tag/agama/), [Ali Wardhana](https://soehartolibrary.id/tag/ali-wardhana/), [Belanda](https://soehartolibrary.id/tag/belanda/), [Gubernur Bank Central](https://soehartolibrary.id/tag/gubernur-bank-central/), [IGGI](https://soehartolibrary.id/tag/iggi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Rachmat Saleh](https://soehartolibrary.id/tag/rachmat-saleh/), [Radius Prawiro](https://soehartolibrary.id/tag/radius-prawiro/), [Widjojo Nitisostro](https://soehartolibrary.id/tag/widjojo-nitisostro/)

@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto Instruksikan Evaluasi Gaji Khusus Karyawan Depkeu
 
-## (Menerima Wakil-Wakil Negara ASEAN dan Bahas Tunggakan Pajak Perusahaan Negara)[[1]](#_ftn1)
+## (Menerima Wakil-Wakil Negara ASEAN dan Bahas Tunggakan Pajak Perusahaan Negara)1
 
 SELASA, 20 Juli 1971. Dengan didampingi oleh Menteri Perdagangan Sumitro Djoyohadikusumo, dan Menteri  Luar negeri Adam Malik, hari ini di Bina Graha Presiden Soeharto menerima wakil-wakil negara ASEAN yang sedang menghadiri rapat tingkat menteri ASEAN untuk membahas masalah-masalah ekonomi, di Jakarta. Dalam pertemuan ini hadir Menteri Keuangan Singapura Hon Sui Sen, dan Duta Besar Singapura di Indonesia Lee Khoon Choy, Menteri Perekonomian Muangthai Bun Chanra Attakor, Duta Besar Filipina di Indonesia Tan Sri Ya’acob bin Abdul Latif, Duta Besar Filipina Modesto Farolan. Pada kesempatan itu Presiden Soeharto mengucapkan terima kasih atas partisipasi negara-negara ASEAN dalam *Jakarta Fair* yang sedang berlangsung di Jakarta.
 
@@ -54,6 +54,6 @@ Damal sidang itu pula, Menteri Keuangan melaporkan tentang penerimaan Departemen
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 345. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 345. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Asean](https://soehartolibrary.id/tag/asean/), [Cukai](https://soehartolibrary.id/tag/cukai/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Pajak](https://soehartolibrary.id/tag/pajak/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Perusahaan Negara](https://soehartolibrary.id/tag/perusahaan-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

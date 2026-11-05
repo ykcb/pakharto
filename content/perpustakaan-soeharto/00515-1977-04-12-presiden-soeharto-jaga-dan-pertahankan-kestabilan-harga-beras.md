@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto: Jaga dan Pertahankan Kestabilan Harga Beras
 
-## (Instruksikan Kesiapan Menghadapi Delegasi Iran)[[1]](#_ftn1)
+## (Instruksikan Kesiapan Menghadapi Delegasi Iran)1
 
 SELASA, 12 April 1977, Pukul 10.00 pagi ini Presiden Soeharto memimpin sidang Dewan Stabilisasi Ekonomi Nasional di Bina Graha. Dalam sidang Nasional itu telah didengar laporan mengenai laju inflasi yang diperhitungkan dari harga 62 bahan pokok kebutuhan rakyat selama bulan Maret. Diperkirakan bahwa kenaikan hanya sebesar 0,06%. Dengan gejala baik sekarang ini, sidang berpendapat bahwa pegawai negeri bisa memanfaatkan kenaikan gajinya.
 
@@ -55,6 +55,6 @@ Sementara itu Menteri Perdagangan telah melaporkan kepada sidang tentang terjadi
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 479.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 479.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Bina Graha](https://soehartolibrary.id/tag/bina-graha/), [Dewan](https://soehartolibrary.id/tag/dewan/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [Iran](https://soehartolibrary.id/tag/iran/), [Nasional](https://soehartolibrary.id/tag/nasional/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Stabilisasi](https://soehartolibrary.id/tag/stabilisasi/), [Tenaga Kerja](https://soehartolibrary.id/tag/tenaga-kerja/)

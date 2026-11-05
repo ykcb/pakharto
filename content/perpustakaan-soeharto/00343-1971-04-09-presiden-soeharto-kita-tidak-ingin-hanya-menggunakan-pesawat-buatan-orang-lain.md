@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto: Kita Tidak Ingin Hanya Menggunakan Pesawat Buatan Orang Lain
 
-## (Saat Menjadi Inspektur Upacara Hari Penerbangan Nasional)[[1]](#_ftn1)
+## (Saat Menjadi Inspektur Upacara Hari Penerbangan Nasional)1
 
 JUM’AT, 9 April 1971, Presiden Soeharto mengatakan bahwa dalam bidang penerbangan kita memang jauh ketinggalan dibandingkan dengan kemajuan-kemajuan yang dicapai dalam dunia penerbangan. Kita harus mengejar ketinggalan ini agar angkasa kita tidak dilampaui oleh pesawat-pesawat raksasa orang lain saja. Hal ini dikatakan Presiden Soeharto ketika bertindak sebagai inspektur upacara pada peringatan Hari Penerbangan Nasional, yang diadakan di Parkir Timur Senayan, Jakarta hari ini. Dikatakan pula bahwa bangsa yang membangun harus melihat ke depan dan bekerja untuk masa depan. Pembangunan kekuatan penerbangan nasional kita harus melihat jauh ke kaki langit depan, bukannya menoleh jalan yang kita tinggalkan di belakang. Masa depan kita, tergantung pada pembangunan yang baik di darat, di laut maupun di udara, tidak mungkin kita menjadikan Indonesia sebagai suatu kesatuan ekonomi, kesatuan politik, kesatuan pertahanan keamanan.
 
@@ -49,6 +49,6 @@ Presiden menyatakan keyakinannya bahwa masa depan pembangunan kekuatan penerbang
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 317-318.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 317-318.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [ABRI](https://soehartolibrary.id/tag/abri/), [AURI](https://soehartolibrary.id/tag/auri/), [Penerbangan Nasional](https://soehartolibrary.id/tag/penerbangan-nasional/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

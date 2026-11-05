@@ -39,7 +39,7 @@ relasi:
 
 17 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/memperjuangkan-pemerataan-hasil-pembangunan/#respond)  140 Views Share on
 
-# Memperjuangkan Pemerataan Hasil Pembangunan [[1]](#_ftn1)
+# Memperjuangkan Pemerataan Hasil Pembangunan 1
 
 ## Rachmat Saleh **[**[2]**](#_ftn2)**
 
@@ -97,8 +97,8 @@ Tertegunlah saya sewaktu tanpa diduga-duga Pak Harto “berfilsafat” tentang s
 
 ---
 
-[[1]](#_ftnref1)     Rachmat Saleh, “Memperjuangkan Pemerataan Hasil Pembangunan”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 523-529.
+1     Rachmat Saleh, “Memperjuangkan Pemerataan Hasil Pembangunan”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 523-529.
 
-[[2]](#_ftnref2)     Gubernur Bank Sentral masa bakti 1973-1983; dan Menteri Perdagangan masa bakti 1983-1988
+2     Gubernur Bank Sentral masa bakti 1973-1983; dan Menteri Perdagangan masa bakti 1983-1988
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Gubernur BI](https://soehartolibrary.id/tag/gubernur-bi/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Rachmat Saleh](https://soehartolibrary.id/tag/rachmat-saleh/)

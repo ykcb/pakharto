@@ -43,7 +43,7 @@ Jl. Cendana No. 8
 
 di    Jakarta Pusat
 
-# Aku Tak Peduli Kata Mereka[[1]](#_ftn1)
+# Aku Tak Peduli Kata Mereka1
 
 Dengan segenap hormat,
 
@@ -69,6 +69,6 @@ Yang menghargai Anda
 
 ---
 
-[[1]](#_ftnref1)       Dikutip dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 254. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
+1       Dikutip dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 254. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
 
  [Simpati](https://soehartolibrary.id/category/biografi/simpati/)

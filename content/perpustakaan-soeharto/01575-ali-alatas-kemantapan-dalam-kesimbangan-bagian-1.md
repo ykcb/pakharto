@@ -42,9 +42,9 @@ relasi:
 
 26 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/ali-alatas-kemantapan-dalam-kesimbangan-bagian-1/#respond)  103 Views Share on
 
-# Kemantapan Dalam Keseimbangan (Bagian 1)[[1]](#_ftn1)
+# Kemantapan Dalam Keseimbangan (Bagian 1)1
 
-## Ali Alatas[[2]](#_ftn2)
+## Ali Alatas2
 
 Pada tahun 1970 Bapak dan lbu Soeharto mengadakan kunjungan resmi ke Amerika Serikat. Selaku pejabat diplomatik di KBRI Washington DC, dengan pangkat *Minister Councellor*, saya diberi tugas untuk mengkoordinasi berbagai segi kunjungan itu. Kunjungan tersebut berlangsung cukup lama, sebab beliau tidak saja mengunjungi Washington DC, tetapi juga New York, Los Angeles, San Francisco dan daerah-daerah pedalaman di suatu negara bagian di Amerika Serikat bagian tengah. Di situlah saya mulai mengenal Pak Harto dari dekat, bercakap-cakap dalam rangka mempersiapkan segala sesuatunya, seperti persiapan untuk menghadapi anggota-anggota Kongres AS. Beliau ketika itu mengadakan pembicaraan dengan Presiden Amerika Serikat, dan bertemu-wicara dengan Komisi Luar Negeri Kongres. Diadakan pula pertemuan dengan kalangan pengusaha dan media massa di New York, di samping berbagai acara di kota-kota lain.
 
@@ -74,8 +74,8 @@ Namun dalam hal ini, diarahkan pula agar kita tidak melakukannya dengan gaya kon
 
 ---
 
-[[1]](#_ftnref1) Ali Alatas, “Kemantapan Dalam Keseimbangan”, dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”(Jakarta: PT. Citra Kharisma Bunda, 2009), hal 48-58.
+1 Ali Alatas, “Kemantapan Dalam Keseimbangan”, dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”(Jakarta: PT. Citra Kharisma Bunda, 2009), hal 48-58.
 
-[[2]](#_ftnref2) Menteri Luar Negeri dalam Kabinet Pembangunan V.
+2 Menteri Luar Negeri dalam Kabinet Pembangunan V.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Adam Malik](https://soehartolibrary.id/tag/adam-malik/), [Ali Alatas](https://soehartolibrary.id/tag/ali-alatas/), [IGGI](https://soehartolibrary.id/tag/iggi/), [Multilateral](https://soehartolibrary.id/tag/multilateral/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Utara-Selatan](https://soehartolibrary.id/tag/utara-selatan/)

@@ -43,6 +43,6 @@ Dalam pidato balasannya, Presiden Soeharto mengatakan bahwa sama dengan rakyat B
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Besar](https://soehartolibrary.id/tag/besar/), [Bulgaria](https://soehartolibrary.id/tag/bulgaria/), [Duta](https://soehartolibrary.id/tag/duta/)

@@ -30,4 +30,4 @@ relasi:
     sumber: https://soehartolibrary.id/1968-06-06-pidato-presiden-soeharto-pada-pelantikan-menteri-kabinet-pembangunan/
 ---
 
-**Kabinet Pembangunan** adalah kabinet pertama yang dibentuk [[Soeharto]] setelah diangkat menjadi presiden. Para menterinya dilantik pada peristiwa [[Pelantikan Kabinet Pembangunan 1968]], di mana Soeharto menyampaikan [[Pidato Pelantikan Menteri Kabinet Pembangunan 1968|pidatonya]].
+**Kabinet Pembangunan** adalah kabinet pertama yang dibentuk [[Soeharto]] setelah diangkat menjadi presiden. Para menterinya dilantik pada peristiwa [[peristiwa/1968-06-10-pelantikan-kabinet-pembangunan]], di mana Soeharto menyampaikan pidatonya.

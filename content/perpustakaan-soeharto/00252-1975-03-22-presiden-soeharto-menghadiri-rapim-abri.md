@@ -38,7 +38,7 @@ relasi:
 
 # Presiden Soeharto Menghadiri Rapim ABRI
 
-## (Demokrasi dan Kemajuan Harus diletakkan di atas Kepribadian Pancasila)[[1]](#_ftn1)
+## (Demokrasi dan Kemajuan Harus diletakkan di atas Kepribadian Pancasila)1
 
 SABTU, 22 MARET  1975, Jam 11.00 pagi Presiden Soeharto menerima para peserta Rapim ABRI di Istana Merdeka. Pada kesempatan itu Kepala Negara telah mengamanatkan bahwa Indonesia memang harus bergerak kearah suatu masyarakat yang modern, demokratis, dan masyarakat yang mengejar prestasi serta menghargai kerja. Namun diingatkannya agar semua itu dikembangkan diatas kepribadian Indonesia sendiri yaitu, Pancasila. Oleh sebab itu, ia mengajak masyarakat luas. Para mahasiswa, pemuda, universitas, angkatan 45 dan lapisan-lapisan masyarakat lainnya untuk memberikan perhatian yang lebih besar pada masalah penghayatan dan pengamalan Pancasila.
 
@@ -48,6 +48,6 @@ Usai mendampingi para peserta rapim ABRI menghadap Presiden. Menteri Hankam/pang
 
 ---
 
-[[1]](#_ftnref1)     Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.226.
+1     Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.226.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [ABRI](https://soehartolibrary.id/tag/abri/), [Demokrasi](https://soehartolibrary.id/tag/demokrasi/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

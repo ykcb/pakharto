@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Soeharto Kunjungi Tanjung Priok
 
-## (Agar Galangan Kapal Tidak Mengeluarkan Barang Yang Tidak Berkaitan dengan Pembuatan Kapal)[[1]](#_ftn1)
+## (Agar Galangan Kapal Tidak Mengeluarkan Barang Yang Tidak Berkaitan dengan Pembuatan Kapal)1
 
 RABU, 19 MARET  1975, Siang ini Presiden Soeharto  mengadakan peninjauan di Pelabuhan Sindang Laut, Tanjung Priok. Di pelabuhan ini Kepala Negara, disaksikan oleh Menteri Perhubungan Emil Salim dan Direktur Jenderal Perhubungan Laut Haryono Nimpuno, menyerahkan dua buah kapal berukuran 200 dwt masing-masing satu buah kepada Provinsi Sulawesi Selatan dan Provinsi Sulawesi Tenggara. Kapal-kapal tersebut diterima oleh Gubernur Sulawesi Selatan, H Achmad Lamo, dan Gubernur Sulawesi Tenggara, Eddy Sabara.
 
@@ -47,7 +47,7 @@ Kepala Negara juga telah mengambil kesempatan ini untuk mengadakan pembicaraan d
 
 ---
 
-[[1]](#_ftnref1)
+1
 
 [1]      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.225.
 

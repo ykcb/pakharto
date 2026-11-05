@@ -45,6 +45,6 @@ SABTU, 1 FEBRUARI 1969 Pagi hari, Presiden Soeharto menerima Howard P. Jones, be
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [AS](https://soehartolibrary.id/tag/as/), [Besar](https://soehartolibrary.id/tag/besar/), [Duta](https://soehartolibrary.id/tag/duta/), [Howard](https://soehartolibrary.id/tag/howard/), [Jones](https://soehartolibrary.id/tag/jones/), [Kehormatan](https://soehartolibrary.id/tag/kehormatan/), [Kunjungan](https://soehartolibrary.id/tag/kunjungan/)

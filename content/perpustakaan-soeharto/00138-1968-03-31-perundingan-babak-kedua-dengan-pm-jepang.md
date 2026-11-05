@@ -40,7 +40,7 @@ relasi:
 
 # PERUNDINGAN BABAK KEDUA DENGAN PM EISAKU SATO
 
-## (Jaminan Jepang “Dengan Pandangan Jauh” Untuk Meningkatkan Bantuan ke Indonesia)[[1]](#_ftn1)
+## (Jaminan Jepang “Dengan Pandangan Jauh” Untuk Meningkatkan Bantuan ke Indonesia)1
 
 MINGGU, 31 MARET 1968, Hari ini Presiden Soeharto mengadakan perundingan babak kedua dengan PM Jepang, Eisaku Sato. Sebagai kelanjutan dari pertemuan sebelumnya, dalam pertemuan ini Presiden Soeharto telah berhasil memperoleh jaminan bahwa Jepang “dengan pandangan jauh” akan mempertimbangkan peningkatan jumlah bantuannya kepada Indonesia tahun ini. Namun dalam hal ini Jepang belum dapat memberikan angka-angka yang pasti.
 
@@ -48,6 +48,6 @@ Catatan: Menurut Koos Arumdanie, Wartawan Senior Istana pada masa Presiden Soeka
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Bantuan](https://soehartolibrary.id/tag/bantuan/), [Eisaku Sato](https://soehartolibrary.id/tag/eisaku-sato/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [Jepang](https://soehartolibrary.id/tag/jepang/), [Menteri](https://soehartolibrary.id/tag/menteri/), [Perdana](https://soehartolibrary.id/tag/perdana/)

@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto Sahkan Batas Landas Kontinen Indonesia-Muangthai
 
-## (Pengaruh Kerjasama Ekonomi dalam Ketahanan Nasional)[[1]](#_ftn1)
+## (Pengaruh Kerjasama Ekonomi dalam Ketahanan Nasional)1
 
 SELASA, 21 Maret 1972, Di Bina Graha hari ini Presiden Soeharto menerima Menteri Luar Negeri Korea Selatan Kim Yong Shok. Pada kesempatan itu keduanya membahas usaha peningkatan kerjasama antara kedua Negara di bidang perdagangan, termasuk penanaman modal. Presiden menyambut baik kerjasama di bidang ekonomi, karena bidang ini mempunyai pengaruh dalam rangka ketahanan nasional.
 
@@ -52,6 +52,6 @@ Dengan surat keputusan No. 21 tahun 1972 yang dikeluarkan hari ini, Presiden Soe
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 426-427
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 426-427
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Batas](https://soehartolibrary.id/tag/batas/), [Kontinen](https://soehartolibrary.id/tag/kontinen/), [Landas](https://soehartolibrary.id/tag/landas/), [Malaka](https://soehartolibrary.id/tag/malaka/), [Muangthai](https://soehartolibrary.id/tag/muangthai/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Selat](https://soehartolibrary.id/tag/selat/), [Soeharto](https://soehartolibrary.id/tag/soeharto/)

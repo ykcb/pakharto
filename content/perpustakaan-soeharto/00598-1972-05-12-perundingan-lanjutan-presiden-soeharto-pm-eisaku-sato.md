@@ -35,7 +35,7 @@ relasi:
 
 # 1972-05-12 Perundingan Lanjutan Presiden Soeharto-PM Eisaku Sato
 
-# Perundingan Lanjutan Presiden Soeharto-PM Eisaku Sato[[1]](#_ftn1)
+# Perundingan Lanjutan Presiden Soeharto-PM Eisaku Sato1
 
 JUM’AT, 12 Mei 1972, Pagi ini Presiden Soeharto berunding lagi dengan PM Eisaku Sato bertempat di kediaman resmi Perdana Menteri. Pertemuan tersebut berlangsung lebih-kurang dua jam, yang berarti satu jam lebih lama dari waktu yang telah direncanakan. (AFR).
 
@@ -43,6 +43,6 @@ Catatan: Berdasarkan penuturan Koos Arumdanie, seorang mantan wartawati Istana N
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 439.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 439.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Jepang](https://soehartolibrary.id/tag/jepang/), [PM Eisaku Sato](https://soehartolibrary.id/tag/pm-eisaku-sato/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

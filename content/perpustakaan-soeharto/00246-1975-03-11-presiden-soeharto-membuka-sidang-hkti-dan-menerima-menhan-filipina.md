@@ -38,7 +38,7 @@ relasi:
 
 # Presiden Soeharto Membuka Sidang HKTI dan Menerima Menhan Filipina
 
-## (Pembangunan Pertanian Untuk Sejahterakan Petani)[[1]](#_ftn1)
+## (Pembangunan Pertanian Untuk Sejahterakan Petani)1
 
 SELASA, 11 MARET  1975, Bertempat di Istana Negara, jam 09.00 pagi Presiden Soeharto  membuka sidang Majelis Pleno HKTI. Pada kesempatan ini Kepala Negara mengamanatkan agar HKTI benar-benar terjun ke tengah-tengah petani dan tidak menjadi organisasi yang terlepas dari jutaan petani yang menjadi tujuan pengabdian organisasi tersebut. Diharapkannya organisasi ini dapat memberikan petunjuk dan bimbingan, serta dapat membangkitkan kepercayaan petani bahwa masa depan benar-benar ada di tangan mereka.
 
@@ -48,7 +48,7 @@ Juan Ponco Enrile, Menteri Pertahanan Filipina, pukul 10.30 pagi mengadakan kunj
 
 ---
 
-[[1]](#_ftnref1)
+1
          [1]      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.223-224.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Filipina](https://soehartolibrary.id/tag/filipina/), [HKTI](https://soehartolibrary.id/tag/hkti/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

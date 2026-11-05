@@ -40,7 +40,7 @@ relasi:
 
 # 1969-05-15 Presiden Soeharto Buka POM dan Panen Padi
 
-# Presiden Soeharto Buka POM dan Panen Padi[[1]](#_ftn1)
+# Presiden Soeharto Buka POM dan Panen Padi1
 
 KAMIS, 15 MEI 1969, Dengan menggunakan pesawat kepresidenan Jetstar, Presiden dan Ibu Soeharto berangkat menuju Makassar pagi ini. Dalam kunjungan dua hari, Presiden antara lain kan membuka Pekan Olahraga Mahasiswa dan meninjua Pabrik Semen Tonasa.
 
@@ -50,6 +50,6 @@ Dalam kunjungannya di kabupaten Maros, hari ini Presiden dan Ibu Soeharto telah 
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 122-123.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 122-123.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [DPR-GR](https://soehartolibrary.id/tag/dpr-gr/), [Luar Negeri](https://soehartolibrary.id/tag/luar-negeri/), [Mahasiswa](https://soehartolibrary.id/tag/mahasiswa/), [Makasar](https://soehartolibrary.id/tag/makasar/), [Maros](https://soehartolibrary.id/tag/maros/), [Olah Raga](https://soehartolibrary.id/tag/olah-raga/), [Padi](https://soehartolibrary.id/tag/padi/), [POM](https://soehartolibrary.id/tag/pom/)

@@ -46,7 +46,7 @@ relasi:
 
 # Presiden Soeharto Tiba di Bandara Don Muang Bangkok
 
-## (Mengadakan Kunjungan Kehormatan Kepada Raja Bhumipol dan Ratu Sirikit)[[1]](#_ftn1)
+## (Mengadakan Kunjungan Kehormatan Kepada Raja Bhumipol dan Ratu Sirikit)1
 
 KAMIS, 19  Maret 1970, Menandai akhir kunjungan Presiden Soeharto di Malaysia, kedua kepala Negara hari ini mengeluarkan sebuah komunike bersama. Pada pokoknya komunike tersebut memuat kesepakatan untuk melakukan segala sesuatu dalam usaha untuk menjalin hubungan bilateral yang erat dalam bidang ekonomi dan kebudayaan.
 
@@ -54,6 +54,6 @@ Pagi hari, Presiden dan ibu Soeharto beserta rombongan tiba di pelabuhan udara D
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 210-211
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 210-211
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Bangkok](https://soehartolibrary.id/tag/bangkok/), [bilateral](https://soehartolibrary.id/tag/bilateral/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [Emas](https://soehartolibrary.id/tag/emas/), [Istana](https://soehartolibrary.id/tag/istana/), [Kunci](https://soehartolibrary.id/tag/kunci/), [Malaysia](https://soehartolibrary.id/tag/malaysia/), [Muangthai](https://soehartolibrary.id/tag/muangthai/), [Raja Bhumipol](https://soehartolibrary.id/tag/raja-bhumipol/), [Ratu Sirikit](https://soehartolibrary.id/tag/ratu-sirikit/), [Shitralada](https://soehartolibrary.id/tag/shitralada/), [Walikota](https://soehartolibrary.id/tag/walikota/)

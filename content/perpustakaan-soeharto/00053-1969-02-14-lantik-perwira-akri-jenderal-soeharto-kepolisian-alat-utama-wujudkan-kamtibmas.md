@@ -51,6 +51,6 @@ JUM’AT, 14 FEBRUARI 1969. Jenderal Soeharto menegaskan bahwa tugas pokok Angka
 
 ---
 
-[[1]](#_ftnref1)     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [AKRI](https://soehartolibrary.id/tag/akri/), [catur](https://soehartolibrary.id/tag/catur/), [darma](https://soehartolibrary.id/tag/darma/), [eka](https://soehartolibrary.id/tag/eka/), [karma](https://soehartolibrary.id/tag/karma/), [Keamanan](https://soehartolibrary.id/tag/keamanan/), [kepolisian](https://soehartolibrary.id/tag/kepolisian/), [ketertiban](https://soehartolibrary.id/tag/ketertiban/), [mabak](https://soehartolibrary.id/tag/mabak/), [repelita](https://soehartolibrary.id/tag/repelita/)

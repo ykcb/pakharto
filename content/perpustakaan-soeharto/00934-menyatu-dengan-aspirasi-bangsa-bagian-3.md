@@ -36,9 +36,9 @@ relasi:
 
 # BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 3)
 
-# Menyatu dengan Aspirasi Bangsa (Bagian 3)[[1]](#_ftn1)
+# Menyatu dengan Aspirasi Bangsa (Bagian 3)1
 
-## BJ Habibie[[2]](#_ftn2)
+## BJ Habibie2
 
 Dari pengalaman sebagai seorang pemimpin gerakan mahasiswa di Eropa, saya sadar bahwa suatu halangan tidak dapat didobrak dan suatu idea tidak mungkin diwujudkan, hanya oleh satu orang saja. Pengalaman itu mengajarkan bahwa yang penting meyakini dua hal dulu. Pertama, cita-cita dan program yang kita miliki waktu itu benar-benar identik dengan cita-cita bangsa. Kedua, bahwa cita-cita yang kita miliki itu benar-benar menguntungkan cita-cita perjuangan bangsa. Jika cita-cita tersebut benar-benar demikian, maka kita harus juga mampu untuk mewujudkan cita-cita itu. Tidak hanya itu saja” kita harus mampu meyakinkan orang-orang di lingkungan kita bahwa yang dikehendaki itu bukan kepentingan pribadi, tetapi tidak lain daripada suatu sumbangan kecil kepada suatu perjuangan yang besar dari keseluruhan bangsa. Dengan demikian, maka orang yang diyakinkan akan bergabung dengan kita yang meyakinkan itu dan akan terbentuk suatu kelompok yang jumlahnya semakin besar dan kekuatannya makin tinggi untuk mendobrak dan melakukan terobosan yang diperlukan dan diharapkan oleh bangsa.
 
@@ -86,8 +86,8 @@ BJ Habibie terpilih sebagai wakil Presiden pada tahun 1997 mendampingi Presiden 
 
 ---
 
-[[1]](#_ftnref1) BJ. Habibie, “Menyatu Dengan Aspirasi Bangsa”,  dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 376-381.
+1 BJ. Habibie, “Menyatu Dengan Aspirasi Bangsa”,  dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 376-381.
 
-[[2]](#_ftnref2) Menteri Negara Riset dan Teknologi dalam Kabinet Pembangunan V.
+2 Menteri Negara Riset dan Teknologi dalam Kabinet Pembangunan V.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [BJ. Habibie](https://soehartolibrary.id/tag/bj-habibie/), [Ibu Sutowo](https://soehartolibrary.id/tag/ibu-sutowo/), [Jerman Barat](https://soehartolibrary.id/tag/jerman-barat/), [Pertamina](https://soehartolibrary.id/tag/pertamina/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

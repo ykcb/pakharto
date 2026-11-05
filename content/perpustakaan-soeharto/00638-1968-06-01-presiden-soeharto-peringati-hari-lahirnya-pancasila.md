@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Soeharto Peringati Hari Lahirnya Pancasila
 
-## (Berhentikan 17 Direktur PNKA)[[1]](#_ftn1)
+## (Berhentikan 17 Direktur PNKA)1
 
 SABTU, 1 JUNI 1968, Hari ini dimana-mana di tanah air diperingati sebagai hari lahirnya Pancasila. Dalam acara peringatan hari lahirnya Pancasila di Istana Negara malam ini, Presiden Soeharto mengatakan bahwa sekarang kita sedang menghadapi tiga masalah besar. Ketiga masalah itu adalah, pertama, perbaikan kehidupan perekonomian bangsa. Kedua, melaksanakan demokrasi yang sehat serta tegaknya hukum dan sistem konstitusional. Ketiga, menghadapi ancaman bahaya dari sisa-sisa PKI. Pada kesempatan itu Jenderal Soeharto menegaskan bahwa kita harus dapat mengatasi masalah-masalah itu; dengan demikian kita telah maju selangkah lagi dalam mengamankan dan mengamalkan Pancasila.
 
@@ -47,6 +47,6 @@ Dalam rangka penghematan dan efisiensi yang dicanangkan oleh Presiden Soeharto d
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 21.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 21.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Demokrasi](https://soehartolibrary.id/tag/demokrasi/), [G.30.S/PKI](https://soehartolibrary.id/tag/g-30-spki/), [PNKA](https://soehartolibrary.id/tag/pnka/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Stabilisasi Ekonomi](https://soehartolibrary.id/tag/stabilisasi-ekonomi/)

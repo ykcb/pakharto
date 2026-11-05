@@ -45,7 +45,7 @@ relasi:
 
 # Presiden Soeharto: Kita Diselimuti Keprihatinan, Tapi Juga Terlihat Sinar-Sinar Harapan
 
-# Sampaikan Pidato Kenegaraan 16 Agustus 1973[[1]](#_ftn1)
+# Sampaikan Pidato Kenegaraan 16 Agustus 19731
 
 KAMIS, 16 AGUSTUS 1973, Menyongsong peringatan Hari Kemerdekaan Indonesia yang ke-28, Presiden Soeharto menyampaikan pidato kenegaraannya didalam sidang pleno terbuka DPR di Senayan, Jakarta. Dalam pidatonya, Kepala Negara mencatat adanya dua hal penting dalam tahun ini. Pertama, tahun 1973 adalah tahun terakhir Repelita I, yaitu tahun yang menentukan gerak pembangunan berikutnya. Kedua, tahun ini merupakan pula tahun pertama masa kepresidenannya yang kedua, dan untuk pertama kalinya pula Presiden dan Wakil Presiden RI dipilih oleh MPR hasil pemilihan umum.
 
@@ -61,6 +61,6 @@ Mengenai politik luar negeri, Kepala Negara menghargai gagasan-gagasan untuk mem
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 43-44. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 43-44. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [DPR](https://soehartolibrary.id/tag/dpr/), [MPR](https://soehartolibrary.id/tag/mpr/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Repelita I](https://soehartolibrary.id/tag/repelita-i/), [Sidang Pleno Terbuka](https://soehartolibrary.id/tag/sidang-pleno-terbuka/)

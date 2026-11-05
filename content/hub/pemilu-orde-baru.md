@@ -61,7 +61,7 @@ relasi:
 
 - Diwarnai oleh sistem [[Demokrasi Pancasila]] yang mengontrol ruang politik.
 - Didukung oleh [[Dwifungsi ABRI]] sebagai penjaga proses.
-- Golkar sebagai partai pemerintah menjadi kendaraan legitimasi [[Orde Baru (1966–1998)|Orde Baru]].
+- Golkar sebagai partai pemerintah menjadi kendaraan legitimasi [[hub/orde-baru|Orde Baru]].
 
 ## Warisan
 

@@ -40,7 +40,7 @@ relasi:
 
 # 1970-08-03 Presiden Soeharto Deadline Daftar Kekayaan Pribadi Pejabat
 
-# Presiden Soeharto Deadline Daftar Kekayaan Pribadi Pejabat [[1]](#_ftn1)
+# Presiden Soeharto Deadline Daftar Kekayaan Pribadi Pejabat 1
 
 SENIN, 03 AGUSTUS 1970, Hari ini Presiden Soeharto memutuskan bahwa semua pejabat teras di departemen-departemen dan semua pegawai tinggi (Golongan/Ruang IV C) serta perwira tinggi ABRI, selambat-lambatnya tanggal 31 Agustus 1970 sudah mengisi Daftar Kekayaan Pribadi (DKP), yang bersifat rahasia. Ketentuan ini berlaku pula bagi Presiden. Demikian termaktub dalam Keputusan Presiden No. 52/1970.
 
@@ -52,6 +52,6 @@ Dalam sidang kabinet paripurna yang berlangsung di Bina Graha pada jam 10.00 pag
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 247. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 247. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [ABRI](https://soehartolibrary.id/tag/abri/), [Departemen](https://soehartolibrary.id/tag/departemen/), [Janderal Soeharto](https://soehartolibrary.id/tag/janderal-soeharto/), [Komite Anti Korupsi](https://soehartolibrary.id/tag/komite-anti-korupsi/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pejabat](https://soehartolibrary.id/tag/pejabat/), [Perwira](https://soehartolibrary.id/tag/perwira/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

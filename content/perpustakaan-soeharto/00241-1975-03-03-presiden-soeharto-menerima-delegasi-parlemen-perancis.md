@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Soeharto Menerima Delegasi Parlemen Perancis
 
-## (Mendagri Amirmachmud Berhentikan Kepala Desa Korup)[[1]](#_ftn1)
+## (Mendagri Amirmachmud Berhentikan Kepala Desa Korup)1
 
 SENIN, 3 MARET  1975, bertepatan di Istana Merdeka pukul 09.00 pagi, Kepala Negara telah menerima lima orang delegasi Parlemen Prancis yang dipimpin oleh Eduord Schloesing. Pada kesempatan itu Presiden Soeharto mengadakan tukar menukar fikiran dengan pimpinan dan anggota delegasi Parlemen Prancis menyangkut masalah pembangunan ekonomi, keadilan sosial dan kedaulatan negara. Menurut pihak delegasi Prancis, pertemuan dengan Kepala Negara itu, sangat positif dan berharga, karena adanya persamaan pendapat antara kedua belah pihak mengenai kemerdekaan masing-masing negara dan bagaimana mempertahankan kemerdekaan itu. Persamaan pendapat antara kedua belah pihak juga menonjol dalam masalah pembangunan ekonomi yang sedang berlangsung di masing-masing negara, terutama dalam kaitan dengan pencapaian keadilan sosial yang lebih besar.
 
@@ -47,6 +47,6 @@ Sementara itu dalam pertemuan dengan Presiden Soeharto di Istana Merdeka siang h
 
 ---
 
-[[1]](#_ftnref1)               Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.220.
+1               Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.220.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Amirmachmud](https://soehartolibrary.id/tag/amirmachmud/), [Parlemen](https://soehartolibrary.id/tag/parlemen/), [Perancis](https://soehartolibrary.id/tag/perancis/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/)

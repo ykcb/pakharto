@@ -38,7 +38,7 @@ relasi:
 
 17 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1974-09-25-presiden-soeharto-menerima-wakil-presiden-mee/#respond)  88 Views Share on
 
-# Presiden Soeharto Menerima Wakil Presiden MEE[[1]](#_ftn1)
+# Presiden Soeharto Menerima Wakil Presiden MEE1
 
 **RABU, 25 SEPTEMBER** **1974** Wakil Presiden Masyarakat Ekonomi Eropa, Sir Christopher Soames, diterima oleh Presiden Soeharto pagi ini di Istana Merdeka. Masalah-masalah yang menyangkut hubungan antara MEE dengan Indonesia telah dibicarakan dalam pertemuan tersebut. Kepada Wakil Presiden MEE itu Kepala Negara telah mengemukakan persoalan-persoalan yang dihadapi Indonesia dalam melaksanakan pembangunan dewasa ini. Selain itu telah pula disinggung masalah-masalah intemasional yang menonjol sekarang ini.
 
@@ -46,6 +46,6 @@ Menteri Pertahanan dan Keamanan/Pangab, Jenderal Maraden Panggabean, menghadap K
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 159. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 159. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Jenderal Maraden Panggabean](https://soehartolibrary.id/tag/jenderal-maraden-panggabean/), [Menteri Pertahanan dan Keamanan/Pangab](https://soehartolibrary.id/tag/menteri-pertahanan-dan-keamananpangab/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sir Christopher Soames](https://soehartolibrary.id/tag/sir-christopher-soames/), [Wakil Presiden MEE](https://soehartolibrary.id/tag/wakil-presiden-mee/)

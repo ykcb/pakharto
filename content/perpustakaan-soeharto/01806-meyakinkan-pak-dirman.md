@@ -110,6 +110,6 @@ Saya memimpin para perwira lainnya melakukan penimbunan yang terakhir, dengan me
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 68-73.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 68-73.
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Jenderal Soedirman](https://soehartolibrary.id/tag/jenderal-soedirman/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

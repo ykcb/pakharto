@@ -42,6 +42,6 @@ SENIN, 10 FEBRUARI 1969. Menteri Luar Negeri Kamboja, Phurissara, diterima Presi
 
 ---
 
-[[1]](#_ftnref1)     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Kamboja](https://soehartolibrary.id/tag/kamboja/), [Luar](https://soehartolibrary.id/tag/luar/), [Menteri](https://soehartolibrary.id/tag/menteri/), [Negeri](https://soehartolibrary.id/tag/negeri/)

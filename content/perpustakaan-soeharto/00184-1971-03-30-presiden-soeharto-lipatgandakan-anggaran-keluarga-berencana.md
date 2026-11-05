@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto Lipatgandakan Anggaran Keluarga Berencana
 
-## (Larangan Pegawai Depkeu Menjadi Pengurus Usaha Swasta)[[1]](#_ftn1)
+## (Larangan Pegawai Depkeu Menjadi Pengurus Usaha Swasta)1
 
 SELASA, 30 Maret 1971, Presiden Soeharto mengungkapkan bahwa anggaran untuk keluarga berencana dalam APBN 1971/1972 dilipatgandakan tiga kali. Hal ini sebab ia berpendapat bahwa keluarga berencana dan perencanaan penduduk merupakan salah satu faktor yang amat penting dalam usaha pembangunan bangsa dan negara. Oleh karena itu keluarga berencana dimasukkan dalam Repelita I, dan akan dilanjutkan pada Repelita II,III dan seterusnya.
 
@@ -57,6 +57,6 @@ Sidang kabinet in juga mengeluarkan Keputusan Presiden No.14/1971 yang mengatur 
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 313
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 313
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Berencana](https://soehartolibrary.id/tag/berencana/), [Departemen](https://soehartolibrary.id/tag/departemen/), [kekayaan](https://soehartolibrary.id/tag/kekayaan/), [Keluarga](https://soehartolibrary.id/tag/keluarga/), [Keuangan](https://soehartolibrary.id/tag/keuangan/), [Negara](https://soehartolibrary.id/tag/negara/), [Pengelolaan](https://soehartolibrary.id/tag/pengelolaan/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/)

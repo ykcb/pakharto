@@ -42,7 +42,7 @@ relasi:
 
 # 1976-07-28 Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di Samarinda
 
-# Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di Samarinda[[1]](#_ftn1)
+# Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di Samarinda1
 
 RABU, 28 Juli 1976 Presiden Soeharto dan Ibu Soeharto pagi ini berangkat menuju Balikpapan dan terus ke Samarinda dalam rangka kunjungan kerja selama dua hari di Kalimantan Timur. Di Samarinda sore ini Presiden Soeharto meninjau kompleks pabrik Inhutani yang terletak di daerah Karang Asam. Kompleks ini merupakan suatu daerah hutan yang telah dimanfaatkan.
 
@@ -50,6 +50,6 @@ MTQ ke-9 malam ini dibuka dengan resmi oleh Presiden Soeharto di Samarinda. Sela
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 379. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
+1 Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 379. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Balikpapan](https://soehartolibrary.id/tag/balikpapan/), [Inhutani](https://soehartolibrary.id/tag/inhutani/), [Karang Asam](https://soehartolibrary.id/tag/karang-asam/), [MTQ](https://soehartolibrary.id/tag/mtq/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Samarinda](https://soehartolibrary.id/tag/samarinda/), [Segiri](https://soehartolibrary.id/tag/segiri/)

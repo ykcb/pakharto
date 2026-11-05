@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer
 
-## (Iman Tidak Cukup Dalam Pernyataan)[[1]](#_ftn1)
+## (Iman Tidak Cukup Dalam Pernyataan)1
 
 Jum’at, 17 Mei 1968, Hari ini Presiden Soeharto melantik Jenderal M Panggabean menjadi Pangad bertempat di Mabad, Jakarta. Pada kesempatan itu Presiden menegaskan bahwa kalau dewasa ini ABRI secara aktif mengabdikan dirinya dalam berbagai segi kehidupan, tidaklah berarti ABRI haus kekuasaan, apalagi menyeleweng ke arah sistem diktaktor militer.
 
@@ -51,6 +51,6 @@ Sementara itu dalam amanat tertulisnya pada mukernas Pendidikan Tinggi Dakwah Is
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 17.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 17.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [ABRI](https://soehartolibrary.id/tag/abri/), [Dakwah Islam](https://soehartolibrary.id/tag/dakwah-islam/), [Diktaktor Militer](https://soehartolibrary.id/tag/diktaktor-militer/), [Iman](https://soehartolibrary.id/tag/iman/), [Pendidikan Tinggi](https://soehartolibrary.id/tag/pendidikan-tinggi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [PTDI](https://soehartolibrary.id/tag/ptdi/), [Umat Islam](https://soehartolibrary.id/tag/umat-islam/)

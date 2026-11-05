@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto-PM Thanom Kittikachorn Keluarkan Komunike Bersama
 
-## (Komitmen Hubungan Kedua Negara dan kemajuan Kerjasama Regional)[[1]](#_ftn1)
+## (Komitmen Hubungan Kedua Negara dan kemajuan Kerjasama Regional)1
 
 ##
 
@@ -52,6 +52,6 @@ MINGGU, 22  Maret 1970, Mengakhiri kunjungan kenegaraan di Mungthai, Presiden S
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 211
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 211
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Kerjasama](https://soehartolibrary.id/tag/kerjasama/), [Komunike](https://soehartolibrary.id/tag/komunike/), [Muangthai](https://soehartolibrary.id/tag/muangthai/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [PM](https://soehartolibrary.id/tag/pm/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Regional](https://soehartolibrary.id/tag/regional/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Thanom Kittikachorn](https://soehartolibrary.id/tag/thanom-kittikachorn/)

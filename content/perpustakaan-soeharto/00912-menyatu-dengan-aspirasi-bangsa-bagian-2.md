@@ -36,9 +36,9 @@ relasi:
 
 # BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 2)
 
-# Menyatu dengan Aspirasi Bangsa (Bagian 2)[[1]](#_ftn1)
+# Menyatu dengan Aspirasi Bangsa (Bagian 2)1
 
-## BJ Habibie[[2]](#_ftn2)
+## BJ Habibie2
 
 Sementara Pak Harto berkembang didalam kariernya di bumi Indonesia, saya di Jerman Barat pun bertambah pengalaman, sesuai dengan ritme perkembangan semangat pembangunan diantara pemuda pelajar di rantau, dan dengan mendapatkan inspirasi dari pemimpin-pemimpin perjuangan.
 
@@ -71,8 +71,8 @@ BJ Habibie terpilih sebagai wakil Presiden pada tahun 1997 mendampingi Presiden 
 
 ---
 
-[[1]](#_ftnref1) BJ. Habibie, “Menyatu Dengan Aspirasi Bangsa”, dalam buku “Diantara Para Sahabat: Pak Harto 70 tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 373-376.
+1 BJ. Habibie, “Menyatu Dengan Aspirasi Bangsa”, dalam buku “Diantara Para Sahabat: Pak Harto 70 tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 373-376.
 
-[[2]](#_ftnref2) Menteri Negara Riset dan Teknologi dalam Kabinet Pembangunan V.
+2 Menteri Negara Riset dan Teknologi dalam Kabinet Pembangunan V.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [BJ. Habibie](https://soehartolibrary.id/tag/bj-habibie/), [Jerman Barat](https://soehartolibrary.id/tag/jerman-barat/), [Nasution](https://soehartolibrary.id/tag/nasution/), [PPI](https://soehartolibrary.id/tag/ppi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

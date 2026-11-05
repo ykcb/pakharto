@@ -73,7 +73,7 @@ Di sisi lain, kerangka ekonomi yang sama mewariskan fondasi yang masih dipakai h
 - Peluncuran Rencana Pembangunan Lima Tahun Pertama (Repelita I: 1969–1974) dengan penekanan utama pada rehabilitasi prasarana, swasembada beras, dan pemulihan industri perkebunan.
 
 ### 1974-01-15
-- Meletusnya [[Peristiwa Malari 1974]] di Jakarta sebagai protes mahasiswa terhadap dominasi modal asing Jepang dan kecemburuan sosial atas keistimewaan konglomerat kroni istana. Pemerintah merespons dengan mewajibkan kepemilikan saham mitra pribumi minimal 51%.
+- Meletusnya [[peristiwa/malari-1974]] di Jakarta sebagai protes mahasiswa terhadap dominasi modal asing Jepang dan kecemburuan sosial atas keistimewaan konglomerat kroni istana. Pemerintah merespons dengan mewajibkan kepemilikan saham mitra pribumi minimal 51%.
 
 ### 1984-11-14
 - Presiden [[Soeharto]] menerima medali penghargaan dari Organisasi Pangan dan Pertanian Dunia (FAO) di Roma, Italia, atas keberhasilan Indonesia mengubah status dari importir beras terbesar di dunia menjadi negara yang berswasembada beras.

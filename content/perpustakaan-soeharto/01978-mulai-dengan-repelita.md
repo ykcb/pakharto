@@ -68,6 +68,6 @@ Buat saya juga, andaikata bantuan itu dihubungkan dengan politik, saya akan bers
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 238-239.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 238-239.
 
  [Masa Pembangunan](https://soehartolibrary.id/category/biografi/masa-pembangunan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Bappenas](https://soehartolibrary.id/tag/bappenas/), [GBHN](https://soehartolibrary.id/tag/gbhn/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [MPR](https://soehartolibrary.id/tag/mpr/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Repelita I](https://soehartolibrary.id/tag/repelita-i/), [Widjojo Nitisostro](https://soehartolibrary.id/tag/widjojo-nitisostro/)

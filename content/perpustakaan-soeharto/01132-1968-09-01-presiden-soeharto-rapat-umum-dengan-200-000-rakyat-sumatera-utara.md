@@ -43,7 +43,7 @@ relasi:
 
 1 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1968-09-01-presiden-soeharto-rapat-umum-dengan-200-000-rakyat-sumatera-utara/#respond)  99 Views Share on
 
-# Presiden Soeharto Rapat Umum Dengan 200.000 Rakyat Sumatera Utara[[1]](#_ftn1)
+# Presiden Soeharto Rapat Umum Dengan 200.000 Rakyat Sumatera Utara1
 
 MINGGU, 01 SEPTEMBER 1968, Sebelum mengakhiri kunjungan dua hari di Aceh, pagi ini di Banda Aceh Presiden Soeharto memberikan keterangan kepada wartawan tentang kesan-kesannya. Menurut Jenderal Soeharto ia mempunyai kesan mendalam tentang keadaan daerah Aceh dan rakyatnya. Rakyat Aceh, seperti juga rakyat di daerah lain yang telah dikunjunginya, mempunyai tekad bulat untuk memperbaiki daerahnya dan untuk melaksanakan pembangunan sesuai dengan kebijaksanaan yang telah digariskan pemerintah. namun Presiden menilai bahwa keadaan prasaraan ekonomi di provinsi ini sangat  terbengkalai sehingga perlu mendapat perhatian. Dalam hubungan ini Presiden mengharapkan agar rakyat Aceh dapat mengadakan penilaian yang wajar terhadap sebab-sebab timbulnya keadaan yang tidak menguntungkan itu. Seusai konferensi pers, Presiden Soeharto dan rombongan meninggalkan Banda Aceh menuju Medan.
 
@@ -59,6 +59,6 @@ Untuk itu pemerintah akan berusaha untuk mempercepat proses rehabilitasi dan per
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 43-44. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 43-44. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Banda Aceh](https://soehartolibrary.id/tag/banda-aceh/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Lapangan Merdeka](https://soehartolibrary.id/tag/lapangan-merdeka/), [Medan](https://soehartolibrary.id/tag/medan/), [Padang](https://soehartolibrary.id/tag/padang/), [pekanbaru](https://soehartolibrary.id/tag/pekanbaru/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Rapat Umum](https://soehartolibrary.id/tag/rapat-umum/)

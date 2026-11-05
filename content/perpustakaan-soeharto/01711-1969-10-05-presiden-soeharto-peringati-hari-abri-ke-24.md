@@ -38,7 +38,7 @@ relasi:
 
 4 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1969-10-05-presiden-soeharto-peringati-hari-abri-ke-24/#respond)  117 Views Share on
 
-# Presiden Soeharto Peringati Hari ABRI Ke-24[[1]](#_ftn1)
+# Presiden Soeharto Peringati Hari ABRI Ke-241
 
 MINGGU, 5 OKTOBER 1969 Pada upacara peringatan Hari ABRI ke-24 hari ini di Senayan, Presiden Soeharto mengungkapkan perubahan dan penyempurnaan struktur organisasi dan prosedur dalam Departemen Hankam. Sebagai langkah pelaksanaan pertama, mulai hari ini ABRI dinyatakan terdiri atas Angkatan Perang Republik Indonesia (APRI), dan Kepolisian Negara (Polri). Dalam rangka itu, maka sebutan panglima angkatan diganti dengan Kepala Staf. Menurut Presiden penyempurnaan­penyempurnaan akan dilaksanakan secara bertahap dengan tujuan mencapai peningkatan integrasi dan konsolidasi dalam tubuh ABRI.
 
@@ -46,6 +46,6 @@ Menjelaskan perubahan-perubahan di atas, Presiden mengatakan bahwa Menhankam/Pan
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 163-164. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 163-164. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Departemen](https://soehartolibrary.id/tag/departemen/), [Hankam](https://soehartolibrary.id/tag/hankam/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

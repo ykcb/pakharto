@@ -33,7 +33,7 @@ relasi:
 
 ### 1968-06-10
 - [[Soeharto]] melantik para menteri [[Kabinet Pembangunan]].
-- Soeharto menyampaikan [[Pidato Pelantikan Menteri Kabinet Pembangunan 1968|pidato]] yang menegaskan arah pembangunan nasional.
+- Soeharto menyampaikan pidato yang menegaskan arah pembangunan nasional.
 
 ## Aktor yang terlibat
 - [[Soeharto]] — presiden yang melantik kabinet.

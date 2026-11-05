@@ -35,7 +35,7 @@ relasi:
 
 # 1976-03-15 Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean
 
-# Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean[[1]](#_ftn1)
+# Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean1
 
 SENIN, 15 MARET  1976, Asisten I/Intel hankam, Mayjen. Benny Murdani, menghadap Kepala Negara pagi ini di Cendana. Ia datang untuk melaporkan tentang persiapan-persiapan yang telah dilakukan dalam bidang keamanan dengan rencana penyelenggaraan sidang dengan menteri perminyakan negara-negara OPEC di Bali pada bulan Mei nanti.
 
@@ -43,6 +43,6 @@ Selama tiga jam terus menerus, siang ini Presiden Soeharto mengadakan pertemuan 
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.345-346.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.345-346.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [KTT Asean](https://soehartolibrary.id/tag/ktt-asean/), [OPEC](https://soehartolibrary.id/tag/opec/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

@@ -48,7 +48,7 @@ Gagasan asas tunggal pertama kali disuarakan secara terbuka oleh Soeharto dalam 
 1. Pancasila tidak boleh dijadikan sekadar "kompromi" politik, melainkan harus menjadi satu-satunya pedoman hidup berbangsa.
 2. Kekuatan politik yang masih menggunakan asas selain Pancasila dituding meragukan komitmen kebangsaan.
 
-Pernyataan ini segera memicu protes dari para purnawirawan jenderal dan tokoh nasional yang tergabung dalam [[petisi-50|Petisi 50]], yang menilai Soeharto telah mempersonifikasikan Pancasila dengan dirinya sendiri dan memanfaatkan ideologi negara sebagai instrumen memukul lawan politik.
+Pernyataan ini segera memicu protes dari para purnawirawan jenderal dan tokoh nasional yang tergabung dalam Petisi 50, yang menilai Soeharto telah mempersonifikasikan Pancasila dengan dirinya sendiri dan memanfaatkan ideologi negara sebagai instrumen memukul lawan politik.
 
 ---
 

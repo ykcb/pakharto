@@ -48,7 +48,7 @@ relasi:
 
 # Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi Kesalahan
 
-## Lantik Pimpinan Bepeka dan Menerima Menteri Pariwisata Aljazair[[1]](#_ftn1)
+## Lantik Pimpinan Bepeka dan Menerima Menteri Pariwisata Aljazair1
 
 SENIN, 13 AGUSTUS 1973, Tujuh orang anggota dan pimpinan Bepeka dilantik oleh Presiden Soeharto pagi ini di Istana Negara. Para anggota Bapeka ini diangkat Kepala Negara dari 19 orang calon yang diusulkan DPR. Diantara mereka terdapat Ketua Bapeka, Jenderal Umar Wirahadikusumah, dan Wakil Ketua, Mayjen. Sudrajat.
 
@@ -58,6 +58,6 @@ Sementara itu, sebelum acara pelantikan anggota-anggota Bepeka, Presiden Soehart
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 42-43. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 42-43. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Abdul Azis](https://soehartolibrary.id/tag/abdul-azis/), [Aljazair](https://soehartolibrary.id/tag/aljazair/), [Bepeka](https://soehartolibrary.id/tag/bepeka/), [BPK](https://soehartolibrary.id/tag/bpk/), [Jenderal Umar Wirahadikusumah](https://soehartolibrary.id/tag/jenderal-umar-wirahadikusumah/), [KTT Non Blok](https://soehartolibrary.id/tag/ktt-non-blok/), [Mayjen. Sudrajat](https://soehartolibrary.id/tag/mayjen-sudrajat/), [Menteri Pariwisata](https://soehartolibrary.id/tag/menteri-pariwisata/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

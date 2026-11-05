@@ -39,7 +39,7 @@ relasi:
 
 # 1970-07-05 Presiden Soeharto Meninjau Proyek Prototype Perumahan di Bandung
 
-# Presiden Soeharto Meninjau Proyek *Prototype* Perumahan di Bandung [[1]](#_ftn1)
+# Presiden Soeharto Meninjau Proyek *Prototype* Perumahan di Bandung 1
 
 MINGGU, 05 Juli 1970. Sebelum kembali ke Jakarta, Presiden Soeharto pagi ini meninjau proyek *prototype* perumahan kota Bandung. Proyek yang terdiri atas 3.065 unit rumah yang dibangun di atas tanah seluas 110 hektar itu terletak di Cijagra. Presiden memberi perhatian besar terhadap proyek ini, sehingga menghabiskan waktu selama dua jam untuk peninujauan.
 
@@ -47,6 +47,6 @@ Sementara itu tadi malam Presiden Soeharto telah menghadiri acara penutupan kong
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 241. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 241. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Bandung](https://soehartolibrary.id/tag/bandung/), [Ciagra](https://soehartolibrary.id/tag/ciagra/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Perumahan](https://soehartolibrary.id/tag/perumahan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

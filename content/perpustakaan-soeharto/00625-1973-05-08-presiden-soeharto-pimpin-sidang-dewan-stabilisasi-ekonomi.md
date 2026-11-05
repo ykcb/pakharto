@@ -38,7 +38,7 @@ relasi:
 
 # Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi
 
-## (Penyempurnaan Presedur Penanaman Modal)[[1]](#_ftn1)
+## (Penyempurnaan Presedur Penanaman Modal)1
 
 SELASA, 8 Mei 1973, Pukul 10.00 Pagi ini di Bina Graha berlangsung Sidang Dewan Stabilisasi Ekonomi Nasional yang dipimpin oleh Presiden Soeharto. Sidang memutuskan untuk menyempurnakan dan menyederhanakan cara pengajuan dan penyelesaian permohonan penanaman modal asing dan dalam negeri. Peraturan diberlakukan pada tanggal 1 Juni mendatang akan memungkinkan para calon investor untuk memproses permohonan mereka tanpa harus berurusan banyak instansi.
 
@@ -48,6 +48,6 @@ Kepala Negara berpendapat bahwa kesepakatan itu merupakan suatu kepercayaan yang
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 18.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 18.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Ali Wardana](https://soehartolibrary.id/tag/ali-wardana/), [IGGI](https://soehartolibrary.id/tag/iggi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Stabilisasi Ekonomi](https://soehartolibrary.id/tag/stabilisasi-ekonomi/)

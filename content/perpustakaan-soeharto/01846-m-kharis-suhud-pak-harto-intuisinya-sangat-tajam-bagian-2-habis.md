@@ -40,7 +40,7 @@ relasi:
 
 9 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/m-kharis-suhud-pak-harto-intuisinya-sangat-tajam-bagian-2-habis/#respond)  148 Views Share on
 
-# Intuisinya Sangat Tajam, (Bagian 2, Habis) [[1]](#_ftn1)
+# Intuisinya Sangat Tajam, (Bagian 2, Habis) 1
 
 ## M Kharis Suhud **[**[2]**](#_ftn2)**
 
@@ -90,8 +90,8 @@ Di sinilah saya melihat implementasi dari *statement* beliau yang sering beliau 
 
 ---
 
-[[1]](#_ftnref1)     **M Kharis Suhud**, “Intuisinya  Sangat Tajam”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 732-741.
+1     **M Kharis Suhud**, “Intuisinya  Sangat Tajam”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 732-741.
 
-[[2]](#_ftnref2)     Ketua  MPR/DPR  masa  bakti  1988-1992.
+2     Ketua  MPR/DPR  masa  bakti  1988-1992.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [DPR](https://soehartolibrary.id/tag/dpr/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Kharis Suhud](https://soehartolibrary.id/tag/kharis-suhud/), [MPR](https://soehartolibrary.id/tag/mpr/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

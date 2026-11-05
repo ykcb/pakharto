@@ -40,7 +40,7 @@ relasi:
 
 # 1969-07-27 Presiden Soeharto dan Presiden Nixon Kunjungi Jakarta Fair
 
-# Presiden Soeharto dan Presiden Nixon Kunjungi *Jakarta Fair*[[1]](#_ftn1)
+# Presiden Soeharto dan Presiden Nixon Kunjungi *Jakarta Fair*1
 
 MINGGU, 27 Juli 1969. Presiden Amerika Serikat, Richard Nixon dan Nyonya, siang ini tiba di Jakarta. Dalam pidato selamat datangnya, Presiden Soeharto mengatakan bahwa saat ini merupakan hari bersejarah bagi hubungan antara kedua negara. Pada kesempatan ini Presiden Soeharto juga menyambut dengan hangat kesuksesan Apolo 11 beserta para astronotnya ke bulan. Dalam hubungan ini ia mengungkapkan keyakinannya bahwa tujuan AS dan negara-negara lain, yang mencoba mengenal angkasa luar itu, merupakan bagian dari usaha untuk mencapai kebahagiaan yang besar bagi umat manusia dalam kehidupan dunia yang damai.
 
@@ -54,6 +54,6 @@ Dalam pidato balasannya, Presiden Nixon mengatakan bahwa AS dengan penuh perhati
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 142. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 142. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Adam Malik](https://soehartolibrary.id/tag/adam-malik/), [AS](https://soehartolibrary.id/tag/as/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Menteri Luar Negeri](https://soehartolibrary.id/tag/menteri-luar-negeri/), [Nixon](https://soehartolibrary.id/tag/nixon/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [William P Rogers](https://soehartolibrary.id/tag/william-p-rogers/)

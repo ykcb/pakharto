@@ -41,7 +41,7 @@ relasi:
 
 # 1972-05-11 Presiden Soeharto: Indonesia Hanya Bersedia Menerima Pinjaman Lunak
 
-# Presiden Soeharto: Indonesia Hanya Bersedia Pinjaman Lunak[[1]](#_ftn1)
+# Presiden Soeharto: Indonesia Hanya Bersedia Pinjaman Lunak1
 
 KAMIS, 11 Mei 1972, Presiden Soeharto mengadakan serangkaian pertemuan dengan beberapa menteri ekonomi Jepang siang ini. Tampak menemui Presiden Soeharto di Hotel Imperial antara lain adalah Menteri Perdagangan Internasional dan Industri Kakuei Tanaka, dan Menteri Keuangan Mizuta. Kesemua pembicaraan berkisar pada hubungan ekonomi antara kedua negara. Dikabarkan bahwa dalam pertemuan dengan Menteri Keuangan Mizuta, Kepada Presiden Soeharto dijanjikan bahwa Jepang akan memberikan tambahan pinjaman sebesar 200 juta dolar AS dalam rangka IGGI. Bantuan ini antara lain dimaksudkan untuk pembiayaan pembangkit tenaga listrik  dan aluminium di Sumatera Utara. Dalam pertemuan tersebut Presiden Soeharto menegaskan bahwa Indonesia hanya mau menerima *loan* dengan syarat-syarat yang ringan.
 
@@ -55,6 +55,6 @@ Berdasarkan penuturan Koos Arumdanie, seorang mantan wartawati Istana Negara pad
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 438.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 438.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [IGGI](https://soehartolibrary.id/tag/iggi/), [Jepang](https://soehartolibrary.id/tag/jepang/), [Kakuei Tanaka](https://soehartolibrary.id/tag/kakuei-tanaka/), [Keidanren](https://soehartolibrary.id/tag/keidanren/), [Mizuta](https://soehartolibrary.id/tag/mizuta/), [Pampasan Perang](https://soehartolibrary.id/tag/pampasan-perang/), [Presidan Soeharto](https://soehartolibrary.id/tag/presidan-soeharto/)

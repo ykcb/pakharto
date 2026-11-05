@@ -44,7 +44,7 @@ relasi:
 
 30 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1978-09-24-presiden-soeharto-resmikan-pabrik-gula-gunung-madu/#respond)  139 Views Share on
 
-# Presiden Soeharto Resmikan Pabrik Gula Gunung Madu [[1]](#_ftn1)
+# Presiden Soeharto Resmikan Pabrik Gula Gunung Madu 1
 
 SENIN, 24 SEPTEMBER 1978 Presiden Soeharto hari ini meresmikan meresmikan Pabrik Gula Gunung Madu, Kebun Induk Kelapa Hibrida PNP X dan PTP VI, serta Balai Informasi Pertanian di Lampung dan delapan daerah lain yang tersebar di seluruh tanah air. Acara peresmian berlangsung di Gunung Batin, Lampung. Pabrik gula Gunung Madu yang diresmikan itu dibangun oleh pihak swasta dan mampu memproduksi 90.000 ton gula setahun.
 
@@ -54,6 +54,6 @@ Kepada kalangan swasta, Presiden meminta agar tidak ragu-ragu berpartisipasi dal
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 206-207. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 206-207. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Balai Informasi Pertanian](https://soehartolibrary.id/tag/balai-informasi-pertanian/), [Gunung Batin](https://soehartolibrary.id/tag/gunung-batin/), [Gunung madu](https://soehartolibrary.id/tag/gunung-madu/), [Kebun Induk. Kelapa Hibrida](https://soehartolibrary.id/tag/kebun-induk-kelapa-hibrida/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Lampung](https://soehartolibrary.id/tag/lampung/), [Pabrik Gula](https://soehartolibrary.id/tag/pabrik-gula/), [PNP X](https://soehartolibrary.id/tag/pnp-x/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [PTP VI](https://soehartolibrary.id/tag/ptp-vi/)

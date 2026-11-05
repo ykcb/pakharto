@@ -43,7 +43,7 @@ Yth. Bapak H.M. Soeharto
 
 di Jalan Cendana Jakarta
 
-# Air Mata Kami Telah Kering[[1]](#_ftn1)
+# Air Mata Kami Telah Kering1
 
 Dengan Hormat,
 
@@ -75,6 +75,6 @@ NB:
 
 ---
 
-[[1]](#_ftnref1)       Dikutip langsung dari dalam buku dengan judul “*Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998*“, (Jakarta: Kharisma, 1999), hal 5. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan Letkol Anton Tabah.
+1       Dikutip langsung dari dalam buku dengan judul “*Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998*“, (Jakarta: Kharisma, 1999), hal 5. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan Letkol Anton Tabah.
 
  [Simpati](https://soehartolibrary.id/category/biografi/simpati/)  [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [surat simpati](https://soehartolibrary.id/tag/surat-simpati/)

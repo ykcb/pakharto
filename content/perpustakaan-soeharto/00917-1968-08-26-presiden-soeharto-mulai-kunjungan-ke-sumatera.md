@@ -32,7 +32,7 @@ relasi:
 
 # 1968-08-26 Presiden Soeharto Mulai Kunjungan Ke Sumatera
 
-# Presiden Soeharto Mulai Kunjungan Ke Sumatera[[1]](#_ftn1)
+# Presiden Soeharto Mulai Kunjungan Ke Sumatera1
 
 SENIN, 26 AGUSTUS 1968, Pagi ini Presiden Soeharto beserta rombongan meninggalkan Jakarta menuju Pekanbaru. Pekanbaru merupakan persinggahan pertama, dalam rangka kunjungan kerja Presiden ke empat provinsi di Sumatera, yaitu Riau, Sumatera Barat, Aceh dan Sumatera Utara. Kunjungan Presiden ke Sumatera ini merupakan pula bahagian kedua dari kunjungan kerjanya ke Sumatera. Sebagaimana diketahui pada tanggal 15-21 Juli yang lalu, Presiden Soeharto telah berkunjung di ketiga provinsi lainnya di pulau tersebut, yaitu Lampung, Sumatera Selatan dan Jambi.
 
@@ -42,6 +42,6 @@ Selanjutnya Presiden menegaskan tentang perlunya kita menghancurkan sisa-sisa PK
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 37-38. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 37-38. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)

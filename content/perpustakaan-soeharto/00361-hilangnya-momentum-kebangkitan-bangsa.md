@@ -66,6 +66,6 @@ Setelah itu seperti kita ketahui, “perupa Reformasi” meruntuhkan bangunan ke
 
 ---
 
-[[1]](#_ftnref1) *Penulis anggota Diskusi Yayasan Kajian Citra Bangsa (YKCB)*
+1 *Penulis anggota Diskusi Yayasan Kajian Citra Bangsa (YKCB)*
 
  [Suara Pakar](https://soehartolibrary.id/category/suara-pakar/)  [Amin Rais](https://soehartolibrary.id/tag/amin-rais/), [kebangkitan Bangsa](https://soehartolibrary.id/tag/kebangkitan-bangsa/), [Reformasi](https://soehartolibrary.id/tag/reformasi/)

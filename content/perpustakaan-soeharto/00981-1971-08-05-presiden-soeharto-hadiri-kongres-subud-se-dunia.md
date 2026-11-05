@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Soeharto Hadiri Kongres Subud Se-Dunia
 
-## (Sahkan Persetujuan Kersajama Teknik Indonesia-Korea)[[1]](#_ftn1)
+## (Sahkan Persetujuan Kersajama Teknik Indonesia-Korea)1
 
 KAMIS, 5 AGUSTUS 1971, Jam 10.00 pagi ini Presiden bersama Ibu Tien Soeharto menghadiri Kongres Subud Seluruh Dunia ke-4 yang diadakan di Jakarta. Dalam amanatnya Presiden Soeharto antara lain mengatakan bahwa kematangan jiwa yang merupakan salah satu tujuan dari perkumpulan ini mempunyai arti penting bagi bangsa yang membangun. Dengan kematangan jiwa, orang tidak akan lekas berputus asa dalam menghadapi kesulitan atau rintangan dalam kehidupan. Kematangan jiwa juga sama pentingnya bagi bangsa yang telah maju. Presiden memperhatikan bahwa tidak jarang bangsa-bangsa yang telah mencapai tingkat kemakmuran tinggi, tetapi merasa kosong dan sepi jiwanya. Dalam keadaan yang demikian, orang seolah-olah menjadi “budak” dari kemajuan yang diciptakannya sendiri. Oleh sebab itu, demikian Presiden, pemerintah tidak melarang adanya berbagai aliran kepercayaan, kerohanian ataupun kejiwaan sepanjang aliran-aliran itu bukannya merupakan agama baru dan ajaran-ajarannyapun tidak merusak ajaran-ajaran agama manapun.
 
@@ -47,6 +47,6 @@ Presiden melalui Keppres No. 53 tahun 1971, mensahkan persetujuan kerjasama ekon
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 351. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 351. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Agama](https://soehartolibrary.id/tag/agama/), [Aliran Kepercayaan](https://soehartolibrary.id/tag/aliran-kepercayaan/), [Kematangan Jiwa](https://soehartolibrary.id/tag/kematangan-jiwa/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Subud](https://soehartolibrary.id/tag/subud/)

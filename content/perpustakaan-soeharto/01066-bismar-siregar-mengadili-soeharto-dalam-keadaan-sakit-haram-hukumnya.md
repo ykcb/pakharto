@@ -37,9 +37,9 @@ relasi:
 
 25 Agustus 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/bismar-siregar-mengadili-soeharto-dalam-keadaan-sakit-haram-hukumnya/#respond)  233 Views Share on
 
-# Bapak H.M. Soeharto Yang Saya Cintai[[1]](#_ftn1)
+# Bapak H.M. Soeharto Yang Saya Cintai1
 
-## Bismar Siregar[[2]](#_ftn2)
+## Bismar Siregar2
 
 “Cintailah saudaramu seperti mencintai dirimu sendiri,” demikian nasehat bijak yang saya ingat ketika memilih judul untuk tulisan ini. Saya bukan orang yang berada di sekitar Pak harto, yang menyanjung dan memuja-mujanya selagi Pak Harto berada di masa jaya kekuasaannya.
 
@@ -89,8 +89,8 @@ Masih akan kikirkah kita memberi maaf atas kesalahan seseorang?
 
 ---
 
-[[1]](#_ftnref1)       Penuturan Bismar Siregar sebagaimana dikutip dari Buku “*Pak Harto The Untold Stories*”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 596-599.
+1       Penuturan Bismar Siregar sebagaimana dikutip dari Buku “*Pak Harto The Untold Stories*”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 596-599.
 
-[[2]](#_ftnref2)       H. Bismar Siregar, SH, dilahirkan di Sipirok, Sumatera Utara pada 15 September 1928. Ia adalah Sarjana Hukum lulusan Fakultas Hukum Universitas Indonesia. Sepanjang perjalanan kariernya dicurahkan untuk menegakkan hukum di Indonesia dengan menjadi hakim di berbagai Pengadilan Negeri. Puncak kariernya adalah menjadi Hakim Agung. Purna tugas dari Hakim Agung, masih aktif mengajar di berbagai Perguruan Tinggi, termasuk Universitas Muhammadiyah. Juga aktif dalam Badan Arbitrase Nasional Indonesia (BANI). Red= dikalangan aktivis hukum, Bismar dikenal merupakan sosok Hakim yang berani, bersih, tegas dan tidak mengenal kompromi.
+2       H. Bismar Siregar, SH, dilahirkan di Sipirok, Sumatera Utara pada 15 September 1928. Ia adalah Sarjana Hukum lulusan Fakultas Hukum Universitas Indonesia. Sepanjang perjalanan kariernya dicurahkan untuk menegakkan hukum di Indonesia dengan menjadi hakim di berbagai Pengadilan Negeri. Puncak kariernya adalah menjadi Hakim Agung. Purna tugas dari Hakim Agung, masih aktif mengajar di berbagai Perguruan Tinggi, termasuk Universitas Muhammadiyah. Juga aktif dalam Badan Arbitrase Nasional Indonesia (BANI). Red= dikalangan aktivis hukum, Bismar dikenal merupakan sosok Hakim yang berani, bersih, tegas dan tidak mengenal kompromi.
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Bismar Siregar](https://soehartolibrary.id/tag/bismar-siregar/), [Hakim Agung](https://soehartolibrary.id/tag/hakim-agung/), [Mengadili Soeharto](https://soehartolibrary.id/tag/mengadili-soeharto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

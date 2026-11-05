@@ -39,7 +39,7 @@ relasi:
 
 3 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-1/#respond)  137 Views Share on
 
-# Arif, Bijaksana dan Rendah Hati (Bagian 1)[[1]](#_ftn1)
+# Arif, Bijaksana dan Rendah Hati (Bagian 1)1
 
 ## **JB Sumarlin** **[**[2]**](#_ftn2)**
 
@@ -85,8 +85,8 @@ Ketiga masalah tersebut adalah: (1) kasus pembangunan proyek besi baja PT Krakat
 
 ---
 
-[[1]](#_ftnref1)     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
+1     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
 
-[[2]](#_ftnref2)     Menteri Keuangan dalam Kabinet Pembangunan V
+2     Menteri Keuangan dalam Kabinet Pembangunan V
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Tinggal Landas](https://soehartolibrary.id/category/tinggal-landas/)  [JB Sumarlin](https://soehartolibrary.id/tag/jb-sumarlin/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Orde Baru](https://soehartolibrary.id/tag/orde-baru/), [Pembangunan](https://soehartolibrary.id/tag/pembangunan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

@@ -45,7 +45,7 @@ relasi:
 
 # Presiden Soeharto Menerima Dubes Belanda
 
-## (ABRI Tidak Akan Monopoli Kekuasaan)[[1]](#_ftn1)
+## (ABRI Tidak Akan Monopoli Kekuasaan)1
 
 SELASA, 04 AGUSTUS 1970, Pagi ini jam 8.15 Presiden Soeharto menerima Duta Besar Belanda Untuk Indonesia, Hugo Scheltema, di Jalan Cendana, Jakarta. Dalam pertemuan ini telah dibahas rencana kunjungan Presiden ke Negeri Belanda pada awal bulan depan.
 
@@ -55,6 +55,6 @@ Presiden kembali menegaskan bahwa ABRI pasti tidak akan memonopoli kekukasaan. D
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 247-248. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 247-248. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [ABRI](https://soehartolibrary.id/tag/abri/), [Belanda](https://soehartolibrary.id/tag/belanda/), [Cendana](https://soehartolibrary.id/tag/cendana/), [Dewan Kekaryaan Pusat](https://soehartolibrary.id/tag/dewan-kekaryaan-pusat/), [Duta Besar](https://soehartolibrary.id/tag/duta-besar/), [Hankam](https://soehartolibrary.id/tag/hankam/), [Hugo Scheltema](https://soehartolibrary.id/tag/hugo-scheltema/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Monopoli Kekuasaan](https://soehartolibrary.id/tag/monopoli-kekuasaan/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

@@ -47,7 +47,7 @@ relasi:
 
 16 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1975-10-13-usai-bahas-timor-portugis-dengan-adam-malik-presiden-soeharto-menerima-utusan-pm-india/#respond)  96 Views Share on
 
-# Usai Bahas Timor Portugis dengan Adam Malik, Presiden Soeharto Menerima Utusan PM India[[1]](#_ftn1)
+# Usai Bahas Timor Portugis dengan Adam Malik, Presiden Soeharto Menerima Utusan PM India1
 
 SENIN, 13 OKTOBER 1975 Menteri Luar Negeri Adam Malik menghadap Kepala Negara pagi ini di Bina Graha. Dalam pertemuan yang berlangsung selama hampir satu jam itu antara lain telah dibicarakan persoalan Timor Portugis.
 
@@ -55,6 +55,6 @@ Usai pertemuan dengan Menteri Adam Malik, Presiden menerima Raj Bahadur, Menteri
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 292. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 292. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Adam Malik](https://soehartolibrary.id/tag/adam-malik/), [Gerakan Non-Blok](https://soehartolibrary.id/tag/gerakan-non-blok/), [India](https://soehartolibrary.id/tag/india/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Menteri Luar Negeri](https://soehartolibrary.id/tag/menteri-luar-negeri/), [Menteri Pariwisata/Penerbangan Sipil](https://soehartolibrary.id/tag/menteri-pariwisatapenerbangan-sipil/), [PM Indira Gandhi](https://soehartolibrary.id/tag/pm-indira-gandhi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Raj Bahadur](https://soehartolibrary.id/tag/raj-bahadur/), [Timor Portugis](https://soehartolibrary.id/tag/timor-portugis/)

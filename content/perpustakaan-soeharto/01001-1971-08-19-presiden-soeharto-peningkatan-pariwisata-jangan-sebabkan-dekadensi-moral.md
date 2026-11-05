@@ -46,7 +46,7 @@ relasi:
 
 16 Agustus 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1971-08-19-presiden-soeharto-peningkatan-pariwisata-jangan-sebabkan-dekadensi-moral/#respond)  108 Views Share on
 
-# Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi Moral[[1]](#_ftn1)
+# Presiden Soeharto: Peningkatan Pariwisata Jangan Sebabkan Dekadensi Moral1
 
 KAMIS, 19 AGUSTUS 1971, Kepada Menteri Perhubungan Frans Seda yang menghadapnya siang ini di Istana Merdeka, Presiden mengarahkan agar peningkatan pariwisata jangan sampai mengakibatkan terjadinya dekadensi moral dan hilangnya kepribadian nasional.
 
@@ -54,6 +54,6 @@ Pukul 13.00 siang ini Presiden memanggil menghadap beberapa menteri dan pejabat 
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 357-358. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 357-358. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [AS](https://soehartolibrary.id/tag/as/), [Frans Seda](https://soehartolibrary.id/tag/frans-seda/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Menteri Perhubungan](https://soehartolibrary.id/tag/menteri-perhubungan/), [Nixon](https://soehartolibrary.id/tag/nixon/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Perdagangan Internasional](https://soehartolibrary.id/tag/perdagangan-internasional/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Prof. Dr. Widjoyo Nitisastro](https://soehartolibrary.id/tag/prof-dr-widjoyo-nitisastro/)

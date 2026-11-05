@@ -45,7 +45,7 @@ Yth. **Bapak Soeharto**
 
 di **Kediaman**
 
-# Tidak Minta Presiden Diganti[[1]](#_ftn1)
+# Tidak Minta Presiden Diganti1
 
 **Dengan Hormat,**
 
@@ -65,6 +65,6 @@ Di **Bogor-Jawa Barat**
 
 ---
 
-[[1]](#_ftnref1)       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 174-175. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
+1       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 174-175. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
 
  [Simpati](https://soehartolibrary.id/category/biografi/simpati/)  [Bogor](https://soehartolibrary.id/tag/bogor/), [cendol](https://soehartolibrary.id/tag/cendol/), [huru hara](https://soehartolibrary.id/tag/huru-hara/), [Istana Bogor](https://soehartolibrary.id/tag/istana-bogor/), [Menari](https://soehartolibrary.id/tag/menari/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

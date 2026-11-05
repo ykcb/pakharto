@@ -38,7 +38,7 @@ relasi:
 
 # Presiden Soeharto Menerima Raja Faisal
 
-(Presiden Soeharto Tegaskan Dukungannya Ke Negara-Negara Arab Dalam Kaitan Dengan Israel[[1]](#_ftn1)
+(Presiden Soeharto Tegaskan Dukungannya Ke Negara-Negara Arab Dalam Kaitan Dengan Israel1
 
 Rabu, 10 Juni 1970, Presiden dan Ibu Tien Soeharto menyambut kedatangan tamu negara Raja Faisal dari Arab Saudi di Istana Merdeka. Setelah berjabat tangan, Presiden membimbing tamunya ke ruangan kepresidenan, bersama-sama duduk di kursi panjang, sementara itu Ibu Tien duduk di kursi lainnya dekat Presiden. Percakapan yang berlangsung lebih dari setengah jam itu antara lain diikuti oleh Menteri Luar Negeri Adam Malik, Duta Besar Indonesia untuk Arab Saudi H. Aminudin Aziz, Menteri Negara Idham chalid, dan rombongan Raja Faisal.
 
@@ -50,6 +50,6 @@ Setelah acara makan malam, diadakan tukar-menukar cindera mata. Presiden Soehart
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 235. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 235. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Arab Saudi](https://soehartolibrary.id/tag/arab-saudi/), [Israel](https://soehartolibrary.id/tag/israel/), [Krisis Timur Tengah](https://soehartolibrary.id/tag/krisis-timur-tengah/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Raja Faisal](https://soehartolibrary.id/tag/raja-faisal/)

@@ -44,7 +44,7 @@ relasi:
 
 # 1974-07-27 Presiden Soeharto: Duta Besar Harus Bekerja Penuh Dinamika
 
-# Presiden Soeharto: Duta Besar Harus Bekerja Penuh Dinamika[[1]](#_ftn1)
+# Presiden Soeharto: Duta Besar Harus Bekerja Penuh Dinamika1
 
 SABTU, 27 Juli 1974,  Di Bina Graha pagi ini Presiden Soeharto menerima Menteri Pendidikan dan Kebudayaan, Sjarif Thajeb, beserta para rektor dari 18 PTN se-Jawa. Pada kesempatan itu, Kepala Negara telah memperkenalkan Yayasan Beasiswa Supersemar yang dibentuk dan diketuainya sebagai seorang warganegara biasa. Dijelaskannya bahwa tujuan yayasan ini adalah untuk memberikan bantuan kepada para pemuda/pemudi Pancasilais, cerdas, pandai tetapi tidak mempunyai kemampuan untuk meneruskan pelajaran karena kurang biaya. Ia mengajak para rektor tersebut untuk bertukar fikiran mengenai bagaimana sebaiknya pelaksanaan pemberian bantuan itu, sehingga tujuan yayasan dapat tercapai.
 
@@ -54,6 +54,6 @@ Dalam pidato pelantikannya, Kepala Negara mengatakan bahwa kita wajar mempunyai 
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 141. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 141. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Afghanistan](https://soehartolibrary.id/tag/afghanistan/), [Birma](https://soehartolibrary.id/tag/birma/), [Duta Besar](https://soehartolibrary.id/tag/duta-besar/), [Duta Besar Abdul Habir](https://soehartolibrary.id/tag/duta-besar-abdul-habir/), [Hongaria](https://soehartolibrary.id/tag/hongaria/), [Iljas Hamzah](https://soehartolibrary.id/tag/iljas-hamzah/), [India](https://soehartolibrary.id/tag/india/), [Letjen. Sugih Arto](https://soehartolibrary.id/tag/letjen-sugih-arto/), [Mayjen. (Pol) R Soeparno Soeria Atmadja](https://soehartolibrary.id/tag/mayjen-pol-r-soeparno-soeria-atmadja/), [Menteri Pendidikan dan Kebudayaan](https://soehartolibrary.id/tag/menteri-pendidikan-dan-kebudayaan/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Sjarif Thajeb](https://soehartolibrary.id/tag/sjarif-thajeb/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Supersemar](https://soehartolibrary.id/tag/supersemar/)

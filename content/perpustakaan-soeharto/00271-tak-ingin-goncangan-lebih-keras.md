@@ -40,7 +40,7 @@ relasi:
 
 # Tak Ingin Goncangan Lebih Keras
 
-## (Detik-Detik Pergantian Presiden Soekarno-Presiden Soeharto)[[1]](#_ftn1)
+## (Detik-Detik Pergantian Presiden Soekarno-Presiden Soeharto)1
 
 Tanggal 27 Maret 1966 Presiden Soekarno mengumumkan Kabinet Dwikora yang disempurnakan lagi, terdiri atas Presidium Kabinet dengan enam Waperdam. Saya diantara keenam Waperdam *ad interim* merangkap Men. Hankam/Panglima AD/Kas Koti itu bersama dr. Leimena, Pak Idham Chalid, Dr. Roeslan Abdulgani, Sri Sultan Hamengku Buono IX, dan Pak Adam Malik.
 
@@ -88,6 +88,6 @@ Di luar sidang MPRS itu mahasiswa-mahasiswa dan pemuda-pemuda gerah dengan kecam
 
 ---
 
-[[1]](#_ftnref1) Penuturan Presiden Soeharto, dikutip langsung dari buku “Soeharto: Pikiran, Ucapan dan Tindakan Saya”, (Jakarta: PT. Citra Kharisma Bunda, 1989), Hal. 175-178)
+1 Penuturan Presiden Soeharto, dikutip langsung dari buku “Soeharto: Pikiran, Ucapan dan Tindakan Saya”, (Jakarta: PT. Citra Kharisma Bunda, 1989), Hal. 175-178)
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [G.30.S/PKI](https://soehartolibrary.id/tag/g-30-spki/), [Jenderal Nasution](https://soehartolibrary.id/tag/jenderal-nasution/), [MPRS](https://soehartolibrary.id/tag/mprs/), [Nawaksara](https://soehartolibrary.id/tag/nawaksara/), [Presiden Soekarno](https://soehartolibrary.id/tag/presiden-soekarno/)

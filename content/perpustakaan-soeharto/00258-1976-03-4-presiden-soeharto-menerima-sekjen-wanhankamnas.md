@@ -37,13 +37,13 @@ relasi:
 
 # Presiden Soeharto Menerima Sekjen Wanhankamnas
 
-## (Rumusan Pancasila Yang Ilmiah dalam Bentuk GBHN)[[1]](#_ftn1)
+## (Rumusan Pancasila Yang Ilmiah dalam Bentuk GBHN)1
 
 KAMIS, 4 MARET  1976, Sekretaris Jenderal Wanhankamnas, Letjen Kartakusumah yang disertai oleh Wakil Sekretaris Jenderalnya, Laksma Subarkah, pukul 10.00 pagi ini menghadap Presiden Soeharto di Cendana. Keduanya menghadap untuk melaporkan tentang tugas yang diberikan kepada Wanhankamnas oleh Kepala Negara, yaitu membuat rumusan Pancasila yang ilmiah. Rumusan yang dibuat dalam bentuk GBHN itu nantinya akan dijadikan bahan pembahasan lebih lanjut.  (AFR)
 
 ---
 
-[[1]](#_ftnref1)
+1
 
 [1]      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.344.
 

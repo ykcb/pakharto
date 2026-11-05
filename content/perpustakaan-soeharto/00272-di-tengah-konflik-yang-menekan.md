@@ -33,7 +33,7 @@ relasi:
 
 # Di Tengah Konflik Yang Menekan
 
-## (Menjadi Ketua Presidium Kabinet Ampera)[[1]](#_ftn1)
+## (Menjadi Ketua Presidium Kabinet Ampera)1
 
 Saya mengerti, masyarakat menunggu, bagaimana rupa kabinet baru sesudah Sidang Umum MPRS 1966 itu. Rundingan dilakukan dengan pelbagai pihak, dengan pelbagai kekuatan yang nyata pada waktu itu. Juga dengan Presiden Soekarno tentunya. Maka, sementara pangkat saya saya sudah naik jadi Jenderal penuh, terbentuklah “Kabinet Ampera” yang mau tidak mau masih menunjukkan kompromi antara pikiran lama dan pendapat baru. Beberapa tokoh yang dianggap dekat dengan Presiden Soekarno masih masuk dalam kebinet ini, dan saya ditetapkan sebagai Ketua Presidium Kabinet/ Menteri Utama Hankam.
 
@@ -133,6 +133,6 @@ Saya jawab mereka, “Saya tidak mempunyai cita-cita untuk itu.” Waktu itu say
 
 ---
 
-[[1]](#_ftnref1) Penuturan Presiden Soeharto, dikutip langsung dari buku “Soeharto: Pikiran, Ucapan dan Tindakan Saya”, (Jakarta: PT. Citra Kharisma Bunda, 1989), Hal. 179-184)
+1 Penuturan Presiden Soeharto, dikutip langsung dari buku “Soeharto: Pikiran, Ucapan dan Tindakan Saya”, (Jakarta: PT. Citra Kharisma Bunda, 1989), Hal. 179-184)
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)

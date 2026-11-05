@@ -53,6 +53,6 @@ Begitulah pendirian saya dan tindakan saya mengenai persoalan ini.
 
 ---
 
-[[1]](#_ftnref1)        Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal. 278-279
+1        Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal. 278-279
 
  [Biografi](https://soehartolibrary.id/category/biografi/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [anti cina](https://soehartolibrary.id/tag/anti-cina/), [Bandung](https://soehartolibrary.id/tag/bandung/), [keturunan cina](https://soehartolibrary.id/tag/keturunan-cina/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [rasial](https://soehartolibrary.id/tag/rasial/), [Subversi](https://soehartolibrary.id/tag/subversi/)

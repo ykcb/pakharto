@@ -38,7 +38,7 @@ relasi:
 
 # Presiden Soeharto Mengunjungi Sulawesi
 
-## (Meninjau Dari Dekat Proyek-Proyek Pembangunan)[[1]](#_ftn1)
+## (Meninjau Dari Dekat Proyek-Proyek Pembangunan)1
 
 SENIN, 12 April 1971, Jam 07.00 pagi ini Presiden dan Ibu Tien Soeharto beserta rombongan berangkat ke Palu, Sulawesi Tengah, untuk memulai kunjungan kerja di Indonesia Timur selama satu minggu. Dalam kunjungan ini Presiden akan melihat dari dekat proyek-proyek pembangunan yang ada di Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Selatan dan Maluku.
 
@@ -46,6 +46,6 @@ Setiba di Palu, Presiden Soeharto  disambut oleh masyarakat setempat dalam suat
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 318-319.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 318-319.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Palu](https://soehartolibrary.id/tag/palu/), [Pemilu](https://soehartolibrary.id/tag/pemilu/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sulawesi Tengah](https://soehartolibrary.id/tag/sulawesi-tengah/)

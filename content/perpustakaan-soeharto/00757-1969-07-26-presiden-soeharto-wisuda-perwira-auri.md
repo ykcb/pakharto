@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto Wisuda Perwira AURI
 
-## (Dalam Merupakan Media Komunikasi Masyarakat-Penguasa)[[1]](#_ftn1)
+## (Dalam Merupakan Media Komunikasi Masyarakat-Penguasa)1
 
 SABTU, 26 Juli 1969. Dalam amanat tertulisnya pada upacara wisuda perwira-perwira remaja AURI di Yogyakarta hari ini, Presiden Soeharto mengatakan bahwa perubahan apapun yang terjadi, ada satu dasar yang mutlak yang tidak boleh berubah, yaitu semangat perjuangan dan kepribadian yang lahir bersamaan dengan kemerdekaan pada tahun 1945. Juga ditegaskannya, bahwa sikap ABRI adalah tegas dalam mempertahankan dan membela kepentingan rakyat, bangsa dan negara. Kesetiaan yang mutlak kepada Pancasila dan UUD 1945 dan tekadnya yang bulat tanpa kenal menyerah kepada musuh adalah hakekat kepribadian ABRI.
 
@@ -52,6 +52,6 @@ Presiden Soeharto mengirimkan telegram kepada rakyat Irian Barat melalui Mendagr
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 141. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 141. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [AURI](https://soehartolibrary.id/tag/auri/), [dalang](https://soehartolibrary.id/tag/dalang/), [Irian Barat](https://soehartolibrary.id/tag/irian-barat/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Kemerdekaan](https://soehartolibrary.id/tag/kemerdekaan/), [Mendagri Amirmachmud](https://soehartolibrary.id/tag/mendagri-amirmachmud/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

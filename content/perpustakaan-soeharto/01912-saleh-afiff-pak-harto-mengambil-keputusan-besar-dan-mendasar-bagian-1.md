@@ -38,7 +38,7 @@ relasi:
 
 15 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-1/#respond)  146 Views Share on
 
-# Mengambil Keputusan Besar Dan Mendasar (Bagian 1)[[1]](#_ftn1)
+# Mengambil Keputusan Besar Dan Mendasar (Bagian 1)1
 
 ## Saleh Afiff **[**[2]**](#_ftn2)**
 
@@ -88,8 +88,8 @@ Mereka yang ikut membantu beliau dalam mengatasi masa­masa sulit itu, pasti mer
 
 ---
 
-[[1]](#_ftnref1) Saleh Afiff, “Kemajuan Dengan Kesinambungan”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 354-369.
+1 Saleh Afiff, “Kemajuan Dengan Kesinambungan”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 354-369.
 
-[[2]](#_ftnref2)  Menteri Negara Perencanaan Pembangunan Nasional/Ketua Badan Perencanaan Pembangunan Nasional dalam Kabinet Pembangunan V.
+2  Menteri Negara Perencanaan Pembangunan Nasional/Ketua Badan Perencanaan Pembangunan Nasional dalam Kabinet Pembangunan V.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/)  [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Saleh Afiff](https://soehartolibrary.id/tag/saleh-afiff/)

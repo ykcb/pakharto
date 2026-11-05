@@ -47,7 +47,7 @@ relasi:
 
 # Cabut Keris, Presiden Soeharto Resmikan SKSD Palapa
 
-## Sampaikan Pidato Kenegaraan 16 Agustus[[1]](#_ftn1)
+## Sampaikan Pidato Kenegaraan 16 Agustus1
 
 SENIN, 16 AGUSTUS 1976. Dalam rangka peringatan 31 tahun kemerdekaan RI, pagi ini Presiden Soeharto meresmikan penggunaan SKSD Palapa. Dalam acara peresmian yang berlangsung pada jam 08.45 pagi ke Gedung DPR itu Kepala Negara mencabut sebilah keris dan kemudian menekan tombol elektronis yang terdapat pada gagang keris tersebut. Dengan demikian resmilah penggunaan SKSD Palapa. Selanjutnya Presiden melakukan pembicaraan telepon jarak jauh melalui SKSD Palapa dengan Gubernur Aceh, Muzakkir Walad, dan Gubernur Irian Jaya, Sutran.
 
@@ -65,6 +65,6 @@ Dalam bagian lain dari pidatonya, Presiden mengajak seluruh rakyat Indonesia unt
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 384-386. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 384-386. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [GNP](https://soehartolibrary.id/tag/gnp/), [Gubernur Aceh](https://soehartolibrary.id/tag/gubernur-aceh/), [Gubernur Irian Jaya](https://soehartolibrary.id/tag/gubernur-irian-jaya/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [keris](https://soehartolibrary.id/tag/keris/), [Muzakkir Walad](https://soehartolibrary.id/tag/muzakkir-walad/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sutran](https://soehartolibrary.id/tag/sutran/), [Timor-Timur](https://soehartolibrary.id/tag/timor-timur/), [tombol elektronis](https://soehartolibrary.id/tag/tombol-elektronis/)

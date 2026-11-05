@@ -40,7 +40,7 @@ relasi:
 
 # Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara
 
-## (Penyempurnaan Aparatur Negara Menjamin Keberhasilan Pembangunan)[[1]](#_ftn1)
+## (Penyempurnaan Aparatur Negara Menjamin Keberhasilan Pembangunan)1
 
 SABTU, 15 MARET  1975, Hasil sensus pegawai negeri yang dilaksanakan pada tahun yang lalu, jam 10.30 pagi ini diserahkan oleh Menteri PAN, Sumarlin, Kepada Presiden Soeharto dalam suatu acara di Istana Merdeka. Turut menyaksikan penyerahan hasil sensus ini, para sekretaris jenderal dan kepala biro dari semua departemen pemerintahan. Ketika menerima hasil sensus ini Kepala Negara mengamanatkan agar praktek-praktek buruk dalam pengurusan segala masalah yang menyangkut urusan kepegawaian, seperti yang dikenal sebagai “uang pelicin” dapat diakhiri dalam waktu yang sesingkat-singkatnya. Selanjutnya ia menginstruksikan para sekretaris jenderal dan pejabat-pejabat lain yang mengawasi masalah kepegawaian agar benar-benar menaruh perhatian yang sungguh-sungguh terhadap praktek buruk semacam itu.
 
@@ -48,7 +48,7 @@ Kemudian secara simbolik Kepala Negara menyerahkan Nomor Induk Pegawai Negeri Si
 
 ---
 
-[[1]](#_ftnref1)
+1
 
 [1]      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.224-225.
 

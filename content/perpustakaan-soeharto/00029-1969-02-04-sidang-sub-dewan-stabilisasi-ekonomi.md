@@ -43,7 +43,7 @@ Pukul 10.00 pagi Presiden Soeharto membuka sidang Sub-Dewan Stabilisasi Ekonomi 
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
 **SIDANG SUB DEWAN STABILISASI EKONOMI[**[1]**](#_ftn1)**
 
@@ -55,6 +55,6 @@ Pukul 10.00 pagi Presiden Soeharto membuka sidang Sub-Dewan Stabilisasi Ekonomi 
 
 ---
 
-[[1]](#_ftnref1)    Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1    Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Dewan](https://soehartolibrary.id/tag/dewan/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [Sidang](https://soehartolibrary.id/tag/sidang/), [Stabilisasi](https://soehartolibrary.id/tag/stabilisasi/), [Sub](https://soehartolibrary.id/tag/sub/)

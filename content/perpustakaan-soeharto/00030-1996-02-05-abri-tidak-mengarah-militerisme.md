@@ -48,6 +48,6 @@ RABU, 5 FEBRUARI 1969 . Dalam amanat tertulis pada upacara Prasetya Perwira Waji
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [ABRI](https://soehartolibrary.id/tag/abri/), [Diktaktor](https://soehartolibrary.id/tag/diktaktor/), [Hankam](https://soehartolibrary.id/tag/hankam/), [Keamanan](https://soehartolibrary.id/tag/keamanan/), [Militerisme](https://soehartolibrary.id/tag/militerisme/), [Pembukaan](https://soehartolibrary.id/tag/pembukaan/), [Pertahanan](https://soehartolibrary.id/tag/pertahanan/), [Rakyat](https://soehartolibrary.id/tag/rakyat/), [Semesta](https://soehartolibrary.id/tag/semesta/), [UUD 1945](https://soehartolibrary.id/tag/uud-1945/)

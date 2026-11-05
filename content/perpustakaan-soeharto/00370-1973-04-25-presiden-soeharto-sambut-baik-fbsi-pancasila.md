@@ -37,12 +37,12 @@ relasi:
 
 # 1973-04-25 Presiden Soeharto Sambut Baik FBSI Pancasila
 
-# Presiden Soeharto Sambut Baik FBSI Pancasila[[1]](#_ftn1)
+# Presiden Soeharto Sambut Baik FBSI Pancasila1
 
 RABU, 25  April 1973, Presiden Soeharto menyambut baik doktrin FBSI yang berdasarkan pada Pancasila. Selain itu Kepala Negara juga sangat menghargai usaha-usaha FBSI yang telah berhasil menyatukan semua organisasi buruh Indonesia kedalam suatu federasi. Demikian diungkapkan oleh Menteri Tenaga Kerja, Transmigrasi dan Koperasi, Subroto, kepada pers setelah ia dan 11 orang pimpinan FBSI diterima Presiden Soeharto di Bina Graha pagi ini.  (AFR)
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 12                                                                                                                          .
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 12                                                                                                                          .
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [buruh](https://soehartolibrary.id/tag/buruh/), [Koperasi](https://soehartolibrary.id/tag/koperasi/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Subroto](https://soehartolibrary.id/tag/subroto/)

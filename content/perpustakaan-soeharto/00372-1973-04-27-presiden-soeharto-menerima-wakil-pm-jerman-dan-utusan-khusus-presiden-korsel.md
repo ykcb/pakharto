@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto Menerima Wakil PM Jerman Dan Utusan Khusus Presiden Korsel
 
-## (Utusan Khusus Presiden Korsel Jelaskan Upaya Penyatuan Korea)[[1]](#_ftn1)
+## (Utusan Khusus Presiden Korsel Jelaskan Upaya Penyatuan Korea)1
 
 JUM’AT, 27 April 1973, Bertempat di Istana Merdeka, Presiden Soeharto pagi ini menerima kunjungan kehormatan Wakil Perdana Menteri Luar Negeri Republik Federasi Jerman, Walter Scheel,di Istana Merdeka. Pada kesempatan ini, pemimpin Jerman Barat itu telah menghadiahkan sebuah traktor mini kepada Presiden Soeharto, sementara Kepala Negara menyerahkan sebuah bingkisan cerutu kepadanya.
 
@@ -49,6 +49,6 @@ Pagi ini pula Presiden Soeharto menerima utusan khusus Presiden Park Cung Hee da
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 9.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 9.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Jerman](https://soehartolibrary.id/tag/jerman/), [Korea Selatan](https://soehartolibrary.id/tag/korea-selatan/), [Korea Utara](https://soehartolibrary.id/tag/korea-utara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

@@ -43,7 +43,7 @@ relasi:
 
 30 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/#respond)  157 Views Share on
 
-# Menang Tanpa Ngasorake (Bagian 1)[[1]](#_ftn1)
+# Menang Tanpa Ngasorake (Bagian 1)1
 
 ## Emil Salim[**[2]**](#_ftn2)
 
@@ -103,8 +103,8 @@ Adalah pula khas Soeharto untuk membagikan duplikat medali FAO ini kepada para p
 
 ---
 
-[[1]](#_ftnref1) Emil Salim, “Menang Tanpa Ngasorake”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 385-402. Red: Menang Tanpa Ngasorake (Jawa): “Menang tanpa pihak lawan merasa terkalahkan/terendahkan/terlecehkan”.
+1 Emil Salim, “Menang Tanpa Ngasorake”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 385-402. Red: Menang Tanpa Ngasorake (Jawa): “Menang tanpa pihak lawan merasa terkalahkan/terendahkan/terlecehkan”.
 
-[[2]](#_ftnref2)  Menteri Negara Kependudukan dan Lingkungan Hidup dalam Kabinet Pembangunan V
+2  Menteri Negara Kependudukan dan Lingkungan Hidup dalam Kabinet Pembangunan V
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Tinggal Landas](https://soehartolibrary.id/category/tinggal-landas/)  [Emil Salim](https://soehartolibrary.id/tag/emil-salim/), [FAO](https://soehartolibrary.id/tag/fao/), [Italia](https://soehartolibrary.id/tag/italia/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Roma](https://soehartolibrary.id/tag/roma/), [Swasembada Pangan](https://soehartolibrary.id/tag/swasembada-pangan/), [Vatikan](https://soehartolibrary.id/tag/vatikan/)

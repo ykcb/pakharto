@@ -61,7 +61,7 @@ Angka-angka kunci 32 tahun Orde Baru — detail dan sumber primer di [[hub/ekono
 
 - Mulai dari [[Transisi 1965–1967]] untuk memahami asal-usul rezim.
 - Pelajari [[Dwifungsi ABRI]] untuk memahami arsitektur kekuasaan militer.
-- Lihat [[Demokrasi Pancasila]] dan [[Pemilu-pemilu Orde Baru]] untuk sistem politik.
+- Lihat [[Demokrasi Pancasila]] dan [[hub/pemilu-orde-baru]] untuk sistem politik.
 - Pahami [[Trilogi Pembangunan]] sebagai fondasi ekonomi.
 - Cek [[Soeharto]] sebagai aktor sentral.
 

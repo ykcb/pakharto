@@ -101,7 +101,7 @@ Sementara itu saya sudah mengetahui bahwa tidak mungkin kita mengadakan pemiliha
 
 Saya tidak begitu peduli dengan batas waktu, sebagai Pejabat Presiden. Yang lebih saya perhatikan adalah soal tanggungjawab saya. Saya terus bekerja dengan kesungguhan hati. Memang saya diminta kerja mati-matian untuk melawan inflasi waktu itu, sambil menghindari resesi ekonomi, membersihkan birokrasi dan korupsi serta memperbaharui struktur parlemen. Itu tidak enteng. Tetapi saya tidak putus asa. Saya tidak biasa berputus asa.
 
-Semenjak tahun 1968 saya dengar kritikan dari pihak mahasiswa mengenai Aspri[[2]](#_ftn2) yang saya bentuk. Mereka seperti tidak mau mengerti bahwa saya memerlukan bantuan dari asisten-asisten yang saya percayai untuk menghadapi pelbagai persoalan yang saya hadapi. Tetapi saya tanggapi kritikan itu dengan penuh kesabaran.
+Semenjak tahun 1968 saya dengar kritikan dari pihak mahasiswa mengenai Aspri2 yang saya bentuk. Mereka seperti tidak mau mengerti bahwa saya memerlukan bantuan dari asisten-asisten yang saya percayai untuk menghadapi pelbagai persoalan yang saya hadapi. Tetapi saya tanggapi kritikan itu dengan penuh kesabaran.
 
 Sementara semua pihak sudah mengikuti petunjuk-petunjuk saya mengenai pembersihan  di dalam partai-partai, di lembaga-lembaga pemerintahan dan institut-institut lainnya, ada usaha dari sementara pihak untuk menghidupkan kembali partai-partai yang sudah dinyatakan terlarang di zaman kepemimpinan Bung Karno. Saya perhatikan gejala itu. Saya rundingkan dengan beberapa pihak. Dan saya mendapat kesimpulan bahwa sebaiknya saya tidak membenarkannya.
 
@@ -113,8 +113,8 @@ Sementara itu saya masih tetap menjabat sebagai Pejabat Presiden. Dalam kesempat
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 198-204.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 198-204.
 
-[[2]](#_ftnref2) **Asisten Pribadi**
+2 **Asisten Pribadi**
 
  [Masa Pembangunan](https://soehartolibrary.id/category/biografi/masa-pembangunan/)  [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Pejabat Presiden](https://soehartolibrary.id/tag/pejabat-presiden/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Presiden Soekarno](https://soehartolibrary.id/tag/presiden-soekarno/)

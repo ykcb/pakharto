@@ -169,6 +169,6 @@ Selama meliput kegiatan Presiden Soeharto, ia berulangkali mengikuti perjalanan 
 
 ---
 
-[[1]](#_ftnref1) Hasil Wawancara Koos Arumdanie, Februari 2013
+1 Hasil Wawancara Koos Arumdanie, Februari 2013
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Blitar](https://soehartolibrary.id/tag/blitar/), [Bung Karno](https://soehartolibrary.id/tag/bung-karno/), [G.30.S/PKI](https://soehartolibrary.id/tag/g-30-spki/), [Incognito](https://soehartolibrary.id/tag/incognito/), [Jawa-Bali](https://soehartolibrary.id/tag/jawa-bali/), [Jenderal Nasution](https://soehartolibrary.id/tag/jenderal-nasution/), [Megawati Soekarno Putri](https://soehartolibrary.id/tag/megawati-soekarno-putri/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pemakaman](https://soehartolibrary.id/tag/pemakaman/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Reporter](https://soehartolibrary.id/tag/reporter/), [RRI](https://soehartolibrary.id/tag/rri/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Sujarwo](https://soehartolibrary.id/tag/sujarwo/)

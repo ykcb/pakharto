@@ -49,6 +49,6 @@ RABU, 12 FEBRUARI 1969. Menhankam/Pangab Jenderal Soeharto mengatakan bahwa pemb
 
 ---
 
-[[1]](#_ftnref1)     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Hansip](https://soehartolibrary.id/tag/hansip/), [Keras](https://soehartolibrary.id/tag/keras/), [Kerja](https://soehartolibrary.id/tag/kerja/), [Pembangunan](https://soehartolibrary.id/tag/pembangunan/), [Raker](https://soehartolibrary.id/tag/raker/), [Wanra](https://soehartolibrary.id/tag/wanra/)

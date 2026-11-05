@@ -50,6 +50,6 @@ SENIN, 24 FEBRUARI 1969. Presiden Soeharto menegaskan bahwa suksesnya pembanguna
 
 ---
 
-[[1]](#_ftnref1)     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [bangsa](https://soehartolibrary.id/tag/bangsa/), [Harkat](https://soehartolibrary.id/tag/harkat/), [Koperasi](https://soehartolibrary.id/tag/koperasi/), [Martabat](https://soehartolibrary.id/tag/martabat/), [Pembangunan](https://soehartolibrary.id/tag/pembangunan/), [Raker](https://soehartolibrary.id/tag/raker/), [taruhan](https://soehartolibrary.id/tag/taruhan/), [Transmigrasi](https://soehartolibrary.id/tag/transmigrasi/)

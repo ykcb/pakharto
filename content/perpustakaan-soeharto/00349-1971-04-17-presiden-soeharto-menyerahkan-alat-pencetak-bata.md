@@ -40,12 +40,12 @@ relasi:
 
 # Presiden Soeharto Menyerahkan Alat Pencetak Bata
 
-## (Agar Masyarakat Tidak Perlu Membangun Rumah Dari Kayu)[[1]](#_ftn1)
+## (Agar Masyarakat Tidak Perlu Membangun Rumah Dari Kayu)1
 
 SABTU, 17  April 1971, Sebelum meniggalkan Makasar kembali ke Indonesia, Presiden Soeharto menyerahkan alat pencetak bata kepada seluruh daerah di Sulawesi Selatan. Dengan penyerahan ini, Presiden mengharapkan agar seluruh desa yang ada di Sulawesi Selatan dapat membangun perumahan dari bata yang dibuatnya sendiri, sehingga tidak perlu lagi membangun rumah dari kayu. (AFR)
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 320.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 320.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [kayu](https://soehartolibrary.id/tag/kayu/), [Makasar](https://soehartolibrary.id/tag/makasar/), [Pencetak Bata](https://soehartolibrary.id/tag/pencetak-bata/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Rumah](https://soehartolibrary.id/tag/rumah/), [Sulawesi Selatan](https://soehartolibrary.id/tag/sulawesi-selatan/)

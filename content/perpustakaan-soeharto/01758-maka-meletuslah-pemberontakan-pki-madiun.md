@@ -93,6 +93,6 @@ Tanggal 18 September 1948 pemberontakan PKI di Madiun terjadi, mengambil alih ke
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 51-55.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 51-55.
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Alimin](https://soehartolibrary.id/tag/alimin/), [Amir Syarifudin](https://soehartolibrary.id/tag/amir-syarifudin/), [Hatta](https://soehartolibrary.id/tag/hatta/), [Jenderal Soedirman](https://soehartolibrary.id/tag/jenderal-soedirman/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Muso](https://soehartolibrary.id/tag/muso/), [Panembahan Senopati](https://soehartolibrary.id/tag/panembahan-senopati/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Solo](https://soehartolibrary.id/tag/solo/), [Suadi](https://soehartolibrary.id/tag/suadi/)

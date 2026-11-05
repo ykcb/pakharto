@@ -40,7 +40,7 @@ relasi:
 
 # Pak Harto Membuka Sidang Menteri-Menteri Tenaga Kerja ASEAN
 
-## (Penciptaan Lapangan Kerja Hanya Melalui Pembangunan Menyeluruh)[[1]](#_ftn1)
+## (Penciptaan Lapangan Kerja Hanya Melalui Pembangunan Menyeluruh)1
 
 SELASA, 1 April 1975, Penciptaan lapangan kerja yang sebanyak-banyaknya hanya dimungkinkan dengan pembangunan yang menyeluruh. Demikian dikemukakan oleh Presiden Soeharto ketika membuka sidang Menteri-Menteri Tenaga Kerja ASEAN, yang membahas masalah kesempatan kerja dan kependudukan, di Bina Graha pagi ini. Menurut Kepala Negara, kini sudah saatnya kita mencari dan mengembangkan cara-cara bagaimana negara-negara ASEAN dapat menyusun program bersama yang lebih efisien, dan bukan hanya mengatasi masalah kependudukan dan kesempatan kerja saja, melainkan juga mampu menyelesaikan masalah-masalah tersebut secara menyeluruh.
 
@@ -52,6 +52,6 @@ Sidang juga telah membahas masalah penanggulangan hama wereng dan penyakit virus
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 233-234.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 233-234.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Asean](https://soehartolibrary.id/tag/asean/), [Bina Graha](https://soehartolibrary.id/tag/bina-graha/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Tebu](https://soehartolibrary.id/tag/tebu/), [Tenaga Kerja](https://soehartolibrary.id/tag/tenaga-kerja/), [Varietas](https://soehartolibrary.id/tag/varietas/)

@@ -37,13 +37,13 @@ relasi:
 
 # Presiden Soeharto Benahi Pertamina
 
-## (Melengkapi Jajaran Direksi Pertamina Pasca Ibnu Sutowo)[[1]](#_ftn1)
+## (Melengkapi Jajaran Direksi Pertamina Pasca Ibnu Sutowo)1
 
 SABTU, 6 MARET  1976, Hari ini, melalui Keputusan Presiden No. 31/M/1976, Presiden Soeharto telah melengkapi struktur kepemimpinan Pertamina, Ir. Tri susilo  diangkat kembali sebagai Direktur Eksplorasi dan Produksi, Ir. Sudarno Martosewoyo sebagai Direktur Pembekalan Dalam Negeri, Ir. Wijarso diangkat kembali sebagai Direktur Umum, dan Drs. Sukotjo sebagai Direktur Perkapalan dan Telekomunikasi. Dalam pada itu jabatan Direktur Keuangan dirangkap oleh Mayjen. Piet Haryono, yang sebelumnya juga telah ditunjuk sebagai Direktur Utama perusahaan minyak negara itu.   (AFR)
 
 ---
 
-[[1]](#_ftnref1)
+1
 
 [1]      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.344.
 

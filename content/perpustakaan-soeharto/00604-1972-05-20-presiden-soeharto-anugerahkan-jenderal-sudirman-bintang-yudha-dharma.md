@@ -43,7 +43,7 @@ relasi:
 
 # 1972-05-20 Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha Dharma
 
-## Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha Dharma[[1]](#_ftn1)
+## Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha Dharma1
 
 SABTU, 20 Mei 1972, Presiden Soeharto hari ini di Istana Negara menganugerahkan Bintang Yudha Dharma dan Bintang Mahaputra kepada tujuh orang perwira tinggi, sehubungan dengan jasa-jasa dan pengabdian mereka kepada nusa dan bangsa.
 
@@ -53,6 +53,6 @@ Presiden Soeharto juga mengangkat anggota-anggota tambahan MPR dari utusan golon
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 439.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 439.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Bintang Mahaputra](https://soehartolibrary.id/tag/bintang-mahaputra/), [Bintang Yudha Dharma](https://soehartolibrary.id/tag/bintang-yudha-dharma/), [Jenderal AH Nasution](https://soehartolibrary.id/tag/jenderal-ah-nasution/), [Jenderal M. Panggabean](https://soehartolibrary.id/tag/jenderal-m-panggabean/), [Jenderal Sudirman](https://soehartolibrary.id/tag/jenderal-sudirman/), [Letjen. (Pur.) TB Simatupang](https://soehartolibrary.id/tag/letjen-pur-tb-simatupang/), [Letjen. Ibnu Soetowo](https://soehartolibrary.id/tag/letjen-ibnu-soetowo/), [Letjen. Urip Sumohardjo](https://soehartolibrary.id/tag/letjen-urip-sumohardjo/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

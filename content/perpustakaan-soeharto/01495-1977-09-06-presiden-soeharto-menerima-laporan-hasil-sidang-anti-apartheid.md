@@ -37,7 +37,7 @@ relasi:
 
 20 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1977-09-06-presiden-soeharto-menerima-laporan-hasil-sidang-anti-apartheid/#respond)  138 Views Share on
 
-# Presiden Soeharto Menerima Laporan Hasil Sidang Anti Apartheid[[1]](#_ftn1)
+# Presiden Soeharto Menerima Laporan Hasil Sidang Anti Apartheid1
 
 SELASA, 6 SEPTEMBER 1977 Pagi ini Presiden Soeharto menerima Menteri Luar Negeri Adam Malik di Bina Graha. Kedatangan Adam Malik adalah untuk melaporkan hasil kunjungannya ke Nigeria dan Jerman Barat. Sebagaimana diketahui, di Lagos (Nigeria) Adam Malik menghadiri sidang anti-apartheid. Dalam keterangannya kepada pers seusai pertemuan, sehubungan dengan pencalonannya menjadi anggota DPR oleh Golkar, Adam Malik tidak menyampingkan kemungkinan bahwa Presiden Soeharto akan bertindak sebagai Menteri Luar Negeri sampai dengan bulan April mendatang.
 
@@ -45,6 +45,6 @@ Presiden Soeharto pagi ini memimpin sidang Dewari/Stabilisasi Ekonomi Nasional d
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 534-535. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 534-535. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Adam Malik](https://soehartolibrary.id/tag/adam-malik/), [Anti Apartheid](https://soehartolibrary.id/tag/anti-apartheid/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

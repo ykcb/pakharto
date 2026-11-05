@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto: Saya Tidak Akan Meninggalkan Warisan Yang Memberatkan
 
-## (Bertemu Dengan Dewan Mahasiswa Se-Kotamadya Ujung Pandang)[[1]](#_ftn1)
+## (Bertemu Dengan Dewan Mahasiswa Se-Kotamadya Ujung Pandang)1
 
 KAMIS, 06 Juli 1972. Pagi ini Presiden Soeharto mengadakan pertemuan dengan anggota-anggota Dewan Mahasiswa se-Kotamadya Ujung Pandang. Kepada para mahasiswa tersebut, Presiden mengatakan bahwa “saya tidak akan meninggalkan warisan yang memberatkan generasi yang akan datang. Kita menyadari adanya informasi-informasi destruktif mengenai hendak kemana pemerintah akan bergerak, hendak kemana rakyat akan dibawa, dan warisan apa yang akan ditinggalkan kepada generasi yang akan datang. Semua informasi ini menyebabkan kerugian-kerugian di kalangan generasi muda”.
 
@@ -50,6 +50,6 @@ Pada kesempatan itu Presiden juga membantah sementara pendapat yang mengatakan b
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 451-452. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 451-452. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Dewan Mahasiswa](https://soehartolibrary.id/tag/dewan-mahasiswa/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Kotamadya](https://soehartolibrary.id/tag/kotamadya/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Ujung Pandang](https://soehartolibrary.id/tag/ujung-pandang/)

@@ -42,9 +42,9 @@ relasi:
 
 27 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/ali-alatas-kemantapan-dalam-keseimbangan-bagian-2/#respond)  145 Views Share on
 
-# Kemantapan Dalam Keseimbangan (Bagian 2)[[1]](#_ftn1)
+# Kemantapan Dalam Keseimbangan (Bagian 2)1
 
-## Ali Alatas[[2]](#_ftn2)
+## Ali Alatas2
 
 Ciri mencolok ketiga dalam kepemimpinan Pak Harto yang tidak luput pula dari pengamatan orang, termasuk pengamat luar negeri, adalah sikap konsisten beliau. Apabila Pak Harto telah mengambil suatu keputusan ataupun kebijaksanaan, apalagi yang strategis, beliau akan berpegang teguh pada keputusan tersebut secara konsisten. Hal ini jelas nampak dalam segala kebijaksanaan kenegaraan semenjak lahirnya Orde Baru, baik di bidang ideologi dan politik maupun di bidang ekonomi dan sosial. Khususnya di bidang hubungan dan politik luar negeri, sikap konsisten ini, me nurut pengamatan saya, bersumber dan senantiasa berpulang pada kaidah-kaidah yang terkandung dalam UUD 1945 dan falsafah negara, Pancasila.
 
@@ -76,8 +76,8 @@ Bahkan mengenai masalah Kamboja,walaupun pada saat ini suatu penyelesaian menyel
 
 ---
 
-[[1]](#_ftnref1) Ali Alatas, “Kemantapan Dalam Keseimbangan”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 48-58.
+1 Ali Alatas, “Kemantapan Dalam Keseimbangan”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 48-58.
 
-[[2]](#_ftnref2) Menteri Luar Negeri dalam Kabinet Pembangunan V.
+2 Menteri Luar Negeri dalam Kabinet Pembangunan V.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Ali Alatas](https://soehartolibrary.id/tag/ali-alatas/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [LI Peng](https://soehartolibrary.id/tag/li-peng/), [Normalisasi](https://soehartolibrary.id/tag/normalisasi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [RRC](https://soehartolibrary.id/tag/rrc/)

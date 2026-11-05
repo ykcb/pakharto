@@ -48,7 +48,7 @@ relasi:
 
 12 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1971-09-09-presiden-soeharto-reshuffle-kabinet/#respond)  129 Views Share on
 
-# Presiden Soeharto *Reshuffle* Kabinet [[1]](#_ftn1)
+# Presiden Soeharto *Reshuffle* Kabinet 1
 
 **KAMIS, 9 SEPTEMBER** **1971**Presiden Soeharto mengadakan *reshuffle* (perombakan) Kabinet Pembangunan dalam mana ia memberhentikan empat orang menteri dan mengangkat enam orang lainnya. Menteri-menteri yang diganti adalah Menteri Agama KHM Dachlan, Menteri Tenaga Kerja Laksamana Madya (L)  Mursalin DM, Menteri Transmigrasi dan Koperasi Letjen. Sarbini dan Menteri Negara Penyempurnaan dan Pembersihan Aparatur Negara H . Harsono Tjokroaminoto.
 
@@ -58,6 +58,6 @@ Dalam pengumuman tersebut, Presiden Soeharto menjelaskan bahwa dengan penggantia
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 366-367. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 366-367. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Dr. Emil Salim](https://soehartolibrary.id/tag/dr-emil-salim/), [H . Harsono Tjokroaminoto](https://soehartolibrary.id/tag/h-harsono-tjokroaminoto/), [HMS Mintaredja SH](https://soehartolibrary.id/tag/hms-mintaredja-sh/), [Jenderal M. Panggabean](https://soehartolibrary.id/tag/jenderal-m-panggabean/), [KHM Dachlan](https://soehartolibrary.id/tag/khm-dachlan/), [Laksamana Madya (L) Mursalin DM](https://soehartolibrary.id/tag/laksamana-madya-l-mursalin-dm/), [Letjen. Sarbini](https://soehartolibrary.id/tag/letjen-sarbini/), [Menteri Agama](https://soehartolibrary.id/tag/menteri-agama/), [Menteri Negara Penyempurnaan dan Pembersihan Aparatur Negara](https://soehartolibrary.id/tag/menteri-negara-penyempurnaan-dan-pembersihan-aparatur-negara/), [Menteri Tenaga Kerja](https://soehartolibrary.id/tag/menteri-tenaga-kerja/), [Menteri Transmigrasi dan Koperasi](https://soehartolibrary.id/tag/menteri-transmigrasi-dan-koperasi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Prof. Dr. M Sadli](https://soehartolibrary.id/tag/prof-dr-m-sadli/), [Prof. Dr. Mukti Ali](https://soehartolibrary.id/tag/prof-dr-mukti-ali/), [Prof. Dr. Widjaja Nitisastro](https://soehartolibrary.id/tag/prof-dr-widjaja-nitisastro/), [reshuffle kabinet](https://soehartolibrary.id/tag/reshuffle-kabinet/)

@@ -40,7 +40,7 @@ relasi:
 
 # Presiden Soeharto: Kemerdekaan Harus Diisi Dengan Pembangunan
 
-## (Mendorong 20.000 Rakyat Yang Belum Beragama Untuk Memeluk Salah Satu Agama)[[1]](#_ftn1)
+## (Mendorong 20.000 Rakyat Yang Belum Beragama Untuk Memeluk Salah Satu Agama)1
 
 SELASA, 13 April 1971, Masih berada di Palu,  pagi ini Presiden Soeharto bertatap muka dengan tokoh agama se-Sulawesi Tengah. Pada pertemuan ini, Presiden Soeharto mengharapkan mereka untuk dapat mengupayakan agar lebih kurang 20.000 rakyat yang tak beragama menjadi salah satu pemeluk salah satu  agama. Untuk itu Presiden Soeharto berjanji akan memberikan bantuannya lewat Menteri Dalam Negeri. Akhirnya  Presiden Soeharto menyerahkan bantuannya sebesar Rp 50 juta kepada para pemuka agama tersebut untuk dimanfaatkan bagi usaha pembangunan usaha bidang spiritual.
 
@@ -48,6 +48,6 @@ Setibanya di Kendari siang ini Presiden Soeharto memberikan amanat kepada para p
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 319.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 319.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Agama](https://soehartolibrary.id/tag/agama/), [Kemerdekaan](https://soehartolibrary.id/tag/kemerdekaan/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Pembangunan](https://soehartolibrary.id/tag/pembangunan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [UUD 1945](https://soehartolibrary.id/tag/uud-1945/)

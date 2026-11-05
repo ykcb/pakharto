@@ -40,7 +40,7 @@ relasi:
 
 # Presiden Soeharto Keluarkan Beberapa Inpres Pembangunan
 
-## (Pembangunan Pasar, SD, Kesehatan dan Reboisasi)[[1]](#_ftn1)
+## (Pembangunan Pasar, SD, Kesehatan dan Reboisasi)1
 
 JUM’AT, 22 MARET  1976, Siang ini di Cendana, Presiden Soeharto mengadakan pembicaraan selama satu setengah jam dengan Menteri Negara Ekuin Prof. Dr. Widjojo Nitisastro, Menteri PAN/Wakil Ketua Bappenas Dr.Sumarlin, Menteri Perdagangan Radius Prawiro, dan Menteri/ Sekretaris Negara Murdhiono SH. Sebagai hasil pertemuan itu, Kepala Negara hari ini mengeluarkan beberapa Inpres. Yang pertama adalah Inpres pasar sebesar Rp. 20 milyar yang akan digunakan untuk membangun pasar-pasar di ibukota kabupaten dan kotamadya di seluruh Indonesia, termasuk di DKI Jakarta. Inpres yang mulai berlaku dalam tahun anggaran 1976/1977 ini bertujuan untuk membantu golongan ekonomi lemah dalam kegiatan perdagangan.
 
@@ -50,6 +50,6 @@ Disamping itu masih ada beberapa Inpres lain, yang meliputi pembangunan-pembangu
 
 ---
 
-[[1]](#_ftnref1)      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.347-348.
+1      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.347-348.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Inpres](https://soehartolibrary.id/tag/inpres/), [Kesehatan](https://soehartolibrary.id/tag/kesehatan/), [Pasar](https://soehartolibrary.id/tag/pasar/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Reboisasi](https://soehartolibrary.id/tag/reboisasi/), [SD](https://soehartolibrary.id/tag/sd/)

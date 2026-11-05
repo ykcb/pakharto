@@ -41,7 +41,7 @@ relasi:
 
 4 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/arif-bijaksana-dan-rendah-hati-bagian-2/#respond)  193 Views Share on
 
-# Arif, Bijaksana dan Rendah Hati (Bagian 2)[[1]](#_ftn1)
+# Arif, Bijaksana dan Rendah Hati (Bagian 2)1
 
 ## Penyelesaian Kasus Proyek Besi Baja PT Krakatau Steel
 
@@ -77,8 +77,8 @@ Dalam mengakhiri uraian saya mengenai masalah PT Krakatau Steel ini, saya ingin 
 
 ---
 
-[[1]](#_ftnref1)     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
+1     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
 
-[[2]](#_ftnref2)     Menteri Keuangan dalam Kabinet Pembangunan V
+2     Menteri Keuangan dalam Kabinet Pembangunan V
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Tinggal Landas](https://soehartolibrary.id/category/tinggal-landas/)  [Baja](https://soehartolibrary.id/tag/baja/), [Cilegon](https://soehartolibrary.id/tag/cilegon/), [JB Sumarlin](https://soehartolibrary.id/tag/jb-sumarlin/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [PT. Krakatau Steel](https://soehartolibrary.id/tag/pt-krakatau-steel/)

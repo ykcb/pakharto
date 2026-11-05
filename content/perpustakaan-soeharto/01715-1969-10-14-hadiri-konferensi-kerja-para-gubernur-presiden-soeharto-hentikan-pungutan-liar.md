@@ -47,7 +47,7 @@ relasi:
 
 # Hadiri Konferensi Kerja Para Gubernur, Presiden Soeharto: Hentikan Pungutan Liar
 
-## Adakan Pertemuan Konsultasi Dengan  NU, PNI dan Parkindo[[1]](#_ftn1)
+## Adakan Pertemuan Konsultasi Dengan  NU, PNI dan Parkindo1
 
 SELASA, 14 OKTOBER 1969 Presiden Soeharto dalam amanatnya pada pembukaan konferensi kerja para gubernur seluruh Indonesia di lstana Negara mengharapkan agar pemilihan umum nanti dapat menjamin dipertahankannya Pancasila dan UUD 1945. Ia juga mengharapkan agar pemilihan umum tidak akan mengganggu kelancaran pelaksanaan Pelita dan sekaligus menuju penyederhanaan struktur politik untuk lebih memperkuat stabilisasi politik. Oleh karena itu yang menjadi perhatian sekarang ini ialah bagaimana mengamankan dan menyukseskan pemilihan umum itu, baik ditinjau dari segi perundang-undangan, pembiayaan maupun persiapan-persiapan lain. Presiden juga meminta agar para gubernur memberikan gambaran yang lebih jelas mengenai persoalan-persoalan dan kesulitan­kesulitan yang dihadapi di daerah masing-masing, baik mengenai pelaksanaan pembangunan maupun mengenai masalah pemerintahan pada umumnya. Kemudian Presiden menginstruksikan semua gubernur untuk menghentikan segala macam pungutan liar di daerahnya yang selama ini dilakukan dengan segala macam dalih.
 
@@ -57,6 +57,6 @@ Secara berturut-turut malam ini Presiden Soeharto mengadakan pertemuan konsultas
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 165-166. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 165-166. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Gubernur](https://soehartolibrary.id/tag/gubernur/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [NU](https://soehartolibrary.id/tag/nu/), [Parkindo](https://soehartolibrary.id/tag/parkindo/), [PNI](https://soehartolibrary.id/tag/pni/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Pungutan Liuar](https://soehartolibrary.id/tag/pungutan-liuar/), [Rapar kerja](https://soehartolibrary.id/tag/rapar-kerja/)

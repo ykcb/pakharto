@@ -43,12 +43,12 @@ relasi:
 
 # Presiden Soeharto Hadiri Peringatan Isra’ Mi’raj di Masjid Istiqlal
 
-## Singgung RUU Perkawinan[[1]](#_ftn1)
+## Singgung RUU Perkawinan1
 
 MINGGU, 26 AGUSTUS 1973, Presiden Soeharto menghadiri acara peringtatan Isra’ Mi’raj yang berlangsung di Masjid Istiqlal malam ini. Dalam pidatonya, antara lain Presiden membantah isyu-isyu yang menyatakan bahwa RUU Perkawinan bertentangan dnegan dan mengabaikan ajaran Islam. Menyangkut masalah RUU Perkawinan yang sedang dibahas oleh DPR itu, ia meminta agar kita sebagai orang yang beragama dapat menahan diri. Selanjutnya kepada DPR ia mengharapkan agar lembaga legislatif ini dapat menyelesaikan RUU tersebut dengan memperhatikan kepentingan masyarakat banyak. (AFR)
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 46. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 46. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Isra'](https://soehartolibrary.id/tag/isra/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Mi'raj](https://soehartolibrary.id/tag/miraj/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [RUU Perkawinan](https://soehartolibrary.id/tag/ruu-perkawinan/)

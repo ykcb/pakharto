@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto: Parpol Harus Manunggal Dengan Suka Duka Rakyat
 
-## (Parpol Juga Harus Memiliki Konsep Jalan Keluar Atas Masalah-Masalah Kemasyarakatan)[[1]](#_ftn1)
+## (Parpol Juga Harus Memiliki Konsep Jalan Keluar Atas Masalah-Masalah Kemasyarakatan)1
 
 SENIN, 12 April 1976, Menteri Perhubungan Emil Salim pagi ini menghadap Presiden Soeharto di Istana Merdeka. Dalam pertemuan ini telah dibahas usaha-usaha pemerintah untuk menurunkan tarif pelabuhan dalam rangka mendorong ekspor. Kepada Menteri Emil Salim, Presiden memberikan pengarahan agar penurunan tarif pelabuhan itu tidak memberikan dampak negatif terhadap penghasilan buruh, malah sebaliknya harus meningkatkan kesejahteraan mereka.
 
@@ -50,6 +50,6 @@ Partai Politik dan Golongan Karya bukan hanya mempunyai hak hidup dalam Demokras
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 353-354.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 353-354.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ekspor](https://soehartolibrary.id/tag/ekspor/), [Emil Salim](https://soehartolibrary.id/tag/emil-salim/), [Golkar](https://soehartolibrary.id/tag/golkar/), [Parpol](https://soehartolibrary.id/tag/parpol/), [PDI](https://soehartolibrary.id/tag/pdi/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Usep Ranuwidjaja](https://soehartolibrary.id/tag/usep-ranuwidjaja/)

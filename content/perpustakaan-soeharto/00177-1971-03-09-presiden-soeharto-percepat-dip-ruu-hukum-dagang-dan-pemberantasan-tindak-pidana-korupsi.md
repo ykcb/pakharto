@@ -49,7 +49,7 @@ relasi:
 
 # Presiden Soeharto: Percepat DIP, RUU Hukum Dagang dan Pemberantasan Tindak Pidana Korupsi
 
-## (Kelancaran Koordinasi Antar Deprtemen dalam Penyusunan DIP)[[1]](#_ftn1)
+## (Kelancaran Koordinasi Antar Deprtemen dalam Penyusunan DIP)1
 
 SELASA, 9 Maret 1971, Presiden menginstruksikan kepada para menteri agar sebelum tanggal 1 April 1871, semua departemen harus sudah menyelesikan DIP. Dalam hubungan ini Jenderal soeharto meminta kepada departemen-departemen, Bappenas, dan Departemen Keuangan, agar mengadakan koordinasi yang lebih lancar dalam menyelesaikan DIP ini. Hal ini dikemukakan oleh Presiden Soeharto dalam sidang Stabilisasi Ekonomi di Bina Graha pagi ini, sebagai reaksinya atas belum selesai atau lengkapnya DIP di beberapa departemen.
 
@@ -59,6 +59,6 @@ Dalam sidang ini, Presiden telah menyetujui rencana Bank Indonesia untuk memberi
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 311
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 311
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Dagang](https://soehartolibrary.id/tag/dagang/), [Departemen](https://soehartolibrary.id/tag/departemen/), [DIP](https://soehartolibrary.id/tag/dip/), [Hukum](https://soehartolibrary.id/tag/hukum/), [Korupsi](https://soehartolibrary.id/tag/korupsi/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pidana](https://soehartolibrary.id/tag/pidana/), [Presiden](https://soehartolibrary.id/tag/presiden/), [RUU](https://soehartolibrary.id/tag/ruu/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Tindak](https://soehartolibrary.id/tag/tindak/)

@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut Pertamina
 
-## (Perdagangan Internasional Harus Persempit Jurang Pemisah Negara Kaya-Miskin )[[1]](#_ftn1)
+## (Perdagangan Internasional Harus Persempit Jurang Pemisah Negara Kaya-Miskin )1
 
 RABU, 3 MARET  1976, Menteri Perdagangan dan Industri Kanada, Donald C Jamieson, diterima oleh Presiden Soeharto selama satu jam di Cendana pagi ini. Pada kesempatan itu Kepala Negara mengatakan kepada tamunya bahwa pemerintah Indonesia menyambut baik adanya usaha untuk meningkatkan hubungan dagang antar kedua negara, sebab peluang untuk itu memang terbuka lebar. Dalam hubungan ini, Presiden mengharapkan agar para pengusaha Kanada dan Indonesia berusaha untuk mencapai dua sasaran. Kedua sasaran itu adalah, pertama, pengembangan perdagangan itu sendiri. Kedua, peningkatan keahlian pengusaha Indonesia dalam bidang perdagangan internasional.
 
@@ -60,6 +60,6 @@ Ikut hadir dan menyaksikan penjelasan Jenderal Soeharto hari ini adalah para pel
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.343-344.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.343-344.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Ibnu Sutowo](https://soehartolibrary.id/tag/ibnu-sutowo/), [Kanda](https://soehartolibrary.id/tag/kanda/), [Konferensi Paris](https://soehartolibrary.id/tag/konferensi-paris/), [Negara Kaya](https://soehartolibrary.id/tag/negara-kaya/), [negara Miskin](https://soehartolibrary.id/tag/negara-miskin/), [PertaminaMenteri Perdagangan](https://soehartolibrary.id/tag/pertaminamenteri-perdagangan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Supersemar](https://soehartolibrary.id/tag/supersemar/)

@@ -149,10 +149,10 @@ Di Solo pun ternyata tidak ada pekerjaan. Maka saya kembali ke Wuryantoro. Waktu
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 6-18.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 6-18.
 
-[[2]](#_ftnref2)  *Citratani*
+2  *Citratani*
 
-[[3]](#_ftnref3) Pedagang Kecil
+3 Pedagang Kecil
 
  [Masa Kecil](https://soehartolibrary.id/category/biografi/masa-kecil/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [kemusuk](https://soehartolibrary.id/tag/kemusuk/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden SDoeharto](https://soehartolibrary.id/tag/presiden-sdoeharto/), [silsilah](https://soehartolibrary.id/tag/silsilah/), [Wonogiri](https://soehartolibrary.id/tag/wonogiri/), [Wuryantoro](https://soehartolibrary.id/tag/wuryantoro/)

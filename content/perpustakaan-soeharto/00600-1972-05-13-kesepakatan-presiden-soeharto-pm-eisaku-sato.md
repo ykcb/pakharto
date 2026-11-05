@@ -36,7 +36,7 @@ relasi:
 
 # 1972-05-13 Kesepakatan Presiden Soeharto-PM Eisaku Sato
 
-# Kesepakatan Presiden Soeharto-PM Eisaku Sato[[1]](#_ftn1)
+# Kesepakatan Presiden Soeharto-PM Eisaku Sato1
 
 SABTU, 13 Mei 1972, Pembicaraan-pembicaraan yang dilakukan Presiden Soeharto selama kunjungannya di Jepang terungkap didalam pernyataan bersama pemerintah Indonesia dan Jepang yang dikeluarkan hari ini secara serentak di Tokyo maupun di Jakarta. Pembicaraan-pembicaraan tersebut menyangkut bidang politik dan ekonomi, baik yang bersifat bilateral, regional maupun internasional. Menyangkut hubungan kedua negara, dalam pernyataan tersebut Presiden Soeharto dan PM Sato mengatakan bahwa keduanya menyaksikan dengan puas kemajuan-kemajuan besar yang hingga kini telah tercapai dalam rangka bantguan resmi Jepang kepada Indonesia, dan menegaskan kembali perlunya kerjasama ini ditingkatkan di tahun-tahun mendatang. Dalam hubungan ini Presiden Soeharto mencatat kebutuhan Jepang akan minyak yang berkadar belerang rendah guna menanggulangi masalah pengotoran lingkungan yang semakin gawat dalam rangka usaha Jepang untuk menyelaraskan berbagai segi pembangunan ekonomi dan sosialnya. Untuk ini Presiden Soeharto telah menegaskan bahwa pemerintah Indonesia akan menyediakan fasilitas-fasilitas yang diperlukan untuk mengadakan minyak berkadar belerang rendah kepada Jepang sejumlah 58 juta kiloliter untuk masa waktu 10 tahun, *supplay* mana adalah di luar *supplay* melalui saluran-saluran komersial yang sekarang sudah berjalan.
 
@@ -48,6 +48,6 @@ Berdasarkan penuturan Koos Arumdanie, seorang mantan wartawati Istana Negara pad
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 439.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 439.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Eisaku Sato](https://soehartolibrary.id/tag/eisaku-sato/), [Jepang](https://soehartolibrary.id/tag/jepang/), [Minyak](https://soehartolibrary.id/tag/minyak/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

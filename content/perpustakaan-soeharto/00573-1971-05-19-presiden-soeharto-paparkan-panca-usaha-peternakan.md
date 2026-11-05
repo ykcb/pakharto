@@ -38,7 +38,7 @@ relasi:
 
 # 1971-05-19 Presiden Soeharto Paparkan Panca Usaha Peternakan
 
-# Presiden Soeharto Paparkan Panca Usaha Peternakan[[1]](#_ftn1)
+# Presiden Soeharto Paparkan Panca Usaha Peternakan1
 
 RABU, 19 Mei 1971, Bertempat di halaman parkir Wisma Tamu Istana, Presiden Soeharto membuka pameran dan kontes unggas. Dalam sambutannya Presiden antara lain mengatakan bahwa ayam dan telur dapat merupakan suatu kekuatan untuk lebih menggerakkan pertumbuhan ekonomi nasional kita, dalam meningkatkan pendapatan masyarakat dan sekaligus dapat memperbaiki mutu makanan yang sehat bagi rakyat. Hampir seluruh masyarakat sejak lama telah beternak ayam dan peternakan ayam yang dilakukan oleh masyarakat itu masih sangat sederhana dan tidak sungguh-sungguh, padahal potensinya sungguh besar. Usaha-usaha tersebut terus didorong pemerintah, sebab tanpa perhatian pemerintah, masa depan peternak ayam pasti suram.
 
@@ -48,6 +48,6 @@ Presiden Soeharto mangungkapkan bahwa dalam lima tahun ini, pemerintah mencadang
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 329.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 329.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Ekonomi Nasional](https://soehartolibrary.id/tag/ekonomi-nasional/), [pameran](https://soehartolibrary.id/tag/pameran/), [Pertumbuhan](https://soehartolibrary.id/tag/pertumbuhan/), [peternakan](https://soehartolibrary.id/tag/peternakan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Unggas](https://soehartolibrary.id/tag/unggas/)

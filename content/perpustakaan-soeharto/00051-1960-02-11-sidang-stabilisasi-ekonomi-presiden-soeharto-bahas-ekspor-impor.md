@@ -46,6 +46,6 @@ SELASA, 11 FEBRUARI 1969. Presiden Soeharto memimpin sidang Sub Dewan Stabilisas
 
 ---
 
-[[1]](#_ftnref1)     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003
+1     Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Dewan](https://soehartolibrary.id/tag/dewan/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [gotong](https://soehartolibrary.id/tag/gotong/), [inmas](https://soehartolibrary.id/tag/inmas/), [royong](https://soehartolibrary.id/tag/royong/), [Stabilisasi](https://soehartolibrary.id/tag/stabilisasi/), [Sub](https://soehartolibrary.id/tag/sub/)

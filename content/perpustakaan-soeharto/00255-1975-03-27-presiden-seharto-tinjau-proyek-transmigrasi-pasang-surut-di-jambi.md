@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Seharto Tinjau Proyek Transmigrasi Pasang Surut di Jambi
 
-## (Sumbangan Transmigran dalam Pengadaan Pangan Bangsa)[[1]](#_ftn1)
+## (Sumbangan Transmigran dalam Pengadaan Pangan Bangsa)1
 
 KAMIS, 27 MARET  1975, Setiba di Jambi hari ini, Presiden Soeharto dan robongan meninjau proyek transmigrasi pasang surut di Rantau Rasau. Di proyek transmigrasi ini, Presiden telah menyerahkan sejumlah hadiah kepada para transmigran. Hadiah tersebut berupa bibit kedelai jenis Orba, bibit padi varitas unggul, itik alabio, seperangkat mesin *huller*, dan alat-alat untuk keperluan keluarga berencana. Pada kesempatan itu Kepala Negara mengatakan bahwa proyek transmigrasi pasang surut ini sangat baik dan mempunyai prospek yang bagus, meskipun masih menhgadapi banyak tantangan didalam usaha untuk mengembangkannya.
 
@@ -47,6 +47,6 @@ Selanjutnya Kepala Negara meminta agar transmigran menggarap tanah secara semest
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.228-229.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.228-229.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Jambi](https://soehartolibrary.id/tag/jambi/), [Pangan Nasional](https://soehartolibrary.id/tag/pangan-nasional/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Transmigrasi](https://soehartolibrary.id/tag/transmigrasi/)

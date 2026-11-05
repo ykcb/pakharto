@@ -36,7 +36,7 @@ relasi:
 
 11 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [1 Comment](https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-1/#comments)  155 Views Share on
 
-# Tegas, Konsisten, Tetapi Luwes (Bagian 1) [[1]](#_ftn1)
+# Tegas, Konsisten, Tetapi Luwes (Bagian 1) 1
 
 ## Sjarif Thajeb **[**[2]**](#_ftn2)**
 
@@ -80,8 +80,8 @@ Di Istana Bogor, Pak Harto diterima lebih dahulu oleh Bung Karno, seperempat jam
 
 ---
 
-[[1]](#_ftnref1) Sjarif Thajeb, ” Tegas, Konsisten, Tetapi Luwes “, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 689-700.
+1 Sjarif Thajeb, ” Tegas, Konsisten, Tetapi Luwes “, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 689-700.
 
-[[2]](#_ftnref2)  Letjen. (Purn.) TNI; dalam tugas kenegaraannya pernah menjabat Menteri PTIP, Wakil Ketua DPR-GR, Dubes RI untuk Amerika Serikat dan Brazil, Menteri P danK, kemudian anggota DPA
+2  Letjen. (Purn.) TNI; dalam tugas kenegaraannya pernah menjabat Menteri PTIP, Wakil Ketua DPR-GR, Dubes RI untuk Amerika Serikat dan Brazil, Menteri P danK, kemudian anggota DPA
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/)  [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sjarif Thajeb](https://soehartolibrary.id/tag/sjarif-thajeb/)

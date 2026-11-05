@@ -42,9 +42,9 @@ relasi:
 
 28 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/kemantapan-dalam-keseimbangan-bagian-ketiga/#respond)  123 Views Share on
 
-# Kemantapan Dalam Keseimbangan (Bagian Ketiga)[[1]](#_ftn1)
+# Kemantapan Dalam Keseimbangan (Bagian Ketiga)1
 
-## Ali Alatas[[2]](#_ftn2)
+## Ali Alatas2
 
 Ada satu kejadian lain yang saya kira menarik untuk diungkapkan pula, karena khas mencirikan suatu segi kepribadian Pak Harto.
 
@@ -68,8 +68,8 @@ Kemantapan dalam keseimbangan, itulah jati diri Republik Indonesia yang kiranya 
 
 ---
 
-[[1]](#_ftnref1) Ali Alatas, “Kemantapan Dalam Keseimbangan”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 48-58.
+1 Ali Alatas, “Kemantapan Dalam Keseimbangan”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 48-58.
 
-[[2]](#_ftnref2) Menteri Luar Negeri dalam Kabinet Pembangunan V.
+2 Menteri Luar Negeri dalam Kabinet Pembangunan V.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Ali Alatas](https://soehartolibrary.id/tag/ali-alatas/), [Bebas Aktif](https://soehartolibrary.id/tag/bebas-aktif/), [Non Blok](https://soehartolibrary.id/tag/non-blok/), [Presidedn Soeharto](https://soehartolibrary.id/tag/presidedn-soeharto/)

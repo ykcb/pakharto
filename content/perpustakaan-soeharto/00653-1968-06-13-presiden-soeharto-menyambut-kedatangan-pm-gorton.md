@@ -36,7 +36,7 @@ relasi:
 
 # 1968-06-13 Presiden Soeharto Menyambut Kedatangan PM Gorton
 
-## Presiden Soeharto Menyambut Kedatangan PM Gorton[[1]](#_ftn1)
+## Presiden Soeharto Menyambut Kedatangan PM Gorton1
 
 KAMIS, 13 JUNI 1968, Presiden dan Ibu Soeharto sore ini menyambut kedatangan PM Australia, John Gorton, dan rombongan di Pelabuhan Udara Kemayoran. PM dan Nyonya Gorton mengadakan kunjungan resmi selama dua hari di Indonesia atas undangan Presiden Soeharto. Dalam pidato selamat datangnya, Presiden Soeharto antara lain mengatakan bahwa rakyat Indonesia selalu teringat akan rakyat Australia, terutama atas simpati dan bantuan nyata pada saat bangsa Indonesia merebut kemerdekaan. Jenderal Soeharto mengharapkan bahwa kunjungan ini merupakan lembaran baru bagi persahabatan yang tulus dan ikhlas dan kerjasama yang saling menguntungkan antara kedua bangsa.
 
@@ -44,6 +44,6 @@ Pada malam harinya, bertempat di Istana Merdeka, Presiden dan Ibu Soeharto menye
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 22-23.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 22-23.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [John Gorton](https://soehartolibrary.id/tag/john-gorton/), [Kemayoran](https://soehartolibrary.id/tag/kemayoran/), [PM Australia](https://soehartolibrary.id/tag/pm-australia/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

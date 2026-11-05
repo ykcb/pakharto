@@ -41,7 +41,7 @@ relasi:
 
 # 1968-06-14 Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat Perdamaian Dunia
 
-# Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat Perdamaian Dunia[[1]](#_ftn1)
+# Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat Perdamaian Dunia1
 
 JUM’AT, 14 JUNI 1968, Presiden Soeharto pagi ini mengadakan perundingan resmi dengan PM Australia, John Gorton, bertempat di Istana Merdeka. Hasil perundingan resmi ini telah diumumkan sore ini dalam bentuk komunike bersama. Dalam komunike itu, kedua kepala pemerintahan menyatakan bahwa stabilisasi dan kemajuan di Asia dan Pasifik merupakan prasyarat bagi perdamaian dunia. kedua pemimpin itu sepakat bahwa Australia dan Indonesia hendaknya mengadakan kerjasama erat untuk mencapai tujuan-tujuan stabilisasi dan kemajuan kedua negara. Mereka juga mengakui pentingnya kerjasama regional di bidang-bidang yang luas bagi kehidupan nasional masing-masing.
 
@@ -49,6 +49,6 @@ Malam ini Presiden dan Ibu Soeharto menghadiri jamuan makan malam yang di adakan
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 23.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 23.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Asia](https://soehartolibrary.id/tag/asia/), [John Gorton](https://soehartolibrary.id/tag/john-gorton/), [Pasifik](https://soehartolibrary.id/tag/pasifik/), [Perdamaian](https://soehartolibrary.id/tag/perdamaian/), [PM Australia](https://soehartolibrary.id/tag/pm-australia/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

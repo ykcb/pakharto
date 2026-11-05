@@ -43,9 +43,9 @@ relasi:
 
 # J.B. Sumarlin Si Cabe Rawit
 
-# Oh, Ini Si Cabe Rawit[[1]](#_ftn1)
+# Oh, Ini Si Cabe Rawit1
 
-## J.B. Sumarlin[[2]](#_ftn2)
+## J.B. Sumarlin2
 
 Saya cukup terkejut ketika pertama kali bersalaman dengan Pak Harto di tahun 1971. Saya tak menyangka bahwa tokoh yang namanya sudah banyak saya dengar sejak masih menjadi anggota tentara pelajar (TP) di tahun 1948 itu berkomentar, “Oh, ini si Cabe Rawit”. Rupanya diam-diam Pak Harto sudah memperhatikan, bahkan telah memiliki julukan untuk saya.
 
@@ -175,10 +175,10 @@ Tiga sa itu benar-benar tercermin dari kepribadian Pak Harto. Selama membantu be
 
 ---
 
-[[1]](#_ftnref1)       Penuturan J.B. Sumarlin sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 154-163.
+1       Penuturan J.B. Sumarlin sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 154-163.
 
-[[2]](#_ftnref2)       Johanas Baptista Sumarlin, lahir di Nglegok, Blitar, Jawa Timur tanggal 7 Desember 1932. Lulus Fakultas Ekonomi Universitas Indonesia pada 1950, Sumarlin melanjutkan pendidikan di University of California, Berkeley, Amerika pada 1960, dan meraih doktor di Universitas of Pittsburg pada 1968. Sempat mengajar di almamaternya, Sumarlin kemudian menjadi Wakil Ketua Bappenas, berlanjut Menteri Keuangan, hingga terakhir Ketua Badan Pemeriksa Keuangan 1993-1998. Ia memperoleh Bintang Mahaputra Adipradana III pada 1973.
+2       Johanas Baptista Sumarlin, lahir di Nglegok, Blitar, Jawa Timur tanggal 7 Desember 1932. Lulus Fakultas Ekonomi Universitas Indonesia pada 1950, Sumarlin melanjutkan pendidikan di University of California, Berkeley, Amerika pada 1960, dan meraih doktor di Universitas of Pittsburg pada 1968. Sempat mengajar di almamaternya, Sumarlin kemudian menjadi Wakil Ketua Bappenas, berlanjut Menteri Keuangan, hingga terakhir Ketua Badan Pemeriksa Keuangan 1993-1998. Ia memperoleh Bintang Mahaputra Adipradana III pada 1973.
 
-[[3]](#_ftnref3)  Mengendap
+3  Mengendap
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [BJ. Habibie](https://soehartolibrary.id/tag/bj-habibie/), [hama wereng cokelat](https://soehartolibrary.id/tag/hama-wereng-cokelat/), [JB Sumarlin](https://soehartolibrary.id/tag/jb-sumarlin/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [PAL](https://soehartolibrary.id/tag/pal/), [Pertamina](https://soehartolibrary.id/tag/pertamina/), [Pesawat Kepresidenan](https://soehartolibrary.id/tag/pesawat-kepresidenan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

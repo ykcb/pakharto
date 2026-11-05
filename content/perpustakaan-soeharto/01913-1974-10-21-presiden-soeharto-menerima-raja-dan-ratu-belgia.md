@@ -39,7 +39,7 @@ relasi:
 
 15 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1974-10-21-presiden-soeharto-menerima-raja-dan-ratu-belgia/#respond)  82 Views Share on
 
-# Presiden Soeharto Menerima Raja dan Ratu Belgia[[1]](#_ftn1)
+# Presiden Soeharto Menerima Raja dan Ratu Belgia1
 
 SENIN, 21 OKTOBER 1974 Raja Boudewijn dan Ratu Fabiola dari Belgia tiba di Jakarta hari ini untuk memulai kunjungan kenegaraan di Indonesia. Di lapangan udara internasional Halim Perdanakusuma, tamu negara itu disambut oleh Presiden dan Ibu Soeharto, para menteri, pimpinan lembaga-lembaga tinggi negara, dan korps diplomatik. Tamu negara itu akan berada di Indonesia selama  13 hari.
 
@@ -49,6 +49,6 @@ Sementara itu, dalam pidato balasannya, Raja Boudewijn mengatakan bahwa dalam ra
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 166-167. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 166-167. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Bali](https://soehartolibrary.id/tag/bali/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [MEE](https://soehartolibrary.id/tag/mee/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Raja dan Ratu Belgia](https://soehartolibrary.id/tag/raja-dan-ratu-belgia/)

@@ -37,7 +37,7 @@ relasi:
 
 27 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1978-09-21-presiden-soeharto-menerima-pm-vietnam-pham-van-dong/#respond)  105 Views Share on
 
-# Presiden Soeharto Menerima PM Vietnam Pham Van Dong [[1]](#_ftn1)
+# Presiden Soeharto Menerima PM Vietnam Pham Van Dong 1
 
 KAMIS, 21 SEPTEMBER 1978 Pukul 10.00 pagi ini, bertempat di Istana Merdeka, Presiden Soeharto mengadakan pembicaraan resmi dengan PM Vietnam, Pham Van Dong. Dalam pertemuan yang berlangsung selama lebih dari dua jam itu, hadir pula Menteri Luar Negeri Mochtar Kusumaatmadja dan Menteri/Sekretaris Negara Sudharmono, di pihak Indonesia, serta Wakil Menteri Luar Negeri Vietnam, Phan Hien. Tamu negara dari Vietnam ini mendarat di Halim Perdanakusuma pada pukul 16.00 kemarin. Satu jam kemudian ia melakukan kunjungan kehormatan kepada Presiden dan Ibu Soeharto di Istana Merdeka.
 
@@ -49,6 +49,6 @@ Sementara itu, dalam pidato balasannya PM Pham Van Dong menegaskan bahwa kunjung
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 64-65. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 64-65. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Pham Van Dong](https://soehartolibrary.id/tag/pham-van-dong/), [PM Vietnam](https://soehartolibrary.id/tag/pm-vietnam/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

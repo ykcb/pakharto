@@ -36,7 +36,7 @@ relasi:
 
 # Presiden Soeharto Larang Penggunaan APBN Untuk Pesta
 
-## (Keputusan Presiden No. 14 tahun 1976)[[1]](#_ftn1)
+## (Keputusan Presiden No. 14 tahun 1976)1
 
 SELASA, 6 April 1976, Dalam rangka upaya meningkatkan penerimaan negara dari sektor perpajakan, hari ini Presiden menetapkan bahwa semua departemen/instansi/lembaga/bendaharawan/perusahaan milik negara wajib menyampaikan bahan-bahan keterangan untuk keperluan perpajakan kepada Departemen Keuangan. Kewajiban ini tercantum dalam Keputusan Presiden No. 14 tahun 1976 yang dikeluarkan pada hari ini. Dalam Keputusan Presiden ini juga pemerintah melarang penggunaan anggaran belanja untuk enam hal berikut.
 
@@ -44,6 +44,6 @@ Pertama, perayaan/peringatan hari besar/hari raya/hari ulang tahun/hari jadi dep
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 353.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 353.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [APBN](https://soehartolibrary.id/tag/apbn/), [Kepres No. 14 tahun 1976](https://soehartolibrary.id/tag/kepres-no-14-tahun-1976/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

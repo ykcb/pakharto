@@ -39,7 +39,7 @@ relasi:
 
 13 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis/#respond)  127 Views Share on
 
-# Tegas, Konsisten, Tetapi Luwes (Bagian 2, Habis) [[1]](#_ftn1)
+# Tegas, Konsisten, Tetapi Luwes (Bagian 2, Habis) 1
 
 ## Sjarif Thajeb **[**[2]**](#_ftn2)**
 
@@ -97,8 +97,8 @@ Menutup tulisan ini saya ingin memaparkan kisah lain sebagai penguat kesan di at
 
 ---
 
-[[1]](#_ftnref1) Sjarif Thajeb, ” Tegas, Konsisten, Tetapi Luwes “, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 689-700.
+1 Sjarif Thajeb, ” Tegas, Konsisten, Tetapi Luwes “, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 689-700.
 
-[[2]](#_ftnref2)  Letjen. (Purn.) TNI; dalam tugas kenegaraannya pernah menjabat Menteri PTIP, Wakil Ketua DPR-GR, Dubes RI untuk Amerika Serikat dan Brazil, Menteri P danK, kemudian anggota DPA
+2  Letjen. (Purn.) TNI; dalam tugas kenegaraannya pernah menjabat Menteri PTIP, Wakil Ketua DPR-GR, Dubes RI untuk Amerika Serikat dan Brazil, Menteri P danK, kemudian anggota DPA
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/)  [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sjarif Thajeb](https://soehartolibrary.id/tag/sjarif-thajeb/)

@@ -40,7 +40,7 @@ relasi:
 
 # 1971-05-05 Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil Perjuangan
 
-# Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil Perjuangan[[1]](#_ftn1)
+# Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil Perjuangan1
 
 RABU, 5 Mei 1971, Pada jam 9.00 pagi ini Presiden Soeharto menerima kedatangan Menteri Luar Negeri Australia, LHE Bury, di Istana Merdeka. Hubungan ekonomi kedua negara merupakan pokok pembicaraan dalam pertemuan itu. Selain itu, Menteri Luar Negeri Bury menyampaikan undangan pemerintah Australia kepada Presiden Soeharto untuk dapat berkunjung ke Negeri Kangguru tersebut dalam tahun ini. Presiden Soeharto menerima baik undangan ini namun belum dapat menentukan waktu kunjungannya.
 
@@ -48,6 +48,6 @@ Sementara itu di tempat yang sama, pukul 12.00 siang, Presiden dan Ibu Tien Soeh
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 325.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 325.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Federasi](https://soehartolibrary.id/tag/federasi/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Perjuangan](https://soehartolibrary.id/tag/perjuangan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Rakyat](https://soehartolibrary.id/tag/rakyat/), [Tuna Netra](https://soehartolibrary.id/tag/tuna-netra/)

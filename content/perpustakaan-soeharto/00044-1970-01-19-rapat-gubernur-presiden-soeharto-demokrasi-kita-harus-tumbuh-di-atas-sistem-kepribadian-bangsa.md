@@ -62,6 +62,6 @@ Pada kesempatan tersebut Presiden Soeharto juga menyinggung soal kenaikan harga 
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Bapak Pembangunan](https://soehartolibrary.id/tag/bapak-pembangunan/), [Bina Graha](https://soehartolibrary.id/tag/bina-graha/), [Cendana](https://soehartolibrary.id/tag/cendana/), [Demokrasi](https://soehartolibrary.id/tag/demokrasi/), [DKI](https://soehartolibrary.id/tag/dki/), [GBHN](https://soehartolibrary.id/tag/gbhn/), [Gubernur](https://soehartolibrary.id/tag/gubernur/), [Indonesia](https://soehartolibrary.id/tag/indonesia/), [Istana Merdeka](https://soehartolibrary.id/tag/istana-merdeka/), [Jakarta](https://soehartolibrary.id/tag/jakarta/), [Macan Asia](https://soehartolibrary.id/tag/macan-asia/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Rapat](https://soehartolibrary.id/tag/rapat/), [repelita](https://soehartolibrary.id/tag/repelita/), [tinggal landas](https://soehartolibrary.id/tag/tinggal-landas-2/)

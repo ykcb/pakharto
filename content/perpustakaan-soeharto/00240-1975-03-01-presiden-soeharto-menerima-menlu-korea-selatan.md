@@ -37,7 +37,7 @@ relasi:
 
 # Presiden Soeharto Menerima Menlu Korea Selatan
 
-## (Soal  Perjanjian Perbatasan dengan Filipina dibahas dengan Panggabean)[[1]](#_ftn1)
+## (Soal  Perjanjian Perbatasan dengan Filipina dibahas dengan Panggabean)1
 
 SABTU, 1 MARET  1975, Menteri Luar Negeri Korea Selatan, Dr. Kim Dong Jo, jam 09.00 pagi mengadakan kunjungan kehormatan kepada Presiden Soeharto di Istana Merdeka. Kesempatan itu telah dipergunakan oleh kedua pemimpin untuk saling bertukar fikiran mengenai pelbagai masalah yang menyangkut hubungan  bilateral kedua negara, disamping masalah perdamaian Asia Tenggara. Kepada Menteri Luar Negeri Korea Selatan  itu Kepala Negara antara lain telah menjelaskan mengenai kebijaksanaan yang telah dan akan ditempuh oleh pemerintah Indonesia dalam pembangunan dan usaha mencapai kesejahteraan rakyat. Pada kesempatan itu pula Presiden telah menyampaikan undangan kepada Presiden Korea Selatan, Park Chung Hee, untuk berkunjung ke Indonesia. Sebagaimana diketahui, sejak hubungan diplomatik terjalin antara kedua negara belum pernah dilakukan pertukaran kunjungan antara kedua kepala negara, meskipun kedua negara telah sepakat untuk meningkatkan hubungan dan kerjasama.
 
@@ -47,6 +47,6 @@ Di tempat yang sama, Presiden Soeharto siang ini mengadakan pertemuan selama sat
 
 ---
 
-[[1]](#_ftnref1)               Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.219-220.
+1               Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.219-220.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Korea Selatan](https://soehartolibrary.id/tag/korea-selatan/), [Menteri Luar Negeri](https://soehartolibrary.id/tag/menteri-luar-negeri/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

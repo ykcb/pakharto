@@ -82,6 +82,6 @@ Dalam pada itu kami sendiri pindah dari rumah di Jalan Haji Agus Salim ke rumah 
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 225-228.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 225-228.
 
  [Masa Pembangunan](https://soehartolibrary.id/category/biografi/masa-pembangunan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Jenderal Nasution](https://soehartolibrary.id/tag/jenderal-nasution/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [MPRS](https://soehartolibrary.id/tag/mprs/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Presiden Soekarno](https://soehartolibrary.id/tag/presiden-soekarno/)

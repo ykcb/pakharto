@@ -40,7 +40,7 @@ relasi:
 
 # Presiden Soeharto Menerima 52 Dalang Wayang Purwa
 
-## (Peran Dalang Membina Partisipasi Masyarakat dalam Pembangunan)[[1]](#_ftn1)
+## (Peran Dalang Membina Partisipasi Masyarakat dalam Pembangunan)1
 
 SABTU, 12 APRIL 1969, Siang ini di Istana Merdeka, Presiden Soeharto menerima 52 dalang wayang purwa dari seluruh Indonesia. Pada pertemuan itu, Presiden mengharapkan agar para dalang, melalui lakon-lakon yang dibawakan dalam wayang itu, dapat turut membina partisipasi rakyat dalam menyukseskan Pelita. Menurut Presiden, dalang mempunyai fungsi penting, sebab setiap perkataannya yang masuk ke telinga penonton langsung meresap ke sanubari. Oleh karena itu kalau hal ini dapat menggerakkan semangat rakyat ke arah tahap perjuangan kita sekarang ini, alangkah baiknya. Demikian antara lain dikatakan Presiden Soeharto kepada para dalang tersebut.
 
@@ -48,6 +48,6 @@ Di kediaman jalan Cendana, Presiden Soeharto malam ini menerima kunjungan kehorm
 
 ---
 
-[[1]](#_ftnref1)     Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 113.
+1     Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 113.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [dalang](https://soehartolibrary.id/tag/dalang/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Wayang Purwa](https://soehartolibrary.id/tag/wayang-purwa/)

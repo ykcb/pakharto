@@ -39,7 +39,7 @@ relasi:
 
 MEMPERTEMUKAN TIM PEMBERANTASAN KORUPSI
 
-(Mempertemukan Tim Pemberantasan Korupsi dengan Komisi Empat, Meminta laporan Bimas dan Penegakaan Hukum dalam Penyalahgunaan Dana Bimas)[[1]](#_ftn1)
+(Mempertemukan Tim Pemberantasan Korupsi dengan Komisi Empat, Meminta laporan Bimas dan Penegakaan Hukum dalam Penyalahgunaan Dana Bimas)1
 
 RABU, 18 PEBRUARI Presiden Soeharto telah memutuskan untuk mempertemukan Team Pemberantasan Korupsi dengan Komisi Empat. Pertemuan itu dilaksanakan besok harinya.
 
@@ -47,6 +47,6 @@ Siang harinya Presiden Soeharto memanggil Gubernur Jawa Barat, Solichin GP, untu
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [bimas](https://soehartolibrary.id/tag/bimas/), [Empat](https://soehartolibrary.id/tag/empat/), [Komisi](https://soehartolibrary.id/tag/komisi/), [Korupsi](https://soehartolibrary.id/tag/korupsi/), [Pemberantasan](https://soehartolibrary.id/tag/pemberantasan/), [Pengadilan](https://soehartolibrary.id/tag/pengadilan/)

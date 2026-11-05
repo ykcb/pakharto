@@ -46,7 +46,7 @@ relasi:
 
 20 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1977-09-10-menjadi-anggota-dpr-mashuri-melepaskan-jabatan-menteri-penerangan/#respond)  91 Views Share on
 
-# Menjadi Anggota DPR, Mashuri Melepaskan Jabatan Menteri Penerangan[[1]](#_ftn1)
+# Menjadi Anggota DPR, Mashuri Melepaskan Jabatan Menteri Penerangan1
 
 SABTU, 10 SEPTEMBER 1977 Menteri Penerangan Mashuri siang ini menghadap Presiden Soeharto di kediaman Jalan Cendana. Selesai menghadap, ia menjelaskan kepada wartawan bahwa Kepala Negara telah menyetujui pengangkatannya menjadi anggota DPR hasil pemilihan umum 1977 sebagai calon Golkar. Karena itu, jabatannya sebagai menteri harus dilepaskan.
 
@@ -54,6 +54,6 @@ Sejumlah petani peternak di Kecamatan Kalijati, Subang dan Pegaden Baru, Kabupat
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 535-536. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 535-536. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [antrax](https://soehartolibrary.id/tag/antrax/), [DPR](https://soehartolibrary.id/tag/dpr/), [Golkar](https://soehartolibrary.id/tag/golkar/), [Jawa Barat](https://soehartolibrary.id/tag/jawa-barat/), [Kabupateh Subang](https://soehartolibrary.id/tag/kabupateh-subang/), [Kecamatan Kalijati](https://soehartolibrary.id/tag/kecamatan-kalijati/), [Menteri Penerangan](https://soehartolibrary.id/tag/menteri-penerangan/), [ongole](https://soehartolibrary.id/tag/ongole/), [Pegaden Baru](https://soehartolibrary.id/tag/pegaden-baru/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Subang](https://soehartolibrary.id/tag/subang/)

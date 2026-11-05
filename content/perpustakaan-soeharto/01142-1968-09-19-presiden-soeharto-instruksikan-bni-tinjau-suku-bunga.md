@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga
 
-## Keluarkan Kebijaksanaan Pembagian Hasil Ekspor[[1]](#_ftn1)
+## Keluarkan Kebijaksanaan Pembagian Hasil Ekspor1
 
 KAMIS, 19 SEPTEMBER 1968, Presiden Soeharto hari ini mengeluarkan kebijaksanaan baru tentang pembagian hasil ekspor barang-barang golongan A seperti karet, kopra, lada dan minyak kelapa sawit, biji kelapa sawit dan timah. Kebijaksanaan baru yang termuat dalam Keppres No. 283/1968 menetapkan Bonus Ekspor sebesar 85% untuk eksportir, 5% buat Dana Devisa Negara dan 10% bagi daerah-daerah tingkat I, dalam bentuk Alokasi Devisa Otomatis (ADO).
 
@@ -52,6 +52,6 @@ Smentara itu dalam Instruksi Presiden No. 28/1968 Presiden Soeharto menginstruks
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 47-48. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 47-48. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [BNI](https://soehartolibrary.id/tag/bni/), [Bonus Ekspor](https://soehartolibrary.id/tag/bonus-ekspor/), [Ekspor](https://soehartolibrary.id/tag/ekspor/), [Instruksi Presiden](https://soehartolibrary.id/tag/instruksi-presiden/), [Keppres No. 283/1968](https://soehartolibrary.id/tag/keppres-no-2831968/), [No. 28/1968](https://soehartolibrary.id/tag/no-281968/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Suku Bunga](https://soehartolibrary.id/tag/suku-bunga/)

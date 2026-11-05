@@ -99,6 +99,6 @@ Sementara itu Presiden Soekarno mengumumkan sikap yang sama sekali lain daripada
 
 ---
 
-[[1]](#_ftnref1)        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 133-137
+1        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 133-137
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [een rimpeltje in de ocean](https://soehartolibrary.id/tag/een-rimpeltje-in-de-ocean/), [Jenderal Nasution](https://soehartolibrary.id/tag/jenderal-nasution/), [lubang buaya](https://soehartolibrary.id/tag/lubang-buaya/), [pahlawan revolusi](https://soehartolibrary.id/tag/pahlawan-revolusi/), [Pengangkatan](https://soehartolibrary.id/tag/pengangkatan/), [Presiden Soekarno](https://soehartolibrary.id/tag/presiden-soekarno/), [riak kecil](https://soehartolibrary.id/tag/riak-kecil/), [Samudera](https://soehartolibrary.id/tag/samudera/)

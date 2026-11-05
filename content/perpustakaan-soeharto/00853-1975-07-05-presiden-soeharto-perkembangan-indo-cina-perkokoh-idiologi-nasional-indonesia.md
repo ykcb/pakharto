@@ -47,7 +47,7 @@ relasi:
 
 # Presiden Soeharto: Perkembangan Indo-Cina Perkokoh Idiologi Nasional Indonesia
 
-## (Adakan Pembicaraan dengan Gerald Ford di Camp David)[[1]](#_ftn1)
+## (Adakan Pembicaraan dengan Gerald Ford di Camp David)1
 
 SABTU, 05 Juli 1975, Presiden Soeharto dan rombongan, pagi ini berangkat dari Ottawa menuju Toronto, sekitar 300 mil di selatan ibukota Kanada itu. Di kota ini Presiden Soeharto mengadakan pertemuan dengan para pengusaha Kanada. Dalam pertemuan tersebut, Kepala Negara antara lain menghimbau mereka untuk menanamkan modal mereka di Indonesia. Usai pertemuan, pada jam 10.00 waktu setempat, Presiden dan rombongan terbang menuju Amerika Serikat untuk suatu kunjungan selama lebih kurang lima jam.
 
@@ -61,6 +61,6 @@ Pukul 16.00 waktu setempat, Presiden Soeharto dan rombongan meninggalkan Camp Da
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 264-265. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
+1 Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 264-265. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Amerika Serikat](https://soehartolibrary.id/tag/amerika-serikat/), [Andrews](https://soehartolibrary.id/tag/andrews/), [Camp David](https://soehartolibrary.id/tag/camp-david/), [Gerald Ford](https://soehartolibrary.id/tag/gerald-ford/), [Indo-Cina](https://soehartolibrary.id/tag/indo-cina/), [Kanada](https://soehartolibrary.id/tag/kanada/), [Ottawa](https://soehartolibrary.id/tag/ottawa/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Toronto](https://soehartolibrary.id/tag/toronto/), [Washington](https://soehartolibrary.id/tag/washington/)

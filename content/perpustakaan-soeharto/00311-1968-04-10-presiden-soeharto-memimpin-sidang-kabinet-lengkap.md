@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto Memimpin Sidang kabinet Lengkap
 
-## (Ke Jepang Bukan Untuk Mencari Kredit)[[1]](#_ftn1)
+## (Ke Jepang Bukan Untuk Mencari Kredit)1
 
 RABU, 10 APRIL  1968, Hari ini Presiden Soeharto memimpin sidang kabinet lengkap. Dalam sidang tersebut Presiden telah menjelaskan maksud dan hasil kunjungan ke luar negeri baru-baru ini, disamping membahas berbagai perkembangan di dalam dan luar negeri. Menurut Presiden, kunjungannya ke Jepang dan Kamboja baru-baru ini dititikberatkan pada usaha untuk mempererat persahabatan dan menjelaskan perkembangan dalam negeri dewasa ini. Menyinggung pemberitaan sebahagiaan surat kabar bahwa kunjungan ke Jepang dilakukan untuk mencari kredit. Presiden Soeharto membantahnya dan mengatakan yang menjadi tujuan sebenarnya adalah pereratan persahabatan di antara kedua negara, disamping hubungan dengan Kamboja. (AFR)
 
@@ -51,7 +51,7 @@ Berdasarkan penuturan Koos Arumdanie, Wartawan Senior Istana pada era Presiden S
 
 ---
 
-[[1]](#_ftnref1)
+1
 
 [1]      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal.10.
 

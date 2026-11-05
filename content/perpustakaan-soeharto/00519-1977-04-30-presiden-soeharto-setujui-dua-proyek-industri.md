@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto Setujui Dua Proyek Industri
 
-## (Gubernur Ali Sadikin Serahkan Dana Supersemar)[[1]](#_ftn1)
+## (Gubernur Ali Sadikin Serahkan Dana Supersemar)1
 
 SABTU, 30 April 1977, Kantor Wilayah Departemen P dan K DKI Jakarta mengumumkan bahwa sebanyak 189 siswa kelas I, II, dan III  dari 7 STM, serta 55 siswa dari 21 SMEA di Ibukota, telah menerima beasiswa Supersemar hari ini. Penyerahan ini dilakukan Pejabat Gubernur DKI Jakarta Ali Sadikin di Gedung Balai Kota. Beasiswa yang dicanangkan Presiden Soeharto itu memberikan tunjangan belajar sebesar Rp. 6.500,- per bulannya.
 
@@ -49,6 +49,6 @@ Presiden Soeharto hari ini telah menyetujui dua buah proyek di bidang industri m
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 484.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 484.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Ali Sadikin](https://soehartolibrary.id/tag/ali-sadikin/), [Beasiswa](https://soehartolibrary.id/tag/beasiswa/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Proyek Industri](https://soehartolibrary.id/tag/proyek-industri/), [PT. Inoue Rubber](https://soehartolibrary.id/tag/pt-inoue-rubber/), [PT. NGK Busi](https://soehartolibrary.id/tag/pt-ngk-busi/), [Supersemar](https://soehartolibrary.id/tag/supersemar/)

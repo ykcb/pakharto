@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto Resmikan Kilang Minyak Putri Tujuh Dumai
 
-## Hukum dan Keadilan Salah Satu Saran Penting Orde Baru [[1]](#_ftn1)
+## Hukum dan Keadilan Salah Satu Saran Penting Orde Baru 1
 
 **RABU, 8 SEPTEMBER 1971** Masih berada di Riau, pagi ini Presiden dan lbu Tien Soeharto meresmikan kilang minyak “Putri Tujuh” yang terletak di Dumai. Kilang minyak ini mempunyai kapasitas 100.000 barel per hari, dan nanti kapasitasnya akan dapat ditingkatkan menjadi 150.000 barel. Lebih dari setengah produksi kilang minyak ini diekspor, dan sisanya untuk konsumsi  dalam  negeri.
 
@@ -53,6 +53,6 @@ Sementara itu dalam amanat tertulisnya pada pembukaan musyawarah nasional Ikahi 
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 364. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 364. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Dumai](https://soehartolibrary.id/tag/dumai/), [IKAHI](https://soehartolibrary.id/tag/ikahi/), [Kilah Minyak](https://soehartolibrary.id/tag/kilah-minyak/), [Medan](https://soehartolibrary.id/tag/medan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Putri Tujuh](https://soehartolibrary.id/tag/putri-tujuh/), [Riau](https://soehartolibrary.id/tag/riau/)

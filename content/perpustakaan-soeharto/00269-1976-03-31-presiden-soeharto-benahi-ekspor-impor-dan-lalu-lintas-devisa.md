@@ -38,7 +38,7 @@ relasi:
 
 # Presiden Soeharto Benahi Ekspor Impor dan Lalu Lintas Devisa
 
-## (Peran IAI dalam Pengembangan Pasar Modal)[[1]](#_ftn1)
+## (Peran IAI dalam Pengembangan Pasar Modal)1
 
 RABU, 31 MARET  1976, Pagi ini, pukul 09.00, Presiden Soeharto menerima para pengurus Ikatan Akuntan Indonesia (IAI) di Cendana. Selain Ketua Pengurus Pusat IAI, Drs.Radius Prawiro, dan penasehat Pengurus Pusat Prof. Sumardjo Tjiptosidojo, hadir pula pengurus-pengurus inti lainnya, yaitu Drs. Utomo Josodirjo, Drs. Basuki Sidharta, Drs. Sujono dan Drs. Soebagjo.
 
@@ -48,6 +48,6 @@ Presiden soeharto hari ini menetapkan Peraturan Pemerintah No. 11/1976 tentang p
 
 ---
 
-[[1]](#_ftnref1)  Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.349-350.
+1  Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.349-350.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ekspor Impor](https://soehartolibrary.id/tag/ekspor-impor/), [IAI](https://soehartolibrary.id/tag/iai/), [Pasar Modal](https://soehartolibrary.id/tag/pasar-modal/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto: Kerjasama Antar Ummat Beragama Bukan Sesuatu Yang Mustahil
 
-## (Jangan Ada Ummat Yang Merasa Dikalahkan atau Dimenangkan)[[1]](#_ftn1)
+## (Jangan Ada Ummat Yang Merasa Dikalahkan atau Dimenangkan)1
 
 JUM’AT, 12 MARET  1976,  Presiden Soeharto menyatakan keyakinannya bahwa kerjasama antar umat beragama  bukanlah sesuatu yang mustahil, apabila kita semua mau menerimanya dengan jiwa besar. Diungkapkannya bahwa keyakinannya itu berdasarkan pada kenyataan adanya kegiatan-kegiatan dialog antar umat beragama yang telah berlangsung di daerah-daerah selama ini. Dalam rangka itulah perlu dibentuk suatu wadah konsultasi antar umat beragama guna membicarakan hal-hal yang dihadapi umat beragama. Badan itu juga berguna untuk meningkatkan keikutsertaan umat beragama dalam proses pembangunan, memberikan sumbangan yang lebih besar kepada pembinaan stabilitas nasional, serta pemantapan persatuan dan kesatuan bangsa.
 
@@ -52,6 +52,6 @@ Demikian dikatakan Kepala Negara dalam sambutannya pada acara Maulid Nabi Besar 
 
 ---
 
-[[1]](#_ftnref1)      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.345.
+1      Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.345.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [IAIN](https://soehartolibrary.id/tag/iain/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Surabaya](https://soehartolibrary.id/tag/surabaya/), [Umat Beragama](https://soehartolibrary.id/tag/umat-beragama/), [Wadah Konsultasi](https://soehartolibrary.id/tag/wadah-konsultasi/)

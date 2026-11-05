@@ -57,6 +57,6 @@ RABU 14 JANUARI 1970, Presiden dan Ibu Soeharto malam ini bertempat di kediaman 
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Albert](https://soehartolibrary.id/tag/albert/), [Bapak Pembangunan](https://soehartolibrary.id/tag/bapak-pembangunan/), [Belgia](https://soehartolibrary.id/tag/belgia/), [Bina Graha](https://soehartolibrary.id/tag/bina-graha/), [Cendana](https://soehartolibrary.id/tag/cendana/), [Eropa](https://soehartolibrary.id/tag/eropa/), [GBHN](https://soehartolibrary.id/tag/gbhn/), [Istana Merdeka](https://soehartolibrary.id/tag/istana-merdeka/), [Kenegaraan](https://soehartolibrary.id/tag/kenegaraan/), [Macan Asia](https://soehartolibrary.id/tag/macan-asia/), [Menjamu](https://soehartolibrary.id/tag/menjamu/), [Pangeran](https://soehartolibrary.id/tag/pangeran/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [repelita](https://soehartolibrary.id/tag/repelita/), [tinggal landas](https://soehartolibrary.id/tag/tinggal-landas-2/)

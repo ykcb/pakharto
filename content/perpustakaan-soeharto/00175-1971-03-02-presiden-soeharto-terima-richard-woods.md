@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto Terima Richard Woods
 
-## (Pengawasan Perizinan Bidang-Bidang Yang Masih Terbuka Untuk Investasi Asing)[[1]](#_ftn1)
+## (Pengawasan Perizinan Bidang-Bidang Yang Masih Terbuka Untuk Investasi Asing)1
 
 SELASA, 2  Maret 1971, Jam 9.00 pagi Presiden Soeharto menerima Menteri Bantuan Luar Negeri Inggris, Richard Woods, di Istana Merdeka. Kepada Menteri Woods, Presiden secara panjang lebar telah memperjelas sikap Pemerintah Indonesia mengenai penanaman modal asing. Ia menegaskan bahwa kebijaksanaan pemerintah dalam menanamkan modal asing tetap tidak berubah. Jadi, Indonesia tetap membuka pintu bagi masuknya modal asing, sesuai dengan undang-undang yang berlaku. Ditambahkannya bahwa Indonesia akan terus merusaha meningkatkan pelayanan kepada calon-calon *investor,* walaupun tidak melupakan perlunya pengawasan terhadap penanaman modal asing yang telah disetujui. Dalam pertemuan tersebut, Presiden juga mengakui bahwa dalam bidang-bidang yang masih terbuka untuk penanaman modal asing, perizinan perlu dipermudah dan dipercepat.
 
@@ -53,6 +53,6 @@ Presiden soeharto menyetujui saran Ketua Lembaga Pemilihan Umum, Amirmachmud, un
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 310
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 310
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Asing](https://soehartolibrary.id/tag/asing/), [Investasi](https://soehartolibrary.id/tag/investasi/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pengawasan](https://soehartolibrary.id/tag/pengawasan/), [Perijinan](https://soehartolibrary.id/tag/perijinan/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Richard](https://soehartolibrary.id/tag/richard/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Woods](https://soehartolibrary.id/tag/woods/)

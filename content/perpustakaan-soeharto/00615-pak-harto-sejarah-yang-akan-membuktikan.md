@@ -38,9 +38,9 @@ relasi:
 
 # Pak Harto: Sejarah Yang Akan Membuktikan
 
-# Pak Harto:  Sejarah Yang Akan Membuktikan[[1]](#_ftn1)
+# Pak Harto:  Sejarah Yang Akan Membuktikan1
 
-### Siti Hediati Hariyadi (Mbak Titiek)[[2]](#_ftn2)
+### Siti Hediati Hariyadi (Mbak Titiek)2
 
 Di masa kecil saya, sebelum Bapak menjadi presiden, kami tinggal di Jalan H. Agus Salim, Jakarta Pusat. Rumah kami persis di depan bundaran. Sebagai Ketua RT, setiap hari Minggu Bapak mengajak kami sekeluarga ikut kerja bakti bersama-sama warga membersihkan lingkungan, baik itu got, taman, maupun pekarangan rumah sehingga kami dan tetangga saling mengenal dengan baik.
 
@@ -88,8 +88,8 @@ Saya Bangga menjadi anak Bapak.
 
 ---
 
-[[1]](#_ftnref1)       Penuturan Siti Hediati Hariyadi (Putri Presiden Soeharto)  sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 44-47.
+1       Penuturan Siti Hediati Hariyadi (Putri Presiden Soeharto)  sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 44-47.
 
-[[2]](#_ftnref2)       Siti Hediati Hariyadi lahir di Semarang, 14 April 1959, adalah seorang sarjana ekonomi lulusan Universitas Indonesia yang banyak berkecimpung di bidang yang berkaitan dengan pendidikan formalnya. Ibu dari Didit Hediprasetyo ini kini aktif di bidang sosial melalui Yayasan Supersemar dan Yayasan Purna Bhakti Pertiwi.
+2       Siti Hediati Hariyadi lahir di Semarang, 14 April 1959, adalah seorang sarjana ekonomi lulusan Universitas Indonesia yang banyak berkecimpung di bidang yang berkaitan dengan pendidikan formalnya. Ibu dari Didit Hediprasetyo ini kini aktif di bidang sosial melalui Yayasan Supersemar dan Yayasan Purna Bhakti Pertiwi.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Cendana](https://soehartolibrary.id/tag/cendana/), [Ibu Tien](https://soehartolibrary.id/tag/ibu-tien/), [Mbak Titiek](https://soehartolibrary.id/tag/mbak-titiek/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Siti Hediati Hariyadi](https://soehartolibrary.id/tag/siti-hediati-hariyadi/)

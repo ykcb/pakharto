@@ -35,7 +35,7 @@ relasi:
 
 9 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1971-10-28-presiden-soeharto-singgung-pengelompokan-partai/#respond)  77 Views Share on
 
-# Presiden Soeharto Singgung Penyederhanaa Partai[[1]](#_ftn1)
+# Presiden Soeharto Singgung Penyederhanaa Partai1
 
 KAMIS, 28 OKTOBER 1971 Apabila pengelompokan partai-partai seperti yang ada di DPR dapat dikembangkan di luarnya, maka dalam pemilihan umum pada tahun 1976 dapat dimunculkan tiga tanda gambar saja, yaitu “Kelompok Demokrasi”, “Kelompok Persatuan Pembangunan”, dan “Golkar”. Keyakinan Presiden Soeharto ini disampaikannya pada upacara pengambilan sumpah anggota-anggota baru DPR hasil pemilihan umum, hari ini di Jakarta.
 
@@ -43,6 +43,6 @@ Lebih jauh Presiden mengharapkan terwujudnya kerjasama yang serasi antara pemeri
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 377-378. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 377-378. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Pengelompokan Partai](https://soehartolibrary.id/tag/pengelompokan-partai/), [Presiden Soehartom Kepala Negara](https://soehartolibrary.id/tag/presiden-soehartom-kepala-negara/)

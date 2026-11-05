@@ -105,6 +105,6 @@ Saya tidak pernah menganggap “Supersemar” itu sebagai tujuan untuk memperole
 
 ---
 
-[[1]](#_ftnref1)        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982
+1        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Amirmachmud](https://soehartolibrary.id/tag/amirmachmud/), [Basuki Rahmat](https://soehartolibrary.id/tag/basuki-rahmat/), [Chaerul Saleh](https://soehartolibrary.id/tag/chaerul-saleh/), [M. Jusuf](https://soehartolibrary.id/tag/m-jusuf/), [PKI](https://soehartolibrary.id/tag/pki/), [Sabur](https://soehartolibrary.id/tag/sabur/), [Subandrio](https://soehartolibrary.id/tag/subandrio/), [Supersemar](https://soehartolibrary.id/tag/supersemar/)

@@ -40,9 +40,9 @@ relasi:
 
 # **Dari Zaman KNIL ke Zaman PETA[**[1]**](#_ftn1)**
 
-Tak dinyana, kesempatan datang untuk melamar masuk KNIL[[2]](#_ftn2). Pada mulanya sama sekali tidak saya kira bahwa lamaran yang saya ajukan akan merupakan anak kunci yang membuka pintu lapangan hidup yang menyenangkan. Terasa agak lama sampai saya mendapat panggilan atas lamaran saya itu. Saya ikut ujian dan ternyata lulus dan diterima.
+Tak dinyana, kesempatan datang untuk melamar masuk KNIL2. Pada mulanya sama sekali tidak saya kira bahwa lamaran yang saya ajukan akan merupakan anak kunci yang membuka pintu lapangan hidup yang menyenangkan. Terasa agak lama sampai saya mendapat panggilan atas lamaran saya itu. Saya ikut ujian dan ternyata lulus dan diterima.
 
-Waktu itu ada dua macam kesempatan masuk KNIL, yakni bisa masuk ke Dinas Panjang yang disebut *Langverband,* atau ikatan Dinas Pendek, *Kortverband.* Dinas pendek yang latihannya diadakan di Gombong, tak ubahnya dengan milisi saja, tiga tahun lamanya, tetapi bisa mendapat pensiun. Yang masuk dinas ini umumnya lulusan HIS[[3]](#_ftn3) ke atas. Yang diterima di *Langverband* ialah mereka yang dari kelas tiga sekolah dasar, malahan ada juga yang sama sekali belum sekolah. Latihannya diadakan di Depo Purworejo.
+Waktu itu ada dua macam kesempatan masuk KNIL, yakni bisa masuk ke Dinas Panjang yang disebut *Langverband,* atau ikatan Dinas Pendek, *Kortverband.* Dinas pendek yang latihannya diadakan di Gombong, tak ubahnya dengan milisi saja, tiga tahun lamanya, tetapi bisa mendapat pensiun. Yang masuk dinas ini umumnya lulusan HIS3 ke atas. Yang diterima di *Langverband* ialah mereka yang dari kelas tiga sekolah dasar, malahan ada juga yang sama sekali belum sekolah. Latihannya diadakan di Depo Purworejo.
 
 Yang mendapat latihan di Gombong bisa mendapat kesempatan untuk terus mengikuti *Kader School* dan menjadi kopral. Lulusan *Langverband* bisa masuk di batalyon, tetapi mungkin setelah sepuluh tahun baru bisa menjadi kopral. Setelah menjadi kopral bisa praktek di batalyon. Dan setelah menjadi kopral selama 5 tahun, barulah bisa ujian lagi untuk menjadi sersan. Saya masuk *Kortverband* di Gombong. Kami berlatih dari pagi sampai malam. Pengalaman ini berbeda sekali dengan sewaktu sekolah tempo hari atau pun sewaktu menjadi pembantu klerek bank. Tetapi saya menemukan kesenangan dan mulai tertarik untuk benar-benar bisa hidup dari pekerjaan ini.
 
@@ -74,7 +74,7 @@ Di tengah suasana seperti itu pelan-pelan saya sembuh kembali. Hidup sebagai pet
 
 Saya pergi ke Yogya, mengadu untung. Membosankan sekali hidup tanpa pekerjaan. Maka saya masuk kursus mengetik di Patuk, di depan asrama polisi, dengan harapan akan bisa mengatasi kejemuan saya. Tetapi sewaktu itu saya jatuh sakit lagi. Sungguh, saya dituntut untuk bersabar, penguasaan diri yang kelak pun harus saya lakukan. Pada suatu hari saya membaca pengumuman Polisi, yang menyebutkan, bahwa *Keibuho,* Polisi, menerima anggota baru. Mulanya saya ragu, apakah saya sudah aman di mata Jepang. Tetapi kemudian saya memberanikan diri. Saya mendaftar.
 
-Badan saya diperiksa. Nasib baik. Saya lulus, tak diketahuinya, bahwa saya mengidap penyakit malaria. Lalu terus saya mendapat latihan selama tiga bulan. Dengan sendirinya saya lulus dari latihan yang kebanyakan berupa baris berbaris itu, karena saya pernah berlatih sebagai kader sersan. Malahan saya lulus sebagai nomor satu. Tidak aneh. Dan karena saya lulus sebagai nomor satu itu, maka saya dijadikan tukang hilir mudik dan kemudian disuruh belajar bahasa Jepang. Lewat itu saya diberi tahu, setengah dianjurkan oleh Kepala Polisi, opsir Jepang, untuk mendaftarkan diri pada PETA[[4]](#_ftn4) yang baru dibuka.
+Badan saya diperiksa. Nasib baik. Saya lulus, tak diketahuinya, bahwa saya mengidap penyakit malaria. Lalu terus saya mendapat latihan selama tiga bulan. Dengan sendirinya saya lulus dari latihan yang kebanyakan berupa baris berbaris itu, karena saya pernah berlatih sebagai kader sersan. Malahan saya lulus sebagai nomor satu. Tidak aneh. Dan karena saya lulus sebagai nomor satu itu, maka saya dijadikan tukang hilir mudik dan kemudian disuruh belajar bahasa Jepang. Lewat itu saya diberi tahu, setengah dianjurkan oleh Kepala Polisi, opsir Jepang, untuk mendaftarkan diri pada PETA4 yang baru dibuka.
 
 Maka masuklah saya jadi PETA, lewat saringan. Tentu saja saya tidak menyebutkan diri saya bekas KNIL waktu mendaftar untuk diterima. Saya tetap jaga-jaga, jangan sampai ditangkap oleh Jepang. Seharusnya, barangkali, bekas KNIL menjadi Heiho. Melalui ujian saya diterima untuk dilatih sebagai *Shodancho.*
 
@@ -98,7 +98,7 @@ Pada pembentukan PETA ditentukan, bahwa prajurit PETA dari setiap karesidenan *(
 
 Sementara itu di Bogor saya berkenalan dengan *Shodancho* Singgih yang dalam riwayat hidupnya kemudian, menjelang diproklamasikannya kemerdekaan itu, bersama-sama dengan pemuda-pemuda lainnya membawa Bung Karno sekeluarga dan Bung Hatta dari Jakarta ke Rengasdengklok. Selesai latihan *Chudancho* saya ditempatkan di Seibu, markas besar Peta di Solo, di Kusumoyudan. Pada waktu itu saya bertemu lagi dengan Sulardi yang sudah berkeluarga dan bekerja di Kantor Pertanian Kota.
 
-Sebelum sekolah *Chudancho* saya ditempatkan di pos pertahanan di Glagah, di pantai selatan Yogyakarta. Kemudian saya dipindahkan ke Solo, terus ke Madiun. Maka saya mengenal lebih baik lagi daerah itu. Pranoto waktu itu dikembalikan ke Yogya. Sebagai *Chudancho* di Markas Besar PETA saya memegang bagian pendidikan. Karena itu saya dipindahkan ke Jaga Monyet[[5]](#_ftn5) di Jakarta untuk melatih murid-murid STM yang akan menjadi tentara zeni. Pada waktu itulah saya berjumpa kembali dengan *Shodancho* Singgih.
+Sebelum sekolah *Chudancho* saya ditempatkan di pos pertahanan di Glagah, di pantai selatan Yogyakarta. Kemudian saya dipindahkan ke Solo, terus ke Madiun. Maka saya mengenal lebih baik lagi daerah itu. Pranoto waktu itu dikembalikan ke Yogya. Sebagai *Chudancho* di Markas Besar PETA saya memegang bagian pendidikan. Karena itu saya dipindahkan ke Jaga Monyet5 di Jakarta untuk melatih murid-murid STM yang akan menjadi tentara zeni. Pada waktu itulah saya berjumpa kembali dengan *Shodancho* Singgih.
 
 Selesai melatih anak lulusan STM menjadi *Bundancho,* saya dikembalikan ke Markas Besar PETA yang sudah pindah ke Madiun dari Solo. Pengalaman-pengalaman di PETA menumbuhkan keyakinan dalam hati saya bahwa tindak-tanduk kebanyakan opsir Jepang tidak bisa kami setujui. Tumbuh keinginan saya untuk melawan mereka yang menyakiti hati kami itu.
 
@@ -110,14 +110,14 @@ Sementara itu terasa bahwa Perang Pasifik sudah mendekati akhir. Tetapi saya yan
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 19-25.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 19-25.
 
-[[2]](#_ftnref2)     *Koninklijk Nederlands-Indisch Leger (Tentara Kerajaan Hindia Belanda)*
+2     *Koninklijk Nederlands-Indisch Leger (Tentara Kerajaan Hindia Belanda)*
 
-[[3]](#_ftnref3)     *Holands lnlandse School, SD di zaman Belanda*
+3     *Holands lnlandse School, SD di zaman Belanda*
 
-[[4]](#_ftnref4)     *Tentara Sukarela Pembeld  Tanah Air*
+4     *Tentara Sukarela Pembeld  Tanah Air*
 
-[[5]](#_ftnref5)     *Jaga Monyet, nama asrama Tentara*
+5     *Jaga Monyet, nama asrama Tentara*
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [KNIL](https://soehartolibrary.id/tag/knil/), [Peta](https://soehartolibrary.id/tag/peta/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

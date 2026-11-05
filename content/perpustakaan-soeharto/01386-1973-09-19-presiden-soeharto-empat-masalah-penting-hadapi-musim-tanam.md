@@ -39,7 +39,7 @@ relasi:
 
 15 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam/#respond)  110 Views Share on
 
-# Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam[[1]](#_ftn1)
+# Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam1
 
 **RABU, 19 SEPTEMBER** **1973** Pukul 10.00 pagi ini Presiden Soeharto memberikan pengarahan di depan para peserta rapat kerja Direktorat Jenderal Pertanian dan Badan Pengendalian Bimas. Dalam pengarahannya, Kepala Negara mengatakan bahwa selama musim tanam 1972/1973 kita telah mengalami kerugian sebanyak empat juta ton padi kering akibat tidak dilaksanakannya intensifikasi dengan panca usaha yang lengkap. Presiden menganjurkan agar usaha intensifikasi yang lengkap dijalankan dalam sisa musim tanam 1973/1974 dan perluasan serta penambahan areal untuk musim tanam 1974/1975.
 
@@ -49,6 +49,6 @@ Kepada para peserta rapat kerja Presiden meminta agar rapat kerja ini dijadikan 
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 51-52. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 51-52. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Badan Pengendalian Bimas](https://soehartolibrary.id/tag/badan-pengendalian-bimas/), [Direktorat Jenderal Pertanian](https://soehartolibrary.id/tag/direktorat-jenderal-pertanian/), [Musim Tanam](https://soehartolibrary.id/tag/musim-tanam/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Rapat Kerja](https://soehartolibrary.id/tag/rapat-kerja/)

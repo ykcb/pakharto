@@ -324,6 +324,6 @@ Kira-kira pukul enam sore saya menyerahkan *reel tape* berisi rekaman pidato Pre
 
 ---
 
-[[1]](#_ftnref1)        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982
+1        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [1965](https://soehartolibrary.id/tag/1965/), [Dewan Jenderal](https://soehartolibrary.id/tag/dewan-jenderal/), [G.30.S/PKI](https://soehartolibrary.id/tag/g-30-spki/), [Halim](https://soehartolibrary.id/tag/halim/), [Istana Bogor](https://soehartolibrary.id/tag/istana-bogor/), [Istana Negara](https://soehartolibrary.id/tag/istana-negara/), [kup](https://soehartolibrary.id/tag/kup/), [Mayjen Soeharto](https://soehartolibrary.id/tag/mayjen-soeharto/), [Omar Dhani](https://soehartolibrary.id/tag/omar-dhani/), [RRI](https://soehartolibrary.id/tag/rri/), [Soekarno](https://soehartolibrary.id/tag/soekarno/), [Supardjo](https://soehartolibrary.id/tag/supardjo/), [Untung](https://soehartolibrary.id/tag/untung/)

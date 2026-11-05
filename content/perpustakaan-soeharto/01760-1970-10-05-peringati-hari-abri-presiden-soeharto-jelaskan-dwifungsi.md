@@ -38,7 +38,7 @@ relasi:
 
 6 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1970-10-05-peringati-hari-abri-presiden-soeharto-jelaskan-dwifungsi/#respond)  81 Views Share on
 
-# Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang[[1]](#_ftn1)
+# Peringati Hari ABRI, Presiden Soeharto: Dwifungsi Berdasar Undang-Undang1
 
 SENIN, 5 OKTOBER 1970 Upacara peringatan Hari ABRI yang ke-25 dipusatkan di lapangan Parkir Timur Senayan, Jakarta, dimana Presiden Soeharto bertindak sebagai Inspektur Upacara. Dalam amanatnya, Presiden antara lain mengatakan bahwa selama 25 tahun ABRI telah banyak berbuat dalam menegakkan prinsip dan cita-cita kehidupan yang lebih baik, lebih sejahtera, lebih adil untuk kita semuanya. Hal ini dilakukan berdasarkan keyakinan ABRI pada Pancasila dan UUD 1945 serta kecintaannya kepada negara kesatuan RI. Dalam melaksanakan tugas­tugas tersebut ABRI selalu mendapatkan dukungan rakyat, karena rakyat tahu bahwa ABRI berjuang untuk kepentingan rakyat. Unsur dukungan rakyat ini merupakan salah satu modal ABRI yang terpenting, yang tidak boleh terlepas dari tangannya.
 
@@ -48,6 +48,6 @@ Presiden mengingatkan hendaknya tidak ada satu golonganpun yang berdasarkan kema
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 263-264. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 263-264. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Dwifungsi ABRI](https://soehartolibrary.id/tag/dwifungsi-abri/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

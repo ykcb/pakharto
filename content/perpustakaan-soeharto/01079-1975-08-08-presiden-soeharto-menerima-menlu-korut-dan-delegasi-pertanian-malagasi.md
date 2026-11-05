@@ -42,7 +42,7 @@ relasi:
 
 27 Agustus 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1975-08-08-presiden-soeharto-menerima-menlu-korut-dan-delegasi-pertanian-malagasi/#respond)  91 Views Share on
 
-# Presiden Soeharto Menerima Menlu Korut dan Delegasi Pertanian Malagasi[[1]](#_ftn1)
+# Presiden Soeharto Menerima Menlu Korut dan Delegasi Pertanian Malagasi1
 
 JUM’AT, 08 AGUSTUS 1975. Wakil PM merangkap Menteri Luar negeri Korea Utara, Ho Dam, mengunjungi Presiden Soeharto di Istana Merdeka pagi ini. Maksud kunjungannya adalah untuk menyampaikan pesan pribadi Presiden Kim II Sung. Dalam surat pribadi itu, Presiden Kim II Sung  mengin mendapat kepastian dukungan Indonesia bagi Korea Utara yang sudah melamar menjadi anggota Gerakan Non-Blok.
 
@@ -52,6 +52,6 @@ Delegasi menunjukkan minat yang besar terhadap pengalaman Indonesia di bidang pe
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 275. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 275. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ho Dam](https://soehartolibrary.id/tag/ho-dam/), [Kim II Sung](https://soehartolibrary.id/tag/kim-ii-sung/), [Malagasi](https://soehartolibrary.id/tag/malagasi/), [menlu Korut](https://soehartolibrary.id/tag/menlu-korut/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Wakil PM Korut](https://soehartolibrary.id/tag/wakil-pm-korut/)

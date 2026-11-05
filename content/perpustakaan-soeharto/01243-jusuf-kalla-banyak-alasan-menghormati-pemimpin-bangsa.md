@@ -36,7 +36,7 @@ relasi:
 
 7 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/jusuf-kalla-banyak-alasan-menghormati-pemimpin-bangsa/#respond)  125 Views Share on
 
-# Jusuf Kalla: Banyak Alasan Menghormati Pemimpin Bangsa[[1]](#_ftn1)
+# Jusuf Kalla: Banyak Alasan Menghormati Pemimpin Bangsa1
 
 Saya memiliki banyak alasan untuk tetap  hormat kepada para pemimpin bangsa kita. Dengan segala kekurangan dan kelebihannya sebagai manusia biasa, mereka semua telah berperan sangat besar pada eranya masing-masing, mulai dari perjuangan-perjuangan yang dilakukan secara sporadis di seluruh Nusantara sebelum bangsa ini merdeka dari penjajahan, berlanjut perjuangan memerdekakannya sehingga menjadi bangsa yang berdaulat, kemudian perjuangan untuk membangunnya menjadi bangsa yang besar dan bermartabat, membawa bangsa kita menjadi lebih ter-edukasi, sejahtera dan berkharisma, hingga pada era demokrasi pada saat ini.
 
@@ -54,6 +54,6 @@ Tidak mudah membawa ratusan juta rakyat ke dalam satu visi yang sama untuk menca
 
 ---
 
-[[1]](#_ftnref1)       Sebagaimana dikutip dari pengantar buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011).
+1       Sebagaimana dikutip dari pengantar buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011).
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Jusuf Kalla](https://soehartolibrary.id/tag/jusuf-kalla/), [pemimpin bangsa](https://soehartolibrary.id/tag/pemimpin-bangsa/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

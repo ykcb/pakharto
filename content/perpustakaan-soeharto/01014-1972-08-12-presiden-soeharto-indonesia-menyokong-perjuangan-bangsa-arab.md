@@ -43,7 +43,7 @@ relasi:
 
 # Presiden Soeharto: Indonesia Menyokong Perjuangan Bangsa Arab
 
-## (Menerima Ketua Majelis Rendah Syria dan Tetapkan Hansip dalam Naungan Depdagri[[1]](#_ftn1)
+## (Menerima Ketua Majelis Rendah Syria dan Tetapkan Hansip dalam Naungan Depdagri1
 
 SABTU, 12 AGUSTUS 1972, Presiden Soeharto hari ini di Istana Merdeka menerima Ketua Majelis Rendah Republik Arab Syria, Fachmi El-Tousufi. Pada kesempatan ini kedua pemimpin membahas upaya peningkatan hubungan bilateral. Fachmi mengucapkan terima kasih pemerintah dan rakyat Syria atas sikap Indonesia terhadap perjuangan bangsa Arab dalam konfliknya dengan Israel. Dalam hubungan ini Presiden Soeharto mengatakan bahwa sikap Indonesia tetap menyokong perjuangan bangsa Arab.
 
@@ -51,6 +51,6 @@ Melalui Keppres No. 56 tahun 1972, Presiden Soeharto menetapkan bahwa pembinaan 
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 457-458. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 457-458. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [arab](https://soehartolibrary.id/tag/arab/), [depdagri](https://soehartolibrary.id/tag/depdagri/), [El-Tousufi](https://soehartolibrary.id/tag/el-tousufi/), [Hansip](https://soehartolibrary.id/tag/hansip/), [Majelis Rendah](https://soehartolibrary.id/tag/majelis-rendah/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Syria](https://soehartolibrary.id/tag/syria/)

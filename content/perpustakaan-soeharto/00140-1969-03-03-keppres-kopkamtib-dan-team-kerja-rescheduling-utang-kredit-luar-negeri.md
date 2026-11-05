@@ -49,7 +49,7 @@ relasi:
 
 ##
 
-## (Presiden Soeharto mengeluarkan Keppres RI No. 19/1969 Tentang Operasi Kopkamtib dan Keppres RI No. 20/1969 Tentang Pembentukan Team *Rescheduling* Utang / Kredit Luar Negeri serta Soal Kekaryaan ABRI)[[1]](#_ftn1)
+## (Presiden Soeharto mengeluarkan Keppres RI No. 19/1969 Tentang Operasi Kopkamtib dan Keppres RI No. 20/1969 Tentang Pembentukan Team *Rescheduling* Utang / Kredit Luar Negeri serta Soal Kekaryaan ABRI)1
 
 SENIN, 03 MARET 1969, Dengan mencabut Keppres RI No. 179/KOTI/1965, hari ini Presiden Soeharto mengeluarkan Keppres RI No. 19/1969 tentang Operasi Pemulihan Keamanan dan Ketertiban. Presiden, selaku Panglima Kopkamtib, memegang pimpinan dan pengendalian Operasi Pemulihan Keamanan dan Ketertiban. Tugas pokok Kopkamtib adalah: *pertama*, memulihkan keamanan dan ketertiban dari akibat-akibat peristiwa pemberontakan G.30.S/PKI serta kegiatan-kegiatan ekstrim dan subversi lainnya. *Kedua*, ikut mengamankan kewibawaan pemerintah beserta alat-alatnya dari pusat sampai ke daerah-daerah demi kelangsungan hidup Pancasila dan UUD 1945. Untuk melaksanakan kedua tugas tersebut, Pangkobkamtib dapat mempergunakan semua alat dan aparatur pemerintah yang ada serta mengambil tindakan-tindakan lainnya sesuai ketentuan-ketentuan yang berlaku.
 
@@ -61,6 +61,6 @@ Hari ini juga Presiden Soeharto mengeluarkan Keppres RI No. 20/1969 tentang pemb
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [ABRI](https://soehartolibrary.id/tag/abri/), [Commander's Call](https://soehartolibrary.id/tag/commanders-call/), [G.30.S/PKI](https://soehartolibrary.id/tag/g-30-spki/), [Kekaryaan](https://soehartolibrary.id/tag/kekaryaan/), [Kredit](https://soehartolibrary.id/tag/kredit/), [Luar Negeri](https://soehartolibrary.id/tag/luar-negeri/), [repelita](https://soehartolibrary.id/tag/repelita/), [Rescheduling](https://soehartolibrary.id/tag/rescheduling/), [Subversif](https://soehartolibrary.id/tag/subversif/), [Utang](https://soehartolibrary.id/tag/utang/)

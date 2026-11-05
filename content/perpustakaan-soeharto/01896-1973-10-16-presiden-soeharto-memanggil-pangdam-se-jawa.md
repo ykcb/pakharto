@@ -37,12 +37,12 @@ relasi:
 
 13 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1973-10-16-presiden-soeharto-memanggil-pangdam-se-jawa/#respond)  87 Views Share on
 
-# Presiden Soeharto Memanggil Pangdam Se-Jawa[[1]](#_ftn1)
+# Presiden Soeharto Memanggil Pangdam Se-Jawa1
 
 SELASA, 16 OKTOBER 1973 Hari ini Presiden Soeharto memanggil para panglima Kodam seluruh Jawa dan Komandan Jenderal Puspasus menghadapnya di Bina Graha. Tampak hadir dalam pertemuan yang berlangsung selama lebih kurang satu jam itu, Pangdam V/Jaya, Mayjen. Mantik, Pangdam VI/Siliwangi, Mayjen. Wahyu Hagono, Pangdam VII/ Diponegoro, Mayjen. Jasir Hadibroto, Pangdmn VIII/Brawijaya, Mayjen. Widjojo Sujono, dan Danjen Puspasus, Brigjen. Witarmin. Dalam pertemuan dengan Kepala Negala tersebut, para perwira tinggi Angkatan Darat ini didampingi oleh KSAD Letjen. Surono. (AFR).
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 59. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 59. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Pangdam](https://soehartolibrary.id/tag/pangdam/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

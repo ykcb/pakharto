@@ -77,9 +77,9 @@ Sebagaimana diakui oleh Presiden Soeharto, usaha penyediaan papan bukanlah urusa
 
 Pemerintahan Presiden Soeharto juga berhasil melakukan pengendalian pertumbuhan penduduk. Pada tahun 1967 pertumbuhan penduduk Indonesia mencapai 2,6% dan pada tahun 1996 telah menurun drastis menjadi 1,6%. Keberhasilan ini dicapai melalui program Keluarga Berencana Nasional yang dilaksanakan oleh Badan Koordinasi Keluarga Berencana Nasional (BKKBN). Program pengendalian kependudukan di Indonesia diawali dengan ditandatanganinya Deklarasi Kependudukan PBB pada tahun 1967 sehingga secara resmi Indonesia mengakui hak-hak untuk menentukan jumlah dan jarak kelahiran sebagai hak dasar manusia dan juga pentingnya pembatasan jumlah penduduk sebagai unsur perencanaan ekonomi dan sosial.
 
-Atas keberhasilan Indonesia ini, Direktur UNICEF James P. Grant memuji Indonesia karena dinilai berhasil menekan tingkat kematian bayi dan telah melakukan berbagai upaya lainnya dalam rangka mensejahterakan kehidupan anak-anak di tanah air. Grant bahkan mengemukakan apa yang telah dilakukan pemerintah Indonesia itu hendaknya dijadikan contoh bagi negara-negara lain yang tingkat kematian bayinya masih tinggi[[3]](#_ftn3).
+Atas keberhasilan Indonesia ini, Direktur UNICEF James P. Grant memuji Indonesia karena dinilai berhasil menekan tingkat kematian bayi dan telah melakukan berbagai upaya lainnya dalam rangka mensejahterakan kehidupan anak-anak di tanah air. Grant bahkan mengemukakan apa yang telah dilakukan pemerintah Indonesia itu hendaknya dijadikan contoh bagi negara-negara lain yang tingkat kematian bayinya masih tinggi3.
 
-Prestasi ekonomi pemerintahan Presiden Soeharto merupakan buah dari kebijakan pembangunan yang tepat yang dilaksanakan secara konsisten. Kebijakan tersebut antara lain[[4]](#_ftn4):
+Prestasi ekonomi pemerintahan Presiden Soeharto merupakan buah dari kebijakan pembangunan yang tepat yang dilaksanakan secara konsisten. Kebijakan tersebut antara lain4:
 
 1. Sistem perekonomiam berdasarkan *managed market economy* atau pasar terkelola dengan hati-hati karena ketidaksempurnaan pasar.
 2. Pengelolaan ekonomi makro yang baik, sehingga menghasilkan kinerja ekonomi makro yang stabil yang mendorong meningkatnya kepercayaan internasional dan dalam negeri serta investasi di sektor riil dan prasarana.
@@ -94,7 +94,7 @@ Melalui kebijakan anggaran berimbang, Pemerintahan Presiden Soeharto juga dinila
 
 Selain berhasil mengendalikan inflasi, pemerintahan Presiden Soeharto juga dinilai berhasil dalam melakukan pengelolaan utang luar negeri. Sebagaimana dipaparkan Widjoyo Nitisastro dalam bukunya berjudul “Pengalaman Pembangunan Indonesia” yang terbit tahun 2010, mengungkapkan bahwa pada tahun 1966 Indonesia sebenarnya sedang menunggak utang. Pada saat itu terdapat dua jenis pinjaman yaitu utang lama (yang diadakan sebelum 30 Juni 1966) dan utang baru (yang diadakan setelah 30 Juni 1966). Terdapat beberapa macam pinjaman lama yaitu utang kompensasi nasionalisasi perusahaan Hindia Belanda kepada pemerintah Belanda dan hutang-hutang lain (kira-kira 2,1 miliar dollar AS) kepada sekitar 30 negara besar dan kecil baik dari negara-negara Eropa Timur (terutama Uni Soviet), Amerika Serikat, Eropa Barat dan Jepang.
 
-Untuk menjaga etika hubungan internasional maka diadakan pembicaraan dengan negara-negara tersebut dan akhirnya dicapai kesepakatan antara Indonesia dengan negara-negara Paris Club pada bulan April 1970 untuk penyelesaian tunggal dan menyeluruh utang-utang Indonesia dengan kesepakatan[[5]](#_ftn5):
+Untuk menjaga etika hubungan internasional maka diadakan pembicaraan dengan negara-negara tersebut dan akhirnya dicapai kesepakatan antara Indonesia dengan negara-negara Paris Club pada bulan April 1970 untuk penyelesaian tunggal dan menyeluruh utang-utang Indonesia dengan kesepakatan5:
 
 1. Pembayaran utang pokok dilakukan dengan mencicil selama 30 tahun dari 1970 sampai dengan tahun 1999.
 2. Pembayaran atas bunga yang sudah disepakatidilakukan selama 15 tahun dari 1985 sampai 1999.
@@ -103,7 +103,7 @@ Untuk menjaga etika hubungan internasional maka diadakan pembicaraan dengan nega
 
 Pemerintahan Presiden Soeharto melakukan pengelolaan utang secara hati-hati dalam jumlah seperlunya dan mengalokasikannya untuk biaya kegiatan pembangunan yang produktif. Kehati-hatian ini tampak dari jumlah hutang Indonesia selama era Orde Baru dengan era reformasi. Selama 32 tahun memerintah, pemerintahan Presiden Soeharto mencatatkan utang sekitar Rp.46,88 triliun per tahun.  Jumlah ini lebih kecil jika dibandingkan dengan 10 tahun pemerintahan reformasi yang mencatatkan utang sebesar Rp. 111,4 triliun per tahun. Pada saat mengundurkan diri pada bulan Mei 1998, Presiden Soeharto mencatatkan utangsebesar Rp. 553 triliun. Sedangkan 10 tahun pemerintahan reformasi telah mencatatkan utang sebesar Rp. 1667 triliun.
 
-Selain membangun sektor pertanian yang tangguh, komitmen Presiden Soeharto mewujudkan kedaulatan dan kemandirian ekonomi bangsa tercermin dalam pengembangan industri-industri strategis berbasis *high tech* (teknologi tinggi). Melalui Kepres No.59 Tahun 1983, ia menetapkan 10 BUMN strategis dan dalam perkembangannya bertambah dengan sejumlah industri strategis lainnya[[6]](#_ftn6):
+Selain membangun sektor pertanian yang tangguh, komitmen Presiden Soeharto mewujudkan kedaulatan dan kemandirian ekonomi bangsa tercermin dalam pengembangan industri-industri strategis berbasis *high tech* (teknologi tinggi). Melalui Kepres No.59 Tahun 1983, ia menetapkan 10 BUMN strategis dan dalam perkembangannya bertambah dengan sejumlah industri strategis lainnya6:
 
 *Strategi pembangunan jangka panjang telah menentukan perlunya landasan yang kuat untuk mewujudkan masyarakat yang adil dan makmur berdasarkan Pancasila. Dalam bidang ekonomi, landasan yang kuat itu diwujudkan dengan pengembangan industri yang tangguh dengan dukungan pertanian yang kuat. Tangguh dalam arti memiliki daya tahan yang lama dan daya saing yang keras. Karena itu  memerlukan pemilikan teknologi yang tepat.*
 
@@ -139,13 +139,13 @@ Agenda kepentingan internasional itu tercermin dari Bill Clinton yang merasa per
 
 *“Mereka tetap tidak berubah untuk memenuhi kebutuhan ditegakkannya demokrasi, pemberantasan korupsi dan pelaksanaan HAM. Perang dingin telah usai. Tidak ada lagi alasan untuk “memanjakan” (molly-coddle) Soeharto”* *[**[7]**](#_ftn7)*
 
-Fadli Zon dalam bukunya berjudul “Politik Huru Hara Mei 1998” juga mengungkapkan pernyataan Michel Camdesus, Direktur IMF yang menyatakan bahwa apa yang dilakukan IMF di Indonesia tidak lain sebagai katalisator jatuhnya Pemerintahan Soeharto. Sebagaimana dikutif New York Times, Camdesus menyatakan “*We created the conditions that obliged President Soeharto* *l**eave his job*”[[8]](#_ftn8). Dua penyataan dari dua tokoh berpengaruh internasional itu mengindikasikan bahwa telah sejak lama Presiden Soeharto —dengan agenda tinggal landas-nya— menjadi target untuk ditumbangkan. Setelah itu aset-aset strategis Indonesia —dengan alasan efisiensi— mulai berpindah kepemilikan kepada pihak asing yang bermarkas di Singapura.
+Fadli Zon dalam bukunya berjudul “Politik Huru Hara Mei 1998” juga mengungkapkan pernyataan Michel Camdesus, Direktur IMF yang menyatakan bahwa apa yang dilakukan IMF di Indonesia tidak lain sebagai katalisator jatuhnya Pemerintahan Soeharto. Sebagaimana dikutif New York Times, Camdesus menyatakan “*We created the conditions that obliged President Soeharto* *l**eave his job*”8. Dua penyataan dari dua tokoh berpengaruh internasional itu mengindikasikan bahwa telah sejak lama Presiden Soeharto —dengan agenda tinggal landas-nya— menjadi target untuk ditumbangkan. Setelah itu aset-aset strategis Indonesia —dengan alasan efisiensi— mulai berpindah kepemilikan kepada pihak asing yang bermarkas di Singapura.
 
-Menjelang krisis ekonomi-moneter-politik di Indonesia (tahun 1997-1998), Presiden Soeharto juga bersitegang dengan Jepang dalam upayanya memutus ketergantungan teknologi dan produk otomotif dari Jepang. Melalui Inpres No. 2/1996 pemerintah Indonesia mengeluarkan kebijakan untuk membangun mobil nasional dengan beberapa fasilitas, terutama bebas pajak impor barang mewah. Pada tahun pertama Mobnas ditargetkan memiliki *local content*, sebesar 20%, dan pada tahun kedua 40% serta 60% pada tahun ketiga. Komponen-komponen untuk mobil nasional dapat diimpor bebas bea masuk dan bebas kewajiban pajak-pajak lain selama tiga tahun pertama. Sementara produsen mobil lain tetap dikenakan kewajiban untuk membayar bea masuk 100%[[9]](#_ftn9).
+Menjelang krisis ekonomi-moneter-politik di Indonesia (tahun 1997-1998), Presiden Soeharto juga bersitegang dengan Jepang dalam upayanya memutus ketergantungan teknologi dan produk otomotif dari Jepang. Melalui Inpres No. 2/1996 pemerintah Indonesia mengeluarkan kebijakan untuk membangun mobil nasional dengan beberapa fasilitas, terutama bebas pajak impor barang mewah. Pada tahun pertama Mobnas ditargetkan memiliki *local content*, sebesar 20%, dan pada tahun kedua 40% serta 60% pada tahun ketiga. Komponen-komponen untuk mobil nasional dapat diimpor bebas bea masuk dan bebas kewajiban pajak-pajak lain selama tiga tahun pertama. Sementara produsen mobil lain tetap dikenakan kewajiban untuk membayar bea masuk 100%9.
 
 Permasalahannya terletak pada *joint partner* yang kali ini tidak melibatkan Jepang —yang dinilai Presiden Soeharto tidak ber-iktikad baik dalam alih teknologi selama 20 tahun lebih kerjasamanya dengan Indonesia— yang keberadaannya sebagai salah satu investor terbesar bagi pembangunan Indonesia dan merupakan pemasok produk otomotif ke Indonesia. *Joint partner* proyek Mobnas ini adalah KIA, perusahaan otomotif terbesar ketiga di Korea Selatan yang dinilai ber-iktikad baik melakukan transfer teknologi. Melalui Keppres No. 42/1996 pemerintah mengijinkan kerjasama Mobnas dibuat diluar negeri sejauh memenuhi syarat dalam kriteria muatan lokal dan dibuat pekerja-pekerja Indonesia. Melalui keputusan Menperindag, PT Timor Putra Nasional (PT TPN) —yang dimiliki Tomy Soeharto— sebagai perintis mobnas, karena dinilai sebagai satu-satunya perusahaan yang memiliki persyaratan untuk menjalankan proyek tersebut. Kebijakan ini tentunya memukul produsen otomotif Jepang yang telah menguasai pasar otomotif Indonesia selama lebih dari dua puluh tahun.
 
-Jepang yang didukung Amerika Serikat membawa permasalahan ini ke meja WTO namun dibalas oleh Presiden Soeharto dengan realitas ketergantungan Jepang terhadap kebutuhan minyak mentah dari Indonesia untuk keperluan industrinya serta ancaman Asosiasi Importir Indonesia (GINSI) untuk memboikot produk-produk Jepang jika WTO menjatuhkan sanksi secara tidak adil kepada Indonesia. Begitu seriusnya kebijakan mobnas bagi Jepang membuat PM Jepang Ryutaro Hashimoto menanyakan langsung kepada Pemerintah Indonesia dalam kunjunganya ke Jakarta pada bulan Januari 1997. Presiden Soeharto menjelaskan bahwa alasan memilih perusahaan Korea Selatan sebagai *joint partner* PT TPN bukan dilatarbelakangi alasan diskriminasi, akan tetapi murni pertimbangan ekonomi. Kerelaan KIA Corporations mentransfer teknologinya secara ekonomi menguntungkan Indonesia[[10]](#_ftn10).
+Jepang yang didukung Amerika Serikat membawa permasalahan ini ke meja WTO namun dibalas oleh Presiden Soeharto dengan realitas ketergantungan Jepang terhadap kebutuhan minyak mentah dari Indonesia untuk keperluan industrinya serta ancaman Asosiasi Importir Indonesia (GINSI) untuk memboikot produk-produk Jepang jika WTO menjatuhkan sanksi secara tidak adil kepada Indonesia. Begitu seriusnya kebijakan mobnas bagi Jepang membuat PM Jepang Ryutaro Hashimoto menanyakan langsung kepada Pemerintah Indonesia dalam kunjunganya ke Jakarta pada bulan Januari 1997. Presiden Soeharto menjelaskan bahwa alasan memilih perusahaan Korea Selatan sebagai *joint partner* PT TPN bukan dilatarbelakangi alasan diskriminasi, akan tetapi murni pertimbangan ekonomi. Kerelaan KIA Corporations mentransfer teknologinya secara ekonomi menguntungkan Indonesia10.
 
 Bargaining Indonesia melalui ancaman kelancaran pasokan minyak dan boikot impor produknya telah menyurutkan Jepang membawa kasus mobnas ke meja WTO. Akan tetapi setelah itu menyeruak *black campaign* yang beredar di Indonesia bahwa proyek mobnas merupakan proyek diskriminatif dan sarat KKN, karena dikelola putra Presiden. Melihat latar belakang mencuatnya kasus ini, tidak mustahil kalangan produsen otomotif Jepang dan para *principle*-nya di Indonesia memiliki kontribusi besar terhadap menyeruaknya tudingan itu yang kemudian digemakan seiring tuntutan reformasi politik tahun 1998. Proyek mobnas pada akhirnya mengalami kegagalan seiring keputusan pengunduran diri Presiden Soeharto sehingga ketergantungan terhadap teknologi dan produk otomotif dari luar negeri (khususnya Jepang) semakin tidak bisa dihindari.
 
@@ -159,24 +159,24 @@ Target mengantarkan Indonesia menjadi salah satu kekuatan dari 20 besar negara d
 
 ---
 
-[[1]](#_ftnref1)     Disarikan dari buku Politik Kenusantaraan
+1     Disarikan dari buku Politik Kenusantaraan
 
-[[2]](#_ftnref2)     G. Dwipayana & Ramadhan KH, Soeharto: Pikiran, Ucapan dan Tindakan Saya, (Jakarta: PT Citra Kharisma Bunda, 1989), hlm.254
+2     G. Dwipayana & Ramadhan KH, Soeharto: Pikiran, Ucapan dan Tindakan Saya, (Jakarta: PT Citra Kharisma Bunda, 1989), hlm.254
 
-[[3]](#_ftnref3)     G. Dwipayana & Ramadhan KH, Op. Cite,  hlm 242.
+3     G. Dwipayana & Ramadhan KH, Op. Cite,  hlm 242.
 
-[[4]](#_ftnref4)     Sri Hadi, Mengenang Prestasi Ekonomi Indonesia 1966-1990-an, (Jakarta: Penerbit Universitas Indonesia, 2006, hlm 25
+4     Sri Hadi, Mengenang Prestasi Ekonomi Indonesia 1966-1990-an, (Jakarta: Penerbit Universitas Indonesia, 2006, hlm 25
 
-[[5]](#_ftnref5)     Widjoyo Nitisastro, *Pengalaman Pembangunan Indonesia: Kumpulan Tulisan dan Uraian Widjoyo Nitisastro,* (Jakarta: PT Kompas Media Nusantara), hlm 201
+5     Widjoyo Nitisastro, *Pengalaman Pembangunan Indonesia: Kumpulan Tulisan dan Uraian Widjoyo Nitisastro,* (Jakarta: PT Kompas Media Nusantara), hlm 201
 
-[[6]](#_ftnref6)     G. Dwipayana & Ramadhan KH, Op. Cite,  hlm 280.
+6     G. Dwipayana & Ramadhan KH, Op. Cite,  hlm 280.
 
-[[7]](#_ftnref7)     Sulastomo, Lengser Keprabon, (Jakarta: PT Raja Grafindo Persada, 2001), hlm 109.
+7     Sulastomo, Lengser Keprabon, (Jakarta: PT Raja Grafindo Persada, 2001), hlm 109.
 
-[[8]](#_ftnref8)     Fadzli Zon*, Politik Huru Hara Mei 1998* (Jakarta: Institut For Policy Studys, 2004), hlm 4
+8     Fadzli Zon*, Politik Huru Hara Mei 1998* (Jakarta: Institut For Policy Studys, 2004), hlm 4
 
-[[9]](#_ftnref9)     Dr. Syamsul Hadi, Strategi Pembangunan Mahathir dan Soeharto: Politik industrialisasi dan modal Jepang di Malaysia dan Indonesia, (Jakarta:Pelangi Cendekia, 2005), 327.
+9     Dr. Syamsul Hadi, Strategi Pembangunan Mahathir dan Soeharto: Politik industrialisasi dan modal Jepang di Malaysia dan Indonesia, (Jakarta:Pelangi Cendekia, 2005), 327.
 
-[[10]](#_ftnref10)    Ibid, hlm 328.
+10    Ibid, hlm 328.
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Prestasi Pembangunan](https://soehartolibrary.id/category/tinggal-landas/prestasi-pembangunan/)  [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Trilogi pembangunan](https://soehartolibrary.id/tag/trilogi-pembangunan/)

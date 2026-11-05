@@ -39,7 +39,7 @@ relasi:
 
 # 1976-07-29 Presiden Soeharto Resmikan Alur Pelayaran Sungai Mahakam
 
-# Presiden Soeharto Resmikan Alur Pelayaran Sungai Mahakam[[1]](#_ftn1)
+# Presiden Soeharto Resmikan Alur Pelayaran Sungai Mahakam1
 
 KAMIS, 29 Juli 1976 Masih di Samarinda, pagi ini Presiden Soeharto meresmikan pemanfaatan alur pelayaran Sungai Mahakam yang dapat dilayari dengan kapal berukuran 6.000 ton dengan muatan penuh. Dalam acara peresmian ini Kepala Negara ikut berlayar di alur suangai tersebut dengan kapal yang berukuran 6.000 bobot mati.
 
@@ -47,6 +47,6 @@ Kemudian Kepala Negara meninjau kompleks perumahan Buruh Maritim di Mangkupalas 
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 378-379. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
+1 Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 378-379. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Balikpapan](https://soehartolibrary.id/tag/balikpapan/), [Data Bilang](https://soehartolibrary.id/tag/data-bilang/), [Mahakam](https://soehartolibrary.id/tag/mahakam/), [Mangkulapas](https://soehartolibrary.id/tag/mangkulapas/), [Pelayaran](https://soehartolibrary.id/tag/pelayaran/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Samarinda Seberang](https://soehartolibrary.id/tag/samarinda-seberang/)

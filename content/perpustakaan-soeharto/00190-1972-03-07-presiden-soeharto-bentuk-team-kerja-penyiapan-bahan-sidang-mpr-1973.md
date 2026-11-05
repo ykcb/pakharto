@@ -45,7 +45,7 @@ relasi:
 
 # Presiden Soeharto Bentuk Team Kerja Penyiapan Bahan Sidang MPR 1973
 
-## (Keluarkan Kepres No. 18/1972 Soal Pakaian Resmi Kedinasan)[[1]](#_ftn1)
+## (Keluarkan Kepres No. 18/1972 Soal Pakaian Resmi Kedinasan)1
 
 SELASA, 7 Maret 1972, Presiden Soeharto, dalam sidang kabinet paripurna hari ini, membentuk sebuah team kerja yang bertugas untuk menyiapkan bahan-bahan bagi persidangan MPR hasil pemilihan umum; sidang tersebut akan diadakan pada bulan Maret tahun depan. Presiden soeharto menegaskan bahwa team ini dimaksudkan untuk mempersiapkan bahan-bahan menenai rancangan tata tertib MPR, rancangan tata cara pemilihan Presiden dan Wakil Presiden, rancangan GBHN dan rancangan pola umum pembangunan nasional. Nama yang diberikan untuk team ini adalah “Team Kerja Penyiapan Bahan sidang MPR 1973”.
 
@@ -55,6 +55,6 @@ Sementara itu Presiden hari ini telah pula mengeluarkan Keputusan Presiden No. 1
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 423-424
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 423-424
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Bahan](https://soehartolibrary.id/tag/bahan/), [Dinas](https://soehartolibrary.id/tag/dinas/), [GBHN](https://soehartolibrary.id/tag/gbhn/), [MPR](https://soehartolibrary.id/tag/mpr/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pakaian](https://soehartolibrary.id/tag/pakaian/), [Penyusunan](https://soehartolibrary.id/tag/penyusunan/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/)

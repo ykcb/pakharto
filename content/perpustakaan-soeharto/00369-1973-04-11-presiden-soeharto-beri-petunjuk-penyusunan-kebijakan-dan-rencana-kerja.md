@@ -40,7 +40,7 @@ relasi:
 
 # Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana Kerja
 
-## (Tekankan Koordinasi, Integrasi dan Sinkronisasi)[[1]](#_ftn1)
+## (Tekankan Koordinasi, Integrasi dan Sinkronisasi)1
 
 RABU, 11  April 1973, Dalam sidang paripurna Kabinet Pembangunan II yang berlangsung pagi ini di Bina Graha, Presiden memberikan petunjuk kepada semua menteri untuk menyusun kebijaksanaan dan rencana kerja. Dengan demikian akan dapat dicapai koordinasi, integrasi dan sinkronisasi (KIS) dalam tugas setiap departemen dan non-departemen.
 
@@ -48,6 +48,6 @@ Sidang paripurna yang pertama ini telah memutuskan untuk mengalokasikan 65% kred
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 11.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973. Hal 11.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Kabinet Pembangunan](https://soehartolibrary.id/tag/kabinet-pembangunan/), [Kredit](https://soehartolibrary.id/tag/kredit/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

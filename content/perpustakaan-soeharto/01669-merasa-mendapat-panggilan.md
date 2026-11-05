@@ -129,6 +129,6 @@ Rupanya daya upaya saya dalam “Palagan Ambarawa” mendapat perhatian Jenderal
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 26-34.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 26-34.
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Banyubiru](https://soehartolibrary.id/tag/banyubiru/), [Gatot Subroto](https://soehartolibrary.id/tag/gatot-subroto/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Kota Baru](https://soehartolibrary.id/tag/kota-baru/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Semarang](https://soehartolibrary.id/tag/semarang/), [Sudirman](https://soehartolibrary.id/tag/sudirman/), [Yogya](https://soehartolibrary.id/tag/yogya/)

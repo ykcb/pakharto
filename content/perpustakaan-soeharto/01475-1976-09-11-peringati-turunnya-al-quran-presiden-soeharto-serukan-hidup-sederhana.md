@@ -43,7 +43,7 @@ relasi:
 
 # Peringati Turunnya Al-Qur’an Presiden Soeharto Serukan Hidup Sederhana
 
-## Membangun Aparatur Yang Jujur dan Bersih Juga Tanggung Jawab Masyarakat[[1]](#_ftn1)
+## Membangun Aparatur Yang Jujur dan Bersih Juga Tanggung Jawab Masyarakat1
 
 SABTU11 SEPTEMBER 1976 Turunnya Al-Qur’an diperingati malam ini di Istana Negara. Selain Presiden dan Ibu Soeharto, serta Wakil Presiden Hamengku Buwono IX dan para menteri kabinet, hadir pula dalam acara ini mantan Wakil Presiden Mohamad Hatta.
 
@@ -53,6 +53,6 @@ Kepada para pejabat pemerintahan dimintanya untuk benar-benar melaksanakan dan b
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 392-393. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 392-393. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Al-Qur'an](https://soehartolibrary.id/tag/al-quran/), [Hamengku Buwono IX](https://soehartolibrary.id/tag/hamengku-buwono-ix/), [Ibu Tien Soeharto](https://soehartolibrary.id/tag/ibu-tien-soeharto/), [Mohamad Hatta](https://soehartolibrary.id/tag/mohamad-hatta/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Wakil Presiden](https://soehartolibrary.id/tag/wakil-presiden/)

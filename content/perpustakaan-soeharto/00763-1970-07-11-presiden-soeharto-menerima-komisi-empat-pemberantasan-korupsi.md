@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Soeharto Menerima Komisi Empat (Pemberantasan  Korupsi)
 
-## (Menyaksikan Pameran Alat Pertanian Buatan Pindad)[[1]](#_ftn1)
+## (Menyaksikan Pameran Alat Pertanian Buatan Pindad)1
 
 SABTU, 11 Juli 1970. Bertempat di Bina Graha mulai jam 10.00 pagi ini selama dua jam Presiden Soeharto menerima Komisi Empat. Dalam pertemuan ini, Presiden telah mengucapkan terima kasih dan penghargaannya kepada Komisi Empat atas pertimbangan dan saran-saran yang disampaikannya. Kepada Komisi Empat Presiden mengatakan bahwa dalam usaha menanggulangi korupsi, ia sependapat dengan Komisi. Selanjutnya dikatakan oleh Presiden bahwa ia dapat memahami rasa khawatir Komisi Empat akan kemungkinnan meluasnya korupsi, terutama dalam masa dimana kegiatan ekonomi sedang meluas. Perasaan tersebut akan mendorong pemerintah untuk terus mengambil langkah-langkah dan pengawasan yang lebih intensif terhadap aparatur-aparaturnya.
 
@@ -49,6 +49,6 @@ Pukul 12.00 hari ini Presiden Soeharto menyaksikan pameran alat-alat pertanian b
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 241-242. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 241-242. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Komusi Empat](https://soehartolibrary.id/tag/komusi-empat/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

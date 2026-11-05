@@ -55,7 +55,7 @@ relasi:
 
 # Presiden Soeharto: Tugas Duta Besar Mengenalkan Hati, Pikiran, Dan Wajah Indonesia
 
-## Menerima Surat Kepercayaan Dubes Soviet dan Lantik Enam Dubes Baru[[1]](#_ftn1)
+## Menerima Surat Kepercayaan Dubes Soviet dan Lantik Enam Dubes Baru1
 
 SABTU 18 SEPTEMBER 1976 Bertempat di Istana Merdeka, pada pukul 09.00 pagi ini Presiden Soeharto menerima surat kepercayaan dari Duta Besar Uni Soviet baru, Ivan Fadeavic Shpedko. Dalam balasannya kepada Duta Besar Shpedko, Kepala Negara mengatakan bahwa dengan tetap mempertahankan dasar-dasar dan arah kami sendiri, dalam membangun masa depannya, Indonesia membuka diri dan ingin menggunakan setiap kesempatan untuk mengembangkan kerjasama dengan dunia luar. Oleh karena itu Indonesia menyambut baik keinginan Uni Soviet, untuk mengembangkan hubungan baik dengan Indonesia atas dasar saling menghormati kedaulatan, persamaan hak, saling menguntungkan, dan tidak mencampuri urusan dalam negeri masing-masing.
 
@@ -67,6 +67,6 @@ Pada kesempatan itu, secara singkat tetapi tepat, Presiden merumuskan tugas seor
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 394-395. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 394-395. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Australia](https://soehartolibrary.id/tag/australia/), [Duta Besar](https://soehartolibrary.id/tag/duta-besar/), [HRP Mohammad Noer](https://soehartolibrary.id/tag/hrp-mohammad-noer/), [Ivan Fadeavic Shpedko](https://soehartolibrary.id/tag/ivan-fadeavic-shpedko/), [Jerman Barat](https://soehartolibrary.id/tag/jerman-barat/), [Mayjen. (Pol.) Awaludin Djamin](https://soehartolibrary.id/tag/mayjen-pol-awaludin-djamin/), [Mayjen. Nurmathias](https://soehartolibrary.id/tag/mayjen-nurmathias/), [Mongolia](https://soehartolibrary.id/tag/mongolia/), [Prancis](https://soehartolibrary.id/tag/prancis/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Raden Heman Benny Mochtan](https://soehartolibrary.id/tag/raden-heman-benny-mochtan/), [RIBN Djayadiningrat](https://soehartolibrary.id/tag/ribn-djayadiningrat/), [RM Sunarso Wongsonegoro](https://soehartolibrary.id/tag/rm-sunarso-wongsonegoro/), [Selandia Baru](https://soehartolibrary.id/tag/selandia-baru/), [Uni Soviet](https://soehartolibrary.id/tag/uni-soviet/), [Vatikan](https://soehartolibrary.id/tag/vatikan/)

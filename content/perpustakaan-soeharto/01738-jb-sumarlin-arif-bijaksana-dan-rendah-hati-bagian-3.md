@@ -39,7 +39,7 @@ relasi:
 
 5 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3/#respond)  100 Views Share on
 
-# Arif, Bijaksana dan Rendah Hati (Bagian 3)[[1]](#_ftn1)
+# Arif, Bijaksana dan Rendah Hati (Bagian 3)1
 
 ## Krisis Keuangan  Pertamina
 
@@ -82,8 +82,8 @@ Dari uraian tersebut di atas, nampak jelas bahwa sikap Pak Harto yang tegas, kon
 
 ---
 
-[[1]](#_ftnref1)     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
+1     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
 
-[[2]](#_ftnref2)     Menteri Keuangan dalam Kabinet Pembangunan V
+2     Menteri Keuangan dalam Kabinet Pembangunan V
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Tinggal Landas](https://soehartolibrary.id/category/tinggal-landas/)  [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Krakatau Steel](https://soehartolibrary.id/tag/krakatau-steel/), [Krisis Pertamina](https://soehartolibrary.id/tag/krisis-pertamina/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

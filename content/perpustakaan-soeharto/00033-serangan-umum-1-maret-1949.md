@@ -147,7 +147,7 @@ Yogya kami kuasai hingga tengah hari. Memang sejak semula kami tidak berniat unt
 
 Kemudian sewaktu Belanda mendapat bala banyuan dari Semarang, saya perintahkan pasukan-pasukan mundur. Tujuan serangan telah tercapai dan kemudian saya perintahkan pasukan-pasukan untuk menyerang pos-pos Belanda yang ada di luar kota.
 
-Serangan Umum 1 Maret pada siang hari itu kemudian kita beritakan ke luar negeri melewati Sumatera. Dari Sumatera berita itu lalu disiarkan ke *check-point*-nya di Birma dan dari Birma diteruskan ke New Delhi dan terus tersebar di dalam sidang-sidang PBB. Kita beruntung masih memiliki pemancar radio di Playen (Wonosari). Pemancar yang dipimpin Perwira AURI Boediardjo[[2]](#_ftn2) inilah yang memberitakan ke luar negeri.
+Serangan Umum 1 Maret pada siang hari itu kemudian kita beritakan ke luar negeri melewati Sumatera. Dari Sumatera berita itu lalu disiarkan ke *check-point*-nya di Birma dan dari Birma diteruskan ke New Delhi dan terus tersebar di dalam sidang-sidang PBB. Kita beruntung masih memiliki pemancar radio di Playen (Wonosari). Pemancar yang dipimpin Perwira AURI Boediardjo2 inilah yang memberitakan ke luar negeri.
 
 Belanda mengetahui pemancar ini. Karena marahnya, pada tanggal 9-10 Maret 1949 Belanda menyerang Wonosari secara besar-besaran. Dalam hati, saya tertawa, karena dengan serangan itu Belanda masuk perangkap strategi saya. Mereka tidak mempunyai kekuatan yang cukup untuk pembersihan di kota. Rakyat kita di kota selamat dari pembalasan Belanda. Untuk lebih membingungkan Belanda, dua kompi yang telah saya siapkan ialah kompi Widodo dan kompi Darsono, saya pimpin sendiri bergerak ke barat menyerang Bantar Sleman, Kaliurang, lalu menyerang Wonosari. Pada tanggal 5 Apri 1949 kami tiba kembali di Imogiri dan Segoroyoso. Tangal 9 April 1949 barulah kami pindah ke Bibis, mendekati kota.
 
@@ -169,8 +169,8 @@ Galeri Foto:
 
 ---
 
-[[1]](#_ftnref1)        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982
+1        Penuturan Presiden Soeharto, dikutip langsung dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982
 
-[[2]](#_ftnref2) Opsir Udara III, sama dengan kapten.
+2 Opsir Udara III, sama dengan kapten.
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [1 Maret 1949](https://soehartolibrary.id/tag/1-maret-1949/), [Birma](https://soehartolibrary.id/tag/birma/), [Gerilya](https://soehartolibrary.id/tag/gerilya/), [India](https://soehartolibrary.id/tag/india/), [LN Palar](https://soehartolibrary.id/tag/ln-palar/), [Malioboro](https://soehartolibrary.id/tag/malioboro/), [PBB](https://soehartolibrary.id/tag/pbb/), [Serangan Umum](https://soehartolibrary.id/tag/serangan-umum/), [Van Langen](https://soehartolibrary.id/tag/van-langen/), [Van Zanten](https://soehartolibrary.id/tag/van-zanten/), [Wehrkreise](https://soehartolibrary.id/tag/wehrkreise/), [Yogyakarta](https://soehartolibrary.id/tag/yogyakarta/)

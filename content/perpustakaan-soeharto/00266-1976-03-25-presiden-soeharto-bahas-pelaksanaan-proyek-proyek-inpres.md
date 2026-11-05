@@ -37,7 +37,7 @@ relasi:
 
 # Presiden Soeharto Bahas Pelaksanaan Proyek-Proyek Inpres
 
-## (Proyek Inpres Perlu Koordinasi, Integrasi, Sinkronisasi dan Simplikasi)[[1]](#_ftn1)
+## (Proyek Inpres Perlu Koordinasi, Integrasi, Sinkronisasi dan Simplikasi)1
 
 KAMIS, 25 MARET  1976, Di Istana Merdeka pagi ini Presiden Soeharto menerima Menteri PAN/Wakil Ketua Bappenas, Sumarlin, Menteri Keuangan, Ali Wardhana, dan Sekretaris Jenderal Departemen Dalam Negeri, Suprapto, dan Asisten Intel/Hankam, Mayjen. Benny Murdani. Dalam pertemuan itu telah dibahas lebih lanjut pelaksanaan proyek-proyek Inpres sebagaimana yang telah ditetapkan oleh Kepala Negara beberapa hari yang lalu. Kepada pejabat-pejabat tersebut Presiden menegaskan bahwa proyek-proyek Inpres memerlukan pengaturan yang baik, sehingga dapat diciptakan koordinasi, integrasi, sinkronisasi dan simplikasi.
 
@@ -47,6 +47,6 @@ Siang ini, juga di Istana Merdeka, Presiden Soeharto menerima para peserta Rapim
 
 ---
 
-[[1]](#_ftnref1)  Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.348.
+1  Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.348.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Pengaturan](https://soehartolibrary.id/tag/pengaturan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Proyek Inpres](https://soehartolibrary.id/tag/proyek-inpres/)

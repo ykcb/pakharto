@@ -57,6 +57,6 @@ KAMIS 22 JANUARI 1970, Presiden Soeharto telah membicarakan masalah pelaksanaan 
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Bapak Pembangunan](https://soehartolibrary.id/tag/bapak-pembangunan/), [Bina Graha](https://soehartolibrary.id/tag/bina-graha/), [Cendana](https://soehartolibrary.id/tag/cendana/), [GBHN](https://soehartolibrary.id/tag/gbhn/), [Haji](https://soehartolibrary.id/tag/haji/), [Istana Merdeka](https://soehartolibrary.id/tag/istana-merdeka/), [Jamaah](https://soehartolibrary.id/tag/jamaah/), [jawab](https://soehartolibrary.id/tag/jawab/), [Macan Asia](https://soehartolibrary.id/tag/macan-asia/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Pengelolaan](https://soehartolibrary.id/tag/pengelolaan/), [Perbaikan](https://soehartolibrary.id/tag/perbaikan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [repelita](https://soehartolibrary.id/tag/repelita/), [tinggal landas](https://soehartolibrary.id/tag/tinggal-landas-2/)

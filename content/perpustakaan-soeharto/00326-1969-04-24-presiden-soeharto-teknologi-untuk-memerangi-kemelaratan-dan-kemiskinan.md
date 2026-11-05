@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto: Teknologi Untuk Memerangi Kemelaratan dan Kemiskinan
 
-## (Didampingi Ibu Tien Meninjau Kendaraan “KID”)[[1]](#_ftn1)
+## (Didampingi Ibu Tien Meninjau Kendaraan “KID”)1
 
 KAMIS, 24 APRIL 1969, Presiden yang didampingi oleh Ibu Tien Soeharto pagi ini menyaksikan demonstrasi penggunaan kendaraan serbaguna “KID”, yang dapat dipakai untuk pertanian, bertempat di Kompleks Lembaga Pusat Hortikultura di Pasar Minggu, Jakarta. Pada kesempatan itu Presiden agar meminta agar teknologi baru hendaknya dimanfaatkan untuk memerangi kemelaratan dan kemiskinan rakyat tani. Khusus mengenai kendaraan KID, Jenderal Soeharto mengatakan bahwa penggunaannya tentu tergantung pada perhitungan ekonomi, apakah harga ongkos operasionalnya efisien. Untuk itu ia meminta para ahli agar dapat meneliti lebih lanjut aspek-aspek ekonomis kendaraan KID itu.
 
@@ -54,6 +54,6 @@ Sehubungan dengan penyelenggaraan Konferensi Islam Internasional di Kuala Lumpur
 
 ---
 
-[[1]](#_ftnref1)               Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 115.
+1               Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 115.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Kemelaratan](https://soehartolibrary.id/tag/kemelaratan/), [Kemiskinan](https://soehartolibrary.id/tag/kemiskinan/), [KID](https://soehartolibrary.id/tag/kid/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [petani](https://soehartolibrary.id/tag/petani/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Teknologi](https://soehartolibrary.id/tag/teknologi/)

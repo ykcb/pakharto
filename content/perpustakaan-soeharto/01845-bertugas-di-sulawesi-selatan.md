@@ -130,6 +130,6 @@ Akhir September 1950 “Brigade Mataram” kembali ke Jawa Tengah. Ternyata 17 o
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 74-81.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 74-81.
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Andi Azis](https://soehartolibrary.id/tag/andi-azis/), [RIS](https://soehartolibrary.id/tag/ris/), [Sulawesi Seatan](https://soehartolibrary.id/tag/sulawesi-seatan/)

@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Soeharto Umumkan Susunan Kabinet Pembangunan I
 
-## (Memulai Panca Krida Pembangunan Dengan Zaken Kabinet/Kabinet Profesional)[[1]](#_ftn1)
+## (Memulai Panca Krida Pembangunan Dengan Zaken Kabinet/Kabinet Profesional)1
 
 KAMIS, 6 JUNI 1968, Presiden Soeharto malam ini mengumumkan pembentukan dan susunan Kabinet Pembangunan I, yang terdiri atas 18 menteri departemen dan lima menteri negara. Dengan demikian kabinet ini adalah lebih sederhana bila dibandingkan Kabinet Ampera. Adapun program kabinet ini disebut Panca Krida, yang berisikan:
 
@@ -153,6 +153,6 @@ Menteri Negara Urusan Pertahanan dan keamanan
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 21-22.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 21-22.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Kabinet](https://soehartolibrary.id/tag/kabinet/), [Kabinet Pembangunan I](https://soehartolibrary.id/tag/kabinet-pembangunan-i/), [Panca Krida](https://soehartolibrary.id/tag/panca-krida/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Zaken](https://soehartolibrary.id/tag/zaken/)

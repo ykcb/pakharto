@@ -41,7 +41,7 @@ relasi:
 
 # 1968-07-17 Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan
 
-# Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan[[1]](#_ftn1)
+# Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan1
 
 RABU, 17 Juli 1968, Setelah dua hari berada di Lampung, pagi ini Presiden Soeharto dan rombongan mengakhiri kunjungannya di daerah ini. Dari Lampung Presiden dan Ibu Tiean Soeharto berangkat menuju Palembang dan akan berada di sana selama tiga hari.
 
@@ -51,6 +51,6 @@ Menanggapi laporan Gubernur, Presiden Soeharto mengatakan bahwa masalah kekurang
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 28-29. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 28-29. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Diversifikasi Pangan](https://soehartolibrary.id/tag/diversifikasi-pangan/), [Gubernur](https://soehartolibrary.id/tag/gubernur/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Kunjungan Presiden](https://soehartolibrary.id/tag/kunjungan-presiden/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pemuka Masyarakat](https://soehartolibrary.id/tag/pemuka-masyarakat/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sumatera Selatan](https://soehartolibrary.id/tag/sumatera-selatan/)

@@ -36,7 +36,7 @@ relasi:
 
 19 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1976-10-26-alami-paceklik-presiden-soeharto-perintahkan-padat-karya/#respond)  86 Views Share on
 
-# Alami Paceklik, Presiden Soeharto Perintahkan Padat Karya[[1]](#_ftn1)
+# Alami Paceklik, Presiden Soeharto Perintahkan Padat Karya1
 
 **SELASA, 26 OKTOBER** **1976** Pada pukul 10.00 pagi ini, bertempat di Bina Graha, Presiden Soeharto memimpin sidang Dewan Stabilisasi Ekonomi Nasional. Masalah-masalah yang dibicarakan dalam sidang hari ini, antara lain, adalah masalah persedian beras, produksi komoditi ekspor, dan transmigrasi.
 
@@ -50,6 +50,6 @@ Sementara itu Menteri Tenaga Kerja, Transmigrasi dan Koperasi, Subroto, telah me
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 404. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 404. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

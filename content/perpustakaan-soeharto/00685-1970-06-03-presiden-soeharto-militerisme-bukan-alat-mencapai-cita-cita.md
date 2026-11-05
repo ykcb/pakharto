@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Soeharto: Militerisme Bukan Alat Mencapai Cita-Cita
 
-## Asia Tidak Perlu Khawatirkan Bangkitnya Militerisme Jepang[[1]](#_ftn1)
+## Asia Tidak Perlu Khawatirkan Bangkitnya Militerisme Jepang1
 
 Rabu, 3 Juni 1970, Pagi ini Presiden Soeharto dan rombongan tiba di Osaka. Rombongan disambut oleh Menteri Luar Negeri Jepang, Kiichi Aichi, serta para pejabat Jepang lainnya. Sore harinya Presiden Soeharto dan rombongan meninjau Ekspo ’70. Selama empat jam. Presiden dan Ibu Tien Soeharto telah mengunjungi paviliun-paviliun Jepang, AS, Belanda, Cekoslovakia, dan Mitsubishi. Di paviliun Indonesia, Presiden Soeharto dan rombongan disambut dengan jamuan makan malam serta kesenian Indonesia.
 
@@ -49,6 +49,6 @@ Presiden juga mengemukakan bahwa Jepang mempunyai peranan besar di Asia. Ia yaki
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 234. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 234. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Asia](https://soehartolibrary.id/tag/asia/), [Jepang](https://soehartolibrary.id/tag/jepang/), [Militerisme](https://soehartolibrary.id/tag/militerisme/), [Osaka](https://soehartolibrary.id/tag/osaka/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

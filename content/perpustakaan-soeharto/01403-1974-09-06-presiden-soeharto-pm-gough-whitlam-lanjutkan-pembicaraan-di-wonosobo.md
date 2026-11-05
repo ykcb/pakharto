@@ -47,7 +47,7 @@ relasi:
 
 # Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo
 
-## Bicarakan Masa Depan Cocos, Christmas, Timor Portugis, Sabah, Vietnam dan Khmer [[1]](#_ftn1)
+## Bicarakan Masa Depan Cocos, Christmas, Timor Portugis, Sabah, Vietnam dan Khmer 1
 
 **JUM’AT, 6 SEPTEMBER** **1974** Pembicaraan antara Presiden Soeharto dan PM Whitlam yang berlangsung kemarin di Yogyakarta, dilanjutkan hari ini di Wonosobo, Jawa Tengah. Pokok permasalahan yang disinggung dalam pembicaraan tidak resmi hari ini adalah lebih luas daripada pertemuan kemarin. Kedua pemimpin menyinggung banyak hal yang menyangkut hubungan bilateral antara kedua negara, disamping memaparkan pandangan dan posisi masing-masing negara dalam masalah regional dan internasional.
 
@@ -55,6 +55,6 @@ Menyangkut hubungan bilateral, kedua pemimpin telah membahas masalah kerjasama d
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 155-156. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 155-156. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Australia](https://soehartolibrary.id/tag/australia/), [christmas](https://soehartolibrary.id/tag/christmas/), [cocos](https://soehartolibrary.id/tag/cocos/), [Khmer](https://soehartolibrary.id/tag/khmer/), [PM Whitlam](https://soehartolibrary.id/tag/pm-whitlam/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sabah](https://soehartolibrary.id/tag/sabah/), [Timor Portugis](https://soehartolibrary.id/tag/timor-portugis/), [Vietnam](https://soehartolibrary.id/tag/vietnam/), [Wonosobo](https://soehartolibrary.id/tag/wonosobo/)

@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto Instruksikan Penelitian Rumah Murah
 
-## (Sidang Dewan Stabilisasi Ekonomi Bahas Sembako)[[1]](#_ftn1)
+## (Sidang Dewan Stabilisasi Ekonomi Bahas Sembako)1
 
 SELASA, 13 MEI 1969, Hari ini Presiden Soeharto telah menginstruksikan Menteri PUTL, Ir. Sutami, untuk meneruskan penelitian bagi pembangunan perumahan rakyat dengan harga murah, tetapi memenuhi syarat-syarat kesehatan. Instruksi ini diberikan ketika Ir. Sutami dan dua orang stafnya menghadap Presiden Soeharto di Istana Merdeka pagi ini.
 
@@ -50,6 +50,6 @@ Sementaraitu Dewan Stabilisasi Ekonomi yang bersidang di Istana Merdeka di bawah
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 122.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 122.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ir. Sutami](https://soehartolibrary.id/tag/ir-sutami/), [Istana Merdeka](https://soehartolibrary.id/tag/istana-merdeka/), [Menteri](https://soehartolibrary.id/tag/menteri/), [Pembangunan](https://soehartolibrary.id/tag/pembangunan/), [Penelitian](https://soehartolibrary.id/tag/penelitian/), [Perumahan Rakyat](https://soehartolibrary.id/tag/perumahan-rakyat/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [PUTL](https://soehartolibrary.id/tag/putl/)

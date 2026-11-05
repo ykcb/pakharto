@@ -35,7 +35,7 @@ relasi:
 
 # 1976-04-15 Presiden Soeharto Lantik Piet Haryono Sebagai Dirut Pertamina
 
-# Presiden Soeharto Lantik Piet Haryono Sebagai Dirut Pertamina[[1]](#_ftn1)
+# Presiden Soeharto Lantik Piet Haryono Sebagai Dirut Pertamina1
 
 KAMIS, 15 April 1976, Bertempat di Istana Negara, Presiden Soeharto pagi ini melantik Mayjen.(Purnawirawan) Piet Haryono sebagai Direktur Utama Pertamina. Dalam sambutannya  Kepala Negara telah menjelaskan beberapa masalah yang berkaitan dengan kesuitan-kesulitan yang dihadapi oleh perusahaan negara ini, terutama aspek keterlibatan pemerintah di dalamnya.
 
@@ -43,6 +43,6 @@ Presiden mengatakan bahwa memang benar pemerintah telah mengetahui, dan bahkan m
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 354.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 354.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Pertamina](https://soehartolibrary.id/tag/pertamina/), [Piet Haryono](https://soehartolibrary.id/tag/piet-haryono/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

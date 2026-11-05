@@ -40,7 +40,7 @@ relasi:
 
 # Presiden Soeharto Bentuk Irjenbang
 
-## (Menerima Menteri Keuangan AS dan Imelda Marcos)[[1]](#_ftn1)
+## (Menerima Menteri Keuangan AS dan Imelda Marcos)1
 
 SENIN, 22 April 1974, Presiden Soeharto telah membentuk beberapa Inspektur Jenderal Proyek-proyek Pembangunan (Irjenbang). Irjenbang ini diberi tugas untuk mengadakan pengawasaan terhadap pelaksanaan proyek-proyek pembangunan yang meliputi baik proyek sektoral, Inpres, bantuan desa maupun proyek-proyek daerah. Dalam melaksanakan tugasnya, Irjenbang mengadakan penelitian dan peninjauan pada proyek-proyek tersebut dan menyampaikan laporan kepada Presiden dan Wakil Presiden. Irjenbang menerima perintah dan petunjuk dari Presiden dan Wakil Presiden, serta bertanggungjawab kepada Presiden. Demikian ditetapkan dalam Keputusan Presiden No. 25 yang dikeluarkan hari ini.  Keputusan itu dikeluarkan dengan pertimbangan agar pelaksanaan proyek-proyek pembangunan  baik ditingkat nasional maupun daerah  dapat berjalan sesuai dengan landasan dan arah yang telah digariskan dalam Repelita II.
 
@@ -54,6 +54,6 @@ Malam ini pemerintah menaikkan harga delapan jenis bahan baku yang berasal dari 
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 118.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 118.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Filipina](https://soehartolibrary.id/tag/filipina/), [Goerge P Schultz](https://soehartolibrary.id/tag/goerge-p-schultz/), [Imelda Marcos](https://soehartolibrary.id/tag/imelda-marcos/), [Irjenbang](https://soehartolibrary.id/tag/irjenbang/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [repelita](https://soehartolibrary.id/tag/repelita/)

@@ -37,9 +37,9 @@ relasi:
 
 # Lee Kwan Yew: Presiden Soeharto, yang Utama Diantara yang Sederajad
 
-# Presiden Soeharto, yang Utama Diantara yang Sederajad[[1]](#_ftn1)
+# Presiden Soeharto, yang Utama Diantara yang Sederajad1
 
-## [Lee Kuan Yew](http://en.wikipedia.org/wiki/Lee_Kuan_Yew "Lee Kuan Yew")[[2]](#_ftn2)
+## [Lee Kuan Yew](http://en.wikipedia.org/wiki/Lee_Kuan_Yew "Lee Kuan Yew")2
 
 Saya bertemu pertama kali dengan Presiden Soeharto bulan September 1970 pada Pertemuan Tingkat Tinggi Gerakan Non-Blok di Lusaka. Pertemuan ini terjadi setelah adanya konfrontasi, dan masih adanya kecurigaan antara kami pada saat itu. Kami berbicara sekitar 30 menit di villa Soeharto mengenai perkembangan regional, dan saat itu kami banyak menemukan kesepahaman pandangan.
 
@@ -67,8 +67,8 @@ Pada akhirnya, sejarah akan menilai Soeharto secara adil. Beliau harus diberi te
 
 ---
 
-[[1]](#_ftnref1)       Penuturan Lee Kuan Yew  sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2002.
+1       Penuturan Lee Kuan Yew  sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2002.
 
-[[2]](#_ftnref2)       Lahir di Singapura, 16 September 1923, menjadi Perdana Menteri Singapura tahun 1959-1990. Ia bersekolah di SD Telok Kurau, Raffles Institution dan Raffles Coolege. Lee yang sejak 1942 belajar bahasa mandarin dan bahasa Jepang bekerja sebagai penulis laporan kilat Sekutu bagi Jepang serta menjadi editor bahasa Inggris untuk koran Jepang Hobudu pada 1943-1944. Kemudian Lee belajar hukuk di Fitzwilliam College, Inggris. Kembali ke Singapura pada 1949 ia menjadi pengacara di Biro Hukum Laycock & Ong.
+2       Lahir di Singapura, 16 September 1923, menjadi Perdana Menteri Singapura tahun 1959-1990. Ia bersekolah di SD Telok Kurau, Raffles Institution dan Raffles Coolege. Lee yang sejak 1942 belajar bahasa mandarin dan bahasa Jepang bekerja sebagai penulis laporan kilat Sekutu bagi Jepang serta menjadi editor bahasa Inggris untuk koran Jepang Hobudu pada 1943-1944. Kemudian Lee belajar hukuk di Fitzwilliam College, Inggris. Kembali ke Singapura pada 1949 ia menjadi pengacara di Biro Hukum Laycock & Ong.
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Asia Tenggara](https://soehartolibrary.id/tag/asia-tenggara/), [Gerakan](https://soehartolibrary.id/tag/gerakan/), [Lee Kuan Yew](https://soehartolibrary.id/tag/lee-kuan-yew/), [Non Blok](https://soehartolibrary.id/tag/non-blok/), [Sederajad](https://soehartolibrary.id/tag/sederajad/), [Utama](https://soehartolibrary.id/tag/utama/)

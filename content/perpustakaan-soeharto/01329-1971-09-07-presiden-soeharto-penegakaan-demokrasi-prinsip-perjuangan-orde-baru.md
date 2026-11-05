@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto: Penegakaan Demokrasi Prinsip Perjuangan Orde Baru
 
-## Eksekutif-Legislatif Serasi Jika Berpegang Haluan Negara[[1]](#_ftn1)
+## Eksekutif-Legislatif Serasi Jika Berpegang Haluan Negara1
 
 **SELASA,** **7****SEPTEMBER** **1971.** Hari ini Presiden dan Ibu Tien Soeharto berada di Pekan Baru untuk kunjungan selama dua hari di Provinsi Riau. Dalam briefingnya kepada para pejabat di daerah itu malam ini, Presiden berbicara mengenai masalah keluarga berencana dan demokrasi. Tentang keluarga berencana antara lain dikatakannya bahwa kaum pria harus konsekuen dalam melakukan keluarga berencana dan jangan hanya kaum wanitanya saja. Pada kesempatan itu Presiden mengungkapkan rencana pemerintah untuk mengaitkan sistem penggajian dengan keluarga berencana. Sistem sekarang ini di mana setiap anak pegawai yang lahir diberi tambahan tunjangan keluarga dan 10 kilogram beras tidak mendukung keluarga berencana, sehingga perlu ditinjau kembali.
 
@@ -52,6 +52,6 @@ Menyinggung masalah demokrasi, Presiden Soeharto mengatakan bahwa kerjasama anta
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 364. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 364. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ibu Tien](https://soehartolibrary.id/tag/ibu-tien/), [Keluarga Berencana](https://soehartolibrary.id/tag/keluarga-berencana/), [Pekan Baru](https://soehartolibrary.id/tag/pekan-baru/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Riau](https://soehartolibrary.id/tag/riau/)

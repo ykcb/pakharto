@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto Meninjau Pengungsi Vietnam Pulau Galang
 
-## Menuju Singapura, Temui Lee Kwan Yew[[1]](#_ftn1)
+## Menuju Singapura, Temui Lee Kwan Yew1
 
 **SENIN, 17 SEPTEMBER** **1979** Dengan menggunakan pesawat Hercules C-130 TNI-AU, pagi ini Presiden Soeharto meninggalkan Jakarta menuju Tanjung Pinang, Riau Kepulauan. Dari Tanjung Pinang, Presiden kemudian melanjutkan perjalanan menuju Pulau Galang, dengan helikopter, untuk meninjau tempat pemrosesan pengungsi Vietnam. Dalam peninjauan ini Presiden didampingi oleh Menteri/Sekretaris Negara, Sudharmono, Menteri Hankam/Pangab, Jenderal M Jusuf, KSAU Ashadi Tjahjadi, Panglima Kowilhan I, Letjen. Mantik.
 
@@ -56,6 +56,6 @@ Surat tersebut diharapkan sudah diterima oleh para camat pada keesokan harinya. 
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 204-205. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 204-205. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/), [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Lee Kuan Yew](https://soehartolibrary.id/tag/lee-kuan-yew/), [Pengungsi Vietnam](https://soehartolibrary.id/tag/pengungsi-vietnam/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Pulau Galang](https://soehartolibrary.id/tag/pulau-galang/), [Singapura](https://soehartolibrary.id/tag/singapura/)

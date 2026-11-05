@@ -90,6 +90,6 @@ Suasana waktu itu cukup senyap sekalipun kami tetap berada dalam kesiagaan. Kami
 
 ---
 
-[[1]](#_ftnref1)     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 39-42.
+1     Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH, diterbitkan PT Citra Kharisma Bunda Jakarta, tahun 1982, hal 39-42.
 
  [Masa Perjuangan](https://soehartolibrary.id/category/biografi/masa-perjuangan/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Kepala negara Agresi Belanda](https://soehartolibrary.id/tag/kepala-negara-agresi-belanda/), [Maguwo](https://soehartolibrary.id/tag/maguwo/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

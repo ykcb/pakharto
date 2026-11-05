@@ -50,6 +50,6 @@ SELASA, 18 FEBRUARI 1969. Sidang sub-Dewan Stabilisasi Ekonomi yang dipimpin ole
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1     Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 57. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Bonded](https://soehartolibrary.id/tag/bonded/), [Dewan](https://soehartolibrary.id/tag/dewan/), [Ekonomi](https://soehartolibrary.id/tag/ekonomi/), [Industri](https://soehartolibrary.id/tag/industri/), [Produksi](https://soehartolibrary.id/tag/produksi/), [Pupuk](https://soehartolibrary.id/tag/pupuk/), [repelita](https://soehartolibrary.id/tag/repelita/), [Stabilisasi](https://soehartolibrary.id/tag/stabilisasi/), [warehouse](https://soehartolibrary.id/tag/warehouse/)

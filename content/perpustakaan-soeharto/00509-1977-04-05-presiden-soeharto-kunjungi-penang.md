@@ -40,7 +40,7 @@ relasi:
 
 # 1977-04-05 Presiden Soeharto Kunjungi Penang
 
-# Presiden Soeharto Kunjungi Penang[[1]](#_ftn1)
+# Presiden Soeharto Kunjungi Penang1
 
 SELASA, 5 April 1977, Pagi ini Presiden Soeharto tiba di Penang, Malaysia, untuk melakukan pembicaraan tidak resmi dengan PM Malaysia, Hussein Onn. Dalam pertemuan yang berlangsung di Wisma Persekutuan yang terletak di Tepi Pantai Pulau Penang, dibicarakan hal-hal yang menyangkut penyelenggaraan KTT ASEAN yang akan datang. KTT ASEAN tersebut akan diadakan pada bulan Agustus nanti di Kuala Lumpur, bertepatan dengan peringatan sepuluh tahun usia ASEAN.
 
@@ -48,6 +48,6 @@ Pada pertemuan itu juga telah disinggung masalah kerjasama antar ASEAN dan masal
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 476.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 476.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Asean](https://soehartolibrary.id/tag/asean/), [Asia](https://soehartolibrary.id/tag/asia/), [Datuk Husen Onn](https://soehartolibrary.id/tag/datuk-husen-onn/), [Fasifik](https://soehartolibrary.id/tag/fasifik/), [Malaysia](https://soehartolibrary.id/tag/malaysia/), [Penang](https://soehartolibrary.id/tag/penang/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/)

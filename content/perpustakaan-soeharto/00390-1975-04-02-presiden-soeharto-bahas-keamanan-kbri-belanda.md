@@ -38,7 +38,7 @@ relasi:
 
 # Presiden Soeharto Bahas Keamanan KBRI Belanda
 
-## (Menerima Kunjungan Menteri Kebudayaan, Rekreasi dan Pekerjaan Sosial Belanda)[[1]](#_ftn1)
+## (Menerima Kunjungan Menteri Kebudayaan, Rekreasi dan Pekerjaan Sosial Belanda)1
 
 RABU, 2 April 1975, Presiden  Soeharto hari ini di Istana Merdeka menerima kunjungan Menteri Kebudayaan, Rekreasi dan Pekerjaan Sosial Kerajaan Belanda, Henri Willem van Doorn. Pada kesempatan itu telah dibahas masalah hubungan bilateral kedua negara, terutama menyangkut persoalan pengamanan terhadap KBRI dan serangan para demonstran, disamping masalah bantuan luar negeri untuk Indonesia. Usai pertemuan, Menteri van Doorn mengatakan kepada pers bahwa pemerintahnya akan menempuh segala jalan yang mungkin untuk memelihara persahabatan dengan Indonesia. Ditegaskannya bahwa negerinya akan berusaha sekuat tenaga untuk mencegah terjadinya demonstrasi anti-Indonesia di masa-masa mendatang, sehingga keamanan KBRI benar-benar terjamin.
 
@@ -46,6 +46,6 @@ Diungkapkannya pula bahwa dalam pertemuan itu Presiden Soeharto telah menjelaska
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 234.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 234.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Belanda](https://soehartolibrary.id/tag/belanda/), [KBRI](https://soehartolibrary.id/tag/kbri/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [van Doorn](https://soehartolibrary.id/tag/van-doorn/)

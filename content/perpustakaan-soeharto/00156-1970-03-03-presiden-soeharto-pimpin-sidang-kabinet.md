@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto Pimpin Sidang Kabinet
 
-## (Evaluasi Umum Pelaksanaan Pelita I)[[1]](#_ftn1)
+## (Evaluasi Umum Pelaksanaan Pelita I)1
 
 SELASA, 3 Maret 1970, Hari ini Presiden Soeharto memimpin sidang paripurna kabinet di Istana Negara. Sidang kabinet kali ini mengadakan penilaian umum atas pelaksanaan Pelita I, yang oleh Presiden dianggap penting dalam rangka koreksi dan penentuan langkah bagi pelaksanaan Pelita II. Selain itu Presiden  juga menguraikan tentang gagasannya untuk melancarkan dan mengamankan pemilihan umum. Presiden menjelaskan bahwa gagasannya ini dimaksudkan agar tidak terjadi konflik antar sesama kekuatan politik sejak masa kampanye sampai pemungutan suara. Sementara itu menanggapi laporan Jaksa Agung, Presiden Soeharto membenarkan tindakan Jaksa Agung untuk menyelesaikan perkara penyelewengan Bimas Coopa di luar pengadilan. Cara penyelesaian ini dipandang Presiden Soeharto lebih menguntungkan dan adalah juga untuk kepentingan umum.
 
@@ -50,6 +50,6 @@ Wilipo SH, selaku Pimpinan Komisi Empat, bertemu dengan Presiden Soeharto sehubu
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 207
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 207
 
  [Agenda Kabinet](https://soehartolibrary.id/category/aktifitas-kenegaraan/agenda-kabinet/)  [Agung](https://soehartolibrary.id/tag/agung/), [Bimmas](https://soehartolibrary.id/tag/bimmas/), [Coopa](https://soehartolibrary.id/tag/coopa/), [Kejaksaan](https://soehartolibrary.id/tag/kejaksaan/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/)

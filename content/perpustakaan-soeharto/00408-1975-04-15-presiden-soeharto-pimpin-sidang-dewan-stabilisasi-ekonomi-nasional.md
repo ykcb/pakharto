@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi Nasional
 
-## (Instruksikan PT. Krakatau Steel Agar Mampu Produksi 500.000 Ton Pertahun)[[1]](#_ftn1)
+## (Instruksikan PT. Krakatau Steel Agar Mampu Produksi 500.000 Ton Pertahun)1
 
 SELASA, 15 April 1975, Kepala Negara memimpin Sidang Dewan Stabilisasi Ekonomi Nasional di Bina Graha pagi ini. Sidang yang berlangsung mulai jam 10.00 itu, antara lain telah membicarakan masalah perkembangan harga dan moneter pada umumnya, serta industri semen. Menyangkut moneter, Menteri Keuangan melaporkan tentang perkembangan dalam jangka pendek yang memperlihatkan gejala-gejala positif. Umpamanya jumlah uang beredar dalam minggu kedua dan ketiga bulan Maret yang lalu meningkat dari Rp. 985,8 milyar menjadi Rp. 1,024 milyar, sementara untuk periode yang sama terdapat kenaikan Tabanas dari Rp. 51,9 milyar menjadi Rp. 52,7 milyar. Juga terjadi kenaikan yang cukup besar didalam jumlah kredit perbankan dalam waktu yang sama yaitu dari Rp. 1.495 milyar menjadi Rp. 1.511,9 milyar. Indeks harga sembilan bahan pokok pada minggu pertama bulan April ini dilaporkan menurun sebesar 0,86%.
 
@@ -54,6 +54,6 @@ Kepala Negara menginstuksikan agar pabrik baja PT Krakatau Steel dapat merealisa
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal 237-238.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal 237-238.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Dewan Stabilisasi Ekonomi Nasional](https://soehartolibrary.id/tag/dewan-stabilisasi-ekonomi-nasional/), [Gresik](https://soehartolibrary.id/tag/gresik/), [M. Jusuf](https://soehartolibrary.id/tag/m-jusuf/), [Menteri Perindustrian](https://soehartolibrary.id/tag/menteri-perindustrian/), [Padang](https://soehartolibrary.id/tag/padang/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [PT. Krakatau Steel](https://soehartolibrary.id/tag/pt-krakatau-steel/), [Semen](https://soehartolibrary.id/tag/semen/), [T Ariwibowo](https://soehartolibrary.id/tag/t-ariwibowo/), [Tonasa](https://soehartolibrary.id/tag/tonasa/)

@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto Jawab Nixon: Musuh Paling Besar Indonesia Jika Pelita Gagal
 
-## (Adakan Inspeksi Departemen Perdagangan, Bulog, Entreport Umum dan Lemlit Bulog)[[1]](#_ftn1)
+## (Adakan Inspeksi Departemen Perdagangan, Bulog, Entreport Umum dan Lemlit Bulog)1
 
 KAMIS, 07 AGUSTUS 1969,Presiden Soeharto pagi ini mengadakan inspeksi ke Departemen Perdagangan, Bulog, Entreport Umum dan lembaga penelitian Bulog di Tambun (Bekasi). Pada kesempatan ini Presiden telah mengungkapkan pembicaraannya dengan Presiden Nixon baru-baru ini. Dalam pembicaraan tersebut Nixon menanyakan kepadanya mengenai musuh paling besar bagi Indonesia. Pertanyaan ini dijawab oleh Presiden Soeharto bahwa musuh Indonesia paling besar ialah kalau Pelita gagal. Dijelaskan oleh Presiden kepada Nixon bahwa kalau pelita gagal, maka rakyat tidak akan percaya lagi pada pemerintah dengan segala rencana pembangunannya dan tidak percaya lagi pada dirinya sendiri.
 
@@ -50,6 +50,6 @@ Dalam sambutan tertulisnya pada pembukaan Konferensi Kerja Nasional Kepariwisata
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 148-149. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 148-149. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Indonesia](https://soehartolibrary.id/tag/indonesia/), [Musuh](https://soehartolibrary.id/tag/musuh/), [Nixon](https://soehartolibrary.id/tag/nixon/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

@@ -38,7 +38,7 @@ relasi:
 
 26 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1978-09-15-presiden-soeharto-buka-lomba-dan-pameran-ternak-nasional-iii/#respond)  149 Views Share on
 
-# Presiden Soeharto Buka Lomba dan Pameran Ternak Nasional III[[1]](#_ftn1)
+# Presiden Soeharto Buka Lomba dan Pameran Ternak Nasional III1
 
 **JUM’AT, 15 SEPTEMBER 1978** Pagi ini di Kartosuro, Jawa Tengah, Presiden Soeharto membuka dengan resmi Lomba dan Pameran Ternak Nasional III, yang meliputi sapi potong, sapi perah dan unggas. Dalam kata sambutannya, Presiden mengatakan bahwa penyelenggaraan  lomba dan pameran ternak kali ini merupakan peningkatan yang baik sekali, karena itu dimintanya agar tradisi lomba dan pameran ternak ini hendaknya dapat dilanjutkan dan dilembagakan. Dengan demikian diharapkan lomba dan pameran semacam ini akan benar-benar memberikan manfaat pendidikan dan penyuluhan bagi para peternak khususnya, dan masyarakat luar pada umumnya.
 
@@ -48,6 +48,6 @@ Pertama, penyediaan bibit ternak unggul, yaitu jenis ternak yang berbadan gemuk-
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 63. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 63. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Kartosuro](https://soehartolibrary.id/tag/kartosuro/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Pameran Ternak](https://soehartolibrary.id/tag/pameran-ternak/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

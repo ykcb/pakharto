@@ -33,9 +33,9 @@ relasi:
 
 7 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/#respond)  193 Views Share on
 
-# Negara dan Bangsa Hanya Sebaik Pemimpinnya[[1]](#_ftn1)
+# Negara dan Bangsa Hanya Sebaik Pemimpinnya1
 
-## Oleh: Tanri Abeng[[2]](#_ftn2)
+## Oleh: Tanri Abeng2
 
 Sebagai manajer puncak sebuah negara-bangsa, Pak Harto memiliki kombinasi kemampuan manajerial yang hebat dengan kepiawaian memimpin. Tidak banyak pemimpin yang memiliki kompetensi ini. Ada yang pandai memimpin  tetapi manajemennya kacau, atau sebaliknya ada yang menguasai manajemen tetapi kepemimpinannya lemah.
 
@@ -179,8 +179,8 @@ Sungguh sangat saya sesalkan Pak Harto tidak merasakan langsung semua keberhasil
 
 ---
 
-[[1]](#_ftnref1)       Penuturan Tanri Abeng sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 198.
+1       Penuturan Tanri Abeng sebagaimana dikutip dari Buku “Pak Harto The Untold Stories”, (Jakarta: PT. Gramedia Pustaka Utama, 2011, hal 198.
 
-[[2]](#_ftnref2)       Tanri Abeng, merupakan Menteri Negara BUMN Republik Indonesia yang pertama, lahir di Selayar, 7 Maret 1942. Malang melintang menimba ilmu di Amerika Serikat, di usia 29 ia menjadi Direktur sekaligus *Coorporate Secretary* termuda sebuah perusahaan asing dan berkedudukan di Singapura. Ia meraih doktor Ilmu Multidisiplin di Universitas Gajah Mada, Yogyakarta dengan predikat *cumlaud*. Ia pernah menjadi komisaris PT Bursa Efek Jakarta, dan Komisaris Utama PT Telkom. Kini ia juga menjabat host program “Managing The Nation with Dr. Tanri Abeng” di Metro TV.
+2       Tanri Abeng, merupakan Menteri Negara BUMN Republik Indonesia yang pertama, lahir di Selayar, 7 Maret 1942. Malang melintang menimba ilmu di Amerika Serikat, di usia 29 ia menjadi Direktur sekaligus *Coorporate Secretary* termuda sebuah perusahaan asing dan berkedudukan di Singapura. Ia meraih doktor Ilmu Multidisiplin di Universitas Gajah Mada, Yogyakarta dengan predikat *cumlaud*. Ia pernah menjadi komisaris PT Bursa Efek Jakarta, dan Komisaris Utama PT Telkom. Kini ia juga menjabat host program “Managing The Nation with Dr. Tanri Abeng” di Metro TV.
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)

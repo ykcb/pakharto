@@ -37,9 +37,9 @@ relasi:
 
 # Pak Harto: Pemimpin Indonesia Akan Muncul dengan Sendirinya
 
-# Pak Harto: Pemimpin Indonesia Akan Muncul dengan Sendirinya[[1]](#_ftn1)
+# Pak Harto: Pemimpin Indonesia Akan Muncul dengan Sendirinya1
 
-## Oleh: Rachmat Saleh[[2]](#_ftn2)
+## Oleh: Rachmat Saleh2
 
 Ada sekelumit kenangan yang saya simpan  dari suatu percakapan yang tidak bersifat kedinasan, percakapan ini saya nilai unik sekali. Percakapan yang bagi saya pribadi sangat meninggalkan kesan ini berlangsung tidak lama setelah timbulnya peristiwa Malari (red = 1974).
 
@@ -51,8 +51,8 @@ Tertegunlah saya sewaktu tanpa diduga-duga Pak Harto “ber filsafat” tentang 
 
 ---
 
-[[1]](#_ftnref1) Rachmat Saleh, “Memperjuangkan Pemerataan Hasil Pembangunan” dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 528-529.
+1 Rachmat Saleh, “Memperjuangkan Pemerataan Hasil Pembangunan” dalam buku “Diantara Para Sahabat: Pak Harto 70 Tahun”, (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 528-529.
 
-[[2]](#_ftnref2) Gubernur Bank Sentral Masa Bakti 1973-1983; dan Menteri Perdagangan masa bakti 1983-1988.
+2 Gubernur Bank Sentral Masa Bakti 1973-1983; dan Menteri Perdagangan masa bakti 1983-1988.
 
  [Untold Stories](https://soehartolibrary.id/category/untold-stories/)  [Ali Wardhana](https://soehartolibrary.id/tag/ali-wardhana/), [Malari](https://soehartolibrary.id/tag/malari/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [suksesi](https://soehartolibrary.id/tag/suksesi/)

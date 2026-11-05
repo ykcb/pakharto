@@ -43,7 +43,7 @@ relasi:
 
 # Kampong Pak Harto di Tanjong Nalia Malaysia
 
-## (Ketahanan Nasional Merupakan Prasyarat Stabilitas Asia Tenggara)[[1]](#_ftn1)
+## (Ketahanan Nasional Merupakan Prasyarat Stabilitas Asia Tenggara)1
 
 RABU, 18  Maret 1970, Diantar oleh Wakil PM Tun Abdul Razak, pada hari ketiga atau hari terakhir kunjungannya ke Malaysia, Presiden Soeharto melakukan perjalanan darat sejauh 47 mil ke utara Kuala Lumpur, untuk meninjau berbagai proyek pembangunan di pedalaman Malaysia. Proyek yang dikunjungi adalah “Pusat Rancangan Perkembangan Tanah Persekutuan” di Sungai Dusun, Tanjong Nalia. Proyek pedesaan seluas 8.135 akre yang ditanami karet dan kelapa sawit ini oleh para pejabat Malaysia diberi nama “*Kampong Pak Harto*”.
 
@@ -53,6 +53,6 @@ Sementara berada di Malaysia, Presiden Soeharto telah memutuskan agar kapal ”G
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 210
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 210
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Gambela](https://soehartolibrary.id/tag/gambela/), [Haji](https://soehartolibrary.id/tag/haji/), [Kampong](https://soehartolibrary.id/tag/kampong/), [Malaysia](https://soehartolibrary.id/tag/malaysia/), [Nalia](https://soehartolibrary.id/tag/nalia/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Tanjong](https://soehartolibrary.id/tag/tanjong/)

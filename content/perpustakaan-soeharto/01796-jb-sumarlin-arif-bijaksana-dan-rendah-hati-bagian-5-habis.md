@@ -40,7 +40,7 @@ relasi:
 
 7 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-5-habis/#respond)  175 Views Share on
 
-# Arif, Bijaksana dan Rendah Hati (Bagian 5, Habis)[[1]](#_ftn1)
+# Arif, Bijaksana dan Rendah Hati (Bagian 5, Habis)1
 
 ## Lima Karakteristik Kepemimpinan
 
@@ -72,8 +72,8 @@ Demikianlah beberapa kesan dan pengalaman saya, sebagai salah seorang pembantu P
 
 ---
 
-[[1]](#_ftnref1)     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
+1     JB Sumarlin, “Arif, Bijaksana dan Rendah Hati”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 103-128.
 
-[[2]](#_ftnref2)     Menteri Keuangan dalam Kabinet Pembangunan V
+2     Menteri Keuangan dalam Kabinet Pembangunan V
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/)  [JB Sumarlin](https://soehartolibrary.id/tag/jb-sumarlin/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Kepemimpinan](https://soehartolibrary.id/tag/kepemimpinan/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

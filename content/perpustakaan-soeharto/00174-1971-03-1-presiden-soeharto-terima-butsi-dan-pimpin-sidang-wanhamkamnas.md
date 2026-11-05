@@ -38,7 +38,7 @@ relasi:
 
 # Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas
 
-## (Pentingnya Pembangunan Hankamnas Selain Ekonomi)[[1]](#_ftn1)
+## (Pentingnya Pembangunan Hankamnas Selain Ekonomi)1
 
 SENIN, 1  Maret 1971, Presiden Soeharto sangat menghargai kerelaan para sarjana untuk bekerja di pedesaan. Hal ini diungkapkan ketika ia menerima 30 orang sarjana yang mengikuti program Badan Urusan Tenagakerja Sukarela Indonesia (BUTSI) di Bina Graha hari ini. Pada kesempatan itu Presiden memberikan pengarahan-pengarahan kepada para peserta BUTSI tersebut. Dikatakan oleh Presiden bahwa rakyat di desa sangat memerlukan bimbingan dari tenaga ahli. Rakyat pedesaan perlu dibimbing untuk meningkatkan produksi dan penghasilan, dengan begitu kita dapat meningkatkan kemakmuran rakyat di desa-desa, yang merupakan mayoritas daripada bangsa kita. Demikian antara lain dikatakan Presiden.
 
@@ -50,6 +50,6 @@ Pagi hari Jenderal Soeharto dalam kapasitas sebagai Ketua Dewan Pertahanan dan K
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 309-310
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal 309-310
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Pelita](https://soehartolibrary.id/tag/pelita/), [Presiden](https://soehartolibrary.id/tag/presiden/), [Soeharto](https://soehartolibrary.id/tag/soeharto/), [Wanhamkamnas](https://soehartolibrary.id/tag/wanhamkamnas/)

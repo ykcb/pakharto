@@ -37,7 +37,7 @@ relasi:
 
 # Presiden Soeharto Lantik Enam Duta Besar Baru
 
-## (ASEAN Bukan Untuk Menghadapi Kelompok Manapun)[[1]](#_ftn1)
+## (ASEAN Bukan Untuk Menghadapi Kelompok Manapun)1
 
 SABTU, 27 MARET  1976, Enam orang Duta Besar baru dilantik oleh Kepala Negara pukul 09.00 pagi ini di Istana Merdeka. Keenam duta besar itu adalah Duta besar Adlinsyah Jenie untuk Sri Lanka, Duta Besar Utayo Sutoto untuk Suriname, Duta Besar Hardi SH untuk Republik Demokrasi Vietnam, Duta Besar R Kusumasmoro MA untuk Argentina, Duta Besar Djanamar Adjam untuk Kerajaan Saudi Arabia, dan RAS Hardojo untuk Ethiopia.
 
@@ -45,6 +45,6 @@ Dalam pidato pelantikannya, Presiden mengatakan bahwa ASEAN tidak ditujukan untu
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.348-349.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.348-349.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Asean](https://soehartolibrary.id/tag/asean/), [Duta Besar](https://soehartolibrary.id/tag/duta-besar/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

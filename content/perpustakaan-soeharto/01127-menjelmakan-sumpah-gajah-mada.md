@@ -61,6 +61,6 @@ Sementara saya sibuk memikirkan soal Palapa itu, kabar duka sampai pada saya, me
 
 ---
 
-[[1]](#_ftnref1)        Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta tahun 1982, hlm 323.
+1        Penuturan Presiden Soeharto, dikutip dari buku “*Soeharto: Pikiran, Ucapan dan Tindakan Saya*” yang ditulis G. Dwipayana dan Ramadhan KH,  diterbitkan PT Citra Kharisma Bunda Jakarta tahun 1982, hlm 323.
 
  [Biografi](https://soehartolibrary.id/category/biografi/), [Soeharto Pikiran dan Tindakan](https://soehartolibrary.id/category/soeharto-pikiran-dan-tindakan/)  [Alvin Tofflrer](https://soehartolibrary.id/tag/alvin-tofflrer/), [Amerika](https://soehartolibrary.id/tag/amerika/), [Gelombang Ketiga](https://soehartolibrary.id/tag/gelombang-ketiga/), [MPR](https://soehartolibrary.id/tag/mpr/), [negara berkembang](https://soehartolibrary.id/tag/negara-berkembang/), [Palapa A](https://soehartolibrary.id/tag/palapa-a/), [Palapa B](https://soehartolibrary.id/tag/palapa-b/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [satelit palapa](https://soehartolibrary.id/tag/satelit-palapa/), [Sumpah Gajah Mada](https://soehartolibrary.id/tag/sumpah-gajah-mada/)

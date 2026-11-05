@@ -43,7 +43,7 @@ Kepada
 
 di rumah
 
-# Hati Saya Hancur[[1]](#_ftn1)
+# Hati Saya Hancur1
 
 **Dengan Hormat,**
 
@@ -65,6 +65,6 @@ Balikpapan
 
 ---
 
-[[1]](#_ftnref1)       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 832. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
+1       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 832. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
 
  [Simpati](https://soehartolibrary.id/category/biografi/simpati/)  [Balikpapan](https://soehartolibrary.id/tag/balikpapan/), [Pengunduran Diri](https://soehartolibrary.id/tag/pengunduran-diri/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

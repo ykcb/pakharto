@@ -46,6 +46,6 @@ KAMIS 29 JANUARI 1970, Pagi ini Presiden Soeharto meresmikan kembali kelanjutan 
 
 ---
 
-[[1]](#_ftnref1)     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
+1     Dikutip dari buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Banteng](https://soehartolibrary.id/tag/banteng/), [Hotel](https://soehartolibrary.id/tag/hotel/), [Pengecoran](https://soehartolibrary.id/tag/pengecoran/), [Peresmian](https://soehartolibrary.id/tag/peresmian/), [Tombol](https://soehartolibrary.id/tag/tombol/)

@@ -39,7 +39,7 @@ relasi:
 
 1 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/menang-tanpa-ngasorake-bagian-3/#respond)  133 Views Share on
 
-# Menang Tanpa Ngasorake (Bagian 3)[[1]](#_ftn1)
+# Menang Tanpa Ngasorake (Bagian 3)1
 
 ## Emil Salim[**[2]**](#_ftn2)
 
@@ -91,8 +91,8 @@ Saya belajar banyak dari beliau. Yang paling mengesankan adalah pelajaran tentan
 
 ---
 
-[[1]](#_ftnref1) Emil Salim, “Menang Tanpa Ngasorake”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 385-402. Red: Menang Tanpa Ngasorake (Jawa): “Menang tanpa pihak lawan merasa terkalahkan/terendahkan/terlecehkan”.
+1 Emil Salim, “Menang Tanpa Ngasorake”, dikutip dari buku “Di Antara Para Sahabat: Pak Harto 70 Tahun” (Jakarta: PT. Citra Kharisma Bunda, 2009), hal 385-402. Red: Menang Tanpa Ngasorake (Jawa): “Menang tanpa pihak lawan merasa terkalahkan/terendahkan/terlecehkan”.
 
-[[2]](#_ftnref2)  Menteri Negara Kependudukan dan Lingkungan Hidup dalam Kabinet Pembangunan V
+2  Menteri Negara Kependudukan dan Lingkungan Hidup dalam Kabinet Pembangunan V
 
  [Opini](https://soehartolibrary.id/category/tinggal-landas/opini/), [Tinggal Landas](https://soehartolibrary.id/category/tinggal-landas/)  [Emil Salim](https://soehartolibrary.id/tag/emil-salim/), [lingkungan](https://soehartolibrary.id/tag/lingkungan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

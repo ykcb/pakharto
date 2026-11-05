@@ -41,12 +41,12 @@ relasi:
 
 # 1973-05-14 Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat
 
-# Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat[[1]](#_ftn1)
+# Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat1
 
 SENIN, 14 Mei 1973, Sejumlah mesin giling, truk dan mesin pemecah batu, pagi ini diserahkan oleh Presiden Soeharto kepada provinsi-provinsi NTB dan NTT. Bantuan prasarana perhubungan darat itu diserahkan secara simbolis dalam suatu upacara di Bina Graha kepada Gubernur NTB Wasino Kusumah dan Gubernur NTT El Tari, yang di dampingi oleh Pangdam Udaya Brigjen. Yogi Supardi. (AFR)
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 20.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 20.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Brigjen. Yogi Supardi](https://soehartolibrary.id/tag/brigjen-yogi-supardi/), [Gubernur NTT El Tari](https://soehartolibrary.id/tag/gubernur-ntt-el-tari/), [NTB](https://soehartolibrary.id/tag/ntb/), [NTT](https://soehartolibrary.id/tag/ntt/), [Pangdam Udaya](https://soehartolibrary.id/tag/pangdam-udaya/), [perhubungan](https://soehartolibrary.id/tag/perhubungan/), [Prasarana](https://soehartolibrary.id/tag/prasarana/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Wasino Kusumah](https://soehartolibrary.id/tag/wasino-kusumah/)

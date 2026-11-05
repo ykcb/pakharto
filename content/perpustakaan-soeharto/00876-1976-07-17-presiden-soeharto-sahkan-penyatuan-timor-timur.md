@@ -46,7 +46,7 @@ relasi:
 
 # 1976-07-17 Presiden Soeharto Sahkan Penyatuan Timor-Timur
 
-# Presiden Soeharto Sahkan Penyatuan Timor-Timur[[1]](#_ftn1)
+# Presiden Soeharto Sahkan Penyatuan Timor-Timur1
 
 SABTU, 17 Juli 1976  Pada jam 10.00 pagi ini, bertempat di Bina Graha, Presiden Soeharto menandatangani Undang-undang No. 7 Tahun 1976 tentang pengesahan Timor-Timur kedalam Republik Indonesia dan pembentukan Provinsi Daerah Tingkat I Timor Timur. Dengan demikian sejak hari ini Timor-Timur secara resmi menjadi provinsi Indoensia yang ke-27 dan mengakhiri penjajahan Portugis selama 400 tahun.
 
@@ -56,6 +56,6 @@ Pada kesmepatan itu pula Presiden mengangkat Arnaldo des Rois Araujo dan Lopez d
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 377. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
+1 Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 377. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Amirmachmud](https://soehartolibrary.id/tag/amirmachmud/), [Arnaldo des Rois Araujo](https://soehartolibrary.id/tag/arnaldo-des-rois-araujo/), [Bendera Pusaka](https://soehartolibrary.id/tag/bendera-pusaka/), [Ir. Mario Carrascalao](https://soehartolibrary.id/tag/ir-mario-carrascalao/), [Lopez da Cruz](https://soehartolibrary.id/tag/lopez-da-cruz/), [Maria Guilherme Gonzalvez](https://soehartolibrary.id/tag/maria-guilherme-gonzalvez/), [menteri dalam negeri](https://soehartolibrary.id/tag/menteri-dalam-negeri/), [Menteri/Sekretaris Negara](https://soehartolibrary.id/tag/menterisekretaris-negara/), [Merah Putih](https://soehartolibrary.id/tag/merah-putih/), [Penjajahan](https://soehartolibrary.id/tag/penjajahan/), [Portugis](https://soehartolibrary.id/tag/portugis/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sudharmono](https://soehartolibrary.id/tag/sudharmono/), [Timor-Timur](https://soehartolibrary.id/tag/timor-timur/)

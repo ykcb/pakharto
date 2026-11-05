@@ -34,7 +34,7 @@ relasi:
 
 # Presiden Soeharto: Tapos Untuk Hasilkan Pejantan Yang Baik
 
-## (Paparkan Tujuan Pokok Usaha Peternakan “Sari Silang Studi”)[[1]](#_ftn1)
+## (Paparkan Tujuan Pokok Usaha Peternakan “Sari Silang Studi”)1
 
 MINGGU, 10 April 1977, kurang lebih 100 orang anggota Kontak Tani hari ini mengadakan kunjungan ke usaha pertanian “Tri-S” di Tapos, dan usaha pertanian campuran di Ciomas. Kinjungan mereka diterima langsung oleh Presiden Soeharto. Dalam kesempatan itu, Presiden Soeharto telah memberikan penjelasan mengenai peternakan dan pertanian kepada para peserta Kontak Tani tersebut secara lancar dan dengan menggunakan bahasa yang mudah dimengerti oleh para peserta.
 
@@ -44,6 +44,6 @@ Galeri Foto:
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 479.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 479.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)

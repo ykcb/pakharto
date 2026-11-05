@@ -43,7 +43,7 @@ relasi:
 
 # 1974-07-16 Presiden Soeharto Setujui Pembebasan Pajak Docking Galangan Dalam Negeri
 
-# Presiden Soeharto Setujui Pembebasan Pajak *Docking* Galangan Dalam Negeri [[1]](#_ftn1)
+# Presiden Soeharto Setujui Pembebasan Pajak *Docking* Galangan Dalam Negeri 1
 
 SELASA, 16 Juli 1974, Pukul 10.00 pagi ini Presiden Soeharto memimpin Sidang Dewan Stabilitas Ekonomi Nasional  yang berlangsung di Bina Graha, Jakarta. Sidang hari ini telah membahas berbagai masalah ekonomi dan keuangan. Dalam sidang tersebut, Kepala Negara telah menyetujui diberlakukannya pembebasan pajak penjualan atau jasa *docking* dan reparasi kapal yang dikerjakan oleh industri kapal dalam negeri. Persetujuan Kepala Negara diberikan atas dasar pertimbangan bahwa Pemerintah perlu mendorong pengembangan industri galangan kapal dalam negeri.
 
@@ -51,6 +51,6 @@ Di dalam sidang kali ini Menteri Perhubungan Emil Salim telah melaporkan mengena
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 137-138. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 137-138. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ali Wardhana](https://soehartolibrary.id/tag/ali-wardhana/), [Dcoking](https://soehartolibrary.id/tag/dcoking/), [Emil Salim](https://soehartolibrary.id/tag/emil-salim/), [Galangan Kapal](https://soehartolibrary.id/tag/galangan-kapal/), [Industri](https://soehartolibrary.id/tag/industri/), [Pajak](https://soehartolibrary.id/tag/pajak/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Tanjung Priuk](https://soehartolibrary.id/tag/tanjung-priuk/)

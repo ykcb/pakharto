@@ -47,7 +47,7 @@ relasi:
 
 # Presiden Soeharto Kunjungi Lembaga Pendidikan Tertua Padang Panjang dan Resmikan Pusri II
 
-## Intensifikasi Pertanian Mustahil Tanpa Pupuk[[1]](#_ftn1)
+## Intensifikasi Pertanian Mustahil Tanpa Pupuk1
 
 KAMIS, 08 AGUSTUS 1974, Pagi ini Presiden dan rombongan meninggalkan Bukittinggi menuju Padang, untuk selanjutnya terbang ke Palembang. Dalam perjalanan ke Padang, Presiden dan Ibu Soeharto singgah selama setengah jam di Padang Panjang untuk meninjau Perguruan Diniyah Puteri. Perguruan ini merupakan salah sebuah lembaga pendidikan tertua di Sumatera Barat. Di sini Kepala Negara sangat terharu melihat asrama pelajar yang ada dalam keadaan menyedihkan. Ia berjanji akan memberi bantuan untuk pembangunan asrama sekolah tersebut.
 
@@ -57,6 +57,6 @@ Presiden mengingatkan bahwa kebutuhan kita akan pupuk masih lebih besar dari apa
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 146-147. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 146-147. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Bukittinggi](https://soehartolibrary.id/tag/bukittinggi/), [Padang](https://soehartolibrary.id/tag/padang/), [padang panjang](https://soehartolibrary.id/tag/padang-panjang/), [Palembang](https://soehartolibrary.id/tag/palembang/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Pusri II](https://soehartolibrary.id/tag/pusri-ii/), [Pusri III](https://soehartolibrary.id/tag/pusri-iii/)

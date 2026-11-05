@@ -42,7 +42,7 @@ relasi:
 
 # Presiden Soeharto: Membayar Pajak Merupakan Realisasi Falsafah Pancasila
 
-## (Masalah Perpajakan Perlu Diajarkan di Sekolah)[[1]](#_ftn1)
+## (Masalah Perpajakan Perlu Diajarkan di Sekolah)1
 
 SELASA, 30 MARET  1976, Presiden Soeharto menyatakan pendapatnya bahwa membayar pajak kepada negara merupakan realisasi kehidupan Pancasila, oleh karena itu sistem perpajakan di Indonesia harus pula sesuai dengan falsafah Pancasila. Untuk merealisasikan cita-cita tersebut, demikian Presiden, maka masalah perpajakan dapatlah hendaknya diajarkan di sekolah-sekolah, terutama sejak SMA. Hal ini dikemukakan Kepala Negara kepada para wartawan yang meliput kunjungan pribadinya di kantor Inspeksi Pajak Jakarta Pusat IV pagi ini, untuk menyampaikan Surat Pemberitahuan (SPT) pajak pendapatan tahun 1975, dan pajak kekayaan tahun 1976.
 
@@ -50,6 +50,6 @@ Dikatakan pula oleh Presiden bahwa warganegara yang sanggup, harus membayar paja
 
 ---
 
-[[1]](#_ftnref1)  Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.349.
+1  Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.349.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Pajak](https://soehartolibrary.id/tag/pajak/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sekolah](https://soehartolibrary.id/tag/sekolah/), [SMA](https://soehartolibrary.id/tag/sma/)

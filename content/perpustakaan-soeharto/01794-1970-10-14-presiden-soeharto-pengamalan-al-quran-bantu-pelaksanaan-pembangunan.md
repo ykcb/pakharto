@@ -41,12 +41,12 @@ relasi:
 
 # Presiden Soeharto: Pengamalan Al-Qur’an Bantu Pelaksanaan Pembangunan
 
-## Berikan Sambutan Tertulis Pembukaan MTQ Banjarmasin [[1]](#_ftn1)
+## Berikan Sambutan Tertulis Pembukaan MTQ Banjarmasin 1
 
 RABU, 14 OKTOBER 1970 Dalam sambutan tertulisnya pada pembukaan Musabaqah Tilawatil Qur’an tingkat nasional ke-3 di Banjarmasin hari ini, Presiden Soeharto antara lain mengatakan bahwa kegiatan ini sebaiknya ditingkatkan dari “*tilawatil*” Qur’an menjadi “*ta’liemil*” Qur’an, yaitu dari membaca menjadi memahami, dan dari memahami dimanifestasikan dalam bentuk amal perbuatan nyata. Menurut Presiden, dengan mengamalkan ajaran Al-Qur’an berarti membantu pemerintah dalam melaksanakan pembangunan negara dan bangsa yang multi kompleks. (AFR).
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 266. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 266. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Banjar Masin](https://soehartolibrary.id/tag/banjar-masin/), [Musabaqah Tilawatil Qur’an](https://soehartolibrary.id/tag/musabaqah-tilawatil-quran/), [Pembangunan](https://soehartolibrary.id/tag/pembangunan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

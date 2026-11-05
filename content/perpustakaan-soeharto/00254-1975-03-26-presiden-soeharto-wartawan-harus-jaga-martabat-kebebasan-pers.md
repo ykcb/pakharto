@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto: Wartawan Harus Jaga Martabat Kebebasan Pers
 
-## (Pers Yang Bebas dan Bertanggung Jawab Perkokoh Stabilitas Nasional)[[1]](#_ftn1)
+## (Pers Yang Bebas dan Bertanggung Jawab Perkokoh Stabilitas Nasional)1
 
 RABU, 26 MARET  1975, Presiden Soeharto hari ini memperingatkan dunia pers Indonesia bahwa mereka sendirilah yang pertama-tama bertanggungjawab memelihara martabat kebebasan pers dan tidak membiarkan kebebasan itu tergelincir menjadi kebebasan tanpa tanggungjawab. Lebih-lebih karena dorongan pertimbangan-pertimbangan komersil dan kepentingan golongan. Demikian pokok pikiran yang disampaikan oleh Kepala Negara dalam pertemuan dengan pimpinan PWI beserta para peserta Pertemuan Pemimpin Redaksi dengan PWI seluruh Indonesia hari ini di Istana Negara.
 
@@ -53,6 +53,6 @@ Sore ini Presiden Soeharto meninggalkan Jakarta menuju Palembang dalam rangka ku
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.227-228.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal.227-228.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Kebebasan Pers](https://soehartolibrary.id/tag/kebebasan-pers/), [Kramasan](https://soehartolibrary.id/tag/kramasan/), [Palembang](https://soehartolibrary.id/tag/palembang/), [PLTU](https://soehartolibrary.id/tag/pltu/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Yugoslavia](https://soehartolibrary.id/tag/yugoslavia/)

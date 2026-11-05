@@ -36,12 +36,12 @@ relasi:
 
 # 1973-05-01 Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Ekonomi
 
-# Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Ekonomi[[1]](#_ftn1)
+# Presiden Soeharto Memimpin Sidang Dewan Stabilisasi Ekonomi1
 
 SELASA, 1 Mei 1973, Presiden Soeharto memimpin sidang Dewan Stabilisasi Ekonomi Nasional di Bina Graha pagi ini. Selesai sidang, Menteri Perhubungan Emil Salim menjelaskan kepada pers bahwa sidang telah membicarakan soal penyesuaian tarif angkutan yang akan segera diberlakukan. Dijelaskannya bahwa didalam mengambil kebijaksanaan demikian, Pemerintah sepenuhnya memperhatikan daya beli rakyat. Oleh karena itu tingkat kenaikan tarif angkutan itu diusahakan dalam batas-batas yang wajar. (AFR)
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 17.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 17.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Emil Salim](https://soehartolibrary.id/tag/emil-salim/), [Menteri Perhubungan](https://soehartolibrary.id/tag/menteri-perhubungan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sidang Dewan Stabilisasi Ekonomi](https://soehartolibrary.id/tag/sidang-dewan-stabilisasi-ekonomi/), [tarif angkutan](https://soehartolibrary.id/tag/tarif-angkutan/)

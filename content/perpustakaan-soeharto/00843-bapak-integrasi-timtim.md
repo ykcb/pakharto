@@ -47,7 +47,7 @@ di
 
 **Jakarta**
 
-# Bapak Integrasi TIMTIM[[1]](#_ftn1)
+# Bapak Integrasi TIMTIM1
 
 **Dengan Hormat,**
 
@@ -74,6 +74,6 @@ Kelompok Studi
 
 ---
 
-[[1]](#_ftnref1)       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 160-161. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
+1       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 160-161. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
 
  [Simpati](https://soehartolibrary.id/category/biografi/simpati/)  [East Timor](https://soehartolibrary.id/tag/east-timor/), [Integrasi Timor-Timur](https://soehartolibrary.id/tag/integrasi-timor-timur/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Student Movement](https://soehartolibrary.id/tag/student-movement/)

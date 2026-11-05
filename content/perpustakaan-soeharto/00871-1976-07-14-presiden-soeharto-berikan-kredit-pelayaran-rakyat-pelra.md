@@ -39,7 +39,7 @@ relasi:
 
 # Presiden Soeharto Berikan Kredit Pelayaran Rakyat (Pelra)
 
-## (Minta Perhatikan Pulau-Pulau Terpencil)[[1]](#_ftn1)
+## (Minta Perhatikan Pulau-Pulau Terpencil)1
 
 RABU, 14 Juli 1976  Presiden Soeharto hari ini memberikan kredit berupa 100 motor diesel untuk perahu yang berkekuatan 30 sampai 100 PK. Kredit tersebut diserahkan oleh Kepala Negara kepada 17 orang Pimpinan Pusat Pelayaran Rakyat (Pelra) yang menghadapnya di Bina Graha Pagi Ini.
 
@@ -47,6 +47,6 @@ Selain memberikan kredit, Presiden juga menyampaikan pemikirannya mengenai penge
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 376. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
+1 Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 376. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Bina Graha](https://soehartolibrary.id/tag/bina-graha/), [Drs. H La Ode Manarfa](https://soehartolibrary.id/tag/drs-h-la-ode-manarfa/), [Pelayaran Rakyat](https://soehartolibrary.id/tag/pelayaran-rakyat/), [Pelra](https://soehartolibrary.id/tag/pelra/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

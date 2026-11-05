@@ -46,7 +46,7 @@ relasi:
 
 # Presiden Soeharto Hadiri Peringatan Hari Tani Nasional di Ciasem Hilir
 
-## Instruksikan Bentuk Lembaga Keluarga Berencana Petani Untuk Menabung[[1]](#_ftn1)
+## Instruksikan Bentuk Lembaga Keluarga Berencana Petani Untuk Menabung1
 
 SELASA, 24 SEPTEMBER 1968, Presiden Soeharto telah menginstruksikan kepada Menteri Negara Kesejahteraan Rakyat, Idham Chalid, untuk segera membentuk suatu “Lembaga Keluarga Berencana” tingkat nasional. Lembaga tersebut akan mengkoordinasikan, membimbing serta mengawasi aspirasi masyarakat terhadap keluarga berencana.
 
@@ -54,6 +54,6 @@ Presiden Soeharto hari ini menghadiri peringatan Hari Tani Nasional yang dipusat
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 49. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 49. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Ciasem Hilir](https://soehartolibrary.id/tag/ciasem-hilir/), [Hari Tani](https://soehartolibrary.id/tag/hari-tani/), [Idham Chalid](https://soehartolibrary.id/tag/idham-chalid/), [Jawa Barat](https://soehartolibrary.id/tag/jawa-barat/), [Kesejahteraan Rakyat](https://soehartolibrary.id/tag/kesejahteraan-rakyat/), [Lembaga Keluarga Berencana](https://soehartolibrary.id/tag/lembaga-keluarga-berencana/), [Menteri Negara](https://soehartolibrary.id/tag/menteri-negara/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Purareja](https://soehartolibrary.id/tag/purareja/), [Subang](https://soehartolibrary.id/tag/subang/)

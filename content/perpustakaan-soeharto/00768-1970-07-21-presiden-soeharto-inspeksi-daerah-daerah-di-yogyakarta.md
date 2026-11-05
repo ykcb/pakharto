@@ -41,7 +41,7 @@ relasi:
 
 # Presiden Soeharto Inspeksi Daerah-Daerah di Yogyakarta
 
-## (Meninjau Proyek Irigasi, Pemugaran Candi Borobudur dan Pembibitan Ikan)[[1]](#_ftn1)
+## (Meninjau Proyek Irigasi, Pemugaran Candi Borobudur dan Pembibitan Ikan)1
 
 SELASA, 21 Juli 1970. Pagi ini Presiden Soeharto yang tiba di Yogyakarta dari Jakarta kemarin sore, mengadakan inspeksi di daerah-daerah di sekitar Yogyakarta. Yang pertama ditinjauanya ialah proyek irigasi Kalibawang, yang diharapkan akan mampu mengairi lebih-kurang 6.000 hektar sawah. Dari proyek irigasi ini Presiden meninjau desa Banjararum, dan sempat berdialog dengan lurah, pamong desa, dan para pemuka tani di desa tersebut.
 
@@ -51,6 +51,6 @@ Selanjutnya Presiden meninjau pembibitan ikan yang ada di desa Ngrajeg, yang mer
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 243-244. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 243-244. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Banjararum](https://soehartolibrary.id/tag/banjararum/), [Borobudur](https://soehartolibrary.id/tag/borobudur/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Pak Harto](https://soehartolibrary.id/tag/pak-harto/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Purworejo](https://soehartolibrary.id/tag/purworejo/), [Sleman](https://soehartolibrary.id/tag/sleman/)

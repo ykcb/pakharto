@@ -46,7 +46,7 @@ relasi:
 
 # 1975-07-24 Presiden Soeharto Menerima Menhub Pakistan, BJ. Habibie dan Kabulog
 
-# Presiden Soeharto Menerima Menhub Pakistan, BJ. Habibie dan Kabulog[[1]](#_ftn1)
+# Presiden Soeharto Menerima Menhub Pakistan, BJ. Habibie dan Kabulog1
 
 KAMIS, 24 Juli 1975 Menteri Perhubungan Pakistan, Mumtaz Ali Bhutto, pagi ini menghadap Kepala Negara di Bina Graha. Menteri Perhubungan Bhutto berada di Jakarta dalam rangka menghadiri dan mengetuai delegasi Pakistan dalam sidang ke-7 IPECC yang berlangsung di Jakarta. Dalam pertemuan yang dihadiri oleh Duta Besar RI untuk Pakistan, Imam Abikusno, dan Menteri Luar Negeri Adam Malik itu telah dibahas berbagai hal yang berkaitan dengan kerjasama Indonesia Pakistan.
 
@@ -56,6 +56,6 @@ Setelah pertemuan dengan Dr. Habibie dan pimpinan Krupp, Presiden Soeharto telah
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 268. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
+1 Dikutip dari buku “*Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978*“, hal 268. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin, diterbitkan PT. Citra Kharisma Bunda Jakarta tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Adam Malik](https://soehartolibrary.id/tag/adam-malik/), [BJ. Habibie](https://soehartolibrary.id/tag/bj-habibie/), [Bustanil Arifin](https://soehartolibrary.id/tag/bustanil-arifin/), [Duta Besar RI](https://soehartolibrary.id/tag/duta-besar-ri/), [Imam Abikusno](https://soehartolibrary.id/tag/imam-abikusno/), [Jerman Barat](https://soehartolibrary.id/tag/jerman-barat/), [Kabulog](https://soehartolibrary.id/tag/kabulog/), [Krupp](https://soehartolibrary.id/tag/krupp/), [Menteri Luar Negeri](https://soehartolibrary.id/tag/menteri-luar-negeri/), [Menteri Perhubungan](https://soehartolibrary.id/tag/menteri-perhubungan/), [Mumtaz Ali Bhutto](https://soehartolibrary.id/tag/mumtaz-ali-bhutto/), [Pakistan](https://soehartolibrary.id/tag/pakistan/)

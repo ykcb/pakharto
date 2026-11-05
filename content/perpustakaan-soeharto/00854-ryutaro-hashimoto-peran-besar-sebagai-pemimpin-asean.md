@@ -39,7 +39,7 @@ relasi:
 
 **(*Unofficial Translation*)**
 
-# Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN[[1]](#_ftn1)
+# Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN1
 
 **Yang Mulia**,
 
@@ -71,6 +71,6 @@ Saya berdoa semoga Yang Mulia senantiasa dalam keadaan sehat wal’afiat.
 
 ---
 
-[[1]](#_ftnref1)       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 560. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
+1       Dikutip langsung dari buku berjudul “Empati di Tengah Badai: Kumpulan Surat Kepada Pak Harto 21 Mei – 31 Desember 1998”, (Jakarta: Kharisma, 1999), hal 560. Surat ini merupakan salah satu dari 1074 surat  yang dikirim masyarakat Indonesia dari berbagai pelosok, bahkan luar negeri, antara tanggal 21 Mei – 31 Desember 1998, yang menyatakan simpati setelah mendengar Pak Harto mengundurkan diri. Surat-surat tersebut dikumpulkan dan dibukukan oleh Letkol Anton Tabah.
 
  [Simpati](https://soehartolibrary.id/category/biografi/simpati/)  [Bapak Pembangunan](https://soehartolibrary.id/tag/bapak-pembangunan/), [Kestabilan Internasional](https://soehartolibrary.id/tag/kestabilan-internasional/), [Perdana Menteri Jepang](https://soehartolibrary.id/tag/perdana-menteri-jepang/), [Pimpinan ASEAN](https://soehartolibrary.id/tag/pimpinan-asean/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Ryutaro Hashimoto](https://soehartolibrary.id/tag/ryutaro-hashimoto/)

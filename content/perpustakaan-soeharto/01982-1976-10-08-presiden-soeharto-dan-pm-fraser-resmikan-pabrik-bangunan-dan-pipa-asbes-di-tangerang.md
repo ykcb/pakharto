@@ -49,7 +49,7 @@ relasi:
 
 # Presiden Soeharto Dan PM Fraser Resmikan Pabrik Bangunan dan Pipa Asbes di Tangerang
 
-## Bahas ASEAN, Perdamaian dan Timor Timur[[1]](#_ftn1)
+## Bahas ASEAN, Perdamaian dan Timor Timur1
 
 **JUM’AT, 8 OKTOBER** **1976** Presiden Soeharto, bersama PM Fraser, sore ini meresmikan pabrik bahan bangunan dan pipa asbes semen di Tangerang, Jawa Barat. Pabrik yang dimiliki oleh PT James Hardie Indonesia ini merupakan proyek penanaman modal asing yang dilakukan oleh perusahaan Australia, yaitu James Hardie Asbestos Ltd.
 
@@ -59,6 +59,6 @@ Khusus mengenai kunjungan PM Fraser, Presiden Soeharto mengatakan bahwa kita mas
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 402-403. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 402-403. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/)  [Australia](https://soehartolibrary.id/tag/australia/), [bahan bangunan](https://soehartolibrary.id/tag/bahan-bangunan/), [Jawa Barat](https://soehartolibrary.id/tag/jawa-barat/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [pipa asbes semen](https://soehartolibrary.id/tag/pipa-asbes-semen/), [PM Fraser](https://soehartolibrary.id/tag/pm-fraser/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Tangerang](https://soehartolibrary.id/tag/tangerang/), [Timor](https://soehartolibrary.id/tag/timor/), [Timur](https://soehartolibrary.id/tag/timur/)

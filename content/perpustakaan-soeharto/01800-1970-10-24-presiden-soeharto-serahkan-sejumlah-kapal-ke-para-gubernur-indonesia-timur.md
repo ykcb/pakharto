@@ -51,7 +51,7 @@ relasi:
 
 # Presiden Soeharto Serahkan Sejumlah Kapal Kepada Para Gubernur  Indonesia Timur
 
-## Perpecahan PWI Merupakan Masalah Serius[[1]](#_ftn1)
+## Perpecahan PWI Merupakan Masalah Serius1
 
 ##
 
@@ -63,6 +63,6 @@ Presiden Soeharto menilai perpecahan dalam tubuh PWI sebagai suatu masalah yang 
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 267. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 267. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Budiardjo](https://soehartolibrary.id/tag/budiardjo/), [Gubernur](https://soehartolibrary.id/tag/gubernur/), [Kalimantan Timur](https://soehartolibrary.id/tag/kalimantan-timur/), [Kapal](https://soehartolibrary.id/tag/kapal/), [Kepala Negara](https://soehartolibrary.id/tag/kepala-negara/), [Maluku](https://soehartolibrary.id/tag/maluku/), [Menteri Penerangan](https://soehartolibrary.id/tag/menteri-penerangan/), [Nusa Tenggara Timur](https://soehartolibrary.id/tag/nusa-tenggara-timur/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sulawesi Selatan](https://soehartolibrary.id/tag/sulawesi-selatan/), [Sulawesi Tengah](https://soehartolibrary.id/tag/sulawesi-tengah/), [Sulawesi Tenggara](https://soehartolibrary.id/tag/sulawesi-tenggara/)

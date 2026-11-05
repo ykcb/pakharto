@@ -44,7 +44,7 @@ relasi:
 
 # Presiden Soeharto: Indonesia Tidak Memiliki Ambisi Teritorial
 
-## (Hasil Perbincangan Empat Mata Dengan PM Australia Soal Vietnam, Kamboja dan Timor Portugis)[[1]](#_ftn1)
+## (Hasil Perbincangan Empat Mata Dengan PM Australia Soal Vietnam, Kamboja dan Timor Portugis)1
 
 JUM’AT, 4 April 1975, Pagi ini Presiden Soeharto dan PM Whitlam menuju Brandoon, sebuah kota kecil yang terletak kira-kira 80 kilometer di sebelah tenggara Townsville. Didampingi oleh PM Whitlan, di sini Kepala Negara meninjau pabrik gula Pioneer yang juga bergerak dalam bidang peternakan. Sebelumnya Presiden telah pula mengunjungi sebuah perusahaan pemotongan hewan dan pembekuan daging yang terletak di pinggiran kota Townsville.
 
@@ -54,6 +54,6 @@ Untuk menghormati  kunjungan tidak resmi Presiden Soeharto  di Australia, mala
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 234-235.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978, hal. 234-235.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Australia](https://soehartolibrary.id/tag/australia/), [Kamboja](https://soehartolibrary.id/tag/kamboja/), [Perdana Menteri](https://soehartolibrary.id/tag/perdana-menteri/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sekretaris Negara](https://soehartolibrary.id/tag/sekretaris-negara/), [Sudharmono](https://soehartolibrary.id/tag/sudharmono/), [Timor Portugis](https://soehartolibrary.id/tag/timor-portugis/), [Townsville](https://soehartolibrary.id/tag/townsville/), [Vietnam](https://soehartolibrary.id/tag/vietnam/), [Withlam](https://soehartolibrary.id/tag/withlam/)

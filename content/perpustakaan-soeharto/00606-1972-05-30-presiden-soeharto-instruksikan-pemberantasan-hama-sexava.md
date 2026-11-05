@@ -43,6 +43,6 @@ SELASA, 30 Mei 1972, Dalam sidang Sub-Dewan Stabilisasi Ekonomi hari ini di Bina
 
 ---
 
-[[1]](#_ftnref1) Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 439.
+1 Dikutip Langsung dari Buku Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973, hal. 439.
 
  [Aktifitas Kenegaraan](https://soehartolibrary.id/category/aktifitas-kenegaraan/), [Uncategorized](https://soehartolibrary.id/category/uncategorized/)  [Hama Sezava](https://soehartolibrary.id/tag/hama-sezava/), [Menteri Pertanian](https://soehartolibrary.id/tag/menteri-pertanian/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sangir Talaud](https://soehartolibrary.id/tag/sangir-talaud/)

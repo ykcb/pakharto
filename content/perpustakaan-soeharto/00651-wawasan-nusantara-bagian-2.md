@@ -37,13 +37,13 @@ relasi:
 
 # **Wawasan Nusantara (Bagian 2)**
 
-## (Unsur Ke-2 Wawasan Nusantara: Idiologi Bangsa Sebagai Penopang Tegaknya Peradaban)[[1]](#_ftn1)
+## (Unsur Ke-2 Wawasan Nusantara: Idiologi Bangsa Sebagai Penopang Tegaknya Peradaban)1
 
 **Oleh:**
 
 **Abdul Rohman**
 
-Merupakan cara pandang bahwa tegaknya peradaban skala kebangsaan harus ditopang oleh ketersediaan *road map* idiologis yang kuat dan mampu menyangga tumbuh tegaknya peradaban besar yang sejalan dengan komitmen spiritual masyarakat nusantara. *Road map* idiologis seperti itu hanya dimungkinkan apabila memiliki kesejiwaan dengan hukum-hukum kehidupan universal (hukum-hukum ketuhanan)[[2]](#_ftn2). Penegasian terhadap hukum-hukum kehidupan bukan saja menjadikan cita-cita tegaknya peradaban besar sebagai fatamorgana, akan tetapi juga dapat memberi kontribusi terjadinya erosi potensi-potensi positif, yang secara *given* telah tersedia dalam komunitas peradaban yang hendak dibangun.
+Merupakan cara pandang bahwa tegaknya peradaban skala kebangsaan harus ditopang oleh ketersediaan *road map* idiologis yang kuat dan mampu menyangga tumbuh tegaknya peradaban besar yang sejalan dengan komitmen spiritual masyarakat nusantara. *Road map* idiologis seperti itu hanya dimungkinkan apabila memiliki kesejiwaan dengan hukum-hukum kehidupan universal (hukum-hukum ketuhanan)2. Penegasian terhadap hukum-hukum kehidupan bukan saja menjadikan cita-cita tegaknya peradaban besar sebagai fatamorgana, akan tetapi juga dapat memberi kontribusi terjadinya erosi potensi-potensi positif, yang secara *given* telah tersedia dalam komunitas peradaban yang hendak dibangun.
 
 Nusantara memiliki pengalaman kesejarahan sebagai entitas peradaban independen skala besar —sebagai contoh era Majapahit yang pengaruhnya hampir mencakup sepertiga dunia—, dan eksistensinya ditopang oleh tata nilai maupun komitmen spiritual yang terkandung dan mengakar dalam masyarakatnya. Oleh karena itu para pendiri negara menggali kembali nilai-nilai dan komitmen spiritual itu, untuk kemudian dielaborasi dan diformulasikan kedalam Pancasila sebagai *road map* idiologis Indonesia modern.
 
@@ -59,8 +59,8 @@ Pada era reformasi, kelembagaan P4 dihapuskan tanpa mempertimbangkan urgensinya 
 
 ---
 
-[[1]](#_ftnref1)     Disarikan dari buku Politik Kenusantaraan
+1     Disarikan dari buku Politik Kenusantaraan
 
-[[2]](#_ftnref2)     Hukum-hukum kehidupan adalah kaidah-kaidah penyangga harmoni kehidupan yang bersumber pada nilai-nilai Ketuhanan
+2     Hukum-hukum kehidupan adalah kaidah-kaidah penyangga harmoni kehidupan yang bersumber pada nilai-nilai Ketuhanan
 
  [Idiologi Bangsa](https://soehartolibrary.id/category/tinggal-landas/idiologi-bangsa/)  [Idiologi Bangsa](https://soehartolibrary.id/tag/idiologi-bangsa/), [Pancasila](https://soehartolibrary.id/tag/pancasila/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Wawasan Nusantara](https://soehartolibrary.id/tag/wawasan-nusantara/)

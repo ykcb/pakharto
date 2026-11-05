@@ -38,7 +38,7 @@ relasi:
 
 # 1971-06-10 Presiden Soeharto Meresmikan Serangkaian Proyek di Cilacap
 
-# Presiden Soeharto Meresmikan Serangkaian Proyek di Cilacap[[1]](#_ftn1)
+# Presiden Soeharto Meresmikan Serangkaian Proyek di Cilacap1
 
 KAMIS, 10 Juni 1971, Hari ini Presiden Soeharto berada di Cilacap, Jawa Tengah, untuk meninjau dan sekaligus meresmikan proyek pasir besi, kawasan industri dan pipa minyak Pertamina. Pada peresmian  proyek pasir besi, yang diusahakan oleh PN Aneka Industri, Presiden mengatakan bahwa Indonesia harus mengubah ketergantungan pada ekspor hasil pertanian dan perkebunan dengan meningkatkan ekspor pertambangan di samping  berusaha memperbesa nilai hasil pertanian dan perkebunan.
 
@@ -46,6 +46,6 @@ Pada kesempatan itu pula Presiden mengungkapkan rasa gembiranya bahwa sekarang i
 
 ---
 
-[[1]](#_ftnref1) Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 336. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip langsung dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 336. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Cilacap](https://soehartolibrary.id/tag/cilacap/), [Kawasan Industri](https://soehartolibrary.id/tag/kawasan-industri/), [Pasir Besi](https://soehartolibrary.id/tag/pasir-besi/), [Pipanisasi Pertamina](https://soehartolibrary.id/tag/pipanisasi-pertamina/), [PN Aneka Usaha](https://soehartolibrary.id/tag/pn-aneka-usaha/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/)

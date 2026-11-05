@@ -41,7 +41,7 @@ relasi:
 
 8 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1971-10-05-peringati-hari-abri-presiden-soeharto-resmikan-penggunaan-kembali-nama-tni/#respond)  158 Views Share on
 
-# Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali Nama TNI  [[1]](#_ftn1)
+# Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali Nama TNI  1
 
 SELASA, 5 OKTOBER 1971 Menhankam/Pangab Jenderal Soeharto dalam amanatnya pada peringatan Hari ABRI ke-26 hari ini mengatakan bahwa tugas angkatan perang dan kepolisian RI dalam pembangunan sungguh tidak ringan. Angkatan perang dan kepolisian RI, menurut Jenderal Soeharto, harus menjadi kekuatan pembaharu masyarakat, sehingga bangsa Indonesia tumbuh menjadi bangsa yang modern.
 
@@ -51,6 +51,6 @@ Bertepatan dengan Hari ABRI ke-26 ini Menhankam/Pangab meresmikan kembali penggu
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 373-374. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 28 Maret 1968-23 Maret 1973”, hal 373-374. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Hari ABRI](https://soehartolibrary.id/tag/hari-abri/), [Jenderal Soeharto](https://soehartolibrary.id/tag/jenderal-soeharto/), [Menhankam/Pangab](https://soehartolibrary.id/tag/menhankampangab/), [TNI](https://soehartolibrary.id/tag/tni/)

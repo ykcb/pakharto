@@ -46,7 +46,7 @@ relasi:
 
 20 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1977-09-12-presiden-soeharto-menerima-emil-salim-dan-menteri-minyak-kuwait/#respond)  93 Views Share on
 
-# Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait[[1]](#_ftn1)
+# Presiden Soeharto Menerima Emil Salim dan Menteri Minyak Kuwait1
 
 SENIN 12 SEPTEMBER 1977 Menteri Perhubungan Emil Salim hari ini menghadap, Presiden Soeharto di Bina Graha, untuk melaporkan persiapan-persiapan mengenai angkutan lebaran. Selesai pertemuan, Emil Salim mengatakan kepada pers bahwa Presiden Soeharto memesankan agar kepentingan rakyat-banyak dijaga dengan sebaik-baiknya, dan jangan sampai dirugikan oleh angkutan umum, selama lebaran ini. Menteri menjelaskan bahwa menjelang lebaran ini sarana angkutan umum dikerahkan semaksimal mungkin, namun hal tersebut belum dapat menjamin dipenuhinya kebutuhan rakyat akan sarana angkutan.
 
@@ -54,6 +54,6 @@ Bertempat di Cendana hari ini, Presiden Soeharto menerima Menteri Minyak Kuwait,
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 536. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 536. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Abdel Muthalib Al Kazemi](https://soehartolibrary.id/tag/abdel-muthalib-al-kazemi/), [Direktur Utama Pertamina](https://soehartolibrary.id/tag/direktur-utama-pertamina/), [Emil Salim](https://soehartolibrary.id/tag/emil-salim/), [M Sadli](https://soehartolibrary.id/tag/m-sadli/), [Menteri Minyak Kuwait](https://soehartolibrary.id/tag/menteri-minyak-kuwait/), [Menteri Perhubungan](https://soehartolibrary.id/tag/menteri-perhubungan/), [Menteri Pertambangan](https://soehartolibrary.id/tag/menteri-pertambangan/), [Menteri/Sekretaris Negara](https://soehartolibrary.id/tag/menterisekretaris-negara/), [Piet Haryono](https://soehartolibrary.id/tag/piet-haryono/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Sudharmono](https://soehartolibrary.id/tag/sudharmono/)

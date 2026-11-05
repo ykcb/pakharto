@@ -49,7 +49,7 @@ relasi:
 
 # Presiden Soeharto Larang Anggota ABRI Kunjungi *Steambath*Dan Kasino
 
-## Buka Rapim Departemen Pertanian, dan Pimpin Sidang kabinet Terbatas[[1]](#_ftn1)
+## Buka Rapim Departemen Pertanian, dan Pimpin Sidang kabinet Terbatas1
 
 RABU, 27 SEPTEMBER 1978 Pukul 09.00 pagi ini, bertempat di Istana Negara, Presiden Soeharto membuka Rapat Pimpinan Departemen Pertanian. Dalam pidato sambutannya, Presiden mengatakan bahwa ia menganggap rapat ini sangat penting dalam usaha pemantapan rancangan pembangunan pertanian Pelita III yang akan datang.
 
@@ -63,6 +63,6 @@ Dalam pembahasan laporan Menteri Hankam/Pangab, Presiden telah menginstruksikan 
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 66-67. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 29 Maret 1978 – 11 Maret 1983”, hal 66-67. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Nasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/nasional/)  [Anggota ABRI](https://soehartolibrary.id/tag/anggota-abri/), [kasino](https://soehartolibrary.id/tag/kasino/), [landas kontinen](https://soehartolibrary.id/tag/landas-kontinen/), [M. Yusuf](https://soehartolibrary.id/tag/m-yusuf/), [Menteri Luar Negeri](https://soehartolibrary.id/tag/menteri-luar-negeri/), [Mochtar Kusumaatmadja](https://soehartolibrary.id/tag/mochtar-kusumaatmadja/), [Pelita III](https://soehartolibrary.id/tag/pelita-iii/), [Pensisiplinan](https://soehartolibrary.id/tag/pensisiplinan/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Steambath](https://soehartolibrary.id/tag/steambath/), [Timor-Timur](https://soehartolibrary.id/tag/timor-timur/), [Vietnam](https://soehartolibrary.id/tag/vietnam/)

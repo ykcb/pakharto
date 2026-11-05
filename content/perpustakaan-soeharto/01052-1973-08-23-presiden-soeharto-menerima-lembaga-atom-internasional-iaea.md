@@ -39,7 +39,7 @@ relasi:
 
 24 Agustus 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1973-08-23-presiden-soeharto-menerima-lembaga-atom-internasional-iaea/#respond)  93 Views Share on
 
-# Presiden Soeharto Menerima Lembaga Atom Internasional IAEA[[1]](#_ftn1)
+# Presiden Soeharto Menerima Lembaga Atom Internasional IAEA1
 
 KAMIS, 23 AGUSTUS 1973, Pukul 09.00 pagi ini, bertempat di Bina Graha, Presiden Soeharto menerima kunjungan Dr. Sigvard Eklund, Direktur Jenderal *International Atomic Energy Agency* yang berkedudukan di Wina. Dalam pertemuan yang dihadiri juga oleh Direktur Jenderal Batan, Prof. Dr. Baiquni, itu telah diperbincangkan masalah peningkatan program tenaga atom di Indonesia, baik jangka pendek maupun jangka panjang.
 
@@ -51,6 +51,6 @@ Sebelumnya, pada pukul 10.00, Menteri Luar Negeri Adam Malik telah datang mengha
 
 ---
 
-[[1]](#_ftnref1) Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 45-46. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
+1 Dikutip dari buku “Jejak Langkah Pak Harto 27 Maret 1973-23 Maret 1978”, hal 45-46. Buku ini ditulis oleh Team Dokumentasi Presiden RI, Editor: G. Dwipayana & Nazarudin Sjamsuddin dan diterbitkan PT. Citra Kharisma Bunda Jakarta, Tahun 2003.
 
  [Internasional](https://soehartolibrary.id/category/aktifitas-kenegaraan/internasional/)  [Dr. Sigvard Eklund](https://soehartolibrary.id/tag/dr-sigvard-eklund/), [GPEI](https://soehartolibrary.id/tag/gpei/), [IAEA](https://soehartolibrary.id/tag/iaea/), [International Atomic Energy Agency](https://soehartolibrary.id/tag/international-atomic-energy-agency/), [Presiden Soeharto](https://soehartolibrary.id/tag/presiden-soeharto/), [Prof. Dr. Baiquni](https://soehartolibrary.id/tag/prof-dr-baiquni/)
