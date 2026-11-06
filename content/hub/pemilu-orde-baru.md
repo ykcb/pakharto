@@ -59,8 +59,8 @@ relasi:
 
 ## Hubungan konsep
 
-- Diwarnai oleh sistem [[Demokrasi Pancasila]] yang mengontrol ruang politik.
-- Didukung oleh [[Dwifungsi ABRI]] sebagai penjaga proses.
+- Diwarnai oleh sistem [[konsep/glosarium-istilah-orde-baru#Demokrasi Pancasila|Demokrasi Pancasila]] yang mengontrol ruang politik.
+- Didukung oleh [[konsep/glosarium-istilah-orde-baru#Dwifungsi ABRI|Dwifungsi ABRI]] sebagai penjaga proses.
 - Golkar sebagai partai pemerintah menjadi kendaraan legitimasi [[hub/orde-baru|Orde Baru]].
 
 ## Warisan

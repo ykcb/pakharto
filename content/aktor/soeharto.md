@@ -62,10 +62,10 @@ relasi:
 
 Soeharto bukan sekadar pemilik jabatan tertinggi; ia adalah arsitek dan penjaga hubungan antar konsep sentral Orde Baru:
 - **Transisi 1965–1967:** melalui Supersemar dan pengangkatan sebagai pejabat presiden, Soeharto mengendalikan pergantian rezim dari Sukarno ke Orde Baru.
-- **Kekuasaan militer:** memegang Kendali atas [[Dwifungsi ABRI]] dan lembaga keamanan seperti [[Kopkamtib]] untuk menstabilkan sistem.
-- **Politik:** menetapkan [[Demokrasi Pancasila]] dan membentuk Golkar sebagai partai pemerintah, sekaligus mengelola [[hub/pemilu-orde-baru|serangkaian pemilu]] yang dimenangkan Golkar.
-- **Ekonomi:** mendorong [[Trilogi Pembangunan]] melalui [[Kabinet Pembangunan]] dan program [[Repelita]].
-- **Stabilitas:** menerapkan konsep [[Stabilitas Nasional]] sebagai prasyarat legitimasi dan pembangunan.
+- **Kekuasaan militer:** memegang Kendali atas [[konsep/glosarium-istilah-orde-baru#Dwifungsi ABRI|Dwifungsi ABRI]] dan lembaga keamanan seperti [[Kopkamtib]] untuk menstabilkan sistem.
+- **Politik:** menetapkan [[konsep/glosarium-istilah-orde-baru#Demokrasi Pancasila|Demokrasi Pancasila]] dan membentuk Golkar sebagai partai pemerintah, sekaligus mengelola [[hub/pemilu-orde-baru|serangkaian pemilu]] yang dimenangkan Golkar.
+- **Ekonomi:** mendorong [[konsep/glosarium-istilah-orde-baru#Trilogi Pembangunan|Trilogi Pembangunan]] melalui [[hub/orde-baru#Kabinet Pembangunan|Kabinet Pembangunan]] dan program [[Repelita]].
+- **Stabilitas:** menerapkan konsep [[konsep/glosarium-istilah-orde-baru#Stabilitas Nasional|Stabilitas Nasional]] sebagai prasyarat legitimasi dan pembangunan.
 
 ## Capaian berangka era kepemimpinan
 
