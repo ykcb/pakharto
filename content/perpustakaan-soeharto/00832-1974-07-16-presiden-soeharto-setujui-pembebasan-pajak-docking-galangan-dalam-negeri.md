@@ -24,8 +24,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tanjung-priuk
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

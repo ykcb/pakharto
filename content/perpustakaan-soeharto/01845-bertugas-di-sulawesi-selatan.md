@@ -16,8 +16,6 @@ tags:
 - perpustakaan-soeharto
 - ris
 - sulawesi-seatan
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

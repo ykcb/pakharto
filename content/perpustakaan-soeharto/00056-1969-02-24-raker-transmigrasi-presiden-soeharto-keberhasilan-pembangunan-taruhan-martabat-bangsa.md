@@ -25,8 +25,6 @@ tags:
 - raker
 - taruhan
 - transmigrasi
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

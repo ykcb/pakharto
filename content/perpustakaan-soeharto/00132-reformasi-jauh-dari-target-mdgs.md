@@ -18,8 +18,6 @@ tags:
 - perpustakaan-soeharto
 - reformasi
 - uud-1945
-kategori: krisis-dan-reformasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

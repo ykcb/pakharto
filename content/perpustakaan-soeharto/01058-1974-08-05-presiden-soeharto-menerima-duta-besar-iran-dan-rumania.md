@@ -21,8 +21,6 @@ tags:
 - republik-sosialis
 - rumania
 - teodor-ditulescu
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

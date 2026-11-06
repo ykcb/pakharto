@@ -18,8 +18,6 @@ tags:
 - perpustakaan-soeharto
 - persiden-soeharto
 - sidang-kabinet-paripurna
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -23,8 +23,6 @@ tags:
 - pt-nusantara-plywood
 - resmikan-pabrik
 - salatiga
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

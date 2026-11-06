@@ -23,8 +23,6 @@ tags:
 - sri-edi-swasono
 - universitas-padjajaran
 - uud-1945
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

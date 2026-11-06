@@ -20,8 +20,6 @@ tags:
 - presiden-soeharto
 - ratu-pahlevi
 - shah-iran
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

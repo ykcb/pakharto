@@ -26,8 +26,6 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - repelita
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

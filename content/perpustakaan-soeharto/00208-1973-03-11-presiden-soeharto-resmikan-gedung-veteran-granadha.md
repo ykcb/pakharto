@@ -20,8 +20,6 @@ tags:
 - presiden-soeharto
 - soeharto
 - veteran
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

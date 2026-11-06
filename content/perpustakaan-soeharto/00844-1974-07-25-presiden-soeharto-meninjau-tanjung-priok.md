@@ -22,8 +22,6 @@ tags:
 - sindang-laut
 - sumatera-barat
 - tanjung-priok
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

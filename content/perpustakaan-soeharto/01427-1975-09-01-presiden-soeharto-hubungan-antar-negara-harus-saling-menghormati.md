@@ -19,8 +19,6 @@ tags:
 - presiden-soeharto
 - republik-sosialis-uni-birma
 - u-khin-maung-lay
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -17,8 +17,6 @@ tags:
 - perburuhan
 - perpustakaan-soeharto
 - presiden-soehareto
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -19,8 +19,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - pt-krakatau-steel
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

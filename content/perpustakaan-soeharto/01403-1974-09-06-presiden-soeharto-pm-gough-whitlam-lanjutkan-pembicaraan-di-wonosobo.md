@@ -25,8 +25,6 @@ tags:
 - timor-portugis
 - vietnam
 - wonosobo
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -21,8 +21,6 @@ tags:
 - presiden-soekarno
 - riak-kecil
 - samudera
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

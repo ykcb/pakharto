@@ -26,8 +26,6 @@ tags:
 - presiden-hotel
 - presiden-soeharto
 - ramayana-city-hotel
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

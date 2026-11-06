@@ -17,8 +17,6 @@ tags:
 - presiden
 - soeharto
 - tangerang
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

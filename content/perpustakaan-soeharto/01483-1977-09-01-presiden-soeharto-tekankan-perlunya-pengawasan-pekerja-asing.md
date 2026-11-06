@@ -22,8 +22,6 @@ tags:
 - presiden-soeharto
 - prof-dr-subroto
 - sensus-konstruksi
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

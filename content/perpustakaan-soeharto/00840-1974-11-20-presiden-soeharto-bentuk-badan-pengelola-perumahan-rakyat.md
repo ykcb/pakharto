@@ -23,8 +23,6 @@ tags:
 - perumahan-rakyat
 - presiden-soeharto
 - rachmat-saleh
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

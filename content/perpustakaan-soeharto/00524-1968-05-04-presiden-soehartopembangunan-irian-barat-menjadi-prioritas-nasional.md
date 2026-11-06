@@ -24,8 +24,6 @@ tags:
 - presiden-soeharto
 - sri-sultan-hamengku-buwono-ix
 - sukarnopura
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

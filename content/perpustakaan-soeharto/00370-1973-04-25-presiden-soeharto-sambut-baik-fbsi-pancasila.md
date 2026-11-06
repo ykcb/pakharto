@@ -19,8 +19,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - subroto
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

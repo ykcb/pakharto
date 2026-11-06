@@ -38,8 +38,6 @@ tags:
 - presiden-soeharto
 - tengku-muhammad-saleh
 - yudo-paripurno-sh
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -22,8 +22,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tanaka
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

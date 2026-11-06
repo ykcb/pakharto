@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - rrc
 - uni-soviet
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

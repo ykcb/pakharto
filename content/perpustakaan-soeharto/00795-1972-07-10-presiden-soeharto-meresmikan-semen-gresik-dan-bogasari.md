@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - semen-gresik
 - surabaya
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

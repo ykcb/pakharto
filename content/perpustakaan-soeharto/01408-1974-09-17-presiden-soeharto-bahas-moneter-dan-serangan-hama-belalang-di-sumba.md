@@ -23,8 +23,6 @@ tags:
 - presiden-soeharto
 - prof-thojib-hadiwidjaja
 - pulau-sumba
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -18,8 +18,6 @@ tags:
 - presiden-soeharto
 - tata-niaga-garam
 - timur-tengah
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

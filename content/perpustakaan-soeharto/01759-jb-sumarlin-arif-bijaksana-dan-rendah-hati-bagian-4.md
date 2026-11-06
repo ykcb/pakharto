@@ -23,8 +23,6 @@ tags:
 - pht
 - presiden-soeharto
 - swasembada-pangan
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

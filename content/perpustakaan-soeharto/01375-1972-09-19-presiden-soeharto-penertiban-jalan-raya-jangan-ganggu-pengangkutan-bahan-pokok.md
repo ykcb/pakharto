@@ -28,8 +28,6 @@ tags:
 - presiden-soeharto
 - sutami
 - thoyib-hadiwidjaja
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

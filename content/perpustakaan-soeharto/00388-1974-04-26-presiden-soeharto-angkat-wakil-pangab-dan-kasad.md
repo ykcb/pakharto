@@ -15,8 +15,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wakil-pangab
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

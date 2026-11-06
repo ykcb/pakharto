@@ -26,8 +26,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - pt-kanebo-tomen-sandang
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

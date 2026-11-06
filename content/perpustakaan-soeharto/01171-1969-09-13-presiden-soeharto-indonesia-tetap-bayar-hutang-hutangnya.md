@@ -17,8 +17,6 @@ tags:
 - presiden-soeharto
 - uni-soviet
 - va-sergeev
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

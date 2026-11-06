@@ -17,8 +17,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - pssi
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

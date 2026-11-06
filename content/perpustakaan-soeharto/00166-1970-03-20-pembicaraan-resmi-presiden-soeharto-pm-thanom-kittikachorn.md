@@ -20,8 +20,6 @@ tags:
 - perpustakaan-soeharto
 - pm-thanom-kittikachorn
 - tenggara
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

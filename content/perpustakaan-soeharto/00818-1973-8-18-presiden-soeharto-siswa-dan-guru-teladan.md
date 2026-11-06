@@ -19,8 +19,6 @@ tags:
 - presiden-soeharto
 - siswa
 - teladan
-kategori: krisis-dan-reformasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -16,8 +16,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sabang-merauke
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

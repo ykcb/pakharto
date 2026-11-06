@@ -20,8 +20,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - pribumi
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -25,8 +25,6 @@ tags:
 - pungutan
 - radius-prawiro
 - sembolan-bahan-pokok
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

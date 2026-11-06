@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - team
 - thomas-cup
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

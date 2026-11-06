@@ -21,8 +21,6 @@ tags:
 - pt-inoue-rubber
 - pt-ngk-busi
 - supersemar
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

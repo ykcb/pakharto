@@ -18,8 +18,6 @@ tags:
 - pjp
 - presiden-soeharto
 - tinggal-landas-2
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

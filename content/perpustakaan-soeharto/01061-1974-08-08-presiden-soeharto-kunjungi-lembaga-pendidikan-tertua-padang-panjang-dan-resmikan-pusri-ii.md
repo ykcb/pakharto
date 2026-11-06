@@ -24,8 +24,6 @@ tags:
 - presiden-soeharto
 - pusri-ii
 - pusri-iii
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -31,8 +31,6 @@ tags:
 - repelita
 - tarbiyah
 - tinggal-landas-2
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

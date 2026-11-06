@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - rachmat-saleh
 - sumarlin
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

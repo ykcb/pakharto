@@ -23,8 +23,6 @@ tags:
 - peta-lus
 - presiden-soeharto
 - radius-prawiro
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

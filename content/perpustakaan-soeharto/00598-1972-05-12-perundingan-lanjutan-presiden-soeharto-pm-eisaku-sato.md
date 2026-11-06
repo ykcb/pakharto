@@ -17,8 +17,6 @@ tags:
 - perpustakaan-soeharto
 - pm-eisaku-sato
 - presiden-soeharto
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

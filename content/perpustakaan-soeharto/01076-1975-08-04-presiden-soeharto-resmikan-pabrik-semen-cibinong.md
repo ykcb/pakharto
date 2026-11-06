@@ -20,8 +20,6 @@ tags:
 - presiden-soeharto
 - produksi-dalam-negeri
 - semen-cibinong
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

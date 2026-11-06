@@ -20,8 +20,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - uud-1945
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

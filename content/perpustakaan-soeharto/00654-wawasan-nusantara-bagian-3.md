@@ -16,8 +16,6 @@ tags:
 - presiden-soeharto
 - sdm
 - wauku-bangsa
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

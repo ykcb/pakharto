@@ -19,8 +19,6 @@ tags:
 - presiden-soeharto
 - toh-puah-rahah
 - tun-abdul-razak
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

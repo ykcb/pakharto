@@ -15,8 +15,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - trilogi-pembangunan
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

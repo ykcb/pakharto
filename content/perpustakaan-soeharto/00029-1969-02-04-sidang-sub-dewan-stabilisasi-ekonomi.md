@@ -17,8 +17,6 @@ tags:
 - sidang
 - stabilisasi
 - sub
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

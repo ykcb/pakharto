@@ -35,8 +35,6 @@ tags:
 - sulawesi-utara
 - sutami
 - utang-luar-negeri
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

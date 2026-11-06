@@ -18,8 +18,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sedih
-kategori: krisis-dan-reformasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

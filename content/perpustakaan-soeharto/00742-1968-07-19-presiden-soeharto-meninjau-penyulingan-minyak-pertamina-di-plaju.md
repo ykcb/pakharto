@@ -26,8 +26,6 @@ tags:
 - presiden-soeharto
 - shoalt-jumat
 - umat-islam
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

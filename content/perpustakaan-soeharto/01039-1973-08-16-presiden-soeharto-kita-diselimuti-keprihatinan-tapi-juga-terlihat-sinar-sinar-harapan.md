@@ -22,8 +22,6 @@ tags:
 - presiden-soeharto
 - repelita-i
 - sidang-pleno-terbuka
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

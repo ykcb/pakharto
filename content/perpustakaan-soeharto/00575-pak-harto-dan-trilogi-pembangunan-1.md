@@ -19,8 +19,6 @@ tags:
 - stabilitas-nasional
 - stabilitas-politik
 - trilogi-pembangunan
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -21,8 +21,6 @@ tags:
 - perpustakaan-soeharto
 - peternakan
 - presiden-soeharto
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

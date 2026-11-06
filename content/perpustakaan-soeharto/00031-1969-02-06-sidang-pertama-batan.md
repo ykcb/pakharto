@@ -22,8 +22,6 @@ tags:
 - sidang
 - tenaga
 - united-states
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

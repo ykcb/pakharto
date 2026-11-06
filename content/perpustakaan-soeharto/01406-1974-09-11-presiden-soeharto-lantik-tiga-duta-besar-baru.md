@@ -22,8 +22,6 @@ tags:
 - presiden-soeharto
 - republik-arab-suriah
 - zainul-arifin-usman
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

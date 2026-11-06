@@ -17,8 +17,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wanhankamnas
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

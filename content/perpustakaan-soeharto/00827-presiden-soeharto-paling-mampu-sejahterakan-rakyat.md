@@ -22,8 +22,6 @@ tags:
 - presiden-soeharto
 - soeharto
 - tinggal-landas-2
-kategori: krisis-dan-reformasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

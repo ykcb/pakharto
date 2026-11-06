@@ -21,8 +21,6 @@ tags:
 - selatan
 - soeharto
 - sulawesi
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

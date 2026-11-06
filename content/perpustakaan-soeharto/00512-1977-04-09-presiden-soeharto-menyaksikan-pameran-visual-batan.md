@@ -22,8 +22,6 @@ tags:
 - presiden-soeharto
 - tarif
 - tenaga-atom
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

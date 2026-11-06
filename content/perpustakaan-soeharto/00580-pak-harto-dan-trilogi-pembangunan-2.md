@@ -16,8 +16,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - stabilitas-politik
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

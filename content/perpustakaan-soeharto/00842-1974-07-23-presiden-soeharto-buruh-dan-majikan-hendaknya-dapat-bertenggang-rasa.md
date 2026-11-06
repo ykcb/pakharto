@@ -27,8 +27,6 @@ tags:
 - sjarif-thajeb
 - subroto
 - transmigrasi-dan-koperasi
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

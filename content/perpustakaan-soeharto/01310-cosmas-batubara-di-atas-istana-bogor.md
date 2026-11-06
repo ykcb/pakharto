@@ -21,8 +21,6 @@ tags:
 - pmkri
 - presiden-soeharto
 - tritura
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

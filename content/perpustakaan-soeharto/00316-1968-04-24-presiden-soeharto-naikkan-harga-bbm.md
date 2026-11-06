@@ -20,8 +20,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - rokok
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

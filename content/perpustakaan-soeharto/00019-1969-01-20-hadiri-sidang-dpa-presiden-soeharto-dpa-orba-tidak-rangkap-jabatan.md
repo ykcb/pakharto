@@ -28,8 +28,6 @@ tags:
 - sidang
 - soksi
 - tinggal-landas-2
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

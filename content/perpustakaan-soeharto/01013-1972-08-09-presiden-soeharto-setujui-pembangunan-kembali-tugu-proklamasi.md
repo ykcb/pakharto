@@ -19,8 +19,6 @@ tags:
 - presiden-soeharto
 - tugu-proklamasi
 - wakil-gubernur-dki
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

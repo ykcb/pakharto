@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - pt-daya-sakti-di-seliri
 - way-luni
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -18,8 +18,6 @@ tags:
 - perpustakaan-soeharto
 - pm-lee-kuan-yew
 - presiden-soeharto
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

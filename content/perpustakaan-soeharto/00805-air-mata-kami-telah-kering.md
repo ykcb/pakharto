@@ -17,8 +17,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - surat-simpati
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

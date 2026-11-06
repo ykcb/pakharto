@@ -25,8 +25,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - prof-dr-widjoyo-nitisastro
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -23,8 +23,6 @@ tags:
 - pertaminamenteri-perdagangan
 - presiden-soeharto
 - supersemar
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

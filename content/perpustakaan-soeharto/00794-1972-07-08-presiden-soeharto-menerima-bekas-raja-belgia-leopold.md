@@ -25,8 +25,6 @@ tags:
 - presiden-soeharto
 - pulau-nias
 - sibolga
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

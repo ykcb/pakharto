@@ -22,8 +22,6 @@ tags:
 - presiden-soeharto
 - timor-portugis
 - yoga-sugama
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

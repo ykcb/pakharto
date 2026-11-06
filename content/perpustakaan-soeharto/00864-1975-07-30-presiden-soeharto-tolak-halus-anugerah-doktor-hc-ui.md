@@ -26,8 +26,6 @@ tags:
 - prof-mahar-mardjono
 - prof-miriam-budiardjo-ma
 - rektor-ui
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

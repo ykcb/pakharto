@@ -28,8 +28,6 @@ tags:
 - sensus-penduduk
 - tanjung-priok
 - tvri
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -17,8 +17,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sjarif-thajeb
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -30,8 +30,6 @@ tags:
 - tran-van-lam
 - vietnam-selatan
 - yem-sambaur
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

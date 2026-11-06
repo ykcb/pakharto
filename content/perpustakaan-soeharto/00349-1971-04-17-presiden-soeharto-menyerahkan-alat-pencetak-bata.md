@@ -20,8 +20,6 @@ tags:
 - presiden-soeharto
 - rumah
 - sulawesi-selatan
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -25,8 +25,6 @@ tags:
 - perpustakaan-soeharto
 - sira-sira
 - sumatera-utara
-kategori: krisis-dan-reformasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

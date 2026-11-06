@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - produksi
 - tanjung-priok
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -19,8 +19,6 @@ tags:
 - presiden-soeharto
 - rektor-itb
 - uud-1945
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

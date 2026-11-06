@@ -26,8 +26,6 @@ tags:
 - presiden-soeharto
 - singapura
 - tingkat-menteri
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

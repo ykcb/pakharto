@@ -19,8 +19,6 @@ tags:
 - perpustakaan-soeharto
 - persiden-soeharto
 - sulawesi-utara
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

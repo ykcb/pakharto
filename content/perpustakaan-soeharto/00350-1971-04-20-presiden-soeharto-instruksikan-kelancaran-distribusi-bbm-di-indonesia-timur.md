@@ -20,8 +20,6 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

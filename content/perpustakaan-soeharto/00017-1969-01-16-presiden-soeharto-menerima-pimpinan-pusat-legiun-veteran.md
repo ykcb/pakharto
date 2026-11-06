@@ -30,8 +30,6 @@ tags:
 - soeharto
 - tinggal-landas-2
 - veteran
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

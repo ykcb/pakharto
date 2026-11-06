@@ -16,8 +16,6 @@ tags:
 - perpustakaan-soeharto
 - repelita
 - uud-1945
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

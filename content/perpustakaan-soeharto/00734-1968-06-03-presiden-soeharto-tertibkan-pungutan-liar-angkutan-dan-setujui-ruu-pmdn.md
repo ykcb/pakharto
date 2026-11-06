@@ -23,8 +23,6 @@ tags:
 - presiden-soeharto
 - pungutan-liar
 - ruu-pmdn
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

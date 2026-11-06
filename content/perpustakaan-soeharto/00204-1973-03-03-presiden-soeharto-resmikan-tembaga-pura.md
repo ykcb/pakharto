@@ -18,8 +18,6 @@ tags:
 - presiden-soeharto
 - soeharto
 - tembaga-pura
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

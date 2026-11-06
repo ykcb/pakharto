@@ -22,8 +22,6 @@ tags:
 - rapat-umum
 - sumatera-selatan
 - tanjung-karang
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

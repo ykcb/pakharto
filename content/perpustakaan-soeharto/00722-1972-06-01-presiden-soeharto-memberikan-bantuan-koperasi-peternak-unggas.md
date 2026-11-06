@@ -29,8 +29,6 @@ tags:
 - riam-kanan
 - tokyo
 - weleri
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

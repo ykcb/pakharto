@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - spirituil
 - ulama
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

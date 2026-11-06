@@ -18,8 +18,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wanhankamnas
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

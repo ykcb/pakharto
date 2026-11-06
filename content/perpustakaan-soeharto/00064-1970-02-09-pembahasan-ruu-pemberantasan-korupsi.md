@@ -21,8 +21,6 @@ tags:
 - pertanian
 - ruu
 - sultan
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

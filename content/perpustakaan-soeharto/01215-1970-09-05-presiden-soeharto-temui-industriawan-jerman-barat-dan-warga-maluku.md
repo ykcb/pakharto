@@ -25,8 +25,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - vt-lucas
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

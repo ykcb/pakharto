@@ -26,8 +26,6 @@ tags:
 - trabalista
 - udt
 - uni-demokrasi-timor
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

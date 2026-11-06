@@ -23,8 +23,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharo
 - ummat
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

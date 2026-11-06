@@ -19,8 +19,6 @@ tags:
 - presiden-soeharto
 - tmp-kalibata
 - usman
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

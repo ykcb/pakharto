@@ -19,8 +19,6 @@ tags:
 - presiden-soeharto
 - soeharto
 - sumpah-presiden
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

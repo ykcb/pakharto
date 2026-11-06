@@ -21,8 +21,6 @@ tags:
 - pick-up-vw-mitra-double-cabin
 - presiden-soeharto
 - sedan-vw-beetle-1303
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

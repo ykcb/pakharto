@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - sarbini
 - sutjipto-judodihardjo
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

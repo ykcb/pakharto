@@ -21,8 +21,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wakil-pm-korut
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -18,8 +18,6 @@ tags:
 - pakistan
 - perpustakaan-soeharto
 - turki
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

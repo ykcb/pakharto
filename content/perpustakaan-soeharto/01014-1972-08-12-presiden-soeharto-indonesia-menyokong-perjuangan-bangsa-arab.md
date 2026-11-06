@@ -21,8 +21,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - syria
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

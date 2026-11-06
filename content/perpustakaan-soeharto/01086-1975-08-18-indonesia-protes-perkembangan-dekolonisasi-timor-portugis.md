@@ -32,8 +32,6 @@ tags:
 - wakil-asisten-operasi-hankam
 - wakil-kepala-bakin
 - yoga-sugama
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

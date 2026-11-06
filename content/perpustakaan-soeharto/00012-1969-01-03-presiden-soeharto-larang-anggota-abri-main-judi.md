@@ -28,8 +28,6 @@ tags:
 - presiden-soeharto
 - repelita
 - tinggal-landas-2
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

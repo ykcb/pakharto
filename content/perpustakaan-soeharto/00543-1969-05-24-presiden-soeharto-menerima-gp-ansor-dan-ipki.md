@@ -20,8 +20,6 @@ tags:
 - pertentangan
 - presiden-soeharto
 - stabilitas-nasional
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - roma
 - swasembada-pangan
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

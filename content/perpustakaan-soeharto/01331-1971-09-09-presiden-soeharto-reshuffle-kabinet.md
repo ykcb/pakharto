@@ -28,8 +28,6 @@ tags:
 - prof-dr-mukti-ali
 - prof-dr-widjaja-nitisastro
 - reshuffle-kabinet
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

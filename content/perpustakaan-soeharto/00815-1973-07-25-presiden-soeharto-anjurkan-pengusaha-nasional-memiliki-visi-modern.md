@@ -18,8 +18,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - suwoto-sukendar
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -22,8 +22,6 @@ tags:
 - perumahan-rakyat
 - presiden-soeharto
 - putl
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

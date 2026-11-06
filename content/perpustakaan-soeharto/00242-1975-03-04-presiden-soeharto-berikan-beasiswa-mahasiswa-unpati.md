@@ -17,8 +17,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-seoharto
 - supersemar
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -21,8 +21,6 @@ tags:
 - serambi-mekah
 - sumatera-barat
 - umat-islam
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

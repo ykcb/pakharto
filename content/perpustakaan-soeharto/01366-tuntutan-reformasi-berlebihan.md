@@ -19,8 +19,6 @@ tags:
 - presiden-soeharto
 - reformasi
 - usa
-kategori: krisis-dan-reformasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

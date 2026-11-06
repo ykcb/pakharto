@@ -17,8 +17,6 @@ tags:
 - perpustakaan-soeharto
 - perusahaan-negara
 - presiden-soehareto
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

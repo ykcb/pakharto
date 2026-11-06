@@ -17,8 +17,6 @@ tags:
 - pembangunan
 - perpustakaan-soeharto
 - presiden-soeharto
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

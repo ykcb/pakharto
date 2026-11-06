@@ -18,8 +18,6 @@ tags:
 - presiden-soeharto
 - ruu-anti-korupsi
 - ruu-perkawinan
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

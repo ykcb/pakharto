@@ -24,8 +24,6 @@ tags:
 - perpustakaan-soeharto
 - petrus
 - shock-theraphy
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

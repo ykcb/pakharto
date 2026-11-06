@@ -18,8 +18,6 @@ tags:
 - presiden-soeharto
 - ratu-pahlevi
 - shah-itan
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -34,8 +34,6 @@ tags:
 - trikora
 - wira-yudha-putra
 - yatim-piatu
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

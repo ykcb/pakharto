@@ -21,8 +21,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - vietnam-selatan
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

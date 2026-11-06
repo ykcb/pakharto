@@ -20,8 +20,6 @@ tags:
 - sorong
 - taman-makam-pahlawan
 - tugu-pepera
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

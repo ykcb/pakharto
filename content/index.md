@@ -55,7 +55,7 @@ Track baru yang menggali *best practices* era Orde Baru yang masih relevan hari 
 
 - **Peta Sistemik Lengkap**: [[hub/orde-baru|Orde Baru (1966–1998)]] — Ringkasan periodisasi 32 tahun, perbandingan capaian vs kelemahan, dan warisan kelembagaan.
 - **Aktor Sentral**: [[aktor/soeharto|Jenderal Besar Soeharto]] — Profil politik, jejaring kekuasaan, gaya kepemimpinan, dan posisi historisnya.
-- **Perpustakaan Soeharto**: [[perpustakaan-soeharto|Arsip Artikel & Pidato Soeharto]] — Lebih dari 1.000 artikel, pidato, dan kliping berita dari soehartolibrary.id.
+- **Kliping Soeharto**: [[perpustakaan-soeharto|Arsip Artikel & Pidato Soeharto]] — 1.112 kliping, pidato, dan artikel dari soehartolibrary.id.
 
 ---
 

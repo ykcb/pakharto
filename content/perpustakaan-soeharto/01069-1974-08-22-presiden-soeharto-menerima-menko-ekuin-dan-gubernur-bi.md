@@ -20,8 +20,6 @@ tags:
 - presiden-soeharto
 - prof-dr-widjojo-nisisastro
 - rachmat-saleh
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

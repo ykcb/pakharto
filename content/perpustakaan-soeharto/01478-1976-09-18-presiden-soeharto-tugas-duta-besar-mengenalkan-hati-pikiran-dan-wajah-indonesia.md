@@ -32,8 +32,6 @@ tags:
 - selandia-baru
 - uni-soviet
 - vatikan
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

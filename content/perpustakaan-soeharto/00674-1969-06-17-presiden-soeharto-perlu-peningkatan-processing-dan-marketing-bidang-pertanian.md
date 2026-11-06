@@ -21,8 +21,6 @@ tags:
 - pertanian
 - presiden-soeharto
 - tani-makmur
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

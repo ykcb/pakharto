@@ -24,8 +24,6 @@ tags:
 - sidang-paripurna
 - sumitro-djojohadikusumo
 - widjojo-nitisastro
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -21,8 +21,6 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - selandia-baru
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

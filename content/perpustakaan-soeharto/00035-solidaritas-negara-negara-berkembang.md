@@ -18,8 +18,6 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - politik
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

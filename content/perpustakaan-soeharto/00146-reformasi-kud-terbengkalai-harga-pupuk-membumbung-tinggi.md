@@ -17,8 +17,6 @@ tags:
 - pertanian
 - pupuk
 - ukm
-kategori: krisis-dan-reformasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

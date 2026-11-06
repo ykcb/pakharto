@@ -25,8 +25,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - republik-chili
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

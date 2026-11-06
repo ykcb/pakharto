@@ -21,8 +21,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - prof-dr-sumantri-brodjonegoro
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

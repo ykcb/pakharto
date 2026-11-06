@@ -23,8 +23,6 @@ tags:
 - rachmat-saleh
 - radius-prawiro
 - widjojo-nitisostro
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -20,8 +20,6 @@ tags:
 - pertamina
 - presiden-soeharto
 - sumur-minyak
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

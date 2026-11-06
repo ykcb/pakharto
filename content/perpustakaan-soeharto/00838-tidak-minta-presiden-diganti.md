@@ -19,8 +19,6 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-kategori: krisis-dan-reformasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

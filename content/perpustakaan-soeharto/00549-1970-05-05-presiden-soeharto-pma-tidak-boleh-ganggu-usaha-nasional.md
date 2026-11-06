@@ -21,8 +21,6 @@ tags:
 - prof-m-sadli
 - stabilisasi-ekonomi
 - usaha-nasional
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

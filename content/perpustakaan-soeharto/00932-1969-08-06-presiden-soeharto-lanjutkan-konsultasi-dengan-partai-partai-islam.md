@@ -38,8 +38,6 @@ tags:
 - syarifudin-siregar
 - umat-islam
 - wartomo-dwijojuwono
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

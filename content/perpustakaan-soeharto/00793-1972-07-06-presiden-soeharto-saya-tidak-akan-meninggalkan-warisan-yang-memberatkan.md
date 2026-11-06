@@ -21,8 +21,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - ujung-pandang
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

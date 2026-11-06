@@ -21,8 +21,6 @@ tags:
 - piere-paul-schweitzer
 - presiden-soeharto
 - robert-mcnamara
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

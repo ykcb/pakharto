@@ -26,8 +26,6 @@ tags:
 - pemuda
 - perpustakaan-soeharto
 - rakyat
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

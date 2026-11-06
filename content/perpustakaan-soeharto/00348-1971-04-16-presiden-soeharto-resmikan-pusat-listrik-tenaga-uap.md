@@ -20,8 +20,6 @@ tags:
 - presiden-soeharto
 - pusat-listrik-tenaga-uap
 - spiritual
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

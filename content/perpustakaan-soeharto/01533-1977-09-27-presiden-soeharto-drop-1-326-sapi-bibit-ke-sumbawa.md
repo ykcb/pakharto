@@ -19,8 +19,6 @@ tags:
 - sapi-bibit
 - sumbawa
 - wasita-kusumah
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

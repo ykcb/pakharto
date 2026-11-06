@@ -17,8 +17,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - rachmat-saleh
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

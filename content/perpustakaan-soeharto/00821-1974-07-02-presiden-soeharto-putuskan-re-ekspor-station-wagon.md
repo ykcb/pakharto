@@ -17,8 +17,6 @@ tags:
 - presiden-soeharto
 - re-ekspor
 - station-wagon
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

@@ -16,8 +16,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - ulang-tahun
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

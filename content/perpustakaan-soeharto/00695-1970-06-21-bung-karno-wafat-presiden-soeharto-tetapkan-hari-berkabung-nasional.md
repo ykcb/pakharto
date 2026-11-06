@@ -29,8 +29,6 @@ tags:
 - prof-ga-siwabessy
 - sudharmono
 - wilopo-sh
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

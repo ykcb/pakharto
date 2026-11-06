@@ -15,8 +15,6 @@ tags:
 - perpustakaan-soeharto
 - prestasi-pembangunan-2
 - tinggal-landas-2
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

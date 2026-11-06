@@ -16,8 +16,6 @@ aliases:
 tags:
 - orde-baru
 - perpustakaan-soeharto
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

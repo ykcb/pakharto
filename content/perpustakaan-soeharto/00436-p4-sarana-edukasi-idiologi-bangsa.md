@@ -18,8 +18,6 @@ tags:
 - pancasila
 - perpustakaan-soeharto
 - presiden-soeharto
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

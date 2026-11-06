@@ -24,8 +24,6 @@ tags:
 - presiden-soeharto
 - siprus
 - timur-tengah
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

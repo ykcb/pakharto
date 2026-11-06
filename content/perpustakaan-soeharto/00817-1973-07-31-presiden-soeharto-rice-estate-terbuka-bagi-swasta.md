@@ -18,8 +18,6 @@ tags:
 - rice-estate
 - swasta
 - swasta-asing
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

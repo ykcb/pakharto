@@ -30,8 +30,6 @@ tags:
 - presiden-soeharto
 - ruu-pemilu
 - sunarsono
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

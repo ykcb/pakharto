@@ -21,8 +21,6 @@ tags:
 - presiden-soeharto
 - sidang-kabinet-terbatas
 - team-pemberantasan-korupsi
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

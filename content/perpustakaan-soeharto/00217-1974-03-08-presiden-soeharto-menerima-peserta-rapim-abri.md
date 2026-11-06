@@ -19,8 +19,6 @@ tags:
 - presiden-soeharto
 - rapim
 - tri-dharma
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

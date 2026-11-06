@@ -23,8 +23,6 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sheikh-abdullah-al-noury
-kategori: pembangunan-dan-kehidupan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

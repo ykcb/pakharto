@@ -20,8 +20,6 @@ tags:
 - pipanisasi-pertamina
 - pn-aneka-usaha
 - presiden-soeharto
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

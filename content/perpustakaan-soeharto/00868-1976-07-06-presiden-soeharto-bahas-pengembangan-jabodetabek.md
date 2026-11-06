@@ -22,8 +22,6 @@ tags:
 - presiden-soeharto
 - prof-widjoyo-nitisastro
 - tangerang
-kategori: ekonomi-dan-kepemilikan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

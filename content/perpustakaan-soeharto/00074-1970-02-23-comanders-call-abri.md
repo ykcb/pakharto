@@ -19,8 +19,6 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - soeharto
-kategori: keamanan-dan-kebebasan
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

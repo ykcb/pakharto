@@ -20,8 +20,6 @@ tags:
 - presiden-soeharto
 - pulau-galang
 - singapura
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high

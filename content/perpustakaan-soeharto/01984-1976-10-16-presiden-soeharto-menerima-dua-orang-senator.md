@@ -19,8 +19,6 @@ tags:
 - senator-as
 - senator-john-glenn
 - senator-michael-j-mansfield
-kategori: kekuasaan-dan-legitimasi
-kategori_tambahan: []
 risiko_editorial: rendah
 status: ''
 confidence: high
