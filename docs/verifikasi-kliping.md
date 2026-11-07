@@ -1024,9 +1024,110 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   (di VM, bukan repo); skrip terapan `apply_batch1995.py` + skrip gabung
   `merge_batch1995.py` di folder yang sama.
 
-### Batch berikutnya (BELUM MULAI)
+### Batch tanpa tanggal (SELESAI, 7 Nov 2026, commit `df367286`, live)
 
-- Urutan batch: tanpa tanggal (176, terakhir).
+- **Pembaca: 12 subagen** (176 artikel, 2 gelombang 6+6, ~21.000 kata
+  per chunk), baca penuh dgn protokol pilot; rizky menggabungkan
+  putusan + memverifikasi sendiri SEMUA 47 fix dan relasi yg
+  meragukan ke file aslinya (7 relasi `orde-baru-1966-1998` ditolak
+  agen induk — lihat bawah).
+- **Hasil: 176 artikel; 172 `cross_checked`, 4 `needs_review`,
+  0 `disputed`, 47 fix, 81 relasi `menyebut` baru** (ekonomi 37,
+  orde-baru 24, glosarium 11, krisis 5, petrus 3, malari 1; total
+  239, FTS 1.467). **Kumulatif akhir Fase 1: 1.089 `cross_checked`,
+  23 `needs_review` — 1.112/1.112 unik diputuskan. FASE 1 SELESAI.**
+- **Batch ini beda:** artikelnya PANJANG (total 250.287 kata,
+  rata-rata 1.422, maks 8.665) — esai, kenangan, testimoni, bukan
+  kliping harian. FM-date semuanya tanggal publikasi 2013–2018.
+  47 fix tanggal ditemukan dari isi (caption galeri, kepala surat,
+  tanggal eksplisit di badan, kata hari + eliminasi tahun).
+- **47 fix (tanggal peristiwa):** 1998: 16 (12 surat simpati dari
+  buku *Empati di Tengah Badai* 21 Mei–31 Des 1998 — 00805, 00820,
+  00824, 00843, 00846, 00848, 00852, 00854, 00904, 01009, 01053,
+  01062 — plus 01097, 01366, 00273, 00130); 1970: 5 (00077
+  → 1970-02-27 + title, 00378, 00401, 00402, 00403); 1965: 3
+  (00109 → 1965-09-30, 00110 → 1965-10-04, 00117 → 1965-10-06);
+  1969: 3 (00935 → 1969-08-09, 00937 → 1969-08-12, 01978 →
+  1969-04-01); 1976: 3 (00025 → 1976-08-16, 00224, 00229); 1981: 3
+  (00374, 00377, 00396); 1966: 2 (00034 → 1966-03-11 Supersemar,
+  01310 → 1966-01-15); 1973: 2 (00123, 00227); 1974: 2 (00230,
+  00379); 1947: 1 (01707 → 1947-12-26, perkawinan Soeharto–Tien);
+  1948: 1 (01758 → 1948-09-18, pemberontakan PKI Madiun); 1949: 1
+  (01795 → 1949-06-30, Belanda tinggalkan Yogya); 1968: 1 (01944
+  → 1968-03-27, pelantikan Presiden); 1971: 1 (00782 → 1971-07-20
+  + title — "1071" di nama file adalah typo digit 9 hilang; badan
+  "SELASA, 20 Juli 1971", Selasa ✓); 1985: 1 (01574 → 1985-11-14,
+  pidato FAO Roma); 1993: 1 (00121 → 1993-06-19, Avicenna Award
+  UNESCO — kontradiksi internal diputuskan: badan menulis 1984
+  tapi caption 19 Jun 1993 + Dirjen UNESCO Federico Mayor menjabat
+  sejak 1987, jadi 1984 mustahil); 2012: 1 (00417 → 2012-11-08,
+  pidato Mahathir di UMB "hari Kamis, 8 November 2012", Kamis ✓).
+- **5 seksi BARU di indeks** (disisipkan kronologis): 1947–1948 (2),
+  1981 (3), 1985 (1), 1993 (1), 2012 (1). Seksi Tanpa tanggal
+  menyusut 176 → **129**. Indeks akhir: 1947–1948: 2, 1949–1967: 8,
+  1968: 83, 1969: 140, 1970: 140, 1971: 105, 1972: 85, 1973: 83,
+  1974: 84, 1975: 87, 1976: 78, 1977: 32, 1978: 16, 1979: 16,
+  1981: 3, 1985: 1, 1993: 1, 1995–1998: 18, 2012: 1, Tanpa tanggal:
+  129 (total 1.112).
+- **4 `needs_review`:** 00006 (Dwikora: "4 Agustus 1964" vs sumber
+  luar 4 Agustus 1965 — tidak dapat diputuskan dari isi); 00134
+  (galeri video film G30S 1984: sinopsis 30 Sep–1 Okt tanpa tahun,
+  ambigu rilis film 1984 vs peristiwa 1965-09-30); 00375 (menyambut
+  YDPA Malaysia — isi hanya menyebut tahun 1981, tanggal kunjungan
+  persis tidak ditemukan); 00416 (Teror PKI di Yogyakarta —
+  kesalahan faktual terverifikasi di bagian survei umum: "rezim
+  komunis berkuasa di Afganistan 1973" salah — kudeta republik
+  Daoud Khan 1973, komunis baru berkuasa lewat Revolusi Saur Apr
+  1978 — tapi inti artikel tidak bergantung padanya, jadi
+  needs_review bukan disputed).
+- **Relasi `menyebut`: 81 diterima, 7 ditolak agen induk.**
+  Diterima: ekonomi 37 (termasuk seri memoar Sumarlin/Krakatau/
+  Pertamina/wereng dgn angka rinci), orde-baru 24, glosarium 11
+  (seri Trilogi Pembangunan 00575/00580/00581/00601/00613,
+  00361/00379, 01944 Demokrasi Pancasila, 01846 Dwifungsi ABRI,
+  01948, 00073), krisis 5 (00003, 00145, 00146, 00613, 01244),
+  petrus 3 (00061, 00452, 00575), malari 1 (01895 — Malari sbg
+  konteks pengangkatan + tindak lanjut SK 028/1974, Keppres
+  4/1974). **Ditolak agen induk (7, semua orde-baru-1966-1998):**
+  00436 (frasa "Orde Baru" hanya 1x sbg perbandingan era, latar),
+  01244, 00580, 01978, 00179, 00232, 00233 (frasa "Orde Baru" 0x
+  di isi — melanggar syarat eksplisit; preseden 00467/00495 batch
+  1976). Relasi krisis di 00003 DITERIMA meski subagen ragu
+  (krisis dibahas 7x dgn angka minus 13,13% + IMF + Camdessus —
+  beda dari preseden 00004 yg hanya menyebut KKN sekali).
+- **Selisih sumber dicatat (bukan fix):** Bung Karno wafat "21 Juli
+  1970" (00203) vs 21 Juni 1970 (Wikipedia/Kemdikbud); Muso tewas
+  30 Okt 1948 (00418) vs 31 Okt; inflasi 1965 ditulis 500% / 600% /
+  650% di artikel berbeda; swasembada 1984 vs 1985/1986; Inpres
+  pencabut 18/1998 vs 19/1998; Sidang Istimewa MPRS 8 Mar 1967
+  (01876) vs 7 Mar; Sidang MPRS "18 Juni 1966" (01910) vs dibuka
+  20 Juni.
+- **Catatan proses:** (1) Chunk 1 menolak mengerjakan tugas karena
+  brief disampaikan lewat file (`/tmp/brief_chunk1_notdate.txt`
+  tidak lolos prompt-injection check di sisi subagen) — diulang
+  dgn brief langsung di message (berhasil); chunk 2–6 dgn
+  file-brief tetap bekerja, penolakan tidak deterministik; pelajaran
+  dicatat di AGENTS.md. (2) Apply pertama menulis `fix: None` —
+  skrip apply lama memakai `if "fix" in d:` sehingga TypeError;
+  diperbaiki ke `if d.get("fix"):`. (3) Apply pertama juga
+  menghapus tautan seksi 1972/1975/1977/1978/1979 (aktual 0)
+  karena loop skip memakai `target_section(key) is not None`
+  sementara `section_of()` batch ini mengenali semua tahun
+  1968–1979, dan header 1995–1998 jadi 16 padahal aktual 18
+  (00089/00004 tidak masuk want). Diperbaiki: skip hanya bila
+  `target_section(key) in want`, fallback seksi asal untuk SEMUA
+  file; `_index.md` dipulihkan dari git sebelum apply ulang;
+  apply ke-2 bersih, `check_index.py` 0 mismatch.
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batchnotdate_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batchnotdate.py` + skrip gabung
+  `merge_batchnotdate.py` + prep `batchnotdate_list.py` /
+  `batchnotdate_prep.py` di folder yang sama.
+
+### Fase 1 SELESAI (7 Nov 2026)
+
+- Semua 1.112 kliping sudah dibaca penuh dan diputuskan:
+  **1.089 `cross_checked`, 23 `needs_review`, 0 `disputed`.**
+  Tidak ada lagi artikel `source_checked` yg belum dibaca.
 - Yang ikut dikerjakan di batch baca:
   **184 judul frontmatter terpotong**
   (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
