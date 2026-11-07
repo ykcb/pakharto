@@ -22,8 +22,8 @@ tags:
 - umat-beragama
 - wadah-konsultasi
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-03-12-presiden-soeharto-kerjasama-antar-ummat-beragama-bukan-sesuatu-yang-mustahil/

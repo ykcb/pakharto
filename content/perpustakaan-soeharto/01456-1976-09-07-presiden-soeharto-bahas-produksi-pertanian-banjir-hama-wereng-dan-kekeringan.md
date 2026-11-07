@@ -24,8 +24,8 @@ tags:
 - presiden-soeharto
 - produksi-pertanian
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/
@@ -36,6 +36,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/
+
 ---
 
 

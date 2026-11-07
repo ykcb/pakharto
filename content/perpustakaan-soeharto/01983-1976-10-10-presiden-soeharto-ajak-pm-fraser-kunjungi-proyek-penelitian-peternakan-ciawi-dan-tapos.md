@@ -24,8 +24,8 @@ tags:
 - presiden-soeharto
 - tapos
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-10-10-presiden-soeharto-ajak-pm-fraser-kunjungi-proyek-penelitian-peternakan-ciawi-dan-tapos/

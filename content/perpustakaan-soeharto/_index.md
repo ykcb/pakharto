@@ -835,7 +835,10 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 
 
 ## 1976 — 75 kliping
+- [[perpustakaan-soeharto/00257-1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina|Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut]]
+- [[perpustakaan-soeharto/00258-1976-03-4-presiden-soeharto-menerima-sekjen-wanhankamnas|Presiden Soeharto Menerima Sekjen Wanhankamnas]]
 - [[perpustakaan-soeharto/00259-1976-03-06-presiden-soeharto-benahi-pertamina|Presiden Soeharto Benahi Pertamina]]
+- [[perpustakaan-soeharto/00260-1976-03-8-presiden-soeharto-bahas-pembentukan-badan-konsultasi-antar-agama|Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama]]
 - [[perpustakaan-soeharto/00261-1976-03-11-presiden-soeharto-resmikan-uns-solo|Presiden Soeharto Resmikan UNS Solo]]
 - [[perpustakaan-soeharto/00281-1976-03-12-presiden-soeharto-kerjasama-antar-ummat-beragama-bukan-sesuatu-yang-mustahil|Presiden Soeharto: Kerjasama Antar Ummat Beragama Bukan Sesuatu Yang Mustahil]]
 - [[perpustakaan-soeharto/00262-1976-03-15-presiden-soeharto-bahas-sidang-opec-dan-hasil-ktt-asean|Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean]]
@@ -846,6 +849,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00267-1976-03-27-presiden-soeharto-lantik-enam-duta-besar-baru|Presiden Soeharto Lantik Enam Duta Besar Baru]]
 - [[perpustakaan-soeharto/00268-1976-03-30-presiden-soeharto-membayar-pajak-merupakan-realisasi-falsafah-pancasila|Presiden Soeharto: Membayar Pajak Merupakan Realisasi Falsafah Pancasila]]
 - [[perpustakaan-soeharto/00269-1976-03-31-presiden-soeharto-benahi-ekspor-impor-dan-lalu-lintas-devisa|Presiden Soeharto Benahi Ekspor Impor dan Lalu Lintas Devisa]]
+- [[perpustakaan-soeharto/00421-1976-4-6-presiden-soeharto-larang-penggunaan-apbn-untuk-pesta|Presiden Soeharto Larang Penggunaan APBN Untuk Pesta]]
 - [[perpustakaan-soeharto/00422-1976-04-08-presiden-soeharto-menerima-menlu-mongolia|Presiden Soeharto Menerima Menlu Mongolia]]
 - [[perpustakaan-soeharto/00423-1976-04-12-presiden-soeharto-parpol-harus-manunggal-dengan-suka-duka-rakyat|Presiden Soeharto: Parpol Harus Manunggal Dengan Suka Duka Rakyat]]
 - [[perpustakaan-soeharto/00424-1976-04-14-perundingan-pemerintah-dengan-caltex-dan-stanvac|Perundingan Pemerintah Dengan Caltex dan Stanvac]]
@@ -907,10 +911,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01986-1976-10-26-alami-paceklik-presiden-soeharto-perintahkan-padat-karya|Alami Paceklik, Presiden Soeharto Perintahkan Padat Karya]]
 - [[perpustakaan-soeharto/01987-1976-10-30-presiden-soeharto-menerima-peserta-munas-kadin|Presiden Soeharto Menerima Peserta Munas Kadin]]
 
-- [[perpustakaan-soeharto/00257-1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina|Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut]]
-- [[perpustakaan-soeharto/00258-1976-03-4-presiden-soeharto-menerima-sekjen-wanhankamnas|Presiden Soeharto Menerima Sekjen Wanhankamnas]]
-- [[perpustakaan-soeharto/00260-1976-03-8-presiden-soeharto-bahas-pembentukan-badan-konsultasi-antar-agama|Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama]]
-- [[perpustakaan-soeharto/00421-1976-4-6-presiden-soeharto-larang-penggunaan-apbn-untuk-pesta|Presiden Soeharto Larang Penggunaan APBN Untuk Pesta]]
 
 ## 1977 — 31 kliping
 

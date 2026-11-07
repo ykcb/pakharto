@@ -29,8 +29,8 @@ tags:
 - radius-prawiro
 - widjoyo-nitisastro
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-21-presiden-soeharto-perintahkan-penyelesaian-perundingan-perusahaan-minyak-asing/

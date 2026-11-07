@@ -1,9 +1,9 @@
 ---
-title: 1976-03-4 Presiden Soeharto Menerima Sekjen Wanhankamnas
+title: '1976-03-04 Presiden Soeharto Menerima Sekjen Wanhankamnas'
 description: KAMIS, 4 MARET 1976, Sekretaris Jenderal Wanhankamnas, Letjen Kartakusumah
   yang disertai oleh Wakil Sekretaris Jenderalnya, Laksma Subarkah, pukul 10.00 pagi
   ini menghadap Presiden Soeharto di Cendana. Keduanya menghadap untuk...
-date: '2014-03-22'
+date: '1976-03-04'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -18,13 +18,13 @@ tags:
 - presiden-soeharto
 - wanhankamnas
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-03-4-presiden-soeharto-menerima-sekjen-wanhankamnas/
   judul: 1976-03-4 Presiden Soeharto Menerima Sekjen Wanhankamnas
-  tanggal: '2014-03-22'
+  tanggal: '1976-03-04'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -32,7 +32,7 @@ relasi:
 ---
 
 
-# 1976-03-4 Presiden Soeharto Menerima Sekjen Wanhankamnas
+# 1976-03-04 Presiden Soeharto Menerima Sekjen Wanhankamnas
 
 # Presiden Soeharto Menerima Sekjen Wanhankamnas
 

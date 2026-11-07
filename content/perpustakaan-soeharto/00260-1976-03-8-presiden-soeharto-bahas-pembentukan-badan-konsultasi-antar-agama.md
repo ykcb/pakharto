@@ -1,9 +1,9 @@
 ---
-title: 1976-03-8 Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama
+title: '1976-03-08 Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama'
 description: SENIN, 8 MARET 1976, Kepala Negara bertempat di Cendana, pagi ini membahas
   berbagai masalah dengan Menteri Dalam Negeri Amirmachmud. Masalah yang dibahas atara
   lain berkaitan dengan usaha untuk membentuk Badan Konsultasi Antar Agama....
-date: '2014-03-22'
+date: '1976-03-08'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,13 +19,13 @@ tags:
 - presiden-soeharto
 - suku-terbelakang
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-03-8-presiden-soeharto-bahas-pembentukan-badan-konsultasi-antar-agama/
   judul: 1976-03-8 Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama
-  tanggal: '2014-03-22'
+  tanggal: '1976-03-08'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -33,7 +33,7 @@ relasi:
 ---
 
 
-# 1976-03-8 Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama
+# 1976-03-08 Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama
 
 # Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama
 

@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - wakil-presiden
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-09-11-peringati-turunnya-al-quran-presiden-soeharto-serukan-hidup-sederhana/

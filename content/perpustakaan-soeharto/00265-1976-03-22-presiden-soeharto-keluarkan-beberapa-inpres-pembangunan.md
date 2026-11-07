@@ -21,8 +21,8 @@ tags:
 - reboisasi
 - sd
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan/
@@ -32,6 +32,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan/
+
 ---
 
 
