@@ -455,15 +455,112 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   chunk 4 ditulis tanpa spasi (`":{`), jadi dinormalisasi dulu
   (`re.sub(r'("[^"]*\.md"):\{', ...)`) sebelum merge.
 
+### Batch 1975 (SELESAI, 7 Nov 2026, commit `522a14c9`)
+
+- **Pembaca: 5 subagen baca paralel** (19/19/18/18/17 artikel tiap
+  chunk), baca penuh dgn protokol pilot/batch 1974; rizky menggabungkan
+  putusan + memverifikasi langsung 7 fix + 00407 ke file aslinya.
+- **Hasil: 91 artikel; 91 `cross_checked`, 0 `needs_review`,
+  0 `disputed`.** Kumulatif Fase 1: **779 `cross_checked`,
+  17 `needs_review`.**
+- **7 perbaikan date/title:** 00248 (1975-02-15 → 1975-03-15 + title;
+  isi "SABTU, 15 MARET 1975" di dua tempat; footnote hal. 224–225 di
+  antara 00247 12 Mar hal. 224 dan 00249 18 Mar hal. 225; 15 Feb 1975
+  juga Sabtu, jadi kata hari tidak membedakan — jangkarnya urutan
+  footnote + isi); 00559 (1975-05-22 → 1970-05-22 + title; isi
+  "JUM'AT, 22 MEI 1970", 22 Mei 1970 memang Jumat; footnote mengutip
+  volume buku 1968–1973 hal. 227; hmsoeharto.id memuat entri yg sama
+  persis di bawah "JUMAT, 22 MEI 1970"; pindah seksi 1970); 01091
+  (1975-08-26 → 1975-08-30, date saja; judul/H1 sudah "1975-08-30
+  ..."; isi "SABTU, 30 AGUSTUS 1975"); 01102 (1975-08-04 → 1976-08-04,
+  date saja; judul/H1 sudah "1976-08-04 ..."; isi "RABU, 04 AGUSTUS
+  1976"; footnote hal. 383; halaman arsip soehartolibrary.id
+  "1976-08-04 ..."); 01103 (1975-08-05 → 1976-08-05 + title; judul
+  lama "1976-08-06" juga salah tanggal; isi "KAMIS, 05 AGUSTUS 1976";
+  footnote hal. 383–384); 01104 (1975-08-07 → 1976-08-07, date saja;
+  judul/H1 sudah "1976-08-07 ..."; isi "SABTU, 07 AGUSTUS 1976";
+  footnote hal. 384; halaman arsip soehartolibrary.id "1976-08-07
+  ..."); 01448 (tanggal invalid 1975-19-17 → 1975-09-17 + title;
+  isi "RABU, 17 SEPTEMBER 1975"; transposisi 09→19, pola sama dgn
+  01042 batch 1973 (08→18); Keppres No. 34 Tahun 1975 ttg Penertiban
+  Peningkatan Keuangan Pertamina ditetapkan + berlaku 17 Sep 1975;
+  footnote hal. 286, halaman yg sama dgn 01449 18 Sep dan setelah
+  01447 16 Sep hal. 285). **Kedua tanggal invalid yg dikenal sejak
+  Fase 0 kini terpecahkan.**
+- **1 selisih hari diputuskan `cross_checked` tanpa fix:** 00407 (isi
+  "SABTU, 14 April 1975" padahal 14 Apr 1975 = Senin — tanggal dinilai
+  benar, kata hari salah ketik; jangkar footnote hal. 237 tepat di
+  antara 00395 12 Apr hal. 236–237 dan 00408 15 Apr hal. 237–238;
+  Sabtu terdekat tersingkir: 12 Apr sudah ditempati 00395, 19 Apr akan
+  menuntut footnote ~238–239).
+- **7 relasi `menyebut` baru** (total 136): 6 ekonomi-orde-baru, 1
+  glosarium (Stabilitas Nasional di 00254 — istilah disebut eksplisit
+  sbg tema sub-judul "(Pers Yang Bebas dan Bertanggung Jawab Perkokoh
+  Stabilitas Nasional)" + paragraf peran pers dlm memperkuatnya).
+  Ekonomi: 00408 (laporan moneter berangka + target semen 5.570.000
+  ton akhir 1977 + instruksi Krakatau Steel 500.000 ton/tahun),
+  00855 (penandatanganan persetujuan proyek Asahan: Jepang US$833
+  juta + Indonesia 10%), 00858 (laporan hasil ekonomi kunjungan luar
+  negeri berangka: Yugoslavia, Kanada, AS, Jepang), 01090 (instruksi
+  tataniaga kopra via BUUD/KUD + persetujuan Laos pakai setengah
+  bantuan US$1 juta utk beli beras Muangthai), 01432 (persetujuan
+  penanaman modal Masyarakat Eropa utk pabrik makanan ternak kedelai
+  dgn syarat transmigrasi + tenaga kerja), 01967 (keputusan moneter:
+  kurs rupiah tetap Rp415/US$1). KKN DITOLAK di 00241 (penyelewengan
+  subsidi desa memang ada, tapi istilah KKN anakronistis — Reformasi
+  1998); bakin DITOLAK di 00240/01081/01086 (pejabat pelapor/peserta
+  saja, lembaga tidak dibahas); ekonomi DITOLAK di 00409 (arah
+  kebijakan fiskal sbg prinsip umum tanpa keputusan/angka/tenggat).
+- **Indeks diperbarui:** seksi 1970 = **135**, seksi 1975 = **87**,
+  seksi 1976 = **75**. Selisih indeks 91 vs 88 (prep) TERPECAHKAN:
+  3 file (01102–01104) berjudul 1976 dan duduk di seksi 1976 —
+  setelah fix FM date ke 1976 mereka tetap di 1976; 00559 pindah ke
+  1970, jadi 1975 = 87. 4 tautan di 1976 (00257, 00258, 00260, 00421)
+  punya frontmatter date tahun publikasi (2014/2017) — header 1976
+  dikoreksi 71→75 agar cocok dgn jumlah tautan aktual (skrip apply
+  menghitung dari frontmatter date, bukan nama file; seperti batch
+  1970/1971); keempatnya menunggu batch 1976.
+- **Spot-check terkonfirmasi:** TMII diresmikan 20 Apr 1975;
+  kunjungan tidak resmi ke Australia 3–5 Apr 1975 (Townsville,
+  Whitlam); Krakatau Steel tahap I 500.000 ton/tahun (Keppres
+  30/1975, 27 Agu 1975; pabrik besi beton + besi profil diresmikan
+  27 Jul 1977); kunjungan Kanada 2–4 Jul 1975 + kredit $200 juta;
+  pertemuan Camp David dgn Presiden Ford 5 Jul 1975; proyek Asahan
+  7 Jul 1975 (master agreement ditandatangani di Tokyo; Inalum
+  didirikan 6 Jan 1976); KTT ASEAN pertama 23–24 Feb 1976 di Bali
+  (Deklarasi Kesepakatan ASEAN + Traktat Persahabatan dan Kerja
+  Sama); kudeta UDT 11 Agu 1975 + serangan balasan Fretilin 20 Agu +
+  Gubernur Pires ke Atauro 26 Agu; Keppres 34/1975 Pertamina
+  17 Sep 1975; petisi integrasi UDT ditandatangani 7 Sep 1975;
+  Idul Fitri 1 Syawal 1395H = Senin 6 Okt 1975; HUT ABRI ke-30
+  5 Okt 1975.
+- **Selisih sumber dicatat, bukan fix:** angka Asahan berbeda framing
+  antar-artikel — 00855 (Jepang US$833 juta), 00858 (US$870 juta,
+  30% saham/70% pinjaman), kabel Deplu AS (total US$844,59 juta);
+  01103 angka 12.000 KK (perencanaan saat keputusan Agu 1976) vs
+  total 12.525 KK terdampak / 10.350 KK ikut transmigrasi; 00249
+  pertemuan Daud Beureueh 18 Mar 1975 tidak terkonfirmasi dari
+  sumber luar (dicatat, bukan inkonsistensi internal); 00392
+  keyakinan Lon Nol pasukan pemerintah bertahan — Phnom Penh jatuh
+  ke Khmer Merah 17 Apr 1975, 12 hari sesudah pertemuan ini (dicatat,
+  bukan inkonsistensi internal).
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1975_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1975.py` + skrip gabung
+  `merge_batch1975.py` di folder yang sama. Pelajaran merge: hasil
+  chunk 2 & 3 batch 1975 ditulis satu baris tanpa newline (`wc -l`
+  = 0) — itu bukan file kosong; dan format `":{` tanpa spasi tetap
+  dinormalisasi dulu sebelum merge.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1975 (88),
-  1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
+- Urutan batch: 1976 (75),
+  1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (176, terakhir).
-- Yang ikut dikerjakan di batch baca: 1 tanggal invalid tersisa
-  (1975-19-17) dan
+- Yang ikut dikerjakan di batch baca:
   **184 judul frontmatter terpotong**
   (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
+  Kedua tanggal invalid yg dikenal sejak Fase 0 sudah terpecahkan
+  (01042 di batch 1973, 01448 di batch 1975).
 - Temuan pilot untuk batch berikutnya: **170 kliping ber-date tahun
   2013–2017** (tanggal publikasi perpustakaan, bukan peristiwa —
   perlu audit tanggal repo-wide); baris metadata WP bocor ke isi
