@@ -55,6 +55,7 @@ Sebaliknya, nasib program ini juga menunjukkan batasnya: Kelompencapir sepenuhny
 | Media | Radio, televisi, dan media cetak |
 | Format | Kelompok pendengar/pembaca/pemirsa di desa + temu wicara langsung + kompetisi cerdas cermat pertanian sampai tingkat pusat |
 | Peserta | Petani, nelayan, dan peternak dari berbagai daerah |
+| Program sejenis di TVRI | Desa ke Desa, Petani Menjawab, Menteri Pertanian Menjawab, Kotak Pos |
 | Berakhir | Memudar setelah Reformasi 1998 dan dibubarkannya Departemen Penerangan |
 
 ## Batas data
