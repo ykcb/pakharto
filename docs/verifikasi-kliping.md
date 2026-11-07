@@ -29,22 +29,66 @@ Dokumen ini mencatat progres verifikasi 1.112 artikel kliping
 - Diterapkan: semua 1.112 kliping `status` + `verification_status` =
   `source_checked` (commit menyusul di bawah).
 
-## Fase 1 — Baca manusia/LLM per batch (BELUM MULAI)
+## Fase 1 — Baca manusia/LLM per batch
 
 Per batch: baca isi artikel, cek klaim ke sumber kedua
 (`cross_checked` atau `disputed`), dan ekstrak relasi `menyebut` ke
 entitas wiki yang disebut di isi artikel (maks ~5 per artikel; hanya
 entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
 
-- Pilot: tahun 1968 (81 artikel) — Hermes membaca, rizky memeriksa
-  sampel acak + menerapkan, tim wiki spot-check. Dari pilot diputuskan
-  kecepatan batch berikutnya.
-- Urutan batch: 1969 (132), 1970 (135), 1971 (106), 1972 (84), 1973 (78),
-  1974 (82), 1975 (88), 1976 (75), 1977 (31), 1978 (17), 1979 (15),
-  1949–1967 (7), 1995–1998 (4), tanpa tanggal (177, terakhir).
+### Pilot 1968 (SELESAI, 7 Nov 2026, commit `14af0df6`, live)
+
+- **Pembaca: rizky sendiri, 82 artikel dibaca penuh** — atas perintah
+  user ("silakan, anda saja yang membaca"), bukan Hermes. Protokol:
+  baca penuh + cek konsistensi internal (hari vs tanggal, judul vs H1,
+  tanggal filename/frontmatter/isi) + spot-check web untuk klaim yang
+  bisa dicek. Definisi ini dinyatakan apa adanya: `cross_checked` di
+  sini berarti sudah dibaca penuh dan dicek konsistensinya, BUKAN
+  verifikasi silang tiap klaim ke sumber kedua yang independen.
+- **Hasil: 84 `cross_checked`, 8 `needs_review`, 0 `disputed`.**
+  (84 = 82 pilot + 2 dari 10 perbaikan tanggal-perpustakaan di bawah.)
+- **8 `needs_review`:** 7 selisih nama hari vs tanggal (00307, 00309,
+  00735, 00897, 00898, 00899 — kemungkinan salah ketik hari di buku
+  sumber; 00309 juga mengutip Instruksi 37/U/IN/6/**1976** padahal yang
+  benar **1967**), 1 Pepera disebut "tahun ini" di 1968 (00913 —
+  Pepera dilaksanakan 1969), 1 "HUT RRI ke-22" (01137 — RRI berdiri
+  11 Sep 1945, jadi 1968 = ke-23).
+- **19 perbaikan date/title:** 2 tanggal salah tahun (00523 → 1968-05-03,
+  00659 → 1968-06-27); 2 pindah batch 1969 (01165 → 1969-09-03, 01166 →
+  1969-09-06); 5 koreksi tanggal (00639 judul saja, 00734 → 1968-07-03,
+  00914 → 1968-08-20, 01680 → 1968-10-01, 01681 → 1968-10-05); 10
+  tanggal frontmatter = tanggal publikasi perpustakaan 2013–2017,
+  bukan tanggal peristiwa (00310 → 1968-04-09; 00282, 00317, 00318,
+  00319, 00327, 00535, 00939, 00940, 00455 → tanggal peristiwa 1969).
+  Satu anomali dicatat tanpa mengubah isi: 00940 kata hari "SABTU"
+  salah (17 Agu 1969 = Minggu); 00939 tanggal pidato 16 Agu 1969
+  (H1 lama "17-08-1969" merujuk konteks HUT).
+- **15 relasi `menyebut` baru** (hanya bila frasa konsep disebut
+  eksplisit; label generik seperti "Stabilitas" dan istilah anakronistis
+  seperti KKN untuk 1968 ditolak). Total relasi MCP: 1.228 → 1.243.
+- **Indeks diperbarui:** seksi 1968 = **81** kliping, seksi 1969 =
+  **132** kliping; semua seksi lain hitungannya cocok.
+- **Spot-check terkonfirmasi OK:** Inpres 12/1968, Tim Ekonomi Keppres
+  195/1968 (8 orang), kenaikan BBM 25 Apr 1968, eksekusi Usman–Harun
+  17 Okt 1968, UU 6/1968 PMDN disahkan 3 Jul 1968.
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/pilot1968_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_pilot1968.py` di folder yang sama.
+
+### Batch berikutnya (BELUM MULAI)
+
+- Urutan batch: 1969 (**134** artikel — 132 + 2 pindahan dari pilot),
+  1970 (135), 1971 (106), 1972 (84), 1973 (78), 1974 (82), 1975 (88),
+  1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
+  1995–1998 (4), tanpa tanggal (177, terakhir).
 - Yang ikut dikerjakan di batch baca: 2 tanggal invalid
-  (1973-18-22, 1975-19-17) dan 81 judul frontmatter terpotong
-  (diketahui sejak 6 Nov 2026).
+  (1973-18-22, 1975-19-17) dan **184 judul frontmatter terpotong**
+  (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
+- Temuan pilot untuk batch berikutnya: **170 kliping ber-date tahun
+  2013–2017** (tanggal publikasi perpustakaan, bukan peristiwa —
+  perlu audit tanggal repo-wide); baris metadata WP bocor ke isi
+  artikel Sep–Okt ("1 September 2013... Views Share on"); file 00733
+  nama/entity_id berawalan "1972" padahal peristiwa 1968-07-01 (nama
+  file tidak diganti — URL).
 
 ## Catatan
 
@@ -53,3 +97,7 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   `cross_checked` tanpa pembacaan.
 - Relasi spesifik per kliping TIDAK dibuat dari judul — hanya dari isi
   yang dibaca, dengan predikat `menyebut`.
+- Judul frontmatter bisa terlipat (plain scalar YAML multi-baris).
+  Skrip yang mengedit judul dengan regex WAJIB mengganti baris judul
+  beserta baris lanjutan berindentasi, atau YAML-nya rusak (terjadi
+  pada 00734 saat pilot; diperbaiki sebelum commit).
