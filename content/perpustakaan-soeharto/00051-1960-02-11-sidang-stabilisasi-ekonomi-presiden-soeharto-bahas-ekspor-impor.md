@@ -1,9 +1,9 @@
 ---
-title: 1960-02-11 Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor
+title: '1969-02-11 Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor'
 description: SELASA, 11 FEBRUARI 1969. Presiden Soeharto memimpin sidang Sub Dewan
   Stabilisasi Ekonomi di Istana Merdeka. Dalam sidang itu antara lain telah dibahas
   situasi umum dalam bidang impor dan ekspor, Inmas Gotong Royong, dan jalannya...
-date: '1960-02-11'
+date: '1969-02-11'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -23,13 +23,13 @@ tags:
 - stabilisasi
 - sub
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1960-02-11-sidang-stabilisasi-ekonomi-presiden-soeharto-bahas-ekspor-impor/
   judul: 1960-02-11 Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor
-  tanggal: '1960-02-11'
+  tanggal: '1969-02-11'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -37,7 +37,7 @@ relasi:
 ---
 
 
-# 1960-02-11 Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor
+# 1969-02-11 Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor
 
 # **Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor[**[1]**](#_ftn1)**
 

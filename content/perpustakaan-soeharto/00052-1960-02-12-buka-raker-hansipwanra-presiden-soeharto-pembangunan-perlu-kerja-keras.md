@@ -1,10 +1,9 @@
 ---
-title: '1960-02-12 Buka Raker Hansip/Wanra, Presiden Soeharto: Pembangunan Perlu Kerja
-  Keras'
+title: '1969-02-12 Buka Raker Hansip/Wanra, Presiden Soeharto: Pembangunan Perlu Kerja Keras'
 description: RABU, 12 FEBRUARI 1969. Menhankam/Pangab Jenderal Soeharto mengatakan
   bahwa pembangunan nasional tidak akan berhasil, apabila hanya diperdebatkan dalam
   seminar-seminar, rapat-rapat, atau pembahasan dalam tulisan-tulisan saja....
-date: '1960-02-12'
+date: '1969-02-12'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -23,14 +22,14 @@ tags:
 - raker
 - wanra
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1960-02-12-buka-raker-hansipwanra-presiden-soeharto-pembangunan-perlu-kerja-keras/
   judul: '1960-02-12 Buka Raker Hansip/Wanra, Presiden Soeharto: Pembangunan Perlu
     Kerja Keras'
-  tanggal: '1960-02-12'
+  tanggal: '1969-02-12'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -38,7 +37,7 @@ relasi:
 ---
 
 
-# 1960-02-12 Buka Raker Hansip/Wanra, Presiden Soeharto: Pembangunan Perlu Kerja Keras
+# 1969-02-12 Buka Raker Hansip/Wanra, Presiden Soeharto: Pembangunan Perlu Kerja Keras
 
 # **Buka Raker Hansip/Wanra, Presiden Soeharto: Pembangunan Perlu Kerja Keras[**[1]**](#_ftn1)**
 

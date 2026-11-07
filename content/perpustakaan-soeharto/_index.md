@@ -13,15 +13,10 @@ tags: [kliping, index, orde-baru]
 
 Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal mengikuti tahun peristiwanya, yang tanpa tanggal dikumpulkan di akhir. Membacanya dari tahun ke tahun berarti mengikuti Orde Baru dari awal hingga akhirnya.
 
-## 1949–1967 — 7 kliping
-
+## 1949–1967 — 2 kliping
 - [[perpustakaan-soeharto/00033-serangan-umum-1-maret-1949|Serangan Umum 1 Maret 1949]]
-- [[perpustakaan-soeharto/00051-1960-02-11-sidang-stabilisasi-ekonomi-presiden-soeharto-bahas-ekspor-impor|Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor]]
-- [[perpustakaan-soeharto/00052-1960-02-12-buka-raker-hansipwanra-presiden-soeharto-pembangunan-perlu-kerja-keras|Buka Raker Hansip/Wanra, Presiden Soeharto: Pembangunan Perlu Kerja Keras]]
-- [[perpustakaan-soeharto/00055-1960-02-19-buka-raker-deptan-presiden-soeharto-pemerintah-harus-mencukupkan-pangan-dalam-negeri|Buka Raker Deptan, Presiden Soeharto: Pemerintah Harus Mencukupkan Pangan Dalam Negeri]]
 - [[perpustakaan-soeharto/00306-pki-di-balik-g-30-s1965|PKI DI BALIK G 30 S/1965]]
-- [[perpustakaan-soeharto/00744-1967-07-01-presiden-soeharto-polisi-harus-bertindak-tegas-dan-adil-tanpa-pandang-bulu|Presiden Soeharto: Polisi Harus Bertindak Tegas Dan Adil Tanpa Pandang Bulu]]
-- [[perpustakaan-soeharto/00748-1967-07-08-presiden-soeharto-penurunan-bunga-bank|Presiden Soeharto Menyetujui Penurunan Bunga Bank]]
+
 
 ## 1968 — 82 kliping
 - [[perpustakaan-soeharto/00135-1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang|Presiden Soeharto Kunjungan Resmi Ke Jepang]]
@@ -108,7 +103,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01694-1968-10-30-presiden-soeharto-bahas-kemungkinan-tindakan-balasan-kepada-singapura|Presiden Soeharto Bahas Kemungkinan Tindakan Balasan Kepada Singapura]]
 
 
-## 1969 — 131 kliping
+## 1969 — 136 kliping
 - [[perpustakaan-soeharto/00012-1969-01-03-presiden-soeharto-larang-anggota-abri-main-judi|Presiden Soeharto Larang Anggota ABRI Main Judi]]
 - [[perpustakaan-soeharto/00013-1969-01-06-presiden-soeharto-menerima-pimpinan-organisasi-islam-asia-afrika|Presiden Soeharto Menerima Pimpinan Organisasi Islam Asia Afrika]]
 - [[perpustakaan-soeharto/00015-1969-01-08-sidang-kabinet-terbatas-presiden-soeharto-menerima-laporan-sejumlah-menteri|Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah]]
@@ -127,8 +122,11 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00032-1969-02-07-presiden-soeharto-apresiasi-hmi|PRESIDEN SOEHARTO APRESIASI HMI]]
 - [[perpustakaan-soeharto/00049-1969-02-08-menerima-duta-besar-bulgaria|MENERIMA DUTA BESAR BULGARIA]]
 - [[perpustakaan-soeharto/00050-1969-02-10-presiden-soeharto-menerima-menlu-kamboja|Presiden Soeharto Menerima Menlu Kamboja]]
+- [[perpustakaan-soeharto/00051-1960-02-11-sidang-stabilisasi-ekonomi-presiden-soeharto-bahas-ekspor-impor|Sidang Stabilisasi Ekonomi, Presiden Soeharto Bahas Ekspor Impor]]
+- [[perpustakaan-soeharto/00052-1960-02-12-buka-raker-hansipwanra-presiden-soeharto-pembangunan-perlu-kerja-keras|Buka Raker Hansip/Wanra, Presiden Soeharto: Pembangunan Perlu Kerja Keras]]
 - [[perpustakaan-soeharto/00053-1969-02-14-lantik-perwira-akri-jenderal-soeharto-kepolisian-alat-utama-wujudkan-kamtibmas|Lantik Perwira AKRI, Jenderal Soeharto: Kepolisian Alat Utama Wujudkan Kamtibmas]]
 - [[perpustakaan-soeharto/00054-1969-02-18-dipimpin-presiden-soeharto-sidang-dewan-stabilisasi-ekonomi-bahas-pupuk-dan-tarif|Dipimpin Presiden Soeharto, Sidang Dewan Stabilisasi Ekonomi Bahas]]
+- [[perpustakaan-soeharto/00055-1960-02-19-buka-raker-deptan-presiden-soeharto-pemerintah-harus-mencukupkan-pangan-dalam-negeri|Buka Raker Deptan, Presiden Soeharto: Pemerintah Harus Mencukupkan Pangan Dalam Negeri]]
 - [[perpustakaan-soeharto/00056-1969-02-24-raker-transmigrasi-presiden-soeharto-keberhasilan-pembangunan-taruhan-martabat-bangsa|Raker Transmigrasi, Presiden Soeharto: Keberhasilan Pembangunan Taruhan Martabat Bangsa]]
 - [[perpustakaan-soeharto/00057-1969-02-27-sholat-iedul-adha-di-istana-merdeka-presiden-soeharto-islam-agama-amal|Sholat Iedul Adha di Istana Merdeka, Presiden Soeharto: Islam Agama Amal]]
 - [[perpustakaan-soeharto/00139-1969-03-01-melantik-tiga-duta-besar|Melantik Tiga Duta Besar]]
@@ -182,9 +180,11 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00676-1969-06-21-presiden-soeharto-tegaskan-komitmen-abri-tegakkan-pancasila|Presiden Soeharto Tegaskan Komitmen ABRI Tegakkan Pancasila]]
 - [[perpustakaan-soeharto/00679-1969-06-26-presiden-soeharto-inspeksi-departemen-pertanian|Presiden Soeharto Inspeksi Departemen Pertanian]]
 - [[perpustakaan-soeharto/00682-1969-06-28-presiden-dan-ibu-tien-soeharto-menyambut-pm-india-nyonya-indira-gandi|Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira]]
+- [[perpustakaan-soeharto/00744-1967-07-01-presiden-soeharto-polisi-harus-bertindak-tegas-dan-adil-tanpa-pandang-bulu|Presiden Soeharto: Polisi Harus Bertindak Tegas Dan Adil Tanpa Pandang Bulu]]
 - [[perpustakaan-soeharto/00745-1969-07-02-presiden-soeharto-pm-gandhi-umumkan-komunike-bersama|Presiden Soeharto-PM Gandhi Umumkan Komunike Bersama]]
 - [[perpustakaan-soeharto/00746-1969-07-03-presiden-soeharto-bantah-anak-emaskan-investor-asing|Presiden Soeharto Bantah Anak Emaskan Investor Asing]]
 - [[perpustakaan-soeharto/00747-1969-07-05-presiden-soeharto-peringatkan-soal-uang-hangus-pegawai-perbankan|Presiden Soeharto Peringatkan Soal “Uang Hangus” Pegawai Perbankan]]
+- [[perpustakaan-soeharto/00748-1967-07-08-presiden-soeharto-penurunan-bunga-bank|Presiden Soeharto Menyetujui Penurunan Bunga Bank]]
 - [[perpustakaan-soeharto/00749-1969-07-10-presiden-soeharto-menerima-menlu-tunisia-dan-wartawan-jerman|Presiden Soeharto Menerima Menlu Tunisia dan Wartawan Jerman]]
 - [[perpustakaan-soeharto/00750-1969-07-12-presiden-soeharto-pemerintah-menempuh-jalan-baru-perkoperasian|Presiden Soeharto: Pemerintah Menempuh “Jalan Baru” Perkoperasian]]
 - [[perpustakaan-soeharto/00751-1969-07-14-presiden-soeharto-indonesia-membuka-pintu-kerjasama-barat-dan-timur|Presiden Soeharto: Indonesia Membuka Pintu Kerjasama Barat dan Timur]]

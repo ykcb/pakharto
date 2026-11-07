@@ -3,7 +3,7 @@ title: Serangan Umum 1 Maret 1949
 description: Di bulan November 1948, sementara rundingan Indonesia-Belanda terus berjalan,
   dan melelahkan rasanya buat saya, berita sedih datang dengan tiba-tiba. Jenderal
   Urip Sumohardjo meninggal dengan mendadak. Seorang pemimpin yang telah...
-date: '2018-01-10'
+date: '1949-03-01'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -26,13 +26,13 @@ tags:
 - wehrkreise
 - yogyakarta
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/serangan-umum-1-maret-1949/
   judul: Serangan Umum 1 Maret 1949
-  tanggal: '2018-01-10'
+  tanggal: '1949-03-01'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
