@@ -23,8 +23,8 @@ tags:
 - pm-australia
 - presiden-soeharto
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-06-14-presiden-soeharto-pm-australiaasia-pasifik-prasyarat-perdamaian-dunia/

@@ -26,8 +26,8 @@ tags:
 - sudharmono
 - widjojo-nitisastro
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-04-03-presiden-soeharto-libatkan-universitas-dorong-industri-penerbitan/

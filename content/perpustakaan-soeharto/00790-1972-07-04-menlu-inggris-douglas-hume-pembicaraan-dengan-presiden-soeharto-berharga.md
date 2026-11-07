@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - sir-alex-douglas-hume
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-04-menlu-inggris-douglas-hume-pembicaraan-dengan-presiden-soeharto-berharga/

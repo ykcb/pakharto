@@ -18,8 +18,8 @@ tags:
 - re-ekspor
 - station-wagon
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-07-02-presiden-soeharto-putuskan-re-ekspor-station-wagon/

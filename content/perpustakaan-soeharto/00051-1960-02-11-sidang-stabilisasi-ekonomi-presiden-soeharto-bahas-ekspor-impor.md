@@ -23,8 +23,8 @@ tags:
 - stabilisasi
 - sub
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1960-02-11-sidang-stabilisasi-ekonomi-presiden-soeharto-bahas-ekspor-impor/

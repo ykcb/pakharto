@@ -25,8 +25,8 @@ tags:
 - presiden-soeharto
 - ragunan
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-18-22-presiden-soeharto-hadiri-panen-madu-dan-pembukaan-kursus-peternakan-lebah/

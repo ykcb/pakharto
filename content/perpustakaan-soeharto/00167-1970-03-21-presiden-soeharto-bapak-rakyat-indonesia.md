@@ -27,8 +27,8 @@ tags:
 - perpustakaan-soeharto
 - rakyat
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-21-presiden-soeharto-bapak-rakyat-indonesia/

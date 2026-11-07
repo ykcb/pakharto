@@ -26,8 +26,8 @@ tags:
 - syah-kuala
 - ternak
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-08-31-presiden-soeharto-tinjau-pelabuhan-olele-proyek-peternakan-sibreh-dan-temui-mahasiswa/

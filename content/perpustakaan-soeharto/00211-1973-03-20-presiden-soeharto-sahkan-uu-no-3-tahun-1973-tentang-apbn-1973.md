@@ -16,8 +16,8 @@ tags:
 - presiden-soeharto
 - uu
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-03-20-presiden-soeharto-sahkan-uu-no-3-tahun-1973-tentang-apbn-1973/

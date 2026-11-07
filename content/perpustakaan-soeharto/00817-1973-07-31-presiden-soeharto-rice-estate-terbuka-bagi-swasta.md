@@ -19,8 +19,8 @@ tags:
 - swasta
 - swasta-asing
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-07-31-presiden-soeharto-rice-estate-terbuka-bagi-swasta/

@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - semen-gresik
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-27-presiden-soeharto-pesan-pacul-untuk-rakyat-irian-barat/

@@ -22,8 +22,8 @@ tags:
 - stabilisasi-ekonomi
 - usaha-nasional
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-05-presiden-soeharto-pma-tidak-boleh-ganggu-usaha-nasional/

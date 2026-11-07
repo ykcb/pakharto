@@ -22,8 +22,8 @@ tags:
 - perpustakaan-soeharto
 - selandia-baru
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina/

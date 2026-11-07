@@ -19,8 +19,8 @@ tags:
 - tata-niaga-garam
 - timur-tengah
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-09-20-presiden-soeharto-instruksikan-pembentukan-tata-niaga-garam/

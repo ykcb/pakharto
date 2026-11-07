@@ -26,8 +26,8 @@ tags:
 - takeo-miki
 - widjoyo-nitisastro
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-07-07-presiden-soeharto-pm-takeo-miki-tandatangani-proyek-asahan/

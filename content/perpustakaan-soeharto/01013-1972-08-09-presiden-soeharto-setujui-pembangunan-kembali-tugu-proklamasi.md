@@ -20,8 +20,8 @@ tags:
 - tugu-proklamasi
 - wakil-gubernur-dki
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-08-09-presiden-soeharto-setujui-pembangunan-kembali-tugu-proklamasi/

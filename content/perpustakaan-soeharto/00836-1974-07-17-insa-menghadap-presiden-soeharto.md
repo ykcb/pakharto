@@ -20,8 +20,8 @@ tags:
 - presiden-soeharto
 - pt-pann
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-07-17-insa-menghadap-presiden-soeharto/

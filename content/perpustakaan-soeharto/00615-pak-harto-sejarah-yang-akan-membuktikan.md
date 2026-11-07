@@ -19,8 +19,8 @@ tags:
 - presiden-soeharto
 - siti-hediati-hariyadi
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-sejarah-yang-akan-membuktikan/

@@ -32,8 +32,8 @@ tags:
 - republik-sosialis-rumania
 - widjojo-nitisastro
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1978-09-12-presiden-soeharto-menerima-menteri-kerjasama-pembangunan-belanda-dan-lantik-enam-duta-besar/

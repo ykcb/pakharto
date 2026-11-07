@@ -26,8 +26,8 @@ tags:
 - presiden-soeharto
 - timor-portugis
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-08-26-presiden-soeharto-bahas-perkembangan-timor-portugis/

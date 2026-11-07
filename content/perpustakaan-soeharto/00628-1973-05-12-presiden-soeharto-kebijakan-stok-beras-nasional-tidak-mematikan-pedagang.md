@@ -23,8 +23,8 @@ tags:
 - presiden-soeharto
 - tengkulak
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-12-presiden-soeharto-kebijakan-stok-beras-nasional-tidak-mematikan-pedagang/

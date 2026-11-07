@@ -23,8 +23,8 @@ tags:
 - tekstil
 - yogyakarta
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-08-06-menuju-surabaya-resmikan-pabrik-tekstil-mertex-sidoarjo/

@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - ternak
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-22-presiden-soeharto-kunjungi-museum-pusat-dan-peternakan-ayam/

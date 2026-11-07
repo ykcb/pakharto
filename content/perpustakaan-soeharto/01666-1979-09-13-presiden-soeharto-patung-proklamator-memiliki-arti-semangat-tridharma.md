@@ -26,8 +26,8 @@ tags:
 - tridharma
 - yogyakarta
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1979-09-13-presiden-soeharto-patung-proklamator-memiliki-arti-semangat-tridharma/

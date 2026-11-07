@@ -23,8 +23,8 @@ tags:
 - perwira
 - presiden-soeharto
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-08-03-presiden-soeharto-deadline-daftar-kekayaan-pribadi-pejabat/

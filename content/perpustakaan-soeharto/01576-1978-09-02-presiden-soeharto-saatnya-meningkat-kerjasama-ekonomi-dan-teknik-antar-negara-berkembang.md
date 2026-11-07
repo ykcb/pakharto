@@ -26,8 +26,8 @@ tags:
 - presiden-soeharto
 - republik-chili
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1978-09-02-presiden-soeharto-saatnya-meningkat-kerjasama-ekonomi-dan-teknik-antar-negara-berkembang/

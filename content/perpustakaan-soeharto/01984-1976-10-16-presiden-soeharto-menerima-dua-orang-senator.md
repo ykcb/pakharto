@@ -20,8 +20,8 @@ tags:
 - senator-john-glenn
 - senator-michael-j-mansfield
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-10-16-presiden-soeharto-menerima-dua-orang-senator/

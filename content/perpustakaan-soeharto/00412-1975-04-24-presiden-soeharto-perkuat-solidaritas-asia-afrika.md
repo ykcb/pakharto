@@ -19,8 +19,8 @@ tags:
 - presiden-soeharto
 - tmii
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-24-presiden-soeharto-perkuat-solidaritas-asia-afrika/

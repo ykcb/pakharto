@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - wakil-pm-korut
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-08-08-presiden-soeharto-menerima-menlu-korut-dan-delegasi-pertanian-malagasi/

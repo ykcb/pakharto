@@ -21,8 +21,8 @@ tags:
 - pusat-listrik-tenaga-uap
 - spiritual
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-04-16-presiden-soeharto-resmikan-pusat-listrik-tenaga-uap/

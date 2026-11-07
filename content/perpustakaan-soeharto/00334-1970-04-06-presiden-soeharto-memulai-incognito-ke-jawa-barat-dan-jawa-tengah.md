@@ -22,8 +22,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-04-06-presiden-soeharto-memulai-incognito-ke-jawa-barat-dan-jawa-tengah/

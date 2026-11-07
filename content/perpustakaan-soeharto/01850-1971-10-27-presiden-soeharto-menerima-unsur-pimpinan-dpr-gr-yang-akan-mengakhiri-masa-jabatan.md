@@ -24,8 +24,8 @@ tags:
 - presiden-soeharto
 - sulistio
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan/

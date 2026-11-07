@@ -19,8 +19,8 @@ tags:
 - presiden-soeharto
 - unesco
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-06-14-presiden-soeharto-menerima-medali-emas-unesco/

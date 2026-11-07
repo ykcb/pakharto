@@ -16,8 +16,8 @@ tags:
 - perpustakaan-soeharto
 - politik-luar-negeri
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/membangun-solidaritas-negara-negara-berkembang/

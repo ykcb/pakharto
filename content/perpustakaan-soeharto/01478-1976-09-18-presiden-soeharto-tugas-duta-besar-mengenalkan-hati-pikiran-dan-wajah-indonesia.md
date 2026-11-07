@@ -33,8 +33,8 @@ tags:
 - uni-soviet
 - vatikan
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-09-18-presiden-soeharto-tugas-duta-besar-mengenalkan-hati-pikiran-dan-wajah-indonesia/

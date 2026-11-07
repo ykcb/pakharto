@@ -23,8 +23,8 @@ tags:
 - sisingamangaraja
 - sumatera-utara
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-10-01-presiden-soeharto-resmikan-tugu-di-panjaitan/

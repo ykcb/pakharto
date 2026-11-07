@@ -23,8 +23,8 @@ tags:
 - presiden-soeharto
 - transmigrasi
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-21-presiden-soeharto-instruksikan-transmigrasi-dikaitkan-proyek-pangan/

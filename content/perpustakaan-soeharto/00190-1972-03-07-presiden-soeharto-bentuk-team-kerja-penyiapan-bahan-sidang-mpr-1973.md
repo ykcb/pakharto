@@ -25,8 +25,8 @@ tags:
 - presiden
 - soeharto
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-07-presiden-soeharto-bentuk-team-kerja-penyiapan-bahan-sidang-mpr-1973/

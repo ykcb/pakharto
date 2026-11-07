@@ -23,8 +23,8 @@ tags:
 - soeharto
 - usaha
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah/

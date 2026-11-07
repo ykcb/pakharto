@@ -23,8 +23,8 @@ tags:
 - presiden-soeharto
 - sumatera-selatan
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-07-18-presiden-soeharto-kebebasan-mengenal-batas-moral-dan-tanggung-jawab/

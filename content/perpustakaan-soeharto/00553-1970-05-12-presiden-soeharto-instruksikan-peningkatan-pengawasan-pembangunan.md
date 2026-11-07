@@ -20,8 +20,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-12-presiden-soeharto-instruksikan-peningkatan-pengawasan-pembangunan/

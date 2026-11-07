@@ -19,8 +19,8 @@ tags:
 - raja-husein
 - yordania
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-09-12-presiden-soeharto-kirim-kawat-soal-pembakaran-masjidil-aqsa/

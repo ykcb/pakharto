@@ -24,8 +24,8 @@ tags:
 - presiden-soeharto
 - supersemar
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina/

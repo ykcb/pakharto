@@ -35,8 +35,8 @@ tags:
 - tinggal-landas-2
 - utara
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-18-lantik-empat-duta-besar-presiden-soeharto-kerjasama-ln-harus-diletakkan-pada-kekuatan-dalam-negeri/

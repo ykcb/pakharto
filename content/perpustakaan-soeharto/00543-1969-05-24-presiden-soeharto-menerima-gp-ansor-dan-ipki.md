@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - stabilitas-nasional
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-05-24-presiden-soeharto-menerima-gp-ansor-dan-ipki/

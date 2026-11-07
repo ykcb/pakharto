@@ -24,8 +24,8 @@ tags:
 - presiden-soeharto
 - swasembada-pangan
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-4/

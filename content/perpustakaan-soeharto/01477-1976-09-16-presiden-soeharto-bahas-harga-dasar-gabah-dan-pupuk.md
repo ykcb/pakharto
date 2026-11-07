@@ -28,8 +28,8 @@ tags:
 - presiden-soeharto
 - pupuk
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-09-16-presiden-soeharto-bahas-harga-dasar-gabah-dan-pupuk/

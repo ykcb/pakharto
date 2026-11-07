@@ -25,8 +25,8 @@ tags:
 - sukamdani-gitosardjono
 - walikota
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-04-presiden-soeharto-penuhi-keluhan-pedagang-pasar-klewer/

@@ -22,8 +22,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-09-03-presiden-soeharto-buka-sidang-umum-ke-7-kongres-asuransi-asia-timur/

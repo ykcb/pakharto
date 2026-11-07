@@ -20,8 +20,8 @@ tags:
 - presiden-soeharto
 - sidang
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-09-9-pimpin-sidang-dewan-stabilisasi-polkam-presiden-soeharto-jelaskan-soal-zakat/

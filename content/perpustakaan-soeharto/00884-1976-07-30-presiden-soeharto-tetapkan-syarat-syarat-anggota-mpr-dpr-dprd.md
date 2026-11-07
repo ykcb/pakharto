@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - syarat
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-30-presiden-soeharto-tetapkan-syarat-syarat-anggota-mpr-dpr-dprd/

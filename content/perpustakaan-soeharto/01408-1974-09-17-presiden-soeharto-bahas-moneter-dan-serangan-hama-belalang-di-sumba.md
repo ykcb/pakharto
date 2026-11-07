@@ -24,8 +24,8 @@ tags:
 - prof-thojib-hadiwidjaja
 - pulau-sumba
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-09-17-presiden-soeharto-bahas-moneter-dan-serangan-hama-belalang-di-sumba/

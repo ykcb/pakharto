@@ -25,8 +25,8 @@ tags:
 - presiden-soeharto
 - soetran
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-10-gubernur-irian-jaya-sutran-menghadap-presiden-soeharto/

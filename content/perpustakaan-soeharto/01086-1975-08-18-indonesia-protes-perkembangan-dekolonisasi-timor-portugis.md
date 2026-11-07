@@ -33,8 +33,8 @@ tags:
 - wakil-kepala-bakin
 - yoga-sugama
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-08-18-indonesia-protes-perkembangan-dekolonisasi-timor-portugis/

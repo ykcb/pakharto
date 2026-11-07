@@ -22,8 +22,8 @@ tags:
 - presiden
 - soeharto
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-01-presiden-soeharto-terima-dpp-angkatan-1945/

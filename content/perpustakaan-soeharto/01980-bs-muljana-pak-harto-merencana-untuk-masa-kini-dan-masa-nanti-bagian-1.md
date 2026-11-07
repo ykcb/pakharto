@@ -21,8 +21,8 @@ tags:
 - sumitro-djojohadikusumo
 - tapos
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/bs-muljana-pak-harto-merencana-untuk-masa-kini-dan-masa-nanti-bagian-1/

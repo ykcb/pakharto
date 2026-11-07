@@ -26,8 +26,8 @@ tags:
 - pulau-nias
 - sibolga
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-08-presiden-soeharto-menerima-bekas-raja-belgia-leopold/

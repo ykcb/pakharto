@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - stabilisasi-politik
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-04-09-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional/

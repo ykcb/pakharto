@@ -27,8 +27,8 @@ tags:
 - presiden-soeharto
 - ramayana-city-hotel
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-07-15-presiden-soeharto-meninjau-pembangunan-hotel-hotel-bertaraf-internasional/

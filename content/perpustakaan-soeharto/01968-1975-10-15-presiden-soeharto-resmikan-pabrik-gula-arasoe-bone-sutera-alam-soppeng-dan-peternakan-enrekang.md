@@ -29,8 +29,8 @@ tags:
 - soppeng
 - sutera-alam
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-10-15-presiden-soeharto-resmikan-pabrik-gula-arasoe-bone-sutera-alam-soppeng-dan-peternakan-enrekang/

@@ -22,8 +22,8 @@ tags:
 - pt-daya-sakti-di-seliri
 - way-luni
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-08-09-menuju-lampung-presiden-soeharto-resmikan-pabrik-sepeda/

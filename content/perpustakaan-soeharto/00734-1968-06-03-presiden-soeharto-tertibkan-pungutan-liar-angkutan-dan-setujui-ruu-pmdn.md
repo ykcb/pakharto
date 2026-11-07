@@ -24,8 +24,8 @@ tags:
 - pungutan-liar
 - ruu-pmdn
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-06-03-presiden-soeharto-tertibkan-pungutan-liar-angkutan-dan-setujui-ruu-pmdn/

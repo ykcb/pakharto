@@ -21,8 +21,8 @@ tags:
 - sandang
 - sutera
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-06-20-presiden-soeharto-kita-harus-mencukupi-sandang-dengan-produksi-dalam-negeri/

@@ -27,8 +27,8 @@ tags:
 - presiden-soeharto
 - pt-kanebo-tomen-sandang
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-10-26-resmikan-pabrik-tekstil-di-bandung-presiden-soeharto-ajak-gunakan-produksi-dalam-negeri/

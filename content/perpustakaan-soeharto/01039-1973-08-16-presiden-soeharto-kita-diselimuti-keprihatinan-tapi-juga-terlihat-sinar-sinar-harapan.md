@@ -23,8 +23,8 @@ tags:
 - repelita-i
 - sidang-pleno-terbuka
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-08-16-presiden-soeharto-kita-diselimuti-keprihatinan-tapi-juga-terlihat-sinar-sinar-harapan/

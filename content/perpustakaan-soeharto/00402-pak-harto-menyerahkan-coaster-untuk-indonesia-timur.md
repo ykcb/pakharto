@@ -21,8 +21,8 @@ tags:
 - perpustakaan-soeharto
 - rel-kereta-api
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-menyerahkan-coaster-untuk-indonesia-timur/

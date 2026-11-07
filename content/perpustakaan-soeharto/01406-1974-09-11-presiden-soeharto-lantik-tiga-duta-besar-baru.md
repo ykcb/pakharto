@@ -23,8 +23,8 @@ tags:
 - republik-arab-suriah
 - zainul-arifin-usman
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru/

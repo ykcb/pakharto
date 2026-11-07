@@ -33,8 +33,8 @@ tags:
 - tani
 - tinggal-landas-2
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-21-rapat-bulog-presiden-soeharto-tekankan-rumus-tani-1-kg-beras-1-kg-pupuk/

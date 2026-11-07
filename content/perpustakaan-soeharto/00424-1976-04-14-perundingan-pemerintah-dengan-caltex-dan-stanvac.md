@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - stanva
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-04-14-perundingan-pemerintah-dengan-caltex-dan-stanvac/

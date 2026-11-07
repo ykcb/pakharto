@@ -17,8 +17,8 @@ tags:
 - perpustakaan-soeharto
 - toleransi
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pembangunan-mental-spiritual/

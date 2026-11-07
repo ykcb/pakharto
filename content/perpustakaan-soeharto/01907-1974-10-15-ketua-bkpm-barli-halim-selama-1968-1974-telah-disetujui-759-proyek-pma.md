@@ -23,8 +23,8 @@ tags:
 - pma
 - presiden-soeharto
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-10-15-ketua-bkpm-barli-halim-selama-1968-1974-telah-disetujui-759-proyek-pma/

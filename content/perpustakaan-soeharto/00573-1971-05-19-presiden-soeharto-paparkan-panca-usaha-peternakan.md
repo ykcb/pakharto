@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - unggas
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-19-presiden-soeharto-paparkan-panca-usaha-peternakan/

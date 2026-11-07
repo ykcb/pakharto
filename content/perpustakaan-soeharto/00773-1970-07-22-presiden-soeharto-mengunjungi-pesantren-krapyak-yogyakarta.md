@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - yogyakarta
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-22-presiden-soeharto-mengunjungi-pesantren-krapyak-yogyakarta/

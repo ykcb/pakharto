@@ -22,8 +22,8 @@ tags:
 - subroto
 - tekstil
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-08-12-pemerintah-batasi-pekerja-asing-bidang-minyak-dan-tekstil/

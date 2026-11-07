@@ -23,8 +23,8 @@ tags:
 - presiden-soeharto
 - repelita
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-05-01-presiden-soeharto-inspeksi-departemen-perindustrian/

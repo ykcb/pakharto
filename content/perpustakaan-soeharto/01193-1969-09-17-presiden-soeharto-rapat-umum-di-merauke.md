@@ -20,8 +20,8 @@ tags:
 - presiden-soeharto
 - wamena
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-09-17-presiden-soeharto-rapat-umum-di-merauke/

@@ -22,8 +22,8 @@ tags:
 - sarbini
 - sutjipto-judodihardjo
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-07-24-presiden-soeharto-membeli-obligasi-yayasan-al-falaah/

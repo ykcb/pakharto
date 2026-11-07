@@ -20,8 +20,8 @@ tags:
 - portugis
 - presiden-soeharto
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis/

@@ -24,8 +24,8 @@ tags:
 - presiden-soeharto
 - widjoyo-nitisastro
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-07-17-presiden-soeharto-instruksikan-pembangunan-irian-barat/

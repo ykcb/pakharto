@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - rrc
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/ali-alatas-kemantapan-dalam-keseimbangan-bagian-2/

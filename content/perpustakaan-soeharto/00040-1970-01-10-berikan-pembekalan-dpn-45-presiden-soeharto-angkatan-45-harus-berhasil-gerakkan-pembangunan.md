@@ -31,8 +31,8 @@ tags:
 - repelita
 - tinggal-landas-2
 risiko_editorial: sedang
-status: unreviewed
-verification_status: unreviewed
+status: source_checked
+verification_status: source_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-10-berikan-pembekalan-dpn-45-presiden-soeharto-angkatan-45-harus-berhasil-gerakkan-pembangunan/
