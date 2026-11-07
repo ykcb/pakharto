@@ -366,13 +366,102 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   (di VM, bukan repo); skrip terapan `apply_batch1973.py` + skrip gabung
   `merge_batch1973.py` di folder yang sama.
 
+### Batch 1974 (SELESAI, 7 Nov 2026, commit `fa3a9045`, live)
+
+- **Pembaca: 5 subagen baca paralel** (17/17/17/16/15 artikel tiap
+  chunk), baca penuh dgn protokol pilot; rizky menggabungkan putusan
+  + memverifikasi langsung 2 fix ke file aslinya.
+- **Hasil: 82 artikel; 82 `cross_checked`, 0 `needs_review`,
+  0 `disputed`.** Kumulatif Fase 1: **688 `cross_checked`,
+  17 `needs_review`.**
+- **2 perbaikan date/title:** 00840 (1974-11-20 → 1974-07-20 +
+  title; isi "SABTU, 20 Juli 1974", 20 Jul 1974 memang Sabtu;
+  footnote hal. 138, halaman yg sama dgn 00836 tgl 17 Jul dan satu
+  halaman sebelum 00841 tgl 22 Jul; PP 29/1974 ttg Perum Perumnas
+  ditetapkan 18 Jul 1974) dan 01431 (tanggal publikasi 2017-08-23
+  → 1974-09-09 + title; normalisasi "1974-09-9"; isi "SELASA,
+  9 SEPTEMBER 1974" padahal 9 Sep 1974 = Senin — kata hari salah,
+  dibuktikan 01404 yg menulis "SENIN, 9 SEPTEMBER 1974" +
+  `date -d`; footnote 01431 hal. 284 adalah anomali kutipan,
+  jauh dari urutan tetangga hal. 158–160).
+- **17 relasi `menyebut` baru** (total 129): 14 ekonomi-orde-baru,
+  1 kopkamtib, 2 malari-1974. Ekonomi: 00214 (4 keputusan sidang
+  Dewan Stabilisasi Ekonomi: Tanjung Priok, impor Pelita II,
+  Pusri II+III → 1 juta ton urea), 00221 (UU No. 2/1974 APBN
+  1974/1975), 00234 (pembebasan bea masuk bibit hewan unggul +
+  KIK/KMKP Rp5,8 milyar), 00384 (lima langkah menekan inflasi:
+  stok nasional, pengawasan harga, kelancaran pelabuhan, kredit
+  12%→15% di atas Rp100 juta, cadangan wajib 30% atas pinjaman
+  LN), 00387 (pembentukan Irjenbang, Keppres 25/1974), 00819
+  (instruksi ke BKPM realisasikan industri kimia pencelupan
+  Jakarta + semen Cilacap), 00821 (keputusan re-ekspor
+  sedan/station wagon), 00832 (pembebasan pajak docking/reparasi
+  galangan dalam negeri), 00840 (pembentukan tiga badan pengelola
+  perumahan rakyat), 01059 (laporan moneter 1973/1974: inflasi
+  47% → 5,6% Apr–Jul 1974, kebijaksanaan 9 April 1974), 01061
+  (arah kebijakan industri pupuk: lanjutkan Pusri III, total
+  1 juta ton), 01063 (peraturan pembatasan pekerja asing di
+  minyak + tekstil, kerangka Keppres), 01424 (sidang Kesra:
+  kredit tanpa bunga PNS gol. I Rp3,3 milyar, 6.000 SD Inpres,
+  Inpres No. 5/1974 — 10.500 sarana kesehatan + 3.935 tenaga
+  kesehatan Rp5.128.342.220), 01907 (laporan BKPM: 759 proyek
+  PMA 1968–1974 senilai US$3.796 milyar). Kopkamtib: 00220
+  (refungsionalisasi Kopkamtib: fungsi diserahkan ke
+  departemen/lembaga). Malari-1974: 00389 (sikap pemerintah:
+  peristiwa 15-16 Jan belum selesai + uraian Bakin soal latar
+  belakang) dan 00822 (rencana pengadilan subversi pelaku Malari
+  dalam 2-3 bulan). Bakin DITOLAK di keduanya (Yoga Sugama hanya
+  pelapor/pemegang jabatan). 01063 DITERIMA sedangkan 01423
+  (peraturan tenaga asing "akan dikeluarkan" tanpa isi) DITOLAK:
+  01063 menguraikan isi kebijakannya (sektor, bentuk Keppres,
+  kriteria jabatan), 01423 hanya mengumumkan penerbitan.
+  01914 glosarium DITOLAK: "Dwifungsi ABRI" hanya analogi satu
+  kalimat untuk RSGS, bukan pembahasan substansial.
+- **Indeks tidak berubah:** seksi 1974 = **82**; semua seksi cocok
+  header vs aktual, 0 tautan salah seksi.
+- **Spot-check terkonfirmasi:** kunjungan Ratu Elizabeth II
+  18–22 Mar 1974 (pertama monarki Inggris di Indonesia); Kenneth
+  Rush Deputi Menlu AS 1973–1974; Pusri II diresmikan 8 Agu 1974
+  (380.000 ton urea + 218.400 ton amonia/tahun); Keppres 25/1974
+  Irjenbang 22 Apr 1974; Malari 15-16 Jan 1974 (775 ditangkap;
+  Hariman Siregar divonis 6,5 tahun 21 Des 1974; sidang dimulai
+  1 Agu 1974, dalam jendela 2-3 bulan yg disebut 3 Jul); SK
+  Mendag 25/KP/I/1974 soal impor sedan (22 Jan 1974); Perum
+  Perumnas didirikan 18 Jul 1974 (PP 29/1974); inflasi 1973/1974
+  47,40% + program stabilisasi 9 April 1974 (Sejarah BI;
+  Wikileaks); kunjungan Birma 26–29 Agu + Singapura 29–31 Agu
+  1974 (pertama Soeharto ke Singapura); pertemuan Whitlam–
+  Soeharto 6 Sep 1974 di Wonosobo (soal Timor Portugis, dokumen
+  NAA); kunjungan Shah Iran 1–2 Okt 1974 (pertama kepala negara
+  Iran di Indonesia); kunjungan Raja Boudewijn + Ratu Fabiola
+  21 Okt–2 Nov 1974 (13 hari); Idul Fitri 1 Syawal 1394H =
+  17 Okt 1974; Hari ABRI ke-29 + HUT Golkar ke-10 (ordinal
+  benar).
+- **Selisih sumber dicatat, bukan fix:** 00222 — Wikipedia
+  mencatat masa jabatan Pangkopkamtib Soemitro berakhir 2 Mar
+  1974, sedangkan artikel mencatat Keppres pengabulan 15 Mar
+  (tanggal Keppres formal per buku sumber). 01907 — angka 759
+  proyek / US$3.796 milyar tidak terkonfirmasi dari sumber luar.
+  01916 — Halilov disebut "Ketua Presidium Soviet Tertinggi"
+  padahal jabatan itu di Azerbaijan (ketua Presidium Uni Soviet
+  adalah Podgorny). 00819 (tanpa tanggal di nama file) FM date
+  1974-07-01 BENAR (isi "SENIN, 1 JULI 1974"; aritmetika PNS
+  57.485 cocok). 01402 tanpa slug di nama file (entity_id hanya
+  "1974-09-05") — dicatat, nama file tidak diganti.
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1974_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1974.py` + skrip gabung
+  `merge_batch1974.py` di folder yang sama. Pelajaran merge: skrip
+  gabung mencari pola `"file": {` dgn spasi setelah titik dua — hasil
+  chunk 4 ditulis tanpa spasi (`":{`), jadi dinormalisasi dulu
+  (`re.sub(r'("[^"]*\.md"):\{', ...)`) sebelum merge.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1974 (82),
-  1975 (88), 1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
+- Urutan batch: 1975 (88),
+  1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca: 1 tanggal invalid tersisa
-  (1975-19-17; yang 1973-18-22 sudah terpecahkan di batch 1973) dan
+  (1975-19-17) dan
   **184 judul frontmatter terpotong**
   (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
 - Temuan pilot untuk batch berikutnya: **170 kliping ber-date tahun
