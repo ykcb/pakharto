@@ -747,9 +747,75 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   (di VM, bukan repo); skrip terapan `apply_batch1977.py` + skrip gabung
   `merge_batch1977.py` di folder yang sama.
 
+### Batch 1978 (SELESAI, 7 Nov 2026, commit `de033e26`, live)
+
+- **Pembaca: 1 subagen** (17 artikel), baca penuh dgn protokol
+  pilot/batch 1977; rizky menggabungkan putusan + memverifikasi
+  sendiri needs_review 01675 ke file aslinya + pencarian web.
+- **Hasil: 17 artikel; 16 `cross_checked`, 1 `needs_review`,
+  0 `disputed`, 0 fix, 0 relasi `menyebut` baru.** Kumulatif Fase 1:
+  **901 `cross_checked`, 18 `needs_review`.** FTS tidak berubah
+  (total 1.382 relasi, 154 menyebut).
+- **1 `needs_review`: 01675** (resmikan Pabrik Gula Gunung Madu) —
+  isi "SENIN, 24 SEPTEMBER 1978" padahal 24 Sep 1978 = Minggu;
+  footnote mengutip buku "Jejak Langkah Pak Harto 29 Maret 1978 –
+  11 Maret 1983" hal. 206–207, lompatan besar dari tetangga Sep 1978
+  (hal. 61–67 dlm buku yg sama); Wikipedia id menulis pabrik
+  diresmikan Soeharto "pada tahun 1979" (musim giling pertama Mei
+  1978, kapasitas 4.000 TCD — pabrik sudah beroperasi sebelum Sep
+  1978, peresmian 1979 masuk akal); Senin terdekat tersingkir: 18 Sep
+  ditempati 01591 (Jakarta), 25 Sep ditempati 01596 (pelantikan
+  Kapolri pagi di Istana Negara — peresmian di Lampung pagi yg sama
+  tidak mungkin). Tanggal benar tidak dapat ditentukan dari isi
+  artikel sendiri → **tidak ada fix**; file tetap di seksi 1978
+  sampai tanggal benarnya ditentukan.
+- **Relasi `menyebut`: tidak ada yg diterima.** Ekonomi DITOLAK di
+  01597 (pidato Pelita III hanya arahan umum perencanaan — angka
+  31%→27% adalah proyeksi, bukan keputusan; larangan kunjungi
+  steambath/kasino = pendisiplinan internal ABRI; kesepakatan landas
+  kontinen hanya disebut sbg hasil pembicaraan), 01622 (instruksi
+  umum kembangkan geothermal tanpa mekanisme/angka/proyek
+  bernama/tenggat), 01588 (pembukaan pameran ternak + 5 arahan umum),
+  01586 (pembahasan ekonomi tidak diuraikan), 01592 (peresmian LNG
+  Arun, angka hanya konteks proyek). Glosarium DITOLAK di 01597
+  ("Dwifungsi ABRI" tidak muncul eksplisit).
+- **Indeks diperbarui:** seksi 1978 = **17** (tanpa perpindahan
+  tahun, tanpa fix).
+- **Temuan lain:** 01586 selisih hitung isi — "melantik enam orang
+  Duta Besar" tapi hanya 5 nama disebut (dicatat, bukan fix). Ordinal
+  benar: Hari Pramuka ke-17 (14 Agu 1961 → 1978). 1 Syawal 1398H =
+  4 Sep 1978 konsisten dgn 1 Syawal 1397H = 15 Sep 1977. Rangkaian
+  kunjungan Pham Van Dong konsisten lintas 3 artikel (tiba 20 Sep
+  16.00 → pembicaraan 21–22 Sep → pulang 23 Sep 11.00). Selisih
+  sumber dicatat, bukan fix: 01596 pelantikan Kapolri Awaluddin
+  Djamin — kliping menulis SENIN 25 Sep 1978 (konsisten internal
+  penuh), sedangkan Wikipedia id/kadin.co.id/tokoh.id/en.wikipedia
+  sepakat 26 Sep 1978 (tepat di hari ulang tahunnya ke-51; Widodo
+  left office 24 Sep 1978); 01598 pelantikan Habibie Ketua BPPT —
+  kliping menulis KAMIS 28 Sep 1978, sedangkan buku BRIN (2018) +
+  technologyindonesia.id menulis Habibie dilantik sbg Menristek
+  sekaligus Ketua BPPT 23 Agu 1978. Catatan: PLTP Kamojang unit 1
+  baru beroperasi 1982 — "akan segera berfungsi" di 01622 (1978)
+  adalah pernyataan saat itu, bukan inkonsistensi internal.
+- **Pelajaran proses (AGENTS.md):** brief subagen batch ini sempat
+  memakai 15 nama file yg DITEBAK dari tampilan prep yg terpotong
+  (52 karakter) — subagen menemukan file aslinya sendiri di server
+  dan kunci putusannya cocok persis dgn `/tmp/batch1978.json`.
+  Ke depan: SELALU scp batch JSON dulu dan cetak nama file LENGKAP
+  sebelum menulis brief.
+- **Spot-check terkonfirmasi:** Kilang LNG Arun diresmikan 19 Sep
+  1978 (Wikipedia id Arun NGL; ekspor kondensat pertama ke Jepang
+  14 Okt 1977); Konferensi TCDC Buenos Aires 30 Agu–12 Sep 1978;
+  kunjungan Pham Van Dong — konteks tur regional terkonfirmasi
+  sebagian (tiba Bangkok 6 Sep 1978, kunjungan 5 hari ke Thailand,
+  kabel Deplu AS 1978BANGKO25726).
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1978_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1978.py` + skrip gabung
+  `merge_batch1978.py` di folder yang sama.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1978 (17), 1979 (15), 1949–1967 (7),
+- Urutan batch: 1979 (15), 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca:
   **184 judul frontmatter terpotong**
