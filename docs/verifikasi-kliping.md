@@ -111,11 +111,74 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
 - Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1969_decisions.py`
   (di VM, bukan repo); skrip terapan `apply_batch1969.py` di folder yang sama.
 
+### Batch 1970 (SELESAI, 7 Nov 2026, commit `5de03265`, live)
+
+- **Pembaca: 5 subagen baca paralel** (27 artikel tiap chunk), baca penuh
+  dgn protokol pilot/batch 1969; rizky menggabungkan putusan,
+  memverifikasi langsung 3 fix + jangkar 00761/00767 ke file aslinya.
+- **Hasil: 135 artikel; 130 `cross_checked`, 5 `needs_review`,
+  0 `disputed`.** Kumulatif Fase 1: **332 `cross_checked`,
+  16 `needs_review`.**
+- **5 `needs_review` baru:** 00036 (isi "JUM'AT, 1 JANUARI 1970"
+  padahal 1 Jan 1970 = Kamis), 00078 (isi "KAMIS, 4 PEBRUARI" padahal
+  4 Feb 1970 = Rabu), 00079 (isi "SABTU, 6 PEBRUARI" padahal 6 Feb
+  1970 = Jumat, DITAMBAH isi menyebut Presiden "bersembahyang Ied" di
+  Masjid Istiqlal padahal Idul Adha 1389H jatuh Senin 16 Feb 1970 —
+  kemungkinan artikel salah tanggal atau salah kutip peristiwa),
+  00553 (isi "SABTU, 12 MEI 1970" padahal 12 Mei 1970 = Selasa),
+  00971 (judul + isi "HUT Kemerdekaan RI ke-23" padahal 17 Agu 1970
+  adalah HUT ke-25 — terkonfirmasi arsip peringatan 25 tahun).
+- **3 perbaikan date/title:** 00806 pindah ke 1973 (isi: "Keppres No.
+  27/1973" + "tahun anggaran 1973/1974"; JDIH BPK: Keppres 27/1973
+  ditetapkan 7 Jul 1973, dan 7 Jul 1973 memang Sabtu — cocok dgn
+  "SABTU, 7 Juli" di isi); 00162 + 00763 perbaikan judul (spasi
+  ganda dari judul terlipat, cocok H1).
+- **20 relasi `menyebut` baru** (total 55): 13 ekonomi-orde-baru,
+  3 orde-baru-1966-1998, 2 glosarium (Stabilitas Nasional di 00043,
+  Dwifungsi ABRI di 01760), 1 kopkamtib (00074), 1 pemilu-orde-baru
+  (00560, SK 43/1970 peserta Pemilu).
+- **KKN ditolak di 12+ artikel:** halaman `konsep/kkn.md` dibaca
+  langsung (chunk 4) — KKN = istilah politik Reformasi 1998 (TAP MPR
+  XI/1998, UU 28/1999) ttg jaringan patronase/monopoli/kroni 1990-an,
+  anakronistis utk artikel 1970 soal Komisi Empat / TPK / open house
+  pelaporan korupsi (korupsi sbg delik biasa + pembenahan administratif).
+- **2 selisih hari diputuskan `cross_checked` dgn jangkar kronologi
+  antar-artikel** (bukan `needs_review`): 00761 (isi "RABU 4 Jul" —
+  tanggal 4 Jul didukung 00762: Presiden di Bandung pagi Minggu 5 Jul
+  setelah penutupan kongres PGRI "tadi malam" = Sabtu 4 Jul) dan
+  00767 (isi "SABTU 20 Jul" — tanggal 20 Jul didukung laporan
+  mahasiswa Sabtu 18 Jul di 00766 + 00768: Presiden tiba di Yogyakarta
+  "kemarin sore" = Senin 20 Jul). Pada keduanya yg salah kata hari di
+  buku sumber, bukan tanggalnya — tidak ada fix.
+- **Indeks diperbarui:** seksi 1970 = **134**, seksi 1973 = **80**,
+  Tanpa tanggal = **176**. Perbaikan sampingan: 01036 (1973-08-17,
+  keturunan Cina) selama ini salah tempat di "Tanpa tanggal" — pindah
+  ke 1973. 2 tautan di 1973 (00365, 00818) punya frontmatter date tahun
+  publikasi (2017/2013) — bagian dari masalah 170 tanggal publikasi,
+  tetap di 1973 berdasarkan tahun di nama file; header 1973 dikoreksi
+  78→80 agar cocok dgn jumlah tautan aktual (skrip apply menghitung
+  dari frontmatter date, bukan nama file).
+- **Spot-check terkonfirmasi:** Keppres 12/1970 (Komisi Empat, ketua
+  Wilopo, penasihat Hatta; dibubarkan Keppres 50/1970 16 Jul 1970),
+  Perpu 24/1960 → UU 3/1971, Idul Adha 1389H = Senin 16 Feb 1970,
+  kunjungan Malaysia/Thailand Mar 1970, kurs tunggal Apr 1970
+  (Rp378/US$, NBER), Keppres 24/1970 + UU 5/1970 (APBN 1970/1971),
+  kunjungan AS 24 Mei–4 Jun 1970 (American Presidency Project, Nixon
+  Library), Raja Faisal 10–11 Jun 1970, wafat Bung Karno 21 Jun 1970
+  pukul 07.00, Wanhankamnas Keppres 51/1970 (1 Agu 1970; peresmian +
+  pelantikan Sekjen 10 Okt 1970), KTT Non-Blok Lusaka 8–10 Sep 1970
+  (54 anggota), kerusuhan Wassenaar 31 Agu 1970 (33 pemuda Maluku,
+  polisi Moolenaar tewas).
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1970_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1970.py` + skrip gabung
+  `merge_batch1970.py` di folder yang sama (gabung menormalisasi koma
+  tiap entri — pelajaran dari merge 1969 yg gagal karena koma hilang).
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1970 (135), 1971 (106), 1972 (84), 1973 (78), 1974 (82),
+- Urutan batch: 1971 (106), 1972 (84), 1973 (80), 1974 (82),
   1975 (88), 1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
-  1995–1998 (4), tanpa tanggal (177, terakhir).
+  1995–1998 (4), tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca: 2 tanggal invalid
   (1973-18-22, 1975-19-17) dan **184 judul frontmatter terpotong**
   (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
