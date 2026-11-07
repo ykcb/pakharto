@@ -9,7 +9,6 @@ entity_id: "ekonomi-orde-baru"
 aliases:
   - "Pembangunan Ekonomi Orde Baru"
   - "Ekonomi Era Soeharto"
-  - "Repelita"
 tags: [ekonomi, pembangunan, repelita, bumn, utang-luar-negeri, orde-baru]
 kategori: ekonomi-dan-kepemilikan
 kategori_tambahan: [kekuasaan-dan-legitimasi]
@@ -29,6 +28,9 @@ relasi:
     sumber: https://soehartolibrary.id/
   - predikat: terkait_dengan
     objek: "Trilogi Pembangunan"
+    sumber: https://soehartolibrary.id/
+  - predikat: terkait_dengan
+    objek: "Repelita"
     sumber: https://soehartolibrary.id/
   - predikat: terkait_dengan
     objek: "Peristiwa Malari 1974"
