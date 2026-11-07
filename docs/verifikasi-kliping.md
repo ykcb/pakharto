@@ -1140,6 +1140,85 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   nama/entity_id berawalan "1972" padahal peristiwa 1968-07-01 (nama
   file tidak diganti — URL).
 
+### Penyelesaian 23 needs_review (SELESAI, 7 Nov 2026, commit `6bfcf042`, live)
+
+- **Pembaca: 3 subagen riset paralel** (chunk A pilot 1968, chunk B
+  1969–1971, chunk C tanpa-tanggal-pasti); rizky memverifikasi
+  sendiri semua jangkar tetangga di server + pencarian web independen
+  untuk 3 fix dan 00711.
+- **Hasil: 22 `cross_checked`, 1 tetap `needs_review` (00711),
+  3 fix tanggal, 0 relasi baru.** Kumulatif akhir: **1.111
+  `cross_checked`, 1 `needs_review` — 1.112/1.112 diputuskan.**
+- **3 fix:** 00089 → 1995-03-13 (Sarajevo; JP 7 Mar 1995 "spend
+  three hours... on March 13", JP 15 Mar 1995 mendarat Zagreb "on
+  Monday", Reuters/Jordan Times 14 Mar 1995; 13 Mar 1995 = Senin);
+  00134 → 1984-09-30 (film G30S/PKI; Wikipedia EN+ID, IMDb
+  1984-09-30; outlier TMDb 1 Nov 1984 kalah kuat); 00375 →
+  1981-08-21 (YDPA Sultan Ahmad Shah 21–26 Agu 1981; Newsletter
+  Kedutaan Besar Malaysia di Jakarta Jan–Mar 2020, arsip Perdana
+  Library — teks terverifikasi ulang agen induk via cermin docslib;
+  SATU-SATUNYA sumber tanggal persis, tanpa sumber bertentangan;
+  sambutan bandara Halim = hari kedatangan). Seksi BARU 1984 (1);
+  1981: 3 → 4; 1995–1998 tetap 18 (00089 sudah duduk di sana);
+  Tanpa tanggal 129 → 127.
+- **Pola yang terpecahkan (13 file selisih hari):** yang salah
+  hanyalah kata hari di badan salinan soehartolibrary.id — tanggal
+  benar. Kata hari itu "menempel" dari entri tetangga ("KAMIS"
+  diulang untuk 1, 4, 8 Apr 1968; "SELASA" diulang untuk 6, 7, 8,
+  12 Agu 1968). Bukti penentu: jangkar antar-artikel dua sisi
+  (00013/00014, 00935/00937, 00552/00554, 00896, 00710/00712,
+  00060/00063 — semua terverifikasi ulang agen induk ke file
+  aslinya), urutan halaman buku yang monoton, dan hmsoeharto.id
+  yang menulis teks identik dengan hari yang benar (00307 "Senin,
+  1 April 1968"; 00899 "Senin, 12 Agustus 1968"). Jangkar
+  terkuat per file: 00735 Luns (memoar Oltmans: tiba 2 Jul 1968;
+  Tractatenblad 1968 No. 88/98: penandatanganan 7 Jul 1968 —
+  eliminasi Senin 1/8 Jul); 00936 Nixon (FRUS: kunjungan 27–28
+  Jul 1969); 00036 resepsi Tahun Baru (jangkar definisional:
+  1 Jan); 00079 "bersembahyang Ied" mustahil 6 Feb 1970 (Idul
+  Adha 1389H = 16 Feb 1970, dicatat 00068 di Istana Negara) —
+  sangat mungkin sholat Jumat yang salah dilabeli "Ied" oleh
+  buku; koreksi: 1 Syawal 1389H = 10 Des 1969 (bukan 11 Nov
+  1969).
+- **Kesalahan isi yang dicatat (bukan fix, isi tidak diubah):**
+  00309 "Instruksi 37/U/IN/6/1976" → 1967 (HRW, Wikipedia);
+  01710 "Keppres 132 tahun 1969" → 132/1967 (dekrit 1969 adalah
+  Keppres 79/1969); 00913 "Pepera tahun ini" (Pepera 14 Jul–2 Agu
+  1969, bukan 1968 — pernyataan dari pidato Agu 1968); 01137
+  "HUT RRI ke-22" → ke-23 (RRI berdiri 11 Sep 1945); 00971 "HUT
+  RI ke-23" → ke-25 (Wikipedia "Peringatan 25 tahun": 10.05, 17
+  tembakan meriam, Sjaichu — cocok kata-per-kata); 00006 "4
+  Agustus 1964" → 1965 (Asvi Warman Adam/LIPI, Fic, Rum Aly,
+  Dake); 00416 komunis Afganistan berkuasa 1978 (Revolusi Saur
+  27–28 Apr 1978) bukan 1973, dan "kekaisaran Katolik ortodok"
+  kontradiktif (Kekaisaran Rusia resmi Ortodoks Timur); 00004
+  footnote 4 "(tahun 1996)" — konteksnya 1965.
+- **1 tetap `needs_review` — 00711 (medali emas UNESCO 14 Jun
+  1971):** tanggal terjepit 00710/00712 dan kunjungan Maheu Juni
+  1971 terkonfirmasi (bantuan Borobudur US$6 jt, BPCB 23 Jun
+  1971), TAPI penyerahan medali emas UNESCO 14 Jun 1971 tidak
+  terkonfirmasi di sumber manapun (pencarian subagen + agen induk);
+  satu-satunya medali emas UNESCO Soeharto yang terdokumentasi
+  adalah Medali Avicenna 19 Jun 1993. Diduga buku Jejak Langkah
+  mencampuradukkan kunjungan Maheu 1971 dengan Avicenna 1993.
+  Bukti penyelesai: koran sezaman (Kompas 15 Jun 1971), arsip
+  UNESCO 1971, atau katalog Museum Purna Bhakti Pertiwi.
+- Keputusan tersimpan di
+  `workspace/goals/wiki-soeharto/hidden_files/nr_decisions.py`;
+  skrip terapan `apply_nr.py` + hasil riset chunk
+  `/tmp/nr_chunk{A,B,C}_result.txt` (di VM).
+- Yang ikut dikerjakan di batch baca:
+  **184 judul frontmatter terpotong**
+  (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
+  Kedua tanggal invalid yg dikenal sejak Fase 0 sudah terpecahkan
+  (01042 di batch 1973, 01448 di batch 1975).
+- Temuan pilot untuk batch berikutnya: **170 kliping ber-date tahun
+  2013–2017** (tanggal publikasi perpustakaan, bukan peristiwa —
+  perlu audit tanggal repo-wide); baris metadata WP bocor ke isi
+  artikel Sep–Okt ("1 September 2013... Views Share on"); file 00733
+  nama/entity_id berawalan "1972" padahal peristiwa 1968-07-01 (nama
+  file tidak diganti — URL).
+
 ## Catatan
 
 - `source_checked` TIDAK berarti klaim sejarahnya benar — hanya berarti
