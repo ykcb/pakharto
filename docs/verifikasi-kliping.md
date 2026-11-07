@@ -551,10 +551,138 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   = 0) — itu bukan file kosong; dan format `":{` tanpa spasi tetap
   dinormalisasi dulu sebelum merge.
 
+### Batch 1976 (SELESAI, 7 Nov 2026, commit `ae9b33f3`, live)
+
+- **Pembaca: 5 subagen baca paralel** (15 artikel tiap chunk), baca
+  penuh dgn protokol pilot/batch 1975; rizky menggabungkan putusan +
+  memverifikasi langsung 4 fix + 00265 ke file aslinya.
+- **Hasil: 75 artikel; 75 `cross_checked`, 0 `needs_review`,
+  0 `disputed`.** Kumulatif Fase 1: **854 `cross_checked`,
+  17 `needs_review`.**
+- **4 perbaikan date/title — keempatnya tanggal frontmatter =
+  tanggal publikasi perpustakaan, tanggal benar dari isi + hari +
+  footnote:** 00257 (2014-03-21 → 1976-03-03 + title; isi "RABU,
+  3 MARET 1976", 3 Mar 1976 memang Rabu; footnote hal. 343–344;
+  pemberhentian Ibnu Sutowo + pengangkatan Piet Haryono, Keppres
+  29/M + 30/M/1976; judul "1976-03-3" dinormalisasi ke "1976-03-03");
+  00258 (2014-03-22 → 1976-03-04 + title; isi "KAMIS, 4 MARET
+  1976"; footnote hal. 344); 00260 (2014-03-22 → 1976-03-08 +
+  title; isi "SENIN, 8 MARET 1976"; footnote hal. 344); 00421
+  (2017-08-28 → 1976-04-06 + title; isi "SELASA, 6 April 1976";
+  footnote hal. 353; Keppres 14/1976 Pedoman Pelaksanaan APBN
+  TA 1976/1977; judul "1976-4-6" dinormalisasi ke "1976-04-06").
+  **Dengan ini keempat tautan ber-FM-date 2014/2017 di seksi 1976
+  sudah terpecahkan** — tidak ada lagi straggler tanggal publikasi
+  di seksi 1976; header 1976 = 75 tautan aktual, tanpa koreksi manual.
+- **1 selisih hari diputuskan `cross_checked` tanpa fix:** 00265 (isi
+  "JUM'AT, 22 MARET 1976" dgn apostrof keriting, padahal 22 Mar 1976
+  = Senin — tanggal dinilai benar, kata hari salah ketik; jangkar
+  footnote hal. 347–348 tepat di antara 00264 20 Mar hal. 347 dan
+  00266 25 Mar hal. 348; 00266 menyebut Inpres "telah ditetapkan
+  beberapa hari yang lalu", 22→25 Mar = 3 hari, pas; Jumat terdekat
+  tersingkir: 19 Mar ditempati 00263, 26 Mar akan menuntut footnote
+  setelah 00266). 01456 hari ditulis "SEUASA" (typo OCR utk SELASA,
+  7 Sep 1976 memang Selasa) — tanpa fix. 01123 judul FM berspasi
+  ganda ("1976-08-17  Presiden") vs H1 spasi tunggal — dicatat,
+  tidak diperbaiki (bukan judul terlipat).
+- **13 relasi `menyebut` baru** (total 149: ekonomi 105, kopkamtib 4,
+  glosarium 12, pemilu 9): 10 ekonomi-orde-baru — 00265 (Inpres
+  berangka: pasar Rp20 M, reboisasi Rp16 M/200.000 ha, SD Rp53,8 M,
+  kesehatan Rp20 M, desa Rp19,8 M, kabupaten Rp62,4 M, provinsi
+  Rp61,5 M), 00269 (PP 11/1976 ekspor-impor-devisa), 00421 (Keppres
+  14/1976: kewajiban perpajakan + larangan 6 pengeluaran APBN),
+  00424 (tuntutan ke Caltex/Stanvac US$1 per barel ekspor + tenggat
+  besok pagi), 00871 (kredit 100 motor diesel 30–100 PK utk Pelra),
+  01453 + 01454 (instruksi hadapi kemarau: padat karya + lumbung
+  paceklik + benih utk musim tanam 1 Okt), 01456 (keputusan sidang
+  Dewan Stabilisasi Ekonomi: cegah penurunan produksi padi 1976/1977
+  — sarana produksi tepat waktu, tanggulangi penunggakan kredit
+  Bimas, keringanan pengembalian kredit), 01477 (keputusan harga
+  berangka: pupuk Rp80→70/kg; gabah Rp67,50→70/kg desa,
+  Rp68,50→71/kg BUUD/KUD; penyaluran Bimas via BUUD/KUD), 01986
+  (sidang Dewan Stabilisasi Ekonomi: instruksi dropping beras Bulog,
+  program padat karya musim paceklik, persetujuan standarisasi
+  komoditi ekspor); 1 kopkamtib — 00264 (Kopkamtib subjek artikel:
+  diperintah menindak penyelundup, melaporkan tindakannya, dinilai
+  kinerjanya — preseden 00220 batch 1974); 1 glosarium — 00423
+  (Demokrasi Pancasila disebut eksplisit + dibahas satu paragraf
+  penuh: hak hidup parpol/Golkar di dalamnya); 1 pemilu — 00884
+  (Keppres 34/1976, 6 syarat anggota MPR/DPR/DPRD diuraikan lengkap).
+  Ekonomi DITOLAK di 00259 (pelengkapan direksi Pertamina =
+  personalia), 00266 (arahan umum pelaksanaan Inpres), 00268
+  (anjuran umum soal pajak), 00425 (pelantikan + pidato kesulitan
+  Pertamina), 00868 (konsep Jabodetabek BELUM diputuskan), 01474
+  (instruksi umum memperlancar jalur pangan — substansinya di 01456),
+  01481 (hanya "dibicarakan"), 01977 (persetujuan Puspitek satu
+  paragraf dlm artikel dua topik), 01982 (peresmian + amanat umum
+  PMA), 01985 (pertemuan kehormatan IMF), 01987 (pasar modal hanya
+  "sedang disiapkan"); orde-baru DITOLAK di 00432/01116/01123
+  ("semenjak Orde Baru"/"sebelum Orde Baru"/"masa awal Orde Baru"
+  hanya klausa penanda waktu); glosarium DITOLAK di 00281
+  ("stabilitas nasional" satu klausa dlm kalimat daftar manfaat
+  wadah konsultasi) dan 01979 ("Dwifungsi ABRI" tidak muncul
+  eksplisit — amanat soal kepeloporan ABRI + Semangat 45); bakin +
+  kopkamtib DITOLAK di 01474 (Yoga Sugama + Sudomo hanya pejabat
+  yg dipanggil); pemilu DITOLAK di 00260 (keputusan bulan Pemilu Mei
+  1977 satu paragraf) dan 00426/00429 (amanat/laporan umum soal
+  Pemilu mendatang).
+- **Indeks diperbarui:** seksi 1976 = **75** (71 ber-FM-date 1976 +
+  4 ekstra yg kini ber-FM-date 1976; tanpa perpindahan tahun keluar).
+  01102–01104 (pindah tahun dari batch 1975) dibaca ulang di batch
+  ini, tanggal 1976 dikonfirmasi, tanpa fix baru — alias FM +
+  `sumber.judul` 01103 masih menulis "1976-08-06..." (sisa judul
+  lama, dicatat, tidak diperbaiki). 00866 (tanpa tanggal di nama
+  file) dikonfirmasi FM date 1976-07-01 benar.
+- **Temuan lain:** 01453/01454 DUPLIKAT impor — isi identik
+  kata-per-kata (pertemuan Cendana 2 Sep 1976 ttg kemarau); beda
+  hanya typo ("menginstruksilqm"/"oieh" di 01454), tag, Views 98 vs
+  113, slug/entity_id bersufiks -2; isi TIDAK diubah, nama file
+  TIDAK diganti, keduanya tetap cross_checked masing-masing.
+  Rangkaian konsisten lintas artikel: pembenahan Pertamina (00257
+  pemberhentian 3 Mar → 00259 pelengkapan direksi 6 Mar → 00425
+  pelantikan Piet Haryono 15 Apr); Inpres (00265 ditetapkan 22 Mar
+  → 00266 pelaksanaan 25 Mar); kerukunan antar umat beragama (00260
+  Badan Konsultasi 8 Mar → 00281 wadah konsultasi 12 Mar);
+  transmigrasi Wonogiri (01103 keputusan 12.000 KK Agu 1976 →
+  01986 rencana pemberangkatan 500 KK ke Sitiung 26 Okt); Sawito
+  (01482 dokumen Sawito 29 Sep → 01979 "Gerakan Sawito" 5 Okt);
+  kebijakan pangan/kekeringan (01453/01454 instruksi 2 Sep → 01456
+  keputusan sidang 7 Sep → 01474 tindak lanjut 8 Sep). Anomali
+  urutan footnote dicatat tanpa fix: 00263 (19 Mar) hal. 349 vs
+  00264 (20 Mar) hal. 347 — halaman buku tidak sepenuhnya
+  kronologis di situ. Selisih sumber dicatat, bukan fix: 01480
+  nomor surat edaran "B-3/ Pres/9/1976" vs kesaksian Sudharmono
+  "B-33/Pres/9/76"; halaman pidato soehartolibrary.id memakai
+  slug/tanggal 19 April 1976 utk pelantikan Piet Haryono, sedangkan
+  kliping + hmsoeharto.id menulis 15 April 1976.
+- **Spot-check terkonfirmasi:** pemberhentian Ibnu Sutowo 3 Mar 1976
+  (Keppres 29/M + 30/M; kabel Deplu AS 1976JAKART03020; Wikipedia);
+  KTT ASEAN pertama 23–24 Feb 1976 di Bali; Keppres 14/1976 (daftar
+  6 larangan pengeluaran APBN cocok persis); PP 11/1976 (ditetapkan
+  31 Mar 1976, berlaku 1 Apr 1976, ubah Pasal 3 PP 16/1970 — JDIH
+  BPK); pelantikan Piet Haryono 15 Apr 1976 (hmsoeharto.id;
+  Wikipedia: Dirut 3 Mar 1976–15 Apr 1981); sidang tahunan ADB
+  ke-9, April 1976; gempa Irian Jaya 26 Jun 1976 (M7.1, 422 tewas +
+  5.000+ hilang, 6 desa hancur — Wikipedia id; ISC 713087); Palapa
+  A1 diluncurkan 8 Jul 1976, SKSD Palapa diresmikan 16 Agu 1976
+  (Soeharto cabut keris sbg saklar); UU 7/1976 Timor Timur
+  ditandatangani 17 Jul 1976 (provinsi ke-27); MTQ ke-9 Samarinda
+  1976 (189 peserta, 26 provinsi); IPTN diresmikan 23 Agu 1976
+  (didirikan 26 Apr 1976, dirut BJ Habibie); Kilang Cilacap mulai
+  beroperasi 24 Agu 1976; KTT Non-Blok V Colombo 16–19 Agu 1976
+  (81 negara, Deklarasi Kolombo; Inpres 14/1976); Nuzulul Quran
+  17 Ramadan 1396H = 11 Sep 1976; Keppres 43/1976 Puspitek
+  (ditetapkan + berlaku 1 Okt 1976 — JDIH BPK); kunjungan resmi
+  pertama PM Malcolm Fraser 7–11 Okt 1976 (komunike DFAT 10 Okt
+  1976); surat edaran anti-perlakuan-istimewa keluarga Presiden
+  B-3/Pres/9/1976 (kesaksian Sudharmono, soehartolibrary.id).
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1976_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1976.py` + skrip gabung
+  `merge_batch1976.py` di folder yang sama.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1976 (75),
-  1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
+- Urutan batch: 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca:
   **184 judul frontmatter terpotong**
