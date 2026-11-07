@@ -70,10 +70,15 @@ Pelajaran sebaliknya sama pentingnya: warisan yang bertumpu pada fondasi keuanga
 | **Swasembada beras** | 1984 | Indonesia mencapai swasembada beras; penghargaan FAO di Roma |
 | **Wajib Belajar 6 tahun** | 1984 | Pendidikan dasar wajib 6 tahun; diperluas menjadi 9 tahun pada 1994 |
 | **PLTU Suralaya** | 1984 | Pembangkit listrik tenaga uap pertama, unit pertama beroperasi 1984 |
+| **Posyandu** (Pos Pelayanan Terpadu) | 1984 | Layanan kesehatan dasar desa (KIA, KB, imunisasi, gizi, diare); Instruksi Bersama 1984, dicanangkan massal 1986 |
 | **Bandara Soekarno-Hatta** | 1985 | Bandara internasional utama Jakarta; dibuka 1985 |
+| **KUT** (Kredit Usaha Tani) | 1985 | Kredit modal kerja bagi petani untuk input pertanian modern |
 | **Jamsostek** | 1992 | Jaminan sosial tenaga kerja (UU No. 3/1992); cikal bakal BPJS Ketenagakerjaan |
 | **Bank Muamalat** | 1992 | Bank syariah pertama di Indonesia; mulai beroperasi 1 Mei 1992 |
 | **KTT Gerakan Non-Blok X, Jakarta** | 1992 | Soeharto menjadi ketua Gerakan Non-Blok 1992–1995 |
+| **IDT** (Inpres Desa Tertinggal) | 1993 | Dana langsung bagi desa tertinggal untuk infrastruktur dan ekonomi desa |
+| **Wajib Belajar 9 Tahun** | 1994 | Perluasan wajib belajar 6 tahun menjadi 9 tahun (SD + SMP) |
+| **GNOTA** (Gerakan Nasional Orang Tua Asuh) | 1996 | Masyarakat mampu menjadi "orang tua asuh" bagi anak miskin agar tetap sekolah |
 
 ## Data: kemiskinan dan pendapatan
 
@@ -114,6 +119,8 @@ Artikel "Prestasi olahraga jaman Orde Baru" di soehartois.com memuat banyak kesa
   9. Kemiskinan "70% akhir 1960-an menjadi 11% awal 1990-an" — sebenarnya 60% pada 1970; 13,7% pada 1993; sekitar 11% (metode lama) baru pada 1996.
 - **Timor Timur sebagai provinsi** disajikan sumber sebagai "pencapaian" — integrasinya (1976) dan akhirnya (referendum 1999) membutuhkan konteks penuh; butir ini tidak dicatat sebagai warisan di halaman ini.
 - **Gerakan Non-Blok** didirikan 1961, sebelum Orde Baru; yang dicatat di halaman ini adalah peran Indonesia di dalamnya pada era Soeharto (KTT X Jakarta 1992, ketua 1992–1995), bukan pendiriannya.
+- **Daftar "50 Program" (batch 3) mengklaim sejumlah hal yang lebih tua atau lebih muda dari Orde Baru:** Pupuk Sriwidjaja (didirikan 1959; Orde Baru meresmikan Pusri II pada 1974), Semen Gresik (1957) dan Semen Padang (1910), Bendungan Jatiluhur (dibangun 1957–1967, era Sukarno), Gerakan Pramuka (1961), BRI (1895), Pelni (1952), Raskin (1998, Habibie), PNPM (2007; pendahulunya PPK 1998), OJK (2011). Yang benar dari Orde Baru pada butir-butir itu adalah pengembangan atau perluasannya, bukan pendiriannya. Bagian 1 daftar itu juga menyebut Pelita "lima tahapan" — sebenarnya enam.
+- **Artikel swasembada mengulang kesalahan IR-64** (lihat Batas data halaman [[hub/repelita|Repelita]]): IR-64 baru dilepas 1986, setelah swasembada 1984; varietas era swasembada adalah IR8, IR36, Cisadane, dan seangkatannya.
 
 ## Sumber
 
@@ -138,5 +145,6 @@ Artikel "Prestasi olahraga jaman Orde Baru" di soehartois.com memuat banyak kesa
 - "Tim nasional bulu tangkis Indonesia", Wikipedia bahasa Indonesia: https://id.wikipedia.org/wiki/Tim_nasional_bulu_tangkis_Indonesia
 - "Indonesia pada Asian Games", Wikipedia bahasa Indonesia (perolehan medali Beijing 1990 dan Hiroshima 1994).
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
+- Tambahan batch 3 (Program Orde Baru) — serial "50 Program", soehartois.com: Bagian 2 (IDT, KUT, Posyandu, GNOTA): https://www.soehartois.com/2024/10/2-10-program-orde-baru-atau-dimasa.html ; Bagian 3 (Wajar 9 Tahun): https://www.soehartois.com/2024/10/3-20-program-orde-baru-atau-dimasa.html
 
 Lihat juga: [[hub/ekonomi-orde-baru|Ekonomi Orde Baru]] · [[hub/repelita|Repelita]] · [[hub/kehidupan-rakyat|Kehidupan Rakyat dan Pembangunan Sosial]] · [[hub/orde-baru|Orde Baru]]
