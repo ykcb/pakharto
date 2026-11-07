@@ -174,9 +174,70 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   `merge_batch1970.py` di folder yang sama (gabung menormalisasi koma
   tiap entri — pelajaran dari merge 1969 yg gagal karena koma hilang).
 
+### Batch 1971 (SELESAI, 7 Nov 2026, commit `15d0003b`, live)
+
+- **Pembaca: 5 subagen baca paralel** (22/22/22/21/21 artikel tiap
+  chunk), baca penuh dgn protokol pilot/batch 1970; rizky menggabungkan
+  putusan, memverifikasi langsung 12 fix + 00711 ke file aslinya.
+- **Hasil: 108 artikel; 107 `cross_checked`, 1 `needs_review`,
+  0 `disputed`.** Kumulatif Fase 1: **439 `cross_checked`,
+  17 `needs_review`.**
+- **1 `needs_review` baru:** 00711 (isi "SABTU, 14 Juni 1971" padahal
+  14 Jun 1971 = Senin; tanggal 14 Jun konsisten di filename/frontmatter/
+  H1/isi, kemungkinan salah ketik hari di buku sumber; konteks kunjungan
+  Dirjen UNESCO René Maheu Juni 1971 terkonfirmasi, tapi penyerahan
+  medali emas tanggal 14 Juni tidak terkonfirmasi dari sumber luar —
+  medali UNESCO ke Soeharto yg terdokumentasi justru Avicenna Medal
+  Juni 1993).
+- **12 perbaikan date/title:** 00116 pindah ke 1972 — seluruh lawatan
+  Australia–Selandia Baru–Filipina terjadi Feb 1972, bukan 1971
+  (isi "MINGGU 06 PEBRUARI", 6 Feb 1972 = Minggu; disambut PM William
+  McMahon yg baru jadi PM 10 Mar 1971; terkonfirmasi PM Transcripts
+  Australia, Getty, Workers Press, Joint Communiqué Filipina);
+  01370 + 01371 pindah ke 1972 (isi "8/9 SEPTEMBER 1972", judul/H1/
+  alias sudah 1972; footnote hal. 469); 01888 pindah ke 1973 (isi
+  "SENIN, 1 OKTOBER 1973"; footnote volume buku 1973–1978 hal. 57 —
+  BUKAN duplikat 01805, upacara 1 Okt 1971); 00174 (date publikasi
+  2017-08-29 → 1971-03-01), 00567 (2014-03-22 → 1971-05-03), 00582
+  (2017-08-25 → 1971-05-07), 01325 (2017-08-22 → 1971-09-01) — keempat
+  tanggal peristiwa dibuktikan isi (hari cocok `date -d`); 00982
+  1971-08-08 → 1971-08-09 (judul/H1 sudah 1971-08-09); 01336
+  1971-07-23 → 1971-09-23 (isi "KAMIS, 23 SEPTEMBER 1971", jangkar
+  footnote hal. 368 = halaman yg sama dgn artikel 21 Sep 1971);
+  00340 + 00989 perbaikan judul (spasi ganda, cocok H1).
+- **34 relasi `menyebut` baru** (total 89): 20 ekonomi-orde-baru,
+  7 pemilu-orde-baru, 4 orde-baru-1966-1998, 3 glosarium (Dwifungsi
+  ABRI di 00113 + 01814, Demokrasi Pancasila di 01329). 2 selisih hari
+  diputuskan `cross_checked` dgn jangkar: 00113 (isi "KAMIS 22 Feb"
+  padahal 22 Feb 1971 = Senin — halaman arsip soehartolibrary.id utk
+  artikel yg sama menulis "SENIN, 22 FEBRUARI 1971", tanggal benar)
+  dan 00116 (terselesaikan lewat fix tahun, lihat atas).
+- **Indeks diperbarui:** seksi 1971 = **104**, seksi 1972 = **85**,
+  seksi 1973 = **81**. 2 tautan di 1973 (00365, 00818) masih punya
+  frontmatter date tahun publikasi (2017/2013) — skrip apply menghitung
+  dari frontmatter date, bukan nama file, jadi header 1973 dikoreksi
+  79→81 agar cocok dgn jumlah tautan aktual (seperti batch 1970).
+- **Spot-check terkonfirmasi:** Pemilu 3 Jul 1971 (Golkar 62,80% /
+  236 kursi, hasil resmi 7 Agu 1971 — Wikipedia, Library of Congress);
+  APBN 1971/1972 Rp585.210.385.500 berimbang (UU 5/1971, DPR);
+  devaluasi rupiah Rp378→Rp415 pada 23 Agu 1971 (Kemenkeu Media
+  Keuangan; pemicu Nixon Shock 15 Agu 1971); reshuffle kabinet
+  9 Sep 1971 (Keppres 64/1971; dilantik 11 Sep); kunjungan Ratu
+  Juliana 26 Agu–5 Sep 1971 (pertama Kepala Negara Belanda);
+  penggunaan kembali nama TNI 5 Okt 1971; Keppres 74/1971 Batam
+  (26 Okt 1971, cikal bakal Otorita Batam); IGGI 1971 (Rotterdam
+  15–16 Des 1970, proyeksi US$640 juta); krisis mata uang Eropa
+  Mei 1971 (Bundesbank berhenti intervensi 5 Mei, mark mengambang
+  10 Mei).
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1971_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1971.py` + skrip gabung
+  `merge_batch1971.py` di folder yang sama. Pelajaran apply: assert
+  sinkron H1 harus tahan fix judul-saja (tanpa kunci `date`) — sudah
+  diperbaiki di skrip ini.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1971 (106), 1972 (84), 1973 (80), 1974 (82),
+- Urutan batch: 1972 (85), 1973 (81), 1974 (82),
   1975 (88), 1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca: 2 tanggal invalid
