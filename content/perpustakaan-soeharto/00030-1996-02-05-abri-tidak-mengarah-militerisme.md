@@ -1,9 +1,9 @@
 ---
-title: 1996-02-05 ABRI Tidak Mengarah Militerisme
+title: '1969-02-05 ABRI Tidak Mengarah Militerisme'
 description: RABU, 5 FEBRUARI 1969 . Dalam amanat tertulis pada upacara Prasetya Perwira
   Wajib Militer ABRI periode 1968/1969 di Dermaga Ujung, Surabaya, Menhankam/Pangab
   Jenderal Soeharto kembali menegaskan bahwa ABRI tidak akan menjurus ke arah...
-date: '1996-02-05'
+date: '1969-02-05'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -25,13 +25,13 @@ tags:
 - semesta
 - uud-1945
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1996-02-05-abri-tidak-mengarah-militerisme/
   judul: 1996-02-05 ABRI Tidak Mengarah Militerisme
-  tanggal: '1996-02-05'
+  tanggal: '1969-02-05'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -39,7 +39,7 @@ relasi:
 ---
 
 
-# 1996-02-05 ABRI Tidak Mengarah Militerisme
+# 1969-02-05 ABRI Tidak Mengarah Militerisme
 
 **ABRI Tidak Mengarah Militerisme[**[1]**](#_ftn1)**
 

@@ -28,8 +28,8 @@ tags:
 - reformis
 - tinggal-landas-2
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: needs_review
+verification_status: needs_review
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-dan-misteri-kemelut-1998/
@@ -39,6 +39,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-dan-misteri-kemelut-1998/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/presiden-soeharto-dan-misteri-kemelut-1998/
+
 ---
 
 

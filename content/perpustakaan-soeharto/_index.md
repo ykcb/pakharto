@@ -103,7 +103,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01694-1968-10-30-presiden-soeharto-bahas-kemungkinan-tindakan-balasan-kepada-singapura|Presiden Soeharto Bahas Kemungkinan Tindakan Balasan Kepada Singapura]]
 
 
-## 1969 — 136 kliping
+## 1969 — 137 kliping
 - [[perpustakaan-soeharto/00012-1969-01-03-presiden-soeharto-larang-anggota-abri-main-judi|Presiden Soeharto Larang Anggota ABRI Main Judi]]
 - [[perpustakaan-soeharto/00013-1969-01-06-presiden-soeharto-menerima-pimpinan-organisasi-islam-asia-afrika|Presiden Soeharto Menerima Pimpinan Organisasi Islam Asia Afrika]]
 - [[perpustakaan-soeharto/00015-1969-01-08-sidang-kabinet-terbatas-presiden-soeharto-menerima-laporan-sejumlah-menteri|Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah]]
@@ -118,6 +118,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00024-1969-01-29-si-pimpin-sidang-kabinet-presiden-soeharto-efisiensi-aparatur-tidak-dengan-pemberhentian-pegawai-secara-massal|SI Pimpin Sidang Kabinet, Presiden Soeharto: Efisiensi Aparatur Tidak Dengan Pemberhentian Pegawai Secara Massal]]
 - [[perpustakaan-soeharto/00028-1969-02-01-menerima-howard-jones|MENERIMA HOWARD JONES]]
 - [[perpustakaan-soeharto/00029-1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi|SIDANG SUB DEWAN STABILISASI EKONOMI]]
+- [[perpustakaan-soeharto/00030-1996-02-05-abri-tidak-mengarah-militerisme|ABRI Tidak Mengarah Militerisme]]
 - [[perpustakaan-soeharto/00031-1969-02-06-sidang-pertama-batan|SIDANG PERTAMA BATAN]]
 - [[perpustakaan-soeharto/00032-1969-02-07-presiden-soeharto-apresiasi-hmi|PRESIDEN SOEHARTO APRESIASI HMI]]
 - [[perpustakaan-soeharto/00049-1969-02-08-menerima-duta-besar-bulgaria|MENERIMA DUTA BESAR BULGARIA]]
@@ -912,7 +913,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01987-1976-10-30-presiden-soeharto-menerima-peserta-munas-kadin|Presiden Soeharto Menerima Peserta Munas Kadin]]
 
 
-## 1977 — 31 kliping
+## 1977 — 32 kliping
 - [[perpustakaan-soeharto/00507-1977-04-01-presiden-soeharto-instruksikan-taat-aturan-dalam-pembangunan-pasar|Presiden Soeharto Instruksikan Taat Aturan Dalam Pembangunan Pasar]]
 - [[perpustakaan-soeharto/00508-1977-04-04-presiden-soeharto-resmikan-pabrik-sawit-di-medan-dan-pelabuhan-krueng-raya|Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan Krueng]]
 - [[perpustakaan-soeharto/00509-1977-04-05-presiden-soeharto-kunjungi-penang|Presiden Soeharto Kunjungi Penang]]
@@ -937,6 +938,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01525-1977-09-14-presiden-soeharto-menerima-bahan-bahan-gbhn-dan-p4|Presiden Soeharto Menerima Bahan-Bahan GBHN dan P4]]
 - [[perpustakaan-soeharto/01526-1977-09-16-presiden-dan-ibu-tien-soeharto-open-house-lebaran|Presiden dan Ibu Tien Soeharto Open House Lebaran]]
 - [[perpustakaan-soeharto/01527-1977-09-17-presiden-soeharto-bantu-masjid-selong-ntb-monumen-pertempuran-nica|Presiden Soeharto Bantu Masjid Selong NTB, Monumen Pertempuran NICA]]
+- [[perpustakaan-soeharto/01528-1997-09-19-presiden-soeharto-resmikan-pengangkatan-anggota-dprmpr|Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR]]
 - [[perpustakaan-soeharto/01529-1977-09-20-presiden-soeharto-instruksikan-pembentukan-tata-niaga-garam|Presiden Soeharto Instruksikan Pembentukan Tata Niaga Garam]]
 - [[perpustakaan-soeharto/01530-1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur|Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden]]
 - [[perpustakaan-soeharto/01531-1977-09-24-presiden-soeharto-resmikan-pameran-visual-program-kb|Presiden Soeharto Resmikan Pameran Visual Program KB]]
@@ -984,12 +986,10 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01676-1979-09-27-presiden-soeharto-setujui-cuti-guru-dan-pns-eks-trikora|Presiden Soeharto Setujui Cuti Guru dan PNS Eks Trikora]]
 
 
-## 1995–1998 — 4 kliping
-
+## 1995–1998 — 2 kliping
 - [[perpustakaan-soeharto/00089-menembus-sarajevo-tahun-1995|Menembus Sarajevo Tahun 1995]]
-- [[perpustakaan-soeharto/00030-1996-02-05-abri-tidak-mengarah-militerisme|ABRI Tidak Mengarah Militerisme]]
-- [[perpustakaan-soeharto/01528-1997-09-19-presiden-soeharto-resmikan-pengangkatan-anggota-dprmpr|Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR]]
 - [[perpustakaan-soeharto/00004-presiden-soeharto-dan-misteri-kemelut-1998|Presiden Soeharto dan Misteri Kemelut 1998]]
+
 
 ## Tanpa tanggal — 176 kliping
 

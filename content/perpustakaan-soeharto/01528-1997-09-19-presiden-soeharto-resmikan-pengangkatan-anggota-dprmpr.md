@@ -1,9 +1,9 @@
 ---
-title: 1997-09-19 Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR
+title: '1977-09-19 Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR'
 description: 21 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1997-09-19-presiden-soeharto-resmikan-pengangkatan-anggota-dprmpr/respond)
   162 Views Share on
-date: '1997-09-19'
+date: '1977-09-19'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -18,21 +18,25 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1997-09-19-presiden-soeharto-resmikan-pengangkatan-anggota-dprmpr/
   judul: 1997-09-19 Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR
-  tanggal: '1997-09-19'
+  tanggal: '1977-09-19'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1997-09-19-presiden-soeharto-resmikan-pengangkatan-anggota-dprmpr/
+- predikat: menyebut
+  objek: pemilu-orde-baru
+  sumber: https://soehartolibrary.id/1997-09-19-presiden-soeharto-resmikan-pengangkatan-anggota-dprmpr/
+
 ---
 
 
-# 1997-09-19 Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR
+# 1977-09-19 Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR
 
 21 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1997-09-19-presiden-soeharto-resmikan-pengangkatan-anggota-dprmpr/#respond)  162 Views Share on
 

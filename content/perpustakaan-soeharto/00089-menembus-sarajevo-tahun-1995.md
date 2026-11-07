@@ -15,8 +15,8 @@ tags:
 - perpustakaan-soeharto
 - sarajevo
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: needs_review
+verification_status: needs_review
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/menembus-sarajevo-tahun-1995/
