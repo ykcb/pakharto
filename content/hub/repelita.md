@@ -87,4 +87,4 @@ Repelita dirancang di bawah arahan Widjojo Nitisastro, kepala Bappenas, mulai 19
 - "Rencana Pembangunan Lima Tahun", Wikipedia bahasa Indonesia — dipakai untuk verifikasi silang periode dan tanggal peluncuran: https://id.wikipedia.org/wiki/Rencana_Pembangunan_Lima_Tahun
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
 
-Lihat juga: [[Ekonomi Orde Baru]] · [[Orde Baru (1966–1998)|Orde Baru]] · [[Krisis & Reformasi 1998]]
+Lihat juga: [[Ekonomi Orde Baru]] · [[Orde Baru (1966–1998)|Orde Baru]] · [[Krisis Moneter dan Gerakan Reformasi 1998]]
