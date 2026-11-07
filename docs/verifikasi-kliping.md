@@ -281,13 +281,99 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   (di VM, bukan repo); skrip terapan `apply_batch1972.py` + skrip gabung
   `merge_batch1972.py` di folder yang sama.
 
+### Batch 1973 (SELESAI, 7 Nov 2026, commit `2df83ac8`, live)
+
+- **Pembaca: 5 subagen baca paralel** (17/17/16/16/15 artikel tiap
+  chunk), baca penuh dgn protokol pilot/batch 1971; rizky menggabungkan
+  putusan + memverifikasi langsung 6 fix ke file aslinya.
+- **Hasil: 81 artikel; 81 `cross_checked`, 0 `needs_review`,
+  0 `disputed`.** Kumulatif Fase 1: **606 `cross_checked`,
+  17 `needs_review`.**
+- **6 perbaikan date/title:** 00209 (1973-03-20 → 1973-03-14, date
+  saja; judul/H1 sudah "1973-03-14 ... Bantu 'Lumbung Paceklik'";
+  isi "RABU, 14 Maret 1973"; nama file/entity_id menyebut UU APBN
+  padahal isinya bantuan paceklik — TIDAK diganti); 00210
+  (1973-03-20 → 1973-03-23, date saja; judul/H1 sudah "1973-03-23
+  ... Diambil Sumpah"; pelantikan jabatan kedua 23 Mar 1973,
+  Tap MPR IX/MPR/1973); 00365 (tanggal publikasi 2017-08-28 →
+  1973-04-07 + title; isi "SABTU, 7 April 1973"; normalisasi
+  "1973-04-7"); 00814 (1973-07-09 → 1973-07-19 + title; isi "KAMIS,
+  9 Juli 1973" padahal 9 Jul = Senin — yang salah angka tanggal, bukan
+  kata hari; hmsoeharto.id + sejarah PT Semen Padang: rehabilitasi
+  Indarung I diresmikan 19 Jul 1973); 00818 (tanggal publikasi
+  2013-07-28 → 1973-08-18 + title; isi "di Istana Negara pada tanggal
+  18-8-1973"; normalisasi "1973-8-18"); 01042 (tanggal invalid
+  1973-18-22 → 1973-08-22 + title; transposisi 08→18; isi "RABU,
+  22 AGUSTUS 1973"; footnote hal. 44–45 berurutan dgn tetangga).
+  Salah satu dari 2 tanggal invalid yang dikenal sejak Fase 0 kini
+  terpecahkan dari isi artikel sendiri.
+- **2 selisih hari terselesaikan dgn jangkar, tanpa fix:** 00631
+  (isi "KAMIS, 21 Mei 1973" padahal 21 Mei = Senin — PP 24/1973 +
+  PP 25/1973 ditetapkan/diundangkan 21 Mei 1973; HNSI resmi berdiri
+  dan diresmikan 21 Mei 1973; footnote hal. 21 berurutan) dan 01889
+  (isi "RABU, 5 OKTOBER 1973" padahal 5 Okt = Jumat — Hari ABRI
+  selalu 5 Oktober; amanat Hari ABRI ke-28; footnote hal. 57 sama
+  dgn 01888 tgl 1 Okt).
+- **14 relasi `menyebut` baru** (total 112), semuanya
+  ekonomi-orde-baru: 00211 (UU 3/1973 APBN 1973/1974), 00365
+  (kebijakan PMA + Repelita II), 00369 (65% kredit investasi ke
+  ekonomi lemah + turunkan suku bunga), 00625 (penyederhanaan
+  prosedur PMA/PMDN berlaku 1 Jun 1973 + komitmen IGGI US$876,6
+  juta), 00627 (kebijakan stok beras nasional: 10% dari kebutuhan
+  14,8 juta ton/tahun), 00637 (pembentukan BKPM, Keppres 70/1973,
+  ketua Barli Halim), 00803 (larangan ekspor jagung + ubi-ubian),
+  00817 (rice estate dibuka bagi modal swasta/asing), 01033 (kurs
+  rupiah tetap Rp415/US$ + lanjutkan impor beras), 01039 (pidato
+  kenegaraan 16 Agu: anggaran berimbang, perpajakan, Repelita II),
+  01055 (PP 12/1973: tunjangan kerja minimum Rp1.750→Rp2.000,
+  penghasilan terendah PNS Rp4.300), 01385 (batas minimum pajak
+  kekayaan Rp3,8 jt → Rp14 jt, tarif 5 permil), 01386 (4 masalah
+  musim tanam + target produksi 15,36 juta ton), 01399 (komitmen
+  investasi Mitsui US$1 milyar jangka panjang). 00636 (instruksi
+  tertibkan spekulan beras) + 01889 (Dwifungsi ABRI) ditolak setelah
+  penilaian ulang koordinator: instruksi singkat satu paragraf /
+  istilah tidak muncul eksplisit.
+- **Indeks tidak berubah:** seksi 1973 = **81**; semua seksi cocok
+  header vs aktual, 0 tautan salah seksi.
+- **Spot-check terkonfirmasi:** pelantikan jabatan kedua 23 Mar 1973
+  (Tap MPR IX/MPR/1973); PLTA Riam Kanan diresmikan 30 Apr 1973
+  (berganti nama PLTA Ir. P. M. Noor 19 Jan 1980); kunjungan resmi
+  pertama Lee Kuan Yew 25 Mei 1973 (tiba 25 Mei, 19 tembakan meriam;
+  tabur bunga di makam Usman-Harun, Kalibata, 28 Mei); pemugaran
+  Candi Borobudur kedua dimulai 10 Agu 1973, selesai 23 Feb 1983;
+  kerusuhan Bandung 5 Agu 1973 (pemicu pemukulan kusir gerobak Asep
+  Tosin; kerusakan 1.535 rumah/toko, 129 mobil, 169 motor); HUT RI
+  ke-28 (ordinal benar); Perang Yom Kippur mulai 6 Okt 1973 (Resolusi
+  DK PBB 338 tgl 22 Okt, perang berakhir 26 Okt — konsisten dgn
+  seruan 13 Okt dan syukur gencatan senjata 27 Okt); PDI
+  dideklarasikan 10/11 Jan 1973 (ketua umum pertama Mohammad
+  Isnaeni); Idul Fitri 1 Syawal 1393H = Sabtu 27 Okt 1973; HNSI
+  berdiri 21 Mei 1973; PP 24/1973 + PP 25/1973 ditetapkan 21 Mei 1973.
+- **Selisih sumber dicatat, bukan fix:** 00211 — naskah UU 3/1973
+  sebenarnya disahkan 14 Mar 1973 dgn total Rp862,4 miliar
+  (pembangunan Rp344,1 M), sedangkan artikel mencatat 20 Mar /
+  Rp867,4 M (pembangunan Rp349,1 M); isi konsisten internal.
+  00637 — buku resmi BKPM menyebut pembentukan 26 Mei 1973
+  berdasarkan Keppres 20/1973, berbeda dgn kliping (Keppres
+  70/1973, 29 Mei). 01052 — isi menyebut KTT Non-Blok Aljazair
+  "5-8 September" padahal aktual 5–9 Sep 1973 (selisih pada
+  pernyataan rencana ke depan). 00806 + 01888 dibaca ulang (sudah
+  `cross_checked` di batch 1970/1971) dan dikonfirmasi; 01888 BUKAN
+  duplikat 01805 (upacara 1 Okt 1971). Nama file 01037 sempat
+  tertulis 08-13 di brief, yang benar 08-10 (file di disk +
+  `batch1973.json` sudah benar; merge tidak terganggu).
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1973_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1973.py` + skrip gabung
+  `merge_batch1973.py` di folder yang sama.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1973 (81), 1974 (82),
+- Urutan batch: 1974 (82),
   1975 (88), 1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (176, terakhir).
-- Yang ikut dikerjakan di batch baca: 2 tanggal invalid
-  (1973-18-22, 1975-19-17) dan **184 judul frontmatter terpotong**
+- Yang ikut dikerjakan di batch baca: 1 tanggal invalid tersisa
+  (1975-19-17; yang 1973-18-22 sudah terpecahkan di batch 1973) dan
+  **184 judul frontmatter terpotong**
   (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
 - Temuan pilot untuk batch berikutnya: **170 kliping ber-date tahun
   2013–2017** (tanggal publikasi perpustakaan, bukan peristiwa —
