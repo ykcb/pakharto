@@ -19,8 +19,8 @@ tags:
 - presiden-soeharto
 - tarif-angkutan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-01-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-ekonomi/

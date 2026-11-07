@@ -20,8 +20,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja/
@@ -32,6 +32,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja/
+
 ---
 
 

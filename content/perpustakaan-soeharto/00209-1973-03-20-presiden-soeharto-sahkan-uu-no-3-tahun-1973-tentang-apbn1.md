@@ -3,7 +3,7 @@ title: 1973-03-14 Presiden Soeharto Bantu ‘Lumbung Paceklik’
 description: RABU, 14 Maret 1973, Pada jam 10.00 pagi Presiden Soeharto berkenan menerima
   gubernur-gubernur dari Jawa Timur, Jawa Tengah, dan Daerah Istimewa Yogyakarta di
   Bina Graha, Jakarta. Pada pertemuan ini Presiden telah memberikan bantuan...
-date: '1973-03-20'
+date: '1973-03-14'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -20,13 +20,13 @@ tags:
 - presiden-soeharto
 - soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-03-20-presiden-soeharto-sahkan-uu-no-3-tahun-1973-tentang-apbn1/
   judul: 1973-03-14 Presiden Soeharto Bantu ‘Lumbung Paceklik’
-  tanggal: '1973-03-20'
+  tanggal: '1973-03-14'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

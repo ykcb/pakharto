@@ -1,10 +1,9 @@
 ---
-title: 1973-18-22 Presiden Soeharto Hadiri Panen Madu dan Pembukaan Kursus Peternakan
-  Lebah
+title: '1973-08-22 Presiden Soeharto Hadiri Panen Madu dan Pembukaan Kursus Peternakan Lebah'
 description: 22 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1973-18-22-presiden-soeharto-hadiri-panen-madu-dan-pembukaan-kursus-peternakan-lebah/respond)
   113 Views Share on
-date: '1973-18-22'
+date: '1973-08-22'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -25,14 +24,14 @@ tags:
 - presiden-soeharto
 - ragunan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-18-22-presiden-soeharto-hadiri-panen-madu-dan-pembukaan-kursus-peternakan-lebah/
   judul: 1973-18-22 Presiden Soeharto Hadiri Panen Madu dan Pembukaan Kursus Peternakan
     Lebah
-  tanggal: '1973-18-22'
+  tanggal: '1973-08-22'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -40,7 +39,7 @@ relasi:
 ---
 
 
-# 1973-18-22 Presiden Soeharto Hadiri Panen Madu dan Pembukaan Kursus Peternakan Lebah
+# 1973-08-22 Presiden Soeharto Hadiri Panen Madu dan Pembukaan Kursus Peternakan Lebah
 
 22 Agustus 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1973-18-22-presiden-soeharto-hadiri-panen-madu-dan-pembukaan-kursus-peternakan-lebah/#respond)  113 Views Share on
 

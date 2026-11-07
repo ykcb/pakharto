@@ -20,8 +20,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-09-18-sidang-dewan-stabilisasi-ekonomi-ubah-batas-minimum-pajak-kekayaan/
@@ -31,6 +31,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1973-09-18-sidang-dewan-stabilisasi-ekonomi-ubah-batas-minimum-pajak-kekayaan/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1973-09-18-sidang-dewan-stabilisasi-ekonomi-ubah-batas-minimum-pajak-kekayaan/
+
 ---
 
 

@@ -3,7 +3,7 @@ title: 1973-03-23 Presiden Soeharto Diambil Sumpah
 description: JUM’AT, 23 Maret 1973, Jenderal Soeharto diambil sumpah dan dilantik
   sebagai Presiden RI di depan Sidang Umum MPR tahun 1973. Pelantikan Wakil Presiden,
   Sri Sultan Hamengku Buwono IX akan berlangsung besok. (AFR)
-date: '1973-03-20'
+date: '1973-03-23'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -20,13 +20,13 @@ tags:
 - soeharto
 - sumpah-presiden
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-03-20-presiden-soeharto-diambil-sumpah/
   judul: 1973-03-23 Presiden Soeharto Diambil Sumpah
-  tanggal: '1973-03-20'
+  tanggal: '1973-03-23'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

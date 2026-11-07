@@ -25,8 +25,8 @@ tags:
 - rusiah-sardjono-sh
 - soehardi
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-10-09-presiden-soeharto-beri-hadiah-perintis-kemerdekaan/

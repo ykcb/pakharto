@@ -1,9 +1,9 @@
 ---
-title: 1973-8-18 Presiden Soeharto Bersama Siswa dan Guru Teladan
+title: '1973-08-18 Presiden Soeharto Bersama Siswa dan Guru Teladan'
 description: Presiden Soeharto selalu meluangkan waktu untuk berdialog dengan masyarakat
   dari berbagai golongan, tingkatan usia, profesi, maupun pendidikan di sela-sela
   acara formal. Presiden Soeharto dikenal amat lihai menyesuaikan diri dengan alam...
-date: '2013-07-28'
+date: '1973-08-18'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -20,13 +20,13 @@ tags:
 - siswa
 - teladan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-8-18-presiden-soeharto-siswa-dan-guru-teladan/
   judul: 1973-8-18 Presiden Soeharto Bersama Siswa dan Guru Teladan
-  tanggal: '2013-07-28'
+  tanggal: '1973-08-18'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -34,7 +34,7 @@ relasi:
 ---
 
 
-# 1973-8-18 Presiden Soeharto Bersama Siswa dan Guru Teladan
+# 1973-08-18 Presiden Soeharto Bersama Siswa dan Guru Teladan
 
 # Presiden Soeharto Bersama Siswa dan Guru Teladan
 
