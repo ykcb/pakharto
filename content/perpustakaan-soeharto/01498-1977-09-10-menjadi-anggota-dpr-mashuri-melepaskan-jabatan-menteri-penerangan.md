@@ -27,8 +27,8 @@ tags:
 - presiden-soeharto
 - subang
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-09-10-menjadi-anggota-dpr-mashuri-melepaskan-jabatan-menteri-penerangan/

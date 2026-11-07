@@ -1,9 +1,9 @@
 ---
-title: 1977-04-14 Presiden Soeharto “Bapak Petani” Timor-Timur
+title: '1977-04-13 Presiden Soeharto “Bapak Petani” Timor-Timur'
 description: RABU, 13 April 1977, Kepala Dinas Pertanian Timor Timur bersama rombongan
   petani daerah tersebut telah diterima Presiden Soeharto di Bina Graha hari ini.
   Setelah berjumpa dengan Presiden Soeharto, Kepala Dinas Pertanian Timor Timur,...
-date: '1977-04-14'
+date: '1977-04-13'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -20,13 +20,13 @@ tags:
 - timor-timur
 - vernao-verdial
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-04-14-presiden-soeharto-bapak-petani-timor-timur/
   judul: 1977-04-14 Presiden Soeharto “Bapak Petani” Timor-Timur
-  tanggal: '1977-04-14'
+  tanggal: '1977-04-13'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -34,7 +34,7 @@ relasi:
 ---
 
 
-# 1977-04-14 Presiden Soeharto “Bapak Petani” Timor-Timur
+# 1977-04-13 Presiden Soeharto “Bapak Petani” Timor-Timur
 
 # Presiden Soeharto “Bapak Petani” Timor-Timur1
 

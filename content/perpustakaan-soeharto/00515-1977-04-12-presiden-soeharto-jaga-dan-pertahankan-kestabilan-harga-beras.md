@@ -24,8 +24,8 @@ tags:
 - stabilisasi
 - tenaga-kerja
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-04-12-presiden-soeharto-jaga-dan-pertahankan-kestabilan-harga-beras/
@@ -35,6 +35,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1977-04-12-presiden-soeharto-jaga-dan-pertahankan-kestabilan-harga-beras/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1977-04-12-presiden-soeharto-jaga-dan-pertahankan-kestabilan-harga-beras/
+
 ---
 
 

@@ -913,7 +913,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 
 
 ## 1977 — 31 kliping
-
 - [[perpustakaan-soeharto/00507-1977-04-01-presiden-soeharto-instruksikan-taat-aturan-dalam-pembangunan-pasar|Presiden Soeharto Instruksikan Taat Aturan Dalam Pembangunan Pasar]]
 - [[perpustakaan-soeharto/00508-1977-04-04-presiden-soeharto-resmikan-pabrik-sawit-di-medan-dan-pelabuhan-krueng-raya|Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan Krueng]]
 - [[perpustakaan-soeharto/00509-1977-04-05-presiden-soeharto-kunjungi-penang|Presiden Soeharto Kunjungi Penang]]
@@ -945,6 +944,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01533-1977-09-27-presiden-soeharto-drop-1-326-sapi-bibit-ke-sumbawa|Presiden Soeharto Drop 1.326 Sapi Bibit Ke Sumbawa]]
 - [[perpustakaan-soeharto/01534-1977-09-28-presiden-soeharto-ikuti-perkembangan-tks-butsi-di-daerah|Presiden Soeharto Ikuti Perkembangan TKS BUTSI di Daerah]]
 - [[perpustakaan-soeharto/01535-1977-09-30-presiden-soeharto-instruksikan-prioritas-penanggulangan-kekurangan-pangan-di-karawang|Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan]]
+
 
 ## 1978 — 17 kliping
 
