@@ -3,7 +3,7 @@ title: 1975-08-30 Presiden Soeharto Bahas Perkembangan Timor Portugis
 description: 28 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1975-08-26-presiden-soeharto-bahas-perkembangan-timor-portugis/respond)
   104 Views Share on
-date: '1975-08-26'
+date: '1975-08-30'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -26,13 +26,13 @@ tags:
 - presiden-soeharto
 - timor-portugis
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-08-26-presiden-soeharto-bahas-perkembangan-timor-portugis/
   judul: 1975-08-30 Presiden Soeharto Bahas Perkembangan Timor Portugis
-  tanggal: '1975-08-26'
+  tanggal: '1975-08-30'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

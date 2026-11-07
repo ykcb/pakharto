@@ -1,9 +1,9 @@
 ---
-title: 1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri
+title: '1976-08-05 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri'
 description: 29 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1975-08-05-pemerintah-transmigrasikan-12-000-kk-penduduk-wonogiri/respond)
   91 Views Share on
-date: '1975-08-05'
+date: '1976-08-05'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -31,13 +31,13 @@ tags:
 - sutidjab-sukadis
 - wonogiri
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-08-05-pemerintah-transmigrasikan-12-000-kk-penduduk-wonogiri/
   judul: 1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri
-  tanggal: '1975-08-05'
+  tanggal: '1976-08-05'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -45,7 +45,7 @@ relasi:
 ---
 
 
-# 1976-08-06 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri
+# 1976-08-05 Pemerintah Transmigrasikan 12.000 KK Penduduk Wonogiri
 
 29 Agustus 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1975-08-05-pemerintah-transmigrasikan-12-000-kk-penduduk-wonogiri/#respond)  91 Views Share on
 

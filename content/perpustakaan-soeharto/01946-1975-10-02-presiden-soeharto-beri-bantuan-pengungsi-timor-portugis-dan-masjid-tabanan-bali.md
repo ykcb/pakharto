@@ -20,8 +20,8 @@ tags:
 - presiden-soeharto
 - timor-portugis
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-10-02-presiden-soeharto-beri-bantuan-pengungsi-timor-portugis-dan-masjid-tabanan-bali/

@@ -242,7 +242,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00455-presiden-soeharto-sholat-ied-di-istana-negara|Presiden Soeharto Sholat Ied di Istana Negara (1969)]]
 
 
-## 1970 — 134 kliping
+## 1970 — 135 kliping
 - [[perpustakaan-soeharto/00036-1970-01-01-presiden-soeharto-selenggarakan-resepsi-sambut-tahun-baru-1970|Presiden Soeharto Selenggarakan Resepsi Sambut Tahun Baru 1970]]
 - [[perpustakaan-soeharto/00037-1970-01-04-presiden-soeharto-lancarkan-program-pengumpulan-dana-untuk-irian-barat|Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian]]
 - [[perpustakaan-soeharto/00038-1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr|Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan]]
@@ -309,6 +309,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00556-1970-05-17-presiden-soeharto-menerima-para-menteri-luar-negeri|Presiden Soeharto Menerima Para Menteri Luar Negeri]]
 - [[perpustakaan-soeharto/00557-1970-05-18-presiden-soeharto-islam-agama-kemajuan-jangan-perlebar-perbedaan|Presiden Soeharto: Islam Agama Kemajuan, Jangan Perlebar Perbedaan]]
 - [[perpustakaan-soeharto/00558-1970-05-21-presiden-soeharto-budaya-asing-timbulkan-dekadensi-moral|Presiden Soeharto: Budaya Asing Timbulkan Dekadensi Moral]]
+- [[perpustakaan-soeharto/00559-1975-05-22-presiden-soeharto-tidak-ada-negara-mampu-penuhi-semua-kebutuhannya-sendiri|Presiden Soeharto: Tidak Ada Negara Mampu Penuhi Semua Kebutuhannya Sendiri]]
 - [[perpustakaan-soeharto/00560-1970-05-23-presiden-soeharto-keluarkan-sk-peserta-pemilu|Presiden Soeharto Keluarkan SK Peserta Pemilu]]
 - [[perpustakaan-soeharto/00561-1970-05-24-presiden-soeharto-dan-ibu-tien-menuju-as|Presiden Soeharto dan Ibu Tien Menuju AS]]
 - [[perpustakaan-soeharto/00562-1970-05-26-presiden-soeharto-asia-tenggara-tidak-perlu-persekutuan-militer|Presiden Soeharto: Asia Tenggara Tidak Perlu Persekutuan Militer]]
@@ -743,9 +744,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01916-1974-10-31-presiden-soeharto-menerima-utusan-khusus-aljazair-dan-parlemen-soviet|Presiden Soeharto menerima Utusan Khusus Aljazair dan Parlemen Soviet]]
 
 
-## 1975 — 88 kliping
-
-- [[perpustakaan-soeharto/00248-1975-02-15-presiden-soeharto-tertibkan-perilaku-buruk-aparatur-negara|Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara]]
+## 1975 — 87 kliping
 - [[perpustakaan-soeharto/00240-1975-03-01-presiden-soeharto-menerima-menlu-korea-selatan|Presiden Soeharto Menerima Menlu Korea Selatan]]
 - [[perpustakaan-soeharto/00241-1975-03-03-presiden-soeharto-menerima-delegasi-parlemen-perancis|Presiden Soeharto Menerima Delegasi Parlemen Perancis]]
 - [[perpustakaan-soeharto/00242-1975-03-04-presiden-soeharto-berikan-beasiswa-mahasiswa-unpati|Presiden Soeharto Berikan Beasiswa Mahasiswa Unpati]]
@@ -753,6 +752,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00245-1975-03-08-presiden-soeharto-demokrasi-harus-mengenal-disiplin-dan-tanggungjawab|Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab]]
 - [[perpustakaan-soeharto/00246-1975-03-11-presiden-soeharto-membuka-sidang-hkti-dan-menerima-menhan-filipina|Presiden Soeharto Membuka Sidang HKTI dan Menerima Menhan Filipina]]
 - [[perpustakaan-soeharto/00247-1975-03-12-presiden-soeharto-mencoba-sepeda-produk-dalam-negeri|Presiden Soeharto Mencoba Sepeda Produk Dalam Negeri]]
+- [[perpustakaan-soeharto/00248-1975-02-15-presiden-soeharto-tertibkan-perilaku-buruk-aparatur-negara|Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara]]
 - [[perpustakaan-soeharto/00249-1975-03-18-presiden-soeharto-menerima-daud-beureueh|Presiden Soeharto Menerima Daud Beureueh]]
 - [[perpustakaan-soeharto/00250-1975-03-19-presiden-soeharto-kunjungi-tanjung-priok|Presiden Soeharto Kunjungi Tanjung Priok]]
 - [[perpustakaan-soeharto/00251-1975-03-20-presiden-soeharto-menonton-film-dokumenter-bersama-wartawan|Presiden Soeharto Menonton Film Dokumenter Bersama Wartawan]]
@@ -779,7 +779,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00412-1975-04-24-presiden-soeharto-perkuat-solidaritas-asia-afrika|Presiden Soeharto: Perkuat Solidaritas Asia Afrika]]
 - [[perpustakaan-soeharto/00413-1975-04-28-presiden-soeharto-menerima-tokoh-oposisi-australia|Presiden Soeharto Menerima Tokoh Oposisi Australia]]
 - [[perpustakaan-soeharto/00414-1975-04-30-menerima-menteri-perdagangan-internasional-dan-industri-jepang|Menerima Menteri Perdagangan Internasional dan Industri Jepang]]
-- [[perpustakaan-soeharto/00559-1975-05-22-presiden-soeharto-tidak-ada-negara-mampu-penuhi-semua-kebutuhannya-sendiri|Presiden Soeharto: Tidak Ada Negara Mampu Penuhi Semua Kebutuhannya Sendiri]]
 - [[perpustakaan-soeharto/00847-1975-07-01-presiden-soeharto-indonesia-yugoslavia-ingin-menjadi-tuan-di-negerinya-sendiri|Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya Sendiri]]
 - [[perpustakaan-soeharto/00849-1975-07-02-indonesia-yugoslavia-perlu-tata-ekonomi-internasional-yang-adil|Indonesia-Yugoslavia: Perlu Tata Ekonomi Internasional Yang Adil]]
 - [[perpustakaan-soeharto/00850-1975-07-03-presiden-soeharto-tiba-di-ottawa|Presiden Soeharto Tiba di Ottawa]]
@@ -818,6 +817,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01432-1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa|Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa]]
 - [[perpustakaan-soeharto/01446-1975-09-15-presiden-soeharto-menerima-petisi-penggabungan-timor-portugis|Presiden Soeharto Menerima Petisi Penggabungan Timor Portugis]]
 - [[perpustakaan-soeharto/01447-1975-09-16-presiden-soeharto-tidak-menolak-penggabungan-timor-portugis-asal-sedia-tunduk-konstitusi-indonesia|Presiden Soeharto: Tidak Menolak Penggabungan Timor Portugis Asal Sedia Tunduk Konstitusi Indonesia]]
+- [[perpustakaan-soeharto/01448-1975-19-17-presiden-soeharto-minta-mui-ambil-inisiatif-musyawarah-antar-agama|Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama]]
 - [[perpustakaan-soeharto/01449-1975-09-18-presiden-soeharto-menerima-pengurus-lembaga-alkitab|Presiden Soeharto Menerima Pengurus Lembaga Alkitab]]
 - [[perpustakaan-soeharto/01450-1975-09-23-presiden-soeharto-instruksikan-penelitian-lembaga-lembaga-sosial|Presiden Soeharto Instruksikan Penelitian Lembaga-Lembaga Sosial]]
 - [[perpustakaan-soeharto/01451-1975-09-26-fretilin-tembak-pasukan-abri-di-perbatasan-presiden-soeharto-instruksikan-tingkatkan-kewaspadaan|Fretilin Tembak Pasukan ABRI di Perbatasan, Presiden Soeharto Instruksikan]]
@@ -832,14 +832,10 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01971-1975-10-28-presiden-soeharto-menerima-cooperative-league-usa|Presiden Soeharto Menerima Cooperative League of USA]]
 - [[perpustakaan-soeharto/01972-1975-10-29-presiden-soeharto-menerima-surat-kepercayaan-duta-besar-chili|Presiden Soeharto Menerima Surat Kepercayaan Duta Besar Chili]]
 - [[perpustakaan-soeharto/01973-1975-10-30-presiden-soeharto-menerima-peserta-international-rubber-study-group|Presiden Soeharto Menerima Peserta International Rubber Study Group]]
-- [[perpustakaan-soeharto/01448-1975-19-17-presiden-soeharto-minta-mui-ambil-inisiatif-musyawarah-antar-agama|Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama]]
+
 
 ## 1976 — 75 kliping
-
-- [[perpustakaan-soeharto/00257-1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina|Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut]]
-- [[perpustakaan-soeharto/00258-1976-03-4-presiden-soeharto-menerima-sekjen-wanhankamnas|Presiden Soeharto Menerima Sekjen Wanhankamnas]]
 - [[perpustakaan-soeharto/00259-1976-03-06-presiden-soeharto-benahi-pertamina|Presiden Soeharto Benahi Pertamina]]
-- [[perpustakaan-soeharto/00260-1976-03-8-presiden-soeharto-bahas-pembentukan-badan-konsultasi-antar-agama|Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama]]
 - [[perpustakaan-soeharto/00261-1976-03-11-presiden-soeharto-resmikan-uns-solo|Presiden Soeharto Resmikan UNS Solo]]
 - [[perpustakaan-soeharto/00281-1976-03-12-presiden-soeharto-kerjasama-antar-ummat-beragama-bukan-sesuatu-yang-mustahil|Presiden Soeharto: Kerjasama Antar Ummat Beragama Bukan Sesuatu Yang Mustahil]]
 - [[perpustakaan-soeharto/00262-1976-03-15-presiden-soeharto-bahas-sidang-opec-dan-hasil-ktt-asean|Presiden Soeharto Bahas Sidang OPEC dan Hasil KTT Asean]]
@@ -850,7 +846,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00267-1976-03-27-presiden-soeharto-lantik-enam-duta-besar-baru|Presiden Soeharto Lantik Enam Duta Besar Baru]]
 - [[perpustakaan-soeharto/00268-1976-03-30-presiden-soeharto-membayar-pajak-merupakan-realisasi-falsafah-pancasila|Presiden Soeharto: Membayar Pajak Merupakan Realisasi Falsafah Pancasila]]
 - [[perpustakaan-soeharto/00269-1976-03-31-presiden-soeharto-benahi-ekspor-impor-dan-lalu-lintas-devisa|Presiden Soeharto Benahi Ekspor Impor dan Lalu Lintas Devisa]]
-- [[perpustakaan-soeharto/00421-1976-4-6-presiden-soeharto-larang-penggunaan-apbn-untuk-pesta|Presiden Soeharto Larang Penggunaan APBN Untuk Pesta]]
 - [[perpustakaan-soeharto/00422-1976-04-08-presiden-soeharto-menerima-menlu-mongolia|Presiden Soeharto Menerima Menlu Mongolia]]
 - [[perpustakaan-soeharto/00423-1976-04-12-presiden-soeharto-parpol-harus-manunggal-dengan-suka-duka-rakyat|Presiden Soeharto: Parpol Harus Manunggal Dengan Suka Duka Rakyat]]
 - [[perpustakaan-soeharto/00424-1976-04-14-perundingan-pemerintah-dengan-caltex-dan-stanvac|Perundingan Pemerintah Dengan Caltex dan Stanvac]]
@@ -911,6 +906,11 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01985-1976-10-19-presiden-soeharto-menerima-direktur-imf|Presiden Soeharto Menerima Direktur IMF]]
 - [[perpustakaan-soeharto/01986-1976-10-26-alami-paceklik-presiden-soeharto-perintahkan-padat-karya|Alami Paceklik, Presiden Soeharto Perintahkan Padat Karya]]
 - [[perpustakaan-soeharto/01987-1976-10-30-presiden-soeharto-menerima-peserta-munas-kadin|Presiden Soeharto Menerima Peserta Munas Kadin]]
+
+- [[perpustakaan-soeharto/00257-1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina|Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut]]
+- [[perpustakaan-soeharto/00258-1976-03-4-presiden-soeharto-menerima-sekjen-wanhankamnas|Presiden Soeharto Menerima Sekjen Wanhankamnas]]
+- [[perpustakaan-soeharto/00260-1976-03-8-presiden-soeharto-bahas-pembentukan-badan-konsultasi-antar-agama|Presiden Soeharto Bahas Pembentukan Badan Konsultasi Antar Agama]]
+- [[perpustakaan-soeharto/00421-1976-4-6-presiden-soeharto-larang-penggunaan-apbn-untuk-pesta|Presiden Soeharto Larang Penggunaan APBN Untuk Pesta]]
 
 ## 1977 — 31 kliping
 

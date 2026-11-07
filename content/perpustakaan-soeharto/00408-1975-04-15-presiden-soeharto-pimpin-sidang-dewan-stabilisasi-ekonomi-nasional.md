@@ -25,8 +25,8 @@ tags:
 - t-ariwibowo
 - tonasa
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional/
@@ -36,6 +36,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional/
+
 ---
 
 

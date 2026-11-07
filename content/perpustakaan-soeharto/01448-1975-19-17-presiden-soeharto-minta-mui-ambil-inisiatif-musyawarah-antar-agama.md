@@ -1,9 +1,9 @@
 ---
-title: 1975-19-17 Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama
+title: '1975-09-17 Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama'
 description: 18 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1975-19-17-presiden-soeharto-minta-mui-ambil-inisiatif-musyawarah-antar-agama/respond)
   129 Views Share on
-date: '1975-19-17'
+date: '1975-09-17'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -22,13 +22,13 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-19-17-presiden-soeharto-minta-mui-ambil-inisiatif-musyawarah-antar-agama/
   judul: 1975-19-17 Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama
-  tanggal: '1975-19-17'
+  tanggal: '1975-09-17'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -36,7 +36,7 @@ relasi:
 ---
 
 
-# 1975-19-17 Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama
+# 1975-09-17 Presiden Soeharto Minta MUI Ambil Inisiatif Musyawarah Antar Agama
 
 18 September 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1975-19-17-presiden-soeharto-minta-mui-ambil-inisiatif-musyawarah-antar-agama/#respond)  129 Views Share on
 

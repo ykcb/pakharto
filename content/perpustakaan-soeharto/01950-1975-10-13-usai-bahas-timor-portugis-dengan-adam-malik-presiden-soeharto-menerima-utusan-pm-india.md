@@ -27,8 +27,8 @@ tags:
 - raj-bahadur
 - timor-portugis
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-10-13-usai-bahas-timor-portugis-dengan-adam-malik-presiden-soeharto-menerima-utusan-pm-india/

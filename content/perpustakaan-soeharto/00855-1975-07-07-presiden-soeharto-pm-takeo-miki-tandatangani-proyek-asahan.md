@@ -26,8 +26,8 @@ tags:
 - takeo-miki
 - widjoyo-nitisastro
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-07-07-presiden-soeharto-pm-takeo-miki-tandatangani-proyek-asahan/
@@ -37,6 +37,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1975-07-07-presiden-soeharto-pm-takeo-miki-tandatangani-proyek-asahan/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1975-07-07-presiden-soeharto-pm-takeo-miki-tandatangani-proyek-asahan/
+
 ---
 
 

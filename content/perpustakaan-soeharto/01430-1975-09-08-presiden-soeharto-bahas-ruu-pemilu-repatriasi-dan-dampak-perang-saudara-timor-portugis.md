@@ -29,8 +29,8 @@ tags:
 - ruu-pemilu
 - timor-portugis
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis/

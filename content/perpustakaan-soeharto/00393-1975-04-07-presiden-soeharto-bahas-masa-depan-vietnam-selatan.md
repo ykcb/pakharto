@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - vietnam-selatan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-07-presiden-soeharto-bahas-masa-depan-vietnam-selatan/

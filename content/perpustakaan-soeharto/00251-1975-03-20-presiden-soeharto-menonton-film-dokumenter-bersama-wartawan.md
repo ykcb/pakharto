@@ -19,8 +19,8 @@ tags:
 - presiden-soeharto
 - wartawan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-03-20-presiden-soeharto-menonton-film-dokumenter-bersama-wartawan/

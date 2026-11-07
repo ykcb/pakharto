@@ -4,7 +4,7 @@ title: 1976-08-07 Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabri
 description: 29 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik/respond)
   119 Views Share on
-date: '1975-08-07'
+date: '1976-08-07'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -24,14 +24,14 @@ tags:
 - resmikan-pabrik
 - salatiga
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik/
   judul: 1976-08-07 Presiden Soeharto Resmikan 13 Pabrik di Salatiga dan Dua Pabrik
     di Gresik
-  tanggal: '1975-08-07'
+  tanggal: '1976-08-07'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

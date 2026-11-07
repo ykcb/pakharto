@@ -25,8 +25,8 @@ tags:
 - timur-portugis
 - townsville
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-03-presiden-soeharto-bahas-dekolonisasi-timur-portugis-dengan-australia/
