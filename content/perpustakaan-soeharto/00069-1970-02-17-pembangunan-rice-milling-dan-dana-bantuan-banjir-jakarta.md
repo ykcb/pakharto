@@ -21,8 +21,8 @@ tags:
 - schilpper
 - schule
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-02-17-pembangunan-rice-milling-dan-dana-bantuan-banjir-jakarta/
@@ -32,6 +32,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1970-02-17-pembangunan-rice-milling-dan-dana-bantuan-banjir-jakarta/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1970-02-17-pembangunan-rice-milling-dan-dana-bantuan-banjir-jakarta/
+
 ---
 
 

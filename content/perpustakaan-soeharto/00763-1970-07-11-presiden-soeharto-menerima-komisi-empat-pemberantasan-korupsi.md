@@ -1,5 +1,5 @@
 ---
-title: 1970-07-11 Presiden Soeharto Menerima Komisi Empat (Pemberantasan  Korupsi)
+title: '1970-07-11 Presiden Soeharto Menerima Komisi Empat (Pemberantasan Korupsi)'
 description: SABTU, 11 Juli 1970. Bertempat di Bina Graha mulai jam 10.00 pagi ini
   selama dua jam Presiden Soeharto menerima Komisi Empat. Dalam pertemuan ini, Presiden
   telah mengucapkan terima kasih dan penghargaannya kepada Komisi Empat atas...
@@ -20,8 +20,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-11-presiden-soeharto-menerima-komisi-empat-pemberantasan-korupsi/

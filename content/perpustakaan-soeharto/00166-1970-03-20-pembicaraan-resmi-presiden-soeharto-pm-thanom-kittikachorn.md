@@ -21,8 +21,8 @@ tags:
 - pm-thanom-kittikachorn
 - tenggara
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-20-pembicaraan-resmi-presiden-soeharto-pm-thanom-kittikachorn/

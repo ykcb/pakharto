@@ -17,8 +17,8 @@ tags:
 - presiden-soeharto
 - thomas-cup
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-04-30-presiden-soeharto-perhatikan-persiapa-tim-thomas-cup/

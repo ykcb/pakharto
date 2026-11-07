@@ -22,8 +22,8 @@ tags:
 - team
 - thomas-cup
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-06-15-presiden-soeharto-menerima-team-tomas-cup-dan-membuka-festival-film-asia/

@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - teknologi
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-04-presiden-soeharto-pengembangan-teknologi-sesuai-kebutuhan-prioritas/

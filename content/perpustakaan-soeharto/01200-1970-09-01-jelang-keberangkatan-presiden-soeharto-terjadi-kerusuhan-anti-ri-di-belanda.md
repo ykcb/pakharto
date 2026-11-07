@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - wassenar
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-09-01-jelang-keberangkatan-presiden-soeharto-terjadi-kerusuhan-anti-ri-di-belanda/

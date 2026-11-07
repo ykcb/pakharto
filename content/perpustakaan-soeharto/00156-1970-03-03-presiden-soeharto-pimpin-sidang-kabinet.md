@@ -23,8 +23,8 @@ tags:
 - presiden
 - soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-03-presiden-soeharto-pimpin-sidang-kabinet/

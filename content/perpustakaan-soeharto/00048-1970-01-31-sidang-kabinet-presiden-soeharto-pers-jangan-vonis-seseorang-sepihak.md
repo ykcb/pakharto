@@ -28,8 +28,8 @@ tags:
 - repelita
 - tinggal-landas-2
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-31-sidang-kabinet-presiden-soeharto-pers-jangan-vonis-seseorang-sepihak/
@@ -40,6 +40,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-31-sidang-kabinet-presiden-soeharto-pers-jangan-vonis-seseorang-sepihak/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1970-01-31-sidang-kabinet-presiden-soeharto-pers-jangan-vonis-seseorang-sepihak/
+
 ---
 
 

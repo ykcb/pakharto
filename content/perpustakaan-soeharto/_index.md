@@ -242,8 +242,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00455-presiden-soeharto-sholat-ied-di-istana-negara|Presiden Soeharto Sholat Ied di Istana Negara (1969)]]
 
 
-## 1970 — 135 kliping
-
+## 1970 — 134 kliping
 - [[perpustakaan-soeharto/00036-1970-01-01-presiden-soeharto-selenggarakan-resepsi-sambut-tahun-baru-1970|Presiden Soeharto Selenggarakan Resepsi Sambut Tahun Baru 1970]]
 - [[perpustakaan-soeharto/00037-1970-01-04-presiden-soeharto-lancarkan-program-pengumpulan-dana-untuk-irian-barat|Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian]]
 - [[perpustakaan-soeharto/00038-1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr|Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan]]
@@ -332,7 +331,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00760-1970-07-01-presiden-soeharto-membentuk-sektor-penanaman-modal|Presiden Soeharto Membentuk Sektor Penanaman Modal]]
 - [[perpustakaan-soeharto/00761-1970-07-04-presiden-soeharto-pengembangan-teknologi-sesuai-kebutuhan-prioritas|Presiden Soeharto: Pengembangan Teknologi Sesuai Kebutuhan Prioritas]]
 - [[perpustakaan-soeharto/00762-1970-07-05-presiden-soeharto-meninjau-proyek-prototype-perumahan-di-bandung|Presiden Soeharto Meninjau Proyek Prototype Perumahan di Bandung]]
-- [[perpustakaan-soeharto/00806-1970-07-07-presiden-soeharto-menetapkan-daftar-ulang-pns|Presiden Soeharto Menetapkan Daftar Ulang PNS]]
 - [[perpustakaan-soeharto/00763-1970-07-11-presiden-soeharto-menerima-komisi-empat-pemberantasan-korupsi|Presiden Soeharto Menerima Komisi Empat (Pemberantasan  Korupsi)]]
 - [[perpustakaan-soeharto/00764-1970-07-14-presiden-soeharto-menerima-delegasi-mahasiwa-jakarta-dan-bandung|Presiden Soeharto Menerima Delegasi Mahasiwa Jakarta dan Bandung]]
 - [[perpustakaan-soeharto/00765-1970-07-15-presiden-soeharto-instruksikan-penyusunan-peraturan-pendaftaran-kekayaan-pejabat|Presiden Soeharto Instruksikan Penyusunan Peraturan Pendaftaran]]
@@ -379,6 +377,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01801-1970-10-26-resmikan-pabrik-tekstil-di-bandung-presiden-soeharto-ajak-gunakan-produksi-dalam-negeri|Resmikan Pabrik Tekstil di Bandung, Presiden Soeharto Ajak Gunakan]]
 - [[perpustakaan-soeharto/01803-1970-10-28-presiden-soeharto-meninjau-proyek-persawahan-pasang-surut-riam-kanan-dan-tambau|Presiden Soeharto Meninjau Proyek Persawahan Pasang Surut Riam Kanan]]
 - [[perpustakaan-soeharto/01804-1970-10-29-presiden-soeharto-sorotan-kepada-abri-merupakan-risiko-perjuangan-dan-cambuk-instrospeksi|Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan Dan Cambuk Instrospeksi]]
+
 
 ## 1971 — 106 kliping
 
@@ -576,8 +575,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01861-1972-10-25-presiden-soeharto-partai-islam-seyogyanya-tidak-menggunakan-nama-idiologi|Presiden Soeharto: Partai Islam Seyogyanya Tidak Menggunakan Nama Idiologi]]
 - [[perpustakaan-soeharto/01862-1972-10-30-presiden-soeharto-menerima-direktur-aid|Presiden Soeharto Menerima Direktur AID]]
 
-## 1973 — 78 kliping
-
+## 1973 — 80 kliping
 - [[perpustakaan-soeharto/00204-1973-03-03-presiden-soeharto-resmikan-tembaga-pura|Presiden Soeharto Resmikan Tembaga Pura]]
 - [[perpustakaan-soeharto/00205-1973-03-04-presiden-soeharto-resmikan-pengairan-kelara-jeneponto|Presiden Soeharto Resmikan Pengairan Kelara Jeneponto]]
 - [[perpustakaan-soeharto/00206-1973-03-08-presiden-soeharto-bahas-langkah-pengamanan-perdagangan-luar-negeri|Presiden Soeharto Bahas Langkah Pengamanan Perdagangan Luar Negeri]]
@@ -588,7 +586,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00210-1973-03-20-presiden-soeharto-diambil-sumpah|Presiden Soeharto Diambil Sumpah]]
 - [[perpustakaan-soeharto/00363-1973-04-03-presiden-soeharto-libatkan-universitas-dorong-industri-penerbitan|Presiden Soeharto Libatkan Universitas Dorong Industri Penerbitan]]
 - [[perpustakaan-soeharto/00364-1973-04-04-presiden-soeharto-tegaskan-dukungan-pada-palestina|Presiden Soeharto Tegaskan Dukungan Pada Palestina]]
-- [[perpustakaan-soeharto/00365-1973-04-7-presiden-soeharto-menerima-kunjungan-55-pengusaha-amerika|Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika]]
 - [[perpustakaan-soeharto/00369-1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja|Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana]]
 - [[perpustakaan-soeharto/00366-1973-04-14-presiden-soeharto-bahas-pembelian-beras-petani|Presiden Soeharto Bahas Pembelian Beras Petani]]
 - [[perpustakaan-soeharto/00367-1973-04-21-presiden-soeharto-bahas-transportasi|Presiden Soeharto Bahas Transportasi]]
@@ -614,6 +611,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00636-1973-05-29-presiden-soeharto-tertibkan-penimbun-dan-spekulan-beras|Presiden Soeharto Tertibkan Penimbun dan Spekulan Beras]]
 - [[perpustakaan-soeharto/00637-1973-05-30-presiden-soeharto-membentuk-bkpm|Presiden Soeharto Membentuk BKPM]]
 - [[perpustakaan-soeharto/00803-1973-07-03-presiden-soeharto-melarang-eskspor-jagung-dan-ubi-ubian|Presiden Soeharto Melarang Eskspor Jagung dan Ubi-Ubian]]
+- [[perpustakaan-soeharto/00806-1970-07-07-presiden-soeharto-menetapkan-daftar-ulang-pns|Presiden Soeharto Menetapkan Daftar Ulang PNS]]
 - [[perpustakaan-soeharto/00807-1973-07-09-presiden-soeharto-menyerahkan-mobil-pemadam-kebakaran-untuk-dki-jakarta|Presiden Soeharto Menyerahkan Mobil Pemadam Kebakaran Untuk DKI]]
 - [[perpustakaan-soeharto/00814-1973-07-09-presiden-soeharto-resmikan-perluasan-semen-padang|Presiden Soeharto Resmikan Perluasan Semen Padang]]
 - [[perpustakaan-soeharto/00808-1973-07-11-presiden-soeharto-anjurkan-penelitian-obat-obatan-asli-indonesia|Presiden Soeharto Anjurkan Penelitian Obat-Obatan Asli Indonesia]]
@@ -630,7 +628,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01038-1973-08-13-presiden-soeharto-kerjasama-yang-baik-bukan-untuk-saling-menutupi-kesalahan|Presiden Soeharto: Kerjasama Yang Baik Bukan Untuk Saling menutupi Kesalahan]]
 - [[perpustakaan-soeharto/01039-1973-08-16-presiden-soeharto-kita-diselimuti-keprihatinan-tapi-juga-terlihat-sinar-sinar-harapan|Presiden Soeharto: Kita Diselimuti Keprihatinan, Tapi Juga Terlihat Sinar-Sinar Harapan]]
 - [[perpustakaan-soeharto/01040-1973-08-17-presiden-dan-ibu-tien-soeharto-hadiri-renungan-suci-dan-detik-detik-proklamasi|Presiden dan Ibu Tien Soeharto Hadiri renungan Suci dan Detik-Detik]]
-- [[perpustakaan-soeharto/00818-1973-8-18-presiden-soeharto-siswa-dan-guru-teladan|Presiden Soeharto Bersama Siswa dan Guru Teladan]]
+- [[perpustakaan-soeharto/01036-1973-08-17-mengenai-mereka-yang-keturunan-cina|Mengenai Mereka yang Keturunan Cina]]
 - [[perpustakaan-soeharto/01041-1973-08-18-presiden-soeharto-pemerintah-dahulukan-perbaikan-nasib-guru|Presiden Soeharto: Pemerintah Dahulukan Perbaikan Nasib Guru]]
 - [[perpustakaan-soeharto/01052-1973-08-23-presiden-soeharto-menerima-lembaga-atom-internasional-iaea|Presiden Soeharto Menerima Lembaga Atom Internasional IAEA]]
 - [[perpustakaan-soeharto/01054-1973-08-26-presiden-soeharto-hadiri-peringatan-isra-miraj-di-masjid-istiqlal|Presiden Soeharto Hadiri Peringatan Isra’ Mi’raj di Masjid Istiqlal]]
@@ -656,6 +654,9 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01898-1973-10-23-penuhi-undangan-pbb-misi-parlemen-jepang-temui-presiden-soeharto|Penuhi Undangan PBB, Misi Parlemen Jepang Temui Presiden Soeharto]]
 - [[perpustakaan-soeharto/01899-1973-10-27-usai-sholat-ied-presiden-soeharto-pemberantasan-kemiskinan-tidak-bisa-musiman|Usai Sholat Ied, Presiden Soeharto: Pemberantasan Kemiskinan Tidak Bisa Musiman]]
 - [[perpustakaan-soeharto/01042-1973-18-22-presiden-soeharto-hadiri-panen-madu-dan-pembukaan-kursus-peternakan-lebah|Presiden Soeharto Hadiri Panen Madu dan Pembukaan Kursus Peternakan]]
+
+- [[perpustakaan-soeharto/00365-1973-04-7-presiden-soeharto-menerima-kunjungan-55-pengusaha-amerika|Presiden Soeharto Menerima Kunjungan 55 Pengusaha Amerika]]
+- [[perpustakaan-soeharto/00818-1973-8-18-presiden-soeharto-siswa-dan-guru-teladan|Presiden Soeharto Bersama Siswa dan Guru Teladan]]
 
 ## 1974 — 82 kliping
 
@@ -990,7 +991,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01528-1997-09-19-presiden-soeharto-resmikan-pengangkatan-anggota-dprmpr|Presiden Soeharto Resmikan Pengangkatan Anggota DPR/MPR]]
 - [[perpustakaan-soeharto/00004-presiden-soeharto-dan-misteri-kemelut-1998|Presiden Soeharto dan Misteri Kemelut 1998]]
 
-## Tanpa tanggal — 177 kliping
+## Tanpa tanggal — 176 kliping
 
 - [[perpustakaan-soeharto/00782-1071-07-20-presiden-soeharto-instruksikan-evaluasi-gaji-khusus-karyawan-depkeu|1071-07-20 Presiden Soeharto Instruksikan Evaluasi Gaji Khusus Karyawan Depkeu]]
 - [[perpustakaan-soeharto/00077-19-02-27-penyederhanaan-partai-politik|19-02-27 Penyederhanaan Partai Politik]]
@@ -1078,7 +1079,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01970-memperjuangkan-pemerataan-hasil-pembangunan|Memperjuangkan Pemerataan Hasil Pembangunan]]
 - [[perpustakaan-soeharto/01062-mengapa-bapak-pak-harto-tidak-boleh-kaya|Mengapa Bapak (Pak Harto) Tidak Boleh Kaya]]
 - [[perpustakaan-soeharto/00109-mengatasi-g-30-s|Mengatasi G 30 S/PKI]]
-- [[perpustakaan-soeharto/01036-1973-08-17-mengenai-mereka-yang-keturunan-cina|Mengenai Mereka yang Keturunan Cina]]
 - [[perpustakaan-soeharto/00415-mengungkap-fakta-g-30-spki|Mengungkap Fakta G 30 S/PKI]]
 - [[perpustakaan-soeharto/01127-menjelmakan-sumpah-gajah-mada|Menjelmakan Sumpah Gajah Mada]]
 - [[perpustakaan-soeharto/01669-merasa-mendapat-panggilan|Merasa Mendapat Panggilan]]

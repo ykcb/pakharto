@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - rekening
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-20-presiden-soeharto-memberi-penjelasan-soal-rekening-jenderal-soeryo/

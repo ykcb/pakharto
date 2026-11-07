@@ -34,8 +34,8 @@ tags:
 - repelita
 - tinggal-landas-2
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-19-rapat-gubernur-presiden-soeharto-demokrasi-kita-harus-tumbuh-di-atas-sistem-kepribadian-bangsa/
@@ -46,6 +46,13 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-19-rapat-gubernur-presiden-soeharto-demokrasi-kita-harus-tumbuh-di-atas-sistem-kepribadian-bangsa/
+- predikat: menyebut
+  objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/1970-01-19-rapat-gubernur-presiden-soeharto-demokrasi-kita-harus-tumbuh-di-atas-sistem-kepribadian-bangsa/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1970-01-19-rapat-gubernur-presiden-soeharto-demokrasi-kita-harus-tumbuh-di-atas-sistem-kepribadian-bangsa/
+
 ---
 
 

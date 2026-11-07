@@ -27,8 +27,8 @@ tags:
 - tun-abdul-razak
 - zambia
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-09-08-sebelum-ktt-non-blok-di-lusaka-presiden-soeharto-menerima-beberapa-pimpinan-negara/
