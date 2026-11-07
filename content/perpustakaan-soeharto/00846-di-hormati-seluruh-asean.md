@@ -1,5 +1,5 @@
 ---
-title: Di Hormati  Seluruh ASEAN
+title: 'Di Hormati Seluruh ASEAN'
 description: I wish to you express my sincere respect as well as my appreciation for
   all you have accomplished during your precidency to strengthen relations between
   Thailand and Indonesia. Your contribution towards the stability and prosperity of...

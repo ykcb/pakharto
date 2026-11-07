@@ -1,6 +1,5 @@
 ---
-title: 1968-08-31    Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh
-  dan Temui Mahasiswa
+title: '1968-08-31 Presiden Soeharto Tinjau Pelabuhan Olele, Proyek Peternakan Sibreh dan Temui Mahasiswa'
 description: SABTU, 31 AGUSTUS 1968, Hari ini adalah hari kedua dan terakhir dari
   kunjungan kerja Presiden Soeharto di Provinsi Aceh. Pada kesempatan ini, Presiden
   Soeharto telah meninjau Pelabuhan Olele, Banda Aceh. Pelabuhan alam ini tampaknya...

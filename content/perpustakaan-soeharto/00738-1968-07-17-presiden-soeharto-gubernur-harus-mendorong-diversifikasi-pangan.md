@@ -1,5 +1,5 @@
 ---
-title: '1968-07-17  Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan'
+title: '1968-07-17 Presiden Soeharto: Gubernur Harus Mendorong Diversifikasi Pangan'
 description: RABU, 17 Juli 1968, Setelah dua hari berada di Lampung, pagi ini Presiden
   Soeharto dan rombongan mengakhiri kunjungannya di daerah ini. Dari Lampung Presiden
   dan Ibu Tiean Soeharto berangkat menuju Palembang dan akan berada di sana...

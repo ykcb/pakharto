@@ -1,5 +1,5 @@
 ---
-title: 1976-08-17  Presiden Soeharto Pimpin Peringatan HUT Kemerdekaan
+title: '1976-08-17 Presiden Soeharto Pimpin Peringatan HUT Kemerdekaan'
 description: 31 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1976-08-17-presiden-soeharto-pimpin-peringatan-hut-kemerdekaan/respond)
   105 Views Share on

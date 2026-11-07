@@ -1,5 +1,5 @@
 ---
-title: Teror  PKI Di Yogyakarta
+title: 'Teror PKI Di Yogyakarta'
 description: Revolusi Bolshevik tahun 1917– 1923 sukses menghancurkan kekaisaran Katolik
   ortodok di Soviet.Komunis Soviet dibantu makar konspirasi global berhasil meluluhlantakkan
   dua pranata sekaligus. Institusi politik kerajaan dibongkar menjadi...
