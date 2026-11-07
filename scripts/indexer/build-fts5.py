@@ -4,6 +4,7 @@ Indexer SQLite FTS5 + Entities + Relations untuk Wiki Soeharto.
 Membangun index pencarian dari content/*.md dan content/**/*.md.
 """
 
+import os
 import sqlite3
 import re
 import hashlib
@@ -11,9 +12,10 @@ from pathlib import Path
 from datetime import datetime, timezone
 import yaml
 
-REPO = Path('/home/ubuntu/quartz')
+REPO = Path(os.environ.get('PAKHARTO_REPO') or '/home/ubuntu/quartz')
 CONTENT = REPO / 'content'
-DB_PATH = REPO / 'scripts/indexer/wiki-fts5.db'
+_DB_ENV = os.environ.get('PAKHARTO_DB', '')
+DB_PATH = Path(_DB_ENV) if _DB_ENV else REPO / 'scripts/indexer/wiki-fts5.db'
 
 SKIP_FILES = {'_index.md', 'index.md'}
 
@@ -39,12 +41,19 @@ def content_hash(text):
 
 
 def build_index(files):
+    # Build atomik (audit 7 Nov 2026): bangun ke DB sementara, verifikasi,
+    # lalu tukar dengan os.replace agar MCP tidak pernah membaca DB
+    # setengah jadi / hilang bila build gagal di tengah jalan.
+    # Journal default (DELETE), bukan WAL, supaya tidak ada file -wal/-shm
+    # yang tertinggal saat swap.
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
-    if DB_PATH.exists():
-        DB_PATH.unlink()
-    conn = sqlite3.connect(str(DB_PATH))
+    tmp_path = DB_PATH.with_name(DB_PATH.stem + '.tmp.db')
+    for suffix in ('', '-wal', '-shm', '-journal'):
+        stale = Path(str(tmp_path) + suffix)
+        if stale.exists():
+            stale.unlink()
+    conn = sqlite3.connect(str(tmp_path))
     c = conn.cursor()
-    c.execute('PRAGMA journal_mode=WAL')
     c.execute('''
         CREATE VIRTUAL TABLE pages USING fts5(
             path UNINDEXED,
@@ -165,6 +174,24 @@ def build_index(files):
     c.execute('INSERT INTO meta VALUES (?,?)', ('file_count', str(count)))
     conn.commit()
     conn.close()
+
+    # Verifikasi DB sementara sebelum swap: tabel wajib ada, jumlah halaman
+    # cocok dengan yang diindeks.
+    verify = sqlite3.connect(str(tmp_path))
+    vc = verify.cursor()
+    tables = {r[0] for r in vc.execute(
+        "SELECT name FROM sqlite_master WHERE type='table'").fetchall()}
+    assert {'pages', 'entities', 'relations', 'meta'} <= tables,         f"Tabel hilang di DB sementara: {tables}"
+    n_pages = vc.execute('SELECT count(*) FROM pages').fetchone()[0]
+    assert n_pages == count and n_pages > 0,         f"Jumlah pages di DB ({n_pages}) != file terindeks ({count})"
+    verify.close()
+
+    # Bersihkan sidecar WAL lama (dari DB era WAL) lalu tukar atomik.
+    for suffix in ('-wal', '-shm', '-journal'):
+        stale = Path(str(DB_PATH) + suffix)
+        if stale.exists():
+            stale.unlink()
+    os.replace(tmp_path, DB_PATH)
     return count, errors
 
 

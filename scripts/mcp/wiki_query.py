@@ -8,21 +8,27 @@ import sqlite3
 import re
 import os
 import yaml
+from datetime import datetime, timezone
 from pathlib import Path
 from collections import deque
 
-REPO_DIR = Path("/home/ubuntu/quartz")
-DB_PATH = REPO_DIR / "scripts/indexer/wiki-fts5.db"
+REPO_DIR = Path(os.environ.get("PAKHARTO_REPO") or "/home/ubuntu/quartz")
+_DB_ENV = os.environ.get("PAKHARTO_DB", "")
+DB_PATH = Path(_DB_ENV) if _DB_ENV else REPO_DIR / "scripts/indexer/wiki-fts5.db"
 CONTENT_DIR = REPO_DIR / "content"
 PROPOSALS_DIR = REPO_DIR / "proposals"
 
+# Taksonomi kanonikal = slug `kategori:` yang dipakai frontmatter konten
+# (disamakan 7 Nov 2026, batch 2 audit; sebelumnya MCP memakai 5 slug lain
+# yang tidak cocok dengan konten sehingga list_categories/search berkategori
+# mengembalikan jumlah nol).
 CANONICAL_CATEGORIES = [
     {"slug": "kekuasaan-dan-legitimasi", "name": "Bagaimana Orde Baru Berkuasa?", "desc": "Transisi kekuasaan, legitimasi, pemilu, militer, dan aturan main politik 1966–1998"},
-    {"slug": "ekonomi-dan-pembangunan", "name": "Siapa Menguasai Ekonomi?", "desc": "Pembangunan, konglomerat, BUMN, utang, dan konsentrasi kepemilikan di era Orde Baru"},
-    {"slug": "keamanan-dan-keadilan", "name": "Siapa Diawasi, Siapa Dibungkam?", "desc": "Keamanan, intelijen, pers, dan penindakan terhadap oposisi dan kritik"},
-    {"slug": "kesejahteraan-dan-kemasyarakatan", "name": "Bagaimana Rakyat Hidup?", "desc": "Desa, buruh, tani, pendidikan, transmigrasi, dan kehidupan sehari-hari di bawah pembangunan Orde Baru"},
-    {"slug": "budaya-dan-ideologi", "name": "Konsep Kunci", "desc": "Penjelas istilah dan konsep yang sering dipakai untuk memahami Orde Baru"},
-    {"slug": "transisi-dan-konstitusi", "name": "Bagaimana Orde Baru Berakhir?", "desc": "Krisis 1997–1998, gerakan reformasi, dan transisi keluar dari Orde Baru"}
+    {"slug": "ekonomi-dan-kepemilikan", "name": "Siapa Menguasai Ekonomi?", "desc": "Pembangunan, konglomerat, BUMN, utang luar negeri, teknokrat, dan konsentrasi kepemilikan modal di era Orde Baru"},
+    {"slug": "keamanan-dan-kebebasan", "name": "Siapa Diawasi, Siapa Dibungkam?", "desc": "Keamanan negara, intelijen, pers, Kopkamtib/Bakin, dan penindakan terhadap kritik serta oposisi politik"},
+    {"slug": "pembangunan-dan-kehidupan", "name": "Bagaimana Rakyat Hidup?", "desc": "Dinamika pedesaan, buruh, tani, pendidikan (SD Inpres), transmigrasi, kesehatan, dan kehidupan sehari-hari di bawah pembangunan"},
+    {"slug": "krisis-dan-reformasi", "name": "Bagaimana Orde Baru Berakhir?", "desc": "Krisis moneter 1997–1998, gerakan mahasiswa dan masyarakat sipil, kejatuhan rezim, dan transisi awal era reformasi"},
+    {"slug": "konsep", "name": "Konsep Kunci", "desc": "Penjelas istilah, doktrin politik, instrumen hukum, dan konsep sentral untuk memahami cara kerja sistem Orde Baru"}
 ]
 
 
@@ -385,7 +391,7 @@ class WikiQuery:
         # yang lolos keluar dari content/.
         if Path(rel_path).is_absolute():
             return {"found": False, "path": rel_path, "error": "Path absolut tidak diizinkan"}
-        candidate = (self.content_dir / rel_path)
+        candidate = (self.repo_dir / rel_path)
         if not candidate.suffix:
             candidate = Path(str(candidate) + ".md")
         candidate = candidate.resolve()
@@ -480,23 +486,32 @@ class WikiQuery:
         self.proposals_dir.mkdir(parents=True, exist_ok=True)
         target_file = self.proposals_dir / f"{clean_slug}.md"
 
-        fm_header = (
-            "---\n"
-            f'title: "{title}"\n'
-            f'status: "draft"\n'
-            f'reason: "{reason}"\n'
-            "---\n\n"
-        )
-        
+        # Anti-timpa (audit 7 Nov 2026): draft dengan slug yang sama tidak
+        # boleh menimpa draft lama diam-diam; simpan sebagai versi bertimestamp.
+        versioned = False
+        if target_file.exists():
+            stamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+            target_file = self.proposals_dir / f"{clean_slug}-{stamp}.md"
+            versioned = True
+
+        # Frontmatter dibangun dengan yaml.safe_dump, bukan interpolasi
+        # string mentah (tanda kutip di title/reason sebelumnya bisa
+        # merusak YAML).
+        fm_header = "---\n" + yaml.safe_dump(
+            {"title": title, "status": "draft", "reason": reason},
+            allow_unicode=True, sort_keys=False,
+        ) + "---\n\n"
+
         full_doc = fm_header + content.strip() + "\n"
 
         try:
             target_file.write_text(full_doc, encoding="utf-8")
             return {
                 "success": True,
-                "slug": clean_slug,
+                "slug": target_file.stem,
                 "file_path": str(target_file.relative_to(self.repo_dir)),
-                "message": f"Draft berhasil disimpan di proposals/{clean_slug}.md untuk review manual user.",
+                "versioned": versioned,
+                "message": f"Draft berhasil disimpan di {target_file.relative_to(self.repo_dir)} untuk review manual user.",
                 "size_bytes": len(full_doc.encode("utf-8"))
             }
         except Exception as e:

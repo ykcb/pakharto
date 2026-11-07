@@ -5,11 +5,12 @@ Sesuai standar llmstxt.org dan Fase 4 Cetak Biru Wiki Orde Baru (§14).
 """
 
 from pathlib import Path
+import os
 import re
 import sys
 import yaml
 
-REPO_DIR = Path("/home/ubuntu/quartz")
+REPO_DIR = Path(os.environ.get("PAKHARTO_REPO") or "/home/ubuntu/quartz")
 CONTENT_DIR = REPO_DIR / "content"
 OUTPUT_DIR = REPO_DIR / "scripts/assets"
 
