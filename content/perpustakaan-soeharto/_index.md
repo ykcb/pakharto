@@ -947,7 +947,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 
 
 ## 1978 — 17 kliping
-
 - [[perpustakaan-soeharto/01576-1978-09-02-presiden-soeharto-saatnya-meningkat-kerjasama-ekonomi-dan-teknik-antar-negara-berkembang|Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik Antar Negara Berkembang]]
 - [[perpustakaan-soeharto/01577-1978-09-04-presiden-soeharto-sholat-ied-dan-open-house-lebaran|Presiden Soeharto Sholat Ied dan Open House Lebaran]]
 - [[perpustakaan-soeharto/01578-1978-09-06-presiden-soeharto-menerima-laporan-sikap-soviet-soal-timor-timur|Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur]]
@@ -965,6 +964,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01597-1978-09-27-presiden-soeharto-larang-anggota-abri-kunjungi-steambath-dan-kasino|Presiden Soeharto Larang Anggota ABRI Kunjungi Steambath Dan Kasino]]
 - [[perpustakaan-soeharto/01598-1978-09-28-presiden-soeharto-lantik-bj-habibie-sebagai-ketua-bppt|Presiden Soeharto Lantik BJ Habibie Sebagai Ketua BPPT]]
 - [[perpustakaan-soeharto/01622-1978-09-30-presiden-soeharto-instruksikan-pengembangan-geothermal|Presiden Soeharto Instruksikan Pengembangan Geothermal]]
+
 
 ## 1979 — 15 kliping
 
