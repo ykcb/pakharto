@@ -3,7 +3,7 @@ title: Menembus Sarajevo Tahun 1995
 description: Presiden Soeharto dikenal sebagai pemimpin tegas dan berani mengambil
   risiko, bukan hanya di dalam negeri akan tetapi juga di luar negeri. Ketika kawasan
   Balkan dilanda konflik, dalam kapasitasnya sebagai Pimpinan Negara Non Blok,...
-date: '2014-03-22'
+date: '1995-03-13'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -15,13 +15,13 @@ tags:
 - perpustakaan-soeharto
 - sarajevo
 risiko_editorial: sedang
-status: needs_review
-verification_status: needs_review
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/menembus-sarajevo-tahun-1995/
   judul: Menembus Sarajevo Tahun 1995
-  tanggal: '2014-03-22'
+  tanggal: '1995-03-13'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

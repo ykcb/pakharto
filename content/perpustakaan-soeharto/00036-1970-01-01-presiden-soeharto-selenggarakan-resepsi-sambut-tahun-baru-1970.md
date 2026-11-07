@@ -21,8 +21,8 @@ tags:
 - resepsi
 - tahun
 risiko_editorial: sedang
-status: needs_review
-verification_status: needs_review
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-01-presiden-soeharto-selenggarakan-resepsi-sambut-tahun-baru-1970/

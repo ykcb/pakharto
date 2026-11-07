@@ -1012,15 +1012,19 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01676-1979-09-27-presiden-soeharto-setujui-cuti-guru-dan-pns-eks-trikora|Presiden Soeharto Setujui Cuti Guru dan PNS Eks Trikora]]
 
 
-## 1981 — 3 kliping
+## 1981 — 4 kliping
 - [[perpustakaan-soeharto/00374-presiden-soeharto-menerima-alumni-itb|Presiden Soeharto Menerima Alumni ITB]]
 - [[perpustakaan-soeharto/00377-presiden-soeharto-menerima-presiden-korsel|Presiden Soeharto Menerima Presiden Korsel]]
 - [[perpustakaan-soeharto/00396-presiden-soeharto-saksikan-pameran-alat-alat-pertanian|Presiden Soeharto Saksikan Pameran Alat-Alat Pertanian]]
+- [[perpustakaan-soeharto/00375-presiden-soeharto-menyambut-yang-dipertuan-agung-malaysia|Presiden Soeharto Menyambut Yang Dipertuan Agung Malaysia]]
+## 1984 — 1 kliping
+- [[perpustakaan-soeharto/00134-pengkhianatan-g30spki|Pengkhianatan G30S/PKI]]
 ## 1985 — 1 kliping
 - [[perpustakaan-soeharto/01574-petani-indonesia-mendapat-kehormatan|Petani Indonesia Mendapat Kehormatan]]
 ## 1993 — 1 kliping
 - [[perpustakaan-soeharto/00121-presiden-soeharto-sd-inpres-dan-avicenna-award|Presiden Soeharto, SD Inpres dan Avicena Award]]
 ## 1995–1998 — 18 kliping
+- [[perpustakaan-soeharto/00089-menembus-sarajevo-tahun-1995|Menembus Sarajevo Tahun 1995]]
 - [[perpustakaan-soeharto/00273-presiden-soeharto-menerima-menhankam-as-william-s-cohen|Presiden Soeharto Menerima Menhankam AS William S Cohen]]
 - [[perpustakaan-soeharto/00843-bapak-integrasi-timtim|Bapak Integrasi TIMTIM]]
 - [[perpustakaan-soeharto/00824-kami-langsung-ke-ruang-doa|Kami Langsung Ke Ruang Do’a]]
@@ -1037,13 +1041,12 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00854-ryutaro-hashimoto-peran-besar-sebagai-pemimpin-asean|Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN]]
 - [[perpustakaan-soeharto/01097-selamat-dari-pki-berkat-bapak|Selamat Dari PKI Berkat Bapak]]
 - [[perpustakaan-soeharto/00820-hati-saya-hancur|Hati Saya Hancur]]
-- [[perpustakaan-soeharto/00089-menembus-sarajevo-tahun-1995|Menembus Sarajevo Tahun 1995]]
 - [[perpustakaan-soeharto/00004-presiden-soeharto-dan-misteri-kemelut-1998|Presiden Soeharto dan Misteri Kemelut 1998]]
 
 
 ## 2012 — 1 kliping
 - [[perpustakaan-soeharto/00417-mahathir-mohamad-kita-memiliki-kekhasan-demokrasi-sendiri|Mahathir Mohamad: Kita Memiliki Kekhasan Demokrasi Sendiri]]
-## Tanpa tanggal — 129 kliping
+## Tanpa tanggal — 127 kliping
 - [[perpustakaan-soeharto/00035-solidaritas-negara-negara-berkembang|SOLIDARITAS NEGARA-NEGARA BERKEMBANG]]
 - [[perpustakaan-soeharto/00005-108|YAYASAN SOSIAL]]
 - [[perpustakaan-soeharto/00073-komitmen-pak-harto-terhadap-koperasi|Komitmen Pak Harto Terhadap Koperasi]]
@@ -1066,7 +1069,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00233-reformasi-kebutuhan-rumah-murah-masih-belum-terpenuhi|Reformasi: Kebutuhan Rumah Murah Masih Belum Terpenuhi]]
 - [[perpustakaan-soeharto/00361-hilangnya-momentum-kebangkitan-bangsa|Hilangnya Momentum Kebangkitan Bangsa]]
 - [[perpustakaan-soeharto/00305-pak-harto-membangun-dunia-pendidikan|Pak Harto Membangun Dunia Pendidikan]]
-- [[perpustakaan-soeharto/00375-presiden-soeharto-menyambut-yang-dipertuan-agung-malaysia|Presiden Soeharto Menyambut Yang Dipertuan Agung Malaysia]]
 - [[perpustakaan-soeharto/00415-mengungkap-fakta-g-30-spki|Mengungkap Fakta G 30 S/PKI]]
 - [[perpustakaan-soeharto/00416-teror-pki-di-yogyakarta|Teror  PKI Di Yogyakarta]]
 - [[perpustakaan-soeharto/00434-memahami-filsafah-hidup-pak-harto-2|Memahami Falsafah Hidup Pak Harto (2)]]
@@ -1106,7 +1108,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01807-m-kharis-suhud-pak-harto-intuisinya-sangat-tajam|M Kharis Suhud: Pak Harto Intuisinya Sangat Tajam (Bagian 1)]]
 - [[perpustakaan-soeharto/01846-m-kharis-suhud-pak-harto-intuisinya-sangat-tajam-bagian-2-habis|M Kharis Suhud: Pak Harto Intuisinya Sangat Tajam, (Bagian 2, Habis)]]
 - [[perpustakaan-soeharto/00011-membangun-solidaritas-negara-negara-berkembang|MEMBANGUN SOLIDARITAS NEGARA-NEGARA BERKEMBANG]]
-- [[perpustakaan-soeharto/00134-pengkhianatan-g30spki|Pengkhianatan G30S/PKI]]
 - [[perpustakaan-soeharto/00099-presiden-soeharto-dan-presiden-soekarno|Presiden Soeharto Dan Presiden Soekarno]]
 - [[perpustakaan-soeharto/01910-ke-arah-tangga-baru|Ke Arah Tangga Baru]]
 - [[perpustakaan-soeharto/00003-prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi|Prestasi Pembangunan – Bidang Ekonomi]]

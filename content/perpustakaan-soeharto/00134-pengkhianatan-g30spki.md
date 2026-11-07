@@ -1,7 +1,7 @@
 ---
 title: Pengkhianatan G30S/PKI
 description: http://www.youtube.com/watch?v=ddYExsNtX6w&feature=share&list=PLzyiR2JwDJqMUZtikLuWIBNcGj3DAPmnY
-date: '2014-03-22'
+date: '1984-09-30'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -16,13 +16,13 @@ tags:
 - pki
 - video
 risiko_editorial: sedang
-status: needs_review
-verification_status: needs_review
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pengkhianatan-g30spki/
   judul: Pengkhianatan G30S/PKI
-  tanggal: '2014-03-22'
+  tanggal: '1984-09-30'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

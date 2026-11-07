@@ -19,8 +19,8 @@ tags:
 - presiden-soeharto
 - soeharto
 risiko_editorial: sedang
-status: needs_review
-verification_status: needs_review
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-04-08-presiden-soeharto-instruksikan-pengawasan-pekerja-wna/
