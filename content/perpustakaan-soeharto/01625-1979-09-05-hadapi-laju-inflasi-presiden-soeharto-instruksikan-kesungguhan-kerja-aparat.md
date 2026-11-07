@@ -23,8 +23,8 @@ tags:
 - presiden-soeharto
 - semen-cibinong
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat/

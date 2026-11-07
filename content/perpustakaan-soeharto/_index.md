@@ -946,7 +946,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01535-1977-09-30-presiden-soeharto-instruksikan-prioritas-penanggulangan-kekurangan-pangan-di-karawang|Presiden Soeharto Instruksikan Prioritas Penanggulangan Kekurangan]]
 
 
-## 1978 — 17 kliping
+## 1978 — 16 kliping
 - [[perpustakaan-soeharto/01576-1978-09-02-presiden-soeharto-saatnya-meningkat-kerjasama-ekonomi-dan-teknik-antar-negara-berkembang|Presiden Soeharto: Saatnya Meningkat Kerjasama Ekonomi dan Teknik Antar Negara Berkembang]]
 - [[perpustakaan-soeharto/01577-1978-09-04-presiden-soeharto-sholat-ied-dan-open-house-lebaran|Presiden Soeharto Sholat Ied dan Open House Lebaran]]
 - [[perpustakaan-soeharto/01578-1978-09-06-presiden-soeharto-menerima-laporan-sikap-soviet-soal-timor-timur|Presiden Soeharto Menerima Laporan Sikap Soviet Soal Timor-Timur]]
@@ -959,15 +959,13 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01593-1978-09-21-presiden-soeharto-menerima-pm-vietnam-pham-van-dong|Presiden Soeharto Menerima PM Vietnam Pham Van Dong]]
 - [[perpustakaan-soeharto/01594-1978-09-22-pm-pham-van-dong-lakukan-kunjungan-kekeluargaan-ke-cendana|PM Pham Van Dong Lakukan Kunjungan Kekeluargaan Ke Cendana]]
 - [[perpustakaan-soeharto/01595-1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim|Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim]]
-- [[perpustakaan-soeharto/01675-1978-09-24-presiden-soeharto-resmikan-pabrik-gula-gunung-madu|Presiden Soeharto Resmikan Pabrik Gula Gunung Madu]]
 - [[perpustakaan-soeharto/01596-1978-09-25-presiden-soeharto-lantik-letjen-polisi-dr-awaluddin-djamin-sebagai-kapolri|Presiden Soeharto Lantik Letjen. Polisi Dr. Awaluddin Djamin Sebagai]]
 - [[perpustakaan-soeharto/01597-1978-09-27-presiden-soeharto-larang-anggota-abri-kunjungi-steambath-dan-kasino|Presiden Soeharto Larang Anggota ABRI Kunjungi Steambath Dan Kasino]]
 - [[perpustakaan-soeharto/01598-1978-09-28-presiden-soeharto-lantik-bj-habibie-sebagai-ketua-bppt|Presiden Soeharto Lantik BJ Habibie Sebagai Ketua BPPT]]
 - [[perpustakaan-soeharto/01622-1978-09-30-presiden-soeharto-instruksikan-pengembangan-geothermal|Presiden Soeharto Instruksikan Pengembangan Geothermal]]
 
 
-## 1979 — 15 kliping
-
+## 1979 — 16 kliping
 - [[perpustakaan-soeharto/01623-1979-09-01-presiden-soeharto-menerima-utusan-khusus-pm-kanada|Presiden Soeharto Menerima Utusan Khusus PM Kanada]]
 - [[perpustakaan-soeharto/01624-1979-09-04-presiden-soeharto-menerima-penjelasan-duta-besar-dan-resmikan-gedung-bepeka|Presiden Soeharto Menerima Penjelasan Duta Besar AS Dan Resmikan]]
 - [[perpustakaan-soeharto/01625-1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat|Hadapi Laju Inflasi, Presiden Soeharto Instruksikan Kesungguhan]]
@@ -982,7 +980,9 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01672-1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam|Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam]]
 - [[perpustakaan-soeharto/01673-1979-09-21-presiden-soeharto-buka-seagames-x|Presiden Soeharto Buka Seagames X]]
 - [[perpustakaan-soeharto/01674-1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen|Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen]]
+- [[perpustakaan-soeharto/01675-1978-09-24-presiden-soeharto-resmikan-pabrik-gula-gunung-madu|Presiden Soeharto Resmikan Pabrik Gula Gunung Madu]]
 - [[perpustakaan-soeharto/01676-1979-09-27-presiden-soeharto-setujui-cuti-guru-dan-pns-eks-trikora|Presiden Soeharto Setujui Cuti Guru dan PNS Eks Trikora]]
+
 
 ## 1995–1998 — 4 kliping
 
