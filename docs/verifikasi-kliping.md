@@ -1207,6 +1207,38 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   `workspace/goals/wiki-soeharto/hidden_files/nr_decisions.py`;
   skrip terapan `apply_nr.py` + hasil riset chunk
   `/tmp/nr_chunk{A,B,C}_result.txt` (di VM).
+
+### Perbaikan judul terpotong (SELESAI, 7 Nov 2026, commit `5e08d980`, live)
+
+- **Koreksi hitungan lama:** angka "184 judul frontmatter terpotong"
+  (draf prompt Hermes 6–7 Nov 2026) ternyata KELIRU. Hitung ulang
+  dengan parser YAML benar (PyYAML) atas 1.112 file: **175 judul FM
+  adalah judul TERLIPAT (multi-baris)** — penghitung lama hanya
+  membaca baris pertama judul, sehingga judul terlipat tampak
+  "terpotong" (baris pertama tanpa kutip penutup = "kutip tunggal
+  tak tertutup"; baris pertama judul polos = "awalan terpotong").
+  Judul-judul itu ter-parse lengkap dan sudah sama dengan H1.
+  `validate_frontmatter.py` 0 error menguatkan ini (kutip tak
+  tertutup sungguhan akan gagal parse).
+- **Yang benar-benar diperbaiki (dikerjakan langsung rizky, bukan
+  Hermes — pengiriman prompt ke Hermes dulu sempat di-stop user):**
+  6 judul FM yang menyimpang dari H1, semuanya spasi ganda
+  (00416 "Teror  PKI", 00738, 00846, 00928, 01123, 01800) —
+  diselaraskan ke H1; dan **112 teks tautan `_index.md`** yang
+  memang terpotong di tengah kalimat (107 awalan H1 tanpa prefix
+  tanggal, mis. "...Hari Penerbangan" vs "...Hari Penerbangan
+  Nasional", "...dan Temui Mahasiswa" hilang; 5 teks usang dengan
+  tanggal lama: 00639 "1968 ...", 00939 "17-08-1969 ...", 00455
+  "(1969)", 00077 "19-02-27 ...", 00782 "1071-07-20 ...") —
+  dilengkapi ke H1 tanpa prefix tanggal (konvensi indeks per
+  tahun). Sesudah perbaikan: 0 judul FM != H1, 0 teks tautan !=
+  H1-tanpa-tanggal, `check_index.py` 0 mismatch. Terverifikasi
+  live: teks "Hari Penerbangan" yang terpotong di halaman indeks
+  kini tampil lengkap.
+- Skrip verifikasi/perbaikan: `/tmp/verify_titles.py`,
+  `/tmp/check_linktext2.py`, `/tmp/fix_titles.py` (di VM);
+  draf prompt Hermes lama ditandai TIDAK BERLAKU di
+  `workspace/your_files/prompt-perbaikan-hermes-susulan-judul-terpotong.md`.
 - Yang ikut dikerjakan di batch baca:
   **184 judul frontmatter terpotong**
   (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
