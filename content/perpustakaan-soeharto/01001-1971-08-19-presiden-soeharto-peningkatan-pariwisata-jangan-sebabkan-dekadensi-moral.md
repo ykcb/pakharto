@@ -26,8 +26,8 @@ tags:
 - presiden-soeharto
 - prof-dr-widjoyo-nitisastro
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-19-presiden-soeharto-peningkatan-pariwisata-jangan-sebabkan-dekadensi-moral/

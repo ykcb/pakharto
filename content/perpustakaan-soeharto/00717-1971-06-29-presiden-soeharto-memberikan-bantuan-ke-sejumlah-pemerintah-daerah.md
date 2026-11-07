@@ -29,8 +29,8 @@ tags:
 - wonosari
 - yogyakarta
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-06-29-presiden-soeharto-memberikan-bantuan-ke-sejumlah-pemerintah-daerah/

@@ -1,9 +1,9 @@
 ---
-title: '1971-05-7 Presiden Soeharto: Kontestasi Pemilu Tak Boleh Sebabkan Bangsa Retak'
+title: '1971-05-07 Presiden Soeharto: Kontestasi Pemilu Tak Boleh Sebabkan Bangsa Retak'
 description: Jum’at, 7 Mei 1971, Peringatan Maulud Nabi Muhammad SAW diadakan di Istana
   Negara malam ini. Dalam amanatnya, Presiden Soeharto menyerukan kepada semua pihak
   tanpa kecuali, agar dalam melaksanakan kampanye atau usaha-usaha menarik suara...
-date: '2017-08-25'
+date: '1971-05-07'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -20,22 +20,26 @@ tags:
 - persatuan-bangsa
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-7-presiden-soeharto-kontestasi-pemilu-tak-boleh-sebabkan-bangsa-retak/
   judul: '1971-05-7 Presiden Soeharto: Kontestasi Pemilu Tak Boleh Sebabkan Bangsa
     Retak'
-  tanggal: '2017-08-25'
+  tanggal: '1971-05-07'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1971-05-7-presiden-soeharto-kontestasi-pemilu-tak-boleh-sebabkan-bangsa-retak/
+- predikat: menyebut
+  objek: pemilu-orde-baru
+  sumber: https://soehartolibrary.id/1971-05-7-presiden-soeharto-kontestasi-pemilu-tak-boleh-sebabkan-bangsa-retak/
+
 ---
 
 
-# 1971-05-7 Presiden Soeharto: Kontestasi Pemilu Tak Boleh Sebabkan Bangsa Retak
+# 1971-05-07 Presiden Soeharto: Kontestasi Pemilu Tak Boleh Sebabkan Bangsa Retak
 
 # Presiden Soeharto: Kontestasi Pemilu Tak Boleh Sebabkan Bangsa Retak
 

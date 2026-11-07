@@ -1,9 +1,9 @@
 ---
-title: 1971-05-3 Presiden Soeharto Bahas Modernisasi Kedirgantaraan
+title: '1971-05-03 Presiden Soeharto Bahas Modernisasi Kedirgantaraan'
 description: SENIN, 3 Mei 1971, Presiden Soeharto di Istana Merdeka pagi ini menerima
   KSAU Laksdya, (U) Suwoto Sukendar. Pada pertemuan ini telah dibicarakan masalah
   modernisasi bidang kedirgantaraan, termasuk Angkatan Udara Republik Indonesia. KSAU...
-date: '2014-03-22'
+date: '1971-05-03'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,13 +19,13 @@ tags:
 - presiden-soeharto
 - suwoto-sukendar
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-3-presiden-soeharto-bahas-modernisasi-kedirgantaraan/
   judul: 1971-05-3 Presiden Soeharto Bahas Modernisasi Kedirgantaraan
-  tanggal: '2014-03-22'
+  tanggal: '1971-05-03'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -33,7 +33,7 @@ relasi:
 ---
 
 
-# 1971-05-3 Presiden Soeharto Bahas Modernisasi Kedirgantaraan
+# 1971-05-03 Presiden Soeharto Bahas Modernisasi Kedirgantaraan
 
 # Presiden Soeharto Bahas Modernisasi Kedirgantaraan1
 

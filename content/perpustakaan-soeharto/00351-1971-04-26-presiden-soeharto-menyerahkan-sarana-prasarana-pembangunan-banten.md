@@ -22,8 +22,8 @@ tags:
 - spirituil
 - ulama
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-04-26-presiden-soeharto-menyerahkan-sarana-prasarana-pembangunan-banten/

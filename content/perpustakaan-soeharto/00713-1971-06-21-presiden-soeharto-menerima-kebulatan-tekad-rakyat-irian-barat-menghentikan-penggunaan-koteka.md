@@ -24,8 +24,8 @@ tags:
 - presiden-soeharto
 - proyek-kemanusiaan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-06-21-presiden-soeharto-menerima-kebulatan-tekad-rakyat-irian-barat-menghentikan-penggunaan-koteka/

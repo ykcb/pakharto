@@ -1,9 +1,9 @@
 ---
-title: 1971-03-1 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas
+title: '1971-03-01 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas'
 description: SENIN, 1 Maret 1971, Presiden Soeharto sangat menghargai kerelaan para
   sarjana untuk bekerja di pedesaan. Hal ini diungkapkan ketika ia menerima 30 orang
   sarjana yang mengikuti program Badan Urusan Tenagakerja Sukarela Indonesia (BUTSI)...
-date: '2017-08-29'
+date: '1971-03-01'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,13 +19,13 @@ tags:
 - soeharto
 - wanhamkamnas
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-03-1-presiden-soeharto-terima-butsi-dan-pimpin-sidang-wanhamkamnas/
   judul: 1971-03-1 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas
-  tanggal: '2017-08-29'
+  tanggal: '1971-03-01'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -33,7 +33,7 @@ relasi:
 ---
 
 
-# 1971-03-1 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas
+# 1971-03-01 Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas
 
 # Presiden Soeharto Terima BUTSI dan Pimpin Sidang Wanhamkamnas
 

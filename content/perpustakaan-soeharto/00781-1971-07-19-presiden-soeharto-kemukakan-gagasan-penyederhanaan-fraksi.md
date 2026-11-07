@@ -21,8 +21,8 @@ tags:
 - sexava
 - sulawesi-utara
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-07-19-presiden-soeharto-kemukakan-gagasan-penyederhanaan-fraksi/

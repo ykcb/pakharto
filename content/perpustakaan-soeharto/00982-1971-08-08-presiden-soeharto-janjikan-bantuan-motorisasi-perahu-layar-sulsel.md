@@ -1,9 +1,9 @@
 ---
-title: 1971-08-09 Presiden Soeharto Janjikan Bantuan Motorisasi Perahu Layar Sulsel
+title: '1971-08-09 Presiden Soeharto Janjikan Bantuan Motorisasi Perahu Layar Sulsel'
 description: SENIN, 9 AGUSTUS 1971, Presiden Soeharto menjanjikan kepada Gubernur
   Sulawesi Selatan, Achamd Lamo, untuk memberikan bantuan sebanyak Rp. 30 juta sebagai
   modal dalam rangka usaha daerah tersebut untuk mengadakan motorisasi perahu-perahu...
-date: '1971-08-08'
+date: '1971-08-09'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -23,13 +23,13 @@ tags:
 - presiden-soeharto
 - sulawesi-selatan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-08-presiden-soeharto-janjikan-bantuan-motorisasi-perahu-layar-sulsel/
   judul: 1971-08-09 Presiden Soeharto Janjikan Bantuan Motorisasi Perahu Layar Sulsel
-  tanggal: '1971-08-08'
+  tanggal: '1971-08-09'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

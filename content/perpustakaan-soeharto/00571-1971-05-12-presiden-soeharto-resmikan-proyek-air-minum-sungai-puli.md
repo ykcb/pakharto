@@ -20,8 +20,8 @@ tags:
 - sungai-puli
 - tanjung-pinang
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-12-presiden-soeharto-resmikan-proyek-air-minum-sungai-puli/

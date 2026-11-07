@@ -1,9 +1,9 @@
 ---
-title: 1972-09-09 Presiden Soeharto Menerima Menlu Nigeria
+title: '1972-09-09 Presiden Soeharto Menerima Menlu Nigeria'
 description: 14 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1971-09-09-presiden-soeharto-menerima-menlu-nigeria/respond)
   97 Views Share on
-date: '1971-09-09'
+date: '1972-09-09'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -23,13 +23,13 @@ tags:
 - presiden-soeharto
 - zambia
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-09-09-presiden-soeharto-menerima-menlu-nigeria/
   judul: 1972-09-09 Presiden Soeharto Menerima Menlu Nigeria
-  tanggal: '1971-09-09'
+  tanggal: '1972-09-09'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

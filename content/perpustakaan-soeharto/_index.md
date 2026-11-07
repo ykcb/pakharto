@@ -379,9 +379,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01804-1970-10-29-presiden-soeharto-sorotan-kepada-abri-merupakan-risiko-perjuangan-dan-cambuk-instrospeksi|Presiden Soeharto: Sorotan Kepada ABRI Merupakan Risiko Perjuangan Dan Cambuk Instrospeksi]]
 
 
-## 1971 — 106 kliping
-
-- [[perpustakaan-soeharto/00116-1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina|Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina]]
+## 1971 — 104 kliping
 - [[perpustakaan-soeharto/00111-1971-02-17-bantuan-perguruan-tinggi-dan-sidang-dpr|Bantuan Perguruan Tinggi dan Sidang DPR]]
 - [[perpustakaan-soeharto/00112-1971-02-18-bantuan-untuk-cacat-veteran|Bantuan Untuk Cacat Veteran]]
 - [[perpustakaan-soeharto/00113-1971-02-22-dwifungsi-abri-bukan-untuk-monopoli-kekuasaan|Dwifungsi ABRI Bukan Untuk Monopoli Kekuasaan]]
@@ -440,7 +438,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00780-1971-07-17-presiden-soeharto-menerima-direktur-gia|Presiden Soeharto Menerima Direktur GIA]]
 - [[perpustakaan-soeharto/00781-1971-07-19-presiden-soeharto-kemukakan-gagasan-penyederhanaan-fraksi|Presiden Soeharto Kemukakan Gagasan Penyederhanaan Fraksi]]
 - [[perpustakaan-soeharto/00783-1971-07-22-presiden-soeharto-meminta-sistem-integrated-industries|Presiden Soeharto Meminta Sistem Integrated Industries Dalam Pengelolaan]]
-- [[perpustakaan-soeharto/01336-1971-07-23-presiden-soeharto-anjurkan-hidupkan-pertanian-tebu-rakyat-sumatera-selatan|Presiden Soeharto Anjurkan Hidupkan Pertanian Tebu Rakyat Sumatera]]
 - [[perpustakaan-soeharto/00784-1971-07-24-presiden-soeharto-membeli-obligasi-yayasan-al-falaah|Presiden Soeharto Membeli Obligasi Yayasan Al-Falaah]]
 - [[perpustakaan-soeharto/00785-1971-07-27-presiden-soeharto-instruksikan-pengisian-daftar-kekayaan-pribadi-pejabat|Presiden Soeharto Instruksikan Pengisian Daftar kekayaan Pribadi]]
 - [[perpustakaan-soeharto/00786-1971-07-30-presiden-soeharto-memberi-sumbangan-pembangunan-bidang-agama|Presiden Soeharto Memberi Sumbangan Pembangunan Bidang Agama]]
@@ -470,9 +467,9 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01333-1971-09-13-presiden-soeharto-bahas-rencana-pembangunan-rumah-murah|Presiden Soeharto Bahas Rencana Pembangunan Rumah Murah]]
 - [[perpustakaan-soeharto/01334-1971-09-17-presiden-soeharto-ajak-bangsa-indonesia-pegang-jiwa-agama|Presiden Soeharto Ajak Bangsa Indonesia Pegang Jiwa Agama]]
 - [[perpustakaan-soeharto/01335-1971-09-21-presiden-soeharto-instruksikan-peningkatan-usaha-batik|Presiden Soeharto Instruksikan Peningkatan Usaha Batik]]
+- [[perpustakaan-soeharto/01336-1971-07-23-presiden-soeharto-anjurkan-hidupkan-pertanian-tebu-rakyat-sumatera-selatan|Presiden Soeharto Anjurkan Hidupkan Pertanian Tebu Rakyat Sumatera]]
 - [[perpustakaan-soeharto/01365-1971-09-25-presiden-soeharto-menerima-peserta-pekan-nasional-pertemuan-petani|Presiden Soeharto Menerima Peserta Pekan Nasional Pertemuan Petani]]
 - [[perpustakaan-soeharto/01367-1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri|Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar]]
-- [[perpustakaan-soeharto/01888-1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila|Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila]]
 - [[perpustakaan-soeharto/01805-1971-10-01-presiden-soeharto-pimpin-peringatan-hari-kesaktian-pancasila-di-lubang-buaya|Presiden Soeharto Pimpin Peringatan Hari Kesaktian Pancasila di]]
 - [[perpustakaan-soeharto/01808-1971-10-02-drs-moh-hasan-dilantik-sebagai-kapolri|Drs. Moh. Hasan Dilantik Sebagai Kapolri]]
 - [[perpustakaan-soeharto/01809-1971-10-05-peringati-hari-abri-presiden-soeharto-resmikan-penggunaan-kembali-nama-tni|Peringati Hari ABRI, Presiden Soeharto Resmikan Penggunaan Kembali]]
@@ -488,10 +485,11 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01850-1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan|Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri]]
 - [[perpustakaan-soeharto/01851-1971-10-28-presiden-soeharto-singgung-pengelompokan-partai|Presiden Soeharto Singgung Pengelompokan Partai]]
 
-## 1972 — 84 kliping
 
+## 1972 — 85 kliping
 - [[perpustakaan-soeharto/00114-1972-02-01-sidang-sub-dewan-stabilisasi-ekonomi|Sidang Sub Dewan Stabilisasi Ekonomi]]
 - [[perpustakaan-soeharto/00115-658|Anjuran Mahasiswa Turun Ke Desa]]
+- [[perpustakaan-soeharto/00116-1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina|Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina]]
 - [[perpustakaan-soeharto/00186-1972-03-01-presiden-soeharto-terima-dpp-angkatan-1945|Presiden Soeharto Terima DPP Angkatan 1945]]
 - [[perpustakaan-soeharto/00187-1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah|Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah]]
 - [[perpustakaan-soeharto/00189-1972-03-06-pengangkatan-anggota-mpr|Pengangkatan Anggota MPR]]
@@ -575,7 +573,8 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01861-1972-10-25-presiden-soeharto-partai-islam-seyogyanya-tidak-menggunakan-nama-idiologi|Presiden Soeharto: Partai Islam Seyogyanya Tidak Menggunakan Nama Idiologi]]
 - [[perpustakaan-soeharto/01862-1972-10-30-presiden-soeharto-menerima-direktur-aid|Presiden Soeharto Menerima Direktur AID]]
 
-## 1973 — 80 kliping
+
+## 1973 — 81 kliping
 - [[perpustakaan-soeharto/00204-1973-03-03-presiden-soeharto-resmikan-tembaga-pura|Presiden Soeharto Resmikan Tembaga Pura]]
 - [[perpustakaan-soeharto/00205-1973-03-04-presiden-soeharto-resmikan-pengairan-kelara-jeneponto|Presiden Soeharto Resmikan Pengairan Kelara Jeneponto]]
 - [[perpustakaan-soeharto/00206-1973-03-08-presiden-soeharto-bahas-langkah-pengamanan-perdagangan-luar-negeri|Presiden Soeharto Bahas Langkah Pengamanan Perdagangan Luar Negeri]]
@@ -643,6 +642,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01386-1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam|Presiden Soeharto: Empat Masalah penting Hadapi Musim Tanam]]
 - [[perpustakaan-soeharto/01399-1973-09-26-presiden-soeharto-menerima-pimpinan-mitsuo-co-ltd|Presiden Soeharto Menerima Pimpinan Mitsuo & Co. Ltd]]
 - [[perpustakaan-soeharto/01400-1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku|Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku]]
+- [[perpustakaan-soeharto/01888-1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila|Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila]]
 - [[perpustakaan-soeharto/01889-1973-10-05-presiden-soeharto-tekankan-perlunya-keutuhan-abri|Presiden Soeharto Tekankan Perlunya Keutuhan ABRI]]
 - [[perpustakaan-soeharto/01890-1973-10-09-presiden-soeharto-beri-hadiah-perintis-kemerdekaan|Presiden Soeharto Beri Hadiah Perintis Kemerdekaan]]
 - [[perpustakaan-soeharto/01891-1973-10-10-presiden-soeharto-menerima-pimpinan-pdi|Presiden Soeharto Menerima Pimpinan PDI]]

@@ -24,8 +24,8 @@ tags:
 - soeharto
 - woods
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-03-02-presiden-soeharto-terima-richard-woods/
@@ -35,6 +35,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1971-03-02-presiden-soeharto-terima-richard-woods/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1971-03-02-presiden-soeharto-terima-richard-woods/
+
 ---
 
 

@@ -24,8 +24,8 @@ tags:
 - presiden
 - soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-03-08-presiden-soeharto-penerangan-era-orde-baru-bukan-indoktrinasi/
@@ -35,6 +35,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1971-03-08-presiden-soeharto-penerangan-era-orde-baru-bukan-indoktrinasi/
+- predikat: menyebut
+  objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/1971-03-08-presiden-soeharto-penerangan-era-orde-baru-bukan-indoktrinasi/
+
 ---
 
 

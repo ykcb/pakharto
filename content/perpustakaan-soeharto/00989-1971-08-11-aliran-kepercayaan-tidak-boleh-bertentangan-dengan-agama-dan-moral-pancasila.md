@@ -1,6 +1,5 @@
 ---
-title: 1971-08-11 Aliran  Kepercayaan Tidak Boleh Bertentangan Dengan Agama dan Moral
-  Pancasila
+title: '1971-08-11 Aliran Kepercayaan Tidak Boleh Bertentangan Dengan Agama dan Moral Pancasila'
 description: RABU, 11 AGUSTUS 1971, Sebagai realisasi amanat Presiden yang dikemukakan
   di depan Kongres Subud baru-baru ini, bahwa aliran kepercayaan tidak boleh bertentangan
   dengan agama dan moral Pancasila, maka Kejaksaan Agung akan membentuk...
@@ -23,8 +22,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-11-aliran-kepercayaan-tidak-boleh-bertentangan-dengan-agama-dan-moral-pancasila/

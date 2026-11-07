@@ -1,9 +1,9 @@
 ---
-title: 1971-10-01 Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila
+title: '1973-10-01 Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila'
 description: 12 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila/respond)
   61 Views Share on
-date: '1971-10-01'
+date: '1973-10-01'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -16,13 +16,13 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila/
   judul: 1971-10-01 Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila
-  tanggal: '1971-10-01'
+  tanggal: '1973-10-01'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -30,7 +30,7 @@ relasi:
 ---
 
 
-# 1971-10-01 Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila
+# 1973-10-01 Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila
 
 12 Oktober 2013  [Soeharto Library](https://soehartolibrary.id/author/cyril/)  [No Comment](https://soehartolibrary.id/1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila/#respond)  61 Views Share on
 
