@@ -25,8 +25,8 @@ tags:
 - program-pusat-karya
 - transmigrasi
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-07-22-presiden-soeharto-buka-konferensi-perbaikan-gizi/

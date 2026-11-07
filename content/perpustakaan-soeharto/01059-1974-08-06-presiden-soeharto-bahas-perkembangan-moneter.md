@@ -19,8 +19,8 @@ tags:
 - persiden-soeharto
 - sidang-kabinet-paripurna
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/
@@ -30,6 +30,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/
+
 ---
 
 

@@ -16,8 +16,8 @@ tags:
 - presiden-soeharto
 - soemitro
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-15-presiden-soeharto-kabulkan-permohonan-jenderal-soemitro/

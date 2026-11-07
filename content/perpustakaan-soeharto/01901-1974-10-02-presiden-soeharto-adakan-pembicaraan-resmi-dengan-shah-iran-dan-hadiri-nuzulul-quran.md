@@ -21,8 +21,8 @@ tags:
 - ratu-pahlevi
 - shah-iran
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-10-02-presiden-soeharto-adakan-pembicaraan-resmi-dengan-shah-iran-dan-hadiri-nuzulul-quran/

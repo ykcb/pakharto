@@ -22,8 +22,8 @@ tags:
 - perpustakaan-soeharto
 - samkarya-nugraha
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-04-15-presiden-soeharto-anugerahkan-samkarya-nugraha-nugraha-sakanti-jana-utama/

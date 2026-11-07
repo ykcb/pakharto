@@ -659,7 +659,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 
 
 ## 1974 — 82 kliping
-
 - [[perpustakaan-soeharto/00213-1974-03-04-presiden-soeharto-menerima-kenneth-rush|Presiden Soeharto Menerima Kenneth Rush]]
 - [[perpustakaan-soeharto/00214-1974-03-05-presiden-soeharto-menerima-presiden-nauru|Presiden Soeharto Menerima Presiden Nauru]]
 - [[perpustakaan-soeharto/00215-1974-03-06-presiden-soeharto-dan-pembinaan-usaha-swasta-nasional-pribumi|Presiden Soeharto dan Pembinaan Usaha Swasta Nasional Pribumi]]
@@ -695,6 +694,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00831-1974-07-15-presiden-soeharto-meninjau-pabrik-komponen-rumah-murah|Presiden Soeharto Meninjau Pabrik Komponen Rumah Murah]]
 - [[perpustakaan-soeharto/00832-1974-07-16-presiden-soeharto-setujui-pembebasan-pajak-docking-galangan-dalam-negeri|Presiden Soeharto Setujui Pembebasan Pajak Docking Galangan Dalam]]
 - [[perpustakaan-soeharto/00836-1974-07-17-insa-menghadap-presiden-soeharto|INSA Menghadap Presiden Soeharto]]
+- [[perpustakaan-soeharto/00840-1974-11-20-presiden-soeharto-bentuk-badan-pengelola-perumahan-rakyat|Presiden Soeharto Bentuk Badan Pengelola Perumahan Rakyat]]
 - [[perpustakaan-soeharto/00841-1974-07-22-presiden-soeharto-buka-konferensi-perbaikan-gizi|Presiden Soeharto Buka Konferensi Perbaikan Gizi]]
 - [[perpustakaan-soeharto/00842-1974-07-23-presiden-soeharto-buruh-dan-majikan-hendaknya-dapat-bertenggang-rasa|Presiden Soeharto: Buruh dan Majikan Hendaknya Dapat Bertenggang Rasa]]
 - [[perpustakaan-soeharto/00844-1974-07-25-presiden-soeharto-meninjau-tanjung-priok|Presiden Soeharto Meninjau Tanjung Priok]]
@@ -741,7 +741,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01914-1974-10-28-presiden-soeharto-knpi-wadah-pengembangan-orientasi-baru-pemuda|Presiden Soeharto: KNPI Wadah Pengembangan Orientasi Baru Pemuda]]
 - [[perpustakaan-soeharto/01915-1974-10-30-raja-boudewijn-dan-ratu-fabiola-menuju-bali|Raja Boudewijn dan Ratu Fabiola Menuju Bali]]
 - [[perpustakaan-soeharto/01916-1974-10-31-presiden-soeharto-menerima-utusan-khusus-aljazair-dan-parlemen-soviet|Presiden Soeharto menerima Utusan Khusus Aljazair dan Parlemen Soviet]]
-- [[perpustakaan-soeharto/00840-1974-11-20-presiden-soeharto-bentuk-badan-pengelola-perumahan-rakyat|Presiden Soeharto Bentuk Badan Pengelola Perumahan Rakyat]]
+
 
 ## 1975 — 88 kliping
 

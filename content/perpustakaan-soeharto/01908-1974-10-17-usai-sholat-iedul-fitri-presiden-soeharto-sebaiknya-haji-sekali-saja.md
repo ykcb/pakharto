@@ -24,8 +24,8 @@ tags:
 - presiden-soeharto
 - zakat
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-10-17-usai-sholat-iedul-fitri-presiden-soeharto-sebaiknya-haji-sekali-saja/

@@ -18,8 +18,8 @@ tags:
 - re-ekspor
 - station-wagon
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-07-02-presiden-soeharto-putuskan-re-ekspor-station-wagon/
@@ -29,6 +29,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1974-07-02-presiden-soeharto-putuskan-re-ekspor-station-wagon/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1974-07-02-presiden-soeharto-putuskan-re-ekspor-station-wagon/
+
 ---
 
 

@@ -26,8 +26,8 @@ tags:
 - tretes
 - tun-abdul-razak
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-09-09-presiden-soeharto-pm-tun-abdul-razak-bertemu-di-tretes/
