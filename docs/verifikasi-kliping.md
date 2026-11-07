@@ -680,9 +680,76 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   (di VM, bukan repo); skrip terapan `apply_batch1976.py` + skrip gabung
   `merge_batch1976.py` di folder yang sama.
 
+### Batch 1977 (SELESAI, 7 Nov 2026, commit `7b8ddd84`, live)
+
+- **Pembaca: 2 subagen baca paralel** (16 + 15 artikel), baca penuh
+  dgn protokol pilot/batch 1976; rizky menggabungkan putusan +
+  memverifikasi langsung 1 fix ke file aslinya.
+- **Hasil: 31 artikel; 31 `cross_checked`, 0 `needs_review`,
+  0 `disputed`.** Kumulatif Fase 1: **885 `cross_checked`,
+  17 `needs_review`.**
+- **1 perbaikan date/title:** 00516 (1977-04-14 → 1977-04-13 +
+  title; isi + description menulis "RABU, 13 April 1977" di dua
+  tempat, "14 April 1977" 0 kali; 13 Apr 1977 memang Rabu, 14 Apr
+  = Kamis; footnote hal. 479–480 tepat di antara 00515 12 Apr hal.
+  479 dan 00517 19 Apr hal. 480–481; sumber luar utk 13 vs 14 Apr
+  tidak ditemukan — fix berdasarkan bukti internal isi).
+- **5 relasi `menyebut` baru** (total 154: ekonomi 109, pemilu 10):
+  4 ekonomi-orde-baru — 00507 (Inpres 6/1977: kredit pembangunan/
+  pemugaran pasar, dana Rp25 milyar, bunga 0%), 00512 (pengesahan
+  Keppres atas Persetujuan Tarif Preferensi ASEAN, kontur isi
+  diuraikan — preseden 01063), 00515 (sidang Dewan Stabilisasi
+  Ekonomi: inflasi Maret 0,06%, petunjuk harga beras, instruksi
+  program konkret kopi), 01529 (instruksi tata niaga garam rakyat:
+  floor price + ceiling price, PN Garam beli di bawah floor price /
+  jual di atas ceiling price — mekanisme konkret sbg subjek utama);
+  1 pemilu-orde-baru — 01483 (Keppres 49/1977: Panitia Pemeriksa
+  Keanggotaan MPR/DPR 15→17 orang, berlaku surut 3 Agu 1977).
+  Ekonomi DITOLAK di 00519 (persetujuan PT NGK Busi + PT Inoue
+  Rubber hanya satu kalimat dlm artikel dua topik — preseden
+  01977/00851), 01483 (Sensus Konstruksi = sensus statistik;
+  pengawasan pekerja asing hanya penekanan), 01494 (Operasi Tertib
+  = penertiban aparatur/anti-pungli), 01495 (laporan kunjungan +
+  laporan harga, tanpa keputusan), 01496 (bantahan Ali Wardhana
+  soal kurs — Rp415 hanya konteks kurs berlaku), 01499 (rencana
+  modal Kuwait di kilang Batam masih pembicaraan mendatang),
+  01527/01533 (pemberian/laporan bantuan), 01535 (instruksi umum
+  beri prioritas perhatian tanpa mekanisme/angka); glosarium
+  DITOLAK di 00508 ("stabilitas nasional" satu klausa dlm pidato
+  persatuan-kesatuan) dan 01530 (satu klausa dlm pernyataan Isnaeni
+  di paragraf terakhir); orde-baru + kopkamtib DITOLAK di 01494
+  ("Orde Baru" tidak muncul eksplisit di isi, hanya di tag; Kepala
+  Staf Kopkamtib hanya salah satu dari banyak penerima Inpres
+  9/1977); kopkamtib DITOLAK di 01525 (Sudomo hanya pejabat yg
+  berkomentar soal aksi mahasiswa); pemilu DITOLAK di 01498
+  (pergantian personalia pasca-Pemilu 1977).
+- **Indeks diperbarui:** seksi 1977 = **31** (tanpa perpindahan
+  tahun; 00516 hanya geser dalam seksi 1977).
+- **Temuan lain:** 00510 nama file "residen-soeharto" (huruf P
+  hilang) — typo nama file, tidak diganti. 01525 aksi 8 mahasiswa
+  duduki DPR (Sep 1977) TIDAK terkonfirmasi dari sumber luar
+  (pencarian web tidak menemukan) — dicatat, bukan inkonsistensi
+  internal (artikel konsisten: hari + tanggal + footnote).
+  "Periode 1977/1983" di 01530 (kutipan Isnaeni) vs masa jabatan
+  MPR 1978–1983 — dicatat, bukan fix. Urutan footnote: 00513
+  (10 Apr) hal. 479 lalu 00514 (11 Apr) hal. 478–479 — entri buku
+  berbagi halaman yg sama, bukan inkonsistensi tanggal.
+- **Spot-check terkonfirmasi:** KTT ASEAN ke-2 Kuala Lumpur 4–5
+  Agu 1977 (bertepatan HUT ke-10 ASEAN); Persetujuan Tarif
+  Preferensi ASEAN ditandatangani Manila 24 Feb 1977 (asean.org);
+  Keppres 49/1977 (ditetapkan 1 Sep 1977, berlaku surut 3 Agu 1977,
+  Panitia Pemeriksaan 15→17 orang — JDIH BPK); sidang anti-apartheid
+  Lagos 22–26 Agu 1977 (UN A/CONF.91/9); kurs Rp415/US$ berlaku
+  sejak 1971 sampai devaluasi 15 Nov 1978 ke Rp625; Keppres 36/1977
+  Team Koordinasi Peningkatan Ekspor ke Timur Tengah (ditetapkan
+  20 Jul 1977 — JDIH BPK); Idul Fitri 1 Syawal 1397H = 15 Sep 1977.
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1977_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1977.py` + skrip gabung
+  `merge_batch1977.py` di folder yang sama.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
+- Urutan batch: 1978 (17), 1979 (15), 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca:
   **184 judul frontmatter terpotong**
