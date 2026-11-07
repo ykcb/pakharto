@@ -863,10 +863,75 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   (di VM, bukan repo); skrip terapan `apply_batch1979.py` + skrip gabung
   `merge_batch1979.py` di folder yang sama.
 
+### Batch 1949–1967 (SELESAI, 7 Nov 2026, commit `697c673e`, live)
+
+- **Pembaca: 1 subagen** (7 artikel), baca penuh dgn protokol
+  pilot/batch 1979; rizky menggabungkan putusan + memverifikasi
+  sendiri semua fix ke file aslinya.
+- **Hasil: 7 artikel; 7 `cross_checked`, 0 `needs_review`,
+  0 `disputed`, 7 fix, 1 relasi `menyebut` baru** (00748 → ekonomi;
+  total 156, FTS 1.384). Kumulatif Fase 1: **924 `cross_checked`,
+  17 `needs_review`.**
+- **Temuan utama — day-mismatch 5/5 ternyata tahunnya yg salah,
+  bukan harinya.** Kelima artikel ber-FM-date 1960/1967 itu
+  sebenarnya peristiwa **1969**, dibuktikan isi sendiri: 00051
+  (badan "SELASA, 11 FEBRUARI 1969", 11 Feb 1969 = Selasa; RUU APBN
+  1969/1970; footnote buku Jejak Langkah 28 Mar 1968–23 Mar 1973
+  hal. 57 = sama dgn tetangga 14 Feb 1969), 00052 ("RABU, 12
+  FEBRUARI 1969"; Menhankam/Pangab Jenderal Soeharto — jabatan
+  1966–1971, mustahil 1960; hal. 57), 00055 ("RABU, 19 FEBRUARI
+  1969"; "produksi beras tahun 1968 meningkat"; hal. 57), 00744
+  ("SELASA, 01 Juli 1969"; "Hari Bhayangkara ke-23" — Polri 1 Jul
+  1946 + 23 = 1969; "SK Presiden No. 52/1969"; hal. 137 = sama dgn
+  tetangga 2–3 Jul 1969), 00748 ("SELASA, 08 Juli 1969"; menyebut
+  Repelita; hal. 138, monoton sesudah hal. 137). Kelimanya fix
+  date + title dan **pindah seksi 1949–1967 → 1969** (tidak ada
+  duplikat file 1969-02-11/12/19 atau 1969-07-01/08 di repo).
+- **Dua file tanggal-publikasi juga terpecahkan dari isi:** 00033
+  (FM 2018-01-10) → **1949-03-01**, tetap di seksi 1949–1967,
+  tanpa fix title — penuturan Soeharto dari buku *Pikiran, Ucapan
+  dan Tindakan Saya* (1982), badan: "Tepat pukul 06.00 pada tanggal
+  1 Maret 1949..."; rangkaian konsisten (Agresi II 19 Des 1948,
+  serangan 30 Des 1948, kelahiran Tutut 23 Jan 1949, serangan 28 Feb
+  1949, Wonosari 9–10 Mar 1949, kembali ke Imogiri 5 Apr 1949).
+  00306 (FM 2013-04-02) → **1965-09-30**, tetap di seksi
+  1949–1967, tanpa fix title — esai Dr. G. Ambar Wulan (Pusjarah
+  TNI), badan menetapkan "hari H dan jam D... yakni tanggal 30
+  September 1965 sesudah tengah malam"; rangkaian konsisten (PKI
+  1920, Madiun 18 Sep 1948, Kongres V 1954, MKTBP 1955, rapat
+  Politbiro 6–29 Sep 1965, pengumuman RRI 1 Okt 1965).
+- **Relasi `menyebut`: 1 diterima.** 00748 → ekonomi (penurunan
+  bunga bank diuraikan lengkap: deposito 12 bln 4%→3%, 6 bln
+  3%→2,5%, 3 bln 2%→1,5%, <3 bln 1,5%→1%, plus suku bunga pinjaman
+  golongan I–V, berlaku 10 Jul 1969; preseden 00507/01529).
+  Ekonomi DITOLAK di 00051 (hanya "dibahas situasi umum impor/
+  ekspor, Inmas, RUU APBN" tanpa angka/keputusan) dan 00055
+  (rencana swasembada pangan tanpa mekanisme, preseden 01423);
+  glosarium/Dwifungsi DITOLAK di 00052 (Hansip/Wanra sbg komponen
+  Hankam disebut, tapi "Dwifungsi ABRI" tidak eksplisit). 00033 dan
+  00306 tanpa relasi (hanya "Soeharto" yg cocok di tabel entitas —
+  tidak ada halaman PKI/G30S/Serangan Umum).
+- **Indeks diperbarui:** seksi 1949–1967 = **2** (00033, 00306),
+  seksi 1969 = **136** (131 + 5).
+- **Spot-check terkonfirmasi:** Keppres No. 52/1969 — pergantian
+  sebutan Panglima Angkatan Kepolisian → Kepala Kepolisian Negara
+  RI (Kapolri), diresmikan 1 Juli 1969 (Wikipedia id POLRI;
+  tribratanews.polri.go.id).
+- **Catatan proses:** prep awal sempat salah deteksi 213 "ekstra"
+  karena regex H1 `19[5-6][0-9]` ikut menangkap tahun 1968/1969 —
+  diperbaiki ke `^(1949|195[0-9]|196[0-7])` sebelum prep ulang;
+  hasil benar: 5 dasar + 0 ekstra. Dua file tanggal-publikasi
+  (00033, 00306) tidak tertangkap deteksi ekstra karena tahun
+  peristiwa hanya ada di ujung slug ("...-1949", "...-1965")
+  dan H1 tidak diawali tahun — ditambahkan manual ke batch.
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1949_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1949.py` + skrip gabung
+  `merge_batch1949.py` di folder yang sama.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1949–1967 (7),
-  1995–1998 (4), tanpa tanggal (176, terakhir).
+- Urutan batch: 1995–1998 (4),
+  tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca:
   **184 judul frontmatter terpotong**
   (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
