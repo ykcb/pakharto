@@ -74,11 +74,47 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
 - Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/pilot1968_decisions.py`
   (di VM, bukan repo); skrip terapan `apply_pilot1968.py` di folder yang sama.
 
+### Batch 1969 (SELESAI, 7 Nov 2026, commit `8a14a546`, live)
+
+- **Pembaca: 5 subagen baca paralel** (23–25 artikel tiap chunk), masing-masing
+  baca penuh dgn protokol yg sama seperti pilot; rizky menggabungkan
+  putusan, memverifikasi langsung 4 klaim fix ke file aslinya, dan
+  memeriksa konsistensi hitungan. 9 artikel yg sudah diputuskan di pilot
+  (tanggal-perpustakaan 1969) dibawa putusannya; 01165/01166 disalin
+  verbatim dari pilot.
+- **Hasil: 132 artikel; 129 `cross_checked`, 3 `needs_review`,
+  0 `disputed`.** Kumulatif Fase 1: **202 `cross_checked`,
+  11 `needs_review`.**
+- **3 `needs_review` baru:** 00015 (isi "SENIN, 8 JANUARI 1969" padahal
+  8 Jan 1969 = Rabu), 00936 (isi "SABTU, 11 AGUSTUS 1969" padahal 11 Agu
+  1969 = Senin), 01710 (isi mengutip "Keppres No. 132 tahun 1969" —
+  Keppres 132 itu 24 Agu 1967; yg bertanggal 1969 adalah Keppres 79/1969).
+- **15 perbaikan date/title:** 00312 pindah ke 1968 (isi + description
+  "KAMIS, 11 APRIL 1968", footnote hal. 10 buku Jejak Langkah; 11 Apr
+  1968 memang Kamis); 00756 → 24 Jul 1969 (isi "KAMIS, 24 Juli 1969",
+  konsisten dgn kunjungan Nixon 27 Jul); 00682 + 00950 perbaikan judul
+  (spasi ganda dari judul terlipat); 11 dibawa dari pilot (9
+  tanggal-perpustakaan + 01165/01166).
+- **20 relasi `menyebut` baru** (total 35). Kriteria ketat dipertahankan:
+  sebagian besar kandidat mesin ditolak — "stabilisasi ekonomi" sbg nama
+  dewan ≠ "Stabilitas Nasional"; "ketahanan nasional" bukan entri
+  glosarium (hanya 4 konsep); Pelita belum ada halaman entitasnya.
+- **Indeks diperbarui:** seksi 1968 = **82** kliping, seksi 1969 =
+  **131** kliping; semua seksi lain hitungannya cocok.
+- **Spot-check terkonfirmasi:** Keppres 19/1969 (Kopkamtib, JDIH BKPM),
+  Keppres 22/1969 (haji, JDIH BPK), kunjungan Nixon 27–28 Jul 1969
+  (history.state.gov; kunjungan pertama Presiden AS ke Indonesia),
+  kunjungan Indira Gandhi 28 Jun–3 Jul 1969, UU 5/1969 (5 Jul 1969),
+  Pepera 14 Jul–2 Agu 1969, ACC 7 negara, Hari Koperasi ke-22,
+  pembakaran Al-Aqsa 21 Agu 1969, kunjungan Irian Barat Sep 1969
+  (UU 12/1969).
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1969_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1969.py` di folder yang sama.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1969 (**134** artikel — 132 + 2 pindahan dari pilot),
-  1970 (135), 1971 (106), 1972 (84), 1973 (78), 1974 (82), 1975 (88),
-  1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
+- Urutan batch: 1970 (135), 1971 (106), 1972 (84), 1973 (78), 1974 (82),
+  1975 (88), 1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (177, terakhir).
 - Yang ikut dikerjakan di batch baca: 2 tanggal invalid
   (1973-18-22, 1975-19-17) dan **184 judul frontmatter terpotong**
