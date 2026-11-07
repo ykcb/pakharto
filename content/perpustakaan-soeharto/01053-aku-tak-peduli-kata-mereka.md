@@ -3,7 +3,7 @@ title: Aku Tak Peduli Kata Mereka
 description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/aku-tak-peduli-kata-mereka/respond) 96 Views
   Share on
-date: '2013-08-24'
+date: '1998-06-08'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -14,13 +14,13 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/aku-tak-peduli-kata-mereka/
   judul: Aku Tak Peduli Kata Mereka
-  tanggal: '2013-08-24'
+  tanggal: '1998-06-08'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

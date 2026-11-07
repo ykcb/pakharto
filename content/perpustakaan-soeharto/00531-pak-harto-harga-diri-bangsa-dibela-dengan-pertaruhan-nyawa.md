@@ -24,8 +24,8 @@ tags:
 - universitas-padjajaran
 - uud-1945
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-harga-diri-bangsa-dibela-dengan-pertaruhan-nyawa/

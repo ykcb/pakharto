@@ -3,7 +3,7 @@ title: Presiden Soeharto Menyerahkan Mobil Ambulan
 description: 'Strategi Presiden Soeharto dalam membangun kembali Indonesia dikenal
   dengan Trilogi Pembangunan. Yaitu: 1. Stabilitas Nasional, 2. Pembangunan di Segala
   Bidang, dan 3. Pemerataan Pembangunan. Tak terkecuali dalam pembangunan sektor...'
-date: '2013-04-10'
+date: '1974-08-20'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,17 +19,21 @@ tags:
 - puskesmas
 - trilogi-pembangunan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-menyerahkan-mobil-ambulan/
   judul: Presiden Soeharto Menyerahkan Mobil Ambulan
-  tanggal: '2013-04-10'
+  tanggal: '1974-08-20'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-menyerahkan-mobil-ambulan/
+- predikat: menyebut
+  objek: glosarium-istilah-orde-baru
+  sumber: https://soehartolibrary.id/presiden-soeharto-menyerahkan-mobil-ambulan/
+
 ---
 
 

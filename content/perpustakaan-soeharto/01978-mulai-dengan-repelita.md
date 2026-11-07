@@ -3,7 +3,7 @@ title: Mulai dengan Repelita I
 description: 18 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/mulai-dengan-repelita/respond) 590 Views
   Share on
-date: '2018-01-19'
+date: '1969-04-01'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -21,17 +21,21 @@ tags:
 - repelita-i
 - widjojo-nitisostro
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mulai-dengan-repelita/
   judul: Mulai dengan Repelita I
-  tanggal: '2018-01-19'
+  tanggal: '1969-04-01'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/mulai-dengan-repelita/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/mulai-dengan-repelita/
+
 ---
 
 

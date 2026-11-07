@@ -3,7 +3,7 @@ title: Tuntutan Reformasi Berlebihan
 description: 13 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/tuntutan-reformasi-berlebihan/respond) 137
   Views Share on
-date: '2017-07-04'
+date: '1998-06-22'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -20,13 +20,13 @@ tags:
 - reformasi
 - usa
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/tuntutan-reformasi-berlebihan/
   judul: Tuntutan Reformasi Berlebihan
-  tanggal: '2017-07-04'
+  tanggal: '1998-06-22'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

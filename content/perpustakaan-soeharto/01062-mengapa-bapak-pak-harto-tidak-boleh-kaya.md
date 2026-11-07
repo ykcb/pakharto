@@ -3,7 +3,7 @@ title: Mengapa Bapak (Pak Harto) Tidak Boleh Kaya
 description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/mengapa-bapak-pak-harto-tidak-boleh-kaya/respond)
   119 Views Share on
-date: '2013-08-29'
+date: '1998-06-20'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,13 +19,13 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mengapa-bapak-pak-harto-tidak-boleh-kaya/
   judul: Mengapa Bapak (Pak Harto) Tidak Boleh Kaya
-  tanggal: '2013-08-29'
+  tanggal: '1998-06-20'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

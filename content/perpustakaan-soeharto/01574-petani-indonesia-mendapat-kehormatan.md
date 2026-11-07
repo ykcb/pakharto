@@ -3,7 +3,7 @@ title: Petani Indonesia Mendapat Kehormatan
 description: 26 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/respond)
   158 Views Share on
-date: '2018-01-10'
+date: '1985-11-14'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -22,17 +22,21 @@ tags:
 - roma
 - swasembada-pangan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/
   judul: Petani Indonesia Mendapat Kehormatan
-  tanggal: '2018-01-10'
+  tanggal: '1985-11-14'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/
+
 ---
 
 

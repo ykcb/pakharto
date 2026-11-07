@@ -3,7 +3,7 @@ title: Di Hormati  Seluruh ASEAN
 description: I wish to you express my sincere respect as well as my appreciation for
   all you have accomplished during your precidency to strengthen relations between
   Thailand and Indonesia. Your contribution towards the stability and prosperity of...
-date: '2014-03-21'
+date: '1998-06-24'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -14,13 +14,13 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/di-hormati-seluruh-asean/
   judul: Di Hormati  Seluruh ASEAN
-  tanggal: '2014-03-21'
+  tanggal: '1998-06-24'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

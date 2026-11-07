@@ -20,8 +20,8 @@ tags:
 - presiden-soeharto
 - pt-krakatau-steel
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/arif-bijaksana-dan-rendah-hati-bagian-2/
@@ -31,6 +31,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/arif-bijaksana-dan-rendah-hati-bagian-2/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/arif-bijaksana-dan-rendah-hati-bagian-2/
+
 ---
 
 

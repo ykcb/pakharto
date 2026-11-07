@@ -3,7 +3,7 @@ title: 'Lopes da Cruz: Menyesalkan Sikap Pimpinan DPR/MPR'
 description: 19 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/lopes-da-cruz-menyesalkan-sikap-pimpinan-dprmpr/respond)
   86 Views Share on
-date: '2013-08-19'
+date: '1998-05-22'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -23,13 +23,13 @@ tags:
 - timor-timor
 - timor-timur
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/lopes-da-cruz-menyesalkan-sikap-pimpinan-dprmpr/
   judul: 'Lopes da Cruz: Menyesalkan Sikap Pimpinan DPR/MPR'
-  tanggal: '2013-08-19'
+  tanggal: '1998-05-22'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

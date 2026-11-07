@@ -3,7 +3,7 @@ title: 'Mahathir Mohamad: Kita Memiliki Kekhasan Demokrasi Sendiri'
 description: Tun Dr. Mahathir Mohamad berkunjung ke Jakarta dalam rangka program Mahathir
   Bicara pada hari Kamis, 8 November 2012 di Universitas Mercu Buana. Acara tersebut
   merupakan kerjasama Yayasan Harapan Kita dengan Jabatan Hal Ehwal Khas...
-date: '2014-04-06'
+date: '2012-11-08'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -22,13 +22,13 @@ tags:
 - singapura
 - thailand
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mahathir-mohamad-kita-memiliki-kekhasan-demokrasi-sendiri/
   judul: 'Mahathir Mohamad: Kita Memiliki Kekhasan Demokrasi Sendiri'
-  tanggal: '2014-04-06'
+  tanggal: '2012-11-08'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

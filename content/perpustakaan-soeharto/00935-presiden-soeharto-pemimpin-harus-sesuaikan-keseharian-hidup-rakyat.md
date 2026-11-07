@@ -3,7 +3,7 @@ title: 'Presiden Soeharto: Pemimpin Harus Sesuaikan Keseharian Hidup Rakyat'
 description: SABTU, 09 AGUSTUS 1969,Presiden Soeharto malam ini meresmkian Monumen
   Diponegoro, yang diberinya nama “Sasana Wiratmo”, di desa Tegalrejo, Yogyakarta.
   Dalam amanatnya, Presiden menyerukan agar pemimpin-pemimpin pembangunan, dalam sikap...
-date: '2017-08-24'
+date: '1969-08-09'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -18,13 +18,13 @@ tags:
 - tegalrejo
 - yogyakarta
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-pemimpin-harus-sesuaikan-keseharian-hidup-rakyat/
   judul: 'Presiden Soeharto: Pemimpin Harus Sesuaikan Keseharian Hidup Rakyat'
-  tanggal: '2017-08-24'
+  tanggal: '1969-08-09'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

@@ -3,7 +3,7 @@ title: Presiden Soeharto Resmikan 19 Pabrik di Tangerang
 description: Pembangunan merupakan salah satu cara mengisi kemerdekaan. Sejak diangkat
   sebagai Pejabat Presidan dan akhirnya terpilih kembali sebagai Presiden selama beberapa
   periode, Presiden Soeharto sangat gigih melakukan pembangunan di segala...
-date: '2013-03-18'
+date: '1976-08-04'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -18,13 +18,13 @@ tags:
 - soeharto
 - tangerang
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-resmikan-19-pabrik-di-tangerang/
   judul: Presiden Soeharto Resmikan 19 Pabrik di Tangerang
-  tanggal: '2013-03-18'
+  tanggal: '1976-08-04'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

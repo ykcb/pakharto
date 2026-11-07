@@ -2,7 +2,7 @@
 title: Bukan Kemauan Rakyat
 description: Bersama ini terkirim salam hormat saya ke hadapan Bapak, semoga Bapak
   dan keluarga dalam lindungan Allah swt. Aminn.
-date: '2013-08-04'
+date: '1998-05-27'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -16,13 +16,13 @@ tags:
 - presiden-soeharto
 - sd-inpres
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/bukan-kemauan-rakyat/
   judul: Bukan Kemauan Rakyat
-  tanggal: '2013-08-04'
+  tanggal: '1998-05-27'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

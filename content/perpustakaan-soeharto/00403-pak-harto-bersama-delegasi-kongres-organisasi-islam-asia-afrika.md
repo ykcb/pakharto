@@ -3,7 +3,7 @@ title: Pak Harto Bersama Delegasi Kongres Organisasi Islam Asia Afrika
 description: Pak Harto memaksimalkan semua potensi yang ada untuk meneguhkan peran
   politik luar negeri Indonesia dalam rangka menjalankan misi amanat UUD 1945 “Turut
   Serta Mewujudkan Perdamaian Dunia”. Termasuk potensi Indonesia sebagai negara...
-date: '2017-08-28'
+date: '1970-10-12'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -18,13 +18,13 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-bersama-delegasi-kongres-organisasi-islam-asia-afrika/
   judul: Pak Harto Bersama Delegasi Kongres Organisasi Islam Asia Afrika
-  tanggal: '2017-08-28'
+  tanggal: '1970-10-12'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

@@ -3,7 +3,7 @@ title: Presiden Soeharto Menerima Delegasi Musyawarah Nasional Mahasiswa
 description: Presiden Soeharto dikenal sebagai sosok pendengar yang baik. Termasuk
   mendengarkan masukan dari berbagai kalangan terhadap keputusan yang hendak diambil.
   Namun ia juga dikenal sangat tegar dalam prinsip dan apabila sudah menjadi...
-date: '2013-04-10'
+date: '1970-12-20'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -18,13 +18,13 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-menerima-delegasi-musyawarah-nasional-mahasiswa/
   judul: Presiden Soeharto Menerima Delegasi Musyawarah Nasional Mahasiswa
-  tanggal: '2013-04-10'
+  tanggal: '1970-12-20'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

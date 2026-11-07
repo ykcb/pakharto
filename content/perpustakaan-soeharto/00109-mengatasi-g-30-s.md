@@ -3,7 +3,7 @@ title: Mengatasi G 30 S/PKI
 description: Tanggal 30 September 1965. Kira-kira pukul sembilan malam saya bersama
   istri saya berada di Rumah Sakit Gatot Subroto. Kami menengok anak kami, Tomy, yang
   masih berumur empat tahun, dirawat disana karena tersiram air sup yang panas....
-date: '2018-01-10'
+date: '1965-09-30'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -27,13 +27,13 @@ tags:
 - supardjo
 - untung
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mengatasi-g-30-s/
   judul: Mengatasi G 30 S/PKI
-  tanggal: '2018-01-10'
+  tanggal: '1965-09-30'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

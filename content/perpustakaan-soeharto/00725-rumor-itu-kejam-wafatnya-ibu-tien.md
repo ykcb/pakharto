@@ -20,8 +20,8 @@ tags:
 - taman-buah-mekarsari
 - wafat
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/rumor-itu-kejam-wafatnya-ibu-tien/

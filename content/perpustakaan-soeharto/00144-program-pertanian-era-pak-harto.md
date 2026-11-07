@@ -24,8 +24,8 @@ tags:
 - roma
 - swasembada
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/program-pertanian-era-pak-harto/
@@ -35,6 +35,13 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/program-pertanian-era-pak-harto/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/program-pertanian-era-pak-harto/
+- predikat: menyebut
+  objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/program-pertanian-era-pak-harto/
+
 ---
 
 

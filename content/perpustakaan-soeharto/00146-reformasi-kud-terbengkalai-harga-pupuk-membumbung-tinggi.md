@@ -18,8 +18,8 @@ tags:
 - pupuk
 - ukm
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
@@ -29,6 +29,16 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
+- predikat: menyebut
+  objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
+- predikat: menyebut
+  objek: krisis-dan-reformasi-1998
+  sumber: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
+
 ---
 
 

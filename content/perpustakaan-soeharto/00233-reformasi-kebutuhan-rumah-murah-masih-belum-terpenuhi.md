@@ -14,8 +14,8 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/reformasi-kebutuhan-rumah-murah-masih-belum-terpenuhi/
@@ -25,6 +25,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/reformasi-kebutuhan-rumah-murah-masih-belum-terpenuhi/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/reformasi-kebutuhan-rumah-murah-masih-belum-terpenuhi/
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Hati Saya Hancur
 description: Saya memberanikan diri untuk menulis surat kepada Bapak, karena saya
   sudah tidak bisa menahan prihatin atas apa yang tengah menimpa diri Bapak.
-date: '2013-07-22'
+date: '1998-09-10'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -16,13 +16,13 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/hati-saya-hancur/
   judul: Hati Saya Hancur
-  tanggal: '2013-07-22'
+  tanggal: '1998-09-10'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

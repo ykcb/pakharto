@@ -3,7 +3,7 @@ title: Bapak Integrasi TIMTIM
 description: Dengan segala kerendahan hati, kami sampaikan salam hormat, Semoga Bapak
   selalu dalam keadaan sehat wal afiat dalam lindungan dan rahmat Tuhan Yang Maha
   Esa.
-date: '2013-07-26'
+date: '1998-05-21'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -18,13 +18,13 @@ tags:
 - presiden-soeharto
 - student-movement
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/bapak-integrasi-timtim/
   judul: Bapak Integrasi TIMTIM
-  tanggal: '2013-07-26'
+  tanggal: '1998-05-21'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

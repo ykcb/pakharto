@@ -3,7 +3,7 @@ title: Diangkatlah Saya Jadi Presiden RI yang Kedua
 description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/respond)
   199 Views Share on
-date: '2018-01-10'
+date: '1968-03-27'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,17 +19,21 @@ tags:
 - presiden-soeharto
 - presiden-soekarno
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/
   judul: Diangkatlah Saya Jadi Presiden RI yang Kedua
-  tanggal: '2018-01-10'
+  tanggal: '1968-03-27'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/
+- predikat: menyebut
+  objek: glosarium-istilah-orde-baru
+  sumber: https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/
+
 ---
 
 

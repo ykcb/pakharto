@@ -3,7 +3,7 @@ title: Selamat Dari PKI Berkat Bapak
 description: 29 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/respond) 93
   Views Share on
-date: '2013-08-29'
+date: '1998-08-03'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -16,13 +16,13 @@ tags:
 - perpustakaan-soeharto
 - pki
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/
   judul: Selamat Dari PKI Berkat Bapak
-  tanggal: '2013-08-29'
+  tanggal: '1998-08-03'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

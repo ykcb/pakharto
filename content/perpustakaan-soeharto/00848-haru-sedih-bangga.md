@@ -3,7 +3,7 @@ title: Haru, Sedih, Bangga
 description: Pada 21 Mei 1998, saya mengikuti (melalui televisi) acara pidato pernyataan
   berhenti Bapak Soeharto sebagai presiden Republik Indonesia. Rasa haru, sedih, bahagia
   dan bangga bercampur baur saat itu. Rasa sedih karena Bapak Soeharto yang...
-date: '2013-07-28'
+date: '1998-05-26'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,13 +19,13 @@ tags:
 - presiden-soeharto
 - sedih
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/haru-sedih-bangga/
   judul: Haru, Sedih, Bangga
-  tanggal: '2013-07-28'
+  tanggal: '1998-05-26'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

@@ -3,7 +3,7 @@ title: Presiden Soeharto Saksikan Pameran Alat-Alat Pertanian
 description: Skenario Perjuangan Tinggal Landas yang digariskan Presiden Soeharto
   adalah terwujudnya Indonesia sebagai negara yang mandiri secara ekonomi, sosial,
   budaya, ilmu pengetahuan dan teknologi serta pertahanan dan keamanan. Sebuah profil...
-date: '2013-04-14'
+date: '1981-08-15'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,13 +19,13 @@ tags:
 - presiden-soeharto
 - tinggal-landas-2
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-saksikan-pameran-alat-alat-pertanian/
   judul: Presiden Soeharto Saksikan Pameran Alat-Alat Pertanian
-  tanggal: '2013-04-14'
+  tanggal: '1981-08-15'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

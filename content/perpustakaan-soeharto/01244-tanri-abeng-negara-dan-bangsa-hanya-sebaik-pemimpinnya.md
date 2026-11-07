@@ -14,8 +14,8 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/
@@ -25,6 +25,13 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/
+- predikat: menyebut
+  objek: krisis-dan-reformasi-1998
+  sumber: https://soehartolibrary.id/tanri-abeng-negara-dan-bangsa-hanya-sebaik-pemimpinnya/
+
 ---
 
 

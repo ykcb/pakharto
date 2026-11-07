@@ -1,7 +1,7 @@
 ---
 title: 'Julius K. Nyerere: Melawan Imperialisme Ekonomi'
 description: Office of the President of the Republic Indonesia
-date: '2013-07-28'
+date: '1998-05-26'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -16,13 +16,13 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/julius-k-nyerere-melawan-imperialisme-ekonomi/
   judul: 'Julius K. Nyerere: Melawan Imperialisme Ekonomi'
-  tanggal: '2013-07-28'
+  tanggal: '1998-05-26'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

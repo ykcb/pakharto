@@ -3,7 +3,7 @@ title: Diplomasi Demi Harga Diri Bangsa
 description: BERBAGAI persoalan Indonesia dengan negara lain, seperti Malaysia dan
   Australia, selalu disikapi Pemerintah hanya dengan nota protes. Padahal, DPR dan
   masyarakat kerap menyuarakan desakan agar Pemerintah berani bertindak lebih tegas....
-date: '2015-02-25'
+date: '1973-05-28'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -20,13 +20,13 @@ tags:
 - tmp-kalibata
 - usman
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/diplomasi-demi-harga-diri-bangsa/
   judul: Diplomasi Demi Harga Diri Bangsa
-  tanggal: '2015-02-25'
+  tanggal: '1973-05-28'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

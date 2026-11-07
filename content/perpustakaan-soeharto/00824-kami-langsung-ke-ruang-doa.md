@@ -3,7 +3,7 @@ title: Kami Langsung Ke Ruang Do’a
 description: Bapak Soeharto, yang ananda kasihi, ananda adalah salah seorang anak
   Indonesia yang lahir di masa Orde Pembangunan yang Bapak pimpin. Ananda bersyukur
   dapat mengecap pendidikan sampai pada saat ini, dan terus berdoa untuk perjalanan...
-date: '2013-07-22'
+date: '1998-05-21'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -17,13 +17,13 @@ tags:
 - presiden-soeharto
 - ruang-doa
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/kami-langsung-ke-ruang-doa/
   judul: Kami Langsung Ke Ruang Do’a
-  tanggal: '2013-07-22'
+  tanggal: '1998-05-21'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

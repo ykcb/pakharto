@@ -3,7 +3,7 @@ title: Presiden Soeharto Menerima Presiden Korsel
 description: Konsistensi dalam memegang teguh prinsip politik luar negeri bebas aktif
   dalam rangka menjalankan amanat UUD 1945 untuk turut serta mewujudkan ketertiban
   dunia, Indonesia di bawah kepemimpinan Presiden Soeharto memperoleh apresiasi...
-date: '2013-04-10'
+date: '1981-06-21'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -16,13 +16,13 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-menerima-presiden-korsel/
   judul: Presiden Soeharto Menerima Presiden Korsel
-  tanggal: '2013-04-10'
+  tanggal: '1981-06-21'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

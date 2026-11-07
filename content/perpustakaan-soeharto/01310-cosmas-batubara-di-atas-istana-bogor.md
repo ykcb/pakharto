@@ -3,7 +3,7 @@ title: 'Cosmas Batubara: Di Atas Istana Bogor'
 description: 10 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/cosmas-batubara-di-atas-istana-bogor/respond)
   123 Views Share on
-date: '2013-09-10'
+date: '1966-01-15'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -22,13 +22,13 @@ tags:
 - presiden-soeharto
 - tritura
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/cosmas-batubara-di-atas-istana-bogor/
   judul: 'Cosmas Batubara: Di Atas Istana Bogor'
-  tanggal: '2013-09-10'
+  tanggal: '1966-01-15'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

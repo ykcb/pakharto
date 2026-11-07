@@ -24,8 +24,8 @@ tags:
 - satelit-palapa
 - sumpah-gajah-mada
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/menjelmakan-sumpah-gajah-mada/

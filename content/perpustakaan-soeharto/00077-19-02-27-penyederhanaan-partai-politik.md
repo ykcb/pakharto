@@ -1,7 +1,7 @@
 ---
-title: 19-02-27 Penyederhanaan Partai Politik
+title: '1970-02-27 Penyederhanaan Partai Politik'
 description: (Presiden Mengemukakan Gagasan Pengelompokan Partai Kedalam Tiga Golongan)
-date: '2017-08-28'
+date: '1970-02-27'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -21,13 +21,13 @@ tags:
 - spiritual
 - tiga-golongan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/19-02-27-penyederhanaan-partai-politik/
   judul: 19-02-27 Penyederhanaan Partai Politik
-  tanggal: '2017-08-28'
+  tanggal: '1970-02-27'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -35,7 +35,7 @@ relasi:
 ---
 
 
-# 19-02-27 Penyederhanaan Partai Politik
+# 1970-02-27 Penyederhanaan Partai Politik
 
 PENGELOMPOKAN PARTAI POLITIK
 (Presiden Mengemukakan Gagasan Pengelompokan Partai Kedalam Tiga Golongan)[1]

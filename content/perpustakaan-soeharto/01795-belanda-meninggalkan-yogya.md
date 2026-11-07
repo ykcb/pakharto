@@ -3,7 +3,7 @@ title: Belanda Meninggalkan Yogya
 description: 7 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/belanda-meninggalkan-yogya/respond) 230
   Views Share on
-date: '2018-01-10'
+date: '1949-06-30'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -14,13 +14,13 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/belanda-meninggalkan-yogya/
   judul: Belanda Meninggalkan Yogya
-  tanggal: '2018-01-10'
+  tanggal: '1949-06-30'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

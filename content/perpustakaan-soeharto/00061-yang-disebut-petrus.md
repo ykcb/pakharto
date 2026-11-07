@@ -25,8 +25,8 @@ tags:
 - petrus
 - shock-theraphy
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/yang-disebut-petrus/
@@ -36,6 +36,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/yang-disebut-petrus/
+- predikat: menyebut
+  objek: penembakan-misterius-petrus
+  sumber: https://soehartolibrary.id/yang-disebut-petrus/
+
 ---
 
 

@@ -3,7 +3,7 @@ title: Memantulkan Spirit Gajah Mada
 description: Pada tanggal 16-8-1976 Presiden Soeharto meresmikan “Sistem Komunikasi
   Satelit Domestik” (SKSD), di Gedung DPR RI. Satelit ini dinamakan satelit Palapa,
   dimana Presiden Soeharto hendak memantulkan spirit Gajah Mada mempersatukan...
-date: '2013-08-31'
+date: '1976-08-16'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -20,13 +20,13 @@ tags:
 - sistem
 - sksd
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/memantulkan-spirit-gajah-mada/
   judul: Memantulkan Spirit Gajah Mada
-  tanggal: '2013-08-31'
+  tanggal: '1976-08-16'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

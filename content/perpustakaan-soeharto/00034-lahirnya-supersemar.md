@@ -3,7 +3,7 @@ title: Lahirnya “Supersemar”
 description: Menteri Veteran Mayjen. Basuki Rahmat, Menteri Perindustrian Ringan Brigjen.
   M. Yusuf, dan Pangdam V Jaya Brigjen Amirmachmud datang di rumah saya, di Jalan
   Haji Agis Salim. Dalam keadaan flu berat, batuk-batuk dan tidak bisa bicara...
-date: '2018-01-10'
+date: '1966-03-11'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -22,13 +22,13 @@ tags:
 - subandrio
 - supersemar
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/lahirnya-supersemar/
   judul: Lahirnya “Supersemar”
-  tanggal: '2018-01-10'
+  tanggal: '1966-03-11'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

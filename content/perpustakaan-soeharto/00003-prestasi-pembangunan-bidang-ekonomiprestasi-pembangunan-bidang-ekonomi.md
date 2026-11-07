@@ -16,8 +16,8 @@ tags:
 - prestasi-pembangunan-2
 - tinggal-landas-2
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
@@ -27,6 +27,13 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
+- predikat: menyebut
+  objek: krisis-dan-reformasi-1998
+  sumber: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
+
 ---
 
 

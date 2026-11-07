@@ -15,8 +15,8 @@ tags:
 - perpustakaan-soeharto
 - presiden
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mehamai-filsafat-hidup-pak-harto/
