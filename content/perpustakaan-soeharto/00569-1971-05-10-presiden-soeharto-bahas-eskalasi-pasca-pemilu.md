@@ -4,9 +4,9 @@ description: SENIN, 10 Mei 1971, Pada jam 10.00 siang ini, Menteri Dalam Negeri 
   rombongan telah menghadap Presiden Soeharto di kediamannya. Dalam pertemuan ini
   telah dibahas kemungkinan-kemungkinan perkembangan politik Indonesia setelah...
 date: '1971-05-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-05-10-presiden-soeharto-bahas-eskalasi-pasca-pemilu
 aliases:
 - Presiden Soeharto Bahas Eskalasi Pasca Pemilu
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - politik
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-10-presiden-soeharto-bahas-eskalasi-pasca-pemilu/
   judul: 1971-05-10 Presiden Soeharto Bahas Eskalasi Pasca Pemilu
   tanggal: '1971-05-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-05-10-presiden-soeharto-bahas-eskalasi-pasca-pemilu/
 ---
 

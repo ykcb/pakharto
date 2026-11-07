@@ -4,9 +4,9 @@ description: SABTU, 12 MEI 1970, Dalam sidang Stabilisasi Ekonomi di Bina Graha 
   ini Presiden Soeharto antara lain menginstruksikan kepada para Menteri untuk meningkatkan
   pengawasan terhadap proyek-proyek pembangunan yang selama ini dirasakan...
 date: '1970-05-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-12-presiden-soeharto-instruksikan-peningkatan-pengawasan-pembangunan
 aliases:
 - Presiden Soeharto Instruksikan Peningkatan Pengawasan Pembangunan
@@ -19,16 +19,17 @@ tags:
 - pengawasan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-12-presiden-soeharto-instruksikan-peningkatan-pengawasan-pembangunan/
   judul: 1970-05-12 Presiden Soeharto Instruksikan Peningkatan Pengawasan Pembangunan
   tanggal: '1970-05-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-12-presiden-soeharto-instruksikan-peningkatan-pengawasan-pembangunan/
 ---
 

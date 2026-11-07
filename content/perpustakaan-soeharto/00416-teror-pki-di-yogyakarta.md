@@ -4,9 +4,9 @@ description: Revolusi Bolshevik tahun 1917– 1923 sukses menghancurkan kekaisar
   ortodok di Soviet.Komunis Soviet dibantu makar konspirasi global berhasil meluluhlantakkan
   dua pranata sekaligus. Institusi politik kerajaan dibongkar menjadi...
 date: '2013-04-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: teror-pki-di-yogyakarta
 aliases:
 - Teror  PKI Di Yogyakarta – HM Soeharto
@@ -21,16 +21,17 @@ tags:
 - pki
 - tapak-suci
 - yogyakarta
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/teror-pki-di-yogyakarta/
   judul: Teror  PKI Di Yogyakarta
   tanggal: '2013-04-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/teror-pki-di-yogyakarta/
 ---
 

@@ -4,9 +4,9 @@ description: SELASA, 30 April 1974, Pemerintah tidak bisa menganggap peristiwa s
   yang terjadi pada tanggal 15-16 Januari yang lalu sebagai sudah selesai. Sebab,
   kita harus tetap waspada terhadap usaha-usaha yang telah dan mungkin akan...
 date: '1974-04-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-04-30-letjen-yoga-sugama-laporkan-peristiwa-malari
 aliases:
 - Letjen. Yoga Sugama Laporkan Peristiwa Malari
@@ -18,16 +18,17 @@ tags:
 - presiden-soeharto
 - subversi
 - yoga-sugama
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-04-30-letjen-yoga-sugama-laporkan-peristiwa-malari/
   judul: 1974-04-30 Letjen. Yoga Sugama Laporkan Peristiwa Malari
   tanggal: '1974-04-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-04-30-letjen-yoga-sugama-laporkan-peristiwa-malari/
 ---
 

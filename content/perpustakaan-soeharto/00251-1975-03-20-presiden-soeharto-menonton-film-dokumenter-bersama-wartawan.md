@@ -4,9 +4,9 @@ description: KAMIS, 20 MARET 1975, Para wartawan yang selama ini bertugas melipu
   berita mengenai kegiatan kepresidenan, siang ini diundang Presiden Soeharto untuk
   bersamanya menonton sebuah film dokumenter di Bina Graha. Film yang ditonton itu...
 date: '1975-03-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-03-20-presiden-soeharto-menonton-film-dokumenter-bersama-wartawan
 aliases:
 - Presiden Soeharto Menonton Film Dokumenter Bersama Wartawan
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wartawan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-03-20-presiden-soeharto-menonton-film-dokumenter-bersama-wartawan/
   judul: 1975-03-20 Presiden Soeharto Menonton Film Dokumenter Bersama Wartawan
   tanggal: '1975-03-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-03-20-presiden-soeharto-menonton-film-dokumenter-bersama-wartawan/
 ---
 

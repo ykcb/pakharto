@@ -5,9 +5,9 @@ description: SENIN, 5 JANUARI 1970, Melakukan tradisi baru yang mulai dilakukan 
   tahun yang lalu, jam 10.00 pagi Presiden Soeharto menyampaikan pokok-pokok RAPBN
   1970/1971 di hadapan rapat pleno terbuka DPR-GR. Penjelasan ini diberikan dalam...
 date: '1970-01-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr
 aliases:
 - Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan DPR-GR
@@ -32,17 +32,18 @@ tags:
 - repelita
 - rupiah
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr/
   judul: 1970-01-05 Lakukan Tradisi Baru, Presiden Soeharto Sampaikan RAPBN di Hadapan
     DPR-GR
   tanggal: '1970-01-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr/
 ---
 

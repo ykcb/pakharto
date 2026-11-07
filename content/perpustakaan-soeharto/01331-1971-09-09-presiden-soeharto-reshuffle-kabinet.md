@@ -4,9 +4,9 @@ description: 12 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1971-09-09-presiden-soeharto-reshuffle-kabinet/respond)
   129 Views Share on
 date: '1971-09-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-09-09-presiden-soeharto-reshuffle-kabinet
 aliases:
 - Presiden Soeharto Reshuffle Kabinet
@@ -28,16 +28,17 @@ tags:
 - prof-dr-mukti-ali
 - prof-dr-widjaja-nitisastro
 - reshuffle-kabinet
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-09-09-presiden-soeharto-reshuffle-kabinet/
   judul: 1971-09-09 Presiden Soeharto Reshuffle Kabinet
   tanggal: '1971-09-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-09-09-presiden-soeharto-reshuffle-kabinet/
 ---
 

@@ -4,9 +4,9 @@ description: RABU, 22 Maret 1972, Presiden Soeharto secara mendadak meninjau Mus
   Pusat di Jalan Merdeka Barat, Jakarta. Ketika mengakhiri kunjungan tersebut, Presiden
   menuliskan kesan-kesannya dalam buku tamu. Kepada para wartawan, Presiden...
 date: '1972-03-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-22-presiden-soeharto-kunjungi-museum-pusat-dan-peternakan-ayam
 aliases:
 - Presiden Soeharto Kunjungi Museum Pusat dan Peternakan Ayam
@@ -21,16 +21,17 @@ tags:
 - peternakan
 - presiden-soeharto
 - ternak
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-22-presiden-soeharto-kunjungi-museum-pusat-dan-peternakan-ayam/
   judul: 1972-03-22 Presiden Soeharto Kunjungi Museum Pusat dan Peternakan Ayam
   tanggal: '1972-03-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-22-presiden-soeharto-kunjungi-museum-pusat-dan-peternakan-ayam/
 ---
 

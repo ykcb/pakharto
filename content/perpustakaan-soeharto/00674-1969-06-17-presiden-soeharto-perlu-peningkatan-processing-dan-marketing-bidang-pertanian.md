@@ -5,9 +5,9 @@ description: SELASA, 17 JUNI 1969, “Tidak ada hal yang mengkhawatirkan di bida
   pada saat ini”, demikian antara lain kesimpulan rapat Sub-Dewan Stabilisasi Ekonomi
   yang dipimpin oleh Presiden Soeharto pagi ini di Istana Merdeka. Walaupun...
 date: '1969-06-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-06-17-presiden-soeharto-perlu-peningkatan-processing-dan-marketing-bidang-pertanian
 aliases:
 - 'Presiden Soeharto: Perlu Peningkatan Processing dan Marketing Bidang Pertanian'
@@ -21,17 +21,18 @@ tags:
 - pertanian
 - presiden-soeharto
 - tani-makmur
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-17-presiden-soeharto-perlu-peningkatan-processing-dan-marketing-bidang-pertanian/
   judul: '1969-06-17 Presiden Soeharto: Perlu Peningkatan Processing dan Marketing
     Bidang Pertanian'
   tanggal: '1969-06-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-06-17-presiden-soeharto-perlu-peningkatan-processing-dan-marketing-bidang-pertanian/
 ---
 

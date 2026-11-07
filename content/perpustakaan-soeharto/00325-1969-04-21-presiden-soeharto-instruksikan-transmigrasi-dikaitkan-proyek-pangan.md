@@ -4,9 +4,9 @@ description: SENIN, 21 APRIL 1969, Presiden Soeharto menekankan pentingnya trans
   dalam melaksanakan Repelita. Dalam hubungan ini Presiden menginstruksikan agar transmigrasi
   dikaitkan dengan proyek-proyek pangan di luar Jawa, khususnya proyek...
 date: '1969-04-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-04-21-presiden-soeharto-instruksikan-transmigrasi-dikaitkan-proyek-pangan
 aliases:
 - Presiden Soeharto Instruksikan Transmigrasi Dikaitkan Proyek Pangan
@@ -22,16 +22,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - transmigrasi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-21-presiden-soeharto-instruksikan-transmigrasi-dikaitkan-proyek-pangan/
   judul: 1969-04-21 Presiden Soeharto Instruksikan Transmigrasi Dikaitkan Proyek Pangan
   tanggal: '1969-04-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-04-21-presiden-soeharto-instruksikan-transmigrasi-dikaitkan-proyek-pangan/
 ---
 

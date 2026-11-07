@@ -4,9 +4,9 @@ description: SELASA, 21 Maret 1972, Di Bina Graha hari ini Presiden Soeharto men
   Menteri Luar Negeri Korea Selatan Kim Yong Shok. Pada kesempatan itu keduanya membahas
   usaha peningkatan kerjasama antara kedua Negara di bidang perdagangan,...
 date: '1972-03-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-21-presiden-soeharto-sahkan-batas-landas-kontinen-indonesia-muangthai
 aliases:
 - Presiden Soeharto Sahkan Batas Landas Kontinen Indonesia-Muangthai
@@ -24,16 +24,17 @@ tags:
 - presiden
 - selat
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-21-presiden-soeharto-sahkan-batas-landas-kontinen-indonesia-muangthai/
   judul: 1972-03-21 Presiden Soeharto Sahkan Batas Landas Kontinen Indonesia-Muangthai
   tanggal: '1972-03-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-21-presiden-soeharto-sahkan-batas-landas-kontinen-indonesia-muangthai/
 ---
 

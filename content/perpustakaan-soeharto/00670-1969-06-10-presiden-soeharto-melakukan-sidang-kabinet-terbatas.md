@@ -4,9 +4,9 @@ description: SELASA, 10 JUNI 1969, Pagi ini bertempat di Guest House Istana, Pre
   menrima laporan beberapa menteri dalam sidang kabinet terbatas. Menteri Perdagangan
   Sumitro Djojohadikusumo melaporkan bahwa tidak ada lagi bahaya inflasi di...
 date: '1969-06-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-06-10-presiden-soeharto-melakukan-sidang-kabinet-terbatas
 aliases:
 - Presiden Soeharto Melakukan Sidang Kabinet Terbatas
@@ -22,16 +22,17 @@ tags:
 - presiden-soeharto
 - sidang-kabinet
 - sumitro-djojohadikusumo
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-10-presiden-soeharto-melakukan-sidang-kabinet-terbatas/
   judul: 1969-06-10 Presiden Soeharto Melakukan Sidang Kabinet Terbatas
   tanggal: '1969-06-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-06-10-presiden-soeharto-melakukan-sidang-kabinet-terbatas/
 ---
 

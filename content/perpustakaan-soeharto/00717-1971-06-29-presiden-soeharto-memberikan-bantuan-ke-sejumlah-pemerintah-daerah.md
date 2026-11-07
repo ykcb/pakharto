@@ -4,9 +4,9 @@ description: SELASA, 29 Juni 1971, Beberapa pejabat daerah dari Jawa Tengah dan 
   Barat diterima oleh Presiden Soeharto di Bina Graha pagi ini. Pada kesempatan ini
   Presiden menyerahkan sumbangan Rp. 10 juta kepada Gubernur Jawa Tengah untuk...
 date: '1971-06-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-06-29-presiden-soeharto-memberikan-bantuan-ke-sejumlah-pemerintah-daerah
 aliases:
 - Presiden Soeharto Memberikan Bantuan Ke Sejumlah Pemerintah Daerah
@@ -28,16 +28,17 @@ tags:
 - universitas-tjokroaminoto
 - wonosari
 - yogyakarta
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-06-29-presiden-soeharto-memberikan-bantuan-ke-sejumlah-pemerintah-daerah/
   judul: 1971-06-29 Presiden Soeharto Memberikan Bantuan Ke Sejumlah Pemerintah Daerah
   tanggal: '1971-06-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-06-29-presiden-soeharto-memberikan-bantuan-ke-sejumlah-pemerintah-daerah/
 ---
 

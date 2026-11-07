@@ -5,9 +5,9 @@ description: SELASA, 04 Juli 1972. Presiden Soeharto menerima Menteri Luar Neger
   Inggris, Sir Alex Douglas Hume. Kepada pers Menteri Luar Negeri Inggris mengatakan
   bahwa pembicaraannya dengan Presiden Soeharto sangat berharga dan rahasia. (AFR).
 date: '1972-07-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-07-04-menlu-inggris-douglas-hume-pembicaraan-dengan-presiden-soeharto-berharga
 aliases:
 - 'Menlu Inggris Douglas Hume: Pembicaraan Dengan Presiden Soeharto Berharga'
@@ -21,17 +21,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sir-alex-douglas-hume
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-04-menlu-inggris-douglas-hume-pembicaraan-dengan-presiden-soeharto-berharga/
   judul: '1972-07-04 Menlu Inggris Douglas Hume: Pembicaraan Dengan Presiden Soeharto
     Berharga'
   tanggal: '1972-07-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-07-04-menlu-inggris-douglas-hume-pembicaraan-dengan-presiden-soeharto-berharga/
 ---
 

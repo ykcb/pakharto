@@ -4,9 +4,9 @@ description: SENIN, 11 April 1977, Prof. Dr. Habibie dalam kedudukannya sebagai 
   bidang teknologi Presiden, siang hari ini di Jalan Cendana, Jakarta, telah melaporkan
   kepada Presiden Soeharto mengenai perkembangan teknologi di Indonesia....
 date: '1977-04-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1977-04-11-presiden-soeharto-menerima-habibie-gubernur-bi-dan-menpan
 aliases:
 - Presiden Soeharto Menerima Habibie, Gubernur BI dan Menpan
@@ -21,16 +21,17 @@ tags:
 - presiden-soeharto
 - rachmat-saleh
 - sumarlin
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-04-11-presiden-soeharto-menerima-habibie-gubernur-bi-dan-menpan/
   judul: 1977-04-11 Presiden Soeharto Menerima Habibie, Gubernur BI dan Menpan
   tanggal: '1977-04-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1977-04-11-presiden-soeharto-menerima-habibie-gubernur-bi-dan-menpan/
 ---
 

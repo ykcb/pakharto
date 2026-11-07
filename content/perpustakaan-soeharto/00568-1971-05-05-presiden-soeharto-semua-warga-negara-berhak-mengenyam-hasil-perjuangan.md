@@ -4,9 +4,9 @@ description: RABU, 5 Mei 1971, Pada jam 9.00 pagi ini Presiden Soeharto menerima
   Menteri Luar Negeri Australia, LHE Bury, di Istana Merdeka. Hubungan ekonomi kedua
   negara merupakan pokok pembicaraan dalam pertemuan itu. Selain itu,...
 date: '1971-05-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-05-05-presiden-soeharto-semua-warga-negara-berhak-mengenyam-hasil-perjuangan
 aliases:
 - 'Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil Perjuangan'
@@ -21,17 +21,18 @@ tags:
 - presiden-soeharto
 - rakyat
 - tuna-netra
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-05-presiden-soeharto-semua-warga-negara-berhak-mengenyam-hasil-perjuangan/
   judul: '1971-05-05 Presiden Soeharto: Semua Warga Negara Berhak Mengenyam Hasil
     Perjuangan'
   tanggal: '1971-05-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-05-05-presiden-soeharto-semua-warga-negara-berhak-mengenyam-hasil-perjuangan/
 ---
 

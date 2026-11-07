@@ -4,9 +4,9 @@ description: Sebelum garis takdir mengantarkanya menjadi Presiden sebuah negara 
   dan multi kultural yang bernama Indonesia, Pak Harto ditempa dan berdialektika secara
   langsung dengan pergumulan kesulitan hidup masyarakat bawah pedesaan....
 date: '2013-04-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: memahami-filsafah-hidup-pak-harto-2
 aliases:
 - Memahami Falsafah Hidup Pak Harto (2) – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-ri
 - rakyat
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/memahami-filsafah-hidup-pak-harto-2/
   judul: Memahami Falsafah Hidup Pak Harto (2)
   tanggal: '2013-04-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/memahami-filsafah-hidup-pak-harto-2/
 ---
 

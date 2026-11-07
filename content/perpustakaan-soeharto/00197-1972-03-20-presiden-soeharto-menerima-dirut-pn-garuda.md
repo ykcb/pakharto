@@ -4,9 +4,9 @@ description: SENIN, 20 Maret 1972, Siang ini Presiden Soeharto mengharapkan agar
   Garuda dapat meningkatkan penerbangan dalam negeri guna menghadapi konferensi PATA
   pada tahun 1974. Harapan itu disampaikan kepada Direktur Utama PN Garuda Wiweko,...
 date: '1972-03-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-20-presiden-soeharto-menerima-dirut-pn-garuda
 aliases:
 - Presiden Soeharto Menerima Dirut PN Garuda
@@ -20,16 +20,17 @@ tags:
 - pni
 - presiden
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-20-presiden-soeharto-menerima-dirut-pn-garuda/
   judul: 1972-03-20 Presiden Soeharto Menerima Dirut PN Garuda
   tanggal: '1972-03-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-20-presiden-soeharto-menerima-dirut-pn-garuda/
 ---
 

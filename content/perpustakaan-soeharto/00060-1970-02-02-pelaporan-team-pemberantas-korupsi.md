@@ -4,9 +4,9 @@ description: SENIN 2 PEBRUARI 1970, Guna membantu pelaksanaan tugas Komisi Empat
   Presiden Soeharto meminta Jaksa Agung untuk melaporkan hasil kerja Team Pemberantas
   Korupsi (TPK) selama ini kepadanya. Hasil kerja TPK, yang selama ini belum pernah...
 date: '1970-02-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-02-02-pelaporan-team-pemberantas-korupsi
 aliases:
 - Pelaporan Team Pemberantas Korupsi
@@ -19,16 +19,17 @@ tags:
 - pemberantas
 - perpustakaan-soeharto
 - team
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-02-02-pelaporan-team-pemberantas-korupsi/
   judul: 1970-02-02 Pelaporan Team Pemberantas Korupsi
   tanggal: '1970-02-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-02-02-pelaporan-team-pemberantas-korupsi/
 ---
 

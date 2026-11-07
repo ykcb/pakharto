@@ -4,9 +4,9 @@ description: SABTU, 05 Juni 1972, Presiden Soeharto mensahkan persetujuan kerjas
   teknik antara RI dan Switzerland yang telah ditandatangani oleh wakil-wakil kedua
   negara di Jakarta pada tanggal 21 Januari 1971. Kerjasama itu antara lain meliputi...
 date: '1972-06-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-06-05-presiden-soeharto-mensahkan-kerjasama-teknik-ri-switzerland
 aliases:
 - Presiden Soeharto Mensahkan Kerjasama Teknik RI-Switzerland
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - switzerland
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-06-05-presiden-soeharto-mensahkan-kerjasama-teknik-ri-switzerland/
   judul: 1972-06-05 Presiden Soeharto Mensahkan Kerjasama Teknik RI-Switzerland
   tanggal: '1972-06-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-06-05-presiden-soeharto-mensahkan-kerjasama-teknik-ri-switzerland/
 ---
 

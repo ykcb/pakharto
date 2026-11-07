@@ -5,9 +5,9 @@ description: SABTU, 10 MEI 1969, Presiden Soeharto telah mensahkan ikut sertanya
   dalam pendirian Asian Coconut Community (ACC). ACC adalah perkumpulan tujuh negara
   penghasil kelapa dari Asia yang terdiri dari Srilangka, India, Muangthai,...
 date: '1969-05-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-05-10-presiden-soeharto-sahkan-keikutsertaan-pada-asosiasi-kelapa-dan-gula
 aliases:
 - Presiden Soeharto Sahkan Keikutsertaan Pada Asosiasi Kelapa dan Gula
@@ -26,17 +26,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sugar
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-05-10-presiden-soeharto-sahkan-keikutsertaan-pada-asosiasi-kelapa-dan-gula/
   judul: 1969-05-10 Presiden Soeharto Sahkan Keikutsertaan Pada Asosiasi Kelapa dan
     Gula
   tanggal: '1969-05-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-05-10-presiden-soeharto-sahkan-keikutsertaan-pada-asosiasi-kelapa-dan-gula/
 ---
 

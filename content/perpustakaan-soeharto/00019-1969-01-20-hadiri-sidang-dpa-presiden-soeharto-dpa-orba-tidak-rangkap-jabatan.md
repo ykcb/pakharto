@@ -4,9 +4,9 @@ description: SENIN, 20 JANUARI 1969 Presiden Soeharto pagi ini menghadiri sidang
   DPA tahun 1969 yang akan membahas masalah-masalah hukum. Dalam pidatonya Presiden
   Soeharto antara lain mengatakan bahwa dalam usaha mewujudkan stabilisasi...
 date: '1969-01-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan
 aliases:
 - 'Hadiri Sidang DPA, Presiden Soeharto: DPA Orba Tidak Rangkap Jabatan'
@@ -28,17 +28,18 @@ tags:
 - sidang
 - soksi
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan/
   judul: '1969-01-20 Hadiri Sidang DPA, Presiden Soeharto: DPA Orba Tidak Rangkap
     Jabatan'
   tanggal: '1969-01-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan/
 ---
 

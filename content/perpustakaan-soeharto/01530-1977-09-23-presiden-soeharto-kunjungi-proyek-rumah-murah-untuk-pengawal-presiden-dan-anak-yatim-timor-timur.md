@@ -4,9 +4,9 @@ title: 1977-09-23 Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal P
 description: 22 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur/respond)...
 date: '1977-09-23'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur
 aliases:
 - Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden dan Anak Yatim
@@ -26,17 +26,18 @@ tags:
 - presiden-soeharto
 - rumah-murah
 - timor-timur
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur/
   judul: 1977-09-23 Presiden Soeharto Kunjungi Proyek Rumah Murah Untuk Pengawal Presiden
     dan Anak Yatim Timor Timur
   tanggal: '1977-09-23'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1977-09-23-presiden-soeharto-kunjungi-proyek-rumah-murah-untuk-pengawal-presiden-dan-anak-yatim-timor-timur/
 ---
 

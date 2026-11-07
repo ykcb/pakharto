@@ -4,9 +4,9 @@ description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/bertugas-di-sulawesi-selatan/respond) 336
   Views Share on
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: bertugas-di-sulawesi-selatan
 aliases:
 - Bertugas di Sulawesi Selatan – HM Soeharto
@@ -16,16 +16,17 @@ tags:
 - perpustakaan-soeharto
 - ris
 - sulawesi-seatan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/bertugas-di-sulawesi-selatan/
   judul: Bertugas di Sulawesi Selatan
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/bertugas-di-sulawesi-selatan/
 ---
 

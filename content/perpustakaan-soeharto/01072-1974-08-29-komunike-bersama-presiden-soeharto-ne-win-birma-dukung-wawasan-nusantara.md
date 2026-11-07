@@ -5,9 +5,9 @@ description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara/respond)
   105 Views Share on
 date: '1974-08-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara
 aliases:
 - 'Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan Nusantara'
@@ -25,17 +25,18 @@ tags:
 - ratifikasi
 - singapura
 - wawasan-nusantara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara/
   judul: '1974-08-29 Komunike Bersama Presiden Soeharto-Ne Win: Birma Dukung Wawasan
     Nusantara'
   tanggal: '1974-08-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-08-29-komunike-bersama-presiden-soeharto-ne-win-birma-dukung-wawasan-nusantara/
 ---
 

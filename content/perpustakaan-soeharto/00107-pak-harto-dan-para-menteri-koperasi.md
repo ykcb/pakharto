@@ -4,9 +4,9 @@ description: Catatan kecil yang tertinggal mengenai bagaimana para Menteri yang 
   mengisi kiprah Orde Baru dalam pengembangan sektor pertanian yang ditopang oleh
   koperasi di Indonesia. Dari para menteri yang pernah bertanggungjawab terhadap...
 date: '2014-05-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-dan-para-menteri-koperasi
 aliases:
 - Pak Harto dan Para Menteri Koperasi – HM Soeharto
@@ -25,16 +25,17 @@ tags:
 - sidney
 - transmigrasi
 - wto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-dan-para-menteri-koperasi/
   judul: Pak Harto dan Para Menteri Koperasi
   tanggal: '2014-05-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-dan-para-menteri-koperasi/
 ---
 

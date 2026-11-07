@@ -4,25 +4,26 @@ description: Pemerintah reformasi masih kesulitan memenuhi kebutuhan rumah murah
   Indonesia. Dari kebutuhan sebanyak 600 ribu unit per tahun, pemerintah hanya bisa
   menyediakan 200 ribu unit rumah murah per tahun. Bagaimana cara pemerintah memenuhi...
 date: '2013-03-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: reformasi-kebutuhan-rumah-murah-masih-belum-terpenuhi
 aliases:
 - 'Reformasi: Kebutuhan Rumah Murah Masih Belum Terpenuhi – HM Soeharto'
 tags:
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/reformasi-kebutuhan-rumah-murah-masih-belum-terpenuhi/
   judul: 'Reformasi: Kebutuhan Rumah Murah Masih Belum Terpenuhi'
   tanggal: '2013-03-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/reformasi-kebutuhan-rumah-murah-masih-belum-terpenuhi/
 ---
 

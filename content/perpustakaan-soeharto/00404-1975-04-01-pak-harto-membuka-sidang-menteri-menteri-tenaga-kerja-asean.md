@@ -4,9 +4,9 @@ description: SELASA, 1 April 1975, Penciptaan lapangan kerja yang sebanyak-banya
   hanya dimungkinkan dengan pembangunan yang menyeluruh. Demikian dikemukakan oleh
   Presiden Soeharto ketika membuka sidang Menteri-Menteri Tenaga Kerja ASEAN, yang...
 date: '1975-04-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-01-pak-harto-membuka-sidang-menteri-menteri-tenaga-kerja-asean
 aliases:
 - Pak Harto Membuka Sidang Menteri-Menteri Tenaga Kerja ASEAN
@@ -20,16 +20,17 @@ tags:
 - tebu
 - tenaga-kerja
 - varietas
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-01-pak-harto-membuka-sidang-menteri-menteri-tenaga-kerja-asean/
   judul: 1975-04-01 Pak Harto Membuka Sidang Menteri-Menteri Tenaga Kerja ASEAN
   tanggal: '1975-04-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-01-pak-harto-membuka-sidang-menteri-menteri-tenaga-kerja-asean/
 ---
 

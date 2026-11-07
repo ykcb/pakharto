@@ -4,9 +4,9 @@ description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1974-10-31-presiden-soeharto-menerima-utusan-khusus-aljazair-dan-parlemen-soviet/respond)
   98 Views Share on
 date: '1974-10-31'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-10-31-presiden-soeharto-menerima-utusan-khusus-aljazair-dan-parlemen-soviet
 aliases:
 - Presiden Soeharto menerima Utusan Khusus Aljazair dan Parlemen Soviet
@@ -19,17 +19,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - soviet
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-10-31-presiden-soeharto-menerima-utusan-khusus-aljazair-dan-parlemen-soviet/
   judul: 1974-10-31 Presiden Soeharto menerima Utusan Khusus Aljazair dan Parlemen
     Soviet
   tanggal: '1974-10-31'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-10-31-presiden-soeharto-menerima-utusan-khusus-aljazair-dan-parlemen-soviet/
 ---
 

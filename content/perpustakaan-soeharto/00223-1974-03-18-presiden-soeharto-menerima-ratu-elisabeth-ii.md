@@ -4,9 +4,9 @@ description: SENIN, 18 Maret 1974, Ratu Elizabeth II dari Kerajaan Inggris hari 
   tiba di Pelabuhan Tanjung Priok, Jakarta, dalam rangka kunjungan kenegaraan di Indonesia
   sampai tanggal 22 Maret. Ini merupakan kunjungan pertama dari Kepala Negara...
 date: '1974-03-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-18-presiden-soeharto-menerima-ratu-elisabeth-ii
 aliases:
 - Presiden Soeharto Menerima Ratu Elisabeth II
@@ -20,16 +20,17 @@ tags:
 - priol
 - ratu
 - tanjung
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-18-presiden-soeharto-menerima-ratu-elisabeth-ii/
   judul: 1974-03-18 Presiden Soeharto Menerima Ratu Elisabeth II
   tanggal: '1974-03-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-18-presiden-soeharto-menerima-ratu-elisabeth-ii/
 ---
 

@@ -3,9 +3,9 @@ title: Prestasi Pembangunan – Bidang Ekonomi
 description: 'Selama pemerintahannya, Presiden Soeharto telah berhasil meletakkan
   kerangka tinggal landas dengan capaian-capaian bidang ekonomi antara lain:'
 date: '2014-04-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi
 aliases:
 - Prestasi Pembangunan – Bidang Ekonomi – HM Soeharto
@@ -15,16 +15,17 @@ tags:
 - perpustakaan-soeharto
 - prestasi-pembangunan-2
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
   judul: Prestasi Pembangunan – Bidang Ekonomi
   tanggal: '2014-04-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
 ---
 

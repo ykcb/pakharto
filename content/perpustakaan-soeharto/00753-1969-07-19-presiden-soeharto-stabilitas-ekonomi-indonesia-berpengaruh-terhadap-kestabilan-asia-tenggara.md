@@ -5,9 +5,9 @@ description: SABTU, 19 Juli 1969. Presiden Soeharto mengatakan bahwa rakyat Indo
   selalu menaruh perhatian yang besar terhadap AS. Ia juga gembira melihat kerjasama
   kedua negara, terutama di bidang ekonomi telah membawa hasil yang membesarkan...
 date: '1969-07-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-07-19-presiden-soeharto-stabilitas-ekonomi-indonesia-berpengaruh-terhadap-kestabilan-asia-tenggara
 aliases:
 - 'Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap Kestabilan
@@ -30,17 +30,18 @@ tags:
 - presiden-soeharto
 - ruu-pemilu
 - sunarsono
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-07-19-presiden-soeharto-stabilitas-ekonomi-indonesia-berpengaruh-terhadap-kestabilan-asia-tenggara/
   judul: '1969-07-19 Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap
     Kestabilan Asia Tenggara'
   tanggal: '1969-07-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-07-19-presiden-soeharto-stabilitas-ekonomi-indonesia-berpengaruh-terhadap-kestabilan-asia-tenggara/
 ---
 

@@ -5,9 +5,9 @@ description: SENIN, 9 Juli 1973, Pagi ini Presiden Soeharto menyerahkan tiga uni
   mobil pemadam kebakaran kepada Gubernur DKI Jakarta, Ali Sadikin dalam suatu upacara
   di lantai II Wisma Negara. Dalam sambutannya, Presiden mengharapkan agar unit-unit...
 date: '1973-07-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-07-09-presiden-soeharto-menyerahkan-mobil-pemadam-kebakaran-untuk-dki-jakarta
 aliases:
 - Presiden Soeharto Menyerahkan Mobil Pemadam Kebakaran Untuk DKI Jakarta
@@ -25,17 +25,18 @@ tags:
 - pemadam-kebakaran
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-07-09-presiden-soeharto-menyerahkan-mobil-pemadam-kebakaran-untuk-dki-jakarta/
   judul: 1973-07-09 Presiden Soeharto Menyerahkan Mobil Pemadam Kebakaran Untuk DKI
     Jakarta
   tanggal: '1973-07-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-07-09-presiden-soeharto-menyerahkan-mobil-pemadam-kebakaran-untuk-dki-jakarta/
 ---
 

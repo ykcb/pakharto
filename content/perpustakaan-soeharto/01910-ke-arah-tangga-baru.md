@@ -4,9 +4,9 @@ description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/ke-arah-tangga-baru/respond) 141 Views Share
   on
 date: '2014-04-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: ke-arah-tangga-baru
 aliases:
 - Ke Arah Tangga Baru – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - presiden-soekarno
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/ke-arah-tangga-baru/
   judul: Ke Arah Tangga Baru
   tanggal: '2014-04-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/ke-arah-tangga-baru/
 ---
 

@@ -4,9 +4,9 @@ description: RABU, 12 MARET 1975, Siang ini di Bina Graha, Presiden Soeharto men
   33 buah sepeda merek Turangga buatan pabrik sepeda milik Koperasi Pegawai Negeri
   seluruh Indonesia yang berlokasi di Tangerang, Jawa Barat. Ketika menyerahkan...
 date: '1975-03-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-03-12-presiden-soeharto-mencoba-sepeda-produk-dalam-negeri
 aliases:
 - Presiden Soeharto Mencoba Sepeda Produk Dalam Negeri
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - turangga
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-03-12-presiden-soeharto-mencoba-sepeda-produk-dalam-negeri/
   judul: 1975-03-12 Presiden Soeharto Mencoba Sepeda Produk Dalam Negeri
   tanggal: '1975-03-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-03-12-presiden-soeharto-mencoba-sepeda-produk-dalam-negeri/
 ---
 

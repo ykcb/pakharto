@@ -5,9 +5,9 @@ description: 4 September 2013 [Soeharto Library](https://soehartolibrary.id/auth
   [No Comment](https://soehartolibrary.id/1969-09-16-presiden-soeharto-resmikan-monumen-trikora-dan-irian-barat-daerah-otonom/respond)
   127 Views Share on
 date: '1969-09-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-09-16-presiden-soeharto-resmikan-monumen-trikora-dan-irian-barat-daerah-otonom
 aliases:
 - Presiden Soeharto Resmikan Monumen Trikora dan Irian Barat Daerah Otonom
@@ -26,17 +26,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - waghete
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-09-16-presiden-soeharto-resmikan-monumen-trikora-dan-irian-barat-daerah-otonom/
   judul: 1969-09-16 Presiden Soeharto Resmikan Monumen Trikora dan Irian Barat Daerah
     Otonom
   tanggal: '1969-09-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-09-16-presiden-soeharto-resmikan-monumen-trikora-dan-irian-barat-daerah-otonom/
 ---
 

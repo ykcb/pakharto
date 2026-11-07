@@ -4,9 +4,9 @@ description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/respond)
   199 Views Share on
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: diangkatlah-saya-jadi-presiden-ri-yang-kedua
 aliases:
 - Diangkatlah Saya Jadi Presiden RI yang Kedua – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - presiden-soekarno
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/
   judul: Diangkatlah Saya Jadi Presiden RI yang Kedua
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/diangkatlah-saya-jadi-presiden-ri-yang-kedua/
 ---
 

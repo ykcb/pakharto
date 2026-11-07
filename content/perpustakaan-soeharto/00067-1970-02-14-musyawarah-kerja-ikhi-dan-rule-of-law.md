@@ -3,9 +3,9 @@ title: 1970-02-14 Musyawarah Kerja IKAHI dan Rule of Law
 description: (Penegakaan Hukum Harus Diabdikan Kepada Terwujudnya Kesejahteraan Seluruh
   Rakyat Yang Berdasarkan Pancasila)
 date: '1970-02-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-02-14-musyawarah-kerja-ikhi-dan-rule-of-law
 aliases:
 - Musyawarah Kerja IKAHI dan Rule of Law
@@ -32,16 +32,17 @@ tags:
 - rule-of-law
 - singapura
 - syed-ibrahim
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-02-14-musyawarah-kerja-ikhi-dan-rule-of-law/
   judul: 1970-02-14 Musyawarah Kerja IKAHI dan Rule of Law
   tanggal: '1970-02-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-02-14-musyawarah-kerja-ikhi-dan-rule-of-law/
 ---
 

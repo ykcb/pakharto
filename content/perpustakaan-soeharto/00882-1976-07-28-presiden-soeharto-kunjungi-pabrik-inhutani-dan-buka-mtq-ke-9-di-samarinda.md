@@ -5,9 +5,9 @@ description: RABU, 28 Juli 1976 Presiden Soeharto dan Ibu Soeharto pagi ini bera
   menuju Balikpapan dan terus ke Samarinda dalam rangka kunjungan kerja selama dua
   hari di Kalimantan Timur. Di Samarinda sore ini Presiden Soeharto meninjau...
 date: '1976-07-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-28-presiden-soeharto-kunjungi-pabrik-inhutani-dan-buka-mtq-ke-9-di-samarinda
 aliases:
 - Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di Samarinda
@@ -23,17 +23,18 @@ tags:
 - presiden-soeharto
 - samarinda
 - segiri
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-28-presiden-soeharto-kunjungi-pabrik-inhutani-dan-buka-mtq-ke-9-di-samarinda/
   judul: 1976-07-28 Presiden Soeharto Kunjungi Pabrik Inhutani dan Buka MTQ Ke-9 di
     Samarinda
   tanggal: '1976-07-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-28-presiden-soeharto-kunjungi-pabrik-inhutani-dan-buka-mtq-ke-9-di-samarinda/
 ---
 

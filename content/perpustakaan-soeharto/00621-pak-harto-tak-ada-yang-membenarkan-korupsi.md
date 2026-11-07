@@ -4,9 +4,9 @@ description: Orang pernah ramai bicara mengenai korupsi. Di tahun 1973 Ketua IGG
   Menteri J.P. Pronk datang di Jakarta. Para mahasiswa bicara dengannya mengenai soal
   korupsi. lalu kegiatan para mahasiswa itu bermuara pada yang disebut “Malari” di...
 date: '2018-01-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-tak-ada-yang-membenarkan-korupsi
 aliases:
 - 'Pak Harto: Tak Ada Yang Membenarkan Korupsi – HM Soeharto'
@@ -19,16 +19,17 @@ tags:
 - pak-harto
 - pekuneg
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-tak-ada-yang-membenarkan-korupsi/
   judul: 'Pak Harto: Tak Ada Yang Membenarkan Korupsi'
   tanggal: '2018-01-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-tak-ada-yang-membenarkan-korupsi/
 ---
 

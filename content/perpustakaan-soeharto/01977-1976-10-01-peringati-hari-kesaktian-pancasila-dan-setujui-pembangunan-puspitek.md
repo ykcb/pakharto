@@ -4,9 +4,9 @@ description: 18 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1976-10-01-peringati-hari-kesaktian-pancasila-dan-setujui-pembangunan-puspitek/respond)
   101 Views Share on
 date: '1976-10-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-10-01-peringati-hari-kesaktian-pancasila-dan-setujui-pembangunan-puspitek
 aliases:
 - Peringati Hari Kesaktian Pancasila dan Setujui Pembangunan Puspitek
@@ -20,16 +20,17 @@ tags:
 - presiden-soeharto
 - puspitek
 - tangerang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-10-01-peringati-hari-kesaktian-pancasila-dan-setujui-pembangunan-puspitek/
   judul: 1976-10-01 Peringati Hari Kesaktian Pancasila dan Setujui Pembangunan Puspitek
   tanggal: '1976-10-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-10-01-peringati-hari-kesaktian-pancasila-dan-setujui-pembangunan-puspitek/
 ---
 

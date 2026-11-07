@@ -4,9 +4,9 @@ description: KAMIS, 16 JANUARI 1969 Pimpinan Pusat Markas Besar Legiun Veteran R
   (LVRI) datang menghadap Presiden Soeharto di kediamannya. Dalam pertemuan tersebut
   telah dibicarakan tentang penyusunan Dewan Paripurna Pusat Markas Besar LVRI, status...
 date: '1969-01-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-01-16-presiden-soeharto-menerima-pimpinan-pusat-legiun-veteran
 aliases:
 - Presiden Soeharto Menerima Pimpinan Pusat Legiun Veteran
@@ -30,16 +30,17 @@ tags:
 - soeharto
 - tinggal-landas-2
 - veteran
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-16-presiden-soeharto-menerima-pimpinan-pusat-legiun-veteran/
   judul: 1969-01-16 Presiden Soeharto Menerima Pimpinan Pusat Legiun Veteran
   tanggal: '1969-01-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-16-presiden-soeharto-menerima-pimpinan-pusat-legiun-veteran/
 ---
 

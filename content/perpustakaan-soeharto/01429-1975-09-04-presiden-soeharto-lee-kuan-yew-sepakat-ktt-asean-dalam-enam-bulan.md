@@ -4,9 +4,9 @@ description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1975-09-04-presiden-soeharto-lee-kuan-yew-sepakat-ktt-asean-dalam-enam-bulan/respond)
   138 Views Share on
 date: '1975-09-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-09-04-presiden-soeharto-lee-kuan-yew-sepakat-ktt-asean-dalam-enam-bulan
 aliases:
 - Presiden Soeharto-Lee Kuan Yew Sepakat KTT ASEAN Dalam Enam Bulan
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - pm-lee-kuan-yew
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-09-04-presiden-soeharto-lee-kuan-yew-sepakat-ktt-asean-dalam-enam-bulan/
   judul: 1975-09-04 Presiden Soeharto-Lee Kuan Yew Sepakat KTT ASEAN Dalam Enam Bulan
   tanggal: '1975-09-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-09-04-presiden-soeharto-lee-kuan-yew-sepakat-ktt-asean-dalam-enam-bulan/
 ---
 

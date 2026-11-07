@@ -5,9 +5,9 @@ description: RABU, 05 Juli 1972. Di Ujung Pandang sore ini Presiden Soeharto men
   pataka Samkarya Nugraha kepada Kodam XVI/Hasanudin. Ini merupakan salah satu kegiatan
   Presiden dalam kunjungan kerja selama dua hari di Sulawesi Selatan....
 date: '1972-07-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-07-05-presiden-soeharto-anugerahkan-pataka-samkarya-nugraha-kepada-pangdam-hasanudin
 aliases:
 - Presiden Soeharto Anugerahkan Pataka Samkarya Nugraha Kepada Pangdam Hasanudin
@@ -21,17 +21,18 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-05-presiden-soeharto-anugerahkan-pataka-samkarya-nugraha-kepada-pangdam-hasanudin/
   judul: 1972-07-05 Presiden Soeharto Anugerahkan Pataka Samkarya Nugraha Kepada Pangdam
     Hasanudin
   tanggal: '1972-07-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-07-05-presiden-soeharto-anugerahkan-pataka-samkarya-nugraha-kepada-pangdam-hasanudin/
 ---
 

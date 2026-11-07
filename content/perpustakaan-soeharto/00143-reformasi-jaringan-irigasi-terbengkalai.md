@@ -4,9 +4,9 @@ description: Proyek pembangunan jaringan irigasi selama Orde Baru mampu mengairi
   juta hektar lahan sawah. Tapi kini, 52 persen jaringan itu rusak dan sisanya hanya
   mampu mengairi 800 ribu hektar.
 date: '2013-03-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: reformasi-jaringan-irigasi-terbengkalai
 aliases:
 - Reformasi, Jaringan Irigasi Terbengkalai – HM Soeharto
@@ -25,16 +25,17 @@ tags:
 - perpustakaan-soeharto
 - sira-sira
 - sumatera-utara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/reformasi-jaringan-irigasi-terbengkalai/
   judul: Reformasi, Jaringan Irigasi Terbengkalai
   tanggal: '2013-03-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/reformasi-jaringan-irigasi-terbengkalai/
 ---
 

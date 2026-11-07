@@ -5,9 +5,9 @@ description: SENIN, 12 Juli 1976 Siang ini Kepala Negara menyaksikan penyalaan m
   apogee satelit domestik Palapa di stasiun bumi Cibinong, Bogor. Penyalaan dilakukan
   pada pukul 14.17 oleh seorang tenaga ahli dari Hughes Aircraft Company. Setelah...
 date: '1976-07-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-12-presiden-soeharto-saksikan-penyalaan-motor-apogee-satelit-domestik-palapa
 aliases:
 - Presiden Soeharto Saksikan Penyalaan Motor Apogee Satelit Domestik Palapa
@@ -25,17 +25,18 @@ tags:
 - presiden-soeharto
 - satelit-domestik-palapa
 - soehardjono
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-12-presiden-soeharto-saksikan-penyalaan-motor-apogee-satelit-domestik-palapa/
   judul: 1976-07-12 Presiden Soeharto Saksikan Penyalaan Motor Apogee Satelit Domestik
     Palapa
   tanggal: '1976-07-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-12-presiden-soeharto-saksikan-penyalaan-motor-apogee-satelit-domestik-palapa/
 ---
 

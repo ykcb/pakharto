@@ -4,9 +4,9 @@ description: Hubungan Presiden Soekarno-Presiden Soeharto seringkali ditafsirkan
   secara diametral tanpa menengok kesamaan visi kenusantaraan diantara keduanya. Secara
   mikro memang terjadi sejumlah perbedaan pandangan, namun tetap dibalut...
 date: '2017-10-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: kedekatan-presiden-soekarno-presiden-soeharto
 aliases:
 - Kedekatan Presiden Soekarno-Presiden Soeharto – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - soeharto
 - soekarno
 - supersemar
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/kedekatan-presiden-soekarno-presiden-soeharto/
   judul: Kedekatan Presiden Soekarno-Presiden Soeharto
   tanggal: '2017-10-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/kedekatan-presiden-soekarno-presiden-soeharto/
 ---
 

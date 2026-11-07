@@ -4,9 +4,9 @@ description: SELASA, 22 Juli 1975 Rapat kerja Departemen Tenaga Kerja, Transmigr
   dan Koperasi dibuka pagi ini oleh Presiden Soeharto di Bina Graha. Dalam amanatnya,
   Kepala Negara mengatakan bahwa kini mutlak perlu adanya perjanjian perburuhan...
 date: '1975-07-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-07-22-presiden-soeharto-buruh-kawan-perjuangan-dalam-pembangunan
 aliases:
 - 'Presiden Soeharto: Buruh, Kawan Perjuangan dalam Pembangunan'
@@ -17,16 +17,17 @@ tags:
 - perburuhan
 - perpustakaan-soeharto
 - presiden-soehareto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-07-22-presiden-soeharto-buruh-kawan-perjuangan-dalam-pembangunan/
   judul: '1975-07-22 Presiden Soeharto: Buruh, Kawan Perjuangan dalam Pembangunan'
   tanggal: '1975-07-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-07-22-presiden-soeharto-buruh-kawan-perjuangan-dalam-pembangunan/
 ---
 

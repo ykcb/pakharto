@@ -4,9 +4,9 @@ description: KAMIS, 5 JUNI 1969, Presiden Soeharto mengatakan bahwa pembangunan 
   Istiqlal, yang oleh pemerintah dijadikan proyek nasional, dapat dipertanggungjawabkan.
   Menurut Presiden, hal itu tidak lain karena cita-cita perjuangan bangsa...
 date: '1969-06-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-06-05-presiden-soeharto-meninjau-pembangunan-masjid-istiqlal
 aliases:
 - Presiden Soeharto Meninjau Pembangunan Masjid Istiqlal
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - spiritual
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-05-presiden-soeharto-meninjau-pembangunan-masjid-istiqlal/
   judul: 1969-06-05 Presiden Soeharto Meninjau Pembangunan Masjid Istiqlal
   tanggal: '1969-06-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-06-05-presiden-soeharto-meninjau-pembangunan-masjid-istiqlal/
 ---
 

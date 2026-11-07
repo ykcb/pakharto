@@ -4,9 +4,9 @@ description: SABTU, 26 Juli 1969. Dalam amanat tertulisnya pada upacara wisuda p
   remaja AURI di Yogyakarta hari ini, Presiden Soeharto mengatakan bahwa perubahan
   apapun yang terjadi, ada satu dasar yang mutlak yang tidak boleh berubah,...
 date: '1969-07-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-07-26-presiden-soeharto-wisuda-perwira-auri
 aliases:
 - Presiden Soeharto Wisuda Perwira AURI
@@ -22,16 +22,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-07-26-presiden-soeharto-wisuda-perwira-auri/
   judul: 1969-07-26 Presiden Soeharto Wisuda Perwira AURI
   tanggal: '1969-07-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-07-26-presiden-soeharto-wisuda-perwira-auri/
 ---
 

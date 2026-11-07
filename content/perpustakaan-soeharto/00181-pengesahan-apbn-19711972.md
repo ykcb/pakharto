@@ -4,9 +4,9 @@ description: RABU, 24 Maret 1971, DPR-GR hari ini mensahkan APBN 1971/1972. Seba
   tahun-tahun sebelumnya, APBN inipun bersifat berimbang antara pendapatan dan pengeluarannya.
   Besarnya pendapatan dan pengeluaran dalam APBN ini adalah...
 date: '1971-03-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pengesahan-apbn-19711972
 aliases:
 - Pengesahan APBN 1971/1972
@@ -17,16 +17,17 @@ tags:
 - dpr-gr
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pengesahan-apbn-19711972/
   judul: 1971-03-24 Pengesahan APBN 1971/1972
   tanggal: '1971-03-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pengesahan-apbn-19711972/
 ---
 

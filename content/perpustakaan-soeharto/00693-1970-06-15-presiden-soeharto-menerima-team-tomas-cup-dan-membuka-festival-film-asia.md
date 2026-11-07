@@ -5,9 +5,9 @@ description: Senin, 15 Juni 1970, kembalinya piala Thomas ke Indonesia membawa t
   jawab yang lebih berat bagi kita. Hal ini dikatakan oleh Presiden Soeharto di Istana
   Merdeka ketika menerima team Thomas Cup yang baru saja tiba kembali ke tanah...
 date: '1970-06-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-06-15-presiden-soeharto-menerima-team-tomas-cup-dan-membuka-festival-film-asia
 aliases:
 - Presiden Soeharto Menerima Team Tomas Cup Dan Membuka Festival Film Asia
@@ -21,17 +21,18 @@ tags:
 - presiden-soeharto
 - team
 - thomas-cup
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-06-15-presiden-soeharto-menerima-team-tomas-cup-dan-membuka-festival-film-asia/
   judul: 1970-06-15 Presiden Soeharto Menerima Team Tomas Cup Dan Membuka Festival
     Film Asia
   tanggal: '1970-06-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-06-15-presiden-soeharto-menerima-team-tomas-cup-dan-membuka-festival-film-asia/
 ---
 

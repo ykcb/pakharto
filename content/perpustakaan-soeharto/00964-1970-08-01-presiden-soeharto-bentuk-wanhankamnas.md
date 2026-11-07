@@ -4,9 +4,9 @@ description: SABTU, 01 AGUSTUS 1970, Presiden Soeharto dalam surat keputusan No.
   telah membentuk Dewan Pertahanan Keamanan Nasional (Wanhankamnas). Dewan ini membantu
   Presiden dalam menentukan kebijaksanaan tertinggi di bidang pertahanan...
 date: '1970-08-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-08-01-presiden-soeharto-bentuk-wanhankamnas
 aliases:
 - Presiden Soeharto Bentuk Wanhankamnas
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wanhankamnas
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-08-01-presiden-soeharto-bentuk-wanhankamnas/
   judul: 1970-08-01 Presiden Soeharto Bentuk Wanhankamnas
   tanggal: '1970-08-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-08-01-presiden-soeharto-bentuk-wanhankamnas/
 ---
 

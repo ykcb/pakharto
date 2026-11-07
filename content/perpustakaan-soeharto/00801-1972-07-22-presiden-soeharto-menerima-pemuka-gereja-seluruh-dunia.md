@@ -4,9 +4,9 @@ description: SABTU, 22 Juli 1972. Presiden Soeharto hari ini di Istana Merdeka m
   pemuka-pemuka gereja seluruh dunia. Mereka adalah pemimpin Reformed Church dan Gereja
   Luther Sedunia, antara lain Dr. William Thomas (Presiden aliansi Reformed...
 date: '1972-07-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-07-22-presiden-soeharto-menerima-pemuka-gereja-seluruh-dunia
 aliases:
 - Presiden Soeharto Menerima Pemuka Gereja Seluruh Dunia
@@ -23,16 +23,17 @@ tags:
 - prof-miko-juva
 - reformed-church
 - sumatera-utara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-22-presiden-soeharto-menerima-pemuka-gereja-seluruh-dunia/
   judul: 1972-07-22 Presiden Soeharto Menerima Pemuka Gereja Seluruh Dunia
   tanggal: '1972-07-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-07-22-presiden-soeharto-menerima-pemuka-gereja-seluruh-dunia/
 ---
 

@@ -5,9 +5,9 @@ description: SELASA, 30 Mei 1972, Dalam sidang Sub-Dewan Stabilisasi Ekonomi har
   hama sexava di daerah Kepulauan Sangir-Talaud. Sidang ini juga memutuskan bahwa
   mulai...
 date: '1972-05-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-05-30-presiden-soeharto-instruksikan-pemberantasan-hama-sexava
 aliases:
 - Presiden Soeharto Instruksikan Pemberantasan Hama Sexava
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sangir-talaud
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-05-30-presiden-soeharto-instruksikan-pemberantasan-hama-sexava/
   judul: 1972-05-30 Presiden Soeharto Instruksikan Pemberantasan Hama Sexava
   tanggal: '1972-05-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-05-30-presiden-soeharto-instruksikan-pemberantasan-hama-sexava/
 ---
 

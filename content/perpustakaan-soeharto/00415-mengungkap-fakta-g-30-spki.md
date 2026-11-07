@@ -4,9 +4,9 @@ description: Perlu mengetahui apa yang bersirat dari fakta-fakta apa yang sudah 
   Dimulai dengan presentasi Pak AB Lapian mengenai apa yang terjadi pada tanggal 1
   Oktober. Barangkali saya bisa mulai dari satu hari sebelumnya, yaitu...
 date: '2013-04-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: mengungkap-fakta-g-30-spki
 aliases:
 - Mengungkap Fakta G 30 S/PKI – HM Soeharto
@@ -25,16 +25,17 @@ tags:
 - perpustakaan-soeharto
 - subhan
 - sulastomo
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mengungkap-fakta-g-30-spki/
   judul: Mengungkap Fakta G 30 S/PKI
   tanggal: '2013-04-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/mengungkap-fakta-g-30-spki/
 ---
 

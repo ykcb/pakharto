@@ -4,9 +4,9 @@ description: SELASA, 11 AGUSTUS 1970, Pada sidang kabinet terbatas yang diseleng
   pada pukul 10.00 hari ini telah didengar laporan Jaksa Agung tentang usaha menyempurnakan
   Team Pemberantasan Korupsi (TPK). Setelah mendengar laporan tersebut,...
 date: '1970-08-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-08-11-presiden-soeharto-minta-team-pemberantasan-korupsi-bekerja-cepat
 aliases:
 - Presiden Soeharto Minta Team Pemberantasan Korupsi Bekerja Cepat
@@ -21,16 +21,17 @@ tags:
 - presiden-soeharto
 - sidang-kabinet-terbatas
 - team-pemberantasan-korupsi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-08-11-presiden-soeharto-minta-team-pemberantasan-korupsi-bekerja-cepat/
   judul: 1970-08-11 Presiden Soeharto Minta Team Pemberantasan Korupsi Bekerja Cepat
   tanggal: '1970-08-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-08-11-presiden-soeharto-minta-team-pemberantasan-korupsi-bekerja-cepat/
 ---
 

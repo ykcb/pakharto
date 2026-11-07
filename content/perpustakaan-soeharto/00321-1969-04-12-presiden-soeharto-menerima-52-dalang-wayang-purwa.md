@@ -4,9 +4,9 @@ description: SABTU, 12 APRIL 1969, Siang ini di Istana Merdeka, Presiden Soehart
   menerima 52 dalang wayang purwa dari seluruh Indonesia. Pada pertemuan itu, Presiden
   mengharapkan agar para dalang, melalui lakon-lakon yang dibawakan dalam wayang...
 date: '1969-04-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-04-12-presiden-soeharto-menerima-52-dalang-wayang-purwa
 aliases:
 - Presiden Soeharto Menerima 52 Dalang Wayang Purwa
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wayang-purwa
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-12-presiden-soeharto-menerima-52-dalang-wayang-purwa/
   judul: 1969-04-12 Presiden Soeharto Menerima 52 Dalang Wayang Purwa
   tanggal: '1969-04-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-04-12-presiden-soeharto-menerima-52-dalang-wayang-purwa/
 ---
 

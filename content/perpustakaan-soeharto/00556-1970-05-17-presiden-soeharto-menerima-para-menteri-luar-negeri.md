@@ -4,9 +4,9 @@ description: MINGGU, 17 MEI 1970, Sejak jam 10.00 pagi ini, Presiden Soeharto se
   berturut-turutmenerima Menteri Luar Negeri Filipina, Menteri Luar Negeri Selandia
   Baru, Menteri Luar Negeri Australia, Menteri Luar Negeri Jepang, Menteri Luar...
 date: '1970-05-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-17-presiden-soeharto-menerima-para-menteri-luar-negeri
 aliases:
 - Presiden Soeharto Menerima Para Menteri Luar Negeri
@@ -22,16 +22,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - selandia-baru
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-17-presiden-soeharto-menerima-para-menteri-luar-negeri/
   judul: 1970-05-17 Presiden Soeharto Menerima Para Menteri Luar Negeri
   tanggal: '1970-05-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-17-presiden-soeharto-menerima-para-menteri-luar-negeri/
 ---
 

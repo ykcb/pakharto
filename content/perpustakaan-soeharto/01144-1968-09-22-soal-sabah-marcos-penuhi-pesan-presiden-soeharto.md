@@ -4,9 +4,9 @@ description: 2 September 2013 [Soeharto Library](https://soehartolibrary.id/auth
   [No Comment](https://soehartolibrary.id/1968-09-22-soal-sabah-marcos-penuhi-pesan-presiden-soeharto/respond)
   108 Views Share on
 date: '1968-09-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-09-22-soal-sabah-marcos-penuhi-pesan-presiden-soeharto
 aliases:
 - Soal Sabah, Marcos Penuhi Pesan Presiden Soeharto
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sabah
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-22-soal-sabah-marcos-penuhi-pesan-presiden-soeharto/
   judul: 1968-09-22 Soal Sabah, Marcos Penuhi Pesan Presiden Soeharto
   tanggal: '1968-09-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-09-22-soal-sabah-marcos-penuhi-pesan-presiden-soeharto/
 ---
 

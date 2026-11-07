@@ -5,9 +5,9 @@ description: RABU 14 JANUARI 1970, Presiden dan Ibu Soeharto malam ini bertempat
   kediaman Jalan Cendana, Jakarta menyelenggarakan jamuan makan malam untuk menghormati
   kunjungan Pangeran Albert dari Belgia. Pada kesempatan itu Presiden...
 date: '1970-01-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-01-14-presiden-soeharto-selenggarakan-jamuan-untuk-pangeran-albert-dari-belgia
 aliases:
 - Presiden Soeharto Selenggarakan Jamuan Untuk Pangeran Albert dari Belgia
@@ -32,17 +32,18 @@ tags:
 - presiden-soeharto
 - repelita
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-14-presiden-soeharto-selenggarakan-jamuan-untuk-pangeran-albert-dari-belgia/
   judul: 1970-01-14 Presiden Soeharto Selenggarakan Jamuan Untuk Pangeran Albert dari
     Belgia
   tanggal: '1970-01-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-14-presiden-soeharto-selenggarakan-jamuan-untuk-pangeran-albert-dari-belgia/
 ---
 

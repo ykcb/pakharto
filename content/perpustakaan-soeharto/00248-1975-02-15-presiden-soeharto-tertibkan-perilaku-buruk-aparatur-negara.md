@@ -4,9 +4,9 @@ description: SABTU, 15 MARET 1975, Hasil sensus pegawai negeri yang dilaksanakan
   tahun yang lalu, jam 10.30 pagi ini diserahkan oleh Menteri PAN, Sumarlin, Kepada
   Presiden Soeharto dalam suatu acara di Istana Merdeka. Turut menyaksikan...
 date: '1975-02-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-02-15-presiden-soeharto-tertibkan-perilaku-buruk-aparatur-negara
 aliases:
 - Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sumarlin
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-02-15-presiden-soeharto-tertibkan-perilaku-buruk-aparatur-negara/
   judul: 1975-02-15 Presiden Soeharto Tertibkan Perilaku Buruk Aparatur Negara
   tanggal: '1975-02-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-02-15-presiden-soeharto-tertibkan-perilaku-buruk-aparatur-negara/
 ---
 

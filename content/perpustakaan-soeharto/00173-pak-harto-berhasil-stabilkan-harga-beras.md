@@ -4,9 +4,9 @@ description: PRESIDEN Soeharto memahami bahwa kurangnya stok beras dapat memicu 
   sosial. Bagaimanapun beras di Indonesia selalu menjadi barometer tak resmi dari
   kesejahteraan rakyat. Beras adalah salah satu isu kunci dalam agenda setting...
 date: '2013-03-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-berhasil-stabilkan-harga-beras
 aliases:
 - Pak Harto Berhasil Stabilkan Harga Beras, Kini Bergejolak – HM Soeharto
@@ -20,16 +20,17 @@ tags:
 - presiden
 - sewasembada
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-berhasil-stabilkan-harga-beras/
   judul: Pak Harto Berhasil Stabilkan Harga Beras, Kini Bergejolak
   tanggal: '2013-03-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-berhasil-stabilkan-harga-beras/
 ---
 

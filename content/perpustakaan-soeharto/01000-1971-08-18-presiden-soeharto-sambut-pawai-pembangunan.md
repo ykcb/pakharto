@@ -4,9 +4,9 @@ description: RABU, 18 AGUSTUS 1971, Presiden dan Ibu Tien Soeharto didampingi pe
   lainnya menyambut pawai pembangunan yang melewati Istana Merdeka. Pawai yang diadakan
   dalam rangka Hari Kemerdekaan ini mulai melintas di depan Istana jam...
 date: '1971-08-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-08-18-presiden-soeharto-sambut-pawai-pembangunan
 aliases:
 - Presiden Soeharto Sambut Pawai Pembangunan
@@ -21,16 +21,17 @@ tags:
 - pawai-pembangunan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-18-presiden-soeharto-sambut-pawai-pembangunan/
   judul: 1971-08-18 Presiden Soeharto Sambut Pawai Pembangunan
   tanggal: '1971-08-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-08-18-presiden-soeharto-sambut-pawai-pembangunan/
 ---
 

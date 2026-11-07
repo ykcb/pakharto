@@ -4,9 +4,9 @@ description: RABU, 25 April 1973, Presiden Soeharto menyambut baik doktrin FBSI 
   berdasarkan pada Pancasila. Selain itu Kepala Negara juga sangat menghargai usaha-usaha
   FBSI yang telah berhasil menyatukan semua organisasi buruh Indonesia kedalam...
 date: '1973-04-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-04-25-presiden-soeharto-sambut-baik-fbsi-pancasila
 aliases:
 - Presiden Soeharto Sambut Baik FBSI Pancasila
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - subroto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-04-25-presiden-soeharto-sambut-baik-fbsi-pancasila/
   judul: 1973-04-25 Presiden Soeharto Sambut Baik FBSI Pancasila
   tanggal: '1973-04-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-04-25-presiden-soeharto-sambut-baik-fbsi-pancasila/
 ---
 

@@ -4,9 +4,9 @@ description: SENIN, 31 AGUSTUS 1970, Presiden Soeharto menangguhkan rencana kunj
   kenegaraannya ke Negeri Belanda dan Jerman Barat selama 1 x 24 jam. Penangguhan
   ini dilakukan sehubungan dengan kerusuhan yang terjadi di negeri kincir angin itu...
 date: '1970-08-31'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-08-31-presiden-soeharto-tangguhkan-kunjungan-ke-belanda-dan-jerman
 aliases:
 - Presiden Soeharto Tangguhkan Kunjungan Ke Belanda dan Jerman
@@ -21,16 +21,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-08-31-presiden-soeharto-tangguhkan-kunjungan-ke-belanda-dan-jerman/
   judul: 1970-08-31 Presiden Soeharto Tangguhkan Kunjungan Ke Belanda dan Jerman
   tanggal: '1970-08-31'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-08-31-presiden-soeharto-tangguhkan-kunjungan-ke-belanda-dan-jerman/
 ---
 

@@ -4,9 +4,9 @@ description: KAMIS, 28 MARET 1968, Presiden dan Ibu Tien Soeharto beserta anggot
   rombongan jam 07.30 hari ini pergi meninggalkan Jakarta untuk melakukan kunjungan
   resmi ke Jepang dan Kamboja selama satu minggu.
 date: '1968-03-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang
 aliases:
 - Presiden Soeharto Kunjungan Resmi Ke Jepang
@@ -24,16 +24,17 @@ tags:
 - resmi
 - soeharto
 - tokyo
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang/
   judul: 1968-03-28 Presiden Soeharto Kunjungan Resmi Ke Jepang
   tanggal: '1968-03-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang/
 ---
 

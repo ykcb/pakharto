@@ -2,9 +2,9 @@
 title: 1969-02-04 SIDANG SUB DEWAN STABILISASI EKONOMI
 description: SIDANG SUB DEWAN STABILISASI EKONOMI[](ftn1)
 date: '1969-02-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi
 aliases:
 - SIDANG SUB DEWAN STABILISASI EKONOMI
@@ -17,16 +17,17 @@ tags:
 - sidang
 - stabilisasi
 - sub
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi/
   judul: 1969-02-04 SIDANG SUB DEWAN STABILISASI EKONOMI
   tanggal: '1969-02-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi/
 ---
 

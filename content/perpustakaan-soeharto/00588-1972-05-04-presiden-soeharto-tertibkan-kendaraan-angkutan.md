@@ -4,9 +4,9 @@ description: KAMIS, 4 Mei 1972, Presiden Soeharto memutuskan untuk mengambil tin
   tegas terhadap kendaraan angkutan yang beratnya melampaui ketentuan sehingga menimbulkan
   kerusakan jalan. Untuk itu pemerintah melarang pemasukan truk-truk yang...
 date: '1972-05-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-05-04-presiden-soeharto-tertibkan-kendaraan-angkutan
 aliases:
 - Presiden Soeharto Tertibkan Kendaraan Angkutan
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tonase
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-05-04-presiden-soeharto-tertibkan-kendaraan-angkutan/
   judul: 1972-05-04 Presiden Soeharto Tertibkan Kendaraan Angkutan
   tanggal: '1972-05-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-05-04-presiden-soeharto-tertibkan-kendaraan-angkutan/
 ---
 

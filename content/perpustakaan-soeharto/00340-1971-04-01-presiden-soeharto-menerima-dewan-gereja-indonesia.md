@@ -4,9 +4,9 @@ description: KAMIS, 1 April 1971, Pagi ini di Istana Merdeka, Presiden Soeharto 
   pengurus Dewan Gereja Indonesia (DGI). Kepada DGI Presiden mengharapkan agar gereja
   berpartisipasi dalam tugas-tugas nasional dewasa ini, yang meliputi...
 date: '1971-04-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-04-01-presiden-soeharto-menerima-dewan-gereja-indonesia
 aliases:
 - Presiden Soeharto Menerima Dewan Gereja Indonesia
@@ -18,16 +18,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-04-01-presiden-soeharto-menerima-dewan-gereja-indonesia/
   judul: 1971-04-01  Presiden Soeharto Menerima Dewan Gereja Indonesia
   tanggal: '1971-04-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-04-01-presiden-soeharto-menerima-dewan-gereja-indonesia/
 ---
 

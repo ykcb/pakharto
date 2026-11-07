@@ -4,9 +4,9 @@ description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo/respond)
   116 Views Share on
 date: '1974-09-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo
 aliases:
 - Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo
@@ -25,16 +25,17 @@ tags:
 - timor-portugis
 - vietnam
 - wonosobo
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo/
   judul: 1974-09-06 Presiden Soeharto-PM Gough Whitlam Lanjutkan Pembicaraan di Wonosobo
   tanggal: '1974-09-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-09-06-presiden-soeharto-pm-gough-whitlam-lanjutkan-pembicaraan-di-wonosobo/
 ---
 

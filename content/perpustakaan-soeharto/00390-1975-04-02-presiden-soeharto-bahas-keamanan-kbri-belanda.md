@@ -4,9 +4,9 @@ description: RABU, 2 April 1975, Presiden Soeharto hari ini di Istana Merdeka me
   kunjungan Menteri Kebudayaan, Rekreasi dan Pekerjaan Sosial Kerajaan Belanda, Henri
   Willem van Doorn. Pada kesempatan itu telah dibahas masalah hubungan bilateral...
 date: '1975-04-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-02-presiden-soeharto-bahas-keamanan-kbri-belanda
 aliases:
 - Presiden Soeharto Bahas Keamanan KBRI Belanda
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - van-doorn
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-02-presiden-soeharto-bahas-keamanan-kbri-belanda/
   judul: 1975-04-02 Presiden Soeharto Bahas Keamanan KBRI Belanda
   tanggal: '1975-04-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-02-presiden-soeharto-bahas-keamanan-kbri-belanda/
 ---
 

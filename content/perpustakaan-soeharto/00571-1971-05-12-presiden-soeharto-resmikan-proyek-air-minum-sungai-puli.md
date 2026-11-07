@@ -4,9 +4,9 @@ description: RABU, 12 Mei 1971, tepat pukul 07.30 pagi hari ini Presiden dan Ibu
   Soeharto beserta rombongan meninggalkan Jakarta menuju Tajung Pinang untuk meninjau
   proyek-proyek pembangunan yang ada di Riau Kepulauan.
 date: '1971-05-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-05-12-presiden-soeharto-resmikan-proyek-air-minum-sungai-puli
 aliases:
 - Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli
@@ -19,16 +19,17 @@ tags:
 - presiden-soeharto
 - sungai-puli
 - tanjung-pinang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-12-presiden-soeharto-resmikan-proyek-air-minum-sungai-puli/
   judul: 1971-05-12 Presiden Soeharto Resmikan Proyek Air Minum Sungai Puli
   tanggal: '1971-05-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-05-12-presiden-soeharto-resmikan-proyek-air-minum-sungai-puli/
 ---
 

@@ -4,9 +4,9 @@ description: SELASA, 4 MARET 1975, Presiden Soeharto selaku Ketua Yayasan Supers
   telah memberikan beasiswa kepada 50 orang mahasiswa Universitas Pattimura, Ambon.
   Mahasiswa yang memperolah beasiswa dari Yayasan Supersemar itu adalah berdasarkan...
 date: '1975-03-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-03-04-presiden-soeharto-berikan-beasiswa-mahasiswa-unpati
 aliases:
 - Presiden Soeharto Berikan Beasiswa Mahasiswa Unpati
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-seoharto
 - supersemar
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-03-04-presiden-soeharto-berikan-beasiswa-mahasiswa-unpati/
   judul: 1975-03-04 Presiden Soeharto Berikan Beasiswa Mahasiswa Unpati
   tanggal: '1975-03-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-03-04-presiden-soeharto-berikan-beasiswa-mahasiswa-unpati/
 ---
 

@@ -4,9 +4,9 @@ description: SENIN, 9 JUNI 1969, Presiden Soeharto, dalam sambutan tertulisnya p
   pembukaan Raker Pengadilan Tinggi Seluruh Indonesia di Jakarta, menegaskan bahwa
   tegaknya hukum merupakan salah satu tema yang terpenting dari perjuangan Orde Baru...
 date: '1969-06-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-06-09-presiden-soeharto-penegakan-hukum-tema-terpenting-orde-baru
 aliases:
 - 'Presiden Soeharto: Penegakan Hukum Tema Terpenting Orde Baru'
@@ -16,16 +16,17 @@ tags:
 - penegakan-hukum
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-09-presiden-soeharto-penegakan-hukum-tema-terpenting-orde-baru/
   judul: '1969-06-09 Presiden Soeharto: Penegakan Hukum Tema Terpenting Orde Baru'
   tanggal: '1969-06-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-06-09-presiden-soeharto-penegakan-hukum-tema-terpenting-orde-baru/
 ---
 

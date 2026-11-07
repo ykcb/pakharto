@@ -4,9 +4,9 @@ description: Pemerintah sebaiknya menjadikan Perum Bulog sebagai Badan Otoritas 
   Selain lebih simpel, perubahan status Bulog menjadi Badan Otoritas Pangan akan menghemat
   biaya, waktu, dan tidak menciptakan rantai birokrasi baru.
 date: '2017-02-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: bulog-dirindukan-kembali
 aliases:
 - Bulog Dirindukan Kembali – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - susilo-bambang-yudhoyono
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/bulog-dirindukan-kembali/
   judul: Bulog Dirindukan Kembali
   tanggal: '2017-02-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/bulog-dirindukan-kembali/
 ---
 

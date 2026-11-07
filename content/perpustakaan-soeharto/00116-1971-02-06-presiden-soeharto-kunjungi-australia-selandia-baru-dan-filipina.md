@@ -4,9 +4,9 @@ description: 'MINGGU 06 PEBRUARI 1971, Pagi jam 10.00 WIB Presiden Soeharto bese
   rombongan meninggalkan tanah air menuju negara-negara tetangga: Australia, Selandia
   Baru dan Filiphina. Keberangkatan Presiden dilepas oleh Ketua MPRS AH. Nasution,...'
 date: '1971-02-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina
 aliases:
 - Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina
@@ -21,16 +21,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - selandia-baru
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina/
   judul: 1971-02-06 Presiden Soeharto Kunjungi Australia, Selandia Baru dan Filipina
   tanggal: '1971-02-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-02-06-presiden-soeharto-kunjungi-australia-selandia-baru-dan-filipina/
 ---
 

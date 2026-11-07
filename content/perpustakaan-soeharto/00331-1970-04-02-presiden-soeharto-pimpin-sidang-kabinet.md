@@ -4,9 +4,9 @@ description: KAMIS, 2 APRIL 1970, Dalam sidang kabinet yang berlangsung hari ini
   Istana Negara, Presiden menginstruksikan agar pengeluaran anggaran pembangunan untuk
   tahun 1970 /1971 di masing-masing departemen dalam triwulan pertama tidak...
 date: '1970-04-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-04-02-presiden-soeharto-pimpin-sidang-kabinet
 aliases:
 - Presiden Soeharto Pimpin Sidang Kabinet
@@ -17,16 +17,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-04-02-presiden-soeharto-pimpin-sidang-kabinet/
   judul: 1970-04-02 Presiden Soeharto Pimpin Sidang Kabinet
   tanggal: '1970-04-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-04-02-presiden-soeharto-pimpin-sidang-kabinet/
 ---
 

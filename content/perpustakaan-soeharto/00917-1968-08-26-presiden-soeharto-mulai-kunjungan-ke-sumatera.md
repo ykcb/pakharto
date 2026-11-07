@@ -4,9 +4,9 @@ description: SENIN, 26 AGUSTUS 1968, Pagi ini Presiden Soeharto beserta rombonga
   meninggalkan Jakarta menuju Pekanbaru. Pekanbaru merupakan persinggahan pertama,
   dalam rangka kunjungan kerja Presiden ke empat provinsi di Sumatera, yaitu Riau,...
 date: '1968-08-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-08-26-presiden-soeharto-mulai-kunjungan-ke-sumatera
 aliases:
 - Presiden Soeharto Mulai Kunjungan Ke Sumatera
@@ -14,16 +14,17 @@ aliases:
 tags:
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-08-26-presiden-soeharto-mulai-kunjungan-ke-sumatera/
   judul: 1968-08-26 Presiden Soeharto Mulai Kunjungan Ke Sumatera
   tanggal: '1968-08-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-08-26-presiden-soeharto-mulai-kunjungan-ke-sumatera/
 ---
 

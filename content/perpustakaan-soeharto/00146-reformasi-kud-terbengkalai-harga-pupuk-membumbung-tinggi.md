@@ -4,9 +4,9 @@ description: KOPERASI Unit Desa (KUD) merupakan salah satu pilar perekonomian ya
   berperan penting dalam pembangunan perekonomian nasional. Indonesia pernah sukses
   dalam swasembada pangan pada 1985/1986. Prestasi itu tidak bisa dilepaskan dari...
 date: '2013-03-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi
 aliases:
 - 'Reformasi: KUD Terbengkalai, Harga Pupuk Membumbung Tinggi – HM Soeharto'
@@ -17,16 +17,17 @@ tags:
 - pertanian
 - pupuk
 - ukm
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
   judul: 'Reformasi: KUD Terbengkalai, Harga Pupuk Membumbung Tinggi'
   tanggal: '2013-03-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
 ---
 

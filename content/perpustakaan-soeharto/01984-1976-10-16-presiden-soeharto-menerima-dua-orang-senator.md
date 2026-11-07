@@ -4,9 +4,9 @@ description: 19 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1976-10-16-presiden-soeharto-menerima-dua-orang-senator/respond)
   96 Views Share on
 date: '1976-10-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-10-16-presiden-soeharto-menerima-dua-orang-senator
 aliases:
 - Presiden Soeharto Menerima Dua orang senator AS
@@ -19,16 +19,17 @@ tags:
 - senator-as
 - senator-john-glenn
 - senator-michael-j-mansfield
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-10-16-presiden-soeharto-menerima-dua-orang-senator/
   judul: 1976-10-16 Presiden Soeharto Menerima Dua orang senator AS
   tanggal: '1976-10-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-10-16-presiden-soeharto-menerima-dua-orang-senator/
 ---
 

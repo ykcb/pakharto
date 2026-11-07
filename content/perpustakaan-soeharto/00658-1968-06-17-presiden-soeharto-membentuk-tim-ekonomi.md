@@ -4,9 +4,9 @@ description: SENIN, 17 JUNI 1968, Presiden Soeharto hari ini membentuk satu team
   terdiri atas ahli ekonomi yang bertugas untuk mengikuti perkembangan ekonomi serta
   membahasnya, disamping juga memberi nasehat kepada Presiden mengenai persoalan...
 date: '1968-06-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-06-17-presiden-soeharto-membentuk-tim-ekonomi
 aliases:
 - Presiden Soeharto Membentuk Tim Ekonomi
@@ -19,16 +19,17 @@ tags:
 - prof-m-sadli
 - prof-subroto
 - prof-widjoyo-nitisastro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-06-17-presiden-soeharto-membentuk-tim-ekonomi/
   judul: 1968-06-17 Presiden Soeharto Membentuk Tim Ekonomi
   tanggal: '1968-06-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-06-17-presiden-soeharto-membentuk-tim-ekonomi/
 ---
 

@@ -5,9 +5,9 @@ description: KAMIS, 27 FEBRUARI 1969. Presiden Soeharto bershalat Idhul Adha di 
   Istana Merdeka bersama-sama umat Islam Jakarta. Pada kesempatan itu Presiden menyerukan
   kepada ummat Islam untuk giat memberikan zakat yang merupakan suatu...
 date: '1969-02-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-02-27-sholat-iedul-adha-di-istana-merdeka-presiden-soeharto-islam-agama-amal
 aliases:
 - 'Sholat Iedul Adha di Istana Merdeka, Presiden Soeharto: Islam Agama Amal'
@@ -24,17 +24,18 @@ tags:
 - pengelolaan
 - perpustakaan-soeharto
 - zakat
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-02-27-sholat-iedul-adha-di-istana-merdeka-presiden-soeharto-islam-agama-amal/
   judul: '1969-02-27 Sholat Iedul Adha di Istana Merdeka, Presiden Soeharto: Islam
     Agama Amal'
   tanggal: '1969-02-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-02-27-sholat-iedul-adha-di-istana-merdeka-presiden-soeharto-islam-agama-amal/
 ---
 

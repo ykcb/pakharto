@@ -4,9 +4,9 @@ description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis/respond)
   75 Views Share on
 date: '1974-10-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis
 aliases:
 - Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - portugis
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis/
   judul: 1974-10-18 Presiden Soeharto Menerima Menteri Urusan Koordinasi Portugis
   tanggal: '1974-10-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-10-18-presiden-soeharto-menerima-menteri-urusan-koordinasi-portugis/
 ---
 

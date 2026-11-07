@@ -4,9 +4,9 @@ description: SELASA, 13 MEI 1969, Hari ini Presiden Soeharto telah menginstruksi
   Menteri PUTL, Ir. Sutami, untuk meneruskan penelitian bagi pembangunan perumahan
   rakyat dengan harga murah, tetapi memenuhi syarat-syarat kesehatan. Instruksi ini...
 date: '1969-05-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-05-13-presiden-soeharto-instruksikan-penelitian-rumah-murah
 aliases:
 - Presiden Soeharto Instruksikan Penelitian Rumah Murah
@@ -22,16 +22,17 @@ tags:
 - perumahan-rakyat
 - presiden-soeharto
 - putl
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-05-13-presiden-soeharto-instruksikan-penelitian-rumah-murah/
   judul: 1969-05-13 Presiden Soeharto Instruksikan Penelitian Rumah Murah
   tanggal: '1969-05-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-05-13-presiden-soeharto-instruksikan-penelitian-rumah-murah/
 ---
 

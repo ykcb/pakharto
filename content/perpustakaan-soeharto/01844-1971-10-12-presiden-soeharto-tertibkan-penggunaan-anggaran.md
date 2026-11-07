@@ -4,9 +4,9 @@ description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran/respond)
   91 Views Share on
 date: '1971-10-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran
 aliases:
 - 'Presiden Soeharto: Tertibkan Penggunaan Anggaran'
@@ -20,16 +20,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran/
   judul: '1971-10-12 Presiden Soeharto: Tertibkan Penggunaan Anggaran'
   tanggal: '1971-10-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-10-12-presiden-soeharto-tertibkan-penggunaan-anggaran/
 ---
 

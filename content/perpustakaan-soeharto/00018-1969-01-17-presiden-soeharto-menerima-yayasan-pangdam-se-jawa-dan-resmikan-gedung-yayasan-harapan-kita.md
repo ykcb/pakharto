@@ -5,9 +5,9 @@ description: JUM’AT, 17 JANUARI 1969. Presiden Soeharto telah menerima para pa
   se-Jawa beserta Panglima Kostrad dan Komando Paspasus RPKAD. Para perwira ini datang
   untuk menyampaikan laporan tentang hasil-hasil rapat yang mereka adakan di...
 date: '1969-01-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-01-17-presiden-soeharto-menerima-yayasan-pangdam-se-jawa-dan-resmikan-gedung-yayasan-harapan-kita
 aliases:
 - Presiden Soeharto Menerima Yayasan Pangdam Se-Jawa dan Resmikan Gedung Yayasan Harapan
@@ -26,17 +26,18 @@ tags:
 - sosial
 - tinggal
 - yayasan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-17-presiden-soeharto-menerima-yayasan-pangdam-se-jawa-dan-resmikan-gedung-yayasan-harapan-kita/
   judul: 1969-01-17 Presiden Soeharto Menerima Yayasan Pangdam Se-Jawa dan Resmikan
     Gedung Yayasan Harapan Kita
   tanggal: '1969-01-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-17-presiden-soeharto-menerima-yayasan-pangdam-se-jawa-dan-resmikan-gedung-yayasan-harapan-kita/
 ---
 

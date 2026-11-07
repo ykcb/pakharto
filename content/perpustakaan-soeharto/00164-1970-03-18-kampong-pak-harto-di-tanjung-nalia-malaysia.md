@@ -4,9 +4,9 @@ description: RABU, 18 Maret 1970, Diantar oleh Wakil PM Tun Abdul Razak, pada ha
   ketiga atau hari terakhir kunjungannya ke Malaysia, Presiden Soeharto melakukan
   perjalanan darat sejauh 47 mil ke utara Kuala Lumpur, untuk meninjau berbagai proyek...
 date: '1970-03-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-03-18-kampong-pak-harto-di-tanjung-nalia-malaysia
 aliases:
 - Kampong Pak Harto di Tanjung Nalia Malaysia
@@ -23,16 +23,17 @@ tags:
 - presiden
 - soeharto
 - tanjong
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-18-kampong-pak-harto-di-tanjung-nalia-malaysia/
   judul: 1970-03-18 Kampong Pak Harto di Tanjung Nalia Malaysia
   tanggal: '1970-03-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-03-18-kampong-pak-harto-di-tanjung-nalia-malaysia/
 ---
 

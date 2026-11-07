@@ -4,9 +4,9 @@ description: SELASA, 5 MEI 1970, Presiden Soeharto Soeharto memimpin sidang Sub-
   Stabiliasi Ekonomi di Bina Graha, Jakarta. Presiden menginstruksikan Menteri Keuangan
   Ali Wardhana untuk meneliti laporan pelaksanaan APBN tahun 1969/1970, karena...
 date: '1970-05-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-05-presiden-soeharto-pma-tidak-boleh-ganggu-usaha-nasional
 aliases:
 - 'Presiden Soeharto: PMA Tidak Boleh Ganggu Usaha Nasional'
@@ -21,16 +21,17 @@ tags:
 - prof-m-sadli
 - stabilisasi-ekonomi
 - usaha-nasional
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-05-presiden-soeharto-pma-tidak-boleh-ganggu-usaha-nasional/
   judul: '1970-05-05 Presiden Soeharto: PMA Tidak Boleh Ganggu Usaha Nasional'
   tanggal: '1970-05-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-05-presiden-soeharto-pma-tidak-boleh-ganggu-usaha-nasional/
 ---
 

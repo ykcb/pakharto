@@ -4,9 +4,9 @@ description: Munculnya berbagai versi tentang interpretasi terhadap G. 30 S 1965
   mengatasnamakan ‘pelurusan sejarah’ telah melahirkan pelbagai teori ‘siapa dalang
   di balik peristiwa tersebut. Persoalan kontroversi ini muncul karena design dalam...
 date: '2013-04-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pki-di-balik-g-30-s1965
 aliases:
 - PKI DI BALIK G 30 S/1965 – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - muso
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pki-di-balik-g-30-s1965/
   judul: PKI DI BALIK G 30 S/1965
   tanggal: '2013-04-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pki-di-balik-g-30-s1965/
 ---
 

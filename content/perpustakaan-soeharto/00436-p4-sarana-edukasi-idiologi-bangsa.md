@@ -4,9 +4,9 @@ description: Salah satu kebijakan positif era kepemimpinan Presiden Soeharto —
   rangka transformasi philosophische grondslag— adalah penyelenggaraan edukasi publik
   nilai-nilai kenusantaraan yang dikemas dalam bentuk P4 (Pendidikan, Penghayatan...
 date: '2013-04-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: p4-sarana-edukasi-idiologi-bangsa
 aliases:
 - P4 Sarana Edukasi Idiologi Bangsa – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - pancasila
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/p4-sarana-edukasi-idiologi-bangsa/
   judul: P4 Sarana Edukasi Idiologi Bangsa
   tanggal: '2013-04-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/p4-sarana-edukasi-idiologi-bangsa/
 ---
 

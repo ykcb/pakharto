@@ -4,9 +4,9 @@ description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku/respond)
   110 Views Share on
 date: '1973-09-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku
 aliases:
 - Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - persiden-soeharto
 - sulawesi-utara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku/
   judul: 1973-09-27 Presiden Soeharto Serahkan Kapal Untuk Sulut dan Maluku
   tanggal: '1973-09-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-09-27-presiden-soeharto-serahkan-kapal-untuk-sulut-dan-maluku/
 ---
 

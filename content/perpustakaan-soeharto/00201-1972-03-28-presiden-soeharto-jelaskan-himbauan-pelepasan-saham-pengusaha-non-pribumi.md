@@ -5,9 +5,9 @@ description: SELASA, 28 Maret 1972, Juru bicara Kepresidenan, Sudharmono SH, mem
   penjelasan tentang pernyataan Presiden di depan para peserta rapat kerja Departemen
   Pendidikan dan Kebudayaan di Istana Negara kemarin. Menurut Sudharmono,...
 date: '1972-03-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-28-presiden-soeharto-jelaskan-himbauan-pelepasan-saham-pengusaha-non-pribumi
 aliases:
 - Presiden Soeharto Jelaskan Himbauan Pelepasan Saham Pengusaha Non Pribumi
@@ -22,17 +22,18 @@ tags:
 - presiden-soeharto
 - pribumi
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-28-presiden-soeharto-jelaskan-himbauan-pelepasan-saham-pengusaha-non-pribumi/
   judul: 1972-03-28 Presiden Soeharto Jelaskan Himbauan Pelepasan Saham Pengusaha
     Non Pribumi
   tanggal: '1972-03-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-28-presiden-soeharto-jelaskan-himbauan-pelepasan-saham-pengusaha-non-pribumi/
 ---
 

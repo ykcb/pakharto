@@ -4,9 +4,9 @@ description: Melanjutkan konsepsi “Bapak Koperasi Indonesia”, Bung Hatta yan
   menuangkan Pasal 33 di dalam Undang-Undang Dasar 1945, Pak Harto adalah sosok Pemimpin
   Negara Kesatuan Republik Indonesia yang secara konsisten membangun...
 date: '2013-02-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: komitmen-pak-harto-terhadap-koperasi
 aliases:
 - Komitmen Pak Harto Terhadap Koperasi – HM Soeharto
@@ -20,16 +20,17 @@ tags:
 - orde-baru
 - pak-harto
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/komitmen-pak-harto-terhadap-koperasi/
   judul: Komitmen Pak Harto Terhadap Koperasi
   tanggal: '2013-02-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/komitmen-pak-harto-terhadap-koperasi/
 ---
 

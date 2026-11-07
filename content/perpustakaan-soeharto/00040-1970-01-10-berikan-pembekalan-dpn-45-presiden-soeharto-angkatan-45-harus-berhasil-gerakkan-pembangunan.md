@@ -5,9 +5,9 @@ description: SABTU 10 JANUARI 1970, Dalam amanat tertulisnya pada pembukaan musy
   Dewan Paripurna nasional ke-2 Angkatan ’45 hari ini di Pandaan, Jawa Timur, Presiden
   Soeharto mengatakan bahwa Angkatan ’45 harus berhasil pula menggerakkan...
 date: '1970-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-01-10-berikan-pembekalan-dpn-45-presiden-soeharto-angkatan-45-harus-berhasil-gerakkan-pembangunan
 aliases:
 - 'Berikan Pembekalan DPN ’45, Presiden Soeharto: Angkatan ’45 Harus Berhasil Gerakkan
@@ -30,17 +30,18 @@ tags:
 - presiden-soeharto
 - repelita
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-10-berikan-pembekalan-dpn-45-presiden-soeharto-angkatan-45-harus-berhasil-gerakkan-pembangunan/
   judul: '1970-01-10 Berikan Pembekalan DPN ’45, Presiden Soeharto: Angkatan ’45 Harus
     Berhasil Gerakkan Pembangunan'
   tanggal: '1970-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-10-berikan-pembekalan-dpn-45-presiden-soeharto-angkatan-45-harus-berhasil-gerakkan-pembangunan/
 ---
 

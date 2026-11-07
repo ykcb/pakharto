@@ -4,9 +4,9 @@ description: 6 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/maka-meletuslah-pemberontakan-pki-madiun/respond)
   200 Views Share on
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: maka-meletuslah-pemberontakan-pki-madiun
 aliases:
 - Maka Meletuslah Pemberontakan PKI Madiun – HM Soeharto
@@ -23,16 +23,17 @@ tags:
 - presiden-soeharto
 - solo
 - suadi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/maka-meletuslah-pemberontakan-pki-madiun/
   judul: Maka Meletuslah Pemberontakan PKI Madiun
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/maka-meletuslah-pemberontakan-pki-madiun/
 ---
 

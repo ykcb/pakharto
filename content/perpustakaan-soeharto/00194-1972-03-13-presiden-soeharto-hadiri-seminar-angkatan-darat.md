@@ -4,9 +4,9 @@ description: SENIN, 13 Maret 1972, Presiden Soeharto menghadiri seminar ke-3 Ang
   Darat yang berlangsung di Bandung hari ini. Seminar kali ini bertema “Pewarisan
   nilai-nilai 1945 kepada generasi muda TNI-AD yang bersangkutan dengan ketahanan...
 date: '1972-03-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-13-presiden-soeharto-hadiri-seminar-angkatan-darat
 aliases:
 - Presiden Soeharto Hadiri Seminar Angkatan Darat
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-13-presiden-soeharto-hadiri-seminar-angkatan-darat/
   judul: 1972-03-13 Presiden Soeharto Hadiri Seminar Angkatan Darat
   tanggal: '1972-03-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-13-presiden-soeharto-hadiri-seminar-angkatan-darat/
 ---
 

@@ -4,9 +4,9 @@ description: MINGGU, 22 Maret 1970, Mengakhiri kunjungan kenegaraan di Mungthai,
   Soeharto dan PM Thanom Kittikachorn mengeluarkan suatu komunike bersama. Antara
   lain dinyatakan bahwa kedua pimpinan pemerintahan merasa puas dengan hubungan...
 date: '1970-03-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-03-22-presiden-soeharto-pm-thanom-kittikachorn-keluarkan-komunike-bersama
 aliases:
 - Presiden Soeharto-PM Thanom Kittikachorn Keluarkan Komunike Bersama
@@ -24,16 +24,17 @@ tags:
 - regional
 - soeharto
 - thanom-kittikachorn
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-22-presiden-soeharto-pm-thanom-kittikachorn-keluarkan-komunike-bersama/
   judul: 1970-03-22 Presiden Soeharto-PM Thanom Kittikachorn Keluarkan Komunike Bersama
   tanggal: '1970-03-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-03-22-presiden-soeharto-pm-thanom-kittikachorn-keluarkan-komunike-bersama/
 ---
 

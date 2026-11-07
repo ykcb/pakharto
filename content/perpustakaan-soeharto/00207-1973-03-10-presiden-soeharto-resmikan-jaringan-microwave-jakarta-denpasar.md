@@ -4,9 +4,9 @@ description: SABTU, 10 Maret 1973, Presiden Soeharto Meresmikan Jaringan Microwa
   Jakarta-Denpasar. Jaringan Microwave Ini Merupakan Sarana Telekomunikasi Yang Menghubungkan
   Kota-Kota Dalam Route Tersebut, Dengan Titik Terjauh Jakarta-Denpasar...
 date: '1973-03-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-03-10-presiden-soeharto-resmikan-jaringan-microwave-jakarta-denpasar
 aliases:
 - Presiden Soeharto Resmikan Jaringan Microwave Jakarta-Denpasar
@@ -23,16 +23,17 @@ tags:
 - politik
 - presiden-soeharto
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-03-10-presiden-soeharto-resmikan-jaringan-microwave-jakarta-denpasar/
   judul: 1973-03-10 Presiden Soeharto Resmikan Jaringan Microwave Jakarta-Denpasar
   tanggal: '1973-03-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-03-10-presiden-soeharto-resmikan-jaringan-microwave-jakarta-denpasar/
 ---
 

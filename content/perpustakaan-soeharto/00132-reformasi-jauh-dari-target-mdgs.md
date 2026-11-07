@@ -4,9 +4,9 @@ description: REFORMASI telah memasuki tahun ke-15. Reformasi, bukan revolusi. Re
   esensinya , adalah memperbaiki yang belum baik dan meneruskan yang sudah baik. Konsistensi
   ini diperlukan, agar kita tidak meyimpang dari tujuan atau cita-cita...
 date: '2014-05-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: reformasi-jauh-dari-target-mdgs
 aliases:
 - Reformasi Jauh Dari Target MDGs – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - reformasi
 - uud-1945
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/reformasi-jauh-dari-target-mdgs/
   judul: Reformasi Jauh Dari Target MDGs
   tanggal: '2014-05-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/reformasi-jauh-dari-target-mdgs/
 ---
 

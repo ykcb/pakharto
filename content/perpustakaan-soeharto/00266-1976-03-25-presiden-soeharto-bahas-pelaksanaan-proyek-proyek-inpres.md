@@ -4,9 +4,9 @@ description: KAMIS, 25 MARET 1976, Di Istana Merdeka pagi ini Presiden Soeharto 
   Menteri PAN/Wakil Ketua Bappenas, Sumarlin, Menteri Keuangan, Ali Wardhana, dan
   Sekretaris Jenderal Departemen Dalam Negeri, Suprapto, dan Asisten Intel/Hankam,...
 date: '1976-03-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-03-25-presiden-soeharto-bahas-pelaksanaan-proyek-proyek-inpres
 aliases:
 - Presiden Soeharto Bahas Pelaksanaan Proyek-Proyek Inpres
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - proyek-inpres
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-03-25-presiden-soeharto-bahas-pelaksanaan-proyek-proyek-inpres/
   judul: 1976-03-25 Presiden Soeharto Bahas Pelaksanaan Proyek-Proyek Inpres
   tanggal: '1976-03-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-03-25-presiden-soeharto-bahas-pelaksanaan-proyek-proyek-inpres/
 ---
 

@@ -4,9 +4,9 @@ description: “Presiden Soeharto memiliki konsep universal tentang dunia pendid
   karena mampu memaparkan secara rinci kendala yang dihadapi bangsanya, sekaligus
   memiliki konsep penanggulangannya.”
 date: '2013-04-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-membangun-dunia-pendidikan
 aliases:
 - Pak Harto Membangun Dunia Pendidikan – HM Soeharto
@@ -20,16 +20,17 @@ tags:
 - pesantren
 - sd
 - unesco
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-membangun-dunia-pendidikan/
   judul: Pak Harto Membangun Dunia Pendidikan
   tanggal: '2013-04-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-membangun-dunia-pendidikan/
 ---
 

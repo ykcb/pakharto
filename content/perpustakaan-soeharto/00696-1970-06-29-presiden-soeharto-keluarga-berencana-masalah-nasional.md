@@ -4,9 +4,9 @@ description: SENIN, 29 Juni 1970, Pagi ini Presiden Soeharto melantik Dewan Pemb
   dan Badan Koordinasi Keluarga Berencana di Istana Negara. Dalam sambutannya, Presiden
   mengatakan bahwa masalah keluarga berencana sungguh merupakan salah satu...
 date: '1970-06-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-06-29-presiden-soeharto-keluarga-berencana-masalah-nasional
 aliases:
 - 'Presiden Soeharto: Keluarga Berencana Masalah Nasional'
@@ -17,16 +17,17 @@ tags:
 - penduduk
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-06-29-presiden-soeharto-keluarga-berencana-masalah-nasional/
   judul: '1970-06-29 Presiden Soeharto: Keluarga Berencana Masalah Nasional'
   tanggal: '1970-06-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-06-29-presiden-soeharto-keluarga-berencana-masalah-nasional/
 ---
 

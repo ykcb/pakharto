@@ -4,9 +4,9 @@ description: Presiden Soeharto dikesankan memiliki hubungan buruk dengan Preside
   Soekarno. Padahal sesungguhnya keduanya memiliki kedekatan dan ikatan batin yang
   kuat. Presiden Soeharto mewujudkan semangat berdikari yang sering didengungkan...
 date: '2014-03-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-dan-presiden-soekarno
 aliases:
 - Presiden Soeharto Dan Presiden Soekarno – HM Soeharto
@@ -16,16 +16,17 @@ tags:
 - soeharto
 - soekarno
 - soekarno-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-dan-presiden-soekarno/
   judul: Presiden Soeharto Dan Presiden Soekarno
   tanggal: '2014-03-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-dan-presiden-soekarno/
 ---
 

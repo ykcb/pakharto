@@ -4,9 +4,9 @@ description: SELASA, 7 APRIL 1970, Hari ini secara incognito, Presiden Soeharto 
   Desa Lebaksiu untuk meninjau beberapa pondok pesantren. Setelah itu peninjauan dilanjutkan
   ke Wisma Yayasan Trikora, yang dibangun untuk yatim piatu warga...
 date: '1970-04-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-04-07-presiden-soeharto-incognito-di-desa-lebaksiu
 aliases:
 - Presiden Soeharto Incognito di Desa Lebaksiu
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - pondok-pesantren
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-04-07-presiden-soeharto-incognito-di-desa-lebaksiu/
   judul: 1970-04-07 Presiden Soeharto Incognito di Desa Lebaksiu
   tanggal: '1970-04-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-04-07-presiden-soeharto-incognito-di-desa-lebaksiu/
 ---
 

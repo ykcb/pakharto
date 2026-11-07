@@ -4,9 +4,9 @@ description: 17 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1975-10-14-pemerintah-tidak-ubah-nilai-tukar-rupiah-terhadap-dolar/respond)
   110 Views Share on
 date: '1975-10-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-10-14-pemerintah-tidak-ubah-nilai-tukar-rupiah-terhadap-dolar
 aliases:
 - Pemerintah Tidak Ubah Nilai Tukar Rupiah Terhadap Dolar
@@ -20,16 +20,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-10-14-pemerintah-tidak-ubah-nilai-tukar-rupiah-terhadap-dolar/
   judul: 1975-10-14 Pemerintah Tidak Ubah Nilai Tukar Rupiah Terhadap Dolar
   tanggal: '1975-10-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-10-14-pemerintah-tidak-ubah-nilai-tukar-rupiah-terhadap-dolar/
 ---
 

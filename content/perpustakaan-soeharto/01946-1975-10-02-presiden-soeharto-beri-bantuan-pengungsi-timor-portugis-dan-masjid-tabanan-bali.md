@@ -5,9 +5,9 @@ description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1975-10-02-presiden-soeharto-beri-bantuan-pengungsi-timor-portugis-dan-masjid-tabanan-bali/respond)
   77 Views Share on
 date: '1975-10-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-10-02-presiden-soeharto-beri-bantuan-pengungsi-timor-portugis-dan-masjid-tabanan-bali
 aliases:
 - Presiden Soeharto Beri Bantuan Pengungsi Timor Portugis dan Masjid Tabanan Bali
@@ -19,17 +19,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - timor-portugis
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-10-02-presiden-soeharto-beri-bantuan-pengungsi-timor-portugis-dan-masjid-tabanan-bali/
   judul: 1975-10-02 Presiden Soeharto Beri Bantuan Pengungsi Timor Portugis dan Masjid
     Tabanan Bali
   tanggal: '1975-10-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-10-02-presiden-soeharto-beri-bantuan-pengungsi-timor-portugis-dan-masjid-tabanan-bali/
 ---
 

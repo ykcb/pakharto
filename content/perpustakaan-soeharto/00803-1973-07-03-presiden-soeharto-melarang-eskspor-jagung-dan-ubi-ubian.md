@@ -4,9 +4,9 @@ description: SELASA, 3 Juli 1973, Dalam Sidang Stabilitas Ekonomi Nasional yang 
   di Bina Graha mulai pukul 11.00 pagi ini, Presiden Soeharto telah melarang ekspor
   jagung dan ubi-ubian untuk sementara waktu. Larangan ekspor jagung dan...
 date: '1973-07-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-07-03-presiden-soeharto-melarang-eskspor-jagung-dan-ubi-ubian
 aliases:
 - Presiden Soeharto Melarang Eskspor Jagung dan Ubi-Ubian
@@ -22,16 +22,17 @@ tags:
 - presiden-soeharto
 - radius-prawiro
 - ubi-ubian
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-07-03-presiden-soeharto-melarang-eskspor-jagung-dan-ubi-ubian/
   judul: 1973-07-03 Presiden Soeharto Melarang Eskspor Jagung dan Ubi-Ubian
   tanggal: '1973-07-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-07-03-presiden-soeharto-melarang-eskspor-jagung-dan-ubi-ubian/
 ---
 

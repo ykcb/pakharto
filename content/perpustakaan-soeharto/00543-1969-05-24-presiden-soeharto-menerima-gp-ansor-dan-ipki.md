@@ -4,9 +4,9 @@ description: SABTU, 24 MEI 1969, Pagi ini bertempat di Istana Merdeka, Presiden 
   menerima pimpinan gerakan pemuda Ansor yang melaporkan tentang hasil-hasil kongres
   besarnya di Blitar pada bulan April yang lalu. Dalam kesempatan itu, Presiden...
 date: '1969-05-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-05-24-presiden-soeharto-menerima-gp-ansor-dan-ipki
 aliases:
 - Presiden Soeharto Menerima GP Ansor dan IPKI
@@ -20,16 +20,17 @@ tags:
 - pertentangan
 - presiden-soeharto
 - stabilitas-nasional
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-05-24-presiden-soeharto-menerima-gp-ansor-dan-ipki/
   judul: 1969-05-24 Presiden Soeharto Menerima GP Ansor dan IPKI
   tanggal: '1969-05-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-05-24-presiden-soeharto-menerima-gp-ansor-dan-ipki/
 ---
 

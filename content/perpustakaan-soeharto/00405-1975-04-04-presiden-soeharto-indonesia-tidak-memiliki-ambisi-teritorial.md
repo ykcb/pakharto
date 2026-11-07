@@ -4,9 +4,9 @@ description: JUM’AT, 4 April 1975, Pagi ini Presiden Soeharto dan PM Whitlam m
   Brandoon, sebuah kota kecil yang terletak kira-kira 80 kilometer di sebelah tenggara
   Townsville. Didampingi oleh PM Whitlan, di sini Kepala Negara meninjau pabrik...
 date: '1975-04-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-04-presiden-soeharto-indonesia-tidak-memiliki-ambisi-teritorial
 aliases:
 - 'Presiden Soeharto: Indonesia Tidak Memiliki Ambisi Teritorial'
@@ -24,16 +24,17 @@ tags:
 - townsville
 - vietnam
 - withlam
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-04-presiden-soeharto-indonesia-tidak-memiliki-ambisi-teritorial/
   judul: '1975-04-04 Presiden Soeharto: Indonesia Tidak Memiliki Ambisi Teritorial'
   tanggal: '1975-04-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-04-presiden-soeharto-indonesia-tidak-memiliki-ambisi-teritorial/
 ---
 

@@ -4,9 +4,9 @@ description: JUM’AT, 28 JUNI 1968, Dalam rangka penertiban dan peningkatan pen
   negara, Presiden Soeharto menginstruksikan kepada Menteri Keuangan untuk tidak memberikan
   keringanan, kelonggaran ataupun pembebasan terhadap pembayaran...
 date: '1968-06-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-06-28-presiden-soeharto-instruksikan-penertiban-penerimaan-negara
 aliases:
 - Presiden Soeharto Instruksikan Penertiban Penerimaan Negara
@@ -17,16 +17,17 @@ tags:
 - penerimaan-negara
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-06-28-presiden-soeharto-instruksikan-penertiban-penerimaan-negara/
   judul: 1968-06-28 Presiden Soeharto Instruksikan Penertiban Penerimaan Negara
   tanggal: '1968-06-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-06-28-presiden-soeharto-instruksikan-penertiban-penerimaan-negara/
 ---
 

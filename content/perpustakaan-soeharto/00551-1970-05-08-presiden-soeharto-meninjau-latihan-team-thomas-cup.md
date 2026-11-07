@@ -4,9 +4,9 @@ description: JUM’AT, 8 MEI 1970, Malam ini dengan didampingi oleh Ibu Tien, Pr
   Soeharto meninjau pemusatan latihan Team Thomas Cup di Senayan, Jakarta. Dalam peninjauan
   itu Presiden sempat menyaksikan beberapa paetai pertandingan antara Rudi...
 date: '1970-05-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-08-presiden-soeharto-meninjau-latihan-team-thomas-cup
 aliases:
 - Presiden Soeharto Meninjau Latihan Team Thomas Cup
@@ -21,16 +21,17 @@ tags:
 - rudi-hartono
 - senayan
 - thomas-cup
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-08-presiden-soeharto-meninjau-latihan-team-thomas-cup/
   judul: 1970-05-08 Presiden Soeharto Meninjau Latihan Team Thomas Cup
   tanggal: '1970-05-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-08-presiden-soeharto-meninjau-latihan-team-thomas-cup/
 ---
 

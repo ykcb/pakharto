@@ -4,9 +4,9 @@ description: KAMIS, 22 MEI 1969, Pagi ini Presiden Soeharto kembali mengadakan i
   ke lembaga-lembaga pemerintahan. Yang di inspeksi pagi ini adalah Departemen Pertambangan
   yang kemudian dilanjutkan dengan kunjungan ke Instalasi PN Pertamina di...
 date: '1969-05-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-05-22-presiden-inspeksi-lembaga-lembaga-pemerintah
 aliases:
 - Presiden Inspeksi Lembaga-Lembaga Pemerintah
@@ -21,16 +21,17 @@ tags:
 - pertambangan
 - presiden-soeharto
 - soemantri-brojonegoro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-05-22-presiden-inspeksi-lembaga-lembaga-pemerintah/
   judul: 1969-05-22 Presiden Inspeksi Lembaga-Lembaga Pemerintah
   tanggal: '1969-05-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-05-22-presiden-inspeksi-lembaga-lembaga-pemerintah/
 ---
 

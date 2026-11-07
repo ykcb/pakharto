@@ -4,9 +4,9 @@ description: 13 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/tuntutan-reformasi-berlebihan/respond) 137
   Views Share on
 date: '2017-07-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: tuntutan-reformasi-berlebihan
 aliases:
 - Tuntutan Reformasi Berlebihan – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - presiden-soeharto
 - reformasi
 - usa
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/tuntutan-reformasi-berlebihan/
   judul: Tuntutan Reformasi Berlebihan
   tanggal: '2017-07-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/tuntutan-reformasi-berlebihan/
 ---
 

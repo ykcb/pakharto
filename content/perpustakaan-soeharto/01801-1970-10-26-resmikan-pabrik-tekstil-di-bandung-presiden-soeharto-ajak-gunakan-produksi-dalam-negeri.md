@@ -5,9 +5,9 @@ description: 7 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/1970-10-26-resmikan-pabrik-tekstil-di-bandung-presiden-soeharto-ajak-gunakan-produksi-dalam-negeri/respond)
   127 Views...
 date: '1970-10-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-10-26-resmikan-pabrik-tekstil-di-bandung-presiden-soeharto-ajak-gunakan-produksi-dalam-negeri
 aliases:
 - Resmikan Pabrik Tekstil di Bandung, Presiden Soeharto Ajak Gunakan Produksi Dalam
@@ -26,17 +26,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - pt-kanebo-tomen-sandang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-10-26-resmikan-pabrik-tekstil-di-bandung-presiden-soeharto-ajak-gunakan-produksi-dalam-negeri/
   judul: 1970-10-26 Resmikan Pabrik Tekstil di Bandung, Presiden Soeharto Ajak Gunakan
     Produksi Dalam Negeri
   tanggal: '1970-10-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-10-26-resmikan-pabrik-tekstil-di-bandung-presiden-soeharto-ajak-gunakan-produksi-dalam-negeri/
 ---
 

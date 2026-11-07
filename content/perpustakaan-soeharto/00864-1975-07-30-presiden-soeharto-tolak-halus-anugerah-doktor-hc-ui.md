@@ -4,9 +4,9 @@ description: RABU, 30 Juli 1975 Bertempat di Bina Graha, pagi ini Presiden Soeha
   menerima kunjungan kehormatan delegasi Parlemen Eropa yang dipimpin George Spenalo.
   Dalam pertemuan yang berlangsung selaam hampir satu jam itu, Kepala negara telah...
 date: '1975-07-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-07-30-presiden-soeharto-tolak-halus-anugerah-doktor-hc-ui
 aliases:
 - Presiden Soeharto Tolak Halus Anugerah Doktor HC UI
@@ -26,16 +26,17 @@ tags:
 - prof-mahar-mardjono
 - prof-miriam-budiardjo-ma
 - rektor-ui
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-07-30-presiden-soeharto-tolak-halus-anugerah-doktor-hc-ui/
   judul: 1975-07-30 Presiden Soeharto Tolak Halus Anugerah Doktor HC UI
   tanggal: '1975-07-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-07-30-presiden-soeharto-tolak-halus-anugerah-doktor-hc-ui/
 ---
 

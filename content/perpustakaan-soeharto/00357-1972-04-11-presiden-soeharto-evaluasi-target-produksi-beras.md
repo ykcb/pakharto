@@ -4,9 +4,9 @@ description: SELASA, 11 APRIL 1972, Dalam sidang Sub-Dewan Stabilisasi Ekonomi h
   ini di Bina Graha, Presiden Soeharto meminta kepada Menteri Pertanian untuk meninjau
   kembali target produksi beras yang akhir Pelita 1 ditetapkan akan mencapai 15,4...
 date: '1972-04-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-04-11-presiden-soeharto-evaluasi-target-produksi-beras
 aliases:
 - Presiden Soeharto Evaluasi Target Produksi Beras
@@ -18,16 +18,17 @@ tags:
 - presiden-soeharto
 - produksi-beras
 - target
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-04-11-presiden-soeharto-evaluasi-target-produksi-beras/
   judul: 1972-04-11 Presiden Soeharto Evaluasi Target Produksi Beras
   tanggal: '1972-04-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-04-11-presiden-soeharto-evaluasi-target-produksi-beras/
 ---
 

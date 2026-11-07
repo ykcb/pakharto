@@ -4,9 +4,9 @@ description: RABU, 14 Juli 1976 Presiden Soeharto hari ini memberikan kredit ber
   100 motor diesel untuk perahu yang berkekuatan 30 sampai 100 PK. Kredit tersebut
   diserahkan oleh Kepala Negara kepada 17 orang Pimpinan Pusat Pelayaran Rakyat...
 date: '1976-07-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-14-presiden-soeharto-berikan-kredit-pelayaran-rakyat-pelra
 aliases:
 - Presiden Soeharto Berikan Kredit Pelayaran Rakyat (Pelra)
@@ -19,16 +19,17 @@ tags:
 - pelra
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-14-presiden-soeharto-berikan-kredit-pelayaran-rakyat-pelra/
   judul: 1976-07-14 Presiden Soeharto Berikan Kredit Pelayaran Rakyat (Pelra)
   tanggal: '1976-07-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-14-presiden-soeharto-berikan-kredit-pelayaran-rakyat-pelra/
 ---
 

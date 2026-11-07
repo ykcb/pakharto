@@ -4,9 +4,9 @@ description: JUM’AT, 1 JANUARI 1970, Presiden dan Ibu Tien Soeharto pada malam
   mengadakan resepsi tahun baru di Istana Merdeka, Jakarta. Resepsi untuk menyambut
   kehadiran tahun 1970 itu berlangsung secara cukup meriah dan dihadiri oleh para...
 date: '1970-01-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-01-01-presiden-soeharto-selenggarakan-resepsi-sambut-tahun-baru-1970
 aliases:
 - Presiden Soeharto Selenggarakan Resepsi Sambut Tahun Baru 1970
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - resepsi
 - tahun
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-01-presiden-soeharto-selenggarakan-resepsi-sambut-tahun-baru-1970/
   judul: 1970-01-01 Presiden Soeharto Selenggarakan Resepsi Sambut Tahun Baru 1970
   tanggal: '1970-01-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-01-presiden-soeharto-selenggarakan-resepsi-sambut-tahun-baru-1970/
 ---
 

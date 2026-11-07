@@ -4,9 +4,9 @@ description: SENIN, 24 MARET 1975, DPP Masyarakat Perkayuan Indonesia (MPI) meng
   Presiden Soeharto di Bina Graha pagi hari. Dalam pertemuan tersebut Kepala Negara
   meminta pengurus MPI, yang diketuai oleh Taswin A Natadininggrat, untuk membentuk...
 date: '1975-03-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-03-24-presiden-soeharto-indonesianisasi-tenaga-perkayuan
 aliases:
 - Presiden Soeharto Indonesianisasi Tenaga Perkayuan
@@ -23,16 +23,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharo
 - ummat
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-03-24-presiden-soeharto-indonesianisasi-tenaga-perkayuan/
   judul: 1975-03-24 Presiden Soeharto Indonesianisasi Tenaga Perkayuan
   tanggal: '1975-03-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-03-24-presiden-soeharto-indonesianisasi-tenaga-perkayuan/
 ---
 

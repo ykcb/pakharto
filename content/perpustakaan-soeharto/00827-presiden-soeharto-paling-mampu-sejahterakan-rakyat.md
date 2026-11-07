@@ -4,9 +4,9 @@ description: Proyek stigmatisasi buruk dalam bentuk propaganda negatif secara ge
   kepada Presiden Soeharto selama era reformasi ternyata tidak berumur panjang. Hasil
   Survei Indo Barometer yang dirilis pada hari Minggu tanggal 15 Mei 2011 yang...
 date: '2017-08-23'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-paling-mampu-sejahterakan-rakyat
 aliases:
 - Presiden Soeharto Paling Mampu Sejahterakan Rakyat – HM Soeharto
@@ -22,16 +22,17 @@ tags:
 - presiden-soeharto
 - soeharto
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-paling-mampu-sejahterakan-rakyat/
   judul: Presiden Soeharto Paling Mampu Sejahterakan Rakyat
   tanggal: '2017-08-23'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-paling-mampu-sejahterakan-rakyat/
 ---
 

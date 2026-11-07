@@ -4,9 +4,9 @@ description: RABU, 28 MEI 1969, Bertempat di Wisma Tamu Istana Merdeka jam 10.00
   pagi ini Presiden mengadakan rapat dengan Panitia Penggunaan Uang Zakat, yang dibentuk
   berdasarkan Keppres tanggal 21 Mei 1969, dan diketuai oleh Menteri Kesejahteraan...
 date: '1969-05-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-05-28-presiden-soeharto-bahas-manajemen-zakat
 aliases:
 - Presiden Soeharto Bahas Manajemen Zakat
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - zakat
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-05-28-presiden-soeharto-bahas-manajemen-zakat/
   judul: 1969-05-28 Presiden Soeharto Bahas Manajemen Zakat
   tanggal: '1969-05-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-05-28-presiden-soeharto-bahas-manajemen-zakat/
 ---
 

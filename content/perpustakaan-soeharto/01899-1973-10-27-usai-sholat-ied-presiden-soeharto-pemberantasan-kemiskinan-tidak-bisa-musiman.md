@@ -5,9 +5,9 @@ description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1973-10-27-usai-sholat-ied-presiden-soeharto-pemberantasan-kemiskinan-tidak-bisa-musiman/respond)
   114 Views Share on
 date: '1973-10-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-10-27-usai-sholat-ied-presiden-soeharto-pemberantasan-kemiskinan-tidak-bisa-musiman
 aliases:
 - 'Usai Sholat Ied, Presiden Soeharto: Pemberantasan Kemiskinan Tidak Bisa Musiman'
@@ -19,17 +19,18 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-10-27-usai-sholat-ied-presiden-soeharto-pemberantasan-kemiskinan-tidak-bisa-musiman/
   judul: '1973-10-27 Usai Sholat Ied, Presiden Soeharto: Pemberantasan Kemiskinan
     Tidak Bisa Musiman'
   tanggal: '1973-10-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-10-27-usai-sholat-ied-presiden-soeharto-pemberantasan-kemiskinan-tidak-bisa-musiman/
 ---
 

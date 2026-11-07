@@ -4,9 +4,9 @@ description: SENIN, 26 Juli 1976 Pada pukul 09.00 pagi ini Presiden Soeharto mem
   rapat kerja MUI bertempat di Istana Negara. Dalam amanatnya kepada lebih kurang
   80 peserta rapat kerja itu, Kepala Negara antara lain mengemukakan bahwa pemerintah...
 date: '1976-07-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-26-presiden-soeharto-buka-rapat-kerja-mui
 aliases:
 - Presiden Soeharto Buka Rapat Kerja MUI
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - rapat-kerja
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-26-presiden-soeharto-buka-rapat-kerja-mui/
   judul: 1976-07-26 Presiden Soeharto Buka Rapat Kerja MUI
   tanggal: '1976-07-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-26-presiden-soeharto-buka-rapat-kerja-mui/
 ---
 

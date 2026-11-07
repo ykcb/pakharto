@@ -5,9 +5,9 @@ description: SELASA, 29 Juli 1969. Kepada sidang Sub-Dewan Stabilisasi Ekonomi y
   berlangsung di Istana Merdeka pagi ini, Presiden Soeharto mengatakan bahwa Presiden
   Nixon tidak mengajak atau memaksa Indonesia untuk memasuki pakta militer....
 date: '1969-07-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-07-29-presiden-soeharto-presiden-nixon-tidak-memaksa-indonesia-memasuki-pakta-militer
 aliases:
 - 'Presiden Soeharto: Presiden Nixon Tidak Memaksa Indonesia Memasuki Pakta Militer'
@@ -21,17 +21,18 @@ tags:
 - pakta-militer
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-07-29-presiden-soeharto-presiden-nixon-tidak-memaksa-indonesia-memasuki-pakta-militer/
   judul: '1969-07-29 Presiden Soeharto: Presiden Nixon Tidak Memaksa Indonesia Memasuki
     Pakta Militer'
   tanggal: '1969-07-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-07-29-presiden-soeharto-presiden-nixon-tidak-memaksa-indonesia-memasuki-pakta-militer/
 ---
 

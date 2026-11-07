@@ -4,9 +4,9 @@ description: JUM’AT, 29 MEI 1970, Sebelum meninggalkan New York menuju Tennese
   Presiden Soeharto dalam suatu konferensi pers menjamin bahwa Indonesia pasti akan
   membayar kembali semua utang luar negerinya, baik yang lama maupun yang baru. Selain...
 date: '1970-05-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-29-presiden-soeharto-menjamin-tidak-akan-ada-militerisme
 aliases:
 - Presiden Soeharto Menjamin Tidak Akan Ada Militerisme
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tenneseee
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-29-presiden-soeharto-menjamin-tidak-akan-ada-militerisme/
   judul: 1970-05-29 Presiden Soeharto Menjamin Tidak Akan Ada Militerisme
   tanggal: '1970-05-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-29-presiden-soeharto-menjamin-tidak-akan-ada-militerisme/
 ---
 

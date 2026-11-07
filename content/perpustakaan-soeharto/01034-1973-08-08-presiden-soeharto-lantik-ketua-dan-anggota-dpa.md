@@ -4,9 +4,9 @@ description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa/respond)
   112 Views Share on
 date: '1973-08-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa
 aliases:
 - Presiden Soeharto Lantik Ketua dan Anggota DPA
@@ -23,16 +23,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wilopo-sh
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa/
   judul: 1973-08-08 Presiden Soeharto Lantik Ketua dan Anggota DPA
   tanggal: '1973-08-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-08-08-presiden-soeharto-lantik-ketua-dan-anggota-dpa/
 ---
 

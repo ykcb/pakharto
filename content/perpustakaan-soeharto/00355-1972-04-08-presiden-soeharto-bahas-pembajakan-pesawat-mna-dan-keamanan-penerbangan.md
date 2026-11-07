@@ -4,9 +4,9 @@ description: SABTU, 8 APRIL 1972, Presiden Soeharto pagi ini mengadakan pertemua
   dengan KASAU, Marsekal Suwoto Sukendar, di Istana Merdeka. Dalam pertemuan itu telah
   dibahas mengenai usaha pembajakan pesawat MNA pada tanggal 5 April yang lalu....
 date: '1972-04-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-04-08-presiden-soeharto-bahas-pembajakan-pesawat-mna-dan-keamanan-penerbangan
 aliases:
 - Presiden Soeharto Bahas Pembajakan Pesawat MNA dan Keamanan Penerbangan
@@ -21,16 +21,17 @@ tags:
 - presiden-soeharto
 - sekretaris-negara
 - sudharmono
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-04-08-presiden-soeharto-bahas-pembajakan-pesawat-mna-dan-keamanan-penerbangan/
   judul: 1972-04-08 Presiden Soeharto Bahas Pembajakan Pesawat MNA dan Keamanan Penerbangan
   tanggal: '1972-04-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-04-08-presiden-soeharto-bahas-pembajakan-pesawat-mna-dan-keamanan-penerbangan/
 ---
 

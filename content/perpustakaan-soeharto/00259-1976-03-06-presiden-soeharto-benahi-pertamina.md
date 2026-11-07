@@ -4,9 +4,9 @@ description: SABTU, 6 MARET 1976, Hari ini, melalui Keputusan Presiden No. 31/M/
   Presiden Soeharto telah melengkapi struktur kepemimpinan Pertamina, Ir. Tri susilo
   diangkat kembali sebagai Direktur Eksplorasi dan Produksi, Ir. Sudarno...
 date: '1976-03-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-03-06-presiden-soeharto-benahi-pertamina
 aliases:
 - Presiden Soeharto Benahi Pertamina
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - pertamina
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-03-06-presiden-soeharto-benahi-pertamina/
   judul: 1976-03-06 Presiden Soeharto Benahi Pertamina
   tanggal: '1976-03-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-03-06-presiden-soeharto-benahi-pertamina/
 ---
 

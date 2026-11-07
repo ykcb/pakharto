@@ -4,9 +4,9 @@ description: KAMIS, 27 MARET 1975, Setiba di Jambi hari ini, Presiden Soeharto d
   robongan meninjau proyek transmigrasi pasang surut di Rantau Rasau. Di proyek transmigrasi
   ini, Presiden telah menyerahkan sejumlah hadiah kepada para transmigran....
 date: '1975-03-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-03-27-presiden-seharto-tinjau-proyek-transmigrasi-pasang-surut-di-jambi
 aliases:
 - Presiden Seharto Tinjau Proyek Transmigrasi Pasang Surut di Jambi
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - transmigrasi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-03-27-presiden-seharto-tinjau-proyek-transmigrasi-pasang-surut-di-jambi/
   judul: 1975-03-27 Presiden Seharto Tinjau Proyek Transmigrasi Pasang Surut di Jambi
   tanggal: '1975-03-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-03-27-presiden-seharto-tinjau-proyek-transmigrasi-pasang-surut-di-jambi/
 ---
 

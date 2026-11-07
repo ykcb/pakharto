@@ -4,9 +4,9 @@ description: SABTU 7 PEBRUARI 1970, Bertempat di Istana Merdeka, pukul 8.30 pagi
   Soeharto menerima kunjungan kehormatan misi Parlemen India, yang dipimpin oleh Senator
   AP Sharma. Sharma menyampaikan salut kepada Presiden Soeharto atas...
 date: '1970-02-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-02-07-wacana-penyederhanaan-partai
 aliases:
 - Wacana Penyederhanaan Partai Politik
@@ -20,16 +20,17 @@ tags:
 - partai-politik
 - penyederhanaan
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-02-07-wacana-penyederhanaan-partai/
   judul: 1970-02-07 Wacana Penyederhanaan Partai Politik
   tanggal: '1970-02-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-02-07-wacana-penyederhanaan-partai/
 ---
 

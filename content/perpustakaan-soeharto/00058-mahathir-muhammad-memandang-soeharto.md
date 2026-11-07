@@ -4,9 +4,9 @@ description: Sebelum saya bertemu langsung dengan Presiden Soeharto, saya selalu
   perkembangan dari berbagai kebijakan yang dijalankan oleh pemerintahan beliau. Saya
   merencanakan apabila nanti diangkat menjadi Perdana Menteri, maka...
 date: '2015-03-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: mahathir-muhammad-memandang-soeharto
 aliases:
 - 'Mahathir Muhamad: Kejayaan Pak Harto Lebih Besar – HM Soeharto'
@@ -29,16 +29,17 @@ tags:
 - thailand
 - tun
 - vietnam
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mahathir-muhammad-memandang-soeharto/
   judul: 'Mahathir Muhamad: Kejayaan Pak Harto Lebih Besar'
   tanggal: '2015-03-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/mahathir-muhammad-memandang-soeharto/
 ---
 

@@ -5,9 +5,9 @@ description: SELASA, 27 Juli 1976 Presiden Soeharto memerintahkan Menteri Perhub
   untuk mengambil tindakan tegas, sesuai dengan hukum yang berlaku, terhadap karyawan-karwayan
   GIA yang terlibat penyelundupan emas baru-baru ini. Perintah ini...
 date: '1976-07-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-27-presiden-soeharto-perintahkan-tindak-tegas-karyawan-gia-penyelundup-emas
 aliases:
 - Presiden Soeharto Perintahkan Tindak Tegas Karyawan GIA Penyelundup Emas
@@ -23,17 +23,18 @@ tags:
 - penyelundupan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-27-presiden-soeharto-perintahkan-tindak-tegas-karyawan-gia-penyelundup-emas/
   judul: 1976-07-27 Presiden Soeharto Perintahkan Tindak Tegas Karyawan GIA Penyelundup
     Emas
   tanggal: '1976-07-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-27-presiden-soeharto-perintahkan-tindak-tegas-karyawan-gia-penyelundup-emas/
 ---
 

@@ -4,9 +4,9 @@ description: JUM’AT, 07 MARET 1969, Presiden Soeharto mengatakan bahwa masalah
   tidak terlepas dari sikap mental dan pola berfikir, dan bahwa peningkatan produktivitas
   harus tercermin dalam peningkatan pendapatan nasional dan taraf hidup...
 date: '1969-03-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-03-07-produktivitas-nasional-dan-kebijakan-urusan-haji
 aliases:
 - Produktivitas Nasional dan Kebijakan Urusan Haji
@@ -30,16 +30,17 @@ tags:
 - taraf-hidup
 - tenaga
 - urusan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-03-07-produktivitas-nasional-dan-kebijakan-urusan-haji/
   judul: 1969-03-07 Produktivitas Nasional dan Kebijakan Urusan Haji
   tanggal: '1969-03-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-03-07-produktivitas-nasional-dan-kebijakan-urusan-haji/
 ---
 

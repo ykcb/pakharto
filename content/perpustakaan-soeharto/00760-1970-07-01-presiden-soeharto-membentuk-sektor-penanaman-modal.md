@@ -4,9 +4,9 @@ description: RABU, 01 Juli 1970. Sebagai tindak lanjut dari Keputusan Presiden N
   36 tertanggal 20 Mei 1970, maka hari ini dibentuk sektor khusus penanaman modal
   yang dinamakan sektor “R”. Adapun tugas sektor “R” ialah mengamankan kebijaksanaan...
 date: '1970-07-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-07-01-presiden-soeharto-membentuk-sektor-penanaman-modal
 aliases:
 - Presiden Soeharto Membentuk Sektor Penanaman Modal
@@ -18,16 +18,17 @@ tags:
 - penanaman-modal
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-01-presiden-soeharto-membentuk-sektor-penanaman-modal/
   judul: 1970-07-01 Presiden Soeharto Membentuk Sektor Penanaman Modal
   tanggal: '1970-07-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-07-01-presiden-soeharto-membentuk-sektor-penanaman-modal/
 ---
 

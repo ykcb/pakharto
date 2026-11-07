@@ -4,9 +4,9 @@ description: KAMIS, 22 April 1976, Pagi ini Presiden Soeharto membuka sidang tah
   IX Bank Pembangunan Asia (ADB) yang berlangsung di Hotel Borobudur, Jakarta. Dalam
   amanatnya Kepala Negara antara lain mengatakan bahwa negara-negara maju juga...
 date: '1976-04-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-04-22-presiden-soeharto-membuka-sidang-tahunan-adb
 aliases:
 - Presiden Soeharto Membuka Sidang Tahunan ADB
@@ -17,16 +17,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-04-22-presiden-soeharto-membuka-sidang-tahunan-adb/
   judul: 1976-04-22 Presiden Soeharto Membuka Sidang Tahunan ADB
   tanggal: '1976-04-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-04-22-presiden-soeharto-membuka-sidang-tahunan-adb/
 ---
 

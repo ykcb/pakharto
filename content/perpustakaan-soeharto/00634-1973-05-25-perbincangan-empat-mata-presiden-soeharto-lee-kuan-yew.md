@@ -4,9 +4,9 @@ description: JUM’AT, 25 Mei 1973, Sore ini telah berlangsung pembicaraan empat
   antara Presiden Soeharto dengan Perdana Menteri Singapura, Lee Kuan Yew, di Istana
   Merdeka. Pertemuan yang berlangsung setelah acara tukar menukar cinderamata itu...
 date: '1973-05-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-05-25-perbincangan-empat-mata-presiden-soeharto-lee-kuan-yew
 aliases:
 - Perbincangan Empat Mata Presiden Soeharto-Lee Kuan Yew
@@ -20,16 +20,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-25-perbincangan-empat-mata-presiden-soeharto-lee-kuan-yew/
   judul: 1973-05-25 Perbincangan Empat Mata Presiden Soeharto-Lee Kuan Yew
   tanggal: '1973-05-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-05-25-perbincangan-empat-mata-presiden-soeharto-lee-kuan-yew/
 ---
 

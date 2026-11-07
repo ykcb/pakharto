@@ -2,9 +2,9 @@
 title: TRITURA Berkumandang
 description: Gaduh yang memuncak tidak terhenti, gerah meliputi dunia kampus mahasiswa.
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: tritura-berkumandang
 aliases:
 - TRITURA Berkumandang – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - pki
 - retool
 - tritura
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/tritura-berkumandang/
   judul: TRITURA Berkumandang
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/tritura-berkumandang/
 ---
 

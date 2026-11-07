@@ -5,9 +5,9 @@ description: SABTU, 30 MEI 1970, Hari ini Presiden Soeharto menghabiskan sebagia
   yang ada di Tenneseee. Presiden Soeharto tampak sangat terkesan akan pengaturan
   yang...
 date: '1970-05-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-30-presiden-soeharto-tinjau-bendungan-dan-pembangkit-listrik-tennesee
 aliases:
 - Presiden Soeharto Tinjau Bendungan dan Pembangkit Listrik Tennesee
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tenneseee
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-30-presiden-soeharto-tinjau-bendungan-dan-pembangkit-listrik-tennesee/
   judul: 1970-05-30 Presiden Soeharto Tinjau Bendungan dan Pembangkit Listrik Tennesee
   tanggal: '1970-05-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-30-presiden-soeharto-tinjau-bendungan-dan-pembangkit-listrik-tennesee/
 ---
 

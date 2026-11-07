@@ -3,9 +3,9 @@ title: Jodoh Saya
 description: 4 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/jodoh-saya/respond) 221 Views Share on
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: jodoh-saya
 aliases:
 - Jodoh Saya – HM Soeharto
@@ -15,16 +15,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/jodoh-saya/
   judul: Jodoh Saya
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/jodoh-saya/
 ---
 

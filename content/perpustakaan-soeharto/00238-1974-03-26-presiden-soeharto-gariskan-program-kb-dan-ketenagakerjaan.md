@@ -4,9 +4,9 @@ description: SELASA, 26 MARET 1974, Sidang kabinet terbatas bidang Kesra berlang
   mulai pukul 10.00 pagi di Bina Graha. Sidang yang dipimpin oleh Presiden Soeharto
   ini telah mengambil beberapa keputusan penting. Pertama, menggariskan kebijakan...
 date: '1974-03-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-26-presiden-soeharto-gariskan-program-kb-dan-ketenagakerjaan
 aliases:
 - Presiden Soeharto Gariskan Program KB dan Ketenagakerjaan
@@ -18,16 +18,17 @@ tags:
 - pma
 - presiden-soeharto
 - tenaga-kerja
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-26-presiden-soeharto-gariskan-program-kb-dan-ketenagakerjaan/
   judul: 1974-03-26 Presiden Soeharto Gariskan Program KB dan Ketenagakerjaan
   tanggal: '1974-03-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-26-presiden-soeharto-gariskan-program-kb-dan-ketenagakerjaan/
 ---
 

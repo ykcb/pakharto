@@ -5,9 +5,9 @@ description: 4 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/1969-10-09-peringati-isra-miraj-presiden-soeharto-pembakaran-masjid-aqsa-tercela/respond)
   94 Views Share on
 date: '1969-10-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-10-09-peringati-isra-miraj-presiden-soeharto-pembakaran-masjid-aqsa-tercela
 aliases:
 - 'Peringati Isra’ Mi’raj, Presiden Soeharto: Pembakaran Masjid Aqsa Tercela'
@@ -22,17 +22,18 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-10-09-peringati-isra-miraj-presiden-soeharto-pembakaran-masjid-aqsa-tercela/
   judul: '1969-10-09 Peringati Isra’ Mi’raj, Presiden Soeharto: Pembakaran Masjid
     Aqsa Tercela'
   tanggal: '1969-10-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-10-09-peringati-isra-miraj-presiden-soeharto-pembakaran-masjid-aqsa-tercela/
 ---
 

@@ -2,9 +2,9 @@
 title: 1970-02-23 Comander’s Call ABRI
 description: (ABRI Tidak Boleh Hidup Berlebih-Lebihan)
 date: '1970-02-23'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-02-23-comanders-call-abri
 aliases:
 - Comander’s Call ABRI
@@ -19,16 +19,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-02-23-comanders-call-abri/
   judul: 1970-02-23 Comander’s Call ABRI
   tanggal: '1970-02-23'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-02-23-comanders-call-abri/
 ---
 

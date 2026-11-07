@@ -4,9 +4,9 @@ description: SABTU, 20 Juli 1968, Jam 09.30 pagi ini Presiden Soeharto dan rombo
   meneruskan perjalanan ke Provinsi Jambi, yang merupakan bahagian terakhir dari kunjungannya
   di Sumatera Selatan. Di provinsi ini Presiden dan rombongan hanya...
 date: '1968-07-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-07-20-presiden-soeharto-melakukan-kunjungan-ke-jambi
 aliases:
 - Presiden Soeharto Melakukan Kunjungan Ke Jambi
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - provinsi-jambi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-07-20-presiden-soeharto-melakukan-kunjungan-ke-jambi/
   judul: 1968-07-20 Presiden Soeharto Melakukan Kunjungan Ke Jambi
   tanggal: '1968-07-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-07-20-presiden-soeharto-melakukan-kunjungan-ke-jambi/
 ---
 

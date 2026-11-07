@@ -5,9 +5,9 @@ description: 26 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1975-08-02-penuhi-rumah-murah-presiden-soeharto-resmikan-industri-particle-board/respond)
   168 Views Share on
 date: '1975-08-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-08-02-penuhi-rumah-murah-presiden-soeharto-resmikan-industri-particle-board
 aliases:
 - Penuhi Rumah Murah, Presiden Soeharto Resmikan Industri Particle Board
@@ -22,17 +22,18 @@ tags:
 - presiden-soeharto
 - rumah-murah
 - suria-kencana
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-08-02-penuhi-rumah-murah-presiden-soeharto-resmikan-industri-particle-board/
   judul: 1975-08-02 Penuhi Rumah Murah, Presiden Soeharto Resmikan Industri Particle
     Board
   tanggal: '1975-08-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-08-02-penuhi-rumah-murah-presiden-soeharto-resmikan-industri-particle-board/
 ---
 

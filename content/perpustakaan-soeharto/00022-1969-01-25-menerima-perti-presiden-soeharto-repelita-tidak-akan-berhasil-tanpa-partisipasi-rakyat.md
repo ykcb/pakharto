@@ -5,9 +5,9 @@ description: SABTU, 25 JANUARI 1969. Pimpinan Pusat Partai Tarbiyah Islamiyah In
   (PERTI) hari ini diterima Presiden Soeharto di Istana Merdeka. Perti adalah satu
   partai yang baru dicairkan kegiatannya pada pertengahan tahun lalu, setelah...
 date: '1969-01-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat
 aliases:
 - 'Menerima PERTI, Presiden Soeharto: Repelita Tidak Akan Berhasil Tanpa Partisipasi
@@ -31,17 +31,18 @@ tags:
 - repelita
 - tarbiyah
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat/
   judul: '1969-01-25 Menerima PERTI, Presiden Soeharto: Repelita Tidak Akan Berhasil
     Tanpa Partisipasi Rakyat'
   tanggal: '1969-01-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat/
 ---
 

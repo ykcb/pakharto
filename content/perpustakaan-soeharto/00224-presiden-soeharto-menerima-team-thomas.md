@@ -4,9 +4,9 @@ description: Pada Era Orde Baru, tim Bulu Tangkis Indonesia di segani dunia. Pad
   tanggal 17 Juni 1976 Presiden Soeharto menerima Team Thomas Cup di Bina Graha, sebagai
   bentuk komitmen memajukan olah raga dan penghargaan kepada para atlet yang...
 date: '2013-03-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-menerima-team-thomas
 aliases:
 - Presiden Soeharto Menerima Team Thomas Cup – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - thomas
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-menerima-team-thomas/
   judul: Presiden Soeharto Menerima Team Thomas Cup
   tanggal: '2013-03-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-menerima-team-thomas/
 ---
 

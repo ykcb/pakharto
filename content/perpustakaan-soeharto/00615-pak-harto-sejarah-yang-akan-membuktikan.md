@@ -4,9 +4,9 @@ description: Di masa kecil saya, sebelum Bapak menjadi presiden, kami tinggal di
   H. Agus Salim, Jakarta Pusat. Rumah kami persis di depan bundaran. Sebagai Ketua
   RT, setiap hari Minggu Bapak mengajak kami sekeluarga ikut kerja bakti...
 date: '2017-08-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-sejarah-yang-akan-membuktikan
 aliases:
 - 'Pak Harto: Sejarah Yang Akan Membuktikan – HM Soeharto'
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - siti-hediati-hariyadi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-sejarah-yang-akan-membuktikan/
   judul: 'Pak Harto: Sejarah Yang Akan Membuktikan'
   tanggal: '2017-08-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-sejarah-yang-akan-membuktikan/
 ---
 

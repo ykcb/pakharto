@@ -4,9 +4,9 @@ description: SELASA, 8 April 1975, Presiden Soeharto pagi ini memimpin Sidang De
   Stabilisasi Politik dan Keamanan di Bina Graha. Sidang telah membahas gejala meluasnya
   perjudian dalam masyarakat akhir-akhir ini, yaitu dalam bentuk totalisator...
 date: '1975-04-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-08-presiden-soeharto-bahas-maraknya-judi-olah-raga
 aliases:
 - Presiden Soeharto Bahas Maraknya Judi Olah Raga
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - politik
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-08-presiden-soeharto-bahas-maraknya-judi-olah-raga/
   judul: 1975-04-08 Presiden Soeharto Bahas Maraknya Judi Olah Raga
   tanggal: '1975-04-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-08-presiden-soeharto-bahas-maraknya-judi-olah-raga/
 ---
 

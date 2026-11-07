@@ -4,9 +4,9 @@ description: SELASA, 18 APRIL 1972, Secara incognito siang ini, Presiden Soehart
   meninjau daerah Gunung Kidul di Yogyakarta. Dalam peninjauan ini Presiden ingin
   memeriksa sendiri kebenaran berita tentang adanya HO (penyakit kelaparan) di daerah...
 date: '1972-04-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-04-18-presiden-soeharto-incognito-kunjungi-gunung-kidul
 aliases:
 - Presiden Soeharto Incognito Kunjungi Gunung Kidul
@@ -18,16 +18,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-04-18-presiden-soeharto-incognito-kunjungi-gunung-kidul/
   judul: 1972-04-18 Presiden Soeharto Incognito Kunjungi Gunung Kidul
   tanggal: '1972-04-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-04-18-presiden-soeharto-incognito-kunjungi-gunung-kidul/
 ---
 

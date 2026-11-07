@@ -4,9 +4,9 @@ description: SELASA, 2 April 1974, Sidang Dewan Stabilisasi Ekonomi Nasional yan
   berlangsung pagi ini di Bina Graha telah mendengarkan laporan Menteri Keuangan Ali
   Wardhana dan Menteri PUTL Ir. Sutami. Menteri Keuangan antara lain melaporkan...
 date: '1974-04-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-04-02-presiden-soeharto-amankan-lahan-sawah-sekitar-trans-sumatera
 aliases:
 - 'Presiden Soeharto: Amankan Lahan Sawah Sekitar Trans Sumatera'
@@ -22,16 +22,17 @@ tags:
 - sawah
 - trans-sumatera
 - transmigrasi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-04-02-presiden-soeharto-amankan-lahan-sawah-sekitar-trans-sumatera/
   judul: '1974-04-02 Presiden Soeharto: Amankan Lahan Sawah Sekitar Trans Sumatera'
   tanggal: '1974-04-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-04-02-presiden-soeharto-amankan-lahan-sawah-sekitar-trans-sumatera/
 ---
 

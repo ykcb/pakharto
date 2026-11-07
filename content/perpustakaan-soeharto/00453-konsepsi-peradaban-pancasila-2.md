@@ -4,9 +4,9 @@ description: Masyarakat Nusantara merupakan masyarakat ber-Tuhan dan oleh karena
   rumusan pertama sila Pancasila menekankan transendensi. Berdasarkan rumusan tersebut
   peradaban yang hendak diwujudkan dalam konstruksi Indonesia merdeka 17 Agustus...
 date: '2013-04-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: konsepsi-peradaban-pancasila-2
 aliases:
 - Konsepsi Peradaban Pancasila (2) – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - pancasila
 - peradaban
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/konsepsi-peradaban-pancasila-2/
   judul: Konsepsi Peradaban Pancasila (2)
   tanggal: '2013-04-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/konsepsi-peradaban-pancasila-2/
 ---
 

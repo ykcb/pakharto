@@ -4,9 +4,9 @@ description: Kamis, 13 Mei 1971, Dari Tanjung Pinang, Presiden Soeharto beserta 
   pagi ini tiba di Pulau Bangka. Di Pulau “Timah” ini Presiden meresmikan ibukota
   Kabupaten Bangka yang baru, yaitu Sungai Liat. Setelah itu Presiden meninjau...
 date: '1971-05-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-05-13-presiden-soeharto-resmikan-ibukota-kabupaten-bangka
 aliases:
 - Presiden Soeharto Resmikan Ibukota Kabupaten Bangka
@@ -23,16 +23,17 @@ tags:
 - presiden-soeharto
 - sungai-liat
 - timah
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-13-presiden-soeharto-resmikan-ibukota-kabupaten-bangka/
   judul: 1971-05-13 Presiden Soeharto Resmikan Ibukota Kabupaten Bangka
   tanggal: '1971-05-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-05-13-presiden-soeharto-resmikan-ibukota-kabupaten-bangka/
 ---
 

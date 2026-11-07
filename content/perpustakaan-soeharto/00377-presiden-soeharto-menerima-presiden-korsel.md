@@ -4,9 +4,9 @@ description: Konsistensi dalam memegang teguh prinsip politik luar negeri bebas 
   dalam rangka menjalankan amanat UUD 1945 untuk turut serta mewujudkan ketertiban
   dunia, Indonesia di bawah kepemimpinan Presiden Soeharto memperoleh apresiasi...
 date: '2013-04-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-menerima-presiden-korsel
 aliases:
 - Presiden Soeharto Menerima Presiden Korsel – HM Soeharto
@@ -15,16 +15,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-menerima-presiden-korsel/
   judul: Presiden Soeharto Menerima Presiden Korsel
   tanggal: '2013-04-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-menerima-presiden-korsel/
 ---
 

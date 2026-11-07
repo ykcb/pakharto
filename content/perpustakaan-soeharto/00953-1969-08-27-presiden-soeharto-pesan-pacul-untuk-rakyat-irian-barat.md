@@ -2,9 +2,9 @@
 title: 1969-08-27 Presiden Soeharto Pesan Pacul Untuk Rakyat Irian Barat
 description: Presiden Soeharto Pesan Pacul Untuk Rakyat Irian Barat
 date: '1969-08-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-08-27-presiden-soeharto-pesan-pacul-untuk-rakyat-irian-barat
 aliases:
 - Presiden Soeharto Pesan Pacul Untuk Rakyat Irian Barat
@@ -20,16 +20,17 @@ tags:
 - pidato-presiden
 - presiden-soeharto
 - semen-gresik
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-27-presiden-soeharto-pesan-pacul-untuk-rakyat-irian-barat/
   judul: 1969-08-27 Presiden Soeharto Pesan Pacul Untuk Rakyat Irian Barat
   tanggal: '1969-08-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-27-presiden-soeharto-pesan-pacul-untuk-rakyat-irian-barat/
 ---
 

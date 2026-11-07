@@ -4,9 +4,9 @@ description: KAMIS, 4 APRIL 1968, Presiden dan Ibu Tien Soeharto beserta seluruh
   sore ini tiba kembali ke Jakarta, setelah mengadakan kunjungan kenegaraan ke Jepang
   dan Kamboja selama satu minggu. AFR)
 date: '1968-04-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-04-04-presiden-soeharto-kembali-dari-kunjungan-ke-jepang-dan-kamboja
 aliases:
 - Presiden Soeharto Kembali Dari Kunjungan Ke Jepang dan Kamboja
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-04-04-presiden-soeharto-kembali-dari-kunjungan-ke-jepang-dan-kamboja/
   judul: 1968-04-04 Presiden Soeharto Kembali Dari Kunjungan Ke Jepang dan Kamboja
   tanggal: '1968-04-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-04-04-presiden-soeharto-kembali-dari-kunjungan-ke-jepang-dan-kamboja/
 ---
 

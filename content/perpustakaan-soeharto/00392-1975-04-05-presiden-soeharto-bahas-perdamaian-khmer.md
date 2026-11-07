@@ -4,9 +4,9 @@ description: SABTU, 5 April 1975, sore ini Presiden Soeharto dan rombongan tiba 
   di tanah air. Dari Australia Kepala Negara tidak langsung terbang ke Jakarta, melainkan
   singgah di Denpasar Bali, untuk menemui Presiden Khmer, Leon Nol, yang...
 date: '1975-04-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-05-presiden-soeharto-bahas-perdamaian-khmer
 aliases:
 - Presiden Soeharto Bahas Perdamaian Khmer
@@ -21,16 +21,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-05-presiden-soeharto-bahas-perdamaian-khmer/
   judul: 1975-04-05 Presiden Soeharto Bahas Perdamaian Khmer
   tanggal: '1975-04-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-05-presiden-soeharto-bahas-perdamaian-khmer/
 ---
 

@@ -4,9 +4,9 @@ description: SENIN, 19 Juli 1971. Presiden Soeharto telah mengemukakan gagasanny
   untuk mengadakan penyederhaan terhadap fraksi-fraksi yang ada di DPR hasil pemilihan
   umum. Presiden menginginkan agar 13 fraksi yang ada sekarang dapat disederhanakan...
 date: '1971-07-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-07-19-presiden-soeharto-kemukakan-gagasan-penyederhanaan-fraksi
 aliases:
 - Presiden Soeharto Kemukakan Gagasan Penyederhanaan Fraksi
@@ -20,16 +20,17 @@ tags:
 - presiden-soeharto
 - sexava
 - sulawesi-utara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-07-19-presiden-soeharto-kemukakan-gagasan-penyederhanaan-fraksi/
   judul: 1971-07-19 Presiden Soeharto Kemukakan Gagasan Penyederhanaan Fraksi
   tanggal: '1971-07-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-07-19-presiden-soeharto-kemukakan-gagasan-penyederhanaan-fraksi/
 ---
 

@@ -4,9 +4,9 @@ description: SABTU, 30 MARET 1968, Pada jamuan makan siang yang diselenggarakan 
   Foreign Correspondents Club untuk menghormati kunjungannya di Jepang, Presiden Soeharto
   memberikan penjelasan tentang Pancasila, politik dalam dan luar negeri RI,...
 date: '1968-03-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-03-30-presiden-soeharto-menjamu-foreign-correspondents-club
 aliases:
 - Presiden Soeharto Menjamu Foreign Correspondents Club
@@ -25,16 +25,17 @@ tags:
 - pangkalan
 - perpustakaan-soeharto
 - tokyo
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-03-30-presiden-soeharto-menjamu-foreign-correspondents-club/
   judul: 1968-03-30 Presiden Soeharto Menjamu Foreign Correspondents Club
   tanggal: '1968-03-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-03-30-presiden-soeharto-menjamu-foreign-correspondents-club/
 ---
 

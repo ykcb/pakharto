@@ -4,9 +4,9 @@ description: KAMIS, 4 MARET 1976, Sekretaris Jenderal Wanhankamnas, Letjen Karta
   yang disertai oleh Wakil Sekretaris Jenderalnya, Laksma Subarkah, pukul 10.00 pagi
   ini menghadap Presiden Soeharto di Cendana. Keduanya menghadap untuk...
 date: '2014-03-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-03-4-presiden-soeharto-menerima-sekjen-wanhankamnas
 aliases:
 - 1976-03-4 Presiden Soeharto Menerima Sekjen Wanhankamnas – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wanhankamnas
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-03-4-presiden-soeharto-menerima-sekjen-wanhankamnas/
   judul: 1976-03-4 Presiden Soeharto Menerima Sekjen Wanhankamnas
   tanggal: '2014-03-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-03-4-presiden-soeharto-menerima-sekjen-wanhankamnas/
 ---
 

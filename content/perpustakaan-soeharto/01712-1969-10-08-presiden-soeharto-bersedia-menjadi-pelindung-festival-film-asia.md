@@ -4,9 +4,9 @@ description: 4 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/1969-10-08-presiden-soeharto-bersedia-menjadi-pelindung-festival-film-asia/respond)
   84 Views Share on
 date: '1969-10-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-10-08-presiden-soeharto-bersedia-menjadi-pelindung-festival-film-asia
 aliases:
 - Presiden Soeharto Bersedia Menjadi Pelindung Festival Film Asia
@@ -20,16 +20,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-10-08-presiden-soeharto-bersedia-menjadi-pelindung-festival-film-asia/
   judul: 1969-10-08 Presiden Soeharto Bersedia Menjadi Pelindung Festival Film Asia
   tanggal: '1969-10-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-10-08-presiden-soeharto-bersedia-menjadi-pelindung-festival-film-asia/
 ---
 

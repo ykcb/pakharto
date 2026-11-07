@@ -4,9 +4,9 @@ description: KAMIS, 29 April 1976, Bertempat di Istana Merdeka pagi ini, Preside
   Soeharto membuka rapat kerja Departemen Preindustrian. Dalam kata sambutannya, Kepala
   Negara antara lain mengatakan bahwa dalam tahap pembangunan sekarang ini, dari...
 date: '1976-04-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-04-29-presiden-soeharto-pembangunan-dalam-arti-luas
 aliases:
 - 'Presiden Soeharto: Pembangunan Kita Dalam Arti Luas'
@@ -17,16 +17,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-04-29-presiden-soeharto-pembangunan-dalam-arti-luas/
   judul: '1976-04-29 Presiden Soeharto: Pembangunan Kita Dalam Arti Luas'
   tanggal: '1976-04-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-04-29-presiden-soeharto-pembangunan-dalam-arti-luas/
 ---
 

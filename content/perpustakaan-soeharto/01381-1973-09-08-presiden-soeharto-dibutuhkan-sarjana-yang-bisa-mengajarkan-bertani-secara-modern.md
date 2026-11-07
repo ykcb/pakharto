@@ -5,9 +5,9 @@ description: 15 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1973-09-08-presiden-soeharto-dibutuhkan-sarjana-yang-bisa-mengajarkan-bertani-secara-modern/respond)
   113 Views Share on
 date: '1973-09-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-09-08-presiden-soeharto-dibutuhkan-sarjana-yang-bisa-mengajarkan-bertani-secara-modern
 aliases:
 - 'Presiden Soeharto: Dibutuhkan Sarjana Yang Bisa Mengajarkan Bertani Secara Modern'
@@ -24,17 +24,18 @@ tags:
 - presiden-soeharto
 - swasembada
 - wisuda
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-09-08-presiden-soeharto-dibutuhkan-sarjana-yang-bisa-mengajarkan-bertani-secara-modern/
   judul: '1973-09-08 Presiden Soeharto: Dibutuhkan Sarjana Yang Bisa Mengajarkan Bertani
     Secara Modern'
   tanggal: '1973-09-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-09-08-presiden-soeharto-dibutuhkan-sarjana-yang-bisa-mengajarkan-bertani-secara-modern/
 ---
 

@@ -5,9 +5,9 @@ description: 4 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/1969-10-14-hadiri-konferensi-kerja-para-gubernur-presiden-soeharto-hentikan-pungutan-liar/respond)
   81 Views Share on
 date: '1969-10-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-10-14-hadiri-konferensi-kerja-para-gubernur-presiden-soeharto-hentikan-pungutan-liar
 aliases:
 - 'Hadiri Konferensi Kerja Para Gubernur, Presiden Soeharto: Hentikan Pungutan Liar'
@@ -24,17 +24,18 @@ tags:
 - presiden-soeharto
 - pungutan-liuar
 - rapar-kerja
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-10-14-hadiri-konferensi-kerja-para-gubernur-presiden-soeharto-hentikan-pungutan-liar/
   judul: '1969-10-14 Hadiri Konferensi Kerja Para Gubernur, Presiden Soeharto: Hentikan
     Pungutan Liar'
   tanggal: '1969-10-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-10-14-hadiri-konferensi-kerja-para-gubernur-presiden-soeharto-hentikan-pungutan-liar/
 ---
 

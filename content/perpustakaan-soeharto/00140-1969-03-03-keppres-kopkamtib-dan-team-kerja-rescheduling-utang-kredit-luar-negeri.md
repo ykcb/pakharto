@@ -5,9 +5,9 @@ description: SENIN, 03 MARET 1969, Dengan mencabut Keppres RI No. 179/KOTI/1965,
   ini Presiden Soeharto mengeluarkan Keppres RI No. 19/1969 tentang Operasi Pemulihan
   Keamanan dan Ketertiban. Presiden, selaku Panglima Kopkamtib, memegang pimpinan...
 date: '1969-03-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-03-03-keppres-kopkamtib-dan-team-kerja-rescheduling-utang-kredit-luar-negeri
 aliases:
 - Keppres Kopkamtib dan Team Kerja Rescheduling Utang/ Kredit Luar negeri
@@ -26,17 +26,18 @@ tags:
 - rescheduling
 - subversif
 - utang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-03-03-keppres-kopkamtib-dan-team-kerja-rescheduling-utang-kredit-luar-negeri/
   judul: 1969-03-03 Keppres Kopkamtib dan Team Kerja Rescheduling Utang/ Kredit Luar
     negeri
   tanggal: '1969-03-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-03-03-keppres-kopkamtib-dan-team-kerja-rescheduling-utang-kredit-luar-negeri/
 ---
 

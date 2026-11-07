@@ -4,9 +4,9 @@ description: Tanggal 27 Maret 1966 Presiden Soekarno mengumumkan Kabinet Dwikora
   disempurnakan lagi, terdiri atas Presidium Kabinet dengan enam Waperdam. Saya diantara
   keenam Waperdam ad interim merangkap Men. Hankam/Panglima AD/Kas Koti itu...
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: tak-ingin-goncangan-lebih-keras
 aliases:
 - Tak Ingin Goncangan Lebih Keras – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soekarno
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/tak-ingin-goncangan-lebih-keras/
   judul: Tak Ingin Goncangan Lebih Keras
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/tak-ingin-goncangan-lebih-keras/
 ---
 

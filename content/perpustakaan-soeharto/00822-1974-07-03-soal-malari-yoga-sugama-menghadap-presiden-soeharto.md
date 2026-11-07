@@ -4,9 +4,9 @@ description: RABU, 3 Juli 1974 Kepala Bakin, Yoga Sugama, menghadap Presiden Soe
   di Istana Merdeka pagi ini. Selesai pertemuan dengan Kepala Negara, ia mengungkapkan
   bahwa Pemerintah sudah siap untuk membawa semua pelaku yang terlibat dalam...
 date: '1974-07-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-07-03-soal-malari-yoga-sugama-menghadap-presiden-soeharto
 aliases:
 - 'Soal Malari: Yoga Sugama Menghadap Presiden Soeharto'
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - yoga-sugama
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-07-03-soal-malari-yoga-sugama-menghadap-presiden-soeharto/
   judul: '1974-07-03 Soal Malari: Yoga Sugama Menghadap Presiden Soeharto'
   tanggal: '1974-07-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-07-03-soal-malari-yoga-sugama-menghadap-presiden-soeharto/
 ---
 

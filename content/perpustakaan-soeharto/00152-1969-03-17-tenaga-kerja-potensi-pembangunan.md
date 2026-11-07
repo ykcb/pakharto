@@ -4,9 +4,9 @@ description: SENIN, 17 MARET 1969, Dalam sambutan tertulisnya pada pembukaan Kon
   Dinas Departemen Tenaga Kerja ke-2 di Jakarta hari ini, Presiden Soeharto menegaskan
   bahwa potensi tenaga kerja Indonesia yang demikian besar ini hanya...
 date: '1969-03-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-03-17-tenaga-kerja-potensi-pembangunan
 aliases:
 - Tenaga Kerja Potensi Pembangunan
@@ -23,16 +23,17 @@ tags:
 - perpustakaan-soeharto
 - potensi
 - tenaga
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-03-17-tenaga-kerja-potensi-pembangunan/
   judul: 1969-03-17 Tenaga Kerja Potensi Pembangunan
   tanggal: '1969-03-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-03-17-tenaga-kerja-potensi-pembangunan/
 ---
 

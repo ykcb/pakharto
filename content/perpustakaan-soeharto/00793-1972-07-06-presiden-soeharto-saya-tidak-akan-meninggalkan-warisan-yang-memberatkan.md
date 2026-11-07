@@ -4,9 +4,9 @@ description: KAMIS, 06 Juli 1972. Pagi ini Presiden Soeharto mengadakan pertemua
   dengan anggota-anggota Dewan Mahasiswa se-Kotamadya Ujung Pandang. Kepada para mahasiswa
   tersebut, Presiden mengatakan bahwa “saya tidak akan meninggalkan warisan yang...
 date: '1972-07-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-07-06-presiden-soeharto-saya-tidak-akan-meninggalkan-warisan-yang-memberatkan
 aliases:
 - 'Presiden Soeharto: Saya Tidak Akan Meninggalkan Warisan Yang Memberatkan'
@@ -21,17 +21,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - ujung-pandang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-06-presiden-soeharto-saya-tidak-akan-meninggalkan-warisan-yang-memberatkan/
   judul: '1972-07-06 Presiden Soeharto: Saya Tidak Akan Meninggalkan Warisan Yang
     Memberatkan'
   tanggal: '1972-07-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-07-06-presiden-soeharto-saya-tidak-akan-meninggalkan-warisan-yang-memberatkan/
 ---
 

@@ -4,9 +4,9 @@ description: SENIN, 15 JULI 1968. Dengan menumpang pesawat Hercules C-130 AURI, 
   dan Ibu Tien Soeharto pagi ini berangkat ke Tanjung Karang (Lampung) untuk memulai
   kunjungan kerja ke provinsi-provinsi di Sumatera bagian Selatan, yang akan...
 date: '1968-07-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-07-15-presiden-soeharto-rapat-umum-di-tanjung-karang
 aliases:
 - Presiden Soeharto Rapat Umum di Tanjung Karang
@@ -22,16 +22,17 @@ tags:
 - rapat-umum
 - sumatera-selatan
 - tanjung-karang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-07-15-presiden-soeharto-rapat-umum-di-tanjung-karang/
   judul: 1968-07-15 Presiden Soeharto Rapat Umum di Tanjung Karang
   tanggal: '1968-07-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-07-15-presiden-soeharto-rapat-umum-di-tanjung-karang/
 ---
 

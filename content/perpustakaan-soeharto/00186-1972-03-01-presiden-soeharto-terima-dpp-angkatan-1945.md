@@ -4,9 +4,9 @@ description: RABU, 1 Maret 1972, Presiden Soeharto pagi ini di Istana Merdeka me
   anggota DPP Angkatan ’45 yang antara lain terdiri atas ketua I Djamin Gintings dan
   ketua II Ali Sadikin. Pada kesempatan itu Presiden meminta agar jiwa dan...
 date: '1972-03-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-01-presiden-soeharto-terima-dpp-angkatan-1945
 aliases:
 - Presiden Soeharto Terima DPP Angkatan 1945
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-01-presiden-soeharto-terima-dpp-angkatan-1945/
   judul: 1972-03-01 Presiden Soeharto Terima DPP Angkatan 1945
   tanggal: '1972-03-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-01-presiden-soeharto-terima-dpp-angkatan-1945/
 ---
 

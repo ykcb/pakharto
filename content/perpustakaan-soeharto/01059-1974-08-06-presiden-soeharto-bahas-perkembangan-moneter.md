@@ -4,9 +4,9 @@ description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/respond)
   112 Views Share on
 date: '1974-08-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-08-06-presiden-soeharto-bahas-perkembangan-moneter
 aliases:
 - Presiden Soeharto Bahas Perkembangan Moneter
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - persiden-soeharto
 - sidang-kabinet-paripurna
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/
   judul: 1974-08-06 Presiden Soeharto Bahas Perkembangan Moneter
   tanggal: '1974-08-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-08-06-presiden-soeharto-bahas-perkembangan-moneter/
 ---
 

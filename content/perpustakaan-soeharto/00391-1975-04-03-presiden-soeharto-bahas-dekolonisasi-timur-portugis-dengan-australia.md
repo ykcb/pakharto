@@ -4,9 +4,9 @@ description: KAMIS, 3 April 1975, Pukul 07.00 pagi ini, Presiden Soeharto mening
   tanah air menuju Australia dalam rangka kunjungan tidak remi selama tiga hari di
   Negara Kangguru itu. Setiba di Townsville sore ini, Kepala Negara disambut oleh...
 date: '1975-04-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-03-presiden-soeharto-bahas-dekolonisasi-timur-portugis-dengan-australia
 aliases:
 - Presiden Soeharto Bahas Dekolonisasi Timur Portugis Dengan Australia
@@ -24,16 +24,17 @@ tags:
 - queensland
 - timur-portugis
 - townsville
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-03-presiden-soeharto-bahas-dekolonisasi-timur-portugis-dengan-australia/
   judul: 1975-04-03 Presiden Soeharto Bahas Dekolonisasi Timur Portugis Dengan Australia
   tanggal: '1975-04-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-03-presiden-soeharto-bahas-dekolonisasi-timur-portugis-dengan-australia/
 ---
 

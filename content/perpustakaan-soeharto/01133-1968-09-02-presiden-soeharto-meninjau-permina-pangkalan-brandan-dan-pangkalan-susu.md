@@ -5,9 +5,9 @@ description: 1 September 2013 [Soeharto Library](https://soehartolibrary.id/auth
   [No Comment](https://soehartolibrary.id/1968-09-02-presiden-soeharto-meninjau-permina-pangkalan-brandan-dan-pangkalan-susu/respond)
   85 Views Share on
 date: '1968-09-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-09-02-presiden-soeharto-meninjau-permina-pangkalan-brandan-dan-pangkalan-susu
 aliases:
 - Presiden Soeharto Meninjau Permina Pangkalan Brandan dan Pangkalan Susu
@@ -21,17 +21,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sumatera-utara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-02-presiden-soeharto-meninjau-permina-pangkalan-brandan-dan-pangkalan-susu/
   judul: 1968-09-02 Presiden Soeharto Meninjau Permina Pangkalan Brandan dan Pangkalan
     Susu
   tanggal: '1968-09-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-09-02-presiden-soeharto-meninjau-permina-pangkalan-brandan-dan-pangkalan-susu/
 ---
 

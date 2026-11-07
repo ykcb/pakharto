@@ -4,9 +4,9 @@ description: KAMIS, 17 Juli 1969. Presiden Soeharto pagi ini di Istana Merdeka t
   menginstruksikan Menteri Keuangan Ali Wardhana dan Ketua Bappenas Widjoyo Nitisastro,
   untuk meneliti kembali soal pembangunan di Irian Barat. Ditegaskan oleh...
 date: '1969-07-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-07-17-presiden-soeharto-instruksikan-pembangunan-irian-barat
 aliases:
 - Presiden Soeharto Instruksikan Pembangunan Irian Barat
@@ -23,16 +23,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - widjoyo-nitisastro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-07-17-presiden-soeharto-instruksikan-pembangunan-irian-barat/
   judul: 1969-07-17 Presiden Soeharto Instruksikan Pembangunan Irian Barat
   tanggal: '1969-07-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-07-17-presiden-soeharto-instruksikan-pembangunan-irian-barat/
 ---
 

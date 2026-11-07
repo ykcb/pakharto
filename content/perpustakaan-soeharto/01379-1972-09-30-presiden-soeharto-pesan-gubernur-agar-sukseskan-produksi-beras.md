@@ -4,9 +4,9 @@ description: 15 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1972-09-30-presiden-soeharto-pesan-gubernur-agar-sukseskan-produksi-beras/respond)
   103 Views Share on
 date: '1972-09-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-09-30-presiden-soeharto-pesan-gubernur-agar-sukseskan-produksi-beras
 aliases:
 - Presiden Soeharto Pesan Gubernur Agar Sukseskan Produksi Beras
@@ -26,16 +26,17 @@ tags:
 - solichin-gp
 - sri-paku-alam
 - wakil-gubernur-di-yogyakarta
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-09-30-presiden-soeharto-pesan-gubernur-agar-sukseskan-produksi-beras/
   judul: 1972-09-30 Presiden Soeharto Pesan Gubernur Agar Sukseskan Produksi Beras
   tanggal: '1972-09-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-09-30-presiden-soeharto-pesan-gubernur-agar-sukseskan-produksi-beras/
 ---
 

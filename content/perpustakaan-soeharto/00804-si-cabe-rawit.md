@@ -5,9 +5,9 @@ description: Saya cukup terkejut ketika pertama kali bersalaman dengan Pak Harto
   sejak masih menjadi anggota tentara pelajar (TP) di tahun 1948 itu berkomentar,
   “Oh,...
 date: '2013-07-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: si-cabe-rawit
 aliases:
 - J.B. Sumarlin Si Cabe Rawit – HM Soeharto
@@ -23,16 +23,17 @@ tags:
 - pertamina
 - pesawat-kepresidenan
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/si-cabe-rawit/
   judul: J.B. Sumarlin Si Cabe Rawit
   tanggal: '2013-07-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/si-cabe-rawit/
 ---
 

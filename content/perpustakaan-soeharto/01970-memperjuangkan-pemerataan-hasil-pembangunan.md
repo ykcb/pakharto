@@ -4,9 +4,9 @@ description: 17 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/memperjuangkan-pemerataan-hasil-pembangunan/respond)
   140 Views Share on
 date: '2014-06-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: memperjuangkan-pemerataan-hasil-pembangunan
 aliases:
 - Memperjuangkan Pemerataan Hasil Pembangunan – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - rachmat-saleh
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/memperjuangkan-pemerataan-hasil-pembangunan/
   judul: Memperjuangkan Pemerataan Hasil Pembangunan
   tanggal: '2014-06-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/memperjuangkan-pemerataan-hasil-pembangunan/
 ---
 

@@ -3,9 +3,9 @@ title: Wawasan Nusantara (Bagian 1)
 description: “Ono Warisane Pak Harto sing dilaleake. Mongko ing kono ngemu wadi wibowo
   lan kuncaraning bongso. Warisan iku ora liyo Wawasan Nusantara”
 date: '2014-04-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: wawasan-nusantara-bagian-1
 aliases:
 - Wawasan Nusantara (Bagian 1) – HM Soeharto
@@ -16,16 +16,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wawasan-nusantara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/wawasan-nusantara-bagian-1/
   judul: Wawasan Nusantara (Bagian 1)
   tanggal: '2014-04-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/wawasan-nusantara-bagian-1/
 ---
 

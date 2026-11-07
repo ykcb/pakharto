@@ -4,9 +4,9 @@ description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah/respond)
   106 Views Share on
 date: '1979-09-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah
 aliases:
 - Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah
@@ -22,16 +22,17 @@ tags:
 - presiden-soeharto
 - prof-dr-jb-sumarlin
 - sudharmono
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah/
   judul: 1979-09-08 Presiden Soeharto Bahas Penyempurnaan Struktur Organisasi Pemerintah
   tanggal: '1979-09-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1979-09-08-presiden-soeharto-bahas-penyempurnaan-struktur-organisasi-pemerintah/
 ---
 

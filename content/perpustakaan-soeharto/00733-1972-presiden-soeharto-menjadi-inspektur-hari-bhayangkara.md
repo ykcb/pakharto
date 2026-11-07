@@ -4,9 +4,9 @@ description: SENIN, 01 Juli 1968, Presiden Soeharto Pagi ini menghadiri dan bert
   sebagai inspektur upacara pada peringatan Hari Bhayangkara di Lapangam Mabak (Markas
   Besar Kepolisian), Kebayoran Baru, Jakarta. Dalam sambutannya, Jenderal...
 date: '1968-07-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-presiden-soeharto-menjadi-inspektur-hari-bhayangkara
 aliases:
 - Presiden Soeharto Menjadi Inspektur Hari Bhayangkara
@@ -20,16 +20,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-presiden-soeharto-menjadi-inspektur-hari-bhayangkara/
   judul: 1968-07-01 Presiden Soeharto Menjadi Inspektur Hari Bhayangkara
   tanggal: '1968-07-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-presiden-soeharto-menjadi-inspektur-hari-bhayangkara/
 ---
 

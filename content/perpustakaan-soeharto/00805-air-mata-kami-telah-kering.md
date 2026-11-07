@@ -4,9 +4,9 @@ description: Bapak Soeharto, sembah sungkem kami haturkan dengan segenap jiwa ka
   kepada Bapak Soeharto. Kami adalah ibu rumah tangga biasa yang tidak mengerti soal
   politik. Tetapi kami mengerti dan mengenal Bapak adalah sebagai “Bapak Kami”
 date: '2013-07-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: air-mata-kami-telah-kering
 aliases:
 - Air Mata Kami Telah Kering – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - surat-simpati
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/air-mata-kami-telah-kering/
   judul: Air Mata Kami Telah Kering
   tanggal: '2013-07-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/air-mata-kami-telah-kering/
 ---
 

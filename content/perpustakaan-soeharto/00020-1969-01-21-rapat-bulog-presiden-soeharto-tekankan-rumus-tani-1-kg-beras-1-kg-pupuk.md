@@ -5,9 +5,9 @@ description: SELASA, 21 JANUARI 1969. Presiden Soeharto hari ini di Bina Graha m
   rapat Bulog seluruh Indonesia. Dalam sambutannya, Presiden mengatakan bahwa harga-harga
   sembilan bahan pokok terutama beras masih harus dikendalikan karena dalam...
 date: '1969-01-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-01-21-rapat-bulog-presiden-soeharto-tekankan-rumus-tani-1-kg-beras-1-kg-pupuk
 aliases:
 - Rapat Bulog, Presiden Soeharto Tekankan “Rumus Tani”, 1 Kg Beras = 1 Kg Pupuk
@@ -32,17 +32,18 @@ tags:
 - rumus
 - tani
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-21-rapat-bulog-presiden-soeharto-tekankan-rumus-tani-1-kg-beras-1-kg-pupuk/
   judul: 1969-01-21 Rapat Bulog, Presiden Soeharto Tekankan “Rumus Tani”, 1 Kg Beras
     = 1 Kg Pupuk
   tanggal: '1969-01-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-21-rapat-bulog-presiden-soeharto-tekankan-rumus-tani-1-kg-beras-1-kg-pupuk/
 ---
 

@@ -4,9 +4,9 @@ description: RABU, 25 Juli 1973. Presiden Soeharto menganjurkan agar para pengus
   swasta nasional memiliki visi yang modern, sehingga cara-cara berusahapun menjadi
   modern pula. Anjuran tersebut dikemukakan Kepala Negara ketika menerima Ketua...
 date: '1973-07-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-07-25-presiden-soeharto-anjurkan-pengusaha-nasional-memiliki-visi-modern
 aliases:
 - Presiden Soeharto Anjurkan Pengusaha Nasional Memiliki Visi Modern
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - suwoto-sukendar
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-07-25-presiden-soeharto-anjurkan-pengusaha-nasional-memiliki-visi-modern/
   judul: 1973-07-25 Presiden Soeharto Anjurkan Pengusaha Nasional Memiliki Visi Modern
   tanggal: '1973-07-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-07-25-presiden-soeharto-anjurkan-pengusaha-nasional-memiliki-visi-modern/
 ---
 

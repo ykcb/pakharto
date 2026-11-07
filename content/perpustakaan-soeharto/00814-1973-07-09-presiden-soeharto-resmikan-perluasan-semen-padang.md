@@ -4,9 +4,9 @@ description: KAMIS, 9 Juli 1973, Hari ini di Padang, Presiden dan Ibu dan Soehar
   meresmikan perluasan pabrik Semen Padang. Dalam pidatonya Kepala Negara mengungkapkan
   bahwa pemerintah sedang mempertimbangkan kemungkinan untuk membangun...
 date: '1973-07-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-07-09-presiden-soeharto-resmikan-perluasan-semen-padang
 aliases:
 - Presiden Soeharto Resmikan Perluasan Semen Padang
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - semen-padang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-07-09-presiden-soeharto-resmikan-perluasan-semen-padang/
   judul: 1973-07-09 Presiden Soeharto Resmikan Perluasan Semen Padang
   tanggal: '1973-07-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-07-09-presiden-soeharto-resmikan-perluasan-semen-padang/
 ---
 

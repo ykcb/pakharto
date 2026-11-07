@@ -4,9 +4,9 @@ description: RABU, 8 Mei 1968, Presiden Soeharto pagi ini selama satu setengah j
   mengadakan pembicaraan resmi dengan Kaisar Selassie. Dalam pembicaraan itu telah
   disinggung masalah-masalah bilateral dan multilateral. Selesai perundingan, bertempat...
 date: '1968-05-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-05-08-presiden-soeharto-adakan-pembicaraan-resmi-dengan-kaisar-ethiopia
 aliases:
 - Presiden Soeharto Adakan Pembicaraan Resmi dengan Kaisar Ethiopia
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tamu-negara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-05-08-presiden-soeharto-adakan-pembicaraan-resmi-dengan-kaisar-ethiopia/
   judul: 1968-05-08 Presiden Soeharto Adakan Pembicaraan Resmi dengan Kaisar Ethiopia
   tanggal: '1968-05-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-05-08-presiden-soeharto-adakan-pembicaraan-resmi-dengan-kaisar-ethiopia/
 ---
 

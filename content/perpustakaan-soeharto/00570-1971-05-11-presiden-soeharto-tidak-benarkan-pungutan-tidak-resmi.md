@@ -4,9 +4,9 @@ description: SELASA, 11 Mei 1971, Dalam sidang Sub-Dewan Stabilisasi Ekonomi yan
   dipimpin oleh Presiden Soeharto di Bina Graha pagi ini, Gubernur Bank Central, Radius
   Prawiro, telah melaporkan tentang krisis uang di Eropa. Dikatakannya bahwa krisis...
 date: '1971-05-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-05-11-presiden-soeharto-tidak-benarkan-pungutan-tidak-resmi
 aliases:
 - Presiden Soeharto Tidak benarkan Pungutan Tidak Resmi
@@ -25,16 +25,17 @@ tags:
 - pungutan
 - radius-prawiro
 - sembolan-bahan-pokok
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-11-presiden-soeharto-tidak-benarkan-pungutan-tidak-resmi/
   judul: 1971-05-11 Presiden Soeharto Tidak benarkan Pungutan Tidak Resmi
   tanggal: '1971-05-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-05-11-presiden-soeharto-tidak-benarkan-pungutan-tidak-resmi/
 ---
 

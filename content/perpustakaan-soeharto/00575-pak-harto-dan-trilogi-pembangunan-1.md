@@ -4,9 +4,9 @@ description: “Pers ramai menulis kematian misterius sejumlah orang dengan meny
   “penembakan misterius”, atau disingkatnya lagi dengan sebutan “petrus”. Kalangan
   cendekiawan dan juga di forum-forum internasional ada yang menyinggungnya,...
 date: '2014-04-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-dan-trilogi-pembangunan-1
 aliases:
 - Pak Harto dan Trilogi Pembangunan (1) – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - stabilitas-nasional
 - stabilitas-politik
 - trilogi-pembangunan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-1/
   judul: Pak Harto dan Trilogi Pembangunan (1)
   tanggal: '2014-04-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-1/
 ---
 

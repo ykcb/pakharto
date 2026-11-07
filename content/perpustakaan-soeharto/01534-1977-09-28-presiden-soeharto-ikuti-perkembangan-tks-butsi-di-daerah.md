@@ -4,9 +4,9 @@ description: 22 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1977-09-28-presiden-soeharto-ikuti-perkembangan-tks-butsi-di-daerah/respond)
   109 Views Share on
 date: '1977-09-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1977-09-28-presiden-soeharto-ikuti-perkembangan-tks-butsi-di-daerah
 aliases:
 - Presiden Soeharto Ikuti Perkembangan TKS BUTSI di Daerah
@@ -19,16 +19,17 @@ tags:
 - presiden-soeharto
 - subroto
 - transmigrasi-dan-koperasi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-09-28-presiden-soeharto-ikuti-perkembangan-tks-butsi-di-daerah/
   judul: 1977-09-28 Presiden Soeharto Ikuti Perkembangan TKS BUTSI di Daerah
   tanggal: '1977-09-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1977-09-28-presiden-soeharto-ikuti-perkembangan-tks-butsi-di-daerah/
 ---
 

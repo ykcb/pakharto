@@ -4,9 +4,9 @@ description: 1 September 2013 [Soeharto Library](https://soehartolibrary.id/auth
   [No Comment](https://soehartolibrary.id/1968-09-01-presiden-soeharto-rapat-umum-dengan-200-000-rakyat-sumatera-utara/respond)
   99 Views Share on
 date: '1968-09-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-09-01-presiden-soeharto-rapat-umum-dengan-200-000-rakyat-sumatera-utara
 aliases:
 - Presiden Soeharto Rapat Umum Dengan 200.000 Rakyat Sumatera Utara
@@ -23,16 +23,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - rapat-umum
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-01-presiden-soeharto-rapat-umum-dengan-200-000-rakyat-sumatera-utara/
   judul: 1968-09-01 Presiden Soeharto Rapat Umum Dengan 200.000 Rakyat Sumatera Utara
   tanggal: '1968-09-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-09-01-presiden-soeharto-rapat-umum-dengan-200-000-rakyat-sumatera-utara/
 ---
 

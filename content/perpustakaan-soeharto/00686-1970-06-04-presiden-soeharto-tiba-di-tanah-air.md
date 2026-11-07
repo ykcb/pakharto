@@ -4,9 +4,9 @@ description: Kamis, 4 Juni 1970, Dini hari ini Presiden Soeharto beserta rombong
   tiba kembali di Jakarta dari kunjungan kenegaraan di AS dan kunjungan tidak resmi
   di Jepang. (AFR).
 date: '1970-06-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-06-04-presiden-soeharto-tiba-di-tanah-air
 aliases:
 - Presiden Soeharto Tiba Di Tanah Air
@@ -19,16 +19,17 @@ tags:
 - osaka
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-06-04-presiden-soeharto-tiba-di-tanah-air/
   judul: 1970-06-04 Presiden Soeharto Tiba Di Tanah Air
   tanggal: '1970-06-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-06-04-presiden-soeharto-tiba-di-tanah-air/
 ---
 

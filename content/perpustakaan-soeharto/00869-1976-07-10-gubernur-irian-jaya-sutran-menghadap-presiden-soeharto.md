@@ -4,9 +4,9 @@ description: SABTU, 10 Juli 1976 Selama hampir satu jam, siang ini Presiden Soeh
   menerima Gubernur Irian Jaya, Sutran, di Istana Merdeka. Gubernur Sutran menghadap
   untuk melaporkan tentang gempa bumi yang terjadi di daerahnya baru-baru ini....
 date: '1976-07-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-10-gubernur-irian-jaya-sutran-menghadap-presiden-soeharto
 aliases:
 - Gubernur Sutran (Irian Jaya) Menghadap Presiden Soeharto
@@ -24,16 +24,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - soetran
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-10-gubernur-irian-jaya-sutran-menghadap-presiden-soeharto/
   judul: 1976-07-10 Gubernur Sutran (Irian Jaya) Menghadap Presiden Soeharto
   tanggal: '1976-07-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-10-gubernur-irian-jaya-sutran-menghadap-presiden-soeharto/
 ---
 

@@ -4,9 +4,9 @@ description: KAMIS, 01 Juni 1972, Presiden Soeharto akan memberikan bantuan sebe
   Rp. 30 juta bagi penbgembangan usaha koperasi peternakan unggas. Bantuan ini merupakan
   reaksi Presiden terhadap laporan Menteri Transmigrasi dan Koperasi Subroto,...
 date: '1972-06-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-06-01-presiden-soeharto-memberikan-bantuan-koperasi-peternak-unggas
 aliases:
 - Presiden Soeharto Memberikan Bantuan Koperasi Peternak Unggas
@@ -29,16 +29,17 @@ tags:
 - riam-kanan
 - tokyo
 - weleri
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-06-01-presiden-soeharto-memberikan-bantuan-koperasi-peternak-unggas/
   judul: 1972-06-01 Presiden Soeharto Memberikan Bantuan Koperasi Peternak Unggas
   tanggal: '1972-06-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-06-01-presiden-soeharto-memberikan-bantuan-koperasi-peternak-unggas/
 ---
 

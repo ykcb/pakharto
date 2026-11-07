@@ -4,9 +4,9 @@ description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1978-09-28-presiden-soeharto-lantik-bj-habibie-sebagai-ketua-bppt/respond)
   103 Views Share on
 date: '1978-09-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1978-09-28-presiden-soeharto-lantik-bj-habibie-sebagai-ketua-bppt
 aliases:
 - Presiden Soeharto Lantik BJ Habibie Sebagai Ketua BPPT
@@ -17,16 +17,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1978-09-28-presiden-soeharto-lantik-bj-habibie-sebagai-ketua-bppt/
   judul: 1978-09-28 Presiden Soeharto Lantik BJ Habibie Sebagai Ketua BPPT
   tanggal: '1978-09-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1978-09-28-presiden-soeharto-lantik-bj-habibie-sebagai-ketua-bppt/
 ---
 

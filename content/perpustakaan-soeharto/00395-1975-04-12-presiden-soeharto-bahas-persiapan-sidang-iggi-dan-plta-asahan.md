@@ -4,9 +4,9 @@ description: SABTU, 12 April 1975, Menteri Negara Ekuin/Ketua Bappenas, Widjojo 
   Menteri Keuangan, Ali Wardhana, Menteri Perdagangan, Radius Prawiro, dan Gubernur
   Bank Central, Rachmat Saleh, menghadap Kepala Negara di Cendana jam 09.00...
 date: '1975-04-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-12-presiden-soeharto-bahas-persiapan-sidang-iggi-dan-plta-asahan
 aliases:
 - Presiden Soeharto Bahas Persiapan Sidang IGGI dan PLTA Asahan
@@ -23,16 +23,17 @@ tags:
 - rachmat-saleh
 - radius-prawiro
 - widjojo-nitisostro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-12-presiden-soeharto-bahas-persiapan-sidang-iggi-dan-plta-asahan/
   judul: 1975-04-12 Presiden Soeharto Bahas Persiapan Sidang IGGI dan PLTA Asahan
   tanggal: '1975-04-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-12-presiden-soeharto-bahas-persiapan-sidang-iggi-dan-plta-asahan/
 ---
 

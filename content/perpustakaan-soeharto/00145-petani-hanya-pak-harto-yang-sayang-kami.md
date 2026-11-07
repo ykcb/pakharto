@@ -4,9 +4,9 @@ description: Di tengah kelangkaan pupuk yang terus menerus terjadi, sejumlah kal
   kembali melirik kebijakan Pak Harto. Dulu, Pak Harto sukses melindungi petani dengan
   menyalurkan pupuk melalui KUD.
 date: '2013-03-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: petani-hanya-pak-harto-yang-sayang-kami
 aliases:
 - 'Petani: Hanya Pak Harto Yang Sayang Kami – HM Soeharto'
@@ -17,16 +17,17 @@ tags:
 - petani
 - pupuk
 - reformasi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/petani-hanya-pak-harto-yang-sayang-kami/
   judul: 'Petani: Hanya Pak Harto Yang Sayang Kami'
   tanggal: '2013-03-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/petani-hanya-pak-harto-yang-sayang-kami/
 ---
 

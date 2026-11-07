@@ -4,9 +4,9 @@ description: Presiden Soeharto juga dinilai berhasil mewujudkan stabilitas ekono
   yang ditandai dengan relatif stabilnya harga-harga barang kebutuhan pokok. Stabilitas
   ini diwujudkan dengan menerapkan mekanisme pasar terkelola dan menghindari...
 date: '2014-04-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-dan-trilogi-pembangunan-3
 aliases:
 - Pak Harto Dan Trilogi Pembangunan (3) – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - presiden-soeharto
 - stabilitas-ekonomi
 - trilogi-pembangunan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-3/
   judul: Pak Harto Dan Trilogi Pembangunan (3)
   tanggal: '2014-04-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-3/
 ---
 

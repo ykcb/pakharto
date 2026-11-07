@@ -5,9 +5,9 @@ description: SABTU, 05 Juli 1975, Presiden Soeharto dan rombongan, pagi ini bera
   dari Ottawa menuju Toronto, sekitar 300 mil di selatan ibukota Kanada itu. Di kota
   ini Presiden Soeharto mengadakan pertemuan dengan para pengusaha Kanada. Dalam...
 date: '1975-07-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-07-05-presiden-soeharto-perkembangan-indo-cina-perkokoh-idiologi-nasional-indonesia
 aliases:
 - 'Presiden Soeharto: Perkembangan Indo-Cina Perkokoh Idiologi Nasional Indonesia'
@@ -26,17 +26,18 @@ tags:
 - presiden-soeharto
 - toronto
 - washington
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-07-05-presiden-soeharto-perkembangan-indo-cina-perkokoh-idiologi-nasional-indonesia/
   judul: '1975-07-05 Presiden Soeharto: Perkembangan Indo-Cina Perkokoh Idiologi Nasional
     Indonesia'
   tanggal: '1975-07-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-07-05-presiden-soeharto-perkembangan-indo-cina-perkokoh-idiologi-nasional-indonesia/
 ---
 

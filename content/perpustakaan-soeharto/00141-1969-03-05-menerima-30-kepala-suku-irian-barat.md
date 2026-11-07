@@ -4,9 +4,9 @@ description: RABU, 05 MARET 1969, Presiden Soeharto malam ini di Istana Negara m
   30 orang kepala suku dan delapan wakil wanita Irian Barat. Dalam acara ramah tamah
   tersebut, Presiden di damping oleh Ibu Tien Soeharto, Menteri Dalam Negeri dan...
 date: '1969-03-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-03-05-menerima-30-kepala-suku-irian-barat
 aliases:
 - Menerima 30 Kepala Suku Irian Barat
@@ -26,16 +26,17 @@ tags:
 - perpustakaan-soeharto
 - soeharto
 - suku
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-03-05-menerima-30-kepala-suku-irian-barat/
   judul: 1969-03-05 Menerima 30 Kepala Suku Irian Barat
   tanggal: '1969-03-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-03-05-menerima-30-kepala-suku-irian-barat/
 ---
 

@@ -4,9 +4,9 @@ description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [2 Comments](https://soehartolibrary.id/akar-saya-dari-desa/comments) 559 Views
   Share on
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: akar-saya-dari-desa
 aliases:
 - Akar Saya Dari Desa – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - silsilah
 - wonogiri
 - wuryantoro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/akar-saya-dari-desa/
   judul: Akar Saya Dari Desa
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/akar-saya-dari-desa/
 ---
 

@@ -5,9 +5,9 @@ description: 7 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/1970-10-28-presiden-soeharto-meninjau-proyek-persawahan-pasang-surut-riam-kanan-dan-tambau/respond)
   101 Views Share on
 date: '1970-10-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-10-28-presiden-soeharto-meninjau-proyek-persawahan-pasang-surut-riam-kanan-dan-tambau
 aliases:
 - Presiden Soeharto Meninjau Proyek Persawahan Pasang Surut Riam Kanan dan Tambau
@@ -21,17 +21,18 @@ tags:
 - presiden-soeharto
 - riam-kanan
 - tambau
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-10-28-presiden-soeharto-meninjau-proyek-persawahan-pasang-surut-riam-kanan-dan-tambau/
   judul: 1970-10-28 Presiden Soeharto Meninjau Proyek Persawahan Pasang Surut Riam
     Kanan dan Tambau
   tanggal: '1970-10-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-10-28-presiden-soeharto-meninjau-proyek-persawahan-pasang-surut-riam-kanan-dan-tambau/
 ---
 

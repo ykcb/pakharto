@@ -4,9 +4,9 @@ description: JUM’AT, 01 AGUSTUS 1969, Presiden Soeharto meresmikan pelabuhan u
   internasional Ngurah Rai di Bali hari ini. Dalam kata sambutannya Presiden antara
   lain mengatakan bahwa dengan dibukanya bandar udara Ngurah Rai, Indonesia...
 date: '1969-08-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-08-01-presiden-soeharto-resmikan-bandara-ngurah-rai-bali
 aliases:
 - Presiden Soeharto Resmikan Bandara Ngurah Rai Bali
@@ -19,16 +19,17 @@ tags:
 - peresmian
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-01-presiden-soeharto-resmikan-bandara-ngurah-rai-bali/
   judul: 1969-08-01 Presiden Soeharto Resmikan Bandara Ngurah Rai Bali
   tanggal: '1969-08-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-01-presiden-soeharto-resmikan-bandara-ngurah-rai-bali/
 ---
 

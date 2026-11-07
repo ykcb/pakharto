@@ -4,9 +4,9 @@ description: SABTU, 20 Juli 1970. Presiden Soeharto berpendapat bahwa pembukaan 
   atas nama Jenderal Soeryo, sebagaimana yang disebutkan oleh mahasiswa itu, merupakan
   suatu prosedur dan belum tentu uang tersebut dikantongi oleh Jenderal...
 date: '1970-07-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-07-20-presiden-soeharto-memberi-penjelasan-soal-rekening-jenderal-soeryo
 aliases:
 - Presiden Soeharto Memberi Penjelasan Soal Rekening Jenderal Soeryo
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - rekening
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-20-presiden-soeharto-memberi-penjelasan-soal-rekening-jenderal-soeryo/
   judul: 1970-07-20 Presiden Soeharto Memberi Penjelasan Soal Rekening Jenderal Soeryo
   tanggal: '1970-07-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-07-20-presiden-soeharto-memberi-penjelasan-soal-rekening-jenderal-soeryo/
 ---
 

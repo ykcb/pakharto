@@ -4,9 +4,9 @@ description: SELASA, 17 Maret 1970, Presiden Soeharto mengadakan pembicaraan ter
   selama 45 menit dengan PM Tunku Abdul Rahman. Dalam pertemuan yang juga dihadiri
   oleh pembantu utama kedua belah pihak itu telah dibicarakan berbagai masalah, baik...
 date: '1970-03-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-03-17-presiden-soeharto-pm-tuanku-abdul-rahman-adakan-pembicaraan-tertutup
 aliases:
 - Presiden Soeharto-PM Tuanku Abdul Rahman adakan Pembicaraan Tertutup
@@ -26,16 +26,17 @@ tags:
 - selat
 - soeharto
 - tunku
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-17-presiden-soeharto-pm-tuanku-abdul-rahman-adakan-pembicaraan-tertutup/
   judul: 1970-03-17 Presiden Soeharto-PM Tuanku Abdul Rahman adakan Pembicaraan Tertutup
   tanggal: '1970-03-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-03-17-presiden-soeharto-pm-tuanku-abdul-rahman-adakan-pembicaraan-tertutup/
 ---
 

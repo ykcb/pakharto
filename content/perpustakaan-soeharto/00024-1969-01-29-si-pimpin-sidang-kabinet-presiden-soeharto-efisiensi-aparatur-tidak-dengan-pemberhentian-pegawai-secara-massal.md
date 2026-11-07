@@ -5,9 +5,9 @@ description: RABU, 29 JANUARI 1969. Presiden Soeharto, pagi ini memimpin sidang 
   paripurna di Istana Negara. Dalam sidang tersebut Presiden Soeharto memusatkan perhatian
   pada kesejahteraan pegawai negeri dan efisiensi aparatur negara....
 date: '1969-01-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-01-29-si-pimpin-sidang-kabinet-presiden-soeharto-efisiensi-aparatur-tidak-dengan-pemberhentian-pegawai-secara-massal
 aliases:
 - 'SI Pimpin Sidang Kabinet, Presiden Soeharto: Efisiensi Aparatur Tidak Dengan Pemberhentian
@@ -20,17 +20,18 @@ tags:
 - kesejahteraan-pegawai
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-29-si-pimpin-sidang-kabinet-presiden-soeharto-efisiensi-aparatur-tidak-dengan-pemberhentian-pegawai-secara-massal/
   judul: '1969-01-29 SI Pimpin Sidang Kabinet, Presiden Soeharto: Efisiensi Aparatur
     Tidak Dengan Pemberhentian Pegawai Secara Massal'
   tanggal: '1969-01-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-29-si-pimpin-sidang-kabinet-presiden-soeharto-efisiensi-aparatur-tidak-dengan-pemberhentian-pegawai-secara-massal/
 ---
 

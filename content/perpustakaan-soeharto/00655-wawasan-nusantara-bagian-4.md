@@ -4,9 +4,9 @@ description: Merupakan cara pandang terhadap pengalaman kesejarahan kronik (tari
   ulur faksi-faksi pemegang kekuasaan masa lalu), konflik politik dan rotasi (jatuh
   bangunnya) kekuasaan yang ada di wilayah nusantara sebagai realitas yang harus...
 date: '2013-06-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: wawasan-nusantara-bagian-4
 aliases:
 - Wawasan Nusantara (Bagian 4) – HM Soeharto
@@ -16,16 +16,17 @@ tags:
 - presiden-soeharfto
 - rotasi-kekuasaan
 - wawasan-nusantara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/wawasan-nusantara-bagian-4/
   judul: Wawasan Nusantara (Bagian 4)
   tanggal: '2013-06-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/wawasan-nusantara-bagian-4/
 ---
 

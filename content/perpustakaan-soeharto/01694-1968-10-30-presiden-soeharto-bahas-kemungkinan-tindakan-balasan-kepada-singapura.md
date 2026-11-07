@@ -4,9 +4,9 @@ description: 3 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/1968-10-30-presiden-soeharto-bahas-kemungkinan-tindakan-balasan-kepada-singapura/respond)
   139 Views Share on
 date: '1968-10-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-10-30-presiden-soeharto-bahas-kemungkinan-tindakan-balasan-kepada-singapura
 aliases:
 - Presiden Soeharto Bahas Kemungkinan Tindakan Balasan Kepada Singapura
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - singapura
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-10-30-presiden-soeharto-bahas-kemungkinan-tindakan-balasan-kepada-singapura/
   judul: 1968-10-30 Presiden Soeharto Bahas Kemungkinan Tindakan Balasan Kepada Singapura
   tanggal: '1968-10-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-10-30-presiden-soeharto-bahas-kemungkinan-tindakan-balasan-kepada-singapura/
 ---
 

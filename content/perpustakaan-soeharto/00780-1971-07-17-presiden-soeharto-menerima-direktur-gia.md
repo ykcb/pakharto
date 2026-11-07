@@ -4,9 +4,9 @@ description: SABTU, 17 Juli 1971. Direktur GIA, Wiweko, menghadap Presiden Soeha
   di kediaman Jalan Cendana pagi ini. Ia datang untuk melaporkan tentang perluasan
   dan modernisasi armada Garuda. Menurut Direktur GIA, dalam waktu yang tak lama lagi...
 date: '1971-07-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-07-17-presiden-soeharto-menerima-direktur-gia
 aliases:
 - Presiden Soeharto Menerima Direktur GIA
@@ -23,16 +23,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wiweko
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-07-17-presiden-soeharto-menerima-direktur-gia/
   judul: 1971-07-17 Presiden Soeharto Menerima Direktur GIA
   tanggal: '1971-07-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-07-17-presiden-soeharto-menerima-direktur-gia/
 ---
 

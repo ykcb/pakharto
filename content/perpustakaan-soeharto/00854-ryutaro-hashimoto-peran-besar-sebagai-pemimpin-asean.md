@@ -4,9 +4,9 @@ description: Beberapa saat yang lalu, saya memutuskan untuk mengundurkan diri da
   jabatan Perdana Menteri Jepang. Saya ingin menyampaikan rasa terima kasih dari lubuk
   hati saya yang paling dalam atas kebaikan hati dan kehormatan yang selama ini...
 date: '2013-07-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: ryutaro-hashimoto-peran-besar-sebagai-pemimpin-asean
 aliases:
 - 'Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN – HM Soeharto'
@@ -19,16 +19,17 @@ tags:
 - pimpinan-asean
 - presiden-soeharto
 - ryutaro-hashimoto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/ryutaro-hashimoto-peran-besar-sebagai-pemimpin-asean/
   judul: 'Ryutaro Hashimoto: Peran Besar Sebagai Pemimpin ASEAN'
   tanggal: '2013-07-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/ryutaro-hashimoto-peran-besar-sebagai-pemimpin-asean/
 ---
 

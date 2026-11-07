@@ -4,9 +4,9 @@ description: SELASA, 2 Mei 1972, Bendungan serba guna Karangkates di dekat Malan
   Jawa Timur, diresmikan Presiden Soeharto siang ini. Bendungan Karangkates ini dibangun
   untuk mengendalikan air Kali Brantas yang sering meluap, disamping untuk...
 date: '1972-05-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-05-02-presiden-soeharto-resmikan-bendungan-karangkates-malang
 aliases:
 - Presiden Soeharto Resmikan Bendungan Karangkates Malang
@@ -21,16 +21,17 @@ tags:
 - peresmian-proyek
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-05-02-presiden-soeharto-resmikan-bendungan-karangkates-malang/
   judul: 1972-05-02 Presiden Soeharto Resmikan Bendungan Karangkates Malang
   tanggal: '1972-05-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-05-02-presiden-soeharto-resmikan-bendungan-karangkates-malang/
 ---
 

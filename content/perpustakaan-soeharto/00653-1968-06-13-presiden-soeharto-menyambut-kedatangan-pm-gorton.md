@@ -4,9 +4,9 @@ description: KAMIS, 13 JUNI 1968, Presiden dan Ibu Soeharto sore ini menyambut k
   PM Australia, John Gorton, dan rombongan di Pelabuhan Udara Kemayoran. PM dan Nyonya
   Gorton mengadakan kunjungan resmi selama dua hari di Indonesia atas...
 date: '1968-06-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-06-13-presiden-soeharto-menyambut-kedatangan-pm-gorton
 aliases:
 - Presiden Soeharto Menyambut Kedatangan PM Gorton
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - pm-australia
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-06-13-presiden-soeharto-menyambut-kedatangan-pm-gorton/
   judul: 1968-06-13 Presiden Soeharto Menyambut Kedatangan PM Gorton
   tanggal: '1968-06-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-06-13-presiden-soeharto-menyambut-kedatangan-pm-gorton/
 ---
 

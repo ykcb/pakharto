@@ -4,9 +4,9 @@ description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1973-09-26-presiden-soeharto-menerima-pimpinan-mitsuo-co-ltd/respond)
   95 Views Share on
 date: '1973-09-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-09-26-presiden-soeharto-menerima-pimpinan-mitsuo-co-ltd
 aliases:
 - Presiden Soeharto Menerima Pimpinan Mitsuo & Co. Ltd
@@ -18,16 +18,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-09-26-presiden-soeharto-menerima-pimpinan-mitsuo-co-ltd/
   judul: 1973-09-26 Presiden Soeharto Menerima Pimpinan Mitsuo & Co. Ltd
   tanggal: '1973-09-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-09-26-presiden-soeharto-menerima-pimpinan-mitsuo-co-ltd/
 ---
 

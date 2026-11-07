@@ -5,9 +5,9 @@ description: KAMIS, 14 Maret 1974, Dalam suatu upacara yang dihadiri oleh para p
   lembaga tinggi negara dan para menteri serta wakil fraksi-fraksi DPR, pagi hari,
   bertempat di Istana Merdeka, Presiden Soeharto menandatangani RAPBN 1974/1975...
 date: '1974-03-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-14-presiden-soeharto-menandatangani-uu-no-2-tahun-1974-tentang-apbn-tahun-1974
 aliases:
 - Presiden Soeharto Tandatangani UU No. 2 tahun 1974 Tentang APBN Tahun 1974
@@ -18,17 +18,18 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-14-presiden-soeharto-menandatangani-uu-no-2-tahun-1974-tentang-apbn-tahun-1974/
   judul: 1974-03-14 Presiden Soeharto Tandatangani UU No. 2 tahun 1974 Tentang APBN
     Tahun 1974
   tanggal: '1974-03-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-14-presiden-soeharto-menandatangani-uu-no-2-tahun-1974-tentang-apbn-tahun-1974/
 ---
 

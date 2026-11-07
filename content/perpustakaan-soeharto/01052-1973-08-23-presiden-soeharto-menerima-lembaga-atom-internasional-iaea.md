@@ -4,9 +4,9 @@ description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1973-08-23-presiden-soeharto-menerima-lembaga-atom-internasional-iaea/respond)
   93 Views Share on
 date: '1973-08-23'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-08-23-presiden-soeharto-menerima-lembaga-atom-internasional-iaea
 aliases:
 - Presiden Soeharto Menerima Lembaga Atom Internasional IAEA
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - prof-dr-baiquni
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-08-23-presiden-soeharto-menerima-lembaga-atom-internasional-iaea/
   judul: 1973-08-23 Presiden Soeharto Menerima Lembaga Atom Internasional IAEA
   tanggal: '1973-08-23'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-08-23-presiden-soeharto-menerima-lembaga-atom-internasional-iaea/
 ---
 

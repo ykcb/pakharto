@@ -4,9 +4,9 @@ description: Konsekuensi sila ketiga Pancasila “Persatuan Indonesia” bukan s
   terjaganya teritori fisik wilayah Indonesia dari penguasaan pihak-pihak lain. Sebagai
   konsekuensi ditetapkannya orientasi transendensi (sila pertama) dan...
 date: '2013-04-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: konsepsi-peradaban-pancasila-4
 aliases:
 - Konsepsi Peradaban Pancasila (4) – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - pancasila
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/konsepsi-peradaban-pancasila-4/
   judul: Konsepsi Peradaban Pancasila (4)
   tanggal: '2013-04-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/konsepsi-peradaban-pancasila-4/
 ---
 

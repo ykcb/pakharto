@@ -4,9 +4,9 @@ description: SABTU, 26 APRIL 1969, Pagi ini Presiden menerima kunjungan kehormat
   Menlu Australia, Gordon Freeth. Presiden Soeharto menegaskan kembali bahwa Indonesia
   sama sekali tidak mempunyai ambisi teritorial. Dalam pertemuan itu kedua pemimpin...
 date: '2014-03-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-4-26-presiden-soeharto-menerima-menlu-australia-gordon-freeth
 aliases:
 - 1969-4-26 Presiden Soeharto Menerima Menlu Australia Gordon Freeth – HM Soeharto
@@ -20,16 +20,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-4-26-presiden-soeharto-menerima-menlu-australia-gordon-freeth/
   judul: 1969-4-26 Presiden Soeharto Menerima Menlu Australia Gordon Freeth
   tanggal: '2014-03-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-4-26-presiden-soeharto-menerima-menlu-australia-gordon-freeth/
 ---
 

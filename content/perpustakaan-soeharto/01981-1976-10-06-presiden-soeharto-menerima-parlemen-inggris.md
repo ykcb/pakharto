@@ -4,9 +4,9 @@ description: 18 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1976-10-06-presiden-soeharto-menerima-parlemen-inggris/respond)
   99 Views Share on
 date: '1976-10-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-10-06-presiden-soeharto-menerima-parlemen-inggris
 aliases:
 - Presiden Soeharto Menerima Parlemen Inggris
@@ -17,16 +17,17 @@ tags:
 - parlemen-inggris
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-10-06-presiden-soeharto-menerima-parlemen-inggris/
   judul: 1976-10-06 Presiden Soeharto Menerima Parlemen Inggris
   tanggal: '1976-10-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-10-06-presiden-soeharto-menerima-parlemen-inggris/
 ---
 

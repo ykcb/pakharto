@@ -4,9 +4,9 @@ description: SELASA, 12 AGUSTUS 1968, Pagi ini Presiden Soeharto memimpin sidang
   di Istana Negara. berbeda dari sidang kabinet biasanya, kali ini sidang dihadiri
   oleh pimpinan Dewan Pertimbangan Agung (DPA). Di dalam pidato pengantar sidang,...
 date: '1968-08-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-08-12-presiden-soeharto-pimpin-sidang-kabinet
 aliases:
 - Presiden Soeharto Pimpin Sidang Kabinet
@@ -14,16 +14,17 @@ aliases:
 tags:
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-08-12-presiden-soeharto-pimpin-sidang-kabinet/
   judul: 1968-08-12 Presiden Soeharto Pimpin Sidang Kabinet
   tanggal: '1968-08-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-08-12-presiden-soeharto-pimpin-sidang-kabinet/
 ---
 

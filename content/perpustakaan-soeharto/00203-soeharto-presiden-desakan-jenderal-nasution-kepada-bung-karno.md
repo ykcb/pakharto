@@ -4,9 +4,9 @@ description: Pak Harto berusaha untuk tidak mempunyai musuh, untuk itu beliau se
   akomodatif. Sebagai orang Jawa yang kental dalam spiritual, beliau mempercayai adanya
   “wisik” yang untuk orang awam secara langsung sulit dibuktikan. Saya percaya,...
 date: '2013-03-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: soeharto-presiden-desakan-jenderal-nasution-kepada-bung-karno
 aliases:
 - 'Soeharto Presiden: Desakan Jenderal Nasution Kepada Bung Karno – HM Soeharto'
@@ -27,16 +27,17 @@ tags:
 - rri
 - soeharto
 - sujarwo
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/soeharto-presiden-desakan-jenderal-nasution-kepada-bung-karno/
   judul: 'Soeharto Presiden: Desakan Jenderal Nasution Kepada Bung Karno'
   tanggal: '2013-03-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/soeharto-presiden-desakan-jenderal-nasution-kepada-bung-karno/
 ---
 

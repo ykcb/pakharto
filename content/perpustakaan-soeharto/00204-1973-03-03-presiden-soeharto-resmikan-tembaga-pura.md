@@ -4,9 +4,9 @@ description: SABTU, 3 Maret 1973, Jam 5.50 pagi Presiden Soeharto berangkat dari
   udara Kemayoran menuju Irian Jaya dalam rangka peresmian beberapa proyek pembangunan
   di daerah tertentu. Tiba di Irian Jaya, Presiden langsung menuju proyek...
 date: '1973-03-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-03-03-presiden-soeharto-resmikan-tembaga-pura
 aliases:
 - Presiden Soeharto Resmikan Tembaga Pura
@@ -18,16 +18,17 @@ tags:
 - presiden-soeharto
 - soeharto
 - tembaga-pura
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-03-03-presiden-soeharto-resmikan-tembaga-pura/
   judul: 1973-03-03 Presiden Soeharto Resmikan Tembaga Pura
   tanggal: '1973-03-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-03-03-presiden-soeharto-resmikan-tembaga-pura/
 ---
 

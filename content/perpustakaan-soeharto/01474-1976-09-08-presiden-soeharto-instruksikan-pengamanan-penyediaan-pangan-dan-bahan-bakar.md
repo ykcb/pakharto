@@ -5,9 +5,9 @@ description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1976-09-08-presiden-soeharto-instruksikan-pengamanan-penyediaan-pangan-dan-bahan-bakar/respond)
   105 Views Share on
 date: '1976-09-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-09-08-presiden-soeharto-instruksikan-pengamanan-penyediaan-pangan-dan-bahan-bakar
 aliases:
 - Presiden Soeharto Instruksikan Pengamanan Penyediaan Pangan dan Bahan Bakar
@@ -34,17 +34,18 @@ tags:
 - presiden-soeharto
 - radius-prawiro
 - sudharmono
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-09-08-presiden-soeharto-instruksikan-pengamanan-penyediaan-pangan-dan-bahan-bakar/
   judul: 1976-09-08 Presiden Soeharto Instruksikan Pengamanan Penyediaan Pangan dan
     Bahan Bakar
   tanggal: '1976-09-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-09-08-presiden-soeharto-instruksikan-pengamanan-penyediaan-pangan-dan-bahan-bakar/
 ---
 

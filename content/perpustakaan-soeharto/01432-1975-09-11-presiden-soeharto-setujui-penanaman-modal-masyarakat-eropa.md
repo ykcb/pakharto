@@ -4,9 +4,9 @@ description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa/respond)
   96 Views Share on
 date: '1975-09-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa
 aliases:
 - Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa
@@ -27,16 +27,17 @@ tags:
 - radius-prawiro
 - transmigrasi
 - widjojo-nitisastro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa/
   judul: 1975-09-11 Presiden Soeharto Setujui Penanaman Modal Masyarakat Eropa
   tanggal: '1975-09-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-09-11-presiden-soeharto-setujui-penanaman-modal-masyarakat-eropa/
 ---
 

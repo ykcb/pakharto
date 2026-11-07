@@ -4,9 +4,9 @@ description: KAMIS 18 PEBRUARI 1971, Ketika menerima pimpinan Korps Cacat Vetera
   yang dipimpin oleh Bambang Utoyo, Presiden Soeharto telah memberikan pinjaman sebesar
   Rp. 5.000.000,-. Pinjaman ini harus dikembalikan oleh para cacat veteran yang...
 date: '1971-02-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-02-18-bantuan-untuk-cacat-veteran
 aliases:
 - Bantuan Untuk Cacat Veteran
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - pinjaman
 - veteran
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-02-18-bantuan-untuk-cacat-veteran/
   judul: 1971-02-18 Bantuan Untuk Cacat Veteran
   tanggal: '1971-02-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-02-18-bantuan-untuk-cacat-veteran/
 ---
 

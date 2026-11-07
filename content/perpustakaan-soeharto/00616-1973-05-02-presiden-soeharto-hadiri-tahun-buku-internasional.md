@@ -4,9 +4,9 @@ description: RABU, 2 Mei 1973, Siang ini Presiden Soeharto menghadiri jamuan mak
   siang yang diselenggarakan di Bogor oleh Panitia Nasional Tahun Buku Internasional.
   Dalam acara ini Kepala Negara telah menerima rumusan konsepsional untuk...
 date: '1973-05-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-05-02-presiden-soeharto-hadiri-tahun-buku-internasional
 aliases:
 - Presiden Soeharto Hadiri Tahun Buku Internasional
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tarif-angkutan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-02-presiden-soeharto-hadiri-tahun-buku-internasional/
   judul: 1973-05-02 Presiden Soeharto Hadiri Tahun Buku Internasional
   tanggal: '1973-05-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-05-02-presiden-soeharto-hadiri-tahun-buku-internasional/
 ---
 

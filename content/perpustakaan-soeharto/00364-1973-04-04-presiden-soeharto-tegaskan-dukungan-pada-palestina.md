@@ -4,9 +4,9 @@ description: RABU, 4 April 1973, Pada pukul 09.00 dan 10.00 pagi ini, secara ber
   Presiden Soeharto menerima surat-surat kepercayaan dari Duta Besar Luar Biasa dan
   Berkuasa Penuh Republik Irak, Fathil Salman Al-Assaf, dan Duta Besar Luar...
 date: '1973-04-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-04-04-presiden-soeharto-tegaskan-dukungan-pada-palestina
 aliases:
 - Presiden Soeharto Tegaskan Dukungan Pada Palestina
@@ -23,16 +23,17 @@ tags:
 - presiden-soeharto
 - rachmat-saleh
 - soemitro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-04-04-presiden-soeharto-tegaskan-dukungan-pada-palestina/
   judul: 1973-04-04 Presiden Soeharto Tegaskan Dukungan Pada Palestina
   tanggal: '1973-04-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-04-04-presiden-soeharto-tegaskan-dukungan-pada-palestina/
 ---
 

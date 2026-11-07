@@ -4,9 +4,9 @@ description: SELASA, 25 AGUSTUS 1970, Dalam sidang Sub-Dewan Stabilisasi Ekonomi
   berlangsung pagi ini di Bina Graha, Presiden Soeharto telah meminta produksi dalam
   negeri dapat ditingkatkan. Ia juga meminta kepada semua menteri agar masyarakat...
 date: '1970-08-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-08-25-presiden-soeharto-masyarakat-jangan-terpikat-produksi-luar-negeri
 aliases:
 - 'Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri'
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - produksi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-08-25-presiden-soeharto-masyarakat-jangan-terpikat-produksi-luar-negeri/
   judul: '1970-08-25 Presiden Soeharto: Masyarakat Jangan Terpikat Produksi Luar Negeri'
   tanggal: '1970-08-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-08-25-presiden-soeharto-masyarakat-jangan-terpikat-produksi-luar-negeri/
 ---
 

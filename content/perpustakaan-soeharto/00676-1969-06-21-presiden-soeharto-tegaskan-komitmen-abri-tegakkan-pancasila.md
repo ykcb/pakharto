@@ -4,9 +4,9 @@ description: SABTU, 21 JUNI 1969, Di Medan pagi ini Presiden Soeharto menganuger
   Samkarya Nugraha kepada Kodam II/Bukit Barisan bertepatan dengan ulang tahun ke-18
   kesatuan itu. Dalam pidatonya Presiden menyatakan penghargaannya terhadap...
 date: '1969-06-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-06-21-presiden-soeharto-tegaskan-komitmen-abri-tegakkan-pancasila
 aliases:
 - Presiden Soeharto Tegaskan Komitmen ABRI Tegakkan Pancasila
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - uud-1945
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-21-presiden-soeharto-tegaskan-komitmen-abri-tegakkan-pancasila/
   judul: 1969-06-21 Presiden Soeharto Tegaskan Komitmen ABRI Tegakkan Pancasila
   tanggal: '1969-06-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-06-21-presiden-soeharto-tegaskan-komitmen-abri-tegakkan-pancasila/
 ---
 

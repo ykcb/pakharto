@@ -4,9 +4,9 @@ description: SABTU, 25 Mei 1968, Pagi ini Presiden Soeharto beramah tamah dengan
   orang mahasiswa dari universitas/institute negeri seluruh Indonesia. Mereka adalah
   pimpinan Dewan-Dewan Mahasiswa yang baru saja mengikuti diskusi besar yang...
 date: '1968-05-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-05-25-presiden-soeharto-beramah-tamah-dengan-mahasiswa
 aliases:
 - Presiden Soeharto Beramah Tamah Dengan Mahasiswa
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - universitas
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-05-25-presiden-soeharto-beramah-tamah-dengan-mahasiswa/
   judul: 1968-05-25 Presiden Soeharto Beramah Tamah Dengan Mahasiswa
   tanggal: '1968-05-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-05-25-presiden-soeharto-beramah-tamah-dengan-mahasiswa/
 ---
 

@@ -4,9 +4,9 @@ description: 14 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1972-09-21-kunjungi-dieng-presiden-soeharto-serukan-rakyat-bekerja-keras/respond)
   81 Views Share on
 date: '1972-09-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-09-21-kunjungi-dieng-presiden-soeharto-serukan-rakyat-bekerja-keras
 aliases:
 - Kunjungi Dieng, Presiden Soeharto Serukan Rakyat Bekerja Giat
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wonosobo
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-09-21-kunjungi-dieng-presiden-soeharto-serukan-rakyat-bekerja-keras/
   judul: 1972-09-21 Kunjungi Dieng, Presiden Soeharto Serukan Rakyat Bekerja Giat
   tanggal: '1972-09-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-09-21-kunjungi-dieng-presiden-soeharto-serukan-rakyat-bekerja-keras/
 ---
 

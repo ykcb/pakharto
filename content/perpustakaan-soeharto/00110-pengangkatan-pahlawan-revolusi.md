@@ -4,9 +4,9 @@ description: Ketika saya kembali ke Kostrad dari istana Bogor, sudah tidak ada l
   persoalan merebut Halim dengan kekerasan. Untung sudah tidak ada di sana. D.N. Aidit
   sudah terbang ke Yogyakarta menggunakan Dakota AURI. Omar Dhani dan keluarganya...
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pengangkatan-pahlawan-revolusi
 aliases:
 - Pengangkatan Jenazah Pahlawan Revolusi – HM Soeharto
@@ -21,16 +21,17 @@ tags:
 - presiden-soekarno
 - riak-kecil
 - samudera
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pengangkatan-pahlawan-revolusi/
   judul: Pengangkatan Jenazah Pahlawan Revolusi
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pengangkatan-pahlawan-revolusi/
 ---
 

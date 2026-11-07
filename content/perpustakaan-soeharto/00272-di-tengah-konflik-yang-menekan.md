@@ -4,25 +4,26 @@ description: Saya mengerti, masyarakat menunggu, bagaimana rupa kabinet baru ses
   Sidang Umum MPRS 1966 itu. Rundingan dilakukan dengan pelbagai pihak, dengan pelbagai
   kekuatan yang nyata pada waktu itu. Juga dengan Presiden Soekarno tentunya....
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: di-tengah-konflik-yang-menekan
 aliases:
 - Di Tengah Konflik Yang Menekan – HM Soeharto
 tags:
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/di-tengah-konflik-yang-menekan/
   judul: Di Tengah Konflik Yang Menekan
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/di-tengah-konflik-yang-menekan/
 ---
 

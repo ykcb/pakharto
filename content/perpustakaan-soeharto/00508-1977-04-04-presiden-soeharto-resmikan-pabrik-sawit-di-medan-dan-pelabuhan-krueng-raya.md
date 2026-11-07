@@ -5,9 +5,9 @@ description: SENIN, 4 April 1977, Presiden Soeharto di Adolina, Sumatera Utara, 
   ini meresmikan pabrik minyak sawit milik PNP Tnjowan dan PTP Pagar Merbau. Kawasan
   ini meliputi pabrik Fraksional dan refinasi minyak sawit Adolina serta Sekolah...
 date: '1977-04-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1977-04-04-presiden-soeharto-resmikan-pabrik-sawit-di-medan-dan-pelabuhan-krueng-raya
 aliases:
 - Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan Krueng Raya
@@ -24,17 +24,18 @@ tags:
 - persatuan
 - presiden-soeharto
 - ulama
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-04-04-presiden-soeharto-resmikan-pabrik-sawit-di-medan-dan-pelabuhan-krueng-raya/
   judul: 1977-04-04 Presiden Soeharto Resmikan Pabrik Sawit di Medan dan Pelabuhan
     Krueng Raya
   tanggal: '1977-04-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1977-04-04-presiden-soeharto-resmikan-pabrik-sawit-di-medan-dan-pelabuhan-krueng-raya/
 ---
 

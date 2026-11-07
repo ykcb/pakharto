@@ -4,9 +4,9 @@ description: KAMIS, 25 JULI 1974, Presiden Soeharto pagi ini melakukan peninjaua
   ke dermaga Sindang Laut di Tanjung Priok. Sebelum meninjau, Kepala Negara telah
   menyerahkan masing-masing sebuah kapal pantai kepada Daerah Istimewa Aceh dan Sumatera...
 date: '1974-07-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-07-25-presiden-soeharto-meninjau-tanjung-priok
 aliases:
 - Presiden Soeharto Meninjau Tanjung Priok
@@ -22,16 +22,17 @@ tags:
 - sindang-laut
 - sumatera-barat
 - tanjung-priok
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-07-25-presiden-soeharto-meninjau-tanjung-priok/
   judul: 1974-07-25 Presiden Soeharto Meninjau Tanjung Priok
   tanggal: '1974-07-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-07-25-presiden-soeharto-meninjau-tanjung-priok/
 ---
 

@@ -4,9 +4,9 @@ description: SENIN, 2 AGUSTUS 1971, Presiden Soeharto memberikan 30 buah mesin Y
   yang berkekuatan 16 PK kepada Provinsi Sulawesi Tenggara. Ini merupakan pemberian
   tahap pertama dalam rangka usaha motorisasi perahu-perahu layar. Selain itu...
 date: '1971-08-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-08-02-presiden-soeharto-serahkan-bantuan-motorisasi-perahu-layar-sultra
 aliases:
 - Presiden Soeharto Serahkan Bantuan Motorisasi Perahu Layar Sultra
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sulawesi-tenggara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-02-presiden-soeharto-serahkan-bantuan-motorisasi-perahu-layar-sultra/
   judul: 1971-08-02 Presiden Soeharto Serahkan Bantuan Motorisasi Perahu Layar Sultra
   tanggal: '1971-08-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-08-02-presiden-soeharto-serahkan-bantuan-motorisasi-perahu-layar-sultra/
 ---
 

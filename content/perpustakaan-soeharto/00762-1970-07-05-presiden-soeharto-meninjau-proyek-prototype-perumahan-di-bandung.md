@@ -4,9 +4,9 @@ description: MINGGU, 05 Juli 1970. Sebelum kembali ke Jakarta, Presiden Soeharto
   ini meninjau proyek prototype perumahan kota Bandung. Proyek yang terdiri atas 3.065
   unit rumah yang dibangun di atas tanah seluas 110 hektar itu terletak di...
 date: '1970-07-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-07-05-presiden-soeharto-meninjau-proyek-prototype-perumahan-di-bandung
 aliases:
 - Presiden Soeharto Meninjau Proyek Prototype Perumahan di Bandung
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - perumahan
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-05-presiden-soeharto-meninjau-proyek-prototype-perumahan-di-bandung/
   judul: 1970-07-05 Presiden Soeharto Meninjau Proyek Prototype Perumahan di Bandung
   tanggal: '1970-07-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-07-05-presiden-soeharto-meninjau-proyek-prototype-perumahan-di-bandung/
 ---
 

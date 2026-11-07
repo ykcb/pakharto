@@ -4,9 +4,9 @@ description: SABTU, 05 Juli 1969. Presiden Soeharto memperingatkan pegawai-pegaw
   bank pemerintah agar supaya menghentikan perlakuan yang tidak wajar, seperti mempersulit
   pemberian kredit, memperlambat dropping uang, meminta dan menerima “uang...
 date: '1969-07-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-07-05-presiden-soeharto-peringatkan-soal-uang-hangus-pegawai-perbankan
 aliases:
 - Presiden Soeharto Peringatkan Soal “Uang Hangus” Pegawai Perbankan
@@ -22,16 +22,17 @@ tags:
 - perbankan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-07-05-presiden-soeharto-peringatkan-soal-uang-hangus-pegawai-perbankan/
   judul: 1969-07-05 Presiden Soeharto Peringatkan Soal “Uang Hangus” Pegawai Perbankan
   tanggal: '1969-07-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-07-05-presiden-soeharto-peringatkan-soal-uang-hangus-pegawai-perbankan/
 ---
 

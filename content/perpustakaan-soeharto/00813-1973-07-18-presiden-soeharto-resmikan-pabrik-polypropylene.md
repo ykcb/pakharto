@@ -4,9 +4,9 @@ description: RABU, 18 Juli 1973, Presiden dan Ibu Tien Soeharto pagi ini meresmi
   pabrik polypropylene yang dibangun oleh pertamina di Plaju, Palembang. Dalam pidato
   sambutannya, Presiden menyerukan kepada masyarakat untuk menggunakan produksi...
 date: '1973-07-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-07-18-presiden-soeharto-resmikan-pabrik-polypropylene
 aliases:
 - Presiden Soeharto Resmikan Pabrik Polypropylene
@@ -19,16 +19,17 @@ tags:
 - plaju
 - polypropylene
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-07-18-presiden-soeharto-resmikan-pabrik-polypropylene/
   judul: 1973-07-18 Presiden Soeharto Resmikan Pabrik Polypropylene
   tanggal: '1973-07-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-07-18-presiden-soeharto-resmikan-pabrik-polypropylene/
 ---
 

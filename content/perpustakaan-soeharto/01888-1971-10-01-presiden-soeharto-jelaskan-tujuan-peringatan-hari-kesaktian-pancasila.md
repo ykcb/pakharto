@@ -4,9 +4,9 @@ description: 12 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila/respond)
   61 Views Share on
 date: '1971-10-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila
 aliases:
 - Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila
@@ -15,16 +15,17 @@ aliases:
 tags:
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila/
   judul: 1971-10-01 Presiden Soeharto Jelaskan Tujuan Peringatan Hari Kesaktian Pancasila
   tanggal: '1971-10-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-10-01-presiden-soeharto-jelaskan-tujuan-peringatan-hari-kesaktian-pancasila/
 ---
 

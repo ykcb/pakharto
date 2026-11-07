@@ -4,9 +4,9 @@ description: SENIN, 27 Maret 1972, Dalam amanatnya di depan para rektor dan kepa
   perwakilan Departemen Pendidikan dan Kebudayaan yang baru saja mengikuti rapat kerja,
   Presiden mengatakan ada kekhawatiran di sementara kalangan bahwa perekonomian...
 date: '1972-03-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-27-presiden-soeharto-jelaskan-soal-pengusaha-pribumi-dan-non-pribumi
 aliases:
 - Presiden Soeharto Jelaskan Soal Pengusaha Pribumi dan Non Pribumi
@@ -22,16 +22,17 @@ tags:
 - presiden-soeharto
 - pribumi
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-27-presiden-soeharto-jelaskan-soal-pengusaha-pribumi-dan-non-pribumi/
   judul: 1972-03-27 Presiden Soeharto Jelaskan Soal Pengusaha Pribumi dan Non Pribumi
   tanggal: '1972-03-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-27-presiden-soeharto-jelaskan-soal-pengusaha-pribumi-dan-non-pribumi/
 ---
 

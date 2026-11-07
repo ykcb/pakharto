@@ -4,9 +4,9 @@ description: MINGGU, 21 Juni 1970, “Bung Karno meninggal dunia pukul 7.00 pagi
   di Rumah Sakit Angkatan Darat, Jakarta. Sehubungan dengan meninggalnya bekas Presiden
   RI, Dr. Ir. Soekarno, Presiden Soeharto hari ini berembuk dengan beberapa tokoh...
 date: '1970-06-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-06-21-bung-karno-wafat-presiden-soeharto-tetapkan-hari-berkabung-nasional
 aliases:
 - Bung Karno Wafat, Presiden Soeharto Tetapkan Hari Berkabung Nasional
@@ -29,16 +29,17 @@ tags:
 - prof-ga-siwabessy
 - sudharmono
 - wilopo-sh
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-06-21-bung-karno-wafat-presiden-soeharto-tetapkan-hari-berkabung-nasional/
   judul: 1970-06-21 Bung Karno Wafat, Presiden Soeharto Tetapkan Hari Berkabung Nasional
   tanggal: '1970-06-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-06-21-bung-karno-wafat-presiden-soeharto-tetapkan-hari-berkabung-nasional/
 ---
 

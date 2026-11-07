@@ -4,9 +4,9 @@ description: Masyarakat Nusantara merupakan masyarakat ber-Tuhan dan oleh karena
   rumusan pertama sila Pancasila menekankan transendensi, Ketuhanan Yang Maha Esa”.
   Berdasarkan rumusan tersebut peradaban yang hendak diwujudkan dalam konstruksi...
 date: '2017-10-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pembangunan-mental-spiritual
 aliases:
 - PEMBANGUNAN MENTAL SPIRITUAL – HM Soeharto
@@ -16,16 +16,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - toleransi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pembangunan-mental-spiritual/
   judul: PEMBANGUNAN MENTAL SPIRITUAL
   tanggal: '2017-10-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pembangunan-mental-spiritual/
 ---
 

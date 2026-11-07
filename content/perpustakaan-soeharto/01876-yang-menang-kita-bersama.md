@@ -4,25 +4,26 @@ description: 11 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [1 Comment](https://soehartolibrary.id/yang-menang-kita-bersama/comments) 160 Views
   Share on
 date: '2014-04-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: yang-menang-kita-bersama
 aliases:
 - Yang Menang Kita Bersama – HM Soeharto
 tags:
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/yang-menang-kita-bersama/
   judul: Yang Menang Kita Bersama
   tanggal: '2014-04-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/yang-menang-kita-bersama/
 ---
 

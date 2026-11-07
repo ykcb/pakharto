@@ -5,9 +5,9 @@ description: MINGGU, 4 JANUARI 1970, Presiden Soeharto melancarkan suatu program
   dana bagi rakyat di Irian Barat. Kegiatan yang diselenggarakan di Istana Bogor ini
   dimeriahkan oleh sejumlah artis ibukota. Dalam sambutannya Presiden...
 date: '1970-01-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-01-04-presiden-soeharto-lancarkan-program-pengumpulan-dana-untuk-irian-barat
 aliases:
 - Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian Barat
@@ -30,17 +30,18 @@ tags:
 - presiden-soeharto
 - repelita
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-04-presiden-soeharto-lancarkan-program-pengumpulan-dana-untuk-irian-barat/
   judul: 1970-01-04 Presiden Soeharto Lancarkan Program Pengumpulan Dana Untuk Irian
     Barat
   tanggal: '1970-01-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-04-presiden-soeharto-lancarkan-program-pengumpulan-dana-untuk-irian-barat/
 ---
 

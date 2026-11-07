@@ -3,9 +3,9 @@ title: Reformasi Belum Mampu Wujudkan Swasembada Sapi
 description: Kelangkaan daging sapi mengancam kebijakan swasembada sapi pada 2014.
   Mengapa sulit sekali Indonesia berswasembada sapi?
 date: '2013-02-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: reformasi-era-ketergantungan-daging-impor
 aliases:
 - Reformasi Belum Mampu Wujudkan Swasembada Sapi  – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - sapi
 - swasembada
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/reformasi-era-ketergantungan-daging-impor/
   judul: Reformasi Belum Mampu Wujudkan Swasembada Sapi
   tanggal: '2013-02-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/reformasi-era-ketergantungan-daging-impor/
 ---
 

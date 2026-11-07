@@ -4,9 +4,9 @@ description: SENIN, 12 April 1976, Menteri Perhubungan Emil Salim pagi ini mengh
   Presiden Soeharto di Istana Merdeka. Dalam pertemuan ini telah dibahas usaha-usaha
   pemerintah untuk menurunkan tarif pelabuhan dalam rangka mendorong ekspor. Kepada...
 date: '1976-04-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-04-12-presiden-soeharto-parpol-harus-manunggal-dengan-suka-duka-rakyat
 aliases:
 - 'Presiden Soeharto: Parpol Harus Manunggal Dengan Suka Duka Rakyat'
@@ -22,16 +22,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - usep-ranuwidjaja
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-04-12-presiden-soeharto-parpol-harus-manunggal-dengan-suka-duka-rakyat/
   judul: '1976-04-12 Presiden Soeharto: Parpol Harus Manunggal Dengan Suka Duka Rakyat'
   tanggal: '1976-04-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-04-12-presiden-soeharto-parpol-harus-manunggal-dengan-suka-duka-rakyat/
 ---
 

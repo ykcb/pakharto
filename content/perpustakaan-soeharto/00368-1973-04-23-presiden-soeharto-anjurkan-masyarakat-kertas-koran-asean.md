@@ -4,9 +4,9 @@ description: SENIN, 23 April 1973, Presiden Soeharto menganjurkan agar Negara-ne
   ASEAN dapat mengembangkan “masyarakat kertas Koran ASEAN” sehingga kebutuhan Koran
   bagi ASEAN dapat dipenuhi oleh Negara-negara ASEAN sendiri. Untuk maksud ini...
 date: '1973-04-23'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-04-23-presiden-soeharto-anjurkan-masyarakat-kertas-koran-asean
 aliases:
 - Presiden Soeharto Anjurkan “Masyarakat Kertas Koran Asean”
@@ -20,16 +20,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-04-23-presiden-soeharto-anjurkan-masyarakat-kertas-koran-asean/
   judul: 1973-04-23 Presiden Soeharto Anjurkan “Masyarakat Kertas Koran Asean”
   tanggal: '1973-04-23'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-04-23-presiden-soeharto-anjurkan-masyarakat-kertas-koran-asean/
 ---
 

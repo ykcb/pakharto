@@ -4,9 +4,9 @@ description: SELASA, 15 April 1975, Kepala Negara memimpin Sidang Dewan Stabilis
   Ekonomi Nasional di Bina Graha pagi ini. Sidang yang berlangsung mulai jam 10.00
   itu, antara lain telah membicarakan masalah perkembangan harga dan moneter pada...
 date: '1975-04-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional
 aliases:
 - Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi Nasional
@@ -24,16 +24,17 @@ tags:
 - semen
 - t-ariwibowo
 - tonasa
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional/
   judul: 1975-04-15 Presiden Soeharto Pimpin Sidang Dewan Stabilisasi Ekonomi Nasional
   tanggal: '1975-04-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional/
 ---
 

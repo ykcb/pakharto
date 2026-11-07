@@ -4,9 +4,9 @@ description: Sebelum akhirnya takdir sejarah mengantarkannya menjadi Presiden, h
   Soeharto muda selalu berkaitan erat dengan puncak-puncak peristiwa penting jatuh
   bangunnya negara dan bangsa Indonesia. Ia berkontribusi dalam perlucutan tentara...
 date: '2017-02-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: hidup-dalam-pergesekan-sejarah-bangsa
 aliases:
 - Hidup dalam Pergesekan Sejarah Bangsa – HM Soeharto
@@ -32,16 +32,17 @@ tags:
 - tinggal-landas-2
 - umum
 - wehrkreise
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/hidup-dalam-pergesekan-sejarah-bangsa/
   judul: Hidup dalam Pergesekan Sejarah Bangsa
   tanggal: '2017-02-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/hidup-dalam-pergesekan-sejarah-bangsa/
 ---
 

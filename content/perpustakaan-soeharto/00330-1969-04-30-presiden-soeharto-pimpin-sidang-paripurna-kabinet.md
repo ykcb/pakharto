@@ -4,9 +4,9 @@ description: RABU, 30 APRIL 1969, Hari ini Presiden Soeharto memimpin sidang Par
   Kabinet Pembangunan bertempat di Istana Merdeka. Ini merupakan sidang kabinet lengkap
   yang pertama sejak dimulainya Pelita. Sidang tersebut antara lain memutuskan...
 date: '1969-04-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-04-30-presiden-soeharto-pimpin-sidang-paripurna-kabinet
 aliases:
 - Presiden Soeharto Pimpin Sidang Paripurna Kabinet
@@ -24,16 +24,17 @@ tags:
 - sidang-paripurna
 - sumitro-djojohadikusumo
 - widjojo-nitisastro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-30-presiden-soeharto-pimpin-sidang-paripurna-kabinet/
   judul: 1969-04-30 Presiden Soeharto Pimpin Sidang Paripurna Kabinet
   tanggal: '1969-04-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-04-30-presiden-soeharto-pimpin-sidang-paripurna-kabinet/
 ---
 

@@ -4,9 +4,9 @@ description: RABU, 9 April 1975, Pangeran Bernhard dari Negeri Belanda mengadaka
   kunjungan kehormatan kepada Presiden Soeharto di Istana Merdeka pagi ini. Kali ini
   ia mengunjungi Indonesia sebagai Ketua International Wildlife Fund. Pada kesempatan...
 date: '1975-04-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-09-presiden-soeharto-tertibkan-pungutan-liar-angkutan-jalan
 aliases:
 - Presiden Soeharto Tertibkan Pungutan Liar Angkutan Jalan
@@ -26,16 +26,17 @@ tags:
 - presiden-soeharto
 - pungutan-liar
 - thojib-hadiwidjaja
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-09-presiden-soeharto-tertibkan-pungutan-liar-angkutan-jalan/
   judul: 1975-04-09 Presiden Soeharto Tertibkan Pungutan Liar Angkutan Jalan
   tanggal: '1975-04-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-09-presiden-soeharto-tertibkan-pungutan-liar-angkutan-jalan/
 ---
 

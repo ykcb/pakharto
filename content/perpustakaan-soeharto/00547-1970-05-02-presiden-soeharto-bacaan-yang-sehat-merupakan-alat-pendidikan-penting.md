@@ -5,9 +5,9 @@ description: SABTU, 2 MEI 1970, Presiden telah mengucapkan selamat kepada para p
   anak-anak dan majalah Si Kuntjung, sehubungan dengan ulang tahun ke-14 majalah anak-anak
   itu. Dalam sambutan tertulisnya, Kepala Negara mengatakan bahwa bacaan...
 date: '1970-05-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-02-presiden-soeharto-bacaan-yang-sehat-merupakan-alat-pendidikan-penting
 aliases:
 - 'Presiden Soeharto: Bacaan Yang Sehat Merupakan Alat Pendidikan Penting'
@@ -21,17 +21,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - si-kuntjung
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-02-presiden-soeharto-bacaan-yang-sehat-merupakan-alat-pendidikan-penting/
   judul: '1970-05-02 Presiden Soeharto: Bacaan Yang Sehat Merupakan Alat Pendidikan
     Penting'
   tanggal: '1970-05-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-02-presiden-soeharto-bacaan-yang-sehat-merupakan-alat-pendidikan-penting/
 ---
 

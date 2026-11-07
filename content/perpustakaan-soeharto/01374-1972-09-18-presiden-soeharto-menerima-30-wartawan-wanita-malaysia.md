@@ -4,9 +4,9 @@ description: 14 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1972-09-18-presiden-soeharto-menerima-30-wartawan-wanita-malaysia/respond)
   95 Views Share on
 date: '1972-09-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-09-18-presiden-soeharto-menerima-30-wartawan-wanita-malaysia
 aliases:
 - Presiden Soeharto Menerima 30 Wartawan Wanita Malaysia
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wartawan-wanita
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-09-18-presiden-soeharto-menerima-30-wartawan-wanita-malaysia/
   judul: 1972-09-18 Presiden Soeharto Menerima 30 Wartawan Wanita Malaysia
   tanggal: '1972-09-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-09-18-presiden-soeharto-menerima-30-wartawan-wanita-malaysia/
 ---
 

@@ -4,9 +4,9 @@ description: Merupakan cara pandang bahwa tegaknya peradaban skala kebangsaan ha
   ditopang oleh ketersediaan road map idiologis yang kuat dan mampu menyangga tumbuh
   tegaknya peradaban besar yang sejalan dengan komitmen spiritual masyarakat...
 date: '2013-06-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: wawasan-nusantara-bagian-2
 aliases:
 - Wawasan Nusantara (Bagian 2) – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wawasan-nusantara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/wawasan-nusantara-bagian-2/
   judul: Wawasan Nusantara (Bagian 2)
   tanggal: '2013-06-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/wawasan-nusantara-bagian-2/
 ---
 

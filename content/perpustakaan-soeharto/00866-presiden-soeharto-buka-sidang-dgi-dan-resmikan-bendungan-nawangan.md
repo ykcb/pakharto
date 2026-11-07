@@ -4,9 +4,9 @@ description: KAMIS, 01 Juli 1976 Pagi ini Kepala Negara membuka secara resmi sid
   raya ke-8 DGI (Dewan Gereja Indonesia) di Salatiga. Dalam amanatnya Presiden mengajak
   para peserta sidang raya untuk benar-benar menjaga dan memperkuat kerukunan...
 date: '1976-07-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-buka-sidang-dgi-dan-resmikan-bendungan-nawangan
 aliases:
 - Presiden Soeharto Buka Sidang DGI dan Resmikan Bendungan Nawangan
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - wonogiri
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-buka-sidang-dgi-dan-resmikan-bendungan-nawangan/
   judul: 1976-07-01 Presiden Soeharto Buka Sidang DGI dan Resmikan Bendungan Nawangan
   tanggal: '1976-07-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-buka-sidang-dgi-dan-resmikan-bendungan-nawangan/
 ---
 

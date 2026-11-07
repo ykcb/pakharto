@@ -6,9 +6,9 @@ description: SENIN, 21 Juni 1971, Pangdam XVII/Cenderawasih, Brigjen. Acub Zaina
   Irian Barat untuk menghentikan penggunaan koteka pada tahun 1973. Kebulatan tekad
   ini...
 date: '1971-06-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-06-21-presiden-soeharto-menerima-kebulatan-tekad-rakyat-irian-barat-menghentikan-penggunaan-koteka
 aliases:
 - Presiden Soeharto Menerima Kebulatan Tekad Rakyat Irian Barat Menghentikan Penggunaan
@@ -23,17 +23,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - proyek-kemanusiaan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-06-21-presiden-soeharto-menerima-kebulatan-tekad-rakyat-irian-barat-menghentikan-penggunaan-koteka/
   judul: 1971-06-21 Presiden Soeharto Menerima Kebulatan Tekad Rakyat Irian Barat
     Menghentikan Penggunaan Koteka
   tanggal: '1971-06-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-06-21-presiden-soeharto-menerima-kebulatan-tekad-rakyat-irian-barat-menghentikan-penggunaan-koteka/
 ---
 

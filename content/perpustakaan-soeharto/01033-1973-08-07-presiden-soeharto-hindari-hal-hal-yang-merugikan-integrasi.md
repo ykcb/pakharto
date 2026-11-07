@@ -4,9 +4,9 @@ description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi/respond)
   94 Views Share on
 date: '1973-08-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi
 aliases:
 - 'Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi'
@@ -22,16 +22,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - rasial
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi/
   judul: '1973-08-07 Presiden Soeharto: Hindari Hal-Hal Yang Merugikan Integrasi'
   tanggal: '1973-08-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-08-07-presiden-soeharto-hindari-hal-hal-yang-merugikan-integrasi/
 ---
 

@@ -4,9 +4,9 @@ description: SELASA, 7 Mei 1968, Jam 11.30 pagi ini Presiden dan Ibu Tien Soehar
   menyambut kedatangan tamu Negara, Kaisar Haile Salassie, Kepala Negara Ethopia,
   di palabuhan udara Kemayoran, Jakarta. Kaisar Haile Salassie mengunjungi Indonesia...
 date: '1968-05-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-05-07-presiden-soeharto-menyambut-kaisar-ethiopia
 aliases:
 - Presiden Soeharto Menyambut Kaisar Ethiopia
@@ -18,16 +18,17 @@ tags:
 - perdamaian-dunia
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-05-07-presiden-soeharto-menyambut-kaisar-ethiopia/
   judul: 1968-05-07 Presiden Soeharto Menyambut Kaisar Ethiopia
   tanggal: '1968-05-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-05-07-presiden-soeharto-menyambut-kaisar-ethiopia/
 ---
 

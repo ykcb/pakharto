@@ -4,9 +4,9 @@ description: SELASA, 20 Juli 1971. Dengan didampingi oleh Menteri Perdagangan Su
   Djoyohadikusumo, dan Menteri Luar negeri Adam Malik, hari ini di Bina Graha Presiden
   Soeharto menerima wakil-wakil negara ASEAN yang sedang menghadiri rapat...
 date: '2017-08-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1071-07-20-presiden-soeharto-instruksikan-evaluasi-gaji-khusus-karyawan-depkeu
 aliases:
 - Presiden Soeharto Instruksikan Evaluasi Gaji Khusus Karyawan Depkeu
@@ -22,16 +22,17 @@ tags:
 - perpustakaan-soeharto
 - perusahaan-negara
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1071-07-20-presiden-soeharto-instruksikan-evaluasi-gaji-khusus-karyawan-depkeu/
   judul: 1071-07-20 Presiden Soeharto Instruksikan Evaluasi Gaji Khusus Karyawan Depkeu
   tanggal: '2017-08-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1071-07-20-presiden-soeharto-instruksikan-evaluasi-gaji-khusus-karyawan-depkeu/
 ---
 

@@ -4,9 +4,9 @@ description: 5 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3/respond)
   100 Views Share on
 date: '2014-11-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3
 aliases:
 - 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 3) – HM Soeharto'
@@ -17,16 +17,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3/
   judul: 'JB Sumarlin: Pak Harto Arif, Bijaksana dan Rendah Hati (Bagian 3)'
   tanggal: '2014-11-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-3/
 ---
 

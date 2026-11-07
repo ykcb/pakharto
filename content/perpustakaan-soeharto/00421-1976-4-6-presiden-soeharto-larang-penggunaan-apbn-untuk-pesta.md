@@ -4,9 +4,9 @@ description: SELASA, 6 April 1976, Dalam rangka upaya meningkatkan penerimaan ne
   dari sektor perpajakan, hari ini Presiden menetapkan bahwa semua departemen/instansi/lembaga/bendaharawan/perusahaan
   milik negara wajib menyampaikan bahan-bahan...
 date: '2017-08-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-4-6-presiden-soeharto-larang-penggunaan-apbn-untuk-pesta
 aliases:
 - 1976-4-6 Presiden Soeharto Larang Penggunaan APBN Untuk Pesta – HM Soeharto
@@ -16,16 +16,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-4-6-presiden-soeharto-larang-penggunaan-apbn-untuk-pesta/
   judul: 1976-4-6 Presiden Soeharto Larang Penggunaan APBN Untuk Pesta
   tanggal: '2017-08-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-4-6-presiden-soeharto-larang-penggunaan-apbn-untuk-pesta/
 ---
 

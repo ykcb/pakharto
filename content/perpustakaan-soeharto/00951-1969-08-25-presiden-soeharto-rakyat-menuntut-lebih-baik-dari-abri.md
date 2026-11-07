@@ -4,9 +4,9 @@ description: SENIN, 25 AGUSTUS 1969, Presiden Soeharto pagi ini menyerahkan Samk
   Nugara kepada Kodam IV/ Sriwijaya dalam suatu upacara di Palembang. Dalam amanatnya
   Presiden antara lain menyatakan bahwa banyak sukses yang telah dicapai ABRI dan...
 date: '1969-08-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-08-25-presiden-soeharto-rakyat-menuntut-lebih-baik-dari-abri
 aliases:
 - 'Presiden Soeharto: Rakyat Menuntut Lebih Baik dari ABRI'
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - pidato-presiden
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-25-presiden-soeharto-rakyat-menuntut-lebih-baik-dari-abri/
   judul: '1969-08-25 Presiden Soeharto: Rakyat Menuntut Lebih Baik dari ABRI'
   tanggal: '1969-08-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-25-presiden-soeharto-rakyat-menuntut-lebih-baik-dari-abri/
 ---
 

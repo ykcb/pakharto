@@ -4,9 +4,9 @@ description: KAMIS 15 JANUARI 1970, Presiden Soeharto di Istana Merdeka hari ini
   rapat dengan menteri-menteri kabinet dan pejabat lembaga-lembaga pemerintahan lainnya
   mengenai pelaksanaan pembangunan berdasarkan anggaran tahun 1969/1970....
 date: '1970-01-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-01-15-bersama-menteri-kabinet-presiden-soeharto-bahas-pelaksanaan-pembangunan
 aliases:
 - Bersama Menteri Kabinet, Presiden Soeharto Bahas Pelaksanaan Pembangunan
@@ -30,16 +30,17 @@ tags:
 - rapat
 - repelita
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-15-bersama-menteri-kabinet-presiden-soeharto-bahas-pelaksanaan-pembangunan/
   judul: 1970-01-15 Bersama Menteri Kabinet, Presiden Soeharto Bahas Pelaksanaan Pembangunan
   tanggal: '1970-01-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-15-bersama-menteri-kabinet-presiden-soeharto-bahas-pelaksanaan-pembangunan/
 ---
 

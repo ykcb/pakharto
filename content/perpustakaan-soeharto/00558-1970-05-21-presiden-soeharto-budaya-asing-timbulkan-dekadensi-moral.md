@@ -4,9 +4,9 @@ description: KAMIS, 21 MEI 1970, Dalam amanat tertulis pada perayaan Waisak yang
   malam ini di Candi Borobudur, Jawa Tengah, Presiden Soeharto mengatakan bahwa kebudayaan
   asing secara tidak langsung telah menimbulkan gejala-gejala...
 date: '1970-05-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-21-presiden-soeharto-budaya-asing-timbulkan-dekadensi-moral
 aliases:
 - 'Presiden Soeharto: Budaya Asing Timbulkan Dekadensi Moral'
@@ -21,16 +21,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - waisak
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-21-presiden-soeharto-budaya-asing-timbulkan-dekadensi-moral/
   judul: '1970-05-21 Presiden Soeharto: Budaya Asing Timbulkan Dekadensi Moral'
   tanggal: '1970-05-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-21-presiden-soeharto-budaya-asing-timbulkan-dekadensi-moral/
 ---
 

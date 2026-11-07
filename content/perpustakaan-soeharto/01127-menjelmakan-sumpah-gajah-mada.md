@@ -4,9 +4,9 @@ description: 31 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/menjelmakan-sumpah-gajah-mada/respond) 128
   Views Share on
 date: '2018-01-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: menjelmakan-sumpah-gajah-mada
 aliases:
 - Menjelmakan Sumpah Gajah Mada – HM Soeharto
@@ -23,16 +23,17 @@ tags:
 - presiden-soeharto
 - satelit-palapa
 - sumpah-gajah-mada
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/menjelmakan-sumpah-gajah-mada/
   judul: Menjelmakan Sumpah Gajah Mada
   tanggal: '2018-01-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/menjelmakan-sumpah-gajah-mada/
 ---
 

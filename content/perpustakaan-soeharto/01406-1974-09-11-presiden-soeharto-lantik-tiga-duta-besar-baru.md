@@ -4,9 +4,9 @@ description: 16 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru/respond)
   109 Views Share on
 date: '1974-09-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru
 aliases:
 - Presiden Soeharto Lantik Tiga Duta Besar Baru
@@ -22,16 +22,17 @@ tags:
 - presiden-soeharto
 - republik-arab-suriah
 - zainul-arifin-usman
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru/
   judul: 1974-09-11 Presiden Soeharto Lantik Tiga Duta Besar Baru
   tanggal: '1974-09-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-09-11-presiden-soeharto-lantik-tiga-duta-besar-baru/
 ---
 

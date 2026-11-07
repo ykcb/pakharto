@@ -4,9 +4,9 @@ description: Dengan segala kerendahan hati, kami sampaikan salam hormat, Semoga 
   selalu dalam keadaan sehat wal afiat dalam lindungan dan rahmat Tuhan Yang Maha
   Esa.
 date: '2013-07-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: bapak-integrasi-timtim
 aliases:
 - Bapak Integrasi TIMTIM – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - student-movement
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/bapak-integrasi-timtim/
   judul: Bapak Integrasi TIMTIM
   tanggal: '2013-07-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/bapak-integrasi-timtim/
 ---
 

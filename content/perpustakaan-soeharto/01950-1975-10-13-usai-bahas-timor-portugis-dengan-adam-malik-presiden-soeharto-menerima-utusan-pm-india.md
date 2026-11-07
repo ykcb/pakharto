@@ -5,9 +5,9 @@ description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1975-10-13-usai-bahas-timor-portugis-dengan-adam-malik-presiden-soeharto-menerima-utusan-pm-india/respond)
   96 Views...
 date: '1975-10-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-10-13-usai-bahas-timor-portugis-dengan-adam-malik-presiden-soeharto-menerima-utusan-pm-india
 aliases:
 - Usai Bahas Timor Portugis dengan Adam Malik, Presiden Soeharto Menerima Utusan PM
@@ -26,17 +26,18 @@ tags:
 - presiden-soeharto
 - raj-bahadur
 - timor-portugis
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-10-13-usai-bahas-timor-portugis-dengan-adam-malik-presiden-soeharto-menerima-utusan-pm-india/
   judul: 1975-10-13 Usai Bahas Timor Portugis dengan Adam Malik, Presiden Soeharto
     Menerima Utusan PM India
   tanggal: '1975-10-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-10-13-usai-bahas-timor-portugis-dengan-adam-malik-presiden-soeharto-menerima-utusan-pm-india/
 ---
 

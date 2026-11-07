@@ -4,9 +4,9 @@ description: SENIN, 26 April 1976, Siang ini Kepala Negara menerima Menteri Dala
   Negeri Amirmachmud di Bina Graha. Pada kesempatan itu Amirmachmud telah melaporkan
   tentang adanya orang-orang yang melakukan kasak-kusuk dan mengadakan rapat-rapat...
 date: '1976-04-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-04-26-presiden-soeharto-bahas-informasi-penggagalan-pemilu
 aliases:
 - Presiden Soeharto Bahas Informasi Penggagalan Pemilu
@@ -19,16 +19,17 @@ tags:
 - pemilu
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-04-26-presiden-soeharto-bahas-informasi-penggagalan-pemilu/
   judul: 1976-04-26 Presiden Soeharto Bahas Informasi Penggagalan Pemilu
   tanggal: '1976-04-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-04-26-presiden-soeharto-bahas-informasi-penggagalan-pemilu/
 ---
 

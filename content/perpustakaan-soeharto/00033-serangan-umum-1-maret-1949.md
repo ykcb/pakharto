@@ -4,9 +4,9 @@ description: Di bulan November 1948, sementara rundingan Indonesia-Belanda terus
   dan melelahkan rasanya buat saya, berita sedih datang dengan tiba-tiba. Jenderal
   Urip Sumohardjo meninggal dengan mendadak. Seorang pemimpin yang telah...
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: serangan-umum-1-maret-1949
 aliases:
 - Serangan Umum 1 Maret 1949 – HM Soeharto
@@ -25,16 +25,17 @@ tags:
 - van-zanten
 - wehrkreise
 - yogyakarta
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/serangan-umum-1-maret-1949/
   judul: Serangan Umum 1 Maret 1949
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/serangan-umum-1-maret-1949/
 ---
 

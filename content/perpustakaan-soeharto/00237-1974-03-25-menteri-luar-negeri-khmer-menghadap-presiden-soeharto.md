@@ -4,9 +4,9 @@ description: SENIN, 25 MARET 1974, Menteri Luar Negeri Khmer, Keuky Lim, pagi in
   menghadap Presiden Soeharto di Istana Merdeka. Ia mengunjungi Presiden untuk menyampaikan
   pesan Presiden Lon Nol mengenai keadaan dalam negeri Khmer dewasa ini....
 date: '1974-03-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-25-menteri-luar-negeri-khmer-menghadap-presiden-soeharto
 aliases:
 - Menteri Luar Negeri Khmer Menghadap Presiden Soeharto
@@ -18,16 +18,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-25-menteri-luar-negeri-khmer-menghadap-presiden-soeharto/
   judul: 1974-03-25 Menteri Luar Negeri Khmer Menghadap Presiden Soeharto
   tanggal: '1974-03-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-25-menteri-luar-negeri-khmer-menghadap-presiden-soeharto/
 ---
 

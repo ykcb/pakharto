@@ -4,9 +4,9 @@ description: 29 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/respond) 93
   Views Share on
 date: '2013-08-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: selamat-dari-pki-berkat-bapak
 aliases:
 - Selamat Dari PKI Berkat Bapak – HM Soeharto
@@ -15,16 +15,17 @@ tags:
 - palembang
 - perpustakaan-soeharto
 - pki
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/
   judul: Selamat Dari PKI Berkat Bapak
   tanggal: '2013-08-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/selamat-dari-pki-berkat-bapak/
 ---
 

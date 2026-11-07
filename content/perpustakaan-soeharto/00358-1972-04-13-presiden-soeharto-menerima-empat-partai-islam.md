@@ -4,9 +4,9 @@ description: KAMIS, 13 APRIL 1972, Hari ini para ketua umum dari empat partai Is
   di Indonesia, yaitu NU, Parmusi, PSII dan Perti, menghadap Presiden Soeharto. Mereka
   melaporkan tentang berhasilnya mereka merealisasikan persatuan dalam bentuk...
 date: '1972-04-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-04-13-presiden-soeharto-menerima-empat-partai-islam
 aliases:
 - Presiden Soeharto Menerima Empat Partai Islam
@@ -22,16 +22,17 @@ tags:
 - perti
 - presiden-soeharto
 - psii
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-04-13-presiden-soeharto-menerima-empat-partai-islam/
   judul: 1972-04-13 Presiden Soeharto Menerima Empat Partai Islam
   tanggal: '1972-04-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-04-13-presiden-soeharto-menerima-empat-partai-islam/
 ---
 

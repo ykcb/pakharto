@@ -5,9 +5,9 @@ description: 13 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri/respond)
   94 Views Share on
 date: '1971-09-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri
 aliases:
 - Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar Negeri
@@ -23,17 +23,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - proyek
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri/
   judul: 1971-09-27 Presiden Soeharto Wajibkan Lapor Bagi Badan/Proyek Bantuan Luar
     Negeri
   tanggal: '1971-09-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-09-27-presiden-soeharto-wajibkan-lapor-bagi-badanproyek-bantuan-luar-negeri/
 ---
 

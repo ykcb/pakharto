@@ -5,9 +5,9 @@ description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet/respond)
   100 Views Share on
 date: '1976-09-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet
 aliases:
 - Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara Penghasil Karet
@@ -28,17 +28,18 @@ tags:
 - sudharmono
 - sumarlin
 - widjojo-nitisastro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet/
   judul: 1976-09-28 Presiden Soeharto Bahas Pengadaan Bahan Pokok dan Kerjasama Negara
     Penghasil Karet
   tanggal: '1976-09-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-09-28-presiden-soeharto-bahas-pengadaan-bahan-pokok-dan-kerjasama-negara-penghasil-karet/
 ---
 

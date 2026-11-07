@@ -4,9 +4,9 @@ description: SENIN, 4 MEI 1970, Presiden Soeharto memanggil Walikota Solo, Koena
   sehubungan dengan pembangunan Pasar Klewer, Solo. Kepada Walikota yang didampingi
   oleh Sukamdani Gitosardjono (Direktur PT. Sahid), dan Direktur Utama BBD, RAB...
 date: '1970-05-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-04-presiden-soeharto-penuhi-keluhan-pedagang-pasar-klewer
 aliases:
 - Presiden Soeharto Penuhi Keluhan Pedagang Pasar Klewer
@@ -24,16 +24,17 @@ tags:
 - solo
 - sukamdani-gitosardjono
 - walikota
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-04-presiden-soeharto-penuhi-keluhan-pedagang-pasar-klewer/
   judul: 1970-05-04 Presiden Soeharto Penuhi Keluhan Pedagang Pasar Klewer
   tanggal: '1970-05-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-04-presiden-soeharto-penuhi-keluhan-pedagang-pasar-klewer/
 ---
 

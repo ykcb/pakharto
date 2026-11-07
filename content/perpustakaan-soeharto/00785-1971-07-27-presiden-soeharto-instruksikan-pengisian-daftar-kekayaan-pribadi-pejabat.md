@@ -5,9 +5,9 @@ description: SELASA, 27 Juli 1971. Sebagai tindak lanjut dari instruksinya beber
   waktu yang lalu, dalam sidang sub-Dewan Stabilisasi Ekonomi di Bina Graha hari ini,
   Presiden Soeharto menginstruksikan agar pejabat-pejabat teras dari departemen dan...
 date: '1971-07-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-07-27-presiden-soeharto-instruksikan-pengisian-daftar-kekayaan-pribadi-pejabat
 aliases:
 - Presiden Soeharto Instruksikan Pengisian Daftar kekayaan Pribadi Pejabat
@@ -21,17 +21,18 @@ tags:
 - pejabat
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-07-27-presiden-soeharto-instruksikan-pengisian-daftar-kekayaan-pribadi-pejabat/
   judul: 1971-07-27 Presiden Soeharto Instruksikan Pengisian Daftar kekayaan Pribadi
     Pejabat
   tanggal: '1971-07-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-07-27-presiden-soeharto-instruksikan-pengisian-daftar-kekayaan-pribadi-pejabat/
 ---
 

@@ -5,9 +5,9 @@ description: RABU, 20 MARET 1974, Pada jam 10.00 pagi, Presiden Soeharto mengada
   rapat koordinasi dengan Menteri Dalam Negeri Amirmachmud, Menteri Kehakiman Mochtar
   Kusumaatmaja, Menteri/Sekretaris Negara Sudharmono, Menteri Pertahanan/Keamanan...
 date: '1974-03-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-20-presiden-soeharto-ruu-harus-sesuai-aspirasi-dan-perjuangan-bangsa-indonesia
 aliases:
 - 'Presiden Soeharto: RUU Harus Sesuai Aspirasi dan Perjuangan Bangsa Indonesia'
@@ -21,17 +21,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - ruu
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-20-presiden-soeharto-ruu-harus-sesuai-aspirasi-dan-perjuangan-bangsa-indonesia/
   judul: '1974-03-20 Presiden Soeharto: RUU Harus Sesuai Aspirasi dan Perjuangan Bangsa
     Indonesia'
   tanggal: '1974-03-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-20-presiden-soeharto-ruu-harus-sesuai-aspirasi-dan-perjuangan-bangsa-indonesia/
 ---
 

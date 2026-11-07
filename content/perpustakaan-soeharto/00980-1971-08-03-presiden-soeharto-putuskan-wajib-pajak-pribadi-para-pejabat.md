@@ -4,9 +4,9 @@ description: SELASA, 3 AGUSTUS 1971, Presiden Soeharto memutuskan bahwa semua pe
   negara, pegawai negeri maupun ABRI, dikenakan kewajiban membayar pajak-pajak pribadi
   (MP2P), pengurusan mana dilakukan selambat-lambatnya pada tanggal 30 September...
 date: '1971-08-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-08-03-presiden-soeharto-putuskan-wajib-pajak-pribadi-para-pejabat
 aliases:
 - Presiden Soeharto Putuskan Wajib Pajak Pribadi Para Pejabat
@@ -19,16 +19,17 @@ tags:
 - pns
 - presiden-soeharto
 - wajib-pajak
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-03-presiden-soeharto-putuskan-wajib-pajak-pribadi-para-pejabat/
   judul: 1971-08-03 Presiden Soeharto Putuskan Wajib Pajak Pribadi Para Pejabat
   tanggal: '1971-08-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-08-03-presiden-soeharto-putuskan-wajib-pajak-pribadi-para-pejabat/
 ---
 

@@ -4,9 +4,9 @@ description: SABTU, 24 Juli 1976 Presiden Soeharto menghadiri acara peringatan I
   Mi’raj yang diselenggarakan di Istana Negara malam ini. Dalam amanatnya, Kepala
   Negara mengatakan bahwa umat Islam tidak perlu takut terhadap teknologi, karena...
 date: '1976-07-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-24-presiden-soeharto-pejabat-pemuka-agama-perlu-saling-pengertian
 aliases:
 - 'Presiden Soeharto: Pejabat-Pemuka Agama Perlu Saling Pengertian'
@@ -19,16 +19,17 @@ tags:
 - pemuka-agama
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-24-presiden-soeharto-pejabat-pemuka-agama-perlu-saling-pengertian/
   judul: '1976-07-24 Presiden Soeharto: Pejabat-Pemuka Agama Perlu Saling Pengertian'
   tanggal: '1976-07-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-24-presiden-soeharto-pejabat-pemuka-agama-perlu-saling-pengertian/
 ---
 

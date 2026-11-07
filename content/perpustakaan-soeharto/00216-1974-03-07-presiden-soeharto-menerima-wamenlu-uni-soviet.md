@@ -2,9 +2,9 @@
 title: 1974-03-07 Presiden Soeharto Menerima Wamenlu Uni Soviet
 description: Presiden Soeharto Menerima Wamenlu Uni Soviet(sdfootnote1sym)
 date: '1974-03-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-07-presiden-soeharto-menerima-wamenlu-uni-soviet
 aliases:
 - Presiden Soeharto Menerima Wamenlu Uni Soviet
@@ -17,16 +17,17 @@ tags:
 - presiden-soeharto
 - soviet
 - wamenlu
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-07-presiden-soeharto-menerima-wamenlu-uni-soviet/
   judul: 1974-03-07 Presiden Soeharto Menerima Wamenlu Uni Soviet
   tanggal: '1974-03-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-07-presiden-soeharto-menerima-wamenlu-uni-soviet/
 ---
 

@@ -4,9 +4,9 @@ description: RABU, 10 APRIL 1968, Hari ini Presiden Soeharto memimpin sidang kab
   lengkap. Dalam sidang tersebut Presiden telah menjelaskan maksud dan hasil kunjungan
   ke luar negeri baru-baru ini, disamping membahas berbagai perkembangan di dalam...
 date: '1968-04-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-04-10-presiden-soeharto-memimpin-sidang-kabinet-lengkap
 aliases:
 - Presiden Soeharto Memimpin Sidang kabinet Lengkap
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-04-10-presiden-soeharto-memimpin-sidang-kabinet-lengkap/
   judul: 1968-04-10 Presiden Soeharto Memimpin Sidang kabinet Lengkap
   tanggal: '1968-04-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-04-10-presiden-soeharto-memimpin-sidang-kabinet-lengkap/
 ---
 

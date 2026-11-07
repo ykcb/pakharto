@@ -4,9 +4,9 @@ description: 2 September 2013 [Soeharto Library](https://soehartolibrary.id/auth
   [No Comment](https://soehartolibrary.id/1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga/respond)
   99 Views Share on
 date: '1968-09-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga
 aliases:
 - Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga
@@ -22,16 +22,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - suku-bunga
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga/
   judul: 1968-09-19 Presiden Soeharto Instruksikan BNI Tinjau Suku Bunga
   tanggal: '1968-09-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-09-19-presiden-soeharto-instruksikan-bni-tinjau-suku-bunga/
 ---
 

@@ -4,9 +4,9 @@ description: Merupakan cara pandang terhadap kekuatan keragaman karakteristik su
   daya manusia (SDM) Indonesia berbasis suku bangsa/ sub suku bangsa sebagai penopang
   tegaknya peradaban. Cara pandang ini tidak hanya menempatkan keragaman suku...
 date: '2013-06-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: wawasan-nusantara-bagian-3
 aliases:
 - Wawasan Nusantara (Bagian 3) – HM Soeharto
@@ -16,16 +16,17 @@ tags:
 - presiden-soeharto
 - sdm
 - wauku-bangsa
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/wawasan-nusantara-bagian-3/
   judul: Wawasan Nusantara (Bagian 3)
   tanggal: '2013-06-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/wawasan-nusantara-bagian-3/
 ---
 

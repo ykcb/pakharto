@@ -5,9 +5,9 @@ description: SELASA, 10 AGUSTUS 1971, Presiden Soeharto menyerahkan duplikat ben
   pusaka dan duplikat naskah proklamasi kepada Menteri Luar Negeri Adam Malik yang
   akan menyerahkannya kepada 62 perwakilan RI di luar negeri. Diharapkan bahwa setiap...
 date: '1971-08-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-08-10-presiden-soeharto-serahkan-duplikat-bendera-merah-putih-dan-naskah-proklamasi
 aliases:
 - Presiden Soeharto Serahkan Duplikat Bendera Merah Putih dan Naskah Proklamasi
@@ -27,17 +27,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sangsaka
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-10-presiden-soeharto-serahkan-duplikat-bendera-merah-putih-dan-naskah-proklamasi/
   judul: 1971-08-10 Presiden Soeharto Serahkan Duplikat Bendera Merah Putih dan Naskah
     Proklamasi
   tanggal: '1971-08-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-08-10-presiden-soeharto-serahkan-duplikat-bendera-merah-putih-dan-naskah-proklamasi/
 ---
 

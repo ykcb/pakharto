@@ -4,9 +4,9 @@ description: SABTU, 31 Juli 1976 Presiden Soeharto pagi ini memulai kunjungan ke
   selama dua hari di Jambi. Di Pulau Punjung, ia meresmikan jalan Sawahtambang Muara
   Bungo, yang merupakan bagian dari jalan raya Trans Sumatera. Dalam kunjungan kerja...
 date: '1976-07-31'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-31-presiden-soeharto-resmikan-jalan-sawahtambang-muara-bungo
 aliases:
 - Presiden Soeharto Resmikan Jalan Sawahtambang-Muara Bungo
@@ -21,16 +21,17 @@ tags:
 - sawahtambang
 - sitiung
 - transmigrasi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-31-presiden-soeharto-resmikan-jalan-sawahtambang-muara-bungo/
   judul: 1976-07-31 Presiden Soeharto Resmikan Jalan Sawahtambang-Muara Bungo
   tanggal: '1976-07-31'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-31-presiden-soeharto-resmikan-jalan-sawahtambang-muara-bungo/
 ---
 

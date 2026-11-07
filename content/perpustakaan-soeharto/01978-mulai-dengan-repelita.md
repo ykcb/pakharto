@@ -4,9 +4,9 @@ description: 18 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/mulai-dengan-repelita/respond) 590 Views
   Share on
 date: '2018-01-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: mulai-dengan-repelita
 aliases:
 - Mulai dengan Repelita I – HM Soeharto
@@ -20,16 +20,17 @@ tags:
 - presiden-soeharto
 - repelita-i
 - widjojo-nitisostro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mulai-dengan-repelita/
   judul: Mulai dengan Repelita I
   tanggal: '2018-01-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/mulai-dengan-repelita/
 ---
 

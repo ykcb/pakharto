@@ -5,9 +5,9 @@ description: 17 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis/respond)
   112 Views...
 date: '1975-09-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis
 aliases:
 - Presiden Soeharto Bahas RUU Pemilu, Repatriasi dan Dampak Perang Saudara Timor Portugis
@@ -28,17 +28,18 @@ tags:
 - repatriasi
 - ruu-pemilu
 - timor-portugis
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis/
   judul: 1975-09-08 Presiden Soeharto Bahas RUU Pemilu, Repatriasi dan Dampak Perang
     Saudara Timor Portugis
   tanggal: '1975-09-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-09-08-presiden-soeharto-bahas-ruu-pemilu-repatriasi-dan-dampak-perang-saudara-timor-portugis/
 ---
 

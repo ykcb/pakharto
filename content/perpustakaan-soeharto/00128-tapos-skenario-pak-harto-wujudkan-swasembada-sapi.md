@@ -4,9 +4,9 @@ description: PADA pokoknya pemenuhan dasar kebutuhan manusia terdiri atas pangan
   sandang, perumahan, pendidikan, dan kesehatan. Kalau membaca hasil Survei Sosial
   Ekonomi Nasional (Susenas) yang setiap tiga tahun dikeluarkan oleh Badan Pusat...
 date: '2013-02-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: tapos-skenario-pak-harto-wujudkan-swasembada-sapi
 aliases:
 - 'Tapos: Skenario Pak Harto Wujudkan Swasembada Sapi – HM Soeharto'
@@ -22,16 +22,17 @@ tags:
 - rumus-tani
 - sapi
 - tapos
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/tapos-skenario-pak-harto-wujudkan-swasembada-sapi/
   judul: 'Tapos: Skenario Pak Harto Wujudkan Swasembada Sapi'
   tanggal: '2013-02-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/tapos-skenario-pak-harto-wujudkan-swasembada-sapi/
 ---
 

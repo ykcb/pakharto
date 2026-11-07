@@ -4,9 +4,9 @@ description: SELASA, 14 Maret 1972, Pagi ini Presiden Soeharto mengadakan pertem
   dengan Menteri Bantuan Luar Negeri Belanda, yang adalah juga ketua IGGI, Dr. C Boertein.
   Kepada Menteri Boertien, Presiden mengatakan bahwa Indonesia hanya akan...
 date: '1972-03-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-14-presiden-soeharto-terima-ketua-iggi-c-boertein
 aliases:
 - Presiden Soeharto Terima Ketua IGGI C. Boertein
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-14-presiden-soeharto-terima-ketua-iggi-c-boertein/
   judul: 1972-03-14 Presiden Soeharto Terima Ketua IGGI C. Boertein
   tanggal: '1972-03-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-14-presiden-soeharto-terima-ketua-iggi-c-boertein/
 ---
 

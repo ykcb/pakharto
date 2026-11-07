@@ -5,9 +5,9 @@ description: 9 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author
   [No Comment](https://soehartolibrary.id/1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan/respond)
   146 Views Share on
 date: '1971-10-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan
 aliases:
 - Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri Masa Jabatan
@@ -23,17 +23,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sulistio
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan/
   judul: 1971-10-27 Presiden Soeharto Menerima Unsur Pimpinan DPR-GR Yang Akan Mengakhiri
     Masa Jabatan
   tanggal: '1971-10-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-10-27-presiden-soeharto-menerima-unsur-pimpinan-dpr-gr-yang-akan-mengakhiri-masa-jabatan/
 ---
 

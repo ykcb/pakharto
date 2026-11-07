@@ -4,9 +4,9 @@ description: SENIN, 28 April 1975, Presiden Soeharto jam 10.00 pagi ini menerima
   Andrew Peacock, anggota parlemen dan salah seorang tokoh terpenting partai oposisi
   Australia, Partai Liberal. Dalam sistem politik Australia, Peacock adalah...
 date: '1975-04-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-04-28-presiden-soeharto-menerima-tokoh-oposisi-australia
 aliases:
 - Presiden Soeharto Menerima Tokoh Oposisi Australia
@@ -19,16 +19,17 @@ tags:
 - partai-liberal
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-04-28-presiden-soeharto-menerima-tokoh-oposisi-australia/
   judul: 1975-04-28 Presiden Soeharto Menerima Tokoh Oposisi Australia
   tanggal: '1975-04-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-04-28-presiden-soeharto-menerima-tokoh-oposisi-australia/
 ---
 

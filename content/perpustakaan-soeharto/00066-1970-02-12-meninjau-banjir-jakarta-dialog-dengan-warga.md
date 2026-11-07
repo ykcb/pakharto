@@ -3,9 +3,9 @@ title: 1970-02-12 Meninjau Banjir Jakarta & Dialog Dengan Warga
 description: '(Berdialog Dengan Penduduk Setempat: Pekerja Buruh Harian, Penimbun
   Jalan, Penjual Singkong, Penjual Kopi)'
 date: '1970-02-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-02-12-meninjau-banjir-jakarta-dialog-dengan-warga
 aliases:
 - Meninjau Banjir Jakarta & Dialog Dengan Warga
@@ -27,16 +27,17 @@ tags:
 - tanah-abang
 - tanggul-tomang
 - waduk-setiabudi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-02-12-meninjau-banjir-jakarta-dialog-dengan-warga/
   judul: 1970-02-12 Meninjau Banjir Jakarta & Dialog Dengan Warga
   tanggal: '1970-02-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-02-12-meninjau-banjir-jakarta-dialog-dengan-warga/
 ---
 

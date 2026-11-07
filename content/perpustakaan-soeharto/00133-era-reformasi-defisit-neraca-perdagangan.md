@@ -4,9 +4,9 @@ description: Neraca perdagangan Indonesia mengalami defisit terbesar sejak 1961.
   impor, dari migas hingga nonmigas, membanjiri negeri ini. Ini memprihatinkan. Badan
   Pusat Statistik (BPS) melaporkan nilai ekspor Indonesia kurun Januari hingga...
 date: '2013-08-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: era-reformasi-defisit-neraca-perdagangan
 aliases:
 - 'Era Reformasi: Defisit Neraca Perdagangan – HM Soeharto'
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - tabungan
 - terakhir
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/era-reformasi-defisit-neraca-perdagangan/
   judul: 'Era Reformasi: Defisit Neraca Perdagangan'
   tanggal: '2013-08-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/era-reformasi-defisit-neraca-perdagangan/
 ---
 

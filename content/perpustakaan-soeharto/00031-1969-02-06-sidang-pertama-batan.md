@@ -4,9 +4,9 @@ description: KAMIS, 6 FEBRUARI 1969. Pukul 10.00, Presiden Soeharto membuka dan 
   sidang pertama BATAN, di Istana Merdeka. Hadir dalam sidang tersebut antara lain
   Menteri Negara Ekonomi, Keuangan dan Industri, Menteri Luar Negeri, Menteri...
 date: '1969-02-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-02-06-sidang-pertama-batan
 aliases:
 - SIDANG PERTAMA BATAN
@@ -22,16 +22,17 @@ tags:
 - sidang
 - tenaga
 - united-states
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-02-06-sidang-pertama-batan/
   judul: 1969-02-06 SIDANG PERTAMA BATAN
   tanggal: '1969-02-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-02-06-sidang-pertama-batan/
 ---
 

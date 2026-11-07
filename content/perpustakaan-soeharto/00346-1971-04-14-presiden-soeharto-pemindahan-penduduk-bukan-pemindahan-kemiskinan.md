@@ -4,9 +4,9 @@ description: RABU, 14 April 1971, Setelah meninjau beberapa proyek pembangunan, 
   ini Presiden Soeharto mengadakan pertemuan dengan tokoh-tokoh masyarakat se-Provinsi
   Sulawesi Tenggara. Dalam dialog itu Presiden mengatakan bahwa pemindahan...
 date: '1971-04-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-04-14-presiden-soeharto-pemindahan-penduduk-bukan-pemindahan-kemiskinan
 aliases:
 - 'Presiden Soeharto: Pemindahan Penduduk Bukan Pemindahan Kemiskinan'
@@ -20,16 +20,17 @@ tags:
 - presiden-soeharto
 - sulawesi-tenggara
 - transmigrasi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-04-14-presiden-soeharto-pemindahan-penduduk-bukan-pemindahan-kemiskinan/
   judul: '1971-04-14 Presiden Soeharto: Pemindahan Penduduk Bukan Pemindahan Kemiskinan'
   tanggal: '1971-04-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-04-14-presiden-soeharto-pemindahan-penduduk-bukan-pemindahan-kemiskinan/
 ---
 

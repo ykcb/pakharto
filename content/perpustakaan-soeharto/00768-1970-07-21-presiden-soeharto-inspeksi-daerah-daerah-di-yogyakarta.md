@@ -4,9 +4,9 @@ description: SELASA, 21 Juli 1970. Pagi ini Presiden Soeharto yang tiba di Yogya
   dari Jakarta kemarin sore, mengadakan inspeksi di daerah-daerah di sekitar Yogyakarta.
   Yang pertama ditinjauanya ialah proyek irigasi Kalibawang, yang diharapkan...
 date: '1970-07-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-07-21-presiden-soeharto-inspeksi-daerah-daerah-di-yogyakarta
 aliases:
 - Presiden Soeharto Inspeksi Daerah-Daerah di Yogyakarta
@@ -21,16 +21,17 @@ tags:
 - presiden-soeharto
 - purworejo
 - sleman
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-21-presiden-soeharto-inspeksi-daerah-daerah-di-yogyakarta/
   judul: 1970-07-21 Presiden Soeharto Inspeksi Daerah-Daerah di Yogyakarta
   tanggal: '1970-07-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-07-21-presiden-soeharto-inspeksi-daerah-daerah-di-yogyakarta/
 ---
 

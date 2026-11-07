@@ -5,9 +5,9 @@ description: RABU, 11 April 1973, Dalam sidang paripurna Kabinet Pembangunan II 
   berlangsung pagi ini di Bina Graha, Presiden memberikan petunjuk kepada semua menteri
   untuk menyusun kebijaksanaan dan rencana kerja. Dengan demikian akan dapat...
 date: '1973-04-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja
 aliases:
 - Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana Kerja
@@ -19,17 +19,18 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja/
   judul: 1973-04-11 Presiden Soeharto Beri Petunjuk Penyusunan Kebijakan dan Rencana
     Kerja
   tanggal: '1973-04-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-04-11-presiden-soeharto-beri-petunjuk-penyusunan-kebijakan-dan-rencana-kerja/
 ---
 

@@ -5,9 +5,9 @@ description: KAMIS, 24 Juni 1971, Pagi ini di kediamannya, Presiden Soeharto men
   Menteri Dalam Negeri Amirmachmud yang melaporkan tentang persiapan pelaksanaan pemilihan
   umum, pembangunan di beberapa daerah dan tindak lanjut sesudah pemilihan...
 date: '1971-06-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-06-24-presiden-soeharto-menerima-laporan-persiapan-pemilu-dan-bencana-alam
 aliases:
 - Presiden Soeharto Menerima Laporan Persiapan Pemilu dan Bencana Alam
@@ -22,17 +22,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - ptdi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-06-24-presiden-soeharto-menerima-laporan-persiapan-pemilu-dan-bencana-alam/
   judul: 1971-06-24 Presiden Soeharto Menerima Laporan Persiapan Pemilu dan Bencana
     Alam
   tanggal: '1971-06-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-06-24-presiden-soeharto-menerima-laporan-persiapan-pemilu-dan-bencana-alam/
 ---
 

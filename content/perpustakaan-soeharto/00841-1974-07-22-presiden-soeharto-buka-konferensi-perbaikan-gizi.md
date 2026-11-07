@@ -4,9 +4,9 @@ description: SENIN, 22 Juli 1974 , Di Bina Graha pagi ini, Presiden Soeharto mem
   Konferensi Kerja Nasional Usaha Perbaikan Gizi Keluarga. Dalam amanatnya, Kepala
   Negara antara lain mengulangi ajakan yang telah beberapa kali diserukannya yaitu...
 date: '1974-07-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-07-22-presiden-soeharto-buka-konferensi-perbaikan-gizi
 aliases:
 - Presiden Soeharto Buka Konferensi Perbaikan Gizi
@@ -24,16 +24,17 @@ tags:
 - prof-subroto
 - program-pusat-karya
 - transmigrasi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-07-22-presiden-soeharto-buka-konferensi-perbaikan-gizi/
   judul: 1974-07-22 Presiden Soeharto Buka Konferensi Perbaikan Gizi
   tanggal: '1974-07-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-07-22-presiden-soeharto-buka-konferensi-perbaikan-gizi/
 ---
 

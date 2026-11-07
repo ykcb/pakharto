@@ -4,9 +4,9 @@ description: Pada awal tahun 2013 ini, penulis merenungkan mengenai kepemimpinan
   Yudhoyono, seorang jenderal yang berusaha menjadi negarawan besar. Sayangnya, meskipun
   telah lebih dari delapan tahun menjadi presiden, beliau masih kurang...
 date: '2018-11-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: soal-konstitusi-kita
 aliases:
 - Soal Konstitusi Kita – HM Soeharto
@@ -24,16 +24,17 @@ tags:
 - susilo-bambang-yudhoyono
 - uud
 - yudhoyono
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/soal-konstitusi-kita/
   judul: Soal Konstitusi Kita
   tanggal: '2018-11-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/soal-konstitusi-kita/
 ---
 

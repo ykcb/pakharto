@@ -4,9 +4,9 @@ description: RABU, 14 April 1976, Menteri Pertambangan Mohammad Sadli pagi ini m
   Presiden Soeharto di Istana Merdeka. Usai menghadap, Menteri Sadli mengatakan bahwa
   pemerintah memberi batas waktu sampai besok pagi perundingan antara...
 date: '1976-04-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-04-14-perundingan-pemerintah-dengan-caltex-dan-stanvac
 aliases:
 - Perundingan Pemerintah Dengan Caltex dan Stanvac
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - stanva
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-04-14-perundingan-pemerintah-dengan-caltex-dan-stanvac/
   judul: 1976-04-14 Perundingan Pemerintah Dengan Caltex dan Stanvac
   tanggal: '1976-04-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-04-14-perundingan-pemerintah-dengan-caltex-dan-stanvac/
 ---
 

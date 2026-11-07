@@ -4,9 +4,9 @@ description: RABU, 26 APRIL 1972, Malam ini, Presiden Soeharto ikut merayakan pe
   Maulid Nabi Muhammad SAW di Istana Negara. Dalam sambutannya, Presiden antara lain
   mengatakan bahwa pembangunan masyarakat merupakan segi yang sangat penting...
 date: '1972-04-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-04-26-presiden-soeharto-rayakan-peringatan-maulid-nabi-muhammad-saw
 aliases:
 - Presiden Soeharto Rayakan Peringatan Maulid Nabi Muhammad SAW
@@ -19,16 +19,17 @@ tags:
 - pembangunan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-04-26-presiden-soeharto-rayakan-peringatan-maulid-nabi-muhammad-saw/
   judul: 1972-04-26 Presiden Soeharto Rayakan Peringatan Maulid Nabi Muhammad SAW
   tanggal: '1972-04-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-04-26-presiden-soeharto-rayakan-peringatan-maulid-nabi-muhammad-saw/
 ---
 

@@ -5,9 +5,9 @@ description: SELASA, 9 Maret 1971, Presiden menginstruksikan kepada para menteri
   sebelum tanggal 1 April 1871, semua departemen harus sudah menyelesikan DIP. Dalam
   hubungan ini Jenderal soeharto meminta kepada departemen-departemen, Bappenas,...
 date: '1971-03-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-03-09-presiden-soeharto-percepat-dip-ruu-hukum-dagang-dan-pemberantasan-tindak-pidana-korupsi
 aliases:
 - 'Presiden Soeharto: Percepat DIP, RUU Hukum Dagang dan Pemberantasan Tindak Pidana
@@ -28,17 +28,18 @@ tags:
 - ruu
 - soeharto
 - tindak
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-03-09-presiden-soeharto-percepat-dip-ruu-hukum-dagang-dan-pemberantasan-tindak-pidana-korupsi/
   judul: '1971-03-09 Presiden Soeharto: Percepat DIP, RUU Hukum Dagang dan Pemberantasan
     Tindak Pidana Korupsi'
   tanggal: '1971-03-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-03-09-presiden-soeharto-percepat-dip-ruu-hukum-dagang-dan-pemberantasan-tindak-pidana-korupsi/
 ---
 

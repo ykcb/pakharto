@@ -4,9 +4,9 @@ description: SELASA, 26 AGUSTUS 1969, Presiden Soeharto pagi ini di Istana Negar
   membuka Pekan Orientasi Kepala Perwakilan RI, yang diikuti oleh 23 duta besar dan
   4 diplomat tinggi lainnya. Dalam amanatnya, Presiden mengatakan bahwa politik luar...
 date: '1969-08-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-08-26-presiden-soeharto-bukan-pekan-orientasi-perwakilan-ri-dan-pon-surabaya
 aliases:
 - Presiden Soeharto Buka Pekan Orientasi Perwakilan RI dan PON Surabaya
@@ -22,16 +22,17 @@ tags:
 - pidato-presiden
 - pon
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-26-presiden-soeharto-bukan-pekan-orientasi-perwakilan-ri-dan-pon-surabaya/
   judul: 1969-08-26 Presiden Soeharto Buka Pekan Orientasi Perwakilan RI dan PON Surabaya
   tanggal: '1969-08-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-26-presiden-soeharto-bukan-pekan-orientasi-perwakilan-ri-dan-pon-surabaya/
 ---
 

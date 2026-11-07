@@ -4,9 +4,9 @@ description: SENIN, 16 AGUSTUS 1971, Jam 09.00 pagi ini Presiden Soeharto menyam
   amanat kenegaraannya di depan sidang DPR-GR, dalam rangka peringatan Hari Kemerdekaan.
   Dalam amanatnya Presiden menekankan bahwa kekuatan kita yang paling besar...
 date: '1971-08-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-08-16-presiden-soeharto-kesetiaan-pada-pancasila-kekuatan-terbesar-kita
 aliases:
 - 'Presiden Soeharto: Kesetiaan Pada Pancasila Kekuatan Terbesar Kita'
@@ -23,17 +23,18 @@ tags:
 - perpustakaan-soeharto
 - politik
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-16-presiden-soeharto-kesetiaan-pada-pancasila-kekuatan-terbesar-kita/
   judul: '1971-08-16 Presiden Soeharto: Kesetiaan Pada Pancasila Kekuatan Terbesar
     Kita'
   tanggal: '1971-08-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-08-16-presiden-soeharto-kesetiaan-pada-pancasila-kekuatan-terbesar-kita/
 ---
 

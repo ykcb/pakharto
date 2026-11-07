@@ -4,9 +4,9 @@ description: SELASA, 11 MARET 1969, Presiden Soeharto pagi hari bertindak sebaga
   Inspektur Upacara pada acara penyerahan Samkarya Nugraha kepada Kostrad. Penyerahan
   panji kehormatan ini bertepatan dengan lahirnya Supersemar. Dalam amanatnya...
 date: '1969-03-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-03-11-peringatan-supersemar
 aliases:
 - Peringatan Supersemar
@@ -24,16 +24,17 @@ tags:
 - samkarya
 - soeharto
 - supersemar
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-03-11-peringatan-supersemar/
   judul: 1969-03-11 Peringatan Supersemar
   tanggal: '1969-03-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-03-11-peringatan-supersemar/
 ---
 

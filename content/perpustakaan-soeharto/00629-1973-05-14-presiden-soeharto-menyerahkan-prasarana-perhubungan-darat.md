@@ -4,9 +4,9 @@ description: SENIN, 14 Mei 1973, Sejumlah mesin giling, truk dan mesin pemecah b
   pagi ini diserahkan oleh Presiden Soeharto kepada provinsi-provinsi NTB dan NTT.
   Bantuan prasarana perhubungan darat itu diserahkan secara simbolis dalam suatu...
 date: '1973-05-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-05-14-presiden-soeharto-menyerahkan-prasarana-perhubungan-darat
 aliases:
 - Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat
@@ -23,16 +23,17 @@ tags:
 - prasarana
 - presiden-soeharto
 - wasino-kusumah
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-14-presiden-soeharto-menyerahkan-prasarana-perhubungan-darat/
   judul: 1973-05-14 Presiden Soeharto Menyerahkan Prasarana Perhubungan Darat
   tanggal: '1973-05-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-05-14-presiden-soeharto-menyerahkan-prasarana-perhubungan-darat/
 ---
 

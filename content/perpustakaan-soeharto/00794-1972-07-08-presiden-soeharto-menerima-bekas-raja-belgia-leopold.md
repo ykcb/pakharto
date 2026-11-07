@@ -4,9 +4,9 @@ description: SABTU, 08 Juli 1972. Presiden Soeharto hari ini di Istana Merdeka m
   kunjungan bekas Raja Belgia, Leopold. Leopold datang untuk mengucapkan terima kasihnya
   atas fasilitas-fasilitas yang diterimanya selama kunjungannya di Sumatera....
 date: '1972-07-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-07-08-presiden-soeharto-menerima-bekas-raja-belgia-leopold
 aliases:
 - Presiden Soeharto Menerima Bekas Raja Belgia Leopold
@@ -25,16 +25,17 @@ tags:
 - presiden-soeharto
 - pulau-nias
 - sibolga
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-08-presiden-soeharto-menerima-bekas-raja-belgia-leopold/
   judul: 1972-07-08 Presiden Soeharto Menerima Bekas Raja Belgia Leopold
   tanggal: '1972-07-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-07-08-presiden-soeharto-menerima-bekas-raja-belgia-leopold/
 ---
 

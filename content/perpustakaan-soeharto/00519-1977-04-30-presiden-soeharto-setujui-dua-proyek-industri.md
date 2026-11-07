@@ -4,9 +4,9 @@ description: SABTU, 30 April 1977, Kantor Wilayah Departemen P dan K DKI Jakarta
   bahwa sebanyak 189 siswa kelas I, II, dan III dari 7 STM, serta 55 siswa dari 21
   SMEA di Ibukota, telah menerima beasiswa Supersemar hari ini. Penyerahan...
 date: '1977-04-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1977-04-30-presiden-soeharto-setujui-dua-proyek-industri
 aliases:
 - Presiden Soeharto Setujui Dua Proyek Industri
@@ -21,16 +21,17 @@ tags:
 - pt-inoue-rubber
 - pt-ngk-busi
 - supersemar
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-04-30-presiden-soeharto-setujui-dua-proyek-industri/
   judul: 1977-04-30 Presiden Soeharto Setujui Dua Proyek Industri
   tanggal: '1977-04-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1977-04-30-presiden-soeharto-setujui-dua-proyek-industri/
 ---
 

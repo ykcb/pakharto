@@ -4,9 +4,9 @@ description: JUM’AT, 3 JANUARI 1969, Presiden Soeharto mengeluarkan kebijaksan
   yang melarang semua anggota ABRI bermain judi. Hal ini tercantum dalam Instruksi
   Presiden No. 3/1/1969 yang dikeluarkan pada hari itu.
 date: '1969-01-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-01-03-presiden-soeharto-larang-anggota-abri-main-judi
 aliases:
 - Presiden Soeharto Larang Anggota ABRI Main Judi
@@ -28,16 +28,17 @@ tags:
 - presiden-soeharto
 - repelita
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-03-presiden-soeharto-larang-anggota-abri-main-judi/
   judul: 1969-01-03 Presiden Soeharto Larang Anggota ABRI Main Judi
   tanggal: '1969-01-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-03-presiden-soeharto-larang-anggota-abri-main-judi/
 ---
 

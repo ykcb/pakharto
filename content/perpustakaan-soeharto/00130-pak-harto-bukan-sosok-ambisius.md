@@ -4,9 +4,9 @@ description: PADA Kamis, 21 Mei 1998, pukul 09.05 WIB, di Istana Merdeka, H Muha
   Soeharto menyatakan “berhenti” sebagai Presiden RI yang kedua, setelah selama 32
   tahun memegang tampuk kepemimpinan bangsa dan Negara. Berhenti atas keputusannya...
 date: '2013-07-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-bukan-sosok-ambisius
 aliases:
 - Pak Harto Bukan Sosok Ambisius – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - orde-baru
 - pak-harto
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-bukan-sosok-ambisius/
   judul: Pak Harto Bukan Sosok Ambisius
   tanggal: '2013-07-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-bukan-sosok-ambisius/
 ---
 

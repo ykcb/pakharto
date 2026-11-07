@@ -5,9 +5,9 @@ description: 19 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1972-08-15-presiden-soeharto-anugerahi-dr-mohammad-hatta-bintang-ri-kelas-i/respond)
   115 Views Share on
 date: '1972-08-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-08-15-presiden-soeharto-anugerahi-dr-mohammad-hatta-bintang-ri-kelas-i
 aliases:
 - Presiden Soeharto Anugerahi Dr. Mohammad Hatta Bintang RI Kelas I
@@ -19,17 +19,18 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-08-15-presiden-soeharto-anugerahi-dr-mohammad-hatta-bintang-ri-kelas-i/
   judul: 1972-08-15 Presiden Soeharto Anugerahi Dr. Mohammad Hatta Bintang RI Kelas
     I
   tanggal: '1972-08-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-08-15-presiden-soeharto-anugerahi-dr-mohammad-hatta-bintang-ri-kelas-i/
 ---
 

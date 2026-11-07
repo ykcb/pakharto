@@ -5,9 +5,9 @@ description: SELASA, 01 Juli 1969. Presiden Soeharto mengatakan bahwa untuk dapa
   melaksanakan tugas dengan sebaik-baiknya, maka aparatur kepolisian RI harus bertindak
   secara dinamis, penuh inisiatif, tegas dan tepat, adil tanpa pandang bulu, serta...
 date: '1967-07-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1967-07-01-presiden-soeharto-polisi-harus-bertindak-tegas-dan-adil-tanpa-pandang-bulu
 aliases:
 - 'Presiden Soeharto: Polisi Harus Bertindak Tegas Dan Adil Tanpa Pandang Bulu'
@@ -20,17 +20,18 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1967-07-01-presiden-soeharto-polisi-harus-bertindak-tegas-dan-adil-tanpa-pandang-bulu/
   judul: '1967-07-01 Presiden Soeharto: Polisi Harus Bertindak Tegas Dan Adil Tanpa
     Pandang Bulu'
   tanggal: '1967-07-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1967-07-01-presiden-soeharto-polisi-harus-bertindak-tegas-dan-adil-tanpa-pandang-bulu/
 ---
 

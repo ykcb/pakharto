@@ -2,9 +2,9 @@
 title: 1973-03-20 Presiden Soeharto Sahkan UU No. 3 Tahun 1973 Tentang APBN 1973
 description: Presiden Soeharto Sahkan UU No. 3 Tahun 1973 Tentang APBN 1973(sdfootnote1sym)
 date: '1973-03-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-03-20-presiden-soeharto-sahkan-uu-no-3-tahun-1973-tentang-apbn-1973
 aliases:
 - Presiden Soeharto Sahkan UU No. 3 Tahun 1973 Tentang APBN 1973
@@ -15,16 +15,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - uu
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-03-20-presiden-soeharto-sahkan-uu-no-3-tahun-1973-tentang-apbn-1973/
   judul: 1973-03-20 Presiden Soeharto Sahkan UU No. 3 Tahun 1973 Tentang APBN 1973
   tanggal: '1973-03-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-03-20-presiden-soeharto-sahkan-uu-no-3-tahun-1973-tentang-apbn-1973/
 ---
 

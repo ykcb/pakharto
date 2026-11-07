@@ -4,9 +4,9 @@ description: SENIN, 2 JUNI 1969, Presiden Soeharto menegaskan bahwa peranan ABRI
   ini sama sekali bukan wujud “militerisme”, bahkan bukan gejala “militerisme”. Peranan
   yang dipikul di pundak ABRI sekarang terutama di dorong oleh kesetiaannya...
 date: '1969-06-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-06-02-presiden-soeharto-peranan-abri-bukan-wujud-militerisme
 aliases:
 - 'Presiden Soeharto: Peranan ABRI Bukan Wujud Militerisme'
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tebu
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-02-presiden-soeharto-peranan-abri-bukan-wujud-militerisme/
   judul: '1969-06-02 Presiden Soeharto: Peranan ABRI Bukan Wujud Militerisme'
   tanggal: '1969-06-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-06-02-presiden-soeharto-peranan-abri-bukan-wujud-militerisme/
 ---
 

@@ -4,9 +4,9 @@ description: 14 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit/respond)
   93 Views Share on
 date: '1974-10-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit
 aliases:
 - Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit
@@ -21,16 +21,17 @@ tags:
 - pangdam
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit/
   judul: 1974-10-10 Presiden Soeharto Beri Petunjuk Perbaikan Kesejahteraan Prajurit
   tanggal: '1974-10-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-10-10-presiden-soeharto-beri-petunjuk-perbaikan-kesejahteraan-prajurit/
 ---
 

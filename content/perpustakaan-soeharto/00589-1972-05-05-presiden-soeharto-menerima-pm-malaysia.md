@@ -4,9 +4,9 @@ description: JUM’AT, 5 Mei 1972, Pagi ini bertempat di Istana Merdeka, Preside
   menerima PM Malaysia Tun Abdul Razak beserta istrinya, Toh Puah Rahah. Oleh karena
   kunjungan Tun Abdul Razak ini merupakan kunjungan tidak resmi, maka tidak...
 date: '1972-05-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-05-05-presiden-soeharto-menerima-pm-malaysia
 aliases:
 - Presiden Soeharto Menerima PM Malaysia
@@ -19,16 +19,17 @@ tags:
 - presiden-soeharto
 - toh-puah-rahah
 - tun-abdul-razak
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-05-05-presiden-soeharto-menerima-pm-malaysia/
   judul: 1972-05-05 Presiden Soeharto Menerima PM Malaysia
   tanggal: '1972-05-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-05-05-presiden-soeharto-menerima-pm-malaysia/
 ---
 

@@ -4,9 +4,9 @@ description: SELASA, 17 AGUSTUS 1971, Upacara peringatan kemerdekaan RI yang ke-
   dilaksanakan di Istana Merdeka, Jakarta, dimana Presiden Soeharto bertindak sebagai
   Inspektur Upacara. Upacara yang khidmat ini dihadiri oleh Ibu Tien Soeharto,...
 date: '1971-08-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-08-17-presiden-soeharto-pembangunan-perlu-imu-pengabdian-dan-keahlian
 aliases:
 - 'Presiden Soeharto: Pembangunan Perlu Imu, Pengabdian dan Keahlian'
@@ -20,16 +20,17 @@ tags:
 - pembangunan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-17-presiden-soeharto-pembangunan-perlu-imu-pengabdian-dan-keahlian/
   judul: '1971-08-17 Presiden Soeharto: Pembangunan Perlu Imu, Pengabdian dan Keahlian'
   tanggal: '1971-08-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-08-17-presiden-soeharto-pembangunan-perlu-imu-pengabdian-dan-keahlian/
 ---
 

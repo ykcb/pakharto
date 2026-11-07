@@ -5,9 +5,9 @@ description: 18 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1976-10-08-presiden-soeharto-dan-pm-fraser-resmikan-pabrik-bangunan-dan-pipa-asbes-di-tangerang/respond)
   151 Views Share on
 date: '1976-10-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-10-08-presiden-soeharto-dan-pm-fraser-resmikan-pabrik-bangunan-dan-pipa-asbes-di-tangerang
 aliases:
 - Presiden Soeharto Dan PM Fraser Resmikan Pabrik Bangunan dan Pipa Asbes di Tangerang
@@ -26,17 +26,18 @@ tags:
 - tangerang
 - timor
 - timur
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-10-08-presiden-soeharto-dan-pm-fraser-resmikan-pabrik-bangunan-dan-pipa-asbes-di-tangerang/
   judul: 1976-10-08 Presiden Soeharto Dan PM Fraser Resmikan Pabrik Bangunan dan Pipa
     Asbes di Tangerang
   tanggal: '1976-10-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-10-08-presiden-soeharto-dan-pm-fraser-resmikan-pabrik-bangunan-dan-pipa-asbes-di-tangerang/
 ---
 

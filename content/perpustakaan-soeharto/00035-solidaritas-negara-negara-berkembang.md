@@ -4,9 +4,9 @@ description: Setelah mengukuhkan pijakan atas kendali stabilitas dalam negeri da
   kawasan Asean, Presiden Soeharto melancarkan politik luar negeri dalam skala lebih
   luas. Indonesia proaktif dalam agenda pembebasan dunia dari bentuk-bentuk soft and...
 date: '2013-01-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: solidaritas-negara-negara-berkembang
 aliases:
 - SOLIDARITAS NEGARA-NEGARA BERKEMBANG – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - politik
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/solidaritas-negara-negara-berkembang/
   judul: SOLIDARITAS NEGARA-NEGARA BERKEMBANG
   tanggal: '2013-01-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/solidaritas-negara-negara-berkembang/
 ---
 

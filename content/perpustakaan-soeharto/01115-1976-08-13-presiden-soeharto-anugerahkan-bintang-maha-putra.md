@@ -4,9 +4,9 @@ description: 30 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra/respond)
   147 Views Share on
 date: '1976-08-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra
 aliases:
 - Presiden Soeharto Anugerahkan Bintang Maha Putra
@@ -21,16 +21,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra/
   judul: 1976-08-13 Presiden Soeharto Anugerahkan Bintang Maha Putra
   tanggal: '1976-08-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-08-13-presiden-soeharto-anugerahkan-bintang-maha-putra/
 ---
 

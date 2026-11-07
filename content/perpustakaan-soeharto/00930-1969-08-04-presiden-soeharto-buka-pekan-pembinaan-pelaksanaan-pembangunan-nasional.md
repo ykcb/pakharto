@@ -4,9 +4,9 @@ description: SENIN, 04 AGUSTUS 1969, Presiden Soeharto membuka Pekan Pembinaan P
   Pembangunan Nasional di gedung Bappenas. Dalam amanatnya Presiden sekali lagi memperingatkan
   agar tata kerja seperti pada masa sebelum tahun 1966 tidak boleh...
 date: '1969-08-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional
 aliases:
 - Presiden Soeharto Buka Pekan Pembinaan Pelaksanaan Pembangunan Nasional
@@ -38,17 +38,18 @@ tags:
 - presiden-soeharto
 - tengku-muhammad-saleh
 - yudo-paripurno-sh
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional/
   judul: 1969-08-04 Presiden Soeharto Buka Pekan Pembinaan Pelaksanaan Pembangunan
     Nasional
   tanggal: '1969-08-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional/
 ---
 

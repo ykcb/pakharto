@@ -4,9 +4,9 @@ description: Obesi mewujudkan harga diri bangsa tercermin dari pesan Pak Harto k
   para duta besar. Menurutnya duta besar tidak hanya mewakili bangsa, melainkan menterjemahkan
   kepribadian Indonesia, menggambarkan cita-cita dan aspirasi rakyat...
 date: '2013-04-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-bersama-dubes-ri
 aliases:
 - Pak Harto Bersama Dubes RI – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - pakistan
 - perpustakaan-soeharto
 - turki
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-bersama-dubes-ri/
   judul: Pak Harto Bersama Dubes RI
   tanggal: '2013-04-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-bersama-dubes-ri/
 ---
 

@@ -4,9 +4,9 @@ description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1978-09-24-presiden-soeharto-resmikan-pabrik-gula-gunung-madu/respond)
   139 Views Share on
 date: '1978-09-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1978-09-24-presiden-soeharto-resmikan-pabrik-gula-gunung-madu
 aliases:
 - Presiden Soeharto Resmikan Pabrik Gula Gunung Madu
@@ -24,16 +24,17 @@ tags:
 - pnp-x
 - presiden-soeharto
 - ptp-vi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1978-09-24-presiden-soeharto-resmikan-pabrik-gula-gunung-madu/
   judul: 1978-09-24 Presiden Soeharto Resmikan Pabrik Gula Gunung Madu
   tanggal: '1978-09-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1978-09-24-presiden-soeharto-resmikan-pabrik-gula-gunung-madu/
 ---
 

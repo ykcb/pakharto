@@ -5,9 +5,9 @@ description: SENIN, 15 Maret 1971, Presiden Soeharto menyetujui pengangkatannya 
   ketua umum Dewan Harian Angkatan ’45 sebagaiaman diputuskan oleh Musyawarah Besar
   Angkatan ’45 di Berastagi, sumatera Utara, baru-baru ini. Persetujuan ini...
 date: '1971-03-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-03-15-presiden-soeharto-sebagai-ketua-umum-dewan-harian-angkatan-45
 aliases:
 - Presiden Soeharto Diangkat Sebagai Ketua Umum Dewan Harian Angkatan ‘45
@@ -20,17 +20,18 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-03-15-presiden-soeharto-sebagai-ketua-umum-dewan-harian-angkatan-45/
   judul: 1971-03-15 Presiden Soeharto Diangkat Sebagai Ketua Umum Dewan Harian Angkatan
     ‘45
   tanggal: '1971-03-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-03-15-presiden-soeharto-sebagai-ketua-umum-dewan-harian-angkatan-45/
 ---
 

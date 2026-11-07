@@ -4,9 +4,9 @@ description: SELASA, 11 Juli 1972. Masih berada di Jawa Timur, hari ini Presiden
   bertatap muka dengan rakyat Madura. Di dalam rapat umum di Pamekasan maupun di Sampang,
   Presiden kembali menegaskan bahwa tahap perjuangan kita sekarang ini...
 date: '1972-07-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-07-11-presiden-soeharto-rapat-umum-dengan-masyarakat-madura
 aliases:
 - Presiden Soeharto Rapat Umum Dengan Masyarakat Madura
@@ -20,16 +20,17 @@ tags:
 - pancasila
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-11-presiden-soeharto-rapat-umum-dengan-masyarakat-madura/
   judul: 1972-07-11 Presiden Soeharto Rapat Umum Dengan Masyarakat Madura
   tanggal: '1972-07-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-07-11-presiden-soeharto-rapat-umum-dengan-masyarakat-madura/
 ---
 

@@ -5,9 +5,9 @@ description: RABU, 15 Juli 1970. Presiden menginstruksikan Menteri Kehakiman, Pr
   Oemar Senoadji SH, untuk menyusun suatu peraturan mengenai pendaftaran kekayaan
   para pejabat negara. Instruksi ini disampaikan oleh Presiden kepada Menteri Kehakiman...
 date: '1970-07-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-07-15-presiden-soeharto-instruksikan-penyusunan-peraturan-pendaftaran-kekayaan-pejabat
 aliases:
 - Presiden Soeharto Instruksikan Penyusunan Peraturan Pendaftaran Kekayaan Pejabat
@@ -23,17 +23,18 @@ tags:
 - pejabat-negara
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-15-presiden-soeharto-instruksikan-penyusunan-peraturan-pendaftaran-kekayaan-pejabat/
   judul: 1970-07-15 Presiden Soeharto Instruksikan Penyusunan Peraturan Pendaftaran
     Kekayaan Pejabat
   tanggal: '1970-07-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-07-15-presiden-soeharto-instruksikan-penyusunan-peraturan-pendaftaran-kekayaan-pejabat/
 ---
 

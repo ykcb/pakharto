@@ -4,9 +4,9 @@ description: Jum’at, 17 Mei 1968, Hari ini Presiden Soeharto melantik Jenderal
   menjadi Pangad bertempat di Mabad, Jakarta. Pada kesempatan itu Presiden menegaskan
   bahwa kalau dewasa ini ABRI secara aktif mengabdikan dirinya dalam...
 date: '1968-05-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-05-17-presiden-soeharto-peran-abri-tidak-mengarah-diktaktor-militer
 aliases:
 - 'Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer'
@@ -23,16 +23,17 @@ tags:
 - presiden-soeharto
 - ptdi
 - umat-islam
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-05-17-presiden-soeharto-peran-abri-tidak-mengarah-diktaktor-militer/
   judul: '1968-05-17 Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer'
   tanggal: '1968-05-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-05-17-presiden-soeharto-peran-abri-tidak-mengarah-diktaktor-militer/
 ---
 

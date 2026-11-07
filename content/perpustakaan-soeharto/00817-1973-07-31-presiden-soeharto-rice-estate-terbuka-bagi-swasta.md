@@ -4,9 +4,9 @@ description: SELASA, 31 Juli 1973, Sidang Dewan Nasional yang berlangsung pagi i
   di Bina Graha pukul 10.00. Sidang yang dipimpin oleh Presiden Soeharto itu memutuskan
   bahwa proyek rice estate membuka pintu bagi modal swasta, termasuk swasta asing....
 date: '1973-07-31'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-07-31-presiden-soeharto-rice-estate-terbuka-bagi-swasta
 aliases:
 - 'Presiden Soeharto: Rice Estate Terbuka Bagi Swasta'
@@ -18,16 +18,17 @@ tags:
 - rice-estate
 - swasta
 - swasta-asing
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-07-31-presiden-soeharto-rice-estate-terbuka-bagi-swasta/
   judul: '1973-07-31 Presiden Soeharto: Rice Estate Terbuka Bagi Swasta'
   tanggal: '1973-07-31'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-07-31-presiden-soeharto-rice-estate-terbuka-bagi-swasta/
 ---
 

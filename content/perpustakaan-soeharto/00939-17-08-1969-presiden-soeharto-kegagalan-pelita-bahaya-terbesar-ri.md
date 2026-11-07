@@ -4,9 +4,9 @@ description: SABTU, 16 AGUSTUS 1969, Meneruskan tradisi yang telah dimulai sejak
   Presiden Soeharto pagi ini, untuk ketiga kalinya, mengucapkan pidato kenegaraan
   dalam sidang DPR-GR. Pada kesempatan itu Presiden mengulang kembali peringatannya...
 date: '2014-04-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 17-08-1969-presiden-soeharto-kegagalan-pelita-bahaya-terbesar-ri
 aliases:
 - '17-08-1969 Presiden Soeharto: Kegagalan Pelita Bahaya Terbesar RI – HM Soeharto'
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - pki
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/17-08-1969-presiden-soeharto-kegagalan-pelita-bahaya-terbesar-ri/
   judul: '17-08-1969 Presiden Soeharto: Kegagalan Pelita Bahaya Terbesar RI'
   tanggal: '2014-04-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/17-08-1969-presiden-soeharto-kegagalan-pelita-bahaya-terbesar-ri/
 ---
 

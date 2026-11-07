@@ -4,9 +4,9 @@ description: 3 September 2013 [Soeharto Library](https://soehartolibrary.id/auth
   [No Comment](https://soehartolibrary.id/1969-09-13-presiden-soeharto-indonesia-tetap-bayar-hutang-hutangnya/respond)
   118 Views Share on
 date: '1969-09-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-09-13-presiden-soeharto-indonesia-tetap-bayar-hutang-hutangnya
 aliases:
 - 'Presiden Soeharto: Indonesia Tetap Bayar Hutang-Hutangnya'
@@ -17,16 +17,17 @@ tags:
 - presiden-soeharto
 - uni-soviet
 - va-sergeev
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-09-13-presiden-soeharto-indonesia-tetap-bayar-hutang-hutangnya/
   judul: '1969-09-13 Presiden Soeharto: Indonesia Tetap Bayar Hutang-Hutangnya'
   tanggal: '1969-09-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-09-13-presiden-soeharto-indonesia-tetap-bayar-hutang-hutangnya/
 ---
 

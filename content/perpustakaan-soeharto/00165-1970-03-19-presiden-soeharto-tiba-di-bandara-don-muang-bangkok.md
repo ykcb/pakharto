@@ -4,9 +4,9 @@ description: KAMIS, 19 Maret 1970, Menandai akhir kunjungan Presiden Soeharto di
   kedua kepala Negara hari ini mengeluarkan sebuah komunike bersama. Pada pokoknya
   komunike tersebut memuat kesepakatan untuk melakukan segala sesuatu dalam...
 date: '1970-03-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-03-19-presiden-soeharto-tiba-di-bandara-don-muang-bangkok
 aliases:
 - Presiden Soeharto Tiba di Bandara Don Muang Bangkok
@@ -26,16 +26,17 @@ tags:
 - ratu-sirikit
 - shitralada
 - walikota
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-19-presiden-soeharto-tiba-di-bandara-don-muang-bangkok/
   judul: 1970-03-19 Presiden Soeharto Tiba di Bandara Don Muang Bangkok
   tanggal: '1970-03-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-03-19-presiden-soeharto-tiba-di-bandara-don-muang-bangkok/
 ---
 

@@ -5,9 +5,9 @@ description: JUM’AT, 9 April 1971, Presiden Soeharto mengatakan bahwa dalam bi
   penerbangan kita memang jauh ketinggalan dibandingkan dengan kemajuan-kemajuan yang
   dicapai dalam dunia penerbangan. Kita harus mengejar ketinggalan ini agar angkasa...
 date: '1971-04-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-04-09-presiden-soeharto-kita-tidak-ingin-hanya-menggunakan-pesawat-buatan-orang-lain
 aliases:
 - 'Presiden Soeharto: Kita Tidak Ingin Hanya Menggunakan Pesawat Buatan Orang Lain'
@@ -20,17 +20,18 @@ tags:
 - penerbangan-nasional
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-04-09-presiden-soeharto-kita-tidak-ingin-hanya-menggunakan-pesawat-buatan-orang-lain/
   judul: '1971-04-09 Presiden Soeharto: Kita Tidak Ingin Hanya Menggunakan Pesawat
     Buatan Orang Lain'
   tanggal: '1971-04-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-04-09-presiden-soeharto-kita-tidak-ingin-hanya-menggunakan-pesawat-buatan-orang-lain/
 ---
 

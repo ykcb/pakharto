@@ -4,9 +4,9 @@ description: SABTU, 19 APRIL 1969, Presiden Soeharto memberikan restunya kepada 
   Umat Islam Indonesia yang berangkat ke Kuala Lumpur, Malaysia, untuk menghadiri
   muktamar Islam se-Dunia. Keberangkatan delegasi tersebut diantar oleh Menteri...
 date: '1969-04-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-04-19-presiden-soeharto-berikan-restu-delegasi-ummat-islam-indonesia
 aliases:
 - Presiden Soeharto Berikan Restu Delegasi Ummat Islam Indonesia
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - umat-islam
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-19-presiden-soeharto-berikan-restu-delegasi-ummat-islam-indonesia/
   judul: 1969-04-19 Presiden Soeharto Berikan Restu Delegasi Ummat Islam Indonesia
   tanggal: '1969-04-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-04-19-presiden-soeharto-berikan-restu-delegasi-ummat-islam-indonesia/
 ---
 

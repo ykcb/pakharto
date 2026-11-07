@@ -4,9 +4,9 @@ description: SABTU, 14 AGUSTUS 1971, Pagi ini di istana Merdeka, Presiden Soehar
   menerima kunjungan Menteri Luar Negeri India, Swaran Singh. Pada kesempatan itu
   telah dibahas perkembangan di negara masing-mnasing, selain masalah-masalah...
 date: '1971-08-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-08-14-presiden-soeharto-menerima-menteri-luar-negeri-india
 aliases:
 - Presiden Soeharto Menerima Menteri Luar Negeri India
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - swaran-singh
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-08-14-presiden-soeharto-menerima-menteri-luar-negeri-india/
   judul: 1971-08-14 Presiden Soeharto Menerima Menteri Luar Negeri India
   tanggal: '1971-08-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-08-14-presiden-soeharto-menerima-menteri-luar-negeri-india/
 ---
 

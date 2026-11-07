@@ -2,9 +2,9 @@
 title: 1970-02-21 Tidak Alon-Alon Asal Kelakon dan Pengabdian Sarjana Untuk Desa
 description: TIDAK ALON-ALON ASAL KELAKON DAN PENGABDIAN SARJANA UNTUK DESA
 date: '1970-02-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-02-21-tidak-alon-alon-asal-kelakon-dan-pengabdian-sarjana-untuk-desa
 aliases:
 - Tidak Alon-Alon Asal Kelakon dan Pengabdian Sarjana Untuk Desa
@@ -23,16 +23,17 @@ tags:
 - pers
 - sarjana
 - sehat
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-02-21-tidak-alon-alon-asal-kelakon-dan-pengabdian-sarjana-untuk-desa/
   judul: 1970-02-21 Tidak Alon-Alon Asal Kelakon dan Pengabdian Sarjana Untuk Desa
   tanggal: '1970-02-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-02-21-tidak-alon-alon-asal-kelakon-dan-pengabdian-sarjana-untuk-desa/
 ---
 

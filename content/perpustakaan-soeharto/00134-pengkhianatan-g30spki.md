@@ -2,9 +2,9 @@
 title: Pengkhianatan G30S/PKI
 description: http://www.youtube.com/watch?v=ddYExsNtX6w&feature=share&list=PLzyiR2JwDJqMUZtikLuWIBNcGj3DAPmnY
 date: '2014-03-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pengkhianatan-g30spki
 aliases:
 - Pengkhianatan G30S/PKI – HM Soeharto
@@ -15,16 +15,17 @@ tags:
 - perpustakaan-soeharto
 - pki
 - video
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pengkhianatan-g30spki/
   judul: Pengkhianatan G30S/PKI
   tanggal: '2014-03-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pengkhianatan-g30spki/
 ---
 

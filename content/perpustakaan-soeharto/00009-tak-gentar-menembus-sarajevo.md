@@ -4,9 +4,9 @@ description: Presiden Soeharto dikenal sebagai pemimpin tegas dan berani mengamb
   risiko, bukan hanya di dalam negeri akan tetapi juga di luar negeri. Ketika kawasan
   Balkan dilanda konflik, dalam kapasitasnya sebagai Pimpinan Negara Non Blok,...
 date: '2017-10-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: tak-gentar-menembus-sarajevo
 aliases:
 - Tak Gentar Menembus Sarajevo – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - politik-luar-negeri
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/tak-gentar-menembus-sarajevo/
   judul: Tak Gentar Menembus Sarajevo
   tanggal: '2017-10-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/tak-gentar-menembus-sarajevo/
 ---
 

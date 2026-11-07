@@ -4,9 +4,9 @@ description: SENIN, 9 Maret 1970, Malam hari, partai yang termasuk dalam Kelompo
   Demokrasi Pembangunan, yaitu PNI, IPKI, Parkindo, Partai Katolik, dan Partai Murba,
   mengeluarkan pernyataan yang menyebutkan bahwa mereka telah bersepakat untuk...
 date: '1970-03-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-03-09-penggabungan-partai-kelompok-demokrasi-pembangunan
 aliases:
 - Penggabungan Partai Kelompok Demokrasi Pembangunan
@@ -28,16 +28,17 @@ tags:
 - pni
 - presiden
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-09-penggabungan-partai-kelompok-demokrasi-pembangunan/
   judul: 1970-03-09 Penggabungan Partai Kelompok Demokrasi Pembangunan
   tanggal: '1970-03-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-03-09-penggabungan-partai-kelompok-demokrasi-pembangunan/
 ---
 

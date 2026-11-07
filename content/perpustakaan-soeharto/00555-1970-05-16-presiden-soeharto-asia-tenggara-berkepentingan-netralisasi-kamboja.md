@@ -4,9 +4,9 @@ description: SABTU, 16 MEI 1970, Jam 09.00 pagi ini bertempat di Istana Merdeka,
   Soeharto telah menerima para peserta Konferensi Menteri Luar Negeri Asia Pasifik
   yang akan membahas persoalan Kamboja. Para menteri luar negeri tersebut...
 date: '1970-05-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-16-presiden-soeharto-asia-tenggara-berkepentingan-netralisasi-kamboja
 aliases:
 - 'Presiden Soeharto: Asia Tenggara Berkepentingan Netralisasi Kamboja'
@@ -20,16 +20,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-16-presiden-soeharto-asia-tenggara-berkepentingan-netralisasi-kamboja/
   judul: '1970-05-16 Presiden Soeharto: Asia Tenggara Berkepentingan Netralisasi Kamboja'
   tanggal: '1970-05-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-16-presiden-soeharto-asia-tenggara-berkepentingan-netralisasi-kamboja/
 ---
 

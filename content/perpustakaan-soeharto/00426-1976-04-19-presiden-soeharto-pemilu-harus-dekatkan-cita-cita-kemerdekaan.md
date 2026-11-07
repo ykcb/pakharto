@@ -4,9 +4,9 @@ description: SENIN, 19 April 1976, Presiden Soeharto mengatakan bahwa pemilihan 
   yang akan datang harus kita hubungkan dengan usaha kita untuk makin mendekati cita-cita
   kemerdekaan, yaitu mewujudkan masyarakat yang maju, sejahtera, dan...
 date: '1976-04-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-04-19-presiden-soeharto-pemilu-harus-dekatkan-cita-cita-kemerdekaan
 aliases:
 - 'Presiden Soeharto: Pemilu Harus Dekatkan Cita-Cita Kemerdekaan'
@@ -23,16 +23,17 @@ tags:
 - tjokropranolo
 - uud-1945
 - wakil-rakyat
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-04-19-presiden-soeharto-pemilu-harus-dekatkan-cita-cita-kemerdekaan/
   judul: '1976-04-19 Presiden Soeharto: Pemilu Harus Dekatkan Cita-Cita Kemerdekaan'
   tanggal: '1976-04-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-04-19-presiden-soeharto-pemilu-harus-dekatkan-cita-cita-kemerdekaan/
 ---
 

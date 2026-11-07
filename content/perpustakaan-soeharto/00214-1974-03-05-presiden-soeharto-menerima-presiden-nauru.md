@@ -4,9 +4,9 @@ description: SELASA, 5 Maret 1974, Presiden Soeharto pukul 9.00 pagi mengadakan 
   dengan Presiden Nauru, Hammer de Robert, di Bina Graha. Dalam pembicaraan yang berlangsung,
   lebih kurang setengah jam itu antara lain telah disinggung...
 date: '1974-03-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-05-presiden-soeharto-menerima-presiden-nauru
 aliases:
 - Presiden Soeharto Menerima Presiden Nauru
@@ -22,16 +22,17 @@ tags:
 - pupuk
 - pusri
 - tanjung-priok
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-05-presiden-soeharto-menerima-presiden-nauru/
   judul: 1974-03-05 Presiden Soeharto Menerima Presiden Nauru
   tanggal: '1974-03-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-05-presiden-soeharto-menerima-presiden-nauru/
 ---
 

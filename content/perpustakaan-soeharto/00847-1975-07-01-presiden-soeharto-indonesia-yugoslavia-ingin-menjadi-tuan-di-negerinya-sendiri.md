@@ -5,9 +5,9 @@ description: SELASA, 01 Juli 1975, Pukul 12.30 waktu setempat, Presiden Soeharto
   rombongan tiba di Brioni, Yugoslavia. Terletak di tepi Laut Adriatik, Brioni adalah
   sebuah pulau tempat peristirahatan Presiden Josef Broz Tito. Di dermaga Brioni...
 date: '1975-07-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-07-01-presiden-soeharto-indonesia-yugoslavia-ingin-menjadi-tuan-di-negerinya-sendiri
 aliases:
 - 'Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di Negerinya Sendiri'
@@ -25,17 +25,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - yugoslavia
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-07-01-presiden-soeharto-indonesia-yugoslavia-ingin-menjadi-tuan-di-negerinya-sendiri/
   judul: '1975-07-01 Presiden Soeharto: Indonesia-Yugoslavia Ingin Menjadi Tuan di
     Negerinya Sendiri'
   tanggal: '1975-07-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-07-01-presiden-soeharto-indonesia-yugoslavia-ingin-menjadi-tuan-di-negerinya-sendiri/
 ---
 

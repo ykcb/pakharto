@@ -4,9 +4,9 @@ description: SABTU, 23 MEI 1970, Hari ini, Presiden Soeharto mengeluarkan Surat 
   No. 43/1970 tentang organisasi politik yang ikut serta dalam pemilihan umum dan
   anggota DPR/DPRD yang diangkat. Dalam keputusan itu ditetapkan bahwa organisasi...
 date: '1970-05-23'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-05-23-presiden-soeharto-keluarkan-sk-peserta-pemilu
 aliases:
 - Presiden Soeharto Keluarkan SK Peserta Pemilu
@@ -29,16 +29,17 @@ tags:
 - pni
 - presiden-soeharto
 - psii
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-05-23-presiden-soeharto-keluarkan-sk-peserta-pemilu/
   judul: 1970-05-23 Presiden Soeharto Keluarkan SK Peserta Pemilu
   tanggal: '1970-05-23'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-05-23-presiden-soeharto-keluarkan-sk-peserta-pemilu/
 ---
 

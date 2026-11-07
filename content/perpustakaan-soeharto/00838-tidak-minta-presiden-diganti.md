@@ -4,9 +4,9 @@ description: Bapak yang saya hormati dan saya kagumi. Saya rakyat biasa dan satu
   sekian puluh juta penduduk Indonesia dan tinggal di Bogor. Dengan surat ini saya
   ingin sekali mencurahkan isi hati saya kepada Bapak. Ketika huru hara terjadi, di...
 date: '2013-07-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: tidak-minta-presiden-diganti
 aliases:
 - Tidak Minta Presiden Diganti – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/tidak-minta-presiden-diganti/
   judul: Tidak Minta Presiden Diganti
   tanggal: '2013-07-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/tidak-minta-presiden-diganti/
 ---
 

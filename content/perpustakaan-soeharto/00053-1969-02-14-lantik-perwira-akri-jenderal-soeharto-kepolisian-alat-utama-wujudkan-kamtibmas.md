@@ -5,9 +5,9 @@ description: JUM’AT, 14 FEBRUARI 1969. Jenderal Soeharto menegaskan bahwa tuga
   Angkatan Kepolisian adalah sebagai alat utama dalam mewujudkan keamanan dan ketertiban
   masyarakat, terutama dalam menghadapi Repelita. Hal itu dikatakan oleh...
 date: '1969-02-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-02-14-lantik-perwira-akri-jenderal-soeharto-kepolisian-alat-utama-wujudkan-kamtibmas
 aliases:
 - 'Lantik Perwira AKRI, Jenderal Soeharto: Kepolisian Alat Utama Wujudkan Kamtibmas'
@@ -26,17 +26,18 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - repelita
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-02-14-lantik-perwira-akri-jenderal-soeharto-kepolisian-alat-utama-wujudkan-kamtibmas/
   judul: '1969-02-14 Lantik Perwira AKRI, Jenderal Soeharto: Kepolisian Alat Utama
     Wujudkan Kamtibmas'
   tanggal: '1969-02-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-02-14-lantik-perwira-akri-jenderal-soeharto-kepolisian-alat-utama-wujudkan-kamtibmas/
 ---
 

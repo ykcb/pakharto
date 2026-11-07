@@ -4,9 +4,9 @@ description: SELASA, 05 AGUSTUS 1969, dalam upacara khidmat pagi ini di Istana M
   Presiden Soeharto secara simbolis menyerahkan duplikat bendera pusaka dan duplikat
   naskah proklamasi kepada semua daerah tingkat I melalui Pangandahan dan...
 date: '1969-08-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-08-05-presiden-soeharto-kita-bertekad-untuk-bersatu-dan-bersatu
 aliases:
 - 'Presiden Soeharto: Kita Bertekad Untuk Bersatu dan Bersatu'
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - teks-proklamasi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-05-presiden-soeharto-kita-bertekad-untuk-bersatu-dan-bersatu/
   judul: '1969-08-05 Presiden Soeharto: Kita Bertekad Untuk Bersatu dan Bersatu'
   tanggal: '1969-08-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-05-presiden-soeharto-kita-bertekad-untuk-bersatu-dan-bersatu/
 ---
 

@@ -5,9 +5,9 @@ description: SELASA, 18 Mei 1971, Dalam sidang Sub-Dewan Stabilisasi Ekonomi pag
   ini di Bina Graha, Jakarta, Presiden Soeharto mendengarkan laporan Menteri Keuangan
   dan Menteri Perdagangan. Menteri Keuangan melaporkan usaha-usaha yang telah dan...
 date: '1971-05-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-05-18-presiden-soeharto-penertiban-impor-untuk-tingkatkan-produksi-dalam-negeri
 aliases:
 - 'Presiden Soeharto: Penertiban Impor Untuk Tingkatkan Produksi Dalam Negeri'
@@ -24,17 +24,18 @@ tags:
 - pasar-eropa
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-05-18-presiden-soeharto-penertiban-impor-untuk-tingkatkan-produksi-dalam-negeri/
   judul: '1971-05-18 Presiden Soeharto: Penertiban Impor Untuk Tingkatkan Produksi
     Dalam Negeri'
   tanggal: '1971-05-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-05-18-presiden-soeharto-penertiban-impor-untuk-tingkatkan-produksi-dalam-negeri/
 ---
 

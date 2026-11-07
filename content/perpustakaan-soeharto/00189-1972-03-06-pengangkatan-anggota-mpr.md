@@ -4,9 +4,9 @@ description: SENIN, 6 Maret 1972, Presiden Soeharto mengangkat 207 anggota tamba
   MPR; 155 orang diantaranya dari golongan ABRI, dan 52 sisanya dari golongan non-ABRI.
   Pengangkatan ini dicantumkan dalam Kepres No. 36/M/1972, yang dikeluarkan hari...
 date: '1972-03-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-06-pengangkatan-anggota-mpr
 aliases:
 - Pengangkatan Anggota MPR
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-06-pengangkatan-anggota-mpr/
   judul: 1972-03-06 Pengangkatan Anggota MPR
   tanggal: '1972-03-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-06-pengangkatan-anggota-mpr/
 ---
 

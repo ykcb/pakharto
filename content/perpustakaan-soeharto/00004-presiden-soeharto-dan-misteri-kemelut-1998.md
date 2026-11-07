@@ -4,9 +4,9 @@ description: Krisis politik yang mengiringi krisis ekonomi tahun 1998 yang beruj
   pada pengunduran diri Presiden Soeharto sebenarnya tidak sesederhana pemahaman kebanyakan
   orang selama ini. Kebanyakan menteorikan pengunduran diri Presiden Soeharto...
 date: '2014-04-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-dan-misteri-kemelut-1998
 aliases:
 - Presiden Soeharto dan Misteri Kemelut 1998 – HM Soeharto
@@ -27,16 +27,17 @@ tags:
 - perpustakaan-soeharto
 - reformis
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-dan-misteri-kemelut-1998/
   judul: Presiden Soeharto dan Misteri Kemelut 1998
   tanggal: '2014-04-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-dan-misteri-kemelut-1998/
 ---
 

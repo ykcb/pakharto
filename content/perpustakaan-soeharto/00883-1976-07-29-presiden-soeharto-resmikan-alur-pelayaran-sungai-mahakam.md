@@ -4,9 +4,9 @@ description: KAMIS, 29 Juli 1976 Masih di Samarinda, pagi ini Presiden Soeharto 
   pemanfaatan alur pelayaran Sungai Mahakam yang dapat dilayari dengan kapal berukuran
   6.000 ton dengan muatan penuh. Dalam acara peresmian ini Kepala Negara...
 date: '1976-07-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-29-presiden-soeharto-resmikan-alur-pelayaran-sungai-mahakam
 aliases:
 - Presiden Soeharto Resmikan Alur Pelayaran Sungai Mahakam
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - samarinda-seberang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-29-presiden-soeharto-resmikan-alur-pelayaran-sungai-mahakam/
   judul: 1976-07-29 Presiden Soeharto Resmikan Alur Pelayaran Sungai Mahakam
   tanggal: '1976-07-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-29-presiden-soeharto-resmikan-alur-pelayaran-sungai-mahakam/
 ---
 

@@ -4,9 +4,9 @@ description: RABU, 29 Maret 1972, Dalam petemuannya dengan pengurus Kadin, yang 
   oleh Ketua Umum Brigjen. Sofyar, hari ini di Bina Graha, Presiden soeharto menyatakan
   keyakinannya bahwa pemerintah akan dapat melakukan suatu peraturan...
 date: '1972-03-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-29-presiden-soeharto-pengaturan-pengusaha-pribumi-non-pribumi
 aliases:
 - 'Presiden Soeharto: Pengaturan Pengusaha Pribumi-Non Pribumi'
@@ -19,16 +19,17 @@ tags:
 - presiden-soeharto
 - pribumi
 - soeharto-pengusaha
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-29-presiden-soeharto-pengaturan-pengusaha-pribumi-non-pribumi/
   judul: '1972-03-29 Presiden Soeharto: Pengaturan Pengusaha Pribumi-Non Pribumi'
   tanggal: '1972-03-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-29-presiden-soeharto-pengaturan-pengusaha-pribumi-non-pribumi/
 ---
 

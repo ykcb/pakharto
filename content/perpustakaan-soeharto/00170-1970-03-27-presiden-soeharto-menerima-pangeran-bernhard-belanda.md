@@ -4,9 +4,9 @@ description: JUM’AT, 27 Maret 1970, Malam, Presiden Soeharto menerima Pangeran
   yang datang di Istana Merdeka untuk berpamitan. Pada kesempatan itu, Pangeran Bernhard
   menyampaikan undangan pada Presiden Soeharto untuk berkunjung ke Negeri...
 date: '1970-03-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-03-27-presiden-soeharto-menerima-pangeran-bernhard-belanda
 aliases:
 - Presiden Soeharto Menerima Pangeran Bernhard Belanda
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-27-presiden-soeharto-menerima-pangeran-bernhard-belanda/
   judul: 1970-03-27 Presiden Soeharto Menerima Pangeran Bernhard Belanda
   tanggal: '1970-03-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-03-27-presiden-soeharto-menerima-pangeran-bernhard-belanda/
 ---
 

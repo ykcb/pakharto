@@ -4,9 +4,9 @@ description: 15 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1974-10-20-presiden-soeharto-tugas-golkar-memupuk-semangat-pembangunan/respond)
   108 Views Share on
 date: '1974-10-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-10-20-presiden-soeharto-tugas-golkar-memupuk-semangat-pembangunan
 aliases:
 - 'Presiden Soeharto: Tugas Golkar Memupuk Semangat Pembangunan'
@@ -18,16 +18,17 @@ tags:
 - pembangunan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-10-20-presiden-soeharto-tugas-golkar-memupuk-semangat-pembangunan/
   judul: '1974-10-20 Presiden Soeharto: Tugas Golkar Memupuk Semangat Pembangunan'
   tanggal: '1974-10-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-10-20-presiden-soeharto-tugas-golkar-memupuk-semangat-pembangunan/
 ---
 

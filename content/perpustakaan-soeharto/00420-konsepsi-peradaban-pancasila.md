@@ -3,9 +3,9 @@ title: Konsepsi Peradaban Pancasila (1)
 description: “Paugeran Urip Wong Nuswantoro Asli Iku Urip Rukun, Ora Gawe Loro Lan
   Patine Liyan. Anane Crah Iku Krono Digowo Wong Monco Lan Penjajah”
 date: '2014-04-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: konsepsi-peradaban-pancasila
 aliases:
 - Konsepsi Peradaban Pancasila (1) – HM Soeharto
@@ -22,16 +22,17 @@ tags:
 - peradaban
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/konsepsi-peradaban-pancasila/
   judul: Konsepsi Peradaban Pancasila (1)
   tanggal: '2014-04-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/konsepsi-peradaban-pancasila/
 ---
 

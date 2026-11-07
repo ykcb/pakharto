@@ -4,9 +4,9 @@ description: JUM’AT, 30 AGUSTUS 1968, Presiden Soeharto mengatakan bahwa rakya
   Barat telah menunjukkan perhatian dan kesungguhan dalam usaha perbaikan ekonomi,
   sesuai dengan sasaran yang ditentukan oleh pemerintah daerah. Demikianlah kesan...
 date: '1968-08-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-08-30-presiden-soeharto-rapat-umum-di-blang-padang-banda-aceh
 aliases:
 - Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh
@@ -21,16 +21,17 @@ tags:
 - serambi-mekah
 - sumatera-barat
 - umat-islam
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-08-30-presiden-soeharto-rapat-umum-di-blang-padang-banda-aceh/
   judul: 1968-08-30 Presiden Soeharto Rapat Umum di Blang Padang Banda Aceh
   tanggal: '1968-08-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-08-30-presiden-soeharto-rapat-umum-di-blang-padang-banda-aceh/
 ---
 

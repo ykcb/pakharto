@@ -4,9 +4,9 @@ description: 27 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim/respond)
   71 Views Share on
 date: '1978-09-23'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim
 aliases:
 - Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim
@@ -17,16 +17,17 @@ tags:
 - pham-van-dong
 - pm-vietnam
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim/
   judul: 1978-09-23 Presiden Soeharto Antar PM Pham Van Dong Ke Bandar Udara Halim
   tanggal: '1978-09-23'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1978-09-23-presiden-soeharto-antar-pm-pham-van-dong-ke-bandar-udara-halim/
 ---
 

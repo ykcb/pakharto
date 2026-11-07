@@ -4,9 +4,9 @@ description: SENIN, 16 JULI 1973, Pagi ini Presiden Soeharto menghadiri upacara 
   Konferensi Lawasia (Asia Law) ke-3, yang berlangsung di Gedung Graha Purna Yudha,
   Jakarta. Dalam amanat pembukaannya, Kepala Negara antara lain mengatakan...
 date: '1973-07-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-07-16-presiden-soeharto-membuka-konferensi-asia-law
 aliases:
 - Presiden Soeharto Membuka Konferensi Asia Law
@@ -17,16 +17,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-07-16-presiden-soeharto-membuka-konferensi-asia-law/
   judul: 1973-07-16 Presiden Soeharto Membuka Konferensi Asia Law
   tanggal: '1973-07-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-07-16-presiden-soeharto-membuka-konferensi-asia-law/
 ---
 

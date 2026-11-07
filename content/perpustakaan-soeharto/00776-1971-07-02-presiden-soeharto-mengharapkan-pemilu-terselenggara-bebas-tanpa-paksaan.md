@@ -6,9 +6,9 @@ description: JUM’AT, 02 Juli 1971. Menyambut pemilihan umum yang akan berlangs
   Dalam hubungan ini Presiden mengingatkan bahwa UU pemilihan Umum telah disiapkan
   dalam...
 date: '1971-07-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-07-02-presiden-soeharto-mengharapkan-pemilu-terselenggara-bebas-tanpa-paksaan
 aliases:
 - Presiden Soeharto Mengharapkan Pemilu Terselenggara “Bebas Tanpa Paksaan”
@@ -22,17 +22,18 @@ tags:
 - pemilu
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-07-02-presiden-soeharto-mengharapkan-pemilu-terselenggara-bebas-tanpa-paksaan/
   judul: 1971-07-02 Presiden Soeharto Mengharapkan Pemilu Terselenggara “Bebas Tanpa
     Paksaan”
   tanggal: '1971-07-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-07-02-presiden-soeharto-mengharapkan-pemilu-terselenggara-bebas-tanpa-paksaan/
 ---
 

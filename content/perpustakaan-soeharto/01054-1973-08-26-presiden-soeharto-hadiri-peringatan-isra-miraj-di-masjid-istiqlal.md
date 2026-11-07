@@ -4,9 +4,9 @@ description: 24 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1973-08-26-presiden-soeharto-hadiri-peringatan-isra-miraj-di-masjid-istiqlal/respond)
   90 Views Share on
 date: '1973-08-26'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-08-26-presiden-soeharto-hadiri-peringatan-isra-miraj-di-masjid-istiqlal
 aliases:
 - Presiden Soeharto Hadiri Peringatan Isra’ Mi’raj di Masjid Istiqlal
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - ruu-perkawinan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-08-26-presiden-soeharto-hadiri-peringatan-isra-miraj-di-masjid-istiqlal/
   judul: 1973-08-26 Presiden Soeharto Hadiri Peringatan Isra’ Mi’raj di Masjid Istiqlal
   tanggal: '1973-08-26'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-08-26-presiden-soeharto-hadiri-peringatan-isra-miraj-di-masjid-istiqlal/
 ---
 

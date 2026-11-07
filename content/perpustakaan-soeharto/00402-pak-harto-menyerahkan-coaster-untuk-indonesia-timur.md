@@ -4,9 +4,9 @@ description: Perdana Menteri Malaysia Mahathir Muhammad pernah mengaku heran, ba
   Pak Harto mampu mempersatukan Indonesia, sebuah bangsa multi kultur yang penduduknya
   tersebar dalam ribuan pulau dengan jangkauan luas, dan bertahan dalam waktu...
 date: '2013-04-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-menyerahkan-coaster-untuk-indonesia-timur
 aliases:
 - Pak Harto Menyerahkan Coaster Untuk Indonesia Timur – HM Soeharto
@@ -20,16 +20,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - rel-kereta-api
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-menyerahkan-coaster-untuk-indonesia-timur/
   judul: Pak Harto Menyerahkan Coaster Untuk Indonesia Timur
   tanggal: '2013-04-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-menyerahkan-coaster-untuk-indonesia-timur/
 ---
 

@@ -4,9 +4,9 @@ description: Sementara Pak Harto berkembang didalam kariernya di bumi Indonesia,
   di Jerman Barat pun bertambah pengalaman, sesuai dengan ritme perkembangan semangat
   pembangunan diantara pemuda pelajar di rantau, dan dengan mendapatkan inspirasi...
 date: '2014-03-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: menyatu-dengan-aspirasi-bangsa-bagian-2
 aliases:
 - 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 2) – HM Soeharto'
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - ppi
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-2/
   judul: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 2)'
   tanggal: '2014-03-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-2/
 ---
 

@@ -4,9 +4,9 @@ description: SABTU, 8 MARET 1975, Duta Besar Australia, Richard A Woolcont, hari
   menyerahnkan surat kepecayaannya kepada Presiden Soeharto di Istana Merdeka. Ketika
   menyerahkan surat kepercayaan itu ia mengatakan bahwa negerinya menghargai...
 date: '1975-03-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-03-08-presiden-soeharto-demokrasi-harus-mengenal-disiplin-dan-tanggungjawab
 aliases:
 - 'Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab'
@@ -22,16 +22,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-03-08-presiden-soeharto-demokrasi-harus-mengenal-disiplin-dan-tanggungjawab/
   judul: '1975-03-08 Presiden Soeharto: Demokrasi Harus Mengenal Disiplin Dan Tanggungjawab'
   tanggal: '1975-03-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-03-08-presiden-soeharto-demokrasi-harus-mengenal-disiplin-dan-tanggungjawab/
 ---
 

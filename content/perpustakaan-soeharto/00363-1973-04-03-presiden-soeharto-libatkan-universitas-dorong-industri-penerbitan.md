@@ -4,9 +4,9 @@ description: SELASA , 3 April 1973, Jam 10.00 pagi ini Presiden Soeharto menerim
   Menteri Penerangan Mashuri SH di Istana Merdeka. Selesai menghadap Presiden, Menteri
   Penerangan mengatakan bahwa Presiden Soeharto telah merestuinya untuk mengadakan...
 date: '1973-04-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-04-03-presiden-soeharto-libatkan-universitas-dorong-industri-penerbitan
 aliases:
 - Presiden Soeharto Libatkan Universitas Dorong Industri Penerbitan
@@ -25,16 +25,17 @@ tags:
 - presiden-soeharto
 - sudharmono
 - widjojo-nitisastro
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-04-03-presiden-soeharto-libatkan-universitas-dorong-industri-penerbitan/
   judul: 1973-04-03 Presiden Soeharto Libatkan Universitas Dorong Industri Penerbitan
   tanggal: '1973-04-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-04-03-presiden-soeharto-libatkan-universitas-dorong-industri-penerbitan/
 ---
 

@@ -4,9 +4,9 @@ description: SABTU, 21 Maret 1970, Setelah mengikuti berbagai acara yang padat p
   siang hari, malam ini Presiden dan Ibu Soeharto mengadakan jamuan makan malam di
   Grand Palace untuk menghormati Raja dan Ratu Muangthai. Kemudian Presiden dan...
 date: '1970-03-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-03-21-presiden-soeharto-bapak-rakyat-indonesia
 aliases:
 - Presiden Soeharto Bapak Rakyat Indonesia
@@ -26,16 +26,17 @@ tags:
 - pemuda
 - perpustakaan-soeharto
 - rakyat
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-21-presiden-soeharto-bapak-rakyat-indonesia/
   judul: 1970-03-21 Presiden Soeharto Bapak Rakyat Indonesia
   tanggal: '1970-03-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-03-21-presiden-soeharto-bapak-rakyat-indonesia/
 ---
 

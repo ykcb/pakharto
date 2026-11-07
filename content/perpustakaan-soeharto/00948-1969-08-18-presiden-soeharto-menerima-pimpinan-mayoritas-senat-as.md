@@ -4,9 +4,9 @@ description: SENIN, 18 AGUSTUS 1969, Pimpinan kelompok mayoritas dalam senat AS,
   Mansfield yang didampingi oleh Duta Besar AS untuk Indonesia Francis Galbraith,
   diterima Presiden Soeharto di Istana Negara pagi ini. Dalam pertemuan itu telah...
 date: '1969-08-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-08-18-presiden-soeharto-menerima-pimpinan-mayoritas-senat-as
 aliases:
 - Presiden Soeharto Menerima Pimpinan Mayoritas Senat AS
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - senat-as
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-18-presiden-soeharto-menerima-pimpinan-mayoritas-senat-as/
   judul: 1969-08-18 Presiden Soeharto Menerima Pimpinan Mayoritas Senat AS
   tanggal: '1969-08-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-18-presiden-soeharto-menerima-pimpinan-mayoritas-senat-as/
 ---
 

@@ -4,9 +4,9 @@ description: 13 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis/respond)
   127 Views Share on
 date: '2014-11-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis
 aliases:
 - 'Sjarif Thajeb: Pak Harto Tegas, Konsisten, Tetapi Luwes (Bagian 2, Habis) – HM
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - sjarif-thajeb
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis/
   judul: 'Sjarif Thajeb: Pak Harto Tegas, Konsisten, Tetapi Luwes (Bagian 2, Habis)'
   tanggal: '2014-11-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/sjarif-thajeb-pak-harto-tegas-konsisten-tetapi-luwes-bagian-2-habis/
 ---
 

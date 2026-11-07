@@ -5,9 +5,9 @@ description: RABU, 3 MARET 1976, Menteri Perdagangan dan Industri Kanada, Donald
   Jamieson, diterima oleh Presiden Soeharto selama satu jam di Cendana pagi ini. Pada
   kesempatan itu Kepala Negara mengatakan kepada tamunya bahwa pemerintah Indonesia...
 date: '2014-03-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina
 aliases:
 - 1976-03-3 Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut Pertamina
@@ -23,17 +23,18 @@ tags:
 - pertaminamenteri-perdagangan
 - presiden-soeharto
 - supersemar
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina/
   judul: 1976-03-3 Presiden Soeharto Menerima Memperindag Kanada dan Berhentikan Dirut
     Pertamina
   tanggal: '2014-03-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-03-3-presiden-soeharto-menerima-memperindag-kanada-dan-berhentikan-dirut-pertamina/
 ---
 

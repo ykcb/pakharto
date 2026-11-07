@@ -4,9 +4,9 @@ description: SELASA, 06 Juli 1976 Pukul 10.00 pagi ini Presiden Soeharto memimpi
   sidang Dewan Stabilisasi Ekonomi Nasional di Bina Graha. Didalam sidang, Menteri
   Negara Ekuin/Ketua Bappenas telah melaporkan tentang pengembangan daerah...
 date: '1976-07-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-06-presiden-soeharto-bahas-pengembangan-jabodetabek
 aliases:
 - Presiden Soeharto Bahas Pengembangan Jabodetabek
@@ -22,16 +22,17 @@ tags:
 - presiden-soeharto
 - prof-widjoyo-nitisastro
 - tangerang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-06-presiden-soeharto-bahas-pengembangan-jabodetabek/
   judul: 1976-07-06 Presiden Soeharto Bahas Pengembangan Jabodetabek
   tanggal: '1976-07-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-06-presiden-soeharto-bahas-pengembangan-jabodetabek/
 ---
 

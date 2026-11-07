@@ -4,9 +4,9 @@ description: SELASA, 04 AGUSTUS 1970, Pagi ini jam 8.15 Presiden Soeharto meneri
   Duta Besar Belanda Untuk Indonesia, Hugo Scheltema, di Jalan Cendana, Jakarta. Dalam
   pertemuan ini telah dibahas rencana kunjungan Presiden ke Negeri Belanda pada...
 date: '1970-08-04'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-08-04-presiden-soeharto-menerima-dubes-belanda
 aliases:
 - Presiden Soeharto Menerima Dubes Belanda
@@ -25,16 +25,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-08-04-presiden-soeharto-menerima-dubes-belanda/
   judul: 1970-08-04 Presiden Soeharto Menerima Dubes Belanda
   tanggal: '1970-08-04'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-08-04-presiden-soeharto-menerima-dubes-belanda/
 ---
 

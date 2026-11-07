@@ -5,9 +5,9 @@ description: SELASA, 29 APRIL 1969, Hari ini Presiden Soeharto memimpin sidang d
   stabilisasi ekonomi, bertempat di Istana Merdeka. Sehubungan dengan laporan Menteri
   Perdagangan Soemitro Djojohadikusumo tentang kunjungannya ke daerah Sumatera...
 date: '1969-04-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-04-29-presiden-soeharto-instruksikan-peningkatan-fasilitas-pelabuhan-dan-perkreditan
 aliases:
 - Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan dan Perkreditan
@@ -23,17 +23,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - pupuk
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-29-presiden-soeharto-instruksikan-peningkatan-fasilitas-pelabuhan-dan-perkreditan/
   judul: 1969-04-29 Presiden Soeharto Instruksikan Peningkatan Fasilitas Pelabuhan
     dan Perkreditan
   tanggal: '1969-04-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-04-29-presiden-soeharto-instruksikan-peningkatan-fasilitas-pelabuhan-dan-perkreditan/
 ---
 

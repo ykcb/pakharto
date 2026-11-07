@@ -4,9 +4,9 @@ description: 26 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/ali-alatas-kemantapan-dalam-kesimbangan-bagian-1/respond)
   103 Views Share on
 date: '2014-11-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: ali-alatas-kemantapan-dalam-kesimbangan-bagian-1
 aliases:
 - 'Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 1) – HM
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - utara-selatan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/ali-alatas-kemantapan-dalam-kesimbangan-bagian-1/
   judul: 'Ali Alatas: Pak Harto Menekankan Kemantapan Dalam Keseimbangan (Bagian 1)'
   tanggal: '2014-11-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/ali-alatas-kemantapan-dalam-kesimbangan-bagian-1/
 ---
 

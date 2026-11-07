@@ -4,9 +4,9 @@ description: Presiden Soeharto, Presiden ke-2 RI, lahir pada tanggl 8 Juni 1921,
   desa Kemusuk daerah Argomulyo Godean, sebelah Barat Yogyakarta. Merupakan putra
   ketiga dari istri pertama (Nyonya Sukirah) dari Bapak Kartosudiro, seorang ulu-ulu...
 date: '2017-02-14'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: masa-kecil
 aliases:
 - Masa Kecil – HM Soeharto
@@ -20,16 +20,17 @@ tags:
 - wonogiri
 - wuryantoro
 - yogyakarta
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/masa-kecil/
   judul: Masa Kecil
   tanggal: '2017-02-14'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/masa-kecil/
 ---
 

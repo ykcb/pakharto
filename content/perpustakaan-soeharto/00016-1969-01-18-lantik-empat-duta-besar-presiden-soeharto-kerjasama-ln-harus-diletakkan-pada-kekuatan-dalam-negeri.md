@@ -5,9 +5,9 @@ description: SABTU, 18 JANUARI 1969. Hari ini di Istana Merdeka, Presiden Soehar
   melantik empat duta besar bari RI. Para dutabesar itu adalah Letjend. KKO Hartono
   untuk RRDK (Korea Utara), Mayjend. Ashari untuk Jepang, A. Hamid untuk Srilangka,...
 date: '1969-01-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-01-18-lantik-empat-duta-besar-presiden-soeharto-kerjasama-ln-harus-diletakkan-pada-kekuatan-dalam-negeri
 aliases:
 - 'Lantik Empat Duta Besar, Presiden Soeharto: Kerjasama LN Harus Diletakkan Pada
@@ -34,17 +34,18 @@ tags:
 - srilangka
 - tinggal-landas-2
 - utara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-18-lantik-empat-duta-besar-presiden-soeharto-kerjasama-ln-harus-diletakkan-pada-kekuatan-dalam-negeri/
   judul: '1969-01-18 Lantik Empat Duta Besar, Presiden Soeharto: Kerjasama LN Harus
     Diletakkan Pada Kekuatan Dalam Negeri'
   tanggal: '1969-01-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-18-lantik-empat-duta-besar-presiden-soeharto-kerjasama-ln-harus-diletakkan-pada-kekuatan-dalam-negeri/
 ---
 

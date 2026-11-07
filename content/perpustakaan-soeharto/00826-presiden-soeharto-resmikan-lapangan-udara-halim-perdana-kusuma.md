@@ -4,9 +4,9 @@ description: Hutang pada masa Presiden Soeharto dipergunakan untuk membangun rib
   infrastruktur yang hingga kini masih bisa kita rasakan manfaatnya. Mulai dari bangunan
   sekolah, Puskesmas, jalan, pelabuhan, bandara, bendungan, saluran irigasi dan...
 date: '2013-07-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-resmikan-lapangan-udara-halim-perdana-kusuma
 aliases:
 - Presiden Soeharto Resmikan Lapangan Udara Halim Perdana Kusuma – HM Soeharto
@@ -15,16 +15,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-resmikan-lapangan-udara-halim-perdana-kusuma/
   judul: Presiden Soeharto Resmikan Lapangan Udara Halim Perdana Kusuma
   tanggal: '2013-07-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-resmikan-lapangan-udara-halim-perdana-kusuma/
 ---
 

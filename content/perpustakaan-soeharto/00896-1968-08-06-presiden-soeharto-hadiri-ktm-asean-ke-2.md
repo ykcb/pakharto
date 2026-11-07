@@ -4,9 +4,9 @@ description: SELASA, 6 AGUSTUS 1968, Pukul 10.00 WIB pagi ini Presiden Soeharto 
   pembukaan Konferensi Tingkat Menteri (KTM) ASEAN yang ke-2 di Jakarta. Dalam sambutannya
   Presiden antara lain mengatakan bahwa pembangunan ekonomi dan...
 date: '1968-08-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-08-06-presiden-soeharto-hadiri-ktm-asean-ke-2
 aliases:
 - Presiden Soeharto Hadiri KTM ASEAN Ke-2
@@ -26,16 +26,17 @@ tags:
 - presiden-soeharto
 - singapura
 - tingkat-menteri
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-08-06-presiden-soeharto-hadiri-ktm-asean-ke-2/
   judul: 1968-08-06 Presiden Soeharto Hadiri KTM ASEAN Ke-2
   tanggal: '1968-08-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-08-06-presiden-soeharto-hadiri-ktm-asean-ke-2/
 ---
 

@@ -4,9 +4,9 @@ description: Ada sekelumit kenangan yang saya simpan dari suatu percakapan yang 
   bersifat kedinasan, percakapan ini saya nilai unik sekali. Percakapan yang bagi
   saya pribadi sangat meninggalkan kesan ini berlangsung tidak lama setelah timbulnya...
 date: '2013-07-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-pemimpin-indonesia-akan-muncul-dengan-sendirinya
 aliases:
 - 'Pak Harto: Pemimpin Indonesia Akan Muncul dengan Sendirinya – HM Soeharto'
@@ -17,16 +17,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - suksesi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-pemimpin-indonesia-akan-muncul-dengan-sendirinya/
   judul: 'Pak Harto: Pemimpin Indonesia Akan Muncul dengan Sendirinya'
   tanggal: '2013-07-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-pemimpin-indonesia-akan-muncul-dengan-sendirinya/
 ---
 

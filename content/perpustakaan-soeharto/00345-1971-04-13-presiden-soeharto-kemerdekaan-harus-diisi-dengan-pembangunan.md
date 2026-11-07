@@ -4,9 +4,9 @@ description: SELASA, 13 April 1971, Masih berada di Palu, pagi ini Presiden Soeh
   bertatap muka dengan tokoh agama se-Sulawesi Tengah. Pada pertemuan ini, Presiden
   Soeharto mengharapkan mereka untuk dapat mengupayakan agar lebih kurang 20.000...
 date: '1971-04-13'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-04-13-presiden-soeharto-kemerdekaan-harus-diisi-dengan-pembangunan
 aliases:
 - 'Presiden Soeharto: Kemerdekaan Harus Diisi Dengan Pembangunan'
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - uud-1945
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-04-13-presiden-soeharto-kemerdekaan-harus-diisi-dengan-pembangunan/
   judul: '1971-04-13 Presiden Soeharto: Kemerdekaan Harus Diisi Dengan Pembangunan'
   tanggal: '1971-04-13'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-04-13-presiden-soeharto-kemerdekaan-harus-diisi-dengan-pembangunan/
 ---
 

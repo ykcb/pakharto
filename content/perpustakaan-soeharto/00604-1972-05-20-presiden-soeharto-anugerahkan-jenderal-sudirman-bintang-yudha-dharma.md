@@ -4,9 +4,9 @@ description: SABTU, 20 Mei 1972, Presiden Soeharto hari ini di Istana Negara men
   Bintang Yudha Dharma dan Bintang Mahaputra kepada tujuh orang perwira tinggi, sehubungan
   dengan jasa-jasa dan pengabdian mereka kepada nusa dan bangsa.
 date: '1972-05-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-05-20-presiden-soeharto-anugerahkan-jenderal-sudirman-bintang-yudha-dharma
 aliases:
 - Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha Dharma
@@ -24,17 +24,18 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-05-20-presiden-soeharto-anugerahkan-jenderal-sudirman-bintang-yudha-dharma/
   judul: 1972-05-20 Presiden Soeharto Anugerahkan Jenderal Sudirman Bintang Yudha
     Dharma
   tanggal: '1972-05-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-05-20-presiden-soeharto-anugerahkan-jenderal-sudirman-bintang-yudha-dharma/
 ---
 

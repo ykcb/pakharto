@@ -3,9 +3,9 @@ title: Hati Saya Hancur
 description: Saya memberanikan diri untuk menulis surat kepada Bapak, karena saya
   sudah tidak bisa menahan prihatin atas apa yang tengah menimpa diri Bapak.
 date: '2013-07-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: hati-saya-hancur
 aliases:
 - Hati Saya Hancur – HM Soeharto
@@ -15,16 +15,17 @@ tags:
 - pengunduran-diri
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/hati-saya-hancur/
   judul: Hati Saya Hancur
   tanggal: '2013-07-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/hati-saya-hancur/
 ---
 

@@ -4,9 +4,9 @@ description: SABTU 17 JANUARI 1970, Pagi jam 10.00, bertempat di Istana Negara, 
   melantik anggota-anggota Lembaga Pemilihan Umum dan Panitia Pemilihan Umum. Dalam
   pidatonya, Presiden mengulangi lagi jaminannya bahwa partai politik tidak akan...
 date: '1970-01-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-01-17-lantik-anggota-lpu-presiden-soeharto-tidak-ada-pembubaran-parpol
 aliases:
 - 'Lantik Anggota LPU, Presiden Soeharto: Tidak Ada Pembubaran Parpol'
@@ -30,16 +30,17 @@ tags:
 - presiden-soeharto
 - repelita
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-17-lantik-anggota-lpu-presiden-soeharto-tidak-ada-pembubaran-parpol/
   judul: '1970-01-17 Lantik Anggota LPU, Presiden Soeharto: Tidak Ada Pembubaran Parpol'
   tanggal: '1970-01-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-17-lantik-anggota-lpu-presiden-soeharto-tidak-ada-pembubaran-parpol/
 ---
 

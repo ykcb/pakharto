@@ -5,9 +5,9 @@ description: SENIN, 27 JANUARI 1969. Presiden Soeharto, baik atas nama pemerinta
   dan rakyat Indonesia maupun secara pribadi, menyampaikan ucapat selamat dan doa
   atas terpilihnya Richard Nixon sebagi Presiden AS. Hal ini terungkap dalam surat...
 date: '1969-01-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-01-27-pesiden-soeharto-sampaikan-selamat-atas-terpilihnya-presiden-as-richard-nixon
 aliases:
 - Pesiden Soeharto Sampaikan Selamat Atas Terpilihnya Presiden AS Richard Nixon
@@ -32,17 +32,18 @@ tags:
 - selamat
 - tinggal-landas-2
 - ucapan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-27-pesiden-soeharto-sampaikan-selamat-atas-terpilihnya-presiden-as-richard-nixon/
   judul: 1969-01-27 Pesiden Soeharto Sampaikan Selamat Atas Terpilihnya Presiden AS
     Richard Nixon
   tanggal: '1969-01-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-27-pesiden-soeharto-sampaikan-selamat-atas-terpilihnya-presiden-as-richard-nixon/
 ---
 

@@ -4,9 +4,9 @@ description: Presiden Soeharto dikenal selektif dalam memilih pembantu-pembantu 
   Semua potensi kampus dilibatkan dalam gerak pembangunan. Hal ini mencerminkan konsistensinya
   untuk membawa Indonesia mencapai kemandirian, termasuk mandiri...
 date: '2013-04-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-menerima-alumni-itb
 aliases:
 - Presiden Soeharto Menerima Alumni ITB – HM Soeharto
@@ -16,16 +16,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-menerima-alumni-itb/
   judul: Presiden Soeharto Menerima Alumni ITB
   tanggal: '2013-04-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-menerima-alumni-itb/
 ---
 

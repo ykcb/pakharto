@@ -4,9 +4,9 @@ description: SELASA, 19 MARET 1974, Presiden Soeharto pagi ini mempimpin sidang 
   Stabilisasi Ekonomi Nasional di Bina Graha. Berbagai macam masalah ekonomi telah
   dibahas dalam sidang ini, tetapi pada umumnya meliputi masalah-masalah kredit...
 date: '1974-03-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-19-presiden-soeharto-bahas-kredit-investasi-kecil-dan-peternakan
 aliases:
 - Presiden Soeharto Bahas Kredit Investasi Kecil dan Peternakan
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - peternakan
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-19-presiden-soeharto-bahas-kredit-investasi-kecil-dan-peternakan/
   judul: 1974-03-19 Presiden Soeharto Bahas Kredit Investasi Kecil dan Peternakan
   tanggal: '1974-03-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-19-presiden-soeharto-bahas-kredit-investasi-kecil-dan-peternakan/
 ---
 

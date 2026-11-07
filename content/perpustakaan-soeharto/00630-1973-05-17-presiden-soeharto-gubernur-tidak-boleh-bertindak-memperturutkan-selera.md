@@ -5,9 +5,9 @@ description: KAMIS, 17 Mei 1973, Presiden Soeharto menegaskan bahwa peranan gube
   sebagai penguasa tunggal di daerah tidak dapat diartikan bahwa mereka dapat bertindak
   menurut selera mereka sendiri dengan menyimpang dari kebijaksanaan umum yang...
 date: '1973-05-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-05-17-presiden-soeharto-gubernur-tidak-boleh-bertindak-memperturutkan-selera
 aliases:
 - 'Presiden Soeharto: Gubernur Tidak Boleh Bertindak Memperturutkan Selera'
@@ -22,17 +22,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - uu
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-17-presiden-soeharto-gubernur-tidak-boleh-bertindak-memperturutkan-selera/
   judul: '1973-05-17 Presiden Soeharto: Gubernur Tidak Boleh Bertindak Memperturutkan
     Selera'
   tanggal: '1973-05-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-05-17-presiden-soeharto-gubernur-tidak-boleh-bertindak-memperturutkan-selera/
 ---
 

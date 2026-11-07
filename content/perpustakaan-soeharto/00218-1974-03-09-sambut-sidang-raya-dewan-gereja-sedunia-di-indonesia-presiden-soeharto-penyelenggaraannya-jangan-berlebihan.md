@@ -5,9 +5,9 @@ description: SABTU, 9 Maret 1974, Presiden Soeharto menyambut baik rencana diada
   Sidang Raya Dewan Gereja-Gereja Sedunia di Indonesia tahun depan. Hal ini diuangkapkan
   oleh Menteri Negara Kesejahteraan Rakyat, Prof. Sunawar Sukawati SH, usai...
 date: '1974-03-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-09-sambut-sidang-raya-dewan-gereja-sedunia-di-indonesia-presiden-soeharto-penyelenggaraannya-jangan-berlebihan
 aliases:
 - 'Sambut Sidang Raya Dewan Gereja Sedunia di Indonesia, Presiden Soeharto: Penyelenggaraannya
@@ -24,17 +24,18 @@ tags:
 - presiden-soeharto
 - sedunia
 - sidang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-09-sambut-sidang-raya-dewan-gereja-sedunia-di-indonesia-presiden-soeharto-penyelenggaraannya-jangan-berlebihan/
   judul: '1974-03-09 Sambut Sidang Raya Dewan Gereja Sedunia di Indonesia, Presiden
     Soeharto: Penyelenggaraannya Jangan Berlebihan'
   tanggal: '1974-03-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-09-sambut-sidang-raya-dewan-gereja-sedunia-di-indonesia-presiden-soeharto-penyelenggaraannya-jangan-berlebihan/
 ---
 

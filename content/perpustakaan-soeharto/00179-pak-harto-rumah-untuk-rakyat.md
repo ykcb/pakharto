@@ -3,9 +3,9 @@ title: Pak Harto, Rumah Murah Untuk Rakyat
 description: Pemerintah harus punya komitmen mendukung rumah untuk masyarakat berpenghasilan
   rendah. Ini porsi dan tugas pemerintah.
 date: '2013-03-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-rumah-untuk-rakyat
 aliases:
 - Pak Harto, Rumah Murah Untuk Rakyat – HM Soeharto
@@ -25,16 +25,17 @@ tags:
 - rumah
 - rumah-rakyat
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-rumah-untuk-rakyat/
   judul: Pak Harto, Rumah Murah Untuk Rakyat
   tanggal: '2013-03-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-rumah-untuk-rakyat/
 ---
 

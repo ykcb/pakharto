@@ -5,9 +5,9 @@ description: SENIN, 8 Juli 1974 ,Presiden Soeharto berpendapat bahwa peranan pen
   sangat penting untuk membangkitkan kemauan rakyat didalam melaksanakan pembangunan.
   Menurut Kepala Negara, melalui penerangan yang sehat, rakyat tidak saja...
 date: '1974-07-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-07-08-presiden-soeharto-penerangan-membangkitkan-kemauan-rakyat-untuk-membangun
 aliases:
 - 'Presiden Soeharto: Penerangan Membangkitkan Kemauan Rakyat Untuk Membangun'
@@ -19,17 +19,18 @@ tags:
 - penerangan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-07-08-presiden-soeharto-penerangan-membangkitkan-kemauan-rakyat-untuk-membangun/
   judul: '1974-07-08 Presiden Soeharto: Penerangan Membangkitkan Kemauan Rakyat Untuk
     Membangun'
   tanggal: '1974-07-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-07-08-presiden-soeharto-penerangan-membangkitkan-kemauan-rakyat-untuk-membangun/
 ---
 

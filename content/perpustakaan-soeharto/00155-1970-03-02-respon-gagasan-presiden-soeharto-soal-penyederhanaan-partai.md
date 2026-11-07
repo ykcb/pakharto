@@ -4,9 +4,9 @@ description: SENIN, 2 Maret 1970, Gagasan Presiden Soeharto mengenai pengelompok
   partai politik yang mengarah pada penyederhanaan kepartaian disambut dengan hangat
   oleh dua partai politik hari ini, IPKI dan Partai Katolik. (AFR)
 date: '1970-03-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-03-02-respon-gagasan-presiden-soeharto-soal-penyederhanaan-partai
 aliases:
 - Respon Gagasan Presiden Soeharto Soal Penyederhanaan Partai
@@ -22,16 +22,17 @@ tags:
 - politik
 - presiden
 - soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-02-respon-gagasan-presiden-soeharto-soal-penyederhanaan-partai/
   judul: 1970-03-02 Respon Gagasan Presiden Soeharto Soal Penyederhanaan Partai
   tanggal: '1970-03-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-03-02-respon-gagasan-presiden-soeharto-soal-penyederhanaan-partai/
 ---
 

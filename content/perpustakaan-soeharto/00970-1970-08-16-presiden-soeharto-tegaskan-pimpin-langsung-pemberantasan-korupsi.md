@@ -4,9 +4,9 @@ description: MINGGU, 16 AGUSTUS 1970, Dalam rangka peringatan hari kemerdekaan R
   pagi ini jam 09.00 WIB, untuk yang keempat kalinya, Presiden Soeharto menyampaikan
   amanat kenegaraan di depan sidang DPR-GR. Kepala Negara antara lain mengemukakan...
 date: '1970-08-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-08-16-presiden-soeharto-tegaskan-pimpin-langsung-pemberantasan-korupsi
 aliases:
 - Presiden Soeharto Tegaskan Pimpin Langsung Pemberantasan Korupsi
@@ -20,16 +20,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-08-16-presiden-soeharto-tegaskan-pimpin-langsung-pemberantasan-korupsi/
   judul: 1970-08-16 Presiden Soeharto Tegaskan Pimpin Langsung Pemberantasan Korupsi
   tanggal: '1970-08-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-08-16-presiden-soeharto-tegaskan-pimpin-langsung-pemberantasan-korupsi/
 ---
 

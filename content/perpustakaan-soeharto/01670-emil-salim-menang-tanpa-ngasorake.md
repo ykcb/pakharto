@@ -4,9 +4,9 @@ description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/respond)
   157 Views Share on
 date: '2014-11-25'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: emil-salim-menang-tanpa-ngasorake
 aliases:
 - 'Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 1) – HM Soeharto'
@@ -21,16 +21,17 @@ tags:
 - roma
 - swasembada-pangan
 - vatikan
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/
   judul: 'Emil Salim: Pak Harto Berprinsip Menang Tanpa Ngasorake (Bagian 1)'
   tanggal: '2014-11-25'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/
 ---
 

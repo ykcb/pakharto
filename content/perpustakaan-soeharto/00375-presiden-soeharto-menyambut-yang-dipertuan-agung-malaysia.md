@@ -4,9 +4,9 @@ description: Presiden Soeharto mampu membawa Indonesia sebagai regional leader A
   Ia sangat dihormati pemimpin-pemimpin ASEAN sehingga muncul istilah Asean Way, dimana
   Asean berkomitmen menyelesaikan masalah regional tanpa keterlibatan pihak...
 date: '2013-04-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-menyambut-yang-dipertuan-agung-malaysia
 aliases:
 - Presiden Soeharto Menyambut Yang Dipertuan Agung Malaysia – HM Soeharto
@@ -15,16 +15,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-menyambut-yang-dipertuan-agung-malaysia/
   judul: Presiden Soeharto Menyambut Yang Dipertuan Agung Malaysia
   tanggal: '2013-04-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-menyambut-yang-dipertuan-agung-malaysia/
 ---
 

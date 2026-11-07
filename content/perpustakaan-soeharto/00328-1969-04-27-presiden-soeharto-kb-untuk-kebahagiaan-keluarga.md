@@ -4,9 +4,9 @@ description: MINGGU, 27 APRIL 1969, Dalam amanat tertulis pada pembukaan seminar
   dan Keluarga Berencana, yang diselenggarakan oleh WAY (Majelis Pemuda se-Dunia)
   di Jakarta hari ini. Presiden mengatakan bahwa tujuan pelaksanaan KB di Indonesia...
 date: '1969-04-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga
 aliases:
 - 'Presiden Soeharto: KB Untuk Kebahagiaan Keluarga'
@@ -20,16 +20,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga/
   judul: '1969-04-27 Presiden Soeharto: KB Untuk Kebahagiaan Keluarga'
   tanggal: '1969-04-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga/
 ---
 

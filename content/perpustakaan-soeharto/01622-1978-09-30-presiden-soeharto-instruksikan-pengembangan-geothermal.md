@@ -4,9 +4,9 @@ description: 28 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1978-09-30-presiden-soeharto-instruksikan-pengembangan-geothermal/respond)
   125 Views Share on
 date: '1978-09-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1978-09-30-presiden-soeharto-instruksikan-pengembangan-geothermal
 aliases:
 - Presiden Soeharto Instruksikan Pengembangan Geothermal
@@ -19,16 +19,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - prof-subroto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1978-09-30-presiden-soeharto-instruksikan-pengembangan-geothermal/
   judul: 1978-09-30 Presiden Soeharto Instruksikan Pengembangan Geothermal
   tanggal: '1978-09-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1978-09-30-presiden-soeharto-instruksikan-pengembangan-geothermal/
 ---
 

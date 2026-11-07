@@ -4,9 +4,9 @@ description: 17 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1975-10-29-presiden-soeharto-menerima-surat-kepercayaan-duta-besar-chili/respond)
   99 Views Share on
 date: '1975-10-29'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-10-29-presiden-soeharto-menerima-surat-kepercayaan-duta-besar-chili
 aliases:
 - Presiden Soeharto Menerima Surat Kepercayaan Duta Besar Chili
@@ -19,16 +19,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-10-29-presiden-soeharto-menerima-surat-kepercayaan-duta-besar-chili/
   judul: 1975-10-29 Presiden Soeharto Menerima Surat Kepercayaan Duta Besar Chili
   tanggal: '1975-10-29'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-10-29-presiden-soeharto-menerima-surat-kepercayaan-duta-besar-chili/
 ---
 

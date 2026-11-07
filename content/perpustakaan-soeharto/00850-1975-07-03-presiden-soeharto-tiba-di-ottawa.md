@@ -4,9 +4,9 @@ description: KAMIS, 03 Juli 1975, Petang ini waktu setempat, Presiden Soeharto d
   rombongan tiba di Ottawa. Setiba di bandar udara Ottawa, Presiden dan Ibu Soeharto
   disambut oleh Gubernur Jenderal dan Nyonya Jules Leger dalam suatu upacara...
 date: '1975-07-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-07-03-presiden-soeharto-tiba-di-ottawa
 aliases:
 - Presiden Soeharto Tiba di Ottawa
@@ -19,16 +19,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-07-03-presiden-soeharto-tiba-di-ottawa/
   judul: 1975-07-03 Presiden Soeharto Tiba di Ottawa
   tanggal: '1975-07-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-07-03-presiden-soeharto-tiba-di-ottawa/
 ---
 

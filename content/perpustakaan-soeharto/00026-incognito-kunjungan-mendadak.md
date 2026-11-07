@@ -4,9 +4,9 @@ description: Presiden Soeharto sering melakukan incognito, kunjungan langsung ke
   masyarakat tanpa pemberitahuan sebelumnya. Kunjungan itu terkadang hanya diiringi
   oleh ajudan tanpa rombongan besar. Masyarakat yang dikunjungi juga tidak...
 date: '2013-02-23'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: incognito-kunjungan-mendadak
 aliases:
 - INCOGNITO (KUNJUNGAN MENDADAK) – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - mendadak
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/incognito-kunjungan-mendadak/
   judul: INCOGNITO (KUNJUNGAN MENDADAK)
   tanggal: '2013-02-23'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/incognito-kunjungan-mendadak/
 ---
 

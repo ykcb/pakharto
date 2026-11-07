@@ -4,9 +4,9 @@ description: 1 September 2013 [Soeharto Library](https://soehartolibrary.id/auth
   [No Comment](https://soehartolibrary.id/1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang/respond)
   90 Views Share on
 date: '1968-09-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang
 aliases:
 - Presiden Soeharto Bahas Delegasi Penangguhan Hutang
@@ -28,16 +28,17 @@ tags:
 - sidang-kabinet-terbatas
 - subsidi-haji
 - washington
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang/
   judul: 1968-09-17 Presiden Soeharto Bahas Delegasi Penangguhan Hutang
   tanggal: '1968-09-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-09-17-presiden-soeharto-bahas-delegasi-penangguhan-hutang/
 ---
 

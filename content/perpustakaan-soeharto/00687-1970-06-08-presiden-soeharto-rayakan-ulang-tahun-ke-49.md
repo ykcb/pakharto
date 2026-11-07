@@ -4,9 +4,9 @@ description: Senin, 8 Juni 1970, Pagi ini Presiden Soeharto dan keluarga merayak
   ulang tahunnya yang ke-49. Di pintu masuk kediamannya, Presiden dan Ibu Tien Soeharto
   menerima ucapan selamat dari para pejabat pemerintahan sipil dan militer, handai...
 date: '1970-06-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-06-08-presiden-soeharto-rayakan-ulang-tahun-ke-49
 aliases:
 - Presiden Soeharto Rayakan Ulang Tahun Ke-49
@@ -16,16 +16,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - ulang-tahun
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-06-08-presiden-soeharto-rayakan-ulang-tahun-ke-49/
   judul: 1970-06-08 Presiden Soeharto Rayakan Ulang Tahun Ke-49
   tanggal: '1970-06-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-06-08-presiden-soeharto-rayakan-ulang-tahun-ke-49/
 ---
 

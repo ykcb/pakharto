@@ -5,9 +5,9 @@ description: SABTU, 30 AGUSTUS 1969, Presiden Soeharto mengharapkan agar pola la
   manajemen di bidang perbankan dapat segera di ubah. Presiden mengingatkan bahwa
   dalam masa pembangunan yang kita laksanakan dengan demokratis ini diperlukan pola...
 date: '1969-08-30'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-08-30-presiden-soeharto-manajemen-perbankan-perlu-lebih-edukatif-dan-dinamis
 aliases:
 - 'Presiden Soeharto: Manajemen Perbankan Perlu Lebih Edukatif dan Dinamis'
@@ -21,17 +21,18 @@ tags:
 - perbankan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-30-presiden-soeharto-manajemen-perbankan-perlu-lebih-edukatif-dan-dinamis/
   judul: '1969-08-30 Presiden Soeharto: Manajemen Perbankan Perlu Lebih Edukatif dan
     Dinamis'
   tanggal: '1969-08-30'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-30-presiden-soeharto-manajemen-perbankan-perlu-lebih-edukatif-dan-dinamis/
 ---
 

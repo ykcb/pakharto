@@ -4,9 +4,9 @@ description: SENIN, 7 APRIL 1969, Siang ini di Istana Merdeka, Presiden Soeharto
   tiga orang anggota DPR-GR asal Irian Barat, yaitu AB Karubuy, TMB Gebse dan FL Sikoway.
   Ketiganya datang untuk menyampaikan laporan mengenai Irian Barat dalam...
 date: '2014-03-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-04-7-presiden-soeharto-menerima-tiga-anggota-dprgr-asal-irian-barat
 aliases:
 - 1969-04-7 Presiden Soeharto Menerima Tiga Anggota DPRGR Asal Irian Barat – HM Soeharto
@@ -19,16 +19,17 @@ tags:
 - pepera
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-7-presiden-soeharto-menerima-tiga-anggota-dprgr-asal-irian-barat/
   judul: 1969-04-7 Presiden Soeharto Menerima Tiga Anggota DPRGR Asal Irian Barat
   tanggal: '2014-03-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-04-7-presiden-soeharto-menerima-tiga-anggota-dprgr-asal-irian-barat/
 ---
 

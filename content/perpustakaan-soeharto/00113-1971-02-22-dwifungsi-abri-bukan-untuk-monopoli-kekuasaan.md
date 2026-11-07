@@ -4,9 +4,9 @@ description: KAMIS 22 PEBRUARI 1971, Pagi hari Presiden Soeharto membuka Command
   Call yang diadakan di Balai Pertemuan Bea Cukai Jakarta. Dalam sambutannya antara
   lain dikatakan bahwa ketahanan nasional merupakan satu-satunya kekuatan yang mampu...
 date: '1971-02-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-02-22-dwifungsi-abri-bukan-untuk-monopoli-kekuasaan
 aliases:
 - Dwifungsi ABRI Bukan Untuk Monopoli Kekuasaan
@@ -19,16 +19,17 @@ tags:
 - monopoli
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-02-22-dwifungsi-abri-bukan-untuk-monopoli-kekuasaan/
   judul: 1971-02-22 Dwifungsi ABRI Bukan Untuk Monopoli Kekuasaan
   tanggal: '1971-02-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-02-22-dwifungsi-abri-bukan-untuk-monopoli-kekuasaan/
 ---
 

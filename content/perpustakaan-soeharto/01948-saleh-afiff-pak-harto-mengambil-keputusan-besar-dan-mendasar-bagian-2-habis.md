@@ -4,9 +4,9 @@ description: 16 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/respond)
   131 Views Share on
 date: '2014-11-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis
 aliases:
 - 'Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 2, Habis)
@@ -19,17 +19,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - saleh-afiff
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/
   judul: 'Saleh Afiff: Pak Harto Mengambil Keputusan Besar Dan Mendasar (Bagian 2,
     Habis)'
   tanggal: '2014-11-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/
 ---
 

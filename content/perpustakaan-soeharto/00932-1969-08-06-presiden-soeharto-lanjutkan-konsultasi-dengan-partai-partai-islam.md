@@ -4,9 +4,9 @@ description: RABU, 06 AGUSTUS 1969, Malam ini di Istana Merdeka, Presiden Soehar
   melanjutkan konsultasinya dengan partai-partai Islam, dengan menerima pemimpin-pemimpin
   PSII, dan Parmusi, dalam rangka persiapan Kongres Umat Islam Indonesia (KUII)....
 date: '1969-08-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-08-06-presiden-soeharto-lanjutkan-konsultasi-dengan-partai-partai-islam
 aliases:
 - Presiden Soeharto Lanjutkan Konsultasi Dengan Partai-Partai Islam
@@ -38,16 +38,17 @@ tags:
 - syarifudin-siregar
 - umat-islam
 - wartomo-dwijojuwono
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-06-presiden-soeharto-lanjutkan-konsultasi-dengan-partai-partai-islam/
   judul: 1969-08-06 Presiden Soeharto Lanjutkan Konsultasi Dengan Partai-Partai Islam
   tanggal: '1969-08-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-06-presiden-soeharto-lanjutkan-konsultasi-dengan-partai-partai-islam/
 ---
 

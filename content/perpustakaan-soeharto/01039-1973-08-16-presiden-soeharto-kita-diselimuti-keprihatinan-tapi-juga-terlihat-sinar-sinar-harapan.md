@@ -5,9 +5,9 @@ description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1973-08-16-presiden-soeharto-kita-diselimuti-keprihatinan-tapi-juga-terlihat-sinar-sinar-harapan/respond)
   103 Views...
 date: '1973-08-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-08-16-presiden-soeharto-kita-diselimuti-keprihatinan-tapi-juga-terlihat-sinar-sinar-harapan
 aliases:
 - 'Presiden Soeharto: Kita Diselimuti Keprihatinan, Tapi Juga Terlihat Sinar-Sinar
@@ -22,17 +22,18 @@ tags:
 - presiden-soeharto
 - repelita-i
 - sidang-pleno-terbuka
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-08-16-presiden-soeharto-kita-diselimuti-keprihatinan-tapi-juga-terlihat-sinar-sinar-harapan/
   judul: '1973-08-16 Presiden Soeharto: Kita Diselimuti Keprihatinan, Tapi Juga Terlihat
     Sinar-Sinar Harapan'
   tanggal: '1973-08-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-08-16-presiden-soeharto-kita-diselimuti-keprihatinan-tapi-juga-terlihat-sinar-sinar-harapan/
 ---
 

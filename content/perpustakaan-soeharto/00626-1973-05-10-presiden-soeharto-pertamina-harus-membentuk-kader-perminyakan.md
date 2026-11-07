@@ -4,9 +4,9 @@ description: KAMIS, 10 Mei 1973, Pagi ini Presiden Soeharto bersama Ibu Tien mer
   penambangan minyak di Jatibarang, Jawa Barat, yang merupakan salah satu penemuan
   Pertamina. Dalam sambutannya, Kepala Negara memuji ketrampilan Pertamina yang...
 date: '1973-05-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-05-10-presiden-soeharto-pertamina-harus-membentuk-kader-perminyakan
 aliases:
 - 'Presiden Soeharto: Pertamina Harus Membentuk Kader Perminyakan'
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - pertamina
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-10-presiden-soeharto-pertamina-harus-membentuk-kader-perminyakan/
   judul: '1973-05-10 Presiden Soeharto: Pertamina Harus Membentuk Kader Perminyakan'
   tanggal: '1973-05-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-05-10-presiden-soeharto-pertamina-harus-membentuk-kader-perminyakan/
 ---
 

@@ -4,9 +4,9 @@ description: KAMIS, 7 April 1977, Pagi ini di Bina Graha, Soeharto menerima kunj
   kehormatan delegasi Parlemen Mesir yang diketahui oleh Sayid Mar’i. Ketua DPR Idham
   Chalid turut pula mendampingi delegasi Mesir dalam pertemuan tersebut. Selesai...
 date: '1977-04-07'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1977-04-07-presiden-soeharto-menerima-delegasi-parlemen-mesir
 aliases:
 - Presiden Soeharto Menerima Delegasi Parlemen Mesir
@@ -21,16 +21,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - timur-tengah
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-04-07-presiden-soeharto-menerima-delegasi-parlemen-mesir/
   judul: 1977-04-07 Presiden Soeharto Menerima Delegasi Parlemen Mesir
   tanggal: '1977-04-07'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1977-04-07-presiden-soeharto-menerima-delegasi-parlemen-mesir/
 ---
 

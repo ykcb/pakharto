@@ -4,9 +4,9 @@ description: Sejak pertemuan itu, saya memperoleh kesempatan untuk secara period
   berdialog dengan Pak Harto dan dengan demikian, mendengar sendiri dari dekat pemikiran-pemikiran
   beliau. Ternyata bahwa Pak Harto yang saya kenal sejak tahun 1950...
 date: '2014-03-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-4
 aliases:
 - 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 4) – HM Soeharto'
@@ -17,16 +17,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-4/
   judul: 'BJ. Habibie: Pak Harto Menyatu dengan Aspirasi Bangsa (Bagian 4)'
   tanggal: '2014-03-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/bj-habibie-menyatu-dengan-aspirasi-bangsa-bagian-4/
 ---
 

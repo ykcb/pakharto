@@ -4,9 +4,9 @@ description: SENIN, 27 Juli 1970. Presiden mengakhiri kunjungannya di daerah Jaw
   Timur, setelah meninjau daerah Ponorogo, Pacitan, Blambangan, Banyuwangi dan proyek
   bendungan Selorejo. (AFR).
 date: '1970-07-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-07-27-presiden-soeharto-mengkahiri-kunjungan-ke-jatim
 aliases:
 - Presiden Soeharto Mengakhiri Kunjungan Ke Jatim
@@ -22,16 +22,17 @@ tags:
 - perpustakaan-soeharto
 - ponorogo
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-07-27-presiden-soeharto-mengkahiri-kunjungan-ke-jatim/
   judul: 1970-07-27 Presiden Soeharto Mengakhiri Kunjungan Ke Jatim
   tanggal: '1970-07-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-07-27-presiden-soeharto-mengkahiri-kunjungan-ke-jatim/
 ---
 

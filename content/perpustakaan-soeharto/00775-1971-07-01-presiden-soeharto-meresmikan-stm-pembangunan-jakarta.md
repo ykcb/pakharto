@@ -4,9 +4,9 @@ description: KAMIS, 01 Juli 1971. Dengan didampingi oleh Gubernur DKI Jakarta, A
   Sadikin, dan Menteri P dan K, Mashuri, Presiden Soeharto hari ini meresmikan sebuah
   STM Pembangunan di Jakarta. Dalam amanatnya pada peresmian itu, Jenderal Soeharto...
 date: '1971-07-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-07-01-presiden-soeharto-meresmikan-stm-pembangunan-jakarta
 aliases:
 - Presiden Soeharto Meresmikan STM Pembangunan Jakarta
@@ -20,16 +20,17 @@ tags:
 - presiden-soeharto
 - stm-pembangunan
 - teknologi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-07-01-presiden-soeharto-meresmikan-stm-pembangunan-jakarta/
   judul: 1971-07-01 Presiden Soeharto Meresmikan STM Pembangunan Jakarta
   tanggal: '1971-07-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-07-01-presiden-soeharto-meresmikan-stm-pembangunan-jakarta/
 ---
 

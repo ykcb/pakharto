@@ -4,9 +4,9 @@ description: Di saat demonstrasi mahasiswa mewarnai suasana Jakarta, di Istana M
   saya mengadakan dialog dengan Bung Karno. Itu menyambung pembicaraan mengenai situasi
   dan mengenai PKI. Saya berkeyakinan bahwa pikiran Bung Karno mengenai jalan...
 date: '2018-01-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: mikul-dhuwur-mendhem-jero
 aliases:
 - Mikul Dhuwur Mendhem Jero – HM Soeharto
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - soeharto
 - soekarno
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mikul-dhuwur-mendhem-jero/
   judul: Mikul Dhuwur Mendhem Jero
   tanggal: '2018-01-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/mikul-dhuwur-mendhem-jero/
 ---
 

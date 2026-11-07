@@ -5,9 +5,9 @@ description: SENIN, 10 APRIL 1972, Presiden Soeharto memperingatkan bahwa suatu 
   sosial terjadi apabila pembangunan tidak dapat dinikmati rakyat dan pembangunan
   itu hanya secara fisik saja yang terlihat gemerlapannya oleh rakyat. Hal ini...
 date: '1972-04-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-04-10-presiden-soeharto-revolusi-sosial-jika-pembangunan-tidak-dinikmati-rakyat
 aliases:
 - 'Presiden Soeharto: Revolusi Sosial Jika Pembangunan Tidak Dinikmati Rakyat'
@@ -20,17 +20,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - revolusi-sosial
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-04-10-presiden-soeharto-revolusi-sosial-jika-pembangunan-tidak-dinikmati-rakyat/
   judul: '1972-04-10 Presiden Soeharto: Revolusi Sosial Jika Pembangunan Tidak Dinikmati
     Rakyat'
   tanggal: '1972-04-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-04-10-presiden-soeharto-revolusi-sosial-jika-pembangunan-tidak-dinikmati-rakyat/
 ---
 

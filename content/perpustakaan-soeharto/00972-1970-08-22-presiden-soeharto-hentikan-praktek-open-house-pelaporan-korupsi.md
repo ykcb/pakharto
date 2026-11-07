@@ -5,9 +5,9 @@ description: SABTU, 22 AGUSTUS 1970, Presiden Soeharto menghentikan “praktek�
   korupsi. “Praktek” tersebut dihentikan, sebab selama ini mereka-mereka yang datang
   ke...
 date: '1970-08-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-08-22-presiden-soeharto-hentikan-praktek-open-house-pelaporan-korupsi
 aliases:
 - Presiden Soeharto Hentikan “Praktek” (Open House) Pelaporan Korupsi
@@ -20,16 +20,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-08-22-presiden-soeharto-hentikan-praktek-open-house-pelaporan-korupsi/
   judul: 1970-08-22 Presiden Soeharto Hentikan “Praktek” (Open House) Pelaporan Korupsi
   tanggal: '1970-08-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-08-22-presiden-soeharto-hentikan-praktek-open-house-pelaporan-korupsi/
 ---
 

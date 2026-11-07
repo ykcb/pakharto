@@ -4,9 +4,9 @@ description: 19 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1976-09-16-presiden-soeharto-bahas-harga-dasar-gabah-dan-pupuk/respond)
   134 Views Share on
 date: '1976-09-16'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-09-16-presiden-soeharto-bahas-harga-dasar-gabah-dan-pupuk
 aliases:
 - Presiden Soeharto Bahas Harga Dasar Gabah dan Pupuk
@@ -27,16 +27,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - pupuk
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-09-16-presiden-soeharto-bahas-harga-dasar-gabah-dan-pupuk/
   judul: 1976-09-16 Presiden Soeharto Bahas Harga Dasar Gabah dan Pupuk
   tanggal: '1976-09-16'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-09-16-presiden-soeharto-bahas-harga-dasar-gabah-dan-pupuk/
 ---
 

@@ -4,9 +4,9 @@ description: KAMIS, 6 APRIL 1972, Presiden Soeharto hari ini secara diam-diam te
   mengadakan peninjauan ke pelabuhan Tanjung Priok. Berlainan halnya dengan inspeksi-inspeksi
   sebelumnya, dalam peninjauan ini Presiden tidak menyertakan seorang...
 date: '1972-04-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-04-06-presiden-soeharto-diam-diam-kunjungi-pelabuhan-tanjung-priok
 aliases:
 - Presiden Soeharto Diam-Diam Kunjungi Pelabuhan Tanjung Priok
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tanjung-priok
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-04-06-presiden-soeharto-diam-diam-kunjungi-pelabuhan-tanjung-priok/
   judul: 1972-04-06 Presiden Soeharto Diam-Diam Kunjungi Pelabuhan Tanjung Priok
   tanggal: '1972-04-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-04-06-presiden-soeharto-diam-diam-kunjungi-pelabuhan-tanjung-priok/
 ---
 

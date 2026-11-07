@@ -5,9 +5,9 @@ description: Sabtu, 28 Juni 1969, Presiden dan Ibu Tien Soeharto sore ini menyam
   kedatangan PM India, Nyonya Indira Gandhi, di lapangan udara kemayoran, Jakarta.
   Dalam pidato sambutannya, Presiden mengemukakan bahwa Nyonya Indira Gandhi dan...
 date: '1969-06-28'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-06-28-presiden-dan-ibu-tien-soeharto-menyambut-pm-india-nyonya-indira-gandi
 aliases:
 - Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira Gandi
@@ -23,17 +23,18 @@ tags:
 - pm-india
 - politik-luar-negeri
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-28-presiden-dan-ibu-tien-soeharto-menyambut-pm-india-nyonya-indira-gandi/
   judul: 1969-06-28  Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira
     Gandi
   tanggal: '1969-06-28'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-06-28-presiden-dan-ibu-tien-soeharto-menyambut-pm-india-nyonya-indira-gandi/
 ---
 

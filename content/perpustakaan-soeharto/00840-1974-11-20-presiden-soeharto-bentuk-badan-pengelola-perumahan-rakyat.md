@@ -4,9 +4,9 @@ description: SABTU, 20 Juli 1974 , Sejalan dengan keinginan pemerintah untuk men
   rumah murah bagi pegawai negeri dan masyarakat umum, hari ini Presiden Soeharto
   membentuk tiga buah badan yang bertugas mengelola masalah perumahan rakyat....
 date: '1974-11-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-11-20-presiden-soeharto-bentuk-badan-pengelola-perumahan-rakyat
 aliases:
 - Presiden Soeharto Bentuk Badan Pengelola Perumahan Rakyat
@@ -23,16 +23,17 @@ tags:
 - perumahan-rakyat
 - presiden-soeharto
 - rachmat-saleh
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-11-20-presiden-soeharto-bentuk-badan-pengelola-perumahan-rakyat/
   judul: 1974-11-20 Presiden Soeharto Bentuk Badan Pengelola Perumahan Rakyat
   tanggal: '1974-11-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-11-20-presiden-soeharto-bentuk-badan-pengelola-perumahan-rakyat/
 ---
 

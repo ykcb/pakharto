@@ -4,9 +4,9 @@ description: JUM’AT, 20 Maret 1970, Presiden Soeharto mengadakan pembicaraan r
   dengan PM Thanom Kittikachorn. Kedua pemimpin membahas situasi keamanan di Asia
   Tenggara, dan menegaskan kembali keinginan untuk mengadakan kerjasama regional yang...
 date: '1970-03-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-03-20-pembicaraan-resmi-presiden-soeharto-pm-thanom-kittikachorn
 aliases:
 - Pembicaraan Resmi Presiden Soeharto-PM Thanom Kittikachorn
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - pm-thanom-kittikachorn
 - tenggara
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-03-20-pembicaraan-resmi-presiden-soeharto-pm-thanom-kittikachorn/
   judul: 1970-03-20 Pembicaraan Resmi Presiden Soeharto-PM Thanom Kittikachorn
   tanggal: '1970-03-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-03-20-pembicaraan-resmi-presiden-soeharto-pm-thanom-kittikachorn/
 ---
 

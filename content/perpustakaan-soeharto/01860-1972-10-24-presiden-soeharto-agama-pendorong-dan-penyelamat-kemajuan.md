@@ -4,9 +4,9 @@ description: 10 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1972-10-24-presiden-soeharto-agama-pendorong-dan-penyelamat-kemajuan/respond)
   81 Views Share on
 date: '1972-10-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-10-24-presiden-soeharto-agama-pendorong-dan-penyelamat-kemajuan
 aliases:
 - 'Presiden Soeharto: Agama Pendorong dan Penyelamat Kemajuan'
@@ -17,16 +17,17 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-10-24-presiden-soeharto-agama-pendorong-dan-penyelamat-kemajuan/
   judul: '1972-10-24 Presiden Soeharto: Agama Pendorong dan Penyelamat Kemajuan'
   tanggal: '1972-10-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-10-24-presiden-soeharto-agama-pendorong-dan-penyelamat-kemajuan/
 ---
 

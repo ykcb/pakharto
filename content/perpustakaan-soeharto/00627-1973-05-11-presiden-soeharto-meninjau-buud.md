@@ -4,9 +4,9 @@ description: JUM’AT, 11 Mei 1973, Setelah berada di Jawa Tengah sejak kemarin,
   ini selama empat jam Presiden Soeharto meninjau perkembangan BUUD (Badan Usaha Unit
   Desa) di daerah-daerah sekitar Surakarta dan Yogyakarta. Dalam peninjauan ini...
 date: '1973-05-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-05-11-presiden-soeharto-meninjau-buud
 aliases:
 - Presiden Soeharto Meninjau BUUD Surakarta & Yogyakarta
@@ -18,16 +18,17 @@ tags:
 - presiden-soeharto
 - surakarta
 - yogyakarta
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-11-presiden-soeharto-meninjau-buud/
   judul: 1973-05-11 Presiden Soeharto Meninjau BUUD Surakarta & Yogyakarta
   tanggal: '1973-05-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-05-11-presiden-soeharto-meninjau-buud/
 ---
 

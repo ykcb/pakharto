@@ -4,9 +4,9 @@ description: 14 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1974-10-11-presiden-soeharto-bahas-proyek-lng-kalimantan-timur-dan-aceh/respond)
   64 Views Share on
 date: '1974-10-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-10-11-presiden-soeharto-bahas-proyek-lng-kalimantan-timur-dan-aceh
 aliases:
 - Presiden Soeharto Bahas Proyek LNG Kalimantan Timur dan Aceh
@@ -14,16 +14,17 @@ aliases:
 tags:
 - orde-baru
 - perpustakaan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-10-11-presiden-soeharto-bahas-proyek-lng-kalimantan-timur-dan-aceh/
   judul: 1974-10-11 Presiden Soeharto Bahas Proyek LNG Kalimantan Timur dan Aceh
   tanggal: '1974-10-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-10-11-presiden-soeharto-bahas-proyek-lng-kalimantan-timur-dan-aceh/
 ---
 

@@ -4,9 +4,9 @@ description: Pembangunan merupakan salah satu cara mengisi kemerdekaan. Sejak di
   sebagai Pejabat Presidan dan akhirnya terpilih kembali sebagai Presiden selama beberapa
   periode, Presiden Soeharto sangat gigih melakukan pembangunan di segala...
 date: '2013-03-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-resmikan-19-pabrik-di-tangerang
 aliases:
 - Presiden Soeharto Resmikan 19 Pabrik di Tangerang – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - presiden
 - soeharto
 - tangerang
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-resmikan-19-pabrik-di-tangerang/
   judul: Presiden Soeharto Resmikan 19 Pabrik di Tangerang
   tanggal: '2013-03-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-resmikan-19-pabrik-di-tangerang/
 ---
 

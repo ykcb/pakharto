@@ -4,9 +4,9 @@ description: SABTU, 15 JUNI 1968, Presiden Soeharto sore ini membuka Jakarta Fai
   1968 yang diadakan dalam rangka ulang tahun kota Jakarta ke-441, bertempat di Lapangan
   Monas. Dalam sambutannya, Presiden Soeharto mengatakan Jakarta Fair harus...
 date: '1968-06-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-06-15-presiden-soeharto-membuka-jakarta-fair
 aliases:
 - Presiden Soeharto Membuka Jakarta Fair
@@ -22,16 +22,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - ulang-tahun
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-06-15-presiden-soeharto-membuka-jakarta-fair/
   judul: 1968-06-15 Presiden Soeharto Membuka Jakarta Fair
   tanggal: '1968-06-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-06-15-presiden-soeharto-membuka-jakarta-fair/
 ---
 

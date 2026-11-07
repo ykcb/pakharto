@@ -4,9 +4,9 @@ description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam/respond)
   87 Views Share on
 date: '1979-09-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam
 aliases:
 - Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam
@@ -19,16 +19,17 @@ tags:
 - polkam
 - presiden-soeharto
 - sidang-kabinet
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam/
   judul: 1979-09-19 Presiden Soeharto Pimpin Sidang Kabinet Terbatas Bidang Polkam
   tanggal: '1979-09-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1979-09-19-presiden-soeharto-pimpin-sidang-kabinet-terbatas-bidang-polkam/
 ---
 

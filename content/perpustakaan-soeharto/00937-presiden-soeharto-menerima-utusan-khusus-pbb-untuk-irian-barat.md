@@ -4,9 +4,9 @@ description: SELASA, 12 AGUSTUS 1969, Utusan khusus Sekretaris Jenderal PBB untu
   Irian Barat, Duta Besar Fernandez Ortiz Sanz dari Bolivia, pagi ini mengadakan kunjungan
   kehormatan kepada Presiden Soeharto di Istana Merdeka. Ortiz Sanz sebelumnya...
 date: '2017-08-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-menerima-utusan-khusus-pbb-untuk-irian-barat
 aliases:
 - Presiden Soeharto Menerima Utusan Khusus PBB Untuk Irian Barat – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - utusan-khusus-pbb
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-menerima-utusan-khusus-pbb-untuk-irian-barat/
   judul: Presiden Soeharto Menerima Utusan Khusus PBB Untuk Irian Barat
   tanggal: '2017-08-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-menerima-utusan-khusus-pbb-untuk-irian-barat/
 ---
 

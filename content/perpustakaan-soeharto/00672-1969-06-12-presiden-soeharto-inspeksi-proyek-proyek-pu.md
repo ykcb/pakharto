@@ -4,9 +4,9 @@ description: KAMIS, 12 JUNI 1969, Presiden Soeharto hari ini mengadakan inspeksi
   proyek-proyek Departemen Pekerjaan Umum di Pejompongan (Jakarta), dan Jawa Barat
   (Bekasi, Pamanukan, dan Jatiluhur). Di Jakarta, Presiden meresmikan proyek air minum...
 date: '1969-06-12'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1969-06-12-presiden-soeharto-inspeksi-proyek-proyek-pu
 aliases:
 - Presiden Soeharto Inspeksi Proyek-Proyek PU
@@ -24,16 +24,17 @@ tags:
 - pekerjaan-umum
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-12-presiden-soeharto-inspeksi-proyek-proyek-pu/
   judul: 1969-06-12 Presiden Soeharto Inspeksi Proyek-Proyek PU
   tanggal: '1969-06-12'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1969-06-12-presiden-soeharto-inspeksi-proyek-proyek-pu/
 ---
 

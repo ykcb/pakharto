@@ -5,9 +5,9 @@ description: JUM’AT, 22 MEI 1970, Hari ini, Presiden Soeharto membuka konferen
   menteri mengenai Pembangunan Ekonomi Asia Tenggara ke-5 di Hotel Indonesia, Jakarta.
   Kepada para delegasi, Presiden Soeharto mengamanatkan agar memperhatikan...
 date: '1975-05-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-05-22-presiden-soeharto-tidak-ada-negara-mampu-penuhi-semua-kebutuhannya-sendiri
 aliases:
 - 'Presiden Soeharto: Tidak Ada Negara Mampu Penuhi Semua Kebutuhannya Sendiri'
@@ -20,17 +20,18 @@ tags:
 - pembangunan-ekonomi
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-05-22-presiden-soeharto-tidak-ada-negara-mampu-penuhi-semua-kebutuhannya-sendiri/
   judul: '1975-05-22 Presiden Soeharto: Tidak Ada Negara Mampu Penuhi Semua Kebutuhannya
     Sendiri'
   tanggal: '1975-05-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-05-22-presiden-soeharto-tidak-ada-negara-mampu-penuhi-semua-kebutuhannya-sendiri/
 ---
 

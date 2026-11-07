@@ -4,9 +4,9 @@ description: SENIN, 1 JULI 1974, Dalam tahun anggaran 1974/1975, pemerintah akan
   57.485 pegawai negeri baru. Dari jumlah tersebut, tercatat 20.500 orang sebagai
   pegawai tambahan, 15.000 orang untuk menggantikan pegawai yang pensiun,...
 date: '1974-07-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: presiden-soeharto-instruksikan-realisasi-industri-kimia-pencelupan
 aliases:
 - Presiden Soeharto Instruksikan Realisasi Industri Kimia (Pencelupan)
@@ -22,16 +22,17 @@ tags:
 - perpustakaan-soeharto
 - pns
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-instruksikan-realisasi-industri-kimia-pencelupan/
   judul: 1974-07-01 Presiden Soeharto Instruksikan Realisasi Industri Kimia (Pencelupan)
   tanggal: '1974-07-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/presiden-soeharto-instruksikan-realisasi-industri-kimia-pencelupan/
 ---
 

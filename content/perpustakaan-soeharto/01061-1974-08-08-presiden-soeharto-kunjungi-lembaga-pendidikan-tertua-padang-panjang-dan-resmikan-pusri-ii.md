@@ -5,9 +5,9 @@ description: 25 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1974-08-08-presiden-soeharto-kunjungi-lembaga-pendidikan-tertua-padang-panjang-dan-resmikan-pusri-ii/respond)
   106 Views...
 date: '1974-08-08'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-08-08-presiden-soeharto-kunjungi-lembaga-pendidikan-tertua-padang-panjang-dan-resmikan-pusri-ii
 aliases:
 - Presiden Soeharto Kunjungi Lembaga Pendidikan Tertua Padang Panjang dan Resmikan
@@ -24,17 +24,18 @@ tags:
 - presiden-soeharto
 - pusri-ii
 - pusri-iii
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-08-08-presiden-soeharto-kunjungi-lembaga-pendidikan-tertua-padang-panjang-dan-resmikan-pusri-ii/
   judul: 1974-08-08 Presiden Soeharto Kunjungi Lembaga Pendidikan Tertua Padang Panjang
     dan Resmikan Pusri II
   tanggal: '1974-08-08'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-08-08-presiden-soeharto-kunjungi-lembaga-pendidikan-tertua-padang-panjang-dan-resmikan-pusri-ii/
 ---
 

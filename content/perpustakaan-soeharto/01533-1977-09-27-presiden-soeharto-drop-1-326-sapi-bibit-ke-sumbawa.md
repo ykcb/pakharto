@@ -4,9 +4,9 @@ description: 22 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1977-09-27-presiden-soeharto-drop-1-326-sapi-bibit-ke-sumbawa/respond)
   177 Views Share on
 date: '1977-09-27'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1977-09-27-presiden-soeharto-drop-1-326-sapi-bibit-ke-sumbawa
 aliases:
 - Presiden Soeharto Drop 1.326 Sapi Bibit Ke Sumbawa
@@ -19,16 +19,17 @@ tags:
 - sapi-bibit
 - sumbawa
 - wasita-kusumah
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-09-27-presiden-soeharto-drop-1-326-sapi-bibit-ke-sumbawa/
   judul: 1977-09-27 Presiden Soeharto Drop 1.326 Sapi Bibit Ke Sumbawa
   tanggal: '1977-09-27'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1977-09-27-presiden-soeharto-drop-1-326-sapi-bibit-ke-sumbawa/
 ---
 

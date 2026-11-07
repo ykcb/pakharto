@@ -4,9 +4,9 @@ description: SABTU, 19 Mei 1973, Pukul 09.00 pagi ini Presiden Soeharto menerima
   Pimpinan Harian HKTI di Bina Graha. Kepada mereka Kepala Negara menjelaskan kembali
   usaha-usaha pemerintah untuk meningkatkan dan memperluas peranan BUUD sebagai...
 date: '1973-05-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-05-19-presiden-soeharto-pertanian-mendukung-dan-membina-perindustrian
 aliases:
 - 'Presiden Soeharto: Pertanian Mendukung dan Membina Perindustrian'
@@ -18,16 +18,17 @@ tags:
 - perpustakaan-soeharto
 - pertanian
 - presiden-soeharto-hkti
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-19-presiden-soeharto-pertanian-mendukung-dan-membina-perindustrian/
   judul: '1973-05-19 Presiden Soeharto: Pertanian Mendukung dan Membina Perindustrian'
   tanggal: '1973-05-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-05-19-presiden-soeharto-pertanian-mendukung-dan-membina-perindustrian/
 ---
 

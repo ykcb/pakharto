@@ -4,9 +4,9 @@ description: SABTU, 17 Juli 1976 Pada jam 10.00 pagi ini, bertempat di Bina Grah
   Presiden Soeharto menandatangani Undang-undang No. 7 Tahun 1976 tentang pengesahan
   Timor-Timur kedalam Republik Indonesia dan pembentukan Provinsi Daerah Tingkat I...
 date: '1976-07-17'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1976-07-17-presiden-soeharto-sahkan-penyatuan-timor-timur
 aliases:
 - Presiden Soeharto Sahkan Penyatuan Timor-Timur
@@ -28,16 +28,17 @@ tags:
 - presiden-soeharto
 - sudharmono
 - timor-timur
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1976-07-17-presiden-soeharto-sahkan-penyatuan-timor-timur/
   judul: 1976-07-17 Presiden Soeharto Sahkan Penyatuan Timor-Timur
   tanggal: '1976-07-17'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1976-07-17-presiden-soeharto-sahkan-penyatuan-timor-timur/
 ---
 

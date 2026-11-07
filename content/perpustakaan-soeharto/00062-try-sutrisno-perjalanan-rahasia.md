@@ -4,9 +4,9 @@ description: Pak Harto dikenal sebagai pemimpin yang selalu memperhatikan keadaa
   bawahannya bahkan sampai pada hal-hal kecil. Pak Harto selalu dapat bersikap tenang
   namun penuh perhitungan. Pak Harto juga senantiasa mengambil keputusan dengan...
 date: '2013-10-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: try-sutrisno-perjalanan-rahasia
 aliases:
 - 'Try Sutrisno: Perjalanan Rahasia Pak Harto – HM Soeharto'
@@ -20,16 +20,17 @@ tags:
 - perpustakaan-soeharto
 - rahasia
 - try-sutrisno
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/try-sutrisno-perjalanan-rahasia/
   judul: 'Try Sutrisno: Perjalanan Rahasia Pak Harto'
   tanggal: '2013-10-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/try-sutrisno-perjalanan-rahasia/
 ---
 

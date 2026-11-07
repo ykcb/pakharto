@@ -4,9 +4,9 @@ description: Para guru spiritual dan orang-orang yang dituakan dalam lingkungan 
   Pak Harto tumbuh pada masa kanak-kanak dan remaja, dapat dipastikan memiliki peran
   penting dalam membentuk visi kenusantaraan. Sebagaimana kelaziman kultur...
 date: '2013-04-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: memahami-falsafaf-hidup-pak-harto-3
 aliases:
 - Memahami Falsafah Hidup Pak Harto (3) – HM Soeharto
@@ -17,16 +17,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-ri
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/memahami-falsafaf-hidup-pak-harto-3/
   judul: Memahami Falsafah Hidup Pak Harto (3)
   tanggal: '2013-04-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/memahami-falsafaf-hidup-pak-harto-3/
 ---
 

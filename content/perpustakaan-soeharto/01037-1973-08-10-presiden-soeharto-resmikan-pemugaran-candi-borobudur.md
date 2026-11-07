@@ -4,9 +4,9 @@ description: 21 Agustus 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1973-08-10-presiden-soeharto-resmikan-pemugaran-candi-borobudur/respond)
   85 Views Share on
 date: '1973-08-10'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-08-10-presiden-soeharto-resmikan-pemugaran-candi-borobudur
 aliases:
 - Presiden Soeharto Resmikan Pemugaran Candi Borobudur
@@ -28,16 +28,17 @@ tags:
 - presiden-soeharto
 - republik-federasi-jerman
 - singapura
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-08-10-presiden-soeharto-resmikan-pemugaran-candi-borobudur/
   judul: 1973-08-10 Presiden Soeharto Resmikan Pemugaran Candi Borobudur
   tanggal: '1973-08-10'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-08-10-presiden-soeharto-resmikan-pemugaran-candi-borobudur/
 ---
 

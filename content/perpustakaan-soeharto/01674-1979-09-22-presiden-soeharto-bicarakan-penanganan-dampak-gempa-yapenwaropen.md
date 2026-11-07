@@ -4,9 +4,9 @@ description: 30 September 2013 [Soeharto Library](https://soehartolibrary.id/aut
   [No Comment](https://soehartolibrary.id/1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen/respond)
   76 Views Share on
 date: '1979-09-22'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen
 aliases:
 - Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen
@@ -21,16 +21,17 @@ tags:
 - rumbia
 - sutran
 - yapenwaropen
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen/
   judul: 1979-09-22 Presiden Soeharto Bicarakan Penanganan Dampak Gempa Yapenwaropen
   tanggal: '1979-09-22'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1979-09-22-presiden-soeharto-bicarakan-penanganan-dampak-gempa-yapenwaropen/
 ---
 

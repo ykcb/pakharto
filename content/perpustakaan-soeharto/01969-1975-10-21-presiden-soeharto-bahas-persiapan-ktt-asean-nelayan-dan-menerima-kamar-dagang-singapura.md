@@ -5,9 +5,9 @@ description: 17 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/autho
   [No Comment](https://soehartolibrary.id/1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura/respond)
   94 Views...
 date: '1975-10-21'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura
 aliases:
 - Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima Kamar Dagang Singapura
@@ -24,17 +24,18 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - singapura
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura/
   judul: 1975-10-21 Presiden Soeharto Bahas Persiapan KTT ASEAN, Nelayan dan Menerima
     Kamar Dagang Singapura
   tanggal: '1975-10-21'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-10-21-presiden-soeharto-bahas-persiapan-ktt-asean-nelayan-dan-menerima-kamar-dagang-singapura/
 ---
 

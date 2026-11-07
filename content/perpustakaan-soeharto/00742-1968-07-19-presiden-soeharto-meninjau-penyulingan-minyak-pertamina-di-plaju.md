@@ -4,9 +4,9 @@ description: JUM’AT, 19 Juli 1968, Presiden Soeharto pagi ini mengadakan penin
   ke penyulingan minyak Pertamina di Plaju. Kepada karyawan Pertamina, Presiden mengharapkan
   agar hendaknya mereka selalu ingat bahwa masih banyak masyarakat di luar...
 date: '1968-07-19'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1968-07-19-presiden-soeharto-meninjau-penyulingan-minyak-pertamina-di-plaju
 aliases:
 - Presiden Soeharto Meninjau Penyulingan Minyak Pertamina di Plaju
@@ -26,16 +26,17 @@ tags:
 - presiden-soeharto
 - shoalt-jumat
 - umat-islam
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-07-19-presiden-soeharto-meninjau-penyulingan-minyak-pertamina-di-plaju/
   judul: 1968-07-19 Presiden Soeharto Meninjau Penyulingan Minyak Pertamina di Plaju
   tanggal: '1968-07-19'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1968-07-19-presiden-soeharto-meninjau-penyulingan-minyak-pertamina-di-plaju/
 ---
 

@@ -4,9 +4,9 @@ description: KAMIS, 2 Maret 1972, Ketika menerima Menteri Pertanian yang menyert
   para peternak yang terhimpun dalam Perhimpunan Pengusaha Ternak Indonesia, Presiden
   telah menginstruksikan agar dipelajari secara mendalam apakah target produksi...
 date: '1972-03-02'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah
 aliases:
 - Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah
@@ -22,16 +22,17 @@ tags:
 - sar
 - soeharto
 - usaha
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah/
   judul: 1972-03-02 Presiden Soeharto Mencabut Sumbangan Wajib Izin Usaha di Daerah
   tanggal: '1972-03-02'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah/
 ---
 

@@ -4,9 +4,9 @@ description: SABTU, 9 April 1977, Pagi ini Presiden Soeharto telah menyaksikan p
   visual perkembangan Badan Tenaga Kerja Atom Nasional (Batan) di Bina Graha. Sebelum
   pameran visual dimulai, Direktur Jenderal Batan Prof. Dr. A. Baiquni,...
 date: '1977-04-09'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1977-04-09-presiden-soeharto-menyaksikan-pameran-visual-batan
 aliases:
 - Presiden Soeharto Menyaksikan Pameran Visual BATAN
@@ -22,16 +22,17 @@ tags:
 - presiden-soeharto
 - tarif
 - tenaga-atom
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1977-04-09-presiden-soeharto-menyaksikan-pameran-visual-batan/
   judul: 1977-04-09 Presiden Soeharto Menyaksikan Pameran Visual BATAN
   tanggal: '1977-04-09'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1977-04-09-presiden-soeharto-menyaksikan-pameran-visual-batan/
 ---
 

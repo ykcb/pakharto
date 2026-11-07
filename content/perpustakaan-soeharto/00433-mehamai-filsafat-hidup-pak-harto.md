@@ -2,9 +2,9 @@
 title: Memahamai Falsafah Hidup Pak Harto (1)
 description: “Yen Arep Weruh Trahing Ngaluhur, Titiken Alusing Tingkah-Laku Budi Basane”[](ftn2)
 date: '2013-06-20'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: mehamai-filsafat-hidup-pak-harto
 aliases:
 - Memahamai Falsafah Hidup Pak Harto (1) – HM Soeharto
@@ -14,16 +14,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/mehamai-filsafat-hidup-pak-harto/
   judul: Memahamai Falsafah Hidup Pak Harto (1)
   tanggal: '2013-06-20'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/mehamai-filsafat-hidup-pak-harto/
 ---
 

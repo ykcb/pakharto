@@ -4,9 +4,9 @@ description: KAMIS, 11 Mei 1972, Presiden Soeharto mengadakan serangkaian pertem
   dengan beberapa menteri ekonomi Jepang siang ini. Tampak menemui Presiden Soeharto
   di Hotel Imperial antara lain adalah Menteri Perdagangan Internasional dan...
 date: '1972-05-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1972-05-11-presiden-soeharto-indonesia-hanya-bersedia-menerima-pinjaman-lunak
 aliases:
 - 'Presiden Soeharto: Indonesia Hanya Bersedia Menerima Pinjaman Lunak'
@@ -22,17 +22,18 @@ tags:
 - pampasan-perang
 - perpustakaan-soeharto
 - presidan-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-05-11-presiden-soeharto-indonesia-hanya-bersedia-menerima-pinjaman-lunak/
   judul: '1972-05-11 Presiden Soeharto: Indonesia Hanya Bersedia Menerima Pinjaman
     Lunak'
   tanggal: '1972-05-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1972-05-11-presiden-soeharto-indonesia-hanya-bersedia-menerima-pinjaman-lunak/
 ---
 

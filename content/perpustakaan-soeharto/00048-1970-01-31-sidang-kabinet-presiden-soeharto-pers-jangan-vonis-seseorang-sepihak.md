@@ -5,9 +5,9 @@ description: SABTU 31 JANUARI 1970, Dalam sidang kabinet lengkap pagi ini Presid
   Soeharto menggariskan agar pers tidak memvonis seseorang secara sepihak, sebab hal
   itu dapat memberikan gambaran yang keliru pada masyarakat. Namun Presiden...
 date: '1970-01-31'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-01-31-sidang-kabinet-presiden-soeharto-pers-jangan-vonis-seseorang-sepihak
 aliases:
 - 'Sidang Kabinet, Presiden Soeharto: Pers Jangan Vonis Seseorang Sepihak'
@@ -27,17 +27,18 @@ tags:
 - presiden-soeharto
 - repelita
 - tinggal-landas-2
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-01-31-sidang-kabinet-presiden-soeharto-pers-jangan-vonis-seseorang-sepihak/
   judul: '1970-01-31 Sidang Kabinet, Presiden Soeharto: Pers Jangan Vonis Seseorang
     Sepihak'
   tanggal: '1970-01-31'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-01-31-sidang-kabinet-presiden-soeharto-pers-jangan-vonis-seseorang-sepihak/
 ---
 

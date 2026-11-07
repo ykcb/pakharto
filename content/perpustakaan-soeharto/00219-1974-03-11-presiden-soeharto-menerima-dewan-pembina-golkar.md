@@ -4,9 +4,9 @@ description: SENIN, 11 Maret 1974, Presiden Soeharto selaku Pembina Utama Golkar
   siang hari menerima Dewan Pembina Golkar yang diketuai oleh Jenderal Maraden Pangabean.
   Dalam pertemuan telah dibicarakan masalah peningkatan partisipasi Golkar dalam...
 date: '1974-03-11'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1974-03-11-presiden-soeharto-menerima-dewan-pembina-golkar
 aliases:
 - Presiden Soeharto Menerima Dewan Pembina Golkar
@@ -18,16 +18,17 @@ tags:
 - pembangunan
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1974-03-11-presiden-soeharto-menerima-dewan-pembina-golkar/
   judul: 1974-03-11 Presiden Soeharto Menerima Dewan Pembina Golkar
   tanggal: '1974-03-11'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1974-03-11-presiden-soeharto-menerima-dewan-pembina-golkar/
 ---
 

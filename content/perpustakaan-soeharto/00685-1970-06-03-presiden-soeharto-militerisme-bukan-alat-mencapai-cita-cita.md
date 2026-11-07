@@ -4,9 +4,9 @@ description: Rabu, 3 Juni 1970, Pagi ini Presiden Soeharto dan rombongan tiba di
   Rombongan disambut oleh Menteri Luar Negeri Jepang, Kiichi Aichi, serta para pejabat
   Jepang lainnya. Sore harinya Presiden Soeharto dan rombongan meninjau Ekspo...
 date: '1970-06-03'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-06-03-presiden-soeharto-militerisme-bukan-alat-mencapai-cita-cita
 aliases:
 - 'Presiden Soeharto: Militerisme Bukan Alat Mencapai Cita-Cita'
@@ -19,16 +19,17 @@ tags:
 - osaka
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-06-03-presiden-soeharto-militerisme-bukan-alat-mencapai-cita-cita/
   judul: '1970-06-03 Presiden Soeharto: Militerisme Bukan Alat Mencapai Cita-Cita'
   tanggal: '1970-06-03'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-06-03-presiden-soeharto-militerisme-bukan-alat-mencapai-cita-cita/
 ---
 

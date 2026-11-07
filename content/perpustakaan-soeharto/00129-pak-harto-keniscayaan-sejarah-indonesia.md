@@ -4,9 +4,9 @@ description: BAGI kebanyakan generasi muda, apa yang terjadi sekitar 45 tahun la
   mungkin saja tidak banyak memberi arti. Sebabnya (tentu saja), sebagian besar generasi
   muda tidak merasakan getaran sejarah, saat detik-detik peralihan Orde Lama ke...
 date: '2013-02-24'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: pak-harto-keniscayaan-sejarah-indonesia
 aliases:
 - Pak Harto Keniscayaan Sejarah Indonesia – HM Soeharto
@@ -18,16 +18,17 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - sejarah
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/pak-harto-keniscayaan-sejarah-indonesia/
   judul: Pak Harto Keniscayaan Sejarah Indonesia
   tanggal: '2013-02-24'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/pak-harto-keniscayaan-sejarah-indonesia/
 ---
 

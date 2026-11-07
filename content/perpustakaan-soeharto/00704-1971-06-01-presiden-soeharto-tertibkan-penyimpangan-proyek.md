@@ -4,9 +4,9 @@ description: SELASA, 1 Juni 1971, Sehubungan dengan laporan Menteri Keuangan bah
   telah terjadi penyimpangan dalam lebih kurang 2.000 proyek pembangunan, maka Presiden
   hari ini menginstruksikan kepada Menteri Keuangan dan Ketua Bappenas untuk...
 date: '1971-06-01'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1971-06-01-presiden-soeharto-tertibkan-penyimpangan-proyek
 aliases:
 - Presiden Soeharto Tertibkan Penyimpangan Proyek
@@ -21,16 +21,17 @@ tags:
 - presiden-soeharto
 - proyek
 - sidang-kabinet
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1971-06-01-presiden-soeharto-tertibkan-penyimpangan-proyek/
   judul: 1971-06-01 Presiden Soeharto Tertibkan Penyimpangan Proyek
   tanggal: '1971-06-01'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1971-06-01-presiden-soeharto-tertibkan-penyimpangan-proyek/
 ---
 

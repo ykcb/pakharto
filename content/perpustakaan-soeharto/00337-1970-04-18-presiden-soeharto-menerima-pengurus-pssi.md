@@ -4,9 +4,9 @@ description: SABTU, 18 APRIL 1970, Di Istana Merdeka pukul 12 siang ini, Preside
   Soeharto menerima pengurus Persatuan Sepakbola Seluruh Indonesia (PSSI), yang dipimpin
   oleh ketuanya, Kosasih Purwanegara SH. Pengurus PSSI menghadap Presiden untuk...
 date: '1970-04-18'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-04-18-presiden-soeharto-menerima-pengurus-pssi
 aliases:
 - Presiden Soeharto Menerima Pengurus PSSI
@@ -17,16 +17,17 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - pssi
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-04-18-presiden-soeharto-menerima-pengurus-pssi/
   judul: 1970-04-18 Presiden Soeharto Menerima Pengurus PSSI
   tanggal: '1970-04-18'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-04-18-presiden-soeharto-menerima-pengurus-pssi/
 ---
 

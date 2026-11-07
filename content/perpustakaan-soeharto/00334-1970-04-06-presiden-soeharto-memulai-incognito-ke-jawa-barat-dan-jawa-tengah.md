@@ -4,9 +4,9 @@ description: SENIN, 6 APRIL 1970, Presiden memulai kunjungan incognito ke Jawa B
   dan Jawa Tengah. Kunjungan yang diadakan bertepatan dengan awal pelaksanaan tahun
   kedua Pelita I ini, merupakan inspeksi langsung Presiden Soeharto di daerah...
 date: '1970-04-06'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1970-04-06-presiden-soeharto-memulai-incognito-ke-jawa-barat-dan-jawa-tengah
 aliases:
 - Presiden Soeharto Memulai Incognito Ke Jawa Barat dan Jawa Tengah
@@ -21,16 +21,17 @@ tags:
 - pelita-i
 - perpustakaan-soeharto
 - presiden-soeharto
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1970-04-06-presiden-soeharto-memulai-incognito-ke-jawa-barat-dan-jawa-tengah/
   judul: 1970-04-06 Presiden Soeharto Memulai Incognito Ke Jawa Barat dan Jawa Tengah
   tanggal: '1970-04-06'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1970-04-06-presiden-soeharto-memulai-incognito-ke-jawa-barat-dan-jawa-tengah/
 ---
 

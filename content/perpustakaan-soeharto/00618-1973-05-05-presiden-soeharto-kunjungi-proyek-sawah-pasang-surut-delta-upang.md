@@ -4,9 +4,9 @@ description: SABTU, 5 Mei 1973, Presiden Soeharto malam ini di Palembang menjamu
   Menteri Tun Abdul Razak. Perdana Menteri Malaysia itu hari ini tiba di palembang
   untuk beristirahat dan akan kembali ke negerinya besok pagi. Kesempatan yang...
 date: '1973-05-05'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1973-05-05-presiden-soeharto-kunjungi-proyek-sawah-pasang-surut-delta-upang
 aliases:
 - Presiden Soeharto Kunjungi Proyek Sawah Pasang Surut Delta Upang
@@ -24,16 +24,17 @@ tags:
 - sawah
 - transmigrasi
 - tun-abdul-razak
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1973-05-05-presiden-soeharto-kunjungi-proyek-sawah-pasang-surut-delta-upang/
   judul: 1973-05-05 Presiden Soeharto Kunjungi Proyek Sawah Pasang Surut Delta Upang
   tanggal: '1973-05-05'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1973-05-05-presiden-soeharto-kunjungi-proyek-sawah-pasang-surut-delta-upang/
 ---
 

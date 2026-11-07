@@ -4,9 +4,9 @@ description: SELASA, 15 Juli 1975 Tepat pukul 10.00 pagi ini Presiden Soeharto m
   sidang Dewan Stabilisasi Ekonomi Nasional di Bina Graha. Sidang pagi ini antara
   lain mendengarkan penjelasan Menteri Negara Ekuin Widjoyo Nitisastro tentang...
 date: '1975-07-15'
-updated: '2026-11-04'
-last_updated: '2026-11-04'
-entity_type: topik
+updated: '2026-11-07'
+last_updated: '2026-11-07'
+entity_type: kliping
 entity_id: 1975-07-15-presiden-soeharto-buka-sidang-dewan-stabilisasi-ekonomi
 aliases:
 - Presiden Soeharto Buka Sidang Dewan Stabilisasi Ekonomi
@@ -30,16 +30,17 @@ tags:
 - waduk-wlingi
 - widjoyo-nitisastro
 - yugoslavia
-risiko_editorial: rendah
-status: ''
-confidence: high
+risiko_editorial: sedang
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1975-07-15-presiden-soeharto-buka-sidang-dewan-stabilisasi-ekonomi/
   judul: 1975-07-15 Presiden Soeharto Buka Sidang Dewan Stabilisasi Ekonomi
   tanggal: '1975-07-15'
 relasi:
-- predikat: terkait_dengan
-  objek: Soeharto
+- predikat: dokumen_tentang
+  objek: soeharto
   sumber: https://soehartolibrary.id/1975-07-15-presiden-soeharto-buka-sidang-dewan-stabilisasi-ekonomi/
 ---
 
