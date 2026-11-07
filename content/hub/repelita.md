@@ -37,7 +37,7 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-> **Ringkasan:** Repelita (Rencana Pembangunan Lima Tahun) adalah kerangka perencanaan pembangunan [[Orde Baru (1966–1998)|Orde Baru]]: enam rencana lima tahunan yang berjalan 1 April 1969 sampai terhenti oleh krisis 1997. Lima tahap pertama (1969–1994) menyelesaikan satu siklus pembangunan 25 tahun; Repelita VI (1994–1999) membuka siklus kedua (PJP II, 1994–2019) yang tidak selesai. Polanya bergeser dari pangan dan infrastruktur dasar, ke industrialisasi, lalu ke ekspor manufaktur — dengan swasembada beras 1984 sebagai capaian yang paling sering dikutip, dan ketergantungan pada minyak serta kesenjangan Jawa–luar Jawa sebagai kelemahan yang berulang di setiap tahap.
+> **Ringkasan:** Repelita (Rencana Pembangunan Lima Tahun) adalah kerangka perencanaan pembangunan [[hub/orde-baru|Orde Baru]]: enam rencana lima tahunan yang berjalan 1 April 1969 sampai terhenti oleh krisis 1997. Lima tahap pertama (1969–1994) menyelesaikan satu siklus pembangunan 25 tahun; Repelita VI (1994–1999) membuka siklus kedua (PJP II, 1994–2019) yang tidak selesai. Polanya bergeser dari pangan dan infrastruktur dasar, ke industrialisasi, lalu ke ekspor manufaktur — dengan swasembada beras 1984 sebagai capaian yang paling sering dikutip, dan ketergantungan pada minyak serta kesenjangan Jawa–luar Jawa sebagai kelemahan yang berulang di setiap tahap.
 
 ## Apa pelajaran yang bisa kita ambil darinya?
 
@@ -54,7 +54,7 @@ Di sisi lain, Repelita juga menunjukkan batas dari sebuah rencana: hampir setiap
 | **Repelita III** | 1 Apr 1979–31 Mar 1984 | Pemerataan hasil pembangunan; industri padat karya untuk ekspor | Industri berat (baja, pupuk, kimia); swasembada beras 1984 |
 | **Repelita IV** | 1 Apr 1984–31 Mar 1989 | Diversifikasi non-migas; industri manufaktur; lapangan kerja | Deregulasi perbankan (Pakjun 1983, Pakto 1988); swasembada beras dipertahankan |
 | **Repelita V** | 1 Apr 1989–31 Mar 1994 | Industri berorientasi ekspor; efisiensi dan daya saing | Liberalisasi dan deregulasi; ekspor manufaktur (tekstil, garmen, elektronik) |
-| **Repelita VI** | 1 Apr 1994–tidak selesai | SDM, pemerataan, awal PJP II (1994–2019) | Terhenti oleh krisis Asia 1997; [[Orde Baru (1966–1998)|Orde Baru]] berakhir 1998 |
+| **Repelita VI** | 1 Apr 1994–tidak selesai | SDM, pemerataan, awal PJP II (1994–2019) | Terhenti oleh krisis Asia 1997; [[hub/orde-baru|Orde Baru]] berakhir 1998 |
 
 Repelita dirancang di bawah arahan Widjojo Nitisastro, kepala Bappenas, mulai 1967, dan disahkan lewat Undang-Undang APBN tahun anggaran 1969/1970 pada 31 Maret 1969 — sehari sebelum Repelita I diresmikan [[Soeharto|Presiden Soeharto]] pada 1 April 1969. Kerangka acuannya adalah [[Glosarium Istilah Orde Baru#Trilogi Pembangunan|Trilogi Pembangunan]] — stabilitas, pertumbuhan, dan pemerataan — yang menjadi tolok ukur resmi setiap tahap.
 
@@ -87,4 +87,4 @@ Repelita dirancang di bawah arahan Widjojo Nitisastro, kepala Bappenas, mulai 19
 - "Rencana Pembangunan Lima Tahun", Wikipedia bahasa Indonesia — dipakai untuk verifikasi silang periode dan tanggal peluncuran: https://id.wikipedia.org/wiki/Rencana_Pembangunan_Lima_Tahun
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
 
-Lihat juga: [[Ekonomi Orde Baru]] · [[Orde Baru (1966–1998)|Orde Baru]] · [[Krisis Moneter dan Gerakan Reformasi 1998]]
+Lihat juga: [[Ekonomi Orde Baru]] · [[hub/orde-baru|Orde Baru]] · [[hub/krisis-dan-reformasi-1998|Krisis Moneter dan Gerakan Reformasi 1998]]
