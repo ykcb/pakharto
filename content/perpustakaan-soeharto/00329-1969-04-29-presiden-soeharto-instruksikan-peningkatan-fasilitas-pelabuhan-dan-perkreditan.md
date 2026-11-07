@@ -24,8 +24,8 @@ tags:
 - presiden-soeharto
 - pupuk
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-29-presiden-soeharto-instruksikan-peningkatan-fasilitas-pelabuhan-dan-perkreditan/

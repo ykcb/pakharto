@@ -21,8 +21,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga/

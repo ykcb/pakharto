@@ -23,8 +23,8 @@ tags:
 - sidang-kabinet
 - sumitro-djojohadikusumo
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-10-presiden-soeharto-melakukan-sidang-kabinet-terbatas/

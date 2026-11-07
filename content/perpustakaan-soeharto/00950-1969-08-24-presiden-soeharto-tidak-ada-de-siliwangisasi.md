@@ -1,5 +1,5 @@
 ---
-title: '1969-08-24 Presiden Soeharto: Tidak Ada  De-Siliwangisasi'
+title: '1969-08-24 Presiden Soeharto: Tidak Ada De-Siliwangisasi'
 description: MINGGU, 24 AGUSTUS 1969, Presiden Soeharto menegaskan bahwa ia tidak
   pernah mengeluarkan perintah untuk melakukan “de-Siliwangisasi” dalam tubuh slagorde
   AD. Pemberitaan mengenai hal itu dianggap Presiden sebagai suatu fitnah dan usaha...
@@ -22,8 +22,8 @@ tags:
 - siliwangi
 - tni-ad
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-24-presiden-soeharto-tidak-ada-de-siliwangisasi/

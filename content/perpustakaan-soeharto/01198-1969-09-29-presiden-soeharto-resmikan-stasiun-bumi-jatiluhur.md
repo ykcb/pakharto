@@ -17,8 +17,8 @@ tags:
 - presiden-soeharto
 - stasiun-bumi-jatiluhur
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-09-29-presiden-soeharto-resmikan-stasiun-bumi-jatiluhur/

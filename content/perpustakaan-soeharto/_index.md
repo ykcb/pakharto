@@ -23,7 +23,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00744-1967-07-01-presiden-soeharto-polisi-harus-bertindak-tegas-dan-adil-tanpa-pandang-bulu|Presiden Soeharto: Polisi Harus Bertindak Tegas Dan Adil Tanpa Pandang Bulu]]
 - [[perpustakaan-soeharto/00748-1967-07-08-presiden-soeharto-penurunan-bunga-bank|Presiden Soeharto Menyetujui Penurunan Bunga Bank]]
 
-## 1968 — 81 kliping
+## 1968 — 82 kliping
 - [[perpustakaan-soeharto/00135-1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang|Presiden Soeharto Kunjungan Resmi Ke Jepang]]
 - [[perpustakaan-soeharto/00136-1968-03-29-presiden-soeharto-menjamu-kaindaren-di-tokyo|Presiden Soeharto Menjamu Kaindaren di Tokyo]]
 - [[perpustakaan-soeharto/00137-1968-03-30-presiden-soeharto-menjamu-foreign-correspondents-club|Presiden Soeharto Menjamu Foreign Correspondents Club]]
@@ -33,6 +33,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00309-1968-04-08-presiden-soeharto-instruksikan-pengawasan-pekerja-wna|Presiden Soeharto Instruksikan Pengawasan Pekerja WNA]]
 - [[perpustakaan-soeharto/00310-presiden-soeharto-bertindak-sebagai-inspektur-upacara-hari-penerbangan-nasional|Presiden Soeharto Bertindak Sebagai Inspektur Upacara Hari Penerbangan]]
 - [[perpustakaan-soeharto/00311-1968-04-10-presiden-soeharto-memimpin-sidang-kabinet-lengkap|Presiden Soeharto Memimpin Sidang kabinet Lengkap]]
+- [[perpustakaan-soeharto/00312-1969-04-11-presiden-soeharto-menerima-delegasi-dagang-yugoslavia1|Presiden Soeharto Menerima Delegasi Dagang Yugoslavia]]
 - [[perpustakaan-soeharto/00315-1968-04-18-presiden-soeharto-bakukan-urutan-sila-sila-pancasila|Presiden Soeharto Bakukan Urutan Sila-Sila Pancasila]]
 - [[perpustakaan-soeharto/00316-1968-04-24-presiden-soeharto-naikkan-harga-bbm|Presiden Soeharto Naikkan Harga BBM]]
 - [[perpustakaan-soeharto/00522-1968-05-01-presiden-soeharto-selenggarakan-program-penghematan|Presiden Soeharto Selenggarakan Program Penghematan]]
@@ -107,7 +108,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01694-1968-10-30-presiden-soeharto-bahas-kemungkinan-tindakan-balasan-kepada-singapura|Presiden Soeharto Bahas Kemungkinan Tindakan Balasan Kepada Singapura]]
 
 
-## 1969 — 132 kliping
+## 1969 — 131 kliping
 - [[perpustakaan-soeharto/00012-1969-01-03-presiden-soeharto-larang-anggota-abri-main-judi|Presiden Soeharto Larang Anggota ABRI Main Judi]]
 - [[perpustakaan-soeharto/00013-1969-01-06-presiden-soeharto-menerima-pimpinan-organisasi-islam-asia-afrika|Presiden Soeharto Menerima Pimpinan Organisasi Islam Asia Afrika]]
 - [[perpustakaan-soeharto/00015-1969-01-08-sidang-kabinet-terbatas-presiden-soeharto-menerima-laporan-sejumlah-menteri|Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah]]
@@ -145,7 +146,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00318-1969-4-5-presiden-soeharto-menerima-duta-besar-prancis|Presiden Soeharto Menerima Duta Besar Prancis]]
 - [[perpustakaan-soeharto/00319-1969-04-7-presiden-soeharto-menerima-tiga-anggota-dprgr-asal-irian-barat|Presiden Soeharto Menerima Tiga Anggota DPRGR Asal Irian Barat]]
 - [[perpustakaan-soeharto/00320-1969-04-08-presiden-soeharto-perbaiki-perusahaan-perusahaan-negara|Presiden Soeharto Perbaiki Perusahaan-Perusahaan Negara]]
-- [[perpustakaan-soeharto/00312-1969-04-11-presiden-soeharto-menerima-delegasi-dagang-yugoslavia1|Presiden Soeharto Menerima Delegasi Dagang Yugoslavia]]
 - [[perpustakaan-soeharto/00321-1969-04-12-presiden-soeharto-menerima-52-dalang-wayang-purwa|Presiden Soeharto Menerima 52 Dalang Wayang Purwa]]
 - [[perpustakaan-soeharto/00322-1969-04-14-presiden-soeharto-menerima-buku-the-smiling-general|Presiden Soeharto Menerima Buku The Smiling General]]
 - [[perpustakaan-soeharto/00323-1969-04-15-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi|Presiden Soeharto Pimpin Sidang Sub Dewan Stabilisasi Ekonomi]]
@@ -184,7 +184,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00682-1969-06-28-presiden-dan-ibu-tien-soeharto-menyambut-pm-india-nyonya-indira-gandi|Presiden Dan Ibu Tien Soeharto Menyambut PM India Nyonya Indira]]
 - [[perpustakaan-soeharto/00745-1969-07-02-presiden-soeharto-pm-gandhi-umumkan-komunike-bersama|Presiden Soeharto-PM Gandhi Umumkan Komunike Bersama]]
 - [[perpustakaan-soeharto/00746-1969-07-03-presiden-soeharto-bantah-anak-emaskan-investor-asing|Presiden Soeharto Bantah Anak Emaskan Investor Asing]]
-- [[perpustakaan-soeharto/00756-1969-07-04-presiden-soeharto-persiapkan-pembicaraan-resmi-dengan-presiden-nixon|Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon]]
 - [[perpustakaan-soeharto/00747-1969-07-05-presiden-soeharto-peringatkan-soal-uang-hangus-pegawai-perbankan|Presiden Soeharto Peringatkan Soal “Uang Hangus” Pegawai Perbankan]]
 - [[perpustakaan-soeharto/00749-1969-07-10-presiden-soeharto-menerima-menlu-tunisia-dan-wartawan-jerman|Presiden Soeharto Menerima Menlu Tunisia dan Wartawan Jerman]]
 - [[perpustakaan-soeharto/00750-1969-07-12-presiden-soeharto-pemerintah-menempuh-jalan-baru-perkoperasian|Presiden Soeharto: Pemerintah Menempuh “Jalan Baru” Perkoperasian]]
@@ -192,6 +191,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00752-1969-07-17-presiden-soeharto-instruksikan-pembangunan-irian-barat|Presiden Soeharto Instruksikan Pembangunan Irian Barat]]
 - [[perpustakaan-soeharto/00753-1969-07-19-presiden-soeharto-stabilitas-ekonomi-indonesia-berpengaruh-terhadap-kestabilan-asia-tenggara|Presiden Soeharto: Stabilitas Ekonomi Indonesia Berpengaruh Terhadap Kestabilan Asia Tenggara]]
 - [[perpustakaan-soeharto/00755-1969-07-22-presiden-soeharto-pelanggaran-hukum-harus-ditindak|Presiden Soeharto: Segala Bentuk Pelanggaran Hukum Harus Ditindak]]
+- [[perpustakaan-soeharto/00756-1969-07-04-presiden-soeharto-persiapkan-pembicaraan-resmi-dengan-presiden-nixon|Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon]]
 - [[perpustakaan-soeharto/00757-1969-07-26-presiden-soeharto-wisuda-perwira-auri|Presiden Soeharto Wisuda Perwira AURI]]
 - [[perpustakaan-soeharto/00758-1969-07-27-presiden-soeharto-dan-presiden-nixon-kunjungi-jakarta-fair|Presiden Soeharto dan Presiden Nixon Kunjungi Jakarta Fair]]
 - [[perpustakaan-soeharto/00759-1969-07-29-presiden-soeharto-presiden-nixon-tidak-memaksa-indonesia-memasuki-pakta-militer|Presiden Soeharto: Presiden Nixon Tidak Memaksa Indonesia Memasuki Pakta Militer]]

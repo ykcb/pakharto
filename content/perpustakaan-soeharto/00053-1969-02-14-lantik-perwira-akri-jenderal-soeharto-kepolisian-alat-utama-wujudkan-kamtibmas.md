@@ -27,8 +27,8 @@ tags:
 - perpustakaan-soeharto
 - repelita
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-02-14-lantik-perwira-akri-jenderal-soeharto-kepolisian-alat-utama-wujudkan-kamtibmas/

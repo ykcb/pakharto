@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - transmigrasi
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-06-19-presiden-soeharto-dan-ibu-tien-meninjau-transmigrasi-ad-di-lampung/

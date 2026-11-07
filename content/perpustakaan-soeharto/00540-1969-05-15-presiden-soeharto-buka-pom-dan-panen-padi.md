@@ -23,8 +23,8 @@ tags:
 - perpustakaan-soeharto
 - pom
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-05-15-presiden-soeharto-buka-pom-dan-panen-padi/
@@ -34,6 +34,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1969-05-15-presiden-soeharto-buka-pom-dan-panen-padi/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1969-05-15-presiden-soeharto-buka-pom-dan-panen-padi/
+
 ---
 
 

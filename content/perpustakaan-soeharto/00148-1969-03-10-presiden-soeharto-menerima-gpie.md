@@ -20,8 +20,8 @@ tags:
 - presiden
 - soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-03-10-presiden-soeharto-menerima-gpie/
@@ -31,6 +31,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1969-03-10-presiden-soeharto-menerima-gpie/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1969-03-10-presiden-soeharto-menerima-gpie/
+
 ---
 
 

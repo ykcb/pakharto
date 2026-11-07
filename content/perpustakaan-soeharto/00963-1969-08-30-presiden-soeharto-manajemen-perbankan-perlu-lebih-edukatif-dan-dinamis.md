@@ -22,8 +22,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-08-30-presiden-soeharto-manajemen-perbankan-perlu-lebih-edukatif-dan-dinamis/
@@ -34,6 +34,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1969-08-30-presiden-soeharto-manajemen-perbankan-perlu-lebih-edukatif-dan-dinamis/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1969-08-30-presiden-soeharto-manajemen-perbankan-perlu-lebih-edukatif-dan-dinamis/
+
 ---
 
 

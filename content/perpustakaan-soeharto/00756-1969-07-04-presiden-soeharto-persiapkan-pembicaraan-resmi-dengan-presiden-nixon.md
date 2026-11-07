@@ -1,9 +1,9 @@
 ---
-title: 1969-07-04 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon
+title: '1969-07-24 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon'
 description: KAMIS, 24 Juli 1969. Presiden Soeharto memberikan petunjuk-petunjuk kepada
   beberapa menteri dan pejabat tinggi negara yang menurut rencana akan mengadakan
   pembicaraan resmi dengan rombongan Presiden Nixon. Para pejabat yang akan...
-date: '1969-07-04'
+date: '1969-07-24'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -39,14 +39,14 @@ tags:
 - suyono-darusman
 - widjojo-nitisastro
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-07-04-presiden-soeharto-persiapkan-pembicaraan-resmi-dengan-presiden-nixon/
   judul: 1969-07-04 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden
     Nixon
-  tanggal: '1969-07-04'
+  tanggal: '1969-07-24'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -54,7 +54,7 @@ relasi:
 ---
 
 
-# 1969-07-04 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon
+# 1969-07-24 Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon
 
 # Presiden Soeharto Persiapkan Pembicaraan Resmi dengan Presiden Nixon1
 

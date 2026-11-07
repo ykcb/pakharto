@@ -33,8 +33,8 @@ tags:
 - tinggal-landas-2
 - ucapan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-27-pesiden-soeharto-sampaikan-selamat-atas-terpilihnya-presiden-as-richard-nixon/

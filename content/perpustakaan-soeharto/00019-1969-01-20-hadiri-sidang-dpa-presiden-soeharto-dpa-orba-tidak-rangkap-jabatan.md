@@ -29,8 +29,8 @@ tags:
 - soksi
 - tinggal-landas-2
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan/
@@ -41,6 +41,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan/
+- predikat: menyebut
+  objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/1969-01-20-hadiri-sidang-dpa-presiden-soeharto-dpa-orba-tidak-rangkap-jabatan/
+
 ---
 
 

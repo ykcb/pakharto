@@ -32,8 +32,8 @@ tags:
 - tarbiyah
 - tinggal-landas-2
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat/

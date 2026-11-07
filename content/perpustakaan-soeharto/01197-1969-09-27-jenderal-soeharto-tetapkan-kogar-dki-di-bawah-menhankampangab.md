@@ -21,8 +21,8 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-09-27-jenderal-soeharto-tetapkan-kogar-dki-di-bawah-menhankampangab/

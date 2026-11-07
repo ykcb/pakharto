@@ -19,8 +19,8 @@ tags:
 - presiden-soeharto
 - the-smiling-general
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-04-14-presiden-soeharto-menerima-buku-the-smiling-general/

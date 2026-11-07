@@ -24,8 +24,8 @@ tags:
 - sabang
 - trans-sumatera
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-09-10-sidang-kabinet-setujui-pembangunan-jaringan-nusantara-microwave/
@@ -35,6 +35,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1969-09-10-sidang-kabinet-setujui-pembangunan-jaringan-nusantara-microwave/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1969-09-10-sidang-kabinet-setujui-pembangunan-jaringan-nusantara-microwave/
+
 ---
 
 
