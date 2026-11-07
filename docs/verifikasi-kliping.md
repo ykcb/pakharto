@@ -235,9 +235,55 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   sinkron H1 harus tahan fix judul-saja (tanpa kunci `date`) — sudah
   diperbaiki di skrip ini.
 
+### Batch 1972 (SELESAI, 7 Nov 2026, commit `3c23363f`, live)
+
+- **Pembaca: 5 subagen baca paralel** (18/18/17/17/16 artikel tiap
+  chunk), baca penuh dgn protokol pilot/batch 1971; rizky menggabungkan
+  putusan (tanpa fix, jadi tanpa verifikasi file tambahan).
+- **Hasil: 86 artikel; 86 `cross_checked`, 0 `needs_review`,
+  0 `disputed`.** Kumulatif Fase 1: **525 `cross_checked`,
+  17 `needs_review`.**
+- **Tanpa perbaikan date/title.** 1 selisih hari terselesaikan dgn
+  jangkar: 00727 (isi "SABTU, 05 Juni 1972" padahal 5 Jun 1972 =
+  Senin — hmsoeharto.id menulis entri yg sama "SENIN, 5 JUNI 1972";
+  Keppres 43/1972 ttg pengesahan itu ditetapkan 30 Mei 1972).
+  00733 (ekstra): nama file + entity_id berawalan "1972" padahal
+  peristiwa Hari Bhayangkara 1 Jul 1968 — FM date 1968-07-01 SUDAH
+  benar (isi "SENIN, 01 Juli 1968", 1 Jul 1968 memang Senin) dan
+  tautannya SUDAH di seksi 1968; tidak ada fix, tidak ada pemindahan
+  tautan. 00116 + 01370 + 01371 dibaca ulang (sudah cross_checked di
+  batch 1971) dan dikonfirmasi.
+- **9 relasi `menyebut` baru** (total 98): 8 ekonomi-orde-baru
+  (00187 SK 9/1972 cabut sumbangan wajib izin usaha daerah; 00195
+  prinsip bantuan LN IGGI; 00200 + 00201 arah/klarifikasi kebijakan
+  pelepasan ~50% saham perusahaan non-pribumi; 00202 pengaturan
+  PMA/PMDN pribumi-nonpribumi; 00360 komitmen IGGI US$723,4 juta;
+  00596 pinjaman Jepang US$200 juta + pinjaman lunak; 00600
+  kesepakatan minyak 58 juta kiloliter/10 tahun + pinjaman ¥62
+  milyar), 1 glosarium (Stabilitas Nasional di 01853, amanat HUT
+  ABRI ke-27).
+- **Indeks tidak berubah:** seksi 1972 = **85**; semua seksi cocok
+  header vs aktual, 0 tautan salah seksi.
+- **Spot-check terkonfirmasi:** pembajakan pesawat MNA 5 Apr 1972
+  (MZ-171, pembajakan pertama di Indonesia); kunjungan Jepang 9–13
+  Mei 1972 (PM Eisaku Sato, Kaisar Hirohito 12 Mei); IGGI 1972
+  (sidang pledging 25–26 Apr, komitmen ~US$724 juta; pinjaman Jepang
+  US$200 juta); kunjungan Nixon ke RRC 21–28 Feb 1972 (Shanghai
+  Communiqué 28 Feb); Bintang RI Kelas I ke Hatta 15 Agu 1972;
+  HUT RI ke-27 (ordinal benar); Museum Satria Mandala diresmikan
+  5 Okt 1972; PPP dideklarasikan 5 Jan 1973 (artikel Sep 1972 masih
+  menyebut KPP — nama file "ppp" anakronistis, tidak diganti);
+  pelantikan anggota MPR 1 Okt 1972; Idul Fitri 1 Syawal 1392H =
+  7 Nov 1972; Menlu AS William P. Rogers (1969–1973) + Menlu Inggris
+  Alec Douglas-Home; Sicco Mansholt Presiden Komisi Eropa
+  22 Mar 1972–5 Jan 1973.
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1972_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1972.py` + skrip gabung
+  `merge_batch1972.py` di folder yang sama.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1972 (85), 1973 (81), 1974 (82),
+- Urutan batch: 1973 (81), 1974 (82),
   1975 (88), 1976 (75), 1977 (31), 1978 (17), 1979 (15), 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca: 2 tanggal invalid
