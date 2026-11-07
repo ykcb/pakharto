@@ -870,8 +870,9 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   sendiri semua fix ke file aslinya.
 - **Hasil: 7 artikel; 7 `cross_checked`, 0 `needs_review`,
   0 `disputed`, 7 fix, 1 relasi `menyebut` baru** (00748 → ekonomi;
-  total 156, FTS 1.384). Kumulatif Fase 1: **924 `cross_checked`,
-  17 `needs_review`.**
+  total 156, FTS 1.384). Kumulatif Fase 1 (angka laporan saat itu,
+  sebelum koreksi — lihat "Koreksi kumulatif" di bawah): 924
+  `cross_checked`, 17 `needs_review`.**
 - **Temuan utama — day-mismatch 5/5 ternyata tahunnya yg salah,
   bukan harinya.** Kelima artikel ber-FM-date 1960/1967 itu
   sebenarnya peristiwa **1969**, dibuktikan isi sendiri: 00051
@@ -928,10 +929,104 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   (di VM, bukan repo); skrip terapan `apply_batch1949.py` + skrip gabung
   `merge_batch1949.py` di folder yang sama.
 
+### Koreksi kumulatif (7 Nov 2026, 13:15 WIB — diverifikasi user langsung ke file di server)
+
+- Hitungan kumulatif di laporan batch-batch sebelumnya (924
+  `cross_checked` sesudah batch 1949–1967) SALAH aritmetika: 9
+  artikel dibaca ulang di batch lain dan terhitung dua kali.
+  Hitungan langsung ke `verification_status` di server (1.112 file):
+  `cross_checked` = **915**, `needs_review` = **17**,
+  `source_checked` (sisa) = **180**; 915 + 17 + 180 = 1.112.
+- 9 file yg terhitung dua kali (semuanya sudah `cross_checked`,
+  tidak ada perbaikan file yg diperlukan):
+  - Batch 1972 (4): 00116, 01370, 01371 (sudah diputuskan di batch
+    1971) + 00733 (sudah diputuskan di pilot 1968, masuk sebagai
+    ekstra di batch 1972).
+  - Batch 1973 (2): 00806 (sudah di batch 1970) + 01888 (sudah di
+    batch 1971).
+  - Batch 1976 (3): 01102, 01103, 01104 (sudah diputuskan di batch
+    1975; seksi 1976 punya 75 tautan tapi hanya 72 yg belum dibaca).
+- **Baseline kumulatif yg benar mulai batch 1995–1998: 915
+  `cross_checked` / 17 `needs_review` / 932 unik diputuskan /
+  sisa 180.** Semua laporan batch sesudah koreksi memakai baseline
+  ini (bukan penjumlahan laporan batch per batch).
+
+### Batch 1995–1998 (SELESAI, 7 Nov 2026, commit `b8b750d1`, live)
+
+- **Pembaca: 1 subagen** (4 artikel), baca penuh dgn protokol
+  pilot/batch 1949; rizky menggabungkan putusan + memverifikasi
+  sendiri semua fix dan relasi ke file aslinya.
+- **Hasil: 4 artikel; 2 `cross_checked`, 2 `needs_review`,
+  0 `disputed`, 2 fix, 2 relasi `menyebut` baru** (01528 → pemilu,
+  00004 → ekonomi; total 158, FTS 1.386). Kumulatif Fase 1
+  (baseline terkoreksi): **917 `cross_checked`, 19 `needs_review`**,
+  936 unik diputuskan, sisa 176.
+- **2 fix (keduanya salah tahun, dibuktikan isi sendiri — pola yg
+  sama seperti batch 1949–1967):** 00030 (FM 1996-02-05) →
+  **1969-02-05** + title — badan "RABU, 5 FEBRUARI 1969" (5 Feb
+  1969 = Rabu; 5 Feb 1996 = Senin, 5 Feb 1997 = Rabu tapi badan
+  menulis eksplisit 1969, jadi 1997 tersingkir); "periode
+  1968/1969"; Menhankam/Pangab Jenderal Soeharto; footnote buku
+  Jejak Langkah 28 Mar 1968–23 Mar 1973 (tanpa nomor halaman;
+  tetangga Feb 1969 juga tanpa nomor). Pindah seksi 1995–1998 →
+  1969 (tidak ada file 1969-02-05 lain). 01528 (FM 1997-09-19) →
+  **1977-09-19** + title — badan "SENIN, 19 SEPTEMBER 1977"
+  (Senin ✓); SK 103/104/105/M/1977 semua tertanggal 19 Sep 1977;
+  footnote hal. 538, urutan monoton sempurna (01525 14 Sep hal.
+  536–537, 01527 17 Sep hal. 537–538, 01530 23 Sep hal. 539).
+  Pindah seksi 1995–1998 → 1977 (tidak ada file 1977-09-19 lain).
+- **2 `needs_review` (keduanya file tanggal-publikasi, tanggal
+  persis tak dapat ditentukan dari isi):** 00089 (Menembus
+  Sarajevo) — badan hanya 1 paragraf narasi umum + caption
+  "(Galeri Foto Soeharto.co)", tanpa tanggal apa pun; FM
+  2014-03-22 adalah tanggal publikasi; tahun 1995 pasti dari
+  judul/slug. Kandidat dari sumber luar (TIDAK dipakai sbg fix
+  karena isi tidak memberi tanggal persis): 13 Maret 1995
+  (Jakarta Post 7 Mar 1995: dijadwalkan 3 jam di Sarajevo 13 Mar;
+  JP 15 Mar 1995: 4 jam di Sarajevo, kembali ke Zagreb hari Senin;
+  phinemo; Intisari mengutip buku Sjafrie Sjamsoeddin). 00004
+  (Misteri Kemelut 1998) — esai analitis panjang (disarikan dari
+  buku "Politik Kenusantaraan"; mengutip Fadli Zon 2004, Jun Honna
+  2006) tentang krisis 1997–1998; FM 2014-04-01 tanggal publikasi
+  WP; tahun 1998 pasti tapi tanggal persis tidak ada. Typo dicatat:
+  footnote [4] "tahun 1996" mestinya 1965 (konteks kudeta);
+  "Tianamen".
+- **Relasi `menyebut`: 2 diterima.** 01528 → pemilu (peresmian
+  pengangkatan anggota DPR/MPR hasil Pemilu 1977, komposisi
+  diuraikan rinci: 360 terpilih + 96 diangkat + 135 utusan daerah +
+  108 utusan parpol/Golkar; preseden 01483). 00004 → ekonomi (esai
+  membahas substansial ekonomi Orde Baru — seksi "Pengendalian
+  Sumberdaya Ekonomi": pertumbuhan 7,5%/thn 30 tahun, kemiskinan
+  60%→14%, harapan hidup 56→71, swasembada 1984, IPTN/PAL/Pindad,
+  mobnas Timor, Otorita Batam, resep IMF + CBS/Hanke). Glosarium
+  DITOLAK di 00030 ("Dwifungsi ABRI" tidak eksplisit — peran sbg
+  "kekuatan sosial-politik" diuraikan tanpa istilah itu, preseden
+  amanat HUT ABRI); KKN DITOLAK di 00004 (hanya disebut sekali sbg
+  isu); glosarium DITOLAK di 00004 ("dwifungsi ABRI" sekali dlm
+  daftar, tidak diuraikan; "stabilitas" generik); Kopkamtib DITOLAK
+  di 00004 (hanya penanda waktu, dibubarkan Sep 1988).
+- **Indeks diperbarui:** seksi 1995–1998 = **2** (00089, 00004),
+  seksi 1969 = **137** (136 + 1), seksi 1977 = **32** (31 + 1).
+- **Selisih sumber dicatat (bukan fix):** 01528 menulis 96 anggota
+  DPR diangkat, sedangkan IPU/Wikipedia menulis 100 (75 ABRI + 25
+  non-ABRI) — kemungkinan 4 utusan Timor Timur diangkat terpisah.
+  Spot-check: Pemilu 2 Mei 1977 (Golkar 232, PPP 99, PDI 29 =
+  360), DPR dilantik 1 Okt 1977.
+- **Catatan proses:** apply pertama sempat menulis header seksi
+  1995–1998 "0 kliping" karena `section_of()` mengembalikan None
+  untuk file needs_review ber-FM-date publikasi (2014) yg
+  dipertahankan di seksi asal; lalu duplikat tautan karena loop skip
+  memakai slug tanpa ".md" sehingga `fname in DECISIONS` gagal.
+  Diperbaiki dgn `target_section()` (fallback ke seksi asal) +
+  normalisasi ".md" di loop skip (lihat AGENTS.md); apply ke-3
+  bersih, `check_index.py` 0 mismatch.
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1995_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1995.py` + skrip gabung
+  `merge_batch1995.py` di folder yang sama.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1995–1998 (4),
-  tanpa tanggal (176, terakhir).
+- Urutan batch: tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca:
   **184 judul frontmatter terpotong**
   (hitung ulang 7 Nov 2026; angka lama 81 sudah tidak berlaku).
