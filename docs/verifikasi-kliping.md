@@ -813,9 +813,59 @@ entitas yang sudah punya halaman). Satu kali baca menghasilkan dua hal.
   (di VM, bukan repo); skrip terapan `apply_batch1978.py` + skrip gabung
   `merge_batch1978.py` di folder yang sama.
 
+### Batch 1979 (SELESAI, 7 Nov 2026, commit `3a42f920`, live)
+
+- **Pembaca: 1 subagen** (15 artikel), baca penuh dgn protokol
+  pilot/batch 1978; rizky menggabungkan putusan + memverifikasi
+  sendiri relasi 01671 dan jangkar 01675 ke file aslinya.
+- **Hasil: 15 artikel; 15 `cross_checked`, 0 `needs_review`,
+  0 `disputed`, 0 fix di dalam batch, 1 relasi `menyebut` baru**
+  (01671 → glosarium Trilogi Pembangunan; total 155, FTS 1.383).
+  Kumulatif Fase 1: **917 `cross_checked`, 17 `needs_review`**
+  (01675 keluar dari needs_review — lihat koreksi di bawah).
+- **Koreksi 01675 (needs_review batch 1978 → cross_checked,
+  1978-09-24 → 1979-09-24, pindah seksi 1978 → 1979):** jangkar
+  footnote batch ini membuktikan hal. 206 dlm buku "Jejak Langkah
+  29 Mar 1978–11 Mar 1983" adalah Sep 1979 — 01672 (19 Sep), 01673
+  (21 Sep), 01674 (22 Sep) semua hal. 206; 01676 (27 Sep) hal. 208.
+  01675 mengutip hal. 206–207 → jatuh 23–24 Sep 1979; kata hari
+  "SENIN" mengunci 24 Sep 1979 (23 Sep = Minggu; 17 Sep = Senin
+  tapi sudah ditempati 01668 hal. 204–205); Wikipedia id menulis
+  pabrik Gunung Madu diresmikan Soeharto "pada tahun 1979". Tiga
+  jangkar konvergen ke **1979-09-24** — satu-satunya tanggal yg
+  konsisten dgn semuanya (preseden jangkar kronologi antar-artikel).
+  Title FM + H1 ikut diperbaiki. Seksi 1978 = 16, seksi 1979 = 16.
+- **Relasi `menyebut`: 1 diterima.** 01671 → glosarium (Soeharto
+  "menguraikan secara terperinci" Trilogi Pembangunan di Wisma Duta,
+  Singapura). Ekonomi DITOLAK di 01625 (sidang Ekuin soal inflasi +
+  Semen Cibinong 2,4 jt ton — instruksi umum tanpa kontur kebijakan),
+  01626 (instruksi efisiensi + inflasi 13,94% Apr–Agu 1979 — angka
+  hanya konteks), 01627 (harapan BUUD/KUD efektif + Inpres 2/1978
+  hanya dirujuk). Glosarium DITOLAK di 01672 ("stabilitas nasional"
+  frasa generik satu kalimat; "Polkam" bukan konsep glosarium),
+  01668 ("ketahanan nasional" bukan entri glosarium), 01666
+  ("Tridharma" definisi Soeharto sendiri utk patung).
+- **Indeks diperbarui:** seksi 1978 = **16**, seksi 1979 = **16**.
+- **Temuan lain:** urutan footnote buku Sep 1979 monoton naik
+  sempurna (hal. 201 → 208); semua kata hari cocok dgn tanggalnya;
+  judul FM = H1 di semua artikel. Rangkaian kunjungan Singapura
+  konsisten lintas 01668 (tiba 17 Sep) → 01671 (pulang 18 Sep);
+  rangkaian Islam Jamaah konsisten 01628 (10 Sep) → 01629 (12 Sep).
+  Typo isi dicatat saja: "Lee Kwan Yew" (01668, 01671), "Gubemur"
+  (01668). Ordinal Hari Pramuka ke-18 benar (1961→1979, konsisten
+  dgn ke-17 di 1978).
+- **Spot-check terkonfirmasi:** kunjungan Wapres Mondale ke RRC —
+  tiba Beijing 25 Agu 1979 (01624); SEA Games X dibuka Soeharto
+  21 Sep 1979 di Senayan (01673); gempa Yapen 12 Sep 1979 (M7,5–7,9,
+  115 korban, kerusakan Serui) — "baru-baru ini" tepat 10 hari
+  sebelum pertemuan 22 Sep (01674).
+- Keputusan baca tersimpan di `workspace/goals/wiki-soeharto/hidden_files/batch1979_decisions.py`
+  (di VM, bukan repo); skrip terapan `apply_batch1979.py` + skrip gabung
+  `merge_batch1979.py` di folder yang sama.
+
 ### Batch berikutnya (BELUM MULAI)
 
-- Urutan batch: 1979 (15), 1949–1967 (7),
+- Urutan batch: 1949–1967 (7),
   1995–1998 (4), tanpa tanggal (176, terakhir).
 - Yang ikut dikerjakan di batch baca:
   **184 judul frontmatter terpotong**
