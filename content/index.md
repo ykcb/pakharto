@@ -14,7 +14,7 @@ tags:
 - beranda
 - orde-baru
 date: 1966-03-11
-updated: '2026-11-04'
+updated: '2026-11-08'
 verification_status: verified
 relasi:
 - predikat: memuat_hub
@@ -29,8 +29,14 @@ relasi:
 - predikat: memuat_hub
   objek: krisis-dan-reformasi-1998
   sumber: https://pakharto.my.id/
+- predikat: memuat_hub
+  objek: repelita
+  sumber: https://pakharto.my.id/
+- predikat: memuat_hub
+  objek: warisan-orde-baru
+  sumber: https://pakharto.my.id/
 ogImage: /img/og-image.jpg
-last_updated: '2026-11-04'
+last_updated: '2026-11-08'
 confidence: high
 ---
 
@@ -43,7 +49,7 @@ confidence: high
 
 > **Selamat datang di Wiki Soeharto.** Ensiklopedia digital terkurasi dan berbasis data arsip primer (pidato kenegaraan, dokumen regulasi, data statistik, dan kliping pers sezaman) untuk memahami secara obyektif bagaimana sistem Orde Baru dibangun, dijalankan selama 32 tahun, dan berakhir pada 1998.
 
-Wiki ini mengindeks lebih dari **2.700 dokumen historis**, dilengkapi jejaring relasi antarentitas, peta konsep, serta jalur baca tematik untuk memudahkan generasi muda, peneliti, dan publik menelusuri sejarah secara presisi tanpa distorsi rumor.
+Wiki ini mengindeks **1.140 halaman** — 1.112 kliping arsip dan 28 halaman kurasi — dilengkapi jejaring relasi antarentitas, peta konsep, serta jalur baca tematik untuk memudahkan generasi muda, peneliti, dan publik menelusuri sejarah secara presisi tanpa distorsi rumor.
 
 ---
 
@@ -63,11 +69,23 @@ Track baru yang menggali *best practices* era Orde Baru yang masih relevan hari 
 
 ---
 
+## 🆕 Kurasi Terbaru
+
+Halaman kurasi baru dari integrasi arsip soehartois.com (November 2026):
+
+- **Repelita**: [[hub/repelita|Rencana Pembangunan Lima Tahun 1969–1998]] — enam tahap, swasembada 1984.
+- **Warisan Orde Baru**: [[hub/warisan-orde-baru|Apa yang Masih Berdiri Hari Ini]] — lembaga dan infrastruktur bertanggal, plus data kemiskinan BPS.
+- **Golkar**: [[topik/golkar|Dari Sekber 1964 ke Partai 1999]] — enam kemenangan pemilu dan mekanismenya.
+- **Kelompencapir**: [[topik/kelompencapir|Kelompok Pendengar, Pembaca, dan Pemirsa]] — penyuluhan pedesaan Deppen, 1978–1998.
+- **Museum Soeharto Kemusuk**: [[topik/museum-soeharto-kemusuk|Memorial di Tanah Kelahiran Soeharto]] — diresmikan 8 Juni 2013, Bantul.
+
+---
+
 ## 🤖 Integrasi AI, LLM, dan API
 
 Wiki ini dirancang modern dengan arsitektur ramah kecerdasan buatan (*AI-agent native*):
 - 📄 **[`/llms.txt`](https://pakharto.my.id/llms.txt)**: Indeks ringkas seluruh halaman rujukan untuk konsumsi bot LLM.
-- 📚 **[`/llms-full.txt`](https://pakharto.my.id/llms-full.txt)**: Teks kurasi utuh seluruh 26 halaman fondasi untuk prompt context window besar.
+- 📚 **[`/llms-full.txt`](https://pakharto.my.id/llms-full.txt)**: Teks kurasi utuh seluruh 16 halaman fondasi untuk prompt context window besar.
 - ⚡ **FastMCP Server**: Antarmuka 12 tools pelacak relasi entitas, FTS5 BM25 search, dan graph traversal untuk agen AI lokal.
 
 ---

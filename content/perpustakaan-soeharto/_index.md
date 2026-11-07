@@ -1047,6 +1047,9 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 ## 2012 — 1 kliping
 - [[perpustakaan-soeharto/00417-mahathir-mohamad-kita-memiliki-kekhasan-demokrasi-sendiri|Mahathir Mohamad: Kita Memiliki Kekhasan Demokrasi Sendiri]]
 ## Tanpa tanggal — 127 kliping
+
+> **Catatan:** tanggal yang tampil di halaman-halaman ini (2013–2018) adalah tanggal publikasi perpustakaan soehartolibrary.id, bukan tanggal peristiwa. Isinya esai, kenangan, dan testimoni yang tidak memiliki satu tanggal peristiwa yang dapat dipulihkan — karena itu mereka dikumpulkan di seksi ini, bukan di seksi tahun.
+
 - [[perpustakaan-soeharto/00035-solidaritas-negara-negara-berkembang|SOLIDARITAS NEGARA-NEGARA BERKEMBANG]]
 - [[perpustakaan-soeharto/00005-108|YAYASAN SOSIAL]]
 - [[perpustakaan-soeharto/00073-komitmen-pak-harto-terhadap-koperasi|Komitmen Pak Harto Terhadap Koperasi]]
