@@ -4,7 +4,7 @@ description: "Doktrin politik Orde Baru yang melarang pembentukan ranting partai
 date: 1971-07-03
 updated: 2026-11-03
 last_updated: "2026-11-03"
-entity_type: topik
+entity_type: konsep
 entity_id: "floating-mass"
 aliases:
   - "Massa Mengambang"

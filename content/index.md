@@ -17,14 +17,18 @@ date: 1966-03-11
 updated: '2026-11-04'
 verification_status: verified
 relasi:
-- type: memuat_hub
-  target: orde-baru
-- type: memuat_hub
-  target: ekonomi-orde-baru
-- type: memuat_hub
-  target: kehidupan-rakyat
-- type: memuat_hub
-  target: krisis-dan-reformasi-1998
+- predikat: memuat_hub
+  objek: orde-baru-1966-1998
+  sumber: https://pakharto.my.id/
+- predikat: memuat_hub
+  objek: ekonomi-orde-baru
+  sumber: https://pakharto.my.id/
+- predikat: memuat_hub
+  objek: kehidupan-rakyat
+  sumber: https://pakharto.my.id/
+- predikat: memuat_hub
+  objek: krisis-dan-reformasi-1998
+  sumber: https://pakharto.my.id/
 ogImage: /img/og-image.jpg
 last_updated: '2026-11-04'
 confidence: high

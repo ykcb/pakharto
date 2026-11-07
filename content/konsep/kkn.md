@@ -4,7 +4,7 @@ description: "Istilah historis yang merangkum jaringan patronase, monopoli usaha
 date: 1998-05-01
 updated: 2026-11-03
 last_updated: "2026-11-03"
-entity_type: topik
+entity_type: konsep
 entity_id: "kkn"
 aliases:
   - "Korupsi, Kolusi, dan Nepotisme"

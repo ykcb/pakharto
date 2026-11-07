@@ -12,19 +12,22 @@ cd "$REPO_DIR"
 MD_COUNT=$(find content -name '*.md' | wc -l)
 echo "Markdown di content/: $MD_COUNT"
 
-echo "=== [1/6] Generating llms.txt & llms-full.txt ==="
+echo "=== [1/7] Generating llms.txt & llms-full.txt ==="
 /usr/bin/python3 scripts/build_llms_txt.py
 
-echo "=== [2/6] Rebuilding FTS5 index (atomic: tmp DB -> verifikasi -> swap) ==="
+echo "=== [2/7] Validating frontmatter schema (fail-fast) ==="
+/usr/bin/python3 scripts/validate_frontmatter.py
+
+echo "=== [3/7] Rebuilding FTS5 index (atomic: tmp DB -> verifikasi -> swap) ==="
 /usr/bin/python3 scripts/indexer/build-fts5.py
 
-echo "=== [3/6] MCP smoke test (12 tools, assertion nyata) ==="
+echo "=== [4/7] MCP smoke test (12 tools, assertion nyata) ==="
 /usr/bin/python3 scripts/mcp/server.py --test
 
-echo "=== [4/6] Building Quartz static pages ==="
+echo "=== [5/7] Building Quartz static pages ==="
 npx quartz build
 
-echo "=== [4b/6] Guard jumlah halaman ==="
+echo "=== [5b/7] Guard jumlah halaman ==="
 HTML_COUNT=$(find public -name '*.html' | wc -l)
 echo "Markdown: $MD_COUNT | HTML hasil build: $HTML_COUNT"
 if [ "$HTML_COUNT" -lt "$MD_COUNT" ]; then
@@ -32,10 +35,10 @@ if [ "$HTML_COUNT" -lt "$MD_COUNT" ]; then
   exit 1
 fi
 
-echo "=== [5/6] Copying root assets (robots.txt, llms.txt, llms-full.txt) ==="
+echo "=== [6/7] Copying root assets (robots.txt, llms.txt, llms-full.txt) ==="
 cp scripts/assets/robots.txt scripts/assets/llms.txt scripts/assets/llms-full.txt public/
 
-echo "=== [6/6] Deploying to live web root (/var/www/pakharto.my.id/public/) ==="
+echo "=== [7/7] Deploying to live web root (/var/www/pakharto.my.id/public/) ==="
 rsync -a --delete /home/ubuntu/quartz/public/ /var/www/pakharto.my.id/public/
 
 echo "=== DEPLOY SUKSES: pakharto.my.id telah terverifikasi live! ==="

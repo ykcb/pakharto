@@ -187,7 +187,7 @@ class WikiQuery:
         eid = entity["entity_id"] or entity["title"]
 
         outgoing = c.execute(
-            "SELECT predikat, target_entity, sumber FROM relations WHERE source_entity = ? OR source_entity = ?",
+            "SELECT predikat, target_entity, target_label, sumber FROM relations WHERE source_entity = ? OR source_entity = ?",
             (eid, entity["title"])
         ).fetchall()
 
@@ -236,7 +236,7 @@ class WikiQuery:
             if current_depth >= depth:
                 continue
 
-            sql = "SELECT source_entity, predikat, target_entity, sumber FROM relations WHERE (LOWER(source_entity) = LOWER(?) OR LOWER(source_entity) IN (SELECT LOWER(title) FROM entities WHERE LOWER(entity_id) = LOWER(?)))"
+            sql = "SELECT source_entity, predikat, target_entity, target_label, sumber FROM relations WHERE (LOWER(source_entity) = LOWER(?) OR LOWER(source_entity) IN (SELECT LOWER(title) FROM entities WHERE LOWER(entity_id) = LOWER(?)))"
             params = [current_entity, current_entity]
 
             if origin == "frontmatter":
@@ -257,6 +257,7 @@ class WikiQuery:
                         "source": r["source_entity"],
                         "predicate": r["predikat"],
                         "target": r["target_entity"],
+                        "target_label": r["target_label"],
                         "source_ref": r["sumber"],
                         "hop": current_depth + 1
                     })
@@ -290,7 +291,7 @@ class WikiQuery:
                 continue
 
             rows = c.execute(
-                "SELECT predikat, target_entity, sumber FROM relations WHERE LOWER(source_entity) = LOWER(?)",
+                "SELECT predikat, target_entity, target_label, sumber FROM relations WHERE LOWER(source_entity) = LOWER(?)",
                 (current,)
             ).fetchall()
 
@@ -300,6 +301,7 @@ class WikiQuery:
                     "from": current,
                     "predicate": r["predikat"],
                     "to": tgt,
+                    "to_label": r["target_label"],
                     "source": r["sumber"]
                 }
                 new_path = path + [step]

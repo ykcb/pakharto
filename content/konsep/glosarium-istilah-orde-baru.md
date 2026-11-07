@@ -4,7 +4,7 @@ description: "Empat konsep inti Orde Baru — Trilogi Pembangunan, Stabilitas Na
 date: 2026-11-06
 updated: 2026-11-06
 last_updated: "2026-11-06"
-entity_type: topik
+entity_type: konsep
 entity_id: "glosarium-istilah-orde-baru"
 aliases:
   - "Trilogi Pembangunan"

@@ -1,7 +1,7 @@
 ---
 title: "Asas Tunggal Pancasila"
 entity_id: "asas-tunggal-pancasila"
-entity_type: "konsep"
+entity_type: konsep
 kategori: "kekuasaan-dan-legitimasi"
 aliases:
   - "Asas Tunggal"
@@ -16,16 +16,21 @@ tags:
   - parpol
   - orde-baru
 relasi:
-  - type: diterapkan_oleh
-    target: "soeharto"
-  - type: berakar_dari
-    target: "demokrasi-pancasila"
-  - type: terkait_dengan
-    target: "stabilitas-nasional"
-  - type: memicu_peristiwa
-    target: "peristiwa-tanjung-priok-1984"
-  - type: ditentang_oleh
-    target: "petisi-50"
+  - predikat: diterapkan_oleh
+    objek: "soeharto"
+    sumber: https://soehartolibrary.id/
+  - predikat: berakar_dari
+    objek: "demokrasi-pancasila"
+    sumber: https://soehartolibrary.id/
+  - predikat: terkait_dengan
+    objek: "stabilitas-nasional"
+    sumber: https://soehartolibrary.id/
+  - predikat: memicu_peristiwa
+    objek: "peristiwa-tanjung-priok-1984"
+    sumber: https://soehartolibrary.id/
+  - predikat: ditentang_oleh
+    objek: "petisi-50"
+    sumber: https://soehartolibrary.id/
 last_modified: 2026-11-03
 last_updated: "2026-11-04"
 updated: 2026-11-04

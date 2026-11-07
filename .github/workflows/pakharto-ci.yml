@@ -2,8 +2,9 @@
 # Workflow upstream Quartz (ci.yaml) hanya berjalan untuk repo
 # jackyzha0/quartz di branch v5, jadi tidak pernah menguji repo ini.
 # Workflow ini menguji pipeline Python wiki: generator llms.txt
-# (fail-fast bila halaman CORE hilang), indexer FTS5 (build atomik),
-# dan self-test MCP 12 tools dengan assertion nyata.
+# (fail-fast bila halaman CORE hilang), validator skema frontmatter,
+# indexer FTS5 (build atomik), dan self-test MCP 12 tools dengan
+# assertion nyata.
 name: Pakharto CI
 
 on:
@@ -33,7 +34,7 @@ jobs:
         run: >
           python -m py_compile scripts/build_llms_txt.py
           scripts/indexer/build-fts5.py scripts/mcp/wiki_query.py
-          scripts/mcp/server.py
+          scripts/mcp/server.py scripts/validate_frontmatter.py
 
       - name: Generate llms.txt (fail-fast bila halaman CORE hilang)
         run: python scripts/build_llms_txt.py
@@ -44,6 +45,9 @@ jobs:
             echo "ERROR: llms.txt masih menaut ke /kategori/ yang sudah dihapus"
             exit 1
           fi
+
+      - name: Validate frontmatter schema
+        run: python scripts/validate_frontmatter.py
 
       - name: Build FTS5 index
         run: python scripts/indexer/build-fts5.py

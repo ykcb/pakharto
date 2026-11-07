@@ -2,8 +2,8 @@
 title: "Peristiwa Malari 1974"
 description: "Demonstrasi mahasiswa menentang dominasi modal asing Jepang dan hegemoni Asisten Pribadi Presiden yang berujung pada kerusuhan sosial Jakarta 15–16 Januari 1974, pembredelan pers, dan pengetatan politik kampus."
 date: 1974-01-15
-updated: 2026-11-03
-last_updated: "2026-11-03"
+updated: 2026-11-07
+last_updated: "2026-11-07"
 entity_type: peristiwa
 entity_id: "malari-1974"
 aliases:
@@ -17,9 +17,15 @@ risiko_editorial: sedang
 status: ""
 confidence: high
 sumber:
-  - url: https://soehartolibrary.id/
-    judul: "Arsip Soeharto — soehartolibrary.id"
-    tanggal: 2026-10-18
+  - url: https://journals.mindamas.com/index.php/susurgalur/article/view/986
+    judul: "Suwirta (2018), Pers dan Kritik Sosial pada Masa Orde Baru: Peristiwa MALARI Tahun 1974"
+    tanggal: 2018-03-30
+  - url: https://en.wikipedia.org/wiki/Malari_incident
+    judul: "Malari incident"
+    tanggal: 2026-11-07
+  - url: https://koransulindo.com/mengingat-kembali-sejarah-kelam-malari-1974/
+    judul: "Mengingat Kembali Sejarah Kelam Malari 1974 (mengutip Kompas, 16 Januari 1974)"
+    tanggal: 2026-11-07
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -48,10 +54,12 @@ Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral maha
 |---|---|---|
 | **Waktu Kejadian** | 15–16 Januari 1974 | Jakarta Pusat (kawasan Senen, Glodok, Salemba) |
 | **Pemicu Utama** | Kunjungan PM Jepang Kakuei Tanaka & kritik monopoli modal asing | Delegasi Dewan Mahasiswa UI |
-| **Korban Jiwa & Luka** | 11 orang tewas, 300 luka-luka, 775 orang ditangkap | Laporan resmi Pangkopkamtib |
-| **Kerusakan Material** | 144 bangunan rusak/terbakar (Pasar Senen terbakar), 807 mobil dan motor dibakar | Mayoritas kendaraan bermerek pabrikan Jepang |
-| **Dampak Media** | 12 media massa dicabut izin terbitnya (SIT) | Termasuk *Harian Abadi*, *Pedoman*, *Indonesia Raya*, *Mahasiswa Indonesia* |
+| **Korban Jiwa & Luka** | 11 orang tewas; luka-luka 137–300 dan 750–775 ditangkap (angka berbeda antar sumber — lihat Catatan angka) | Laporan resmi Pangkopkamtib & pers sezaman |
+| **Kerusakan Material** | 144 bangunan rusak/terbakar (Pasar Senen terbakar), 807 mobil dan 187 sepeda motor rusak/dibakar | Menurut Menhankam Maraden Panggabean; mayoritas kendaraan bermerek pabrikan Jepang |
+| **Dampak Media** | 12 media massa dicabut izin terbitnya (SIT) dalam tiga tahap | 15 Jan: *Nusantara*, *Mahasiswa Indonesia*; 21 Jan: *Harian KAMI*, *Indonesia Raya*, *Abadi*, *The Jakarta Times*; 23 Jan: *Pedoman*, *Ekspres* |
 | **Restrukturisasi Militer** | Jenderal Soemitro mundur dari Pangkopkamtib, jabatan Aspri dibubarkan | Presiden Soeharto mengambil alih kendali langsung Kopkamtib |
+
+**Catatan angka:** jumlah korban berbeda antar sumber. Angka 11 tewas disepakati semua sumber; luka-luka dicatat 137 orang (17 kritis, 120 ringan) dalam rangkuman berbahasa Inggris atas laporan resmi, sementara *Kompas* 16 Januari 1974 mencatat 300 luka-luka; yang ditangkap dicatat 750–775 orang. Daftar 12 media yang dibredel juga sedikit berbeda antar sumber (sebagian daftar mencakup *Mingguan Senang*, *Pemuda Indonesia*, *Seluruh Berita*, *Indonesia Pos*, dan *Sinar Harapan* tanpa *Indonesia Raya*). Tabel di atas memakai angka yang paling sering dikutip beserta rentangnya.
 
 ## Kronologi
 
@@ -78,17 +86,21 @@ Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral maha
 
 ## Aktor yang terlibat
 - [[Soeharto]] — Presiden RI yang mencopot faksi militer oposan dan mengetatkan kendali negara.
-- **Hariman Siregar** — Ketua Dewan Mahasiswa Universitas Indonesia (DM-UI), diadili dan dijatuhi hukuman penjara 6 tahun sebagai penggerak aksi.
+- **Hariman Siregar** — Ketua Dewan Mahasiswa Universitas Indonesia (DM-UI), diadili dan dijatuhi hukuman 6 tahun 6 bulan penjara pada 21 Desember 1974 (tuntutan jaksa 12 tahun); ia menjalani kurang dari 3 tahun. Sjahrir divonis 6 tahun 6 bulan pada 12 Juni 1975, Aini Chalid 2 tahun 2 bulan.
 - **Jenderal Soemitro** — Wakil Panglima ABRI dan Panglima [[Kopkamtib]], yang dicopot dan dipensiunkan pasca-kerusuhan.
 - **Mayjen Ali Moertopo** — Asisten Pribadi Presiden Bidang Khusus (Aspri) dan Kepala [[Bakin|Opsus/Bakin]], sasaran utama kritik mahasiswa terkait dominasi modal Jepang dan manipulasi politik.
 - **Mochtar Lubis & Rosihan Anwar** — Tokoh jurnalis senior nasional yang media cetaknya dibredel secara permanen oleh pemerintah.
 - **Kakuei Tanaka** — Perdana Menteri Jepang yang menjadi simbol sasaran protes penetrasi modal asing di Asia Tenggara.
 
 ## Sumber
-- **Laporan Resmi Sidang Parlemen DPR-RI (Februari 1974):** Keterangan Pemerintah tentang Peristiwa 15 Januari 1974.
-- **Berkas Pengadilan Negeri Jakarta Pusat (1974–1975):** Naskah Tuntutan dan Putusan Perkara Subversi Hariman Siregar dkk.
-- **Biografi Jenderal Soemitro (1998):** *Dari Pangdam Mulawarman sampai Pangkopkamtib* — Kesaksian faksi militer mengenai persaingan kekuasaan di balik Malari.
-- **PWI / Dewan Pers (1974):** Dokumentasi Pembredelan Surat Kabar Harian Ibu Kota.
+- **Heru Cahyono (1998), *Pangkopkamtib Jenderal Soemitro dan Peristiwa 15 Januari '74* (Jakarta: Pustaka Sinar Harapan, xii + 312 hlm., ISBN 979-416-549-2)** — kesaksian Soemitro soal persaingan kekuasaan di balik Malari; bab 6–7 membahas "Merekayasa Kerusuhan".
+- **Ramadhan K.H. (1994), *Soemitro, Mantan Pangkopkamtib: Dari Pangdam Mulawarman sampai Pangkopkamtib* (Jakarta: Pustaka Sinar Harapan, 356 hlm., ISBN 979-416-258-2)** — biografi Soemitro; Malari dibahas di dalamnya.
+- **Suwirta, Andi (2018), "Pers dan Kritik Sosial pada Masa Orde Baru: Peristiwa MALARI Tahun 1974 dalam Pandangan Surat Kabar Merdeka dan Indonesia Raya di Jakarta", *SUSURGALUR: Jurnal Kajian Sejarah & Pendidikan Sejarah* 6(1), hlm. 73–98, ISSN 2302-5808** — https://journals.mindamas.com/index.php/susurgalur/article/view/986
+- ***Tempo*, Edisi Khusus Malari, 13 Januari 2014** — rangkuman vonis Hariman Siregar dkk. (6 tahun 6 bulan) dan perkembangan jumlah tahanan.
+- ***Kompas*, 16 Januari 1974** (liputan sezaman; dikutip dalam "Mengingat Kembali Sejarah Kelam Malari 1974", Koran Sulindo — https://koransulindo.com/mengingat-kembali-sejarah-kelam-malari-1974/) — angka 11 tewas, 300 luka-luka, 775 ditahan.
+- **"Malari incident", Wikipedia bahasa Inggris** — https://en.wikipedia.org/wiki/Malari_incident — rangkuman angka 11 tewas, 137 luka-luka (17 kritis, 120 ringan), ±770 ditangkap, 144 bangunan, 12 media dibredel.
+- **Laporan Resmi Sidang Parlemen DPR-RI (Februari 1974):** Keterangan Pemerintah tentang Peristiwa 15 Januari 1974 — *dokumen dirujuk, salinan digitalnya belum terverifikasi*.
+- **Berkas Pengadilan Negeri Jakarta Pusat (1974–1975):** Naskah Tuntutan dan Putusan Perkara Subversi Hariman Siregar dkk. — *dokumen dirujuk, salinan digitalnya belum terverifikasi*.
 
 ## Catatan presisi
 - **Dalang Kerusuhan Senen:** Hingga hari ini terdapat dua narasi utama sejarah mengenai pemicu kerusuhan: narasi resmi penguasa Orde Baru menuduh adanya konspirasi elemen sisa PSI dan Masyumi bersama Dewan Mahasiswa untuk menggulingkan Presiden Soeharto; sedangkan narasi independen dan kalangan aktivis meyakini kerusuhan Pasar Senen diprovokasi oleh jaringan binaan intelijen (Opsus) untuk mendiskreditkan Jenderal Soemitro dan melegitimasi penindakan politik.
