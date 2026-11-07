@@ -1,9 +1,9 @@
 ---
-title: Presiden Soeharto Sholat Ied di Istana Negara (1969)
+title: '1969-11-11 Presiden Soeharto Sholat Ied di Istana Negara'
 description: Setelah Masjid Istiqlal diresmikan penggunaannya pada tahun 1978, Presiden
   Soeharto beserta ummat Islam Ibukota Sholat Ied di Masjid Istiqlal. Sebelumnya,
   Presiden Soeharto Sholat Ied di halaman Istana Negara sebagaimana pada tahun...
-date: '2013-07-28'
+date: '1969-11-11'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,13 +19,13 @@ tags:
 - sholat-ied
 - subhan-ze
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/presiden-soeharto-sholat-ied-di-istana-negara/
   judul: Presiden Soeharto Sholat Ied di Istana Negara (1969)
-  tanggal: '2013-07-28'
+  tanggal: '1969-11-11'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -33,7 +33,7 @@ relasi:
 ---
 
 
-# Presiden Soeharto Sholat Ied di Istana Negara (1969)
+# 1969-11-11 Presiden Soeharto Sholat Ied di Istana Negara
 
 # Presiden Soeharto Sholat Ied di Istana Negara
 

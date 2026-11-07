@@ -1,9 +1,9 @@
 ---
-title: 1968-05-1 Presiden Soeharto Batasi Masuknya Tembakau Luar Negeri
+title: '1968-05-03 Presiden Soeharto Batasi Masuknya Tembakau Luar Negeri'
 description: JUM’AT, 3 Mei 1968, sebagai kelanjutan pembahasan sidang kabinet terbatas
   dua hari yang lalu, Presiden Soeharto hari ini mengeluarkan Keppres No. 163/1968
   yang melarang dimasukkannya semua tembakau produksi luar negeri, yang terkena bea...
-date: '2014-03-22'
+date: '1968-05-03'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -18,13 +18,13 @@ tags:
 - presiden-soeharto
 - tembakau
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-05-1-presiden-soeharto-batasi-masuknya-tembakau-luar-negeri/
   judul: 1968-05-1 Presiden Soeharto Batasi Masuknya Tembakau Luar Negeri
-  tanggal: '2014-03-22'
+  tanggal: '1968-05-03'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -32,7 +32,7 @@ relasi:
 ---
 
 
-# 1968-05-1 Presiden Soeharto Batasi Masuknya Tembakau Luar Negeri
+# 1968-05-03 Presiden Soeharto Batasi Masuknya Tembakau Luar Negeri
 
 # Presiden Soeharto Batasi Masuknya Tembakau Luar Negeri1
 

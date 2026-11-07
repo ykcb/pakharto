@@ -1,9 +1,9 @@
 ---
-title: 1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji
+title: '1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji'
 description: 3 September 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1968-09-06-presiden-soeharto-bahas-penyelenggaraan-haji/respond)
   153 Views Share on
-date: '1968-09-06'
+date: '1969-09-06'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,13 +19,13 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-06-presiden-soeharto-bahas-penyelenggaraan-haji/
   judul: 1969-09-06 Presiden Soeharto Bahas Penyelenggaraan Haji
-  tanggal: '1968-09-06'
+  tanggal: '1969-09-06'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

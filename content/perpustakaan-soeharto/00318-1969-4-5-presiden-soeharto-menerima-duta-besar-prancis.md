@@ -1,9 +1,9 @@
 ---
-title: 1969-4-5 Presiden Soeharto Menerima Duta Besar Prancis
+title: '1969-04-05 Presiden Soeharto Menerima Duta Besar Prancis'
 description: SABTU, 5 APRIL 1969, Pagi ini Presiden Soeharto menerima Duta Besar Prancis
   di Indonesia, Claude Cheysson. Disamping berpamitan karena akan cuti di Prancis,
   dalam pertemuan itu telah pula dibicarakan mengenai kunjungan Presiden Soeharto...
-date: '2014-03-22'
+date: '1969-04-05'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,13 +19,13 @@ tags:
 - prancis
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1969-4-5-presiden-soeharto-menerima-duta-besar-prancis/
   judul: 1969-4-5 Presiden Soeharto Menerima Duta Besar Prancis
-  tanggal: '2014-03-22'
+  tanggal: '1969-04-05'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -33,7 +33,7 @@ relasi:
 ---
 
 
-# 1969-4-5 Presiden Soeharto Menerima Duta Besar Prancis
+# 1969-04-05 Presiden Soeharto Menerima Duta Besar Prancis
 
 # Presiden Soeharto Menerima Duta Besar Prancis1
 

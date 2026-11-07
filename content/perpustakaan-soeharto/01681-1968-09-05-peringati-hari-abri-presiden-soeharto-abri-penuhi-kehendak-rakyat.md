@@ -3,7 +3,7 @@ title: '1968-10-05 Peringati Hari ABRI, Presiden Soeharto: ABRI Penuhi Kehendak 
 description: 1 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1968-09-05-peringati-hari-abri-presiden-soeharto-abri-penuhi-kehendak-rakyat/respond)
   97 Views Share on
-date: '1968-09-05'
+date: '1968-10-05'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -19,14 +19,14 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-05-peringati-hari-abri-presiden-soeharto-abri-penuhi-kehendak-rakyat/
   judul: '1968-10-05 Peringati Hari ABRI, Presiden Soeharto: ABRI Penuhi Kehendak
     Rakyat'
-  tanggal: '1968-09-05'
+  tanggal: '1968-10-05'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - umat-beragama
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-08-23-presiden-soeharto-perpecahan-lemahkan-kekuatan-umat-beragama/

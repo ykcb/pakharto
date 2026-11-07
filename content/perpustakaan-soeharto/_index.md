@@ -24,7 +24,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00748-1967-07-08-presiden-soeharto-penurunan-bunga-bank|Presiden Soeharto Menyetujui Penurunan Bunga Bank]]
 
 ## 1968 — 81 kliping
-
 - [[perpustakaan-soeharto/00135-1968-03-28-presiden-soeharto-kunjungan-resmi-ke-jepang|Presiden Soeharto Kunjungan Resmi Ke Jepang]]
 - [[perpustakaan-soeharto/00136-1968-03-29-presiden-soeharto-menjamu-kaindaren-di-tokyo|Presiden Soeharto Menjamu Kaindaren di Tokyo]]
 - [[perpustakaan-soeharto/00137-1968-03-30-presiden-soeharto-menjamu-foreign-correspondents-club|Presiden Soeharto Menjamu Foreign Correspondents Club]]
@@ -36,8 +35,8 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00311-1968-04-10-presiden-soeharto-memimpin-sidang-kabinet-lengkap|Presiden Soeharto Memimpin Sidang kabinet Lengkap]]
 - [[perpustakaan-soeharto/00315-1968-04-18-presiden-soeharto-bakukan-urutan-sila-sila-pancasila|Presiden Soeharto Bakukan Urutan Sila-Sila Pancasila]]
 - [[perpustakaan-soeharto/00316-1968-04-24-presiden-soeharto-naikkan-harga-bbm|Presiden Soeharto Naikkan Harga BBM]]
-- [[perpustakaan-soeharto/00523-1968-05-1-presiden-soeharto-batasi-masuknya-tembakau-luar-negeri|Presiden Soeharto Batasi Masuknya Tembakau Luar Negeri]]
 - [[perpustakaan-soeharto/00522-1968-05-01-presiden-soeharto-selenggarakan-program-penghematan|Presiden Soeharto Selenggarakan Program Penghematan]]
+- [[perpustakaan-soeharto/00523-1968-05-1-presiden-soeharto-batasi-masuknya-tembakau-luar-negeri|Presiden Soeharto Batasi Masuknya Tembakau Luar Negeri]]
 - [[perpustakaan-soeharto/00524-1968-05-04-presiden-soehartopembangunan-irian-barat-menjadi-prioritas-nasional|Presiden Soeharto:Pembangunan Irian Barat Menjadi Prioritas Nasional]]
 - [[perpustakaan-soeharto/00525-1968-05-06-presiden-soeharto-menerima-8-wakil-kesatuan-aksi|Presiden Soeharto Menerima 8 Wakil Kesatuan Aksi]]
 - [[perpustakaan-soeharto/00526-1968-05-07-presiden-soeharto-menyambut-kaisar-ethiopia|Presiden Soeharto Menyambut Kaisar Ethiopia]]
@@ -45,7 +44,6 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00528-1968-05-17-presiden-soeharto-peran-abri-tidak-mengarah-diktaktor-militer|Presiden Soeharto: Peran ABRI Tidak Mengarah Diktaktor Militer]]
 - [[perpustakaan-soeharto/00530-1968-05-25-presiden-soeharto-beramah-tamah-dengan-mahasiswa|Presiden Soeharto Beramah Tamah Dengan Mahasiswa]]
 - [[perpustakaan-soeharto/00638-1968-06-01-presiden-soeharto-peringati-hari-lahirnya-pancasila|Presiden Soeharto Peringati Hari Lahirnya Pancasila]]
-- [[perpustakaan-soeharto/00734-1968-06-03-presiden-soeharto-tertibkan-pungutan-liar-angkutan-dan-setujui-ruu-pmdn|Presiden Soeharto Tertibkan Pungutan Liar Angkutan dan Setujui RUU]]
 - [[perpustakaan-soeharto/00639-1968-06-1968-presiden-soeharto-umumkan-susunan-kabinet-pembangunan-i|1968 Presiden Soeharto Umumkan Susunan Kabinet Pembangunan I]]
 - [[perpustakaan-soeharto/00640-1968-06-10-presiden-soeharto-melantik-kabinet-pembangunan-i|Presiden Soeharto Melantik Kabinet Pembangunan I]]
 - [[perpustakaan-soeharto/00650-1968-06-11-presiden-soeharto-menghadiri-peringatan-maulid-nabi-muhammad-saw|Presiden Soeharto Menghadiri Peringatan Maulid Nabi Muhammad SAW]]
@@ -54,10 +52,10 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00656-1968-06-14-presiden-soeharto-pm-australiaasia-pasifik-prasyarat-perdamaian-dunia|Presiden Soeharto-PM Australia: Stabilisasi Asia-Pasifik Prasyarat Perdamaian Dunia]]
 - [[perpustakaan-soeharto/00657-1968-06-15-presiden-soeharto-membuka-jakarta-fair|Presiden Soeharto Membuka Jakarta Fair]]
 - [[perpustakaan-soeharto/00658-1968-06-17-presiden-soeharto-membentuk-tim-ekonomi|Presiden Soeharto Membentuk Tim Ekonomi]]
-- [[perpustakaan-soeharto/00914-1968-06-20-presiden-soeharto-kita-harus-mencukupi-sandang-dengan-produksi-dalam-negeri|Presiden Soeharto: Kita Harus Mencukupi Sandang dengan Produksi Dalam Negeri]]
 - [[perpustakaan-soeharto/00659-1968-06-27presiden-soeharto-pemerintah-prioritaskan-proyek-peningkatan-pangan|Presiden Soeharto: Pemerintah Prioritaskan Proyek Peningkatan Pangan]]
 - [[perpustakaan-soeharto/00660-1968-06-28-presiden-soeharto-instruksikan-penertiban-penerimaan-negara|Presiden Soeharto Instruksikan Penertiban Penerimaan Negara]]
 - [[perpustakaan-soeharto/00733-1972-presiden-soeharto-menjadi-inspektur-hari-bhayangkara|Presiden Soeharto Menjadi Inspektur Hari Bhayangkara]]
+- [[perpustakaan-soeharto/00734-1968-06-03-presiden-soeharto-tertibkan-pungutan-liar-angkutan-dan-setujui-ruu-pmdn|Presiden Soeharto Tertibkan Pungutan Liar Angkutan dan Setujui RUU]]
 - [[perpustakaan-soeharto/00735-1968-07-04-presiden-soeharto-menerima-menlu-belanda|Presiden Soeharto Menerima Menlu Belanda]]
 - [[perpustakaan-soeharto/00736-1968-07-12-presiden-soeharto-kita-perlu-mengembangkan-koperasi-modern|Presiden Soeharto: Kita Perlu Mengembangkan Koperasi Modern]]
 - [[perpustakaan-soeharto/00737-1968-07-15-presiden-soeharto-rapat-umum-di-tanjung-karang|Presiden Soeharto Rapat Umum di Tanjung Karang]]
@@ -72,6 +70,7 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00899-1968-08-12-presiden-soeharto-pimpin-sidang-kabinet|Presiden Soeharto Pimpin Sidang Kabinet]]
 - [[perpustakaan-soeharto/00903-1968-08-14-presiden-soeharto-hadiri-kenduri-hut-kostrad|Presiden Soeharto Hadiri Kenduri HUT Kostrad]]
 - [[perpustakaan-soeharto/00913-1968-08-18-presiden-soeharto-menerima-kepala-kepala-suku-irian-barat|Presiden Soeharto Menerima Kepala-Kepala Suku Irian Barat]]
+- [[perpustakaan-soeharto/00914-1968-06-20-presiden-soeharto-kita-harus-mencukupi-sandang-dengan-produksi-dalam-negeri|Presiden Soeharto: Kita Harus Mencukupi Sandang dengan Produksi Dalam Negeri]]
 - [[perpustakaan-soeharto/00915-1968-08-23-presiden-soeharto-perpecahan-lemahkan-kekuatan-umat-beragama|Presiden Soeharto: Perpecahan Lemahkan Kekuatan Umat Beragama]]
 - [[perpustakaan-soeharto/00916-1968-08-24-presiden-soeharto-golongan-dan-partai-sentris-harus-ditinggalkan|Presiden Soeharto: Golongan dan Partai Sentris Harus Ditinggalkan]]
 - [[perpustakaan-soeharto/00917-1968-08-26-presiden-soeharto-mulai-kunjungan-ke-sumatera|Presiden Soeharto Mulai Kunjungan Ke Sumatera]]
@@ -107,8 +106,8 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01693-1968-10-26-presiden-soeharto-ummat-islam-harus-buktikan-amal-perbuatan-nyata-untuk-kemajuan|Presiden Soeharto: Ummat Islam Harus Buktikan Amal Perbuatan Nyata Untuk Kemajuan]]
 - [[perpustakaan-soeharto/01694-1968-10-30-presiden-soeharto-bahas-kemungkinan-tindakan-balasan-kepada-singapura|Presiden Soeharto Bahas Kemungkinan Tindakan Balasan Kepada Singapura]]
 
-## 1969 — 132 kliping
 
+## 1969 — 132 kliping
 - [[perpustakaan-soeharto/00012-1969-01-03-presiden-soeharto-larang-anggota-abri-main-judi|Presiden Soeharto Larang Anggota ABRI Main Judi]]
 - [[perpustakaan-soeharto/00013-1969-01-06-presiden-soeharto-menerima-pimpinan-organisasi-islam-asia-afrika|Presiden Soeharto Menerima Pimpinan Organisasi Islam Asia Afrika]]
 - [[perpustakaan-soeharto/00015-1969-01-08-sidang-kabinet-terbatas-presiden-soeharto-menerima-laporan-sejumlah-menteri|Sidang Kabinet Terbatas, Presiden Soeharto Menerima laporan Sejumlah]]
@@ -203,6 +202,8 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/00933-1969-08-07-presiden-soeharto-jawab-nixon-musuh-paling-besar-indonesia-jika-pelita-gagal|Presiden Soeharto Jawab Nixon: Musuh Paling Besar Indonesia Jika Pelita Gagal]]
 - [[perpustakaan-soeharto/00936-1969-08-11-presiden-soeharto-komunisme-dihadapi-dengan-penguatan-idiologi-bangsa|Presiden Soeharto: Komunisme Dihadapi Dengan Penguatan Idiologi Bangsa]]
 - [[perpustakaan-soeharto/00938-1969-08-14-presiden-soeharto-menerima-wakil-bank-dunia|Presiden Soeharto Menerima Wakil Bank Dunia]]
+- [[perpustakaan-soeharto/00939-17-08-1969-presiden-soeharto-kegagalan-pelita-bahaya-terbesar-ri|17-08-1969 Presiden Soeharto: Kegagalan Pelita Bahaya Terbesar RI]]
+- [[perpustakaan-soeharto/00940-hut-kemerdekaan-17-agustus-1969-tandai-kemenangan-pepera|HUT Kemerdekaan 17 Agustus 1969: Tandai Kemenangan Pepera]]
 - [[perpustakaan-soeharto/00948-1969-08-18-presiden-soeharto-menerima-pimpinan-mayoritas-senat-as|Presiden Soeharto Menerima Pimpinan Mayoritas Senat AS]]
 - [[perpustakaan-soeharto/00949-1969-08-19-presiden-soeharto-tentukan-perutusan-perundingan-indonesia-soviet|Presiden Soeharto Tentukan Perutusan Perundingan Indonesia-Soviet]]
 - [[perpustakaan-soeharto/00950-1969-08-24-presiden-soeharto-tidak-ada-de-siliwangisasi|Presiden Soeharto: Tidak Ada  De-Siliwangisasi]]
@@ -238,9 +239,8 @@ Koleksi ini disusun menurut **urutan waktu**, tanpa kategori: yang ber-tanggal m
 - [[perpustakaan-soeharto/01742-1969-10-22-presiden-soeharto-potensi-bangsa-ditentukan-pembinaan-anak-dan-pemuda|Presiden Soeharto: Potensi Bangsa Ditentukan Pembinaan Anak Dan Pemuda]]
 - [[perpustakaan-soeharto/01743-1969-10-23-presiden-soeharto-pemenuhan-pns-harus-rasional|Presiden Soeharto: Pemenuhan PNS Harus Rasional]]
 - [[perpustakaan-soeharto/01744-1969-10-28-presiden-soeharto-serukan-persatuan-pemuda|Presiden Soeharto Serukan Persatuan Pemuda]]
-- [[perpustakaan-soeharto/00939-17-08-1969-presiden-soeharto-kegagalan-pelita-bahaya-terbesar-ri|17-08-1969 Presiden Soeharto: Kegagalan Pelita Bahaya Terbesar RI]]
-- [[perpustakaan-soeharto/00940-hut-kemerdekaan-17-agustus-1969-tandai-kemenangan-pepera|HUT Kemerdekaan 17 Agustus 1969: Tandai Kemenangan Pepera]]
 - [[perpustakaan-soeharto/00455-presiden-soeharto-sholat-ied-di-istana-negara|Presiden Soeharto Sholat Ied di Istana Negara (1969)]]
+
 
 ## 1970 — 135 kliping
 

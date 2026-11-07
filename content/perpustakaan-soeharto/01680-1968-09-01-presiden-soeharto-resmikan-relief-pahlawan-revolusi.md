@@ -1,9 +1,9 @@
 ---
-title: 1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi
+title: '1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi'
 description: 1 Oktober 2013 [Soeharto Library](https://soehartolibrary.id/author/cyril/)
   [No Comment](https://soehartolibrary.id/1968-09-01-presiden-soeharto-resmikan-relief-pahlawan-revolusi/respond)
   99 Views Share on
-date: '1968-09-01'
+date: '1968-10-01'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -20,13 +20,13 @@ tags:
 - presiden-soeharto
 - relief
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-01-presiden-soeharto-resmikan-relief-pahlawan-revolusi/
   judul: 1968-10-01 Presiden Soeharto Resmikan Relief Pahlawan Revolusi
-  tanggal: '1968-09-01'
+  tanggal: '1968-10-01'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto

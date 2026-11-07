@@ -20,8 +20,8 @@ tags:
 - rri
 - sumatera-utara
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: needs_review
+verification_status: needs_review
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-11-presiden-soeharto-rri-wajib-beri-inspirasi-masyarakat/
@@ -31,6 +31,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1968-09-11-presiden-soeharto-rri-wajib-beri-inspirasi-masyarakat/
+- predikat: menyebut
+  objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/1968-09-11-presiden-soeharto-rri-wajib-beri-inspirasi-masyarakat/
+
 ---
 
 

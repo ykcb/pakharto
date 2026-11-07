@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - usman-ali
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-10-17-presiden-soeharto-putuskan-angkat-usman-dan-harun-jadi-pahlawan/
@@ -33,6 +33,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1968-10-17-presiden-soeharto-putuskan-angkat-usman-dan-harun-jadi-pahlawan/
+- predikat: menyebut
+  objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/1968-10-17-presiden-soeharto-putuskan-angkat-usman-dan-harun-jadi-pahlawan/
+
 ---
 
 

@@ -15,8 +15,8 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: needs_review
+verification_status: needs_review
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-08-12-presiden-soeharto-pimpin-sidang-kabinet/

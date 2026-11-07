@@ -1,5 +1,5 @@
 ---
-title: 1968-06-06 1968 Presiden Soeharto Umumkan Susunan Kabinet Pembangunan I
+title: '1968-06-06 Presiden Soeharto Umumkan Susunan Kabinet Pembangunan I'
 description: KAMIS, 6 JUNI 1968, Presiden Soeharto malam ini mengumumkan pembentukan
   dan susunan Kabinet Pembangunan I, yang terdiri atas 18 menteri departemen dan lima
   menteri negara. Dengan demikian kabinet ini adalah lebih sederhana bila...
@@ -20,8 +20,8 @@ tags:
 - presiden-soeharto
 - zaken
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-06-1968-presiden-soeharto-umumkan-susunan-kabinet-pembangunan-i/
@@ -31,10 +31,17 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1968-06-1968-presiden-soeharto-umumkan-susunan-kabinet-pembangunan-i/
+- predikat: menyebut
+  objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/1968-06-1968-presiden-soeharto-umumkan-susunan-kabinet-pembangunan-i/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1968-06-1968-presiden-soeharto-umumkan-susunan-kabinet-pembangunan-i/
+
 ---
 
 
-# 1968-06-06 1968 Presiden Soeharto Umumkan Susunan Kabinet Pembangunan I
+# 1968-06-06 Presiden Soeharto Umumkan Susunan Kabinet Pembangunan I
 
 # Presiden Soeharto Umumkan Susunan Kabinet Pembangunan I
 

@@ -20,8 +20,8 @@ tags:
 - presiden-soeharto
 - tembakau-deli
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-09-03-presiden-soeharto-meninjau-perkebunan-tembakau-deli-pnp-ix-kisaran/

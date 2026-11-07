@@ -25,8 +25,8 @@ tags:
 - presiden-soeharto
 - team-pemberantasan-korupsi
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-05-06-presiden-soeharto-menerima-8-wakil-kesatuan-aksi/

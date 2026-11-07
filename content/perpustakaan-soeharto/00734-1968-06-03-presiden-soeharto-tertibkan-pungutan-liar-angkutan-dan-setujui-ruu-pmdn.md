@@ -1,10 +1,9 @@
 ---
-title: 1968-06-03 Presiden Soeharto Tertibkan Pungutan Liar Angkutan dan Setujui RUU
-  PMDN
+title: '1968-07-03 Presiden Soeharto Tertibkan Pungutan Liar Angkutan dan Setujui RUU PMDN'
 description: SENIN, 03 Juli 1968, Pagi ini Presiden Soeharto memimpin sidang Sub Dewan
   Moneter dan Sub-Dewan Stabilisasi Ekonomi di kantor Presiden Merdeka Barat 15. Sidang
   ini membahas tindak lanjut bagi Instruksi Presiden No. 20/1968 tentang...
-date: '1968-06-03'
+date: '1968-07-03'
 updated: '2026-11-07'
 last_updated: '2026-11-07'
 entity_type: kliping
@@ -24,14 +23,14 @@ tags:
 - pungutan-liar
 - ruu-pmdn
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-06-03-presiden-soeharto-tertibkan-pungutan-liar-angkutan-dan-setujui-ruu-pmdn/
   judul: 1968-06-03 Presiden Soeharto Tertibkan Pungutan Liar Angkutan dan Setujui
     RUU PMDN
-  tanggal: '1968-06-03'
+  tanggal: '1968-07-03'
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
@@ -39,7 +38,7 @@ relasi:
 ---
 
 
-# 1968-06-03 Presiden Soeharto Tertibkan Pungutan Liar Angkutan dan Setujui RUU PMDN
+# 1968-07-03 Presiden Soeharto Tertibkan Pungutan Liar Angkutan dan Setujui RUU PMDN
 
 # Presiden Soeharto Tertibkan Pungutan Liar Angkutan dan Setujui RUU PMDN1
 

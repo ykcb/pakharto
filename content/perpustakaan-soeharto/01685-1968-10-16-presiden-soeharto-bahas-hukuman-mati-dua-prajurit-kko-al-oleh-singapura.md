@@ -22,8 +22,8 @@ tags:
 - singapura
 - usman-ali
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-10-16-presiden-soeharto-bahas-hukuman-mati-dua-prajurit-kko-al-oleh-singapura/

@@ -22,8 +22,8 @@ tags:
 - presiden-soeharto
 - samarinda
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-10-20-presiden-soeharto-rapat-umum-di-lapangan-pemuda-samarinda/
@@ -33,6 +33,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1968-10-20-presiden-soeharto-rapat-umum-di-lapangan-pemuda-samarinda/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1968-10-20-presiden-soeharto-rapat-umum-di-lapangan-pemuda-samarinda/
+
 ---
 
 

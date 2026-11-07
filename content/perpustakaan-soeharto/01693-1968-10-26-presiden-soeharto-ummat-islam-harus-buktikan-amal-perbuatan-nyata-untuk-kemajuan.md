@@ -17,8 +17,8 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-10-26-presiden-soeharto-ummat-islam-harus-buktikan-amal-perbuatan-nyata-untuk-kemajuan/

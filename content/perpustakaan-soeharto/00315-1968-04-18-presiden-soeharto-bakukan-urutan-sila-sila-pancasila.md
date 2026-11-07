@@ -21,8 +21,8 @@ tags:
 - presiden-soeharto
 - uud-1945
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-04-18-presiden-soeharto-bakukan-urutan-sila-sila-pancasila/

@@ -23,8 +23,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1968-10-14-ibnu-sutowo-laporkan-penandatangan-kontrak-eksplorasi-lepas-pantai-dengan-italia/
