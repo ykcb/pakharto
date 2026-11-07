@@ -19,31 +19,11 @@ Kategori: konsep | Path: content/hub/orde-baru.md
 | Deregulasi dan pertumbuhan | 1986–1996 | Pakto 1988, boom ekspor non-migas, pertumbuhan ekonomi tinggi |
 | Krisis dan transisi | 1997–1998 | Krisis moneter Asia, reformasi Mei 1998, pengunduran diri Soeharto |
 
-## Capaian berangka (pointer)
-
-Angka-angka kunci 32 tahun Orde Baru — detail dan sumber primer di Ekonomi Orde Baru dan Kehidupan Rakyat: inflasi 650%→~10%, pertumbuhan ~7%/tahun, beras 12→25,8 juta ton (swasembada 1984, medali FAO), TFR 5,6→2,8, 150.000+ SD Inpres, UN Population Award 1989.
-
-## Jalur baca
-
-- Mulai dari Transisi 1965–1967 untuk memahami asal-usul rezim.
-- Pelajari Dwifungsi ABRI untuk memahami arsitektur kekuasaan militer.
-- Lihat Demokrasi Pancasila dan Pemilu-pemilu Orde Baru untuk sistem politik.
-- Pahami Trilogi Pembangunan sebagai fondasi ekonomi.
-- Cek Soeharto sebagai aktor sentral.
-
-## Sumber
-
-- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan kliping berita Orde Baru](https://soehartolibrary.id/)
-
-
-======================================================================
-DOKUMEN: Transisi 1965–1967
-Kategori: transisi-dan-konstitusi | Path: content/peristiwa/transisi-1965-1967.md
-======================================================================
+## Transisi 1965–1967
 
 **Transisi 1965–1967** adalah periode pergantian kekuasaan dari Presiden Sukarno ke Orde Baru. Transisi ini dipelopori oleh peristiwa-peristiwa kritis: Surat Perintah 11 Maret 1966 (Supersemar), pembentukan Kopkamtib, dan pengangkatan Jenderal Soeharto sebagai pejabat presiden pada Maret 1967.
 
-## Kronologi
+### Kronologi
 
 | Tanggal | Peristiwa | Signifikansi |
 |---|---|---|
@@ -53,18 +33,152 @@ Kategori: transisi-dan-konstitusi | Path: content/peristiwa/transisi-1965-1967.m
 | 27 Maret 1967 | Soeharto diangkat Pejabat Presiden RI | Sidang MPRS menyerahkan kekuasaan penuh kepada Soeharto |
 | Agustus 1967 | Pembentukan Kabinet Ampera | Kabinet pertama pasca-transisi |
 
-## Konteks
+### Konteks
 
 - Eksesibilitas sumber: periode ini masih menjadi objek perdebatan akademik. Beberapa arsip masih dikuasai oleh institusi tertentu.
 - Risiko editorial: **tinggi** karena narasi nasional, militer, dan akademik berbeda. Seluruh klaim harus dilengkapi dengan sumber naskah atau arsip terverifikasi.
 
-## Warisan
+### Warisan
 
 Transisi ini menandai berakhirnya Demokrasi Terpimpin dan awal konsolidasi kekuasaan militer-sipil di bawah Soeharto. Konsep Stabilitas Nasional dan Dwifungsi ABRI tumbuh dari hasil transisi ini.
 
+## Kabinet Pembangunan
+
+**Kabinet Pembangunan** adalah kabinet pertama yang dibentuk Soeharto setelah diangkat menjadi presiden. Para menterinya dilantik pada peristiwa pelantikan Kabinet Pembangunan, di mana Soeharto menyampaikan pidatonya.
+
+### Pelantikan 10 Juni 1968
+- Soeharto melantik para menteri Kabinet Pembangunan.
+- Soeharto menyampaikan pidato yang menegaskan arah pembangunan nasional.
+
+### Aktor yang terlibat
+- Soeharto — presiden yang melantik kabinet.
+
+## Capaian berangka (pointer)
+
+Angka-angka kunci 32 tahun Orde Baru — detail dan sumber primer di Ekonomi Orde Baru dan Kehidupan Rakyat: inflasi 650%→~10%, pertumbuhan ~7%/tahun, beras 12→25,8 juta ton (swasembada 1984, medali FAO), TFR 5,6→2,8, 150.000+ SD Inpres, UN Population Award 1989.
+
+## Jalur baca
+
+- Mulai dari Transisi 1965–1967 untuk memahami asal-usul rezim.
+- Pelajari Dwifungsi ABRI untuk memahami arsitektur kekuasaan militer.
+- Lihat Demokrasi Pancasila dan hub/pemilu-orde-baru untuk sistem politik.
+- Pahami Trilogi Pembangunan sebagai fondasi ekonomi.
+- Cek Soeharto sebagai aktor sentral.
+
 ## Sumber
 
+- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan kliping berita Orde Baru](https://soehartolibrary.id/)
 - **[soehartolibrary.id] ([2026-10-18]):** [Arsip transisi dan dokumen Supersemar](https://soehartolibrary.id/)
+- **[soehartolibrary.id] ([1968-06-10]):** [Pidato Presiden Soeharto pada Sidang Paripurna Pertama Kabinet Pembangunan](https://soehartolibrary.id/1968-06-19-pidato-presiden-soeharto-pada-sidang-paripurna-pertama-kabinet-pembangunan/)
+
+
+======================================================================
+DOKUMEN: Glosarium Istilah Orde Baru
+Kategori: konsep | Path: content/konsep/glosarium-istilah-orde-baru.md
+======================================================================
+
+Empat konsep inti Orde Baru ini sebelumnya berdiri sebagai halaman-halaman pendek. Karena masing-masing hanya satu-dua paragraf definisi, mereka dikumpulkan di sini dalam satu glosarium — isinya utuh, tanpa ada yang dibuang.
+
+Konsep lain yang lebih panjang tetap punya halaman sendiri: Asas Tunggal Pancasila, Floating Mass (Massa Mengambang), dan KKN (Korupsi, Kolusi, dan Nepotisme).
+
+## Trilogi Pembangunan
+
+**Trilogi Pembangunan** adalah konsep inti yang mendasari program pembangunan ekonomi Orde Baru. Konsep ini didefinisikan sebagai gabungan dari tiga poros:
+
+1. **Stabilitas** — kondisi politik dan keamanan yang terkendali sebagai prasyarat pembangunan.
+2. **Pertumbuhan** — peningkatan produksi, investasi, dan ekspor untuk mengangkat PDB.
+3. **Keadilan** — distribusi hasil pembangunan yang merata, terutama melalui pengentasan kemiskinan dan pembangunan pedesaan.
+
+### Latar belakang
+
+Trilogi Pembangunan disampaikan sebagai jawaban atas tuntutan pembangunan pasca-kemerdekaan yang belum optimal. Pada 1968, konsep ini menjadi landasan pembentukan Kabinet Pembangunan dan pelaksanaan Repelita I (REPELITA I, 1969–1974).
+
+### Implementasi
+
+- **Stabilitas:** dijamin oleh Dwifungsi ABRI dan aparat keamanan.
+- **Pertumbuhan:** didorong melalui investasi asing, BUMN, dan proyek infrastruktur.
+- **Keadilan:** diwujudkan dalam program transmigrasi, swamp, dan operasi pasar.
+
+### Kritik
+
+- Praktik keadilan dianggap hanya retorika; hasil pembangunan terkonsentrasi di tangan segelintir konglomerat.
+- Stabilitas yang berlebihan menekan ruang kritik politik.
+
+## Stabilitas Nasional
+
+**Stabilitas Nasional** adalah konsep sentral Orde Baru yang menempatkan ketahanan politik, keamanan, dan sosial sebagai prasyarat utama pembangunan ekonomi dan legitimasi pemerintahan.
+
+### Definisi
+
+Stabilitas Nasional didefinisikan sebagai kondisi di mana sistem politik, ekonomi, dan sosial berjalan tanpa gangguan serius yang dapat membatalkan tujuan pembangunan. Konsep ini menjadi dasar pembatasan kebebasan politik dan pengamanan yang ketat.
+
+### Mekanisme
+
+- **Kopkamtib:** lembaga operasional untuk mengamankan stabilitas dari ancaman internal.
+- **Bakin:** pengumpulan informasi dan intelijen domestik.
+- **Pengendalian partai politik dan media:** untuk menghindari konflik horizontal.
+- **Dwifungsi ABRI:** sebagai ujung tombak penjaga stabilitas di tingkat pemerintahan, BUMN, dan masyarakat.
+
+### Kritik
+
+- Para kritik menilai stabilitas dipakai untuk menekan oposisi dan membatasi kritik.
+- Meskipun indikator ekonomi tumbuh, stabilitas politik dibangun dengan biaya pembatasan hak politik.
+
+### Warisan
+
+Setelah Reformasi 1998, istilah stabilitas nasional tetap dipakai, tetapi dalam kerangka demokratis yang lebih mengakomodasi perbedaan politik.
+
+## Demokrasi Pancasila
+
+**Demokrasi Pancasila** adalah konsep sistem politik yang dianut Orde Baru, menekankan penyelarasan kegiatan politik dan kehidupan bermasyarakat dengan nilai-nilai Pancasila. Praktiknya berwujud pembatasan partai politik, pembentukan Golkar sebagai partai pemerintah, dan pengendalian ruang publik.
+
+### Ciri khas
+
+- **Pancasila sebagai ideologi negara tunggal:** organisasi atau kegiatan yang dianggap bertentangan dengan Pancasila dapat dibubarkan.
+- **Pembatasan partai politik:** hanya ada 3 partai yang diizinkan (Golkar, PPP, PDI).
+- **Golkar sebagai partai pemerintah:** meskipun resmi tidak merupakan partai, Golkar memenangkan setiap pemilu dengan dukungan struktural pemerintah.
+- **Pengendalian media dan asosiasi:** pres meno, pemberian lisensi, dan pengawasan terhadap organisasi massa.
+
+### Mekanisme legitimasi
+
+Sistem ini dibenarkan sebagai cara menjaga **Stabilitas Nasional** dan menghindari kembali konflik politik seperti era Demokrasi Terpimpin. Kritiknya berfokus pada minimnya ruang oposisi dan kecenderungan otoritarian.
+
+### Hubungan dengan konsep lain
+
+- Berhubungan erat dengan Dwifungsi ABRI karena ABRI menjadi penjaga implementasi Demokrasi Pancasila.
+- Diimplementasikan melalui hub/pemilu-orde-baru sebagai mekanisme pemilihan umum yang terkendali.
+
+## Dwifungsi ABRI
+
+**Dwifungsi ABRI** adalah doktrin strategis yang menetapkan Angkatan Bersenjata Republik Indonesia (ABRI) memiliki dua fungsi sekaligus: **fungsi militer** sebagai alat pertahanan negara, dan **fungsi non-militer** sebagai aktifator politik, sosial, dan budaya di tengah masyarakat. Konsep ini menjadi salah satu fondasi arsitektur kekuasaan Orde Baru.
+
+### Asal-usul
+
+Dwifungsi ABRI dipopulerkan pada awal era Orde Baru. Doktrin ini dijiwai oleh Letnan Jenderal A. H. Nasution dalam konsep "Pancasila sebagai dasar negara" yang menempatkan ABRI sebagai kelompok profesional yang netral namun aktif berperan dalam kehidupan nasional. Pada 1968, konsep ini diinternalisasi secara luas di tubuh TNI.
+
+### Dua fungsi
+
+1. **Fungsi pertahanan (militer):** menjaga kedaulatan negara dari ancaman eksternal.
+2. **Fungsi non-militer:** berperan dalam pembangunan nasional, penyuluhan politik, dan stabilitas domestik.
+
+### Mekanisme politik
+
+Dwifungsi ABRI memungkinkan perwira militer mengisi jabatan sipil di pemerintahan, BUMN, dan lembaga negara. Praktik ini dikenal sebagai **dwifungsi praktis**. ABRI juga menempatkan perwakilan di **Golkar** dan lembaga seperti **Kopkamtib** untuk mengamankan sistem.
+
+### Kritik dan warisan
+
+- Di kritik karena mengaburkan garis antara militer dan sipil.
+- Menjadi landasan penetapan Soeharto sebagai presiden dan pengaturan stabilitas nasional.
+- Setelah Reformasi 1998, TNI mengadopsi doktrin **satu fungsi** (hanya pertahanan), meskipun pengaruh dwifungsi masih terasa dalam politik praktis.
+
+---
+
+## Sumber
+
+- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan dokumen pembangunan](https://soehartolibrary.id/)
+- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan dokumen keamanan](https://soehartolibrary.id/)
+- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan dokumen politik Orde Baru](https://soehartolibrary.id/)
+- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan dokumen ABRI](https://soehartolibrary.id/)
 
 
 ======================================================================
@@ -72,25 +186,27 @@ DOKUMEN: Pemilu-pemilu Orde Baru
 Kategori: kekuasaan-dan-legitimasi | Path: content/hub/pemilu-orde-baru.md
 ======================================================================
 
-**Pemilu-pemilu Orde Baru** adalah serangkaian pemilihan umum nasional yang digelar antara tahun 1971 dan 1997. Selama tujuh siklus pemilu, Golkar sebagai partai pemerintah memenangkan suara mayoritas di setiap pemilihan, menegaskan dominasi politik Orde Baru.
+**Pemilu-pemilu Orde Baru** adalah serangkaian pemilihan umum nasional yang digelar antara tahun 1971 dan 1997. Selama enam siklus pemilu, Golkar sebagai partai pemerintah memenangkan suara mayoritas di setiap pemilihan, menegaskan dominasi politik Orde Baru.
 
 ## Daftar pemilu
 
 | Tahun | Partai peserta | Hasil utama |
 |---|---|---|
-| 1971 | 10 partai | Golkar 62,8%, PPP 27,1%, PDI 8,6% |
-| 1977 | 3 partai (Golkar, PPP, PDI) | Golkar 62,1%, PPP 27,0%, PDI 8,9% |
-| 1982 | 3 partai | Golkar 62,1%, PPP 27,0%, PDI 8,9% |
-| 1987 | 3 partai | Golkar 73,1%, PPP 15,8%, PDI 10,9% |
-| 1992 | 3 partai | Golkar 68,1%, PPP 17,0%, PDI 14,9% |
-| 1997 | 3 partai | Golkar 74,5%, PPP 22,4%, PDI 3,1% |
+| 1971 | 10 partai (Golkar, NU, Parmusi, PNI, PSII, Parkindo, Partai Katolik, Perti, IPKI, Murba) | Golkar 62,82%, NU 18,68%, PNI 6,93% |
+| 1977 | 3 partai (Golkar, PPP, PDI) | Golkar 62,11%, PPP 29,29%, PDI 8,60% |
+| 1982 | 3 partai | Golkar 64,34%, PPP 27,78%, PDI 7,88% |
+| 1987 | 3 partai | Golkar 73,16%, PPP 15,97%, PDI 10,87% |
+| 1992 | 3 partai | Golkar 68,10%, PPP 17,01%, PDI 14,89% |
+| 1997 | 3 partai | Golkar 74,51%, PPP 22,43%, PDI 3,06% |
+
+Catatan: PPP dan PDI baru terbentuk lewat fusi partai pada 1973, jadi keduanya belum ada pada Pemilu 1971. Angka 27,12% yang kadang dikutip untuk 1971 adalah gabungan empat partai Islam (NU, Parmusi, PSII, Perti), dan 10,08% gabungan PNI, Parkindo, dan Partai Katolik (data KPU).
 
 ## Karakteristik
 
 - **Pembatasan partai politik:** sejak 1973, hanya tiga partai yang diizinkan: Golkar, PPP, dan PDI.
 - **Keteraturan jadwal:** pemilu digelar konsisten setiap lima tahun — keteraturan administratif yang menurut sebagian pengamat menjadi salah satu sumber legitimasi prosedural Orde Baru.
 - **Partisipasi tinggi:** tingkat partisipasi pemilih selalu di atas 90% — 96,6% (1971), 96,5% (1977 dan 1982), 96,4% (1987), 95,1% (1992), 93,6% (1997) (data KPU, dikutip Nugroho Noto Susanto 2015 via jurnal KPU). Para peneliti mencatat angka tinggi ini berjalan beriringan dengan mobilisasi massa oleh aparatur.
-- **Oposisi elektoral riil:** PPP meraih 27,1% (1971) dan 27,0% (1977); PDI mencapai 14,9% (1992) — angka-angka pada tabel di atas menunjukkan oposisi memiliki basis suara nyata, bukan sekadar pelengkap.
+- **Oposisi elektoral riil:** PPP meraih 29,29% (1977) dan 27,78% (1982); PDI mencapai 14,89% (1992) — angka-angka pada tabel di atas menunjukkan oposisi memiliki basis suara nyata, bukan sekadar pelengkap.
 - **Dukungan aparatur negara:** menurut para peneliti pemilu Orde Baru, media, logistik, dan aparat keamanan dimobilisasi untuk mendukung Golkar.
 - **Independensi penyelenggara:** para pengamat menilai lembaga penyelenggara pemilu (saat itu di bawah Menteri Dalam Negeri) tidak independen karena berada di bawah kendali pemerintah.
 - **Perpecahan oposisi:** PPP dan PDI berulang kali mengalami perpecahan internal; para peneliti mencatat campur tangan pemerintah dalam sejumlah kasus, paling terdokumentasi pada peristiwa 27 Juli 1996 di tubuh PDI.
@@ -103,134 +219,14 @@ Kategori: kekuasaan-dan-legitimasi | Path: content/hub/pemilu-orde-baru.md
 
 ## Warisan
 
-Pemilu 1997 menjadi pemilu terakhir Orde Baru: Golkar meraih 74,5%, PPP 22,4%, dan PDI anjlok ke 3,1% pasca konflik internal 1996 — hasil yang menurut para pengamat diwarnai intervensi terhadap oposisi. Kerusuhan Mei 1998 sendiri dipicu oleh penembakan empat mahasiswa Trisakti (12 Mei 1998) di tengah krisis moneter, bukan oleh hasil pemilu 1997.
+Pemilu 1997 menjadi pemilu terakhir Orde Baru: Golkar meraih 74,51%, PPP 22,43%, dan PDI anjlok ke 3,06% pasca konflik internal 1996 — hasil yang menurut para pengamat diwarnai intervensi terhadap oposisi. Kerusuhan Mei 1998 sendiri dipicu oleh penembakan empat mahasiswa Trisakti (12 Mei 1998) di tengah krisis moneter, bukan oleh hasil pemilu 1997.
 
 ## Sumber
 
 - **[soehartolibrary.id] ([2026-10-18]):** [Arsip pemilu dan dokumen KPU](https://soehartolibrary.id/)
 - **[Jurnal KPU] ([2026-11-04]):** [Peta Partisipasi Pemilih — data partisipasi 1971–1997 via Nugroho Noto Susanto (2015)](https://journal.kpu.go.id/index.php/ERE/article/download/155/63/)
-
-
-======================================================================
-DOKUMEN: Dwifungsi ABRI
-Kategori: kekuasaan-dan-legitimasi | Path: content/konsep/dwifungsi-abri.md
-======================================================================
-
-**Dwifungsi ABRI** adalah doktrin strategis yang menetapkan Angkatan Bersenjata Republik Indonesia (ABRI) memiliki dua fungsi sekaligus: **fungsi militer** sebagai alat pertahanan negara, dan **fungsi non-militer** sebagai aktifator politik, sosial, dan budaya di tengah masyarakat. Konsep ini menjadi salah satu fondasi arsitektur kekuasaan Orde Baru.
-
-## Asal-usul
-
-Dwifungsi ABRI dipopulerkan pada awal era Orde Baru. Doktrin ini dijiwai oleh Letnan Jenderal A. H. Nasution dalam konsep "Pancasila sebagai dasar negara" yang menempatkan ABRI sebagai kelompok profesional yang netral namun aktif berperan dalam kehidupan nasional. Pada 1968, konsep ini diinternalisasi secara luas di tubuh TNI.
-
-## Dua fungsi
-
-1. **Fungsi pertahanan (militer):** menjaga kedaulatan negara dari ancaman eksternal.
-2. **Fungsi non-militer:** berperan dalam pembangunan nasional, penyuluhan politik, dan stabilitas domestik.
-
-## Mekanisme politik
-
-Dwifungsi ABRI memungkinkan perwira militer mengisi jabatan sipil di pemerintahan, BUMN, dan lembaga negara. Praktik ini dikenal sebagai **dwifungsi praktis**. ABRI juga menempatkan perwakilan di **Golkar** dan lembaga seperti **Kopkamtib** untuk mengamankan sistem.
-
-## Kritik dan warisan
-
-- Di kritik karena mengaburkan garis antara militer dan sipil.
-- Menjadi landasan penetapan Soeharto sebagai presiden dan pengaturan stabilitas nasional.
-- Setelah Reformasi 1998, TNI mengadopsi doktrin **satu fungsi** (hanya pertahanan), meskipun pengaruh dwifungsi masih terasa dalam politik praktis.
-
-## Sumber
-
-- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan dokumen ABRI](https://soehartolibrary.id/)
-
-
-======================================================================
-DOKUMEN: Demokrasi Pancasila
-Kategori: kekuasaan-dan-legitimasi | Path: content/konsep/demokrasi-pancasila.md
-======================================================================
-
-**Demokrasi Pancasila** adalah konsep sistem politik yang dianut Orde Baru, menekankan penyelarasan kegiatan politik dan kehidupan bermasyarakat dengan nilai-nilai Pancasila. Praktiknya berwujud pembatasan partai politik, pembentukan Golkar sebagai partai pemerintah, dan pengendalian ruang publik.
-
-## Ciri khas
-
-- **Pancasila sebagai ideologi negara tunggal:** organisasi atau kegiatan yang dianggap bertentangan dengan Pancasila dapat dibubarkan.
-- **Pembatasan partai politik:** hanya ada 3 partai yang diizinkan (Golkar, PPP, PDI).
-- **Golkar sebagai partai pemerintah:** meskipun resmi tidak merupakan partai, Golkar memenangkan setiap pemilu dengan dukungan struktural pemerintah.
-- **Pengendalian media dan asosiasi:** pres meno, pemberian lisensi, dan pengawasan terhadap organisasi massa.
-
-## Mekanisme legitimasi
-
-Sistem ini dibenarkan sebagai cara menjaga **Stabilitas Nasional** dan menghindari kembali konflik politik seperti era Demokrasi Terpimpin. Kritiknya berfokus pada minimnya ruang oposisi dan kecenderungan otoritarian.
-
-## Hubungan dengan konsep lain
-
-- Berhubungan erat dengan Dwifungsi ABRI karena ABRI menjadi penjaga implementasi Demokrasi Pancasila.
-- Diimplementasikan melalui Pemilu-pemilu Orde Baru sebagai mekanisme pemilihan umum yang terkendali.
-
-## Sumber
-
-- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan dokumen politik Orde Baru](https://soehartolibrary.id/)
-
-
-======================================================================
-DOKUMEN: Trilogi Pembangunan
-Kategori: ekonomi-dan-pembangunan | Path: content/konsep/trilogi-pembangunan.md
-======================================================================
-
-**Trilogi Pembangunan** adalah konsep inti yang mendasari program pembangunan ekonomi Orde Baru. Konsep ini didefinisikan sebagai gabungan dari tiga poros:
-
-1. **Stabilitas** — kondisi politik dan keamanan yang terkendali sebagai prasyarat pembangunan.
-2. **Pertumbuhan** — peningkatan produksi, investasi, dan ekspor untuk mengangkat PDB.
-3. **Keadilan** — distribusi hasil pembangunan yang merata, terutama melalui pengentasan kemiskinan dan pembangunan pedesaan.
-
-## Latar belakang
-
-Trilogi Pembangunan disampaikan sebagai jawaban atas tuntutan pembangunan pasca-kemerdekaan yang belum optimal. Pada 1968, konsep ini menjadi landasan pembentukan Kabinet Pembangunan dan pelaksanaan Repelita I (REPELITA I, 1969–1974).
-
-## Implementasi
-
-- **Stabilitas:** dijamin oleh Dwifungsi ABRI dan aparat keamanan.
-- **Pertumbuhan:** didorong melalui investasi asing, BUMN, dan proyek infrastruktur.
-- **Keadilan:** diwujudkan dalam program transmigrasi, swamp, dan operasi pasar.
-
-## Kritik
-
-- Praktik keadilan dianggap hanya retorika; hasil pembangunan terkonsentrasi di tangan segelintir konglomerat.
-- Stabilitas yang berlebihan menekan ruang kritik politik.
-
-## Sumber
-
-- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan dokumen pembangunan](https://soehartolibrary.id/)
-
-
-======================================================================
-DOKUMEN: Stabilitas Nasional
-Kategori: kekuasaan-dan-legitimasi | Path: content/konsep/stabilitas-nasional.md
-======================================================================
-
-**Stabilitas Nasional** adalah konsep sentral Orde Baru yang menempatkan ketahanan politik, keamanan, dan sosial sebagai prasyarat utama pembangunan ekonomi dan legitimasi pemerintahan.
-
-## Definisi
-
-Stabilitas Nasional didefinisikan sebagai kondisi di mana sistem politik, ekonomi, dan sosial berjalan tanpa gangguan serius yang dapat membatalkan tujuan pembangunan. Konsep ini menjadi dasar pembatasan kebebasan politik dan pengamanan yang ketat.
-
-## Mekanisme
-
-- **Kopkamtib:** lembaga operasional untuk mengamankan stabilitas dari ancaman internal.
-- **Bakin:** pengumpulan informasi dan intelijen domestik.
-- **Pengendalian partai politik dan media:** untuk menghindari konflik horizontal.
-- **Dwifungsi ABRI:** sebagai ujung tombak penjaga stabilitas di tingkat pemerintahan, BUMN, dan masyarakat.
-
-## Kritik
-
-- Para kritik menilai stabilitas dipakai untuk menekan oposisi dan membatasi kritik.
-- Meskipun indikator ekonomi tumbuh, stabilitas politik dibangun dengan biaya pembatasan hak politik.
-
-## Warisan
-
-Setelah Reformasi 1998, istilah stabilitas nasional tetap dipakai, tetapi dalam kerangka demokratis yang lebih mengakomodasi perbedaan politik.
-
-## Sumber
-
-- **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan dokumen keamanan](https://soehartolibrary.id/)
+- **[KPU] ([2026-11-07]):** [Sejarah Pemilu 1971 — hasil perolehan suara](https://jakarta.kpu.go.id/page/read/pemilu-1971)
+- **[KPU] ([2026-11-07]):** [Pemilu 1977–1997 — hasil perolehan suara](https://jakarta.kpu.go.id/page/read/pemilu-1977-1997)
 
 
 ======================================================================
@@ -238,14 +234,14 @@ DOKUMEN: Soeharto
 Kategori: kekuasaan-dan-legitimasi | Path: content/aktor/soeharto.md
 ======================================================================
 
-**Soeharto** adalah aktor sentral Orde Baru sebagai presiden dan pejabat presiden sejak 1967. Biografi lengkap disimpan di wiki Soeharto ([pakharto.my.id/aktor/soeharto](https://pakharto.my.id/aktor/soeharto)); halaman ini hanya merangkum peran sistemiknya dalam arsitektur Orde Baru.
+**Soeharto** adalah aktor sentral Orde Baru sebagai pejabat presiden sejak 1967 dan presiden sejak 1968. Biografi lengkap disimpan di wiki Soeharto ([pakharto.my.id/aktor/soeharto](https://pakharto.my.id/aktor/soeharto)); halaman ini hanya merangkum peran sistemiknya dalam arsitektur Orde Baru.
 
 || | |
 |---|---|
 | **Nama lengkap** | Soeharto |
 | **Lahir** | 1921-06-08 |
 | **Wafat** | 2008-01-27 |
-| **Jabatan** | Presiden RI ke-2 (1967–1998); Pejabat Presiden (1967–1968) |
+| **Jabatan** | Presiden RI ke-2 (1968–1998); Pejabat Presiden (1967–1968) |
 | **Afiliasi utama** | Golkar, ABRI, Korpri |
 | **Konsep kunci** | Dwifungsi ABRI, Demokrasi Pancasila, Stabilitas Nasional, Trilogi Pembangunan |
 
@@ -274,9 +270,10 @@ Data yang umum dikutip untuk 32 tahun kepemimpinan Soeharto (lihat Ekonomi Orde 
 
 ## Rekam jejak bertanggal
 
-- 1965-03-11 — Terbitkan Supersemar; meningkatkan kredibilitas sebagai pembawa transisi.
-- 1967-03-27 — Diangkat sebagai Pejabat Presiden RI oleh MPRS.
-- 1968-06-10 — Dilantik sebagai Presiden RI; bentuk Kabinet Pembangunan.
+- 1966-03-11 — Supersemar diterbitkan; meningkatkan kredibilitas sebagai pembawa transisi.
+- 1967-03-12 — Diangkat sebagai Pejabat Presiden RI oleh MPRS.
+- 1968-03-27 — Ditetapkan sebagai Presiden RI oleh MPRS.
+- 1968-06-10 — Kabinet Pembangunan dilantik.
 - 1971-07-03 — Gelar pemilu pertama; Golkar memenangkan suara mayoritas.
 - 1984 — Indonesia dinyatakan swasembada beras; Soeharto menerima medali FAO di Roma.
 - 1989 — Menerima UN Population Award atas keberhasilan program Keluarga Berencana.
@@ -328,7 +325,7 @@ Di sisi lain, kerangka ekonomi yang sama mewariskan fondasi yang masih dipakai h
 - Peluncuran Rencana Pembangunan Lima Tahun Pertama (Repelita I: 1969–1974) dengan penekanan utama pada rehabilitasi prasarana, swasembada beras, dan pemulihan industri perkebunan.
 
 ### 1974-01-15
-- Meletusnya Peristiwa Malari 1974 di Jakarta sebagai protes mahasiswa terhadap dominasi modal asing Jepang dan kecemburuan sosial atas keistimewaan konglomerat kroni istana. Pemerintah merespons dengan mewajibkan kepemilikan saham mitra pribumi minimal 51%.
+- Meletusnya peristiwa/malari-1974 di Jakarta sebagai protes mahasiswa terhadap dominasi modal asing Jepang dan kecemburuan sosial atas keistimewaan konglomerat kroni istana. Pemerintah merespons dengan mewajibkan kepemilikan saham mitra pribumi minimal 51%.
 
 ### 1984-11-14
 - Presiden Soeharto menerima medali penghargaan dari Organisasi Pangan dan Pertanian Dunia (FAO) di Roma, Italia, atas keberhasilan Indonesia mengubah status dari importir beras terbesar di dunia menjadi negara yang berswasembada beras.
@@ -538,7 +535,7 @@ Kopkamtib beroperasi dengan jaringan hierarkis dari pusat hingga ke daerah:
 | Periode | Panglima Kopkamtib (Pangkopkamtib) | Catatan Kebijakan Utama |
 |---|---|---|
 | **1965–1973** | Jenderal Soeharto | Konsolidasi kekuasaan militer pasca-G30S, pembentukan Laksusda |
-| **1973–1974** | Jenderal Soemitro | Pendekatan dialogis awal dengan mahasiswa hingga meletusnya Peristiwa Malari 1974 |
+| **1973–1974** | Jenderal Soemitro | Pendekatan dialogis awal dengan mahasiswa hingga meletusnya peristiwa/malari-1974 |
 | **1974–1978** | Jenderal Soeharto (Diambil alih langsung) | Pembubaran Aspri, pembersihan kampus, dan penertiban pers nasional |
 | **1978–1983** | Laksamana Sudomo | Operasi Tertib (Opstib), penanganan kasus pembajakan pesawat Woyla 1981 |
 | **1983–1988** | Jenderal L. B. Moerdani | Pendekatan keamanan terintegrasi ABRI, penanganan Peristiwa Tanjung Priok 1984 |

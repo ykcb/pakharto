@@ -1,9 +1,9 @@
 ---
 title: "Soeharto"
-description: "Presiden Republik Indonesia kedua (1967–1998) yang memimpin transisi dari Sukarno ke Orde Baru, membentuk arsitektur kekuasaan politik, ekonomi, dan keamanan yang bertahan 3 dekade."
+description: "Presiden Republik Indonesia kedua (1968–1998) yang memimpin transisi dari Sukarno ke Orde Baru, membentuk arsitektur kekuasaan politik, ekonomi, dan keamanan yang bertahan 3 dekade."
 date: 1921-06-08
-updated: 2026-11-04
-last_updated: "2026-11-04"
+updated: 2026-11-07
+last_updated: "2026-11-07"
 entity_type: aktor
 entity_id: "soeharto"
 aliases:
@@ -47,14 +47,14 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-**Soeharto** adalah aktor sentral [[hub/orde-baru|Orde Baru]] sebagai presiden dan pejabat presiden sejak 1967. Biografi lengkap disimpan di wiki Soeharto ([pakharto.my.id/aktor/soeharto](https://pakharto.my.id/aktor/soeharto)); halaman ini hanya merangkum peran sistemiknya dalam arsitektur Orde Baru.
+**Soeharto** adalah aktor sentral [[hub/orde-baru|Orde Baru]] sebagai pejabat presiden sejak 1967 dan presiden sejak 1968. Biografi lengkap disimpan di wiki Soeharto ([pakharto.my.id/aktor/soeharto](https://pakharto.my.id/aktor/soeharto)); halaman ini hanya merangkum peran sistemiknya dalam arsitektur Orde Baru.
 
 || | |
 |---|---|
 | **Nama lengkap** | Soeharto |
 | **Lahir** | 1921-06-08 |
 | **Wafat** | 2008-01-27 |
-| **Jabatan** | Presiden RI ke-2 (1967–1998); Pejabat Presiden (1967–1968) |
+| **Jabatan** | Presiden RI ke-2 (1968–1998); Pejabat Presiden (1967–1968) |
 | **Afiliasi utama** | Golkar, ABRI, Korpri |
 | **Konsep kunci** | Dwifungsi ABRI, Demokrasi Pancasila, Stabilitas Nasional, Trilogi Pembangunan |
 
@@ -83,9 +83,10 @@ Data yang umum dikutip untuk 32 tahun kepemimpinan Soeharto (lihat [[hub/ekonomi
 
 ## Rekam jejak bertanggal
 
-- 1965-03-11 — Terbitkan Supersemar; meningkatkan kredibilitas sebagai pembawa transisi.
-- 1967-03-27 — Diangkat sebagai Pejabat Presiden RI oleh MPRS.
-- 1968-06-10 — Dilantik sebagai Presiden RI; bentuk Kabinet Pembangunan.
+- 1966-03-11 — Supersemar diterbitkan; meningkatkan kredibilitas sebagai pembawa transisi.
+- 1967-03-12 — Diangkat sebagai Pejabat Presiden RI oleh MPRS.
+- 1968-03-27 — Ditetapkan sebagai Presiden RI oleh MPRS.
+- 1968-06-10 — Kabinet Pembangunan dilantik.
 - 1971-07-03 — Gelar pemilu pertama; Golkar memenangkan suara mayoritas.
 - 1984 — Indonesia dinyatakan swasembada beras; Soeharto menerima medali FAO di Roma.
 - 1989 — Menerima UN Population Award atas keberhasilan program Keluarga Berencana.

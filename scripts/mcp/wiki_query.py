@@ -379,10 +379,22 @@ class WikiQuery:
         conn.close()
 
         rel_path = row["path"] if row else path_or_id
-        full_path = self.repo_dir / rel_path
 
-        if not full_path.exists() and not full_path.suffix:
-            full_path = self.repo_dir / f"{rel_path}.md"
+        # Anti path traversal (audit 7 Nov 2026): hanya file .md di bawah
+        # content/ yang boleh dibaca. Tolak path absolut, "..", dan symlink
+        # yang lolos keluar dari content/.
+        if Path(rel_path).is_absolute():
+            return {"found": False, "path": rel_path, "error": "Path absolut tidak diizinkan"}
+        candidate = (self.content_dir / rel_path)
+        if not candidate.suffix:
+            candidate = Path(str(candidate) + ".md")
+        candidate = candidate.resolve()
+        root = self.content_dir.resolve()
+        if candidate != root and root not in candidate.parents:
+            return {"found": False, "path": rel_path, "error": "Path di luar direktori konten"}
+        if candidate.suffix.lower() != ".md":
+            return {"found": False, "path": rel_path, "error": "Hanya file Markdown yang diizinkan"}
+        full_path = candidate
 
         if not full_path.exists():
             return {"found": False, "path": rel_path, "error": "File tidak ditemukan di disk"}
