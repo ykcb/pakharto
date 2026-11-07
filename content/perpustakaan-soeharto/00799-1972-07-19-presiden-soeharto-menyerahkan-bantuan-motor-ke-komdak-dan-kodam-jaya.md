@@ -23,8 +23,8 @@ tags:
 - presiden-soeharto
 - sepeda-motor
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-19-presiden-soeharto-menyerahkan-bantuan-motor-ke-komdak-dan-kodam-jaya/

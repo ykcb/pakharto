@@ -23,8 +23,8 @@ tags:
 - sumitro-djojohadikusumo
 - widjojo-nitisastro
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-09-06-presiden-soeharto-minta-percepatan-penyempurnaan-prosedur-penanaman-modal/

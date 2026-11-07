@@ -25,8 +25,8 @@ tags:
 - presiden-soeharto
 - utusan-istimewa
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-10-16-presiden-soeharto-indonesia-tidak-mudah-melupakan-bantuan-peking-terhadap-kudeta-pki/

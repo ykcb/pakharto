@@ -23,8 +23,8 @@ tags:
 - soeharto
 - usaha
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah/
@@ -34,6 +34,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1972-03-02-presiden-soeharto-mencabut-sumbangan-wajib-izin-usaha-di-daerah/
+
 ---
 
 

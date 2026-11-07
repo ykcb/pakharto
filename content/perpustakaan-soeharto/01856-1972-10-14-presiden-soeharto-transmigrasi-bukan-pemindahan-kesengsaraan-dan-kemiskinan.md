@@ -23,8 +23,8 @@ tags:
 - presiden-soeharto
 - transmigrasi
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-10-14-presiden-soeharto-transmigrasi-bukan-pemindahan-kesengsaraan-dan-kemiskinan/

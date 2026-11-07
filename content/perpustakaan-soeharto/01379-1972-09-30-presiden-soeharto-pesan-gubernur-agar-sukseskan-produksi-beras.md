@@ -27,8 +27,8 @@ tags:
 - sri-paku-alam
 - wakil-gubernur-di-yogyakarta
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-09-30-presiden-soeharto-pesan-gubernur-agar-sukseskan-produksi-beras/

@@ -27,8 +27,8 @@ tags:
 - tran-van-lam
 - vietnam-selatan
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-07-03-presiden-soeharto-penyelesaian-indocina-berpengaruh-pada-pembangunan-asia-tenggara/

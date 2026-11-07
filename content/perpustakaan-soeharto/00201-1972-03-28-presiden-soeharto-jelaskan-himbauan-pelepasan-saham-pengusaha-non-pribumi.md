@@ -23,8 +23,8 @@ tags:
 - pribumi
 - soeharto
 risiko_editorial: sedang
-status: source_checked
-verification_status: source_checked
+status: cross_checked
+verification_status: cross_checked
 confidence: medium
 sumber:
 - url: https://soehartolibrary.id/1972-03-28-presiden-soeharto-jelaskan-himbauan-pelepasan-saham-pengusaha-non-pribumi/
@@ -35,6 +35,10 @@ relasi:
 - predikat: dokumen_tentang
   objek: soeharto
   sumber: https://soehartolibrary.id/1972-03-28-presiden-soeharto-jelaskan-himbauan-pelepasan-saham-pengusaha-non-pribumi/
+- predikat: menyebut
+  objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1972-03-28-presiden-soeharto-jelaskan-himbauan-pelepasan-saham-pengusaha-non-pribumi/
+
 ---
 
 
