@@ -30,6 +30,9 @@ relasi:
   objek: krisis-dan-reformasi-1998
   sumber: https://pakharto.my.id/
 - predikat: memuat_hub
+  objek: jelajahi-topik
+  sumber: https://pakharto.my.id/
+- predikat: memuat_hub
   objek: repelita
   sumber: https://pakharto.my.id/
 - predikat: memuat_hub
@@ -49,7 +52,7 @@ confidence: high
 
 > **Selamat datang di Wiki Soeharto.** Ensiklopedia digital terkurasi dan berbasis data arsip primer (pidato kenegaraan, dokumen regulasi, data statistik, dan kliping pers sezaman) untuk memahami secara obyektif bagaimana sistem Orde Baru dibangun, dijalankan selama 32 tahun, dan berakhir pada 1998.
 
-Wiki ini mengindeks **1.140 halaman** — 1.112 kliping arsip dan 28 halaman kurasi — dilengkapi jejaring relasi antarentitas, peta konsep, serta jalur baca tematik untuk memudahkan generasi muda, peneliti, dan publik menelusuri sejarah secara presisi tanpa distorsi rumor.
+Wiki ini mengindeks **1.141 halaman** — 1.112 kliping arsip dan 29 halaman kurasi — dilengkapi jejaring relasi antarentitas, peta konsep, serta jalur baca tematik untuk memudahkan generasi muda, peneliti, dan publik menelusuri sejarah secara presisi tanpa distorsi rumor.
 
 ---
 
@@ -66,6 +69,19 @@ Track baru yang menggali *best practices* era Orde Baru yang masih relevan hari 
 - **Peta Sistemik Lengkap**: [[hub/orde-baru|Orde Baru (1966–1998)]] — Ringkasan periodisasi 32 tahun, perbandingan capaian vs kelemahan, dan warisan kelembagaan.
 - **Aktor Sentral**: [[aktor/soeharto|Jenderal Besar Soeharto]] — Profil politik, jejaring kekuasaan, gaya kepemimpinan, dan posisi historisnya.
 - **Kliping Soeharto**: [[perpustakaan-soeharto|Arsip Artikel & Pidato Soeharto]] — 1.112 kliping, pidato, dan artikel dari soehartolibrary.id.
+
+---
+
+## 🧭 Jelajahi Topik: Jalur Baca Tematik
+
+Baru di wiki ini dan tidak tahu harus mulai dari mana? [[hub/jelajahi-topik|Jelajahi Topik]] mengelompokkan seluruh halaman kurasi ke dalam enam jalur baca dengan urutan yang disarankan:
+
+- **Ekonomi & Pembangunan** — dari Repelita ke swasembada 1984 dan warisannya.
+- **Stabilitas & Keamanan** — dari Malari dan Tanjung Priok ke Petrus: mengapa stabilitas dijaga begitu ketat.
+- **Kehidupan Rakyat** — sekolah, kesehatan, penyuluhan, dan gotong royong.
+- **Politik & Pemilu** — Golkar, pemilu enam kali, dan konsep massa mengambang.
+- **Krisis & Reformasi** — bagaimana 32 tahun itu berakhir.
+- **Istilah Kunci** — glosarium Asas Tunggal, Dwifungsi, KKN, dan lain-lain.
 
 ---
 
