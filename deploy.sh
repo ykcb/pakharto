@@ -35,8 +35,8 @@ if [ "$HTML_COUNT" -lt "$MD_COUNT" ]; then
   exit 1
 fi
 
-echo "=== [6/7] Copying root assets (robots.txt, llms.txt, llms-full.txt) ==="
-cp scripts/assets/robots.txt scripts/assets/llms.txt scripts/assets/llms-full.txt public/
+echo "=== [6/7] Copying root assets (robots.txt, llms.txt, llms-full.txt, yandex verification) ==="
+cp scripts/assets/robots.txt scripts/assets/llms.txt scripts/assets/llms-full.txt scripts/assets/yandex_2bee282885b1cc97.html public/
 
 echo "=== [7/7] Deploying to live web root (/var/www/pakharto.my.id/public/) ==="
 rsync -a --delete /home/ubuntu/quartz/public/ /var/www/pakharto.my.id/public/
