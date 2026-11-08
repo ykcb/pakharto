@@ -245,12 +245,32 @@ Kategori: kekuasaan-dan-legitimasi | Path: content/aktor/soeharto.md
 | **Afiliasi utama** | Golkar, ABRI, Korpri |
 | **Konsep kunci** | Dwifungsi ABRI, Demokrasi Pancasila, Stabilitas Nasional, Trilogi Pembangunan |
 
+## Masa kecil dan pendidikan (1921–1940)
+
+Soeharto lahir 8 Juni 1921 di Dusun Kemusuk, Yogyakarta, dari pasangan Kertosudiro — petani yang juga bertugas sebagai pembantu lurah urusan pengairan sawah — dan Sukirah. Kedua orang tuanya bercerai ketika ia masih kecil. Ia diasuh neneknya, Mbah Kromodiryo, lalu dititipkan kepada bibinya yang menikah dengan Prawirowihardjo, seorang mantri tani di Wuryantoro, Wonogiri. Di rumah Prawirowihardjo ia diperlakukan sebagai anak tertua dan mendapat pendidikan agama yang kuat.
+
+Jalur pendidikannya — yang berpindah-pindah mengikuti keluarga — terverifikasi dari biografi standar (O.G. Roeder, *Anak Desa*, 1976) dan biodata resmi:
+
+| Tahap | Keterangan |
+|---|---|
+| Sekolah Ongko Loro, Kemusuk | 1929–1931 |
+| Sekolah Rakyat, Wuryantoro | 1931–1934 (biodata resmi menulis 1931–1935) |
+| Sekolah lanjutan (Schakel/Vakschool), Wonogiri | 1934–1935 |
+| SMP Muhammadiyah, Yogyakarta | 1935–1939 (lulus 1939) |
+| Pembantu klerek, Bank Desa (Volksbank), Wuryantoro | 1939–1940 |
+| Sekolah Militer KNIL, Gombong | Masuk 1 Juni 1940; lulus dasar 2 Desember 1940, lalu Sekolah Kader |
+| SMA (C), Semarang | 1956 (ijazah kesetaraan, diambil saat menjabat Kepala Staf Diponegoro) |
+
+Menurut otobiografinya, *Soeharto: Pikiran, Ucapan dan Tindakan Saya* (1988), masa kecil di desa membentuk karakternya: ia bermain di sawah sambil digendong Mbah Kromo — duduk di atas garu dan memberi isyarat kepada kerbau untuk maju atau berbelok — mencari belut di sawah, dan pernah menelan uang satu bil (setengah sen) yang ditinggalkan ibunya. Di Wuryantoro ia mengagumi Prawirowihardjo yang mengubah kebun percontohan di Tangkil dari tandus menjadi subur, belajar mengaji setiap sore di langgar, berpuasa Senin dan Kamis, dan tidur di tritisan (di bawah ujung atap rumah). Falsafah hidup yang ia pegang — "Ilmu Padi", rendah hati seperti padi yang makin berisi makin merunduk — berakar dari masa ini.
+
+Pada 26 Desember 1947 ia menikah dengan Siti Hartinah (Ibu Tien) di Solo. Dari pernikahan itu mereka dikaruniai enam anak: Siti Hardiyanti Hastuti (Tutut), Sigit Harjojudanto, Bambang Trihatmodjo, Siti Hediati Herijadi (Titiek), Hutomo Mandala Putra (Tommy), dan Siti Hutami Endang Adiningsih (Mamiek).
+
 ## Peran sistemik dalam Orde Baru
 
 Soeharto bukan sekadar pemilik jabatan tertinggi; ia adalah arsitek dan penjaga hubungan antar konsep sentral Orde Baru:
 - **Transisi 1965–1967:** melalui Supersemar dan pengangkatan sebagai pejabat presiden, Soeharto mengendalikan pergantian rezim dari Sukarno ke Orde Baru.
 - **Kekuasaan militer:** memegang Kendali atas Dwifungsi ABRI dan lembaga keamanan seperti Kopkamtib untuk menstabilkan sistem.
-- **Politik:** menetapkan Demokrasi Pancasila dan membentuk Golkar sebagai partai pemerintah, sekaligus mengelola serangkaian pemilu yang dimenangkan Golkar.
+- **Politik:** menetapkan Demokrasi Pancasila dan menjadikan Golkar sebagai partai pemerintah, sekaligus mengelola serangkaian pemilu yang dimenangkan Golkar.
 - **Ekonomi:** mendorong Trilogi Pembangunan melalui Kabinet Pembangunan dan program Repelita.
 - **Stabilitas:** menerapkan konsep Stabilitas Nasional sebagai prasyarat legitimasi dan pembangunan.
 
@@ -263,26 +283,53 @@ Data yang umum dikutip untuk 32 tahun kepemimpinan Soeharto (lihat Ekonomi Orde 
 | Inflasi | 650% (1966) → ~10% |
 | Pertumbuhan ekonomi | Rata-rata ~7% per tahun |
 | Produksi beras | 12 juta ton (1969) → 25,8 juta ton (1984); swasembada beras 1984 |
-| Penghargaan pangan | Medali FAO, Roma 1984 |
+| Penghargaan pangan | Medali FAO, Roma 1985 |
 | Fertilitas (TFR) | 5,6 → 2,8 |
 | SD Inpres | 150.000+ sekolah dibangun |
 | Kependudukan | UN Population Award 1989 |
 
 ## Rekam jejak bertanggal
 
+- 1940-06-01 — Masuk Sekolah Militer KNIL di Gombong; terpilih menjadi prajurit teladan di Sekolah Bintara.
+- 1945-10-05 — Bergabung dengan Tentara Keamanan Rakyat (TKR) pada hari pembentukannya.
+- 1947-12-26 — Menikah dengan Siti Hartinah di Solo.
 - 1966-03-11 — Supersemar diterbitkan; meningkatkan kredibilitas sebagai pembawa transisi.
 - 1967-03-12 — Diangkat sebagai Pejabat Presiden RI oleh MPRS.
 - 1968-03-27 — Ditetapkan sebagai Presiden RI oleh MPRS.
 - 1968-06-10 — Kabinet Pembangunan dilantik.
 - 1971-07-03 — Gelar pemilu pertama; Golkar memenangkan suara mayoritas.
-- 1984 — Indonesia dinyatakan swasembada beras; Soeharto menerima medali FAO di Roma.
+- 1984 — Indonesia mencapai swasembada beras.
+- 1985-11-14 — Berpidato di Konferensi FAO ke-23 di Roma dan menerima medali "From Rice to Self Sufficiency" atas swasembada 1984.
 - 1989 — Menerima UN Population Award atas keberhasilan program Keluarga Berencana.
 - 1998-05-21 — Mundur dari jabatan presiden.
+- 2008-01-27 — Wafat di Rumah Sakit Pusat Pertamina, Jakarta; dimakamkan di Astana Giribangun, Jawa Tengah, di samping Siti Hartinah.
+
+## Batas data
+
+- **Koreksi tahun FAO (diperbaiki di halaman ini):** swasembada beras dicapai 1984, tetapi medali FAO diterima Soeharto di Roma pada **14 November 1985** (Konferensi FAO ke-23), bukan 1984 — versi lama halaman ini menulis 1984 untuk keduanya.
+- **Klaim sumber yang SALAH dan tidak dipakai:**
+  1. "Resmi diangkat sebagai Presiden Indonesia pada 12 Maret 1967" — pada 12 Maret 1967 Soeharto diangkat sebagai **Pejabat Presiden**; Presiden penuh baru pada 27 Maret 1968.
+  2. "Sempat diadili dengan tuduhan korupsi" — Soeharto tidak pernah menjalani persidangan; perkara pidananya dihentikan karena kondisi kesehatan.
+  3. "Komandan Brigade Paragola" — tidak ada kesatuan bernama demikian dalam riwayat jabatan Soeharto; kemungkinan salah tulis/salah dengar dari sumbernya.
+  4. "Menciptakan Golkar" — Sekber Golkar didirikan 1964, sebelum Orde Baru; Soeharto menjadikannya mesin pemilu rezim, bukan pendirinya.
+- **Klaim yang lemah:** keterlibatan Soeharto dalam penumpasan PRRI/Permesta — operasi itu terutama di Sumatra dan Sulawesi, sementara komandonya pada 1950-an berada di Jawa Tengah (melawan DI/TII); peran langsungnya tidak terdokumentasi sejelas itu.
+- **Atribusi, bukan fakta:** penjelasan pengunduran diri 1998 sebagai "pengkhianatan para pembantu dekat" adalah penilaian para pendukungnya, bukan fakta yang bisa dicek; halaman ini mencatat pengunduran diri sebagai peristiwa (21 Mei 1998) tanpa atribusi sebab tunggal.
+- **Detail otobiografi** (garu, belut, uang tertelan, kebun Tangkil, puasa Senin-Kamis) berasal dari otobiografi Soeharto sendiri — ingatan pribadi, bukan dokumen arsip; dicatat sebagai kesaksian diri, bukan verifikasi independen.
 
 ## Sumber
 
 - **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan kliping berita Soeharto](https://soehartolibrary.id/)
 - **[pakharto.my.id] ([2026-10-18]):** [Wiki Soeharto — aktor](https://pakharto.my.id/aktor/soeharto)
+- **Otobiografi:** Soeharto, G. Dwipayana & Ramadhan K.H., *Soeharto: Pikiran, Ucapan dan Tindakan Saya* (1988) — sumber masa kecil dan falsafah "Ilmu Padi".
+- **Biografi standar:** O.G. Roeder, *Anak Desa: Biografi Presiden Soeharto* (1976) — jalur pendidikan dan awal karier, dikutip dari ringkasan akademik.
+- **Serial "Biografi", soehartois.com (7 artikel, 2019–2024)** — sumber sekunder komunitas; dipakai sebagai bahan sudut pandang dan kerangka, bukan otoritas fakta:
+  - https://www.soehartois.com/2019/12/biografi.html
+  - https://www.soehartois.com/2020/01/akar-saya-dari-desa-hm-soeharto.html
+  - https://www.soehartois.com/2020/03/singgkat-pakharto-yang-di-ambil-dari.html
+  - https://www.soehartois.com/2024/10/tahap-awal-kehidupan-19211945.html
+  - https://www.soehartois.com/2024/10/tahap-karier-militer-dan-perjuangan.html
+  - https://www.soehartois.com/2024/10/masa-kepemimpinan-19661998.html
+  - https://www.soehartois.com/2024/10/masa-purna-jabatan-dan-akhir-kehidupan.html
 
 
 ======================================================================
@@ -361,12 +408,15 @@ DOKUMEN: Peristiwa Malari 1974
 Kategori: keamanan-dan-kebebasan | Path: content/peristiwa/malari-1974.md
 ======================================================================
 
-> **Ringkasan:** Peristiwa Malari (Malapetaka Lima Belas Januari 1974) adalah gelombang demonstrasi mahasiswa terbesar pada dekade pertama Orde Baru yang memprotes penetrasi modal asing Jepang, korupsi lingkaran istana, dan lembaga Asisten Pribadi (Aspri) Presiden saat kunjungan Perdana Menteri Jepang Kakuei Tanaka ke Jakarta. Aksi damai berujung pada pembakaran pusat perbelanjaan Pasar Senen, korban jiwa 11 orang, dan dimanfaatkan pemerintah untuk menyingkirkan faksi militer oposan Jenderal Soemitro, membubarkan dewan mahasiswa lewat konsep Normalisasi Kehidupan Kampus (NKK/BKK), serta membredel 12 surat kabar independen.
+> **Ringkasan:** Peristiwa Malari (Malapetaka Lima Belas Januari 1974) adalah gelombang demonstrasi mahasiswa pada 15–16 Januari 1974 di Jakarta, bertepatan dengan kunjungan Perdana Menteri Jepang Kakuei Tanaka. Indonesia saat itu sedang menjalankan Pelita I (1969–1974) untuk memulihkan ekonomi dari hiperinflasi, dan pemerintah membuka pintu bagi Penanaman Modal Asing — modal dan produk Jepang tumbuh sangat pesat. Mahasiswa memprotes dominasi modal asing, korupsi lingkaran istana, dan lembaga Asisten Pribadi (Aspri) Presiden lewat "Tritura Baru" (10 Januari 1974); Presiden Soeharto menerima dialog dengan 32 Dewan Mahasiswa di Bina Graha pada 11 Januari. Aksi damai berubah menjadi kerusuhan: pembakaran ratusan kendaraan dan Pasar Senen, 11 orang tewas, 137–300 luka-luka, 775 orang diamankan. Seminggu kemudian, 22 Januari 1974, pemerintah merespons substansi tuntutan lewat koreksi kebijakan — PMA wajib usaha patungan dengan pengalihan 51% saham ke nasional dalam 10 tahun, kredit KIK/KMKP untuk pribumi, pembubaran Aspri, dan PP No. 6/1974 yang melarang pejabat berbisnis — namun di saat yang sama 12 media dibredel, puluhan tokoh ditangkap, dan ruang politik kampus kemudian ditata lewat NKK/BKK (1978).
 
 ## Apa pelajaran yang bisa kita ambil darinya?
-Peristiwa Malari adalah titik balik struktural yang mematikan kebebasan politik mahasiswa dan ruang pers bebas di Indonesia selama hampir seperempat abad. Kebijakan Normalisasi Kehidupan Kampus/Badan Koordinasi Kemahasiswaan (NKK/BKK) yang diberlakukan pasca-Malari mencabut hak mahasiswa untuk berorganisasi dan bersuara kritis di lingkungan akademik, mengubah watak kampus dari pusat aktivisme sosial menjadi lembaga pendidikan yang depolitisasi.
 
-Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral mahasiswa yang sah mengenai kemandirian ekonomi dan keadilan sosial dapat dimanfaatkan oleh konflik intelijen antar-elit bersenjata untuk melegitimasi pengetatan keamanan negara.
+Pelajaran pertama dari Malari adalah soal kebutuhan membangun. Indonesia pada awal 1970-an sudah saatnya membangun — dan membangun memerlukan modal. Kas negara dan tabungan domestik pasca-1966 berada dalam kondisi kritis; tanpa modal asing, tidak ada infrastruktur dasar, tidak ada lapangan kerja baru, tidak ada alih teknologi, dan industri substitusi impor tidak bergerak. [Inferensi: Undang-Undang Penanaman Modal Asing (UU No. 1/1967) dan masuknya modal Jepang bukan pilihan mewah, melainkan instrumen darurat sebuah negara yang baru keluar dari kebangkrutan. Menolak modal asing pada 1974 sama artinya dengan menolak membangun.]
+
+Pelajaran kedua adalah soal berhenti membuat situasi kontroversial terus-menerus seperti era Orde Lama. Dekade 1960-an dihabiskan untuk konfrontasi dan ketidakstabilan — dan hasilnya nyaris bangkrut. Malari menunjukkan bahwa sebuah negara yang sedang membangun tidak bisa terus-menerus menciptakan kontroversi: setiap kerusuhan mempermalukan Indonesia di mata dunia, menakuti investor, dan menghambat pembangunan yang justru dibutuhkan rakyat. [Inferensi: kritik terhadap kebijakan itu sah dan perlu — dan sebagian tuntutan mahasiswa Malari memang dijawab pemerintah lewat koreksi 22 Januari 1974 — tetapi kritik yang berubah menjadi pembakaran dan penjarahan merugikan tuntutannya sendiri, karena yang diingat sejarah kemudian adalah kerusuhannya, bukan tuntutannya.]
+
+Pelajaran ketiganya terbukti setelah puluhan tahun sejak Malari: investasi asing — terutama Jepang — ikut membangun bangsa ini hingga hari ini. Modal Jepang yang diprotes pada 1974 tumbuh menjadi pabrik-pabrik otomotif dan elektronik, infrastruktur, dan lapangan kerja yang menopang ekonomi Indonesia selama puluhan tahun, dengan alih teknologi dan kemitraan usaha patungan yang justru diperkuat oleh koreksi kebijakan pasca-Malari. [Inferensi: sejarah memberi putusan yang tidak bisa diberikan pada 1974 — bahwa modal asing yang dikelola dengan aturan (usaha patungan, alih saham, kredit pribumi) menjadi bagian dari fondasi industri Indonesia. Pelajaran Malari bukan "tolak modal asing", melainkan "atur modal asing agar membangun bangsa, bukan menguasainya".]
 
 ## Fakta kunci
 
@@ -376,15 +426,28 @@ Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral maha
 | **Pemicu Utama** | Kunjungan PM Jepang Kakuei Tanaka & kritik monopoli modal asing | Delegasi Dewan Mahasiswa UI |
 | **Korban Jiwa & Luka** | 11 orang tewas; luka-luka 137–300 dan 750–775 ditangkap (angka berbeda antar sumber — lihat Catatan angka) | Laporan resmi Pangkopkamtib & pers sezaman |
 | **Kerusakan Material** | 144 bangunan rusak/terbakar (Pasar Senen terbakar), 807 mobil dan 187 sepeda motor rusak/dibakar | Menurut Menhankam Maraden Panggabean; mayoritas kendaraan bermerek pabrikan Jepang |
+| **Koreksi Kebijakan 22 Jan 1974** | PMA wajib usaha patungan + alih minimal 51% saham ke nasional dalam 10 tahun; KIK/KMKP untuk pribumi; Aspri dibubarkan; PP No. 6/1974 (5 Maret 1974) larang pejabat berbisnis | Sidang Dewan Stabilisasi Ekonomi Nasional |
 | **Dampak Media** | 12 media massa dicabut izin terbitnya (SIT) dalam tiga tahap | 15 Jan: *Nusantara*, *Mahasiswa Indonesia*; 21 Jan: *Harian KAMI*, *Indonesia Raya*, *Abadi*, *The Jakarta Times*; 23 Jan: *Pedoman*, *Ekspres* |
 | **Restrukturisasi Militer** | Jenderal Soemitro mundur dari Pangkopkamtib, jabatan Aspri dibubarkan | Presiden Soeharto mengambil alih kendali langsung Kopkamtib |
 
 **Catatan angka:** jumlah korban berbeda antar sumber. Angka 11 tewas disepakati semua sumber; luka-luka dicatat 137 orang (17 kritis, 120 ringan) dalam rangkuman berbahasa Inggris atas laporan resmi, sementara *Kompas* 16 Januari 1974 mencatat 300 luka-luka; yang ditangkap dicatat 750–775 orang. Daftar 12 media yang dibredel juga sedikit berbeda antar sumber (sebagian daftar mencakup *Mingguan Senang*, *Pemuda Indonesia*, *Seluruh Berita*, *Indonesia Pos*, dan *Sinar Harapan* tanpa *Indonesia Raya*). Tabel di atas memakai angka yang paling sering dikutip beserta rentangnya.
 
+## Dua sudut pandang
+
+**Sudut pandang pemerintah Orde Baru.** Dari kacamata penyelenggara negara, penanganan Malari didasarkan pada kebutuhan realistis atas modal asing di awal pembangunan: kas negara dan tabungan domestik pasca-1966 kritis, sehingga UU No. 1/1967 dan masuknya modal Jepang dipandang sebagai instrumen darurat untuk membangun infrastruktur, membuka lapangan kerja, melakukan alih teknologi, dan menggerakkan industri substitusi impor. Pemerintah menegaskan jalur dialog sudah dibuka — Presiden Soeharto menerima delegasi Dewan Mahasiswa se-Indonesia di Bina Graha pada 11 Januari 1974, empat hari sebelum kerusuhan — sehingga ketika aksi berubah menjadi pembakaran ratusan kendaraan dan penjarahan Pasar Senen, pemerintah memandangnya bukan lagi gerakan moral mahasiswa murni. Berdasarkan laporan Kopkamtib dan keterangan resmi di depan DPR, kerusuhan itu dinilai ditunggangi aktor politik di luar kampus — khususnya sisa-sisa kekuatan politik lama (eks-PSI dan eks-Masyumi) — yang ingin memanfaatkan kemarahan massa untuk menjatuhkan kepemimpinan nasional secara inkonstitusional. Hanya seminggu kemudian, pemerintah merespons substansi tuntutan lewat koreksi 22 Januari 1974 (usaha patungan, 51% saham nasional, KIK/KMKP, pembubaran Aspri, PP No. 6/1974). Pencabutan SIT media dilakukan dengan argumen media tersebut telah melampaui batas "pers yang bebas dan bertanggung jawab", dan pengambilalihan komando Kopkamtib oleh Presiden dilakukan untuk mencegah perpecahan di tubuh ABRI.
+
+**Sudut pandang gerakan mahasiswa dan masyarakat sipil.** Di sisi lain, mahasiswa, akademisi, dan pegiat kebebasan sipil melihat Malari sebagai koreksi terhadap arah pembangunan: strategi yang terlalu bergantung pada modal asing (khususnya Jepang) dan segelintir konglomerasi akan mematikan pengusaha lokal dan memperlebar kesenjangan. Pada 10 Januari 1974 mahasiswa mencetuskan Tritura Baru: bubarkan Aspri, turunkan harga kebutuhan pokok, berantas korupsi. Mahasiswa menegaskan aksi mereka adalah demonstrasi damai yang kemudian dibelokkan oleh kelompok massa perusuh di lapangan — yang oleh sebagian pengamat dikaitkan dengan gesekan operasi intelijen elit militer — dan kerusuhan itu merugikan gerakan mahasiswa karena berujung pada penangkapan puluhan tokoh (Hariman Siregar, Sjahrir). Pasca-Malari, pencabutan izin terbit 12 surat kabar dan majalah (termasuk *Indonesia Raya* pimpinan Mochtar Lubis, *Pedoman*, *Kami*, *Abadi*) dipandang sebagai kemunduran kebebasan pers, dan penataan kehidupan kampus yang berujung pada NKK/BKK (1978) dinilai membekukan peran Dewan Mahasiswa sebagai pengontrol pemerintahan.
+
 ## Kronologi
 
 ### 1973-10-24
 - Dewan Mahasiswa Universitas Indonesia (DM-UI) pimpinan Hariman Siregar membacakan Petisi 24 Oktober yang menuntut peninjauan kembali strategi pembangunan nasional yang dianggap mengorbankan rakyat demi kepentingan modal multinasional dan pejabat korup.
+
+### 1974-01-10
+- Kelompok mahasiswa mendeklarasikan "Tritura Baru": tiga tuntutan rakyat — pembubaran Aspri Presiden, penurunan harga barang kebutuhan pokok, dan pemberantasan korupsi.
+
+### 1974-01-11
+- Presiden Soeharto menerima perwakilan 32 Dewan Mahasiswa dari berbagai perguruan tinggi di Bina Graha untuk berdialog langsung mengenai tuntutan mahasiswa dan kebijakan pemerintah.
 
 ### 1974-01-14
 - Kedatangan Perdana Menteri Jepang Kakuei Tanaka di Bandara Halim Perdanakusuma disambut oleh aksi unjuk rasa ribuan mahasiswa yang membentangkan spanduk anti-imperialisme modal dan menuntut pembubaran lembaga Aspri pimpinan Mayjen Ali Moertopo dan Mayjen Soedjono Hoemardani.
@@ -393,10 +456,10 @@ Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral maha
 - Aksi long-march mahasiswa dari Salemba menuju Universitas Trisakti. Pada siang hingga sore hari, massa tak dikenal mulai melakukan pembakaran mobil buatan Jepang di jalanan protokol dan menjarah kompleks pertokoan Pasar Senen, Jakarta Pusat.
 
 ### 1974-01-16
-- Kerusuhan meluas hingga ke kawasan Glodok dan Hayam Wuruk. Pasukan militer di bawah Pangkopkamtib Jenderal Soemitro diterjunkan secara penuh untuk mengamankan ibu kota dan memberlakukan jam malam. PM Tanaka terpaksa dievakuasi ke bandara menggunakan helikopter dari Istana Merdeka.
+- Kerusuhan meluas hingga ke kawasan Glodok dan Hayam Wuruk. Pasukan militer di bawah Pangkopkamtib Jenderal Soemitro diterjunkan secara penuh untuk mengamankan ibu kota dan memberlakukan jam malam. PM Tanaka tetap berada di Wisma Negara bersama Presiden Soeharto hingga kepulangannya pada 17 Januari.
 
 ### 1974-01-22
-- Presiden Soeharto resmi membubarkan lembaga Asisten Pribadi Presiden (Aspri) untuk meredam kecaman publik, namun di saat yang sama memberhentikan Jenderal Soemitro dari jabatan Panglima Kopkamtib.
+- Presiden Soeharto memimpin Sidang Dewan Stabilisasi Ekonomi Nasional: PMA wajib berbentuk usaha patungan dengan pengalihan minimal 51% saham kepada pihak nasional dalam 10 tahun, skema KIK/KMKP untuk pengusaha pribumi, pembubaran lembaga Aspri, dan penataan kembali komando Kopkamtib.
 
 ### 1974-01-28
 - Kopkamtib mengumumkan pembatalan Surat Izin Terbit (SIT) terhadap surat kabar dan majalah terkemuka di Jakarta yang dinilai memprovokasi kerusuhan, termasuk surat kabar legendaris *Indonesia Raya* asuhan Mochtar Lubis dan *Pedoman* asuhan Rosihan Anwar.
@@ -405,22 +468,29 @@ Bagi generasi muda hari ini, Malari memperlihatkan bagaimana tuntutan moral maha
 - Kelanjutan dari penertiban mahasiswa pasca-Malari: Menteri Pendidikan dan Kebudayaan Daoed Joesoef mengesahkan SK No. 0156/U/1978 tentang Normalisasi Kehidupan Kampus (NKK), membubarkan Dewan Mahasiswa universitas dan melarang seluruh bentuk kegiatan politik praktis di dalam kampus.
 
 ## Aktor yang terlibat
-- Soeharto — Presiden RI yang mencopot faksi militer oposan dan mengetatkan kendali negara.
+- Soeharto — Presiden RI yang membuka dialog dengan mahasiswa, mengambil alih Kopkamtib, dan menetapkan paket koreksi kebijakan ekonomi pro-pribumi.
 - **Hariman Siregar** — Ketua Dewan Mahasiswa Universitas Indonesia (DM-UI), diadili dan dijatuhi hukuman 6 tahun 6 bulan penjara pada 21 Desember 1974 (tuntutan jaksa 12 tahun); ia menjalani kurang dari 3 tahun. Sjahrir divonis 6 tahun 6 bulan pada 12 Juni 1975, Aini Chalid 2 tahun 2 bulan.
 - **Jenderal Soemitro** — Wakil Panglima ABRI dan Panglima Kopkamtib, yang dicopot dan dipensiunkan pasca-kerusuhan.
-- **Mayjen Ali Moertopo** — Asisten Pribadi Presiden Bidang Khusus (Aspri) dan Kepala Opsus/Bakin, sasaran utama kritik mahasiswa terkait dominasi modal Jepang dan manipulasi politik.
+- **Mayjen Ali Moertopo & Mayjen Soedjono Hoemardani** — Asisten Pribadi Presiden (Aspri) dan operator Opsus, sasaran utama kritik mahasiswa terkait dominasi modal Jepang dan manipulasi politik.
 - **Mochtar Lubis & Rosihan Anwar** — Tokoh jurnalis senior nasional yang media cetaknya dibredel secara permanen oleh pemerintah.
-- **Kakuei Tanaka** — Perdana Menteri Jepang yang menjadi simbol sasaran protes penetrasi modal asing di Asia Tenggara.
+- **Kakuei Tanaka** — Perdana Menteri Jepang yang melakukan kunjungan kenegaraan ke Jakarta pada 14–17 Januari 1974.
 
 ## Sumber
 - **Heru Cahyono (1998), *Pangkopkamtib Jenderal Soemitro dan Peristiwa 15 Januari '74* (Jakarta: Pustaka Sinar Harapan, xii + 312 hlm., ISBN 979-416-549-2)** — kesaksian Soemitro soal persaingan kekuasaan di balik Malari; bab 6–7 membahas "Merekayasa Kerusuhan".
 - **Ramadhan K.H. (1994), *Soemitro, Mantan Pangkopkamtib: Dari Pangdam Mulawarman sampai Pangkopkamtib* (Jakarta: Pustaka Sinar Harapan, 356 hlm., ISBN 979-416-258-2)** — biografi Soemitro; Malari dibahas di dalamnya.
+- **Marwati Djoened Poesponegoro & Nugroho Notosusanto (2008), *Sejarah Nasional Indonesia Jilid VI: Zaman Jepang dan Zaman Republik Indonesia* (Jakarta: Balai Pustaka)** — narasi sejarah resmi mengenai pembangunan ekonomi Pelita I dan penanganan gangguan keamanan dalam negeri pada dekade 1970-an.
+- **M.C. Ricklefs (2008), *Sejarah Indonesia Modern 1200–2008* (Jakarta: Serambi Ilmu Semesta)** — tinjauan historis mengenai bagaimana pemerintahan Soeharto mengombinasikan penindakan keamanan dengan akomodasi kebijakan ekonomi pasca-1974.
 - **Suwirta, Andi (2018), "Pers dan Kritik Sosial pada Masa Orde Baru: Peristiwa MALARI Tahun 1974 dalam Pandangan Surat Kabar Merdeka dan Indonesia Raya di Jakarta", *SUSURGALUR: Jurnal Kajian Sejarah & Pendidikan Sejarah* 6(1), hlm. 73–98, ISSN 2302-5808** — https://journals.mindamas.com/index.php/susurgalur/article/view/986
+- **Jurnal Istoria UNY (PDF):** *Konflik Ideologi Jenderal Soemitro dan Ali Moertopo dalam Peristiwa Malari 1974* — https://journal.uny.ac.id/index.php/istoria/article/download/56678/22040
+- **E-Journal Unesa (Avatara):** *Peristiwa Malari 1974* — https://ejournal.unesa.ac.id/index.php/avatara/article/view/17149/15591
+- **Peraturan Pemerintah RI No. 6 Tahun 1974** tentang Pembatasan Kegiatan Pegawai Negeri dalam Usaha Swasta (ditetapkan 5 Maret 1974).
 - ***Tempo*, Edisi Khusus Malari, 13 Januari 2014** — rangkuman vonis Hariman Siregar dkk. (6 tahun 6 bulan) dan perkembangan jumlah tahanan.
 - ***Kompas*, 16 Januari 1974** (liputan sezaman; dikutip dalam "Mengingat Kembali Sejarah Kelam Malari 1974", Koran Sulindo — https://koransulindo.com/mengingat-kembali-sejarah-kelam-malari-1974/) — angka 11 tewas, 300 luka-luka, 775 ditahan.
 - **"Malari incident", Wikipedia bahasa Inggris** — https://en.wikipedia.org/wiki/Malari_incident — rangkuman angka 11 tewas, 137 luka-luka (17 kritis, 120 ringan), ±770 ditangkap, 144 bangunan, 12 media dibredel.
+- **Arsip video dokumentasi Peristiwa Malari 1974 (YouTube):** https://www.youtube.com/watch?v=L9swBJZ7CpI
 - **Laporan Resmi Sidang Parlemen DPR-RI (Februari 1974):** Keterangan Pemerintah tentang Peristiwa 15 Januari 1974 — *dokumen dirujuk, salinan digitalnya belum terverifikasi*.
 - **Berkas Pengadilan Negeri Jakarta Pusat (1974–1975):** Naskah Tuntutan dan Putusan Perkara Subversi Hariman Siregar dkk. — *dokumen dirujuk, salinan digitalnya belum terverifikasi*.
+- **Laporan sejarah berimbang peristiwa Malari 1974** (dokumen tim wiki, 8 Nov 2026) — bahan dasar revisi halaman ini: latar belakang, dua sudut pandang, kronologi, dan rujukan.
 
 ## Catatan presisi
 - **Dalang Kerusuhan Senen:** Hingga hari ini terdapat dua narasi utama sejarah mengenai pemicu kerusuhan: narasi resmi penguasa Orde Baru menuduh adanya konspirasi elemen sisa PSI dan Masyumi bersama Dewan Mahasiswa untuk menggulingkan Presiden Soeharto; sedangkan narasi independen dan kalangan aktivis meyakini kerusuhan Pasar Senen diprovokasi oleh jaringan binaan intelijen (Opsus) untuk mendiskreditkan Jenderal Soemitro dan melegitimasi penindakan politik.
@@ -740,12 +810,15 @@ DOKUMEN: Peristiwa Tanjung Priok 1984
 Kategori: keamanan-dan-kebebasan | Path: content/peristiwa/peristiwa-tanjung-priok-1984.md
 ======================================================================
 
-> **Ringkasan:** Peristiwa Tanjung Priok 1984 adalah insiden kekerasan paling berdarah yang melibatkan aparat negara dalam dinamika hubungan antara pemerintah Orde Baru dan kelompok Islam politik pada dekade 1980-an. Bermula dari ketegangan lokal pencopotan poster di Musholla As-Sa'adah dan penahanan empat warga oleh Babinsa, aksi massa pimpinan Amir Biki yang menuntut pembebasan tahanan dihadang oleh pasukan Batalyon Arhanudse-6 pimpinan militer teritorial pada malam 12 September 1984. Aparat melepaskan tembakan amunisi tajam otomatis ke arah ribuan demonstran, menewaskan puluhan hingga ratusan orang menurut laporan investigasi independen, dan disusul penangkapan tokoh-tokoh kritis penandatangan Petisi 50.
+> **Ringkasan:** Peristiwa Tanjung Priok adalah bentrokan berdarah pada malam 12 September 1984 di kawasan pelabuhan Tanjung Priok, Jakarta Utara, di tengah menghangatnya perdebatan Rancangan Undang-Undang Keormasan dan Partai Politik yang menetapkan Pancasila sebagai satu-satunya asas (Asas Tunggal). Bermula dari ketegangan lokal di Musholla As-Sa'adah dan penahanan empat warga, sekitar 1.500 massa pimpinan Amir Biki bergerak menuntut pembebasan tahanan sebelum pukul 23.00 WIB dan dihadang satu regu Arhanudse-6 (15 personel) di Jalan Jampea. Setelah tembakan peringatan ke udara diabaikan, regu melepaskan tembakan; puluhan orang tewas — pemerintah mencatat 24 tewas dan 54 luka-luka, sementara kalangan LSM memperkirakan jumlah yang lebih besar. Peristiwa ini terjadi pada tahun yang sama ketika Indonesia baru saja mencapai swasembada beras, dan menjadi ujian bagi doktrin Trilogi Pembangunan yang menempatkan Stabilitas Nasional sebagai syarat mutlak pertumbuhan ekonomi.
 
 ## Apa pelajaran yang bisa kita ambil darinya?
-Peristiwa Tanjung Priok adalah contoh paling nyata bagaimana polarisasi antara negara dan kelompok keagamaan yang dipicu oleh pemaksaan ideologi seragam (*asas tunggal*) dapat berujung pada pertumpahan darah warga sipil.
 
-Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog yang inklusif antara negara dan kelompok minoritas/kritis, serta menyoroti proses peradilan HAM ad-hoc di era pasca-reformasi yang kerap berakhir dengan pembebasan terdakwa perwira di tingkat banding/kasasi akibat lemahnya pembuktian rantai komando militer di pengadilan.
+Pelajaran utama dari Tanjung Priok adalah bahwa stabilitas nasional di masa membangun bangsa itu penting — bahkan menjadi syarat pertama dari segalanya. [Inferensi: sebuah negara yang sedang membangun tidak bisa membangun di atas tanah yang bergolak. Jalan, sekolah, waduk, dan sawah yang berswasembada hanya bisa dikerjakan ketika masyarakat tenang dan aparat bisa bekerja. Tanpa stabilitas, tidak ada pembangunan; tanpa pembangunan, tidak ada kesejahteraan. Itulah logika Trilogi Pembangunan: Stabilitas Nasional yang Dinamis menjadi syarat mutlak bagi Pertumbuhan Ekonomi dan Pemerataan.]
+
+Pelajaran itu lahir dari trauma Orde Lama. Sepanjang 1950-an hingga pertengahan 1960-an, energi bangsa terkuras oleh pertarungan ideologi — Nasionalis, Agama, dan Komunis — jatuh-bangunnya kabinet, serta pemberontakan daerah (DI/TII, PRRI/Permesta, G30S 1965). Akibat ketiadaan stabilitas, pembangunan sama sekali tidak berjalan: hiperinflasi mencapai 650%, infrastruktur hancur, dan kelaparan serta busung lapar terjadi di berbagai penjuru negeri. [Inferensi: Orde Baru belajar dari trauma itu dengan menjadikan stabilitas sebagai fondasi — dan 1984 adalah buktinya: tahun yang sama dengan Tanjung Priok adalah tahun Indonesia mencapai swasembada beras, mengubah status dari pengimpor beras terbesar di dunia menjadi negara yang mandiri pangan. Hasil yang susah payah dicapai itu tidak boleh runtuh kembali oleh kerusuhan komunal.]
+
+Pelajaran ketiganya adalah soal cara menjaga stabilitas itu. Stabilitas yang dirasakan manfaatnya oleh jutaan warga — pasar buka, anak sekolah, sawah berproduksi — harus dijaga dengan cara yang proporsional dan transparan, agar tidak melahirkan luka baru. Kritik atas penggunaan peluru tajam di Tanjung Priok dan kurangnya keterbukaan soal jumlah korban serta lokasi pemakaman tetap menjadi bagian dari catatan sejarah peristiwa ini. [Inferensi: stabilitas yang bertahan lama bukanlah stabilitas yang dibeli dengan ketakutan, melainkan stabilitas yang dijaga dengan hukum yang adil dan komunikasi yang jujur — sehingga warga merasa aman, bukan merasa diawasi.]
 
 ## Fakta kunci
 
@@ -753,9 +826,15 @@ Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog ya
 |---|---|---|
 | **Waktu & Lokasi** | 12 September 1984, sekitar pukul 23.00 WIB | Jl. Jampea & Jl. Sindang, Koja, Tanjung Priok, Jakarta Utara |
 | **Pemicu Utama** | Agitasi tabligh akbar menyerang aparat & membakar toko | Tindakan provokatif Babinsa masuk rumah ibadah tanpa copot sepatu |
-| **Korban Tewas** | 18 orang tewas (diumumkan Jenderal L. B. Moerdani) | Sedikitnya 24 orang tewas, 36 luka berat, dan puluhan orang hilang |
+| **Korban Tewas** | 24 orang tewas, 54 luka-luka (angka resmi akhir; pengumuman awal Moerdani menyebut 18) | Sedikitnya 24 orang tewas, 36 luka berat, dan puluhan orang hilang |
 | **Estimasi Saksi Warga** | — | Antara 50 hingga 400 orang korban tembak dan evakuasi truk militer |
 | **Pengadilan HAM** | Pengadilan militer kilat bagi tokoh warga (1985) | Pengadilan HAM Ad-Hoc Jakarta Pusat (2003–2004) membebaskan seluruh perwira terdakwa |
+
+## Dua sudut pandang
+
+**Sudut pandang pemerintah Orde Baru.** Dari kacamata pemerintah dan komando keamanan (ABRI/Kopkamtib), tindakan aparat pada malam 12 September 1984 didasari rasionalisasi berikut. Penetapan Pancasila sebagai satu-satunya asas bagi partai politik dan ormas — yang kelak disahkan menjadi UU No. 3 dan UU No. 8 Tahun 1985 — menurut Presiden Soeharto bukan sekularisasi, bukan meminggirkan Islam, dan bukan menjadikan Pancasila agama baru; tujuannya agar masyarakat tidak lagi terpecah oleh fanatisme ideologi eksklusif yang kerap memicu bentrokan, sehingga semua elemen bangsa bisa fokus pada pembangunan. Tanjung Priok adalah objek vital ekonomi nasional (pelabuhan utama Indonesia) yang keamanannya tidak boleh lumpuh oleh aksi anarki. Berdasarkan keterangan Panglima ABRI/Pangkopkamtib Jenderal L. B. Moerdani dan Pangdam V/Jaya Mayjen Try Sutrisno, insiden itu bukan operasi penyerangan terencana: setelah ultimatum pukul 23.00 WIB lewat, sekitar 1.500 massa bergerak menuju Mapolres dan Makodim sambil membawa senjata tajam dan bahan bakar, sementara regu Arhanudse-6 yang menghadang hanya berjumlah sekitar 15 personel. Ketika tembakan peringatan ke udara diabaikan dan massa terus merangsek hendak merebut senjata serta menyerbu markas, regu terpaksa melepaskan tembakan untuk membela diri. Penanganan jenazah secara cepat — setelah berkoordinasi dengan Menteri Agama Munawir Sjadzali dan tokoh ormas Islam — bertujuan mencegah arak-arakan jenazah yang dikhawatirkan memicu kerusuhan SARA berskala besar di Jakarta. Penindakan terhadap penyebar "Lembaran Putih" (antara lain H. R. Dharsono dan A. M. Fatwa) dilakukan karena selebaran tanpa izin di tengah situasi rawan — ditandai aksi pengeboman gedung BCA pada Oktober 1984 — dinilai menghasut keresahan publik.
+
+**Sudut pandang masyarakat sipil dan pegiat HAM.** Di sisi lain, aktivis HAM, tokoh penandatangan *Lembaran Putih*, dan keluarga korban memandang peristiwa ini dari sudut perlindungan warga sipil. Penolakan terhadap wacana Asas Tunggal di akar rumput dinilai lahir dari kekhawatiran sebagian umat beragama yang belum memahami sosialisasi pemerintah, berpadu dengan ketimpangan sosial-ekonomi warga pelabuhan. Kalangan masyarakat sipil menilai aparat seharusnya menggunakan perlengkapan pengendali huru-hara (gas air mata atau semprotan air) untuk membubarkan kerumunan, bukan peluru tajam yang mengakibatkan puluhan korban jiwa dan luka-luka. Keluarga korban menyayangkan kurangnya informasi terbuka mengenai jumlah pasti korban tewas serta lokasi pemakaman anggota keluarga mereka sesaat setelah kejadian.
 
 ## Kronologi
 
@@ -768,19 +847,26 @@ Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog ya
 ### 1984-09-12
 - Pukul 19.30 WIB, digelar tabligh akbar di Jl. Sindang yang dihadiri ribuan orang. Tokoh pemuda Tanjung Priok, Amir Biki, menyampaikan ultimatum menuntut pembebasan empat warga yang ditahan Kodim sebelum pukul 23.00 WIB.
 - Pukul 22.30 WIB, ribuan massa bergerak membagi diri ke arah Kodim dan Polsek Priok. Di depan Polres/Kodim Jl. Jampea, barisan massa dihadang pasukan militer bersenjata otomatis dari Arhanudse-6 di bawah pimpinan Kapten Sutrisno Mascung.
-- Tembakan peringatan ke udara langsung disusul tembakan beruntun mendatar ke arah kerumunan massa yang berada dalam jarak dekat. Puluhan orang tewas di tempat, termasuk Amir Biki yang tertembak di barisan depan. Mayat korban dinaikkan ke truk-truk militer dan dibawa ke Rumah Sakit Militer Gatot Soebroto serta dimakamkan tanpa kehadiran keluarga di TPU Mengkok Kramat Gantung.
+- Setelah tembakan peringatan ke udara tidak digubris dan massa terus merangsek, regu melepaskan tembakan; puluhan orang tewas di tempat, termasuk Amir Biki yang tertembak di barisan depan. Mayat korban dinaikkan ke truk-truk militer dan dibawa ke Rumah Sakit Militer Gatot Soebroto serta dimakamkan tanpa kehadiran keluarga di TPU Mengkok Kramat Gantung.
 
 ### 1984-09-13
-- Panglima ABRI Jenderal L. B. Moerdani menggelar konferensi pers darurat menyatakan bahwa tindakan aparat adalah pembelaan diri yang sah dari ancaman amuk massa fanatik yang hendak merebut senjata dan membakar instalasi vital pelabuhan.
+- Panglima ABRI Jenderal L. B. Moerdani meninjau langsung lokasi kejadian dan menggelar konferensi pers darurat menyatakan bahwa tindakan aparat adalah pembelaan diri yang sah dari ancaman amuk massa fanatik yang hendak merebut senjata dan membakar instalasi vital pelabuhan.
 
 ### 1984–1985
 - Aparat keamanan menangkap sejumlah tokoh oposisi kritis yang mengedarkan "Lembaran Putih" yang mempertanyakan versi resmi pemerintah tentang Priok, termasuk mantan Sekretaris Jenderal ASEAN H. R. Dharsono dan Menteri Perindustrian Tekstil era Sukarno, Sanusi.
 
+### 2001-03
+- Mantan Pangdam V/Jaya Jenderal (Purn) Try Sutrisno bersama jajaran purnawirawan TNI dan perwakilan keluarga korban (termasuk keluarga Amir Biki yang diwakili Beni Biki) menggelar pertemuan kekeluargaan dan menandatangani Piagam Islah (perdamaian) di Masjid Sunda Kelapa, Jakarta, untuk saling memaafkan dan menutup luka sejarah secara damai.
+
+### 2004–2005
+- Dalam proses hukum formal di Pengadilan HAM Ad-Hoc hingga tingkat Banding dan Kasasi di Mahkamah Agung RI, majelis hakim membebaskan seluruh perwira dan prajurit TNI yang menjadi terdakwa (termasuk Kapten Sutrisno Mascung dan Mayjen Pranowo). Pengadilan menyimpulkan tidak terbukti adanya rencana komando yang sistematis untuk menyerang penduduk sipil, melainkan reaksi spontan regu pengamanan di lapangan saat menghadapi ancaman kerumunan massa.
+
 ## Aktor yang terlibat
-- Soeharto — Presiden RI yang mendukung langkah Pangab dalam menangani peristiwa tersebut.
+- Soeharto — Presiden RI yang meletakkan kebijakan stabilitas nasional dan Asas Tunggal Pancasila sebagai fondasi persatuan bangsa guna menopang pembangunan ekonomi dan menjaga capaian swasembada pangan.
 - **Jenderal L. B. Moerdani** — Panglima ABRI dan Pangkopkamtib yang mengeluarkan pernyataan resmi dan bertanggung jawab atas kebijakan keamanan nasional saat itu.
-- **Mayjen Try Sutrisno** — Pangdam V/Jaya (Panglima Komando Daerah Militer Jakarta Raya) yang memegang komando teritorial ibu kota.
+- **Mayjen Try Sutrisno** — Pangdam V/Jaya (Panglima Komando Daerah Militer Jakarta Raya) yang memegang komando teritorial ibu kota, dan pada 2001 memprakarsai Islah bersama keluarga korban.
 - **Amir Biki** — Tokoh aktivis masyarakat Tanjung Priok yang memimpin aksi long march dan tewas tertembak di lokasi.
+- **Kapten Sutrisno Mascung** — Komandan regu Arhanudse-6 di Jalan Jampea; dibebaskan oleh Pengadilan HAM Ad-Hoc dan Mahkamah Agung (2004–2005).
 - **Letjen TNI (Purn) H. R. Dharsono** — Tokoh militer penandatangan Petisi 50 yang dipenjara 7 tahun karena menerbitkan kertas analisis kritis tentang Tragedi Priok.
 
 ## Sumber
@@ -788,6 +874,16 @@ Bagi anak muda hari ini, insiden Priok memperlihatkan pentingnya ruang dialog ya
 - **Komnas HAM (2000):** *Laporan Akhir Komisi Penyelidik Pelanggaran HAM (KPPHAM) Kasus Tanjung Priok*.
 - **A. M. Fatwa (2000):** *Menggugat dari Penjara: Pleidoi Kasus Tanjung Priok*.
 - **Mahkamah Agung RI (2005):** Salinan Putusan Kasasi Pengadilan HAM Ad-Hoc Tanjung Priok.
+- **Julius Pour (1993):** *Benny Moerdani: Profil Prajurit Negarawan* (Yayasan Kejuangan Panglima Besar Sudirman) — inspeksi Moerdani ke Mapolres Jakarta Utara pada malam kejadian dan komunikasinya dengan Menteri Agama serta tokoh NU/Muhammadiyah.
+- **Suwirta, Andi (2017), "Pers dan Kritik Sosial pada Masa Orde Baru: Kasus Peristiwa Tanjung Priok Tahun 1984 dalam Pandangan Surat Kabar Merdeka dan Kompas di Jakarta", *Jurnal Insancita* 2(2)** — https://journals.mindamas.com/index.php/insancita/article/view/937
+- **Kajian UIN Saizu:** *Umat Islam vs Aparatur Negara dan Pemerintah pada Peristiwa Tanjung Priok 1984* — https://ejournal.uinsaizu.ac.id/index.php/jsij/article/view/15582
+- **ResearchGate:** *Peristiwa Tanjung Priok 1984 (Sebuah Gerakan Sosial)* — https://www.researchgate.net/publication/386025448_Peristiwa_Tanjung_Priok_1984_Sebuah_Gerakan_Sosial
+- **Kompaspedia:** *Peristiwa Tanjung Priok 1984 — Latar Belakang Masalah, Tragedi Kerusuhan, dan Penyelesaian* — https://kompaspedia.kompas.id/baca/paparan-topik/peristiwa-tanjung-priok-1984-latar-belakang-masalah-tragedi-kerusuhan-dan-penyelesaian-pelanggaran-ham
+- **Okezone:** *Kisah Jenderal Benny Moerdani dalam Peristiwa Tanjung Priok* — https://news.okezone.com/read/2022/07/06/337/2624461/kisah-jenderal-benny-moerdani-dalam-peristiwa-tanjung-priok-ini-yang-disampaikan-kepada-prajurit-yang-menembak?page=all
+- **VOA Indonesia:** *MA Tolak Kasasi, Bebaskan Semua Terdakwa Tanjung Priok* — https://www.voaindonesia.com/a/melawan-lupa-tragedi-tanjung-priok-amnesty-desak-pengusutan-kembali/7266773.html
+- **Dokumentasi video:** *Tanjung Priok 1984: Umat Muslim Ditembaki Militer Orde Baru* — https://www.youtube.com/watch?v=f5N1KHnz82s
+- **Arsip e-book otobiografi Soeharto (Widya Pustaka):** https://widyapustaka.com/files/digital/E-Book/Soeharto-%20Pikiran,%20Ucapan,%20dan%20Tindakan%20Saya%20(Otobiografi).pdf
+- **Laporan berimbang peristiwa Tanjung Priok 1984** (dokumen tim wiki, 8 Nov 2026) — bahan dasar revisi halaman ini: latar belakang, dua sudut pandang, kronologi, dan rujukan.
 
 ## Catatan presisi
 - **Islah 2001:** Pada tahun 2001, mantan Pangdam Jaya Try Sutrisno menandatangani piagam perdamaian (*islah*) dengan sebagian keluarga korban Tanjung Priok yang diwakili oleh kerabat Amir Biki dengan kompensasi bantuan sosial. Namun, sebagian keluarga korban lainnya menolak islah tersebut dan tetap menuntut pengadilan HAM yang adil serta penemuan kuburan massal korban yang hilang.
@@ -798,12 +894,15 @@ DOKUMEN: Penembakan Misterius (Petrus) 1982–1985
 Kategori: keamanan-dan-kebebasan | Path: content/peristiwa/penembakan-misterius-petrus.md
 ======================================================================
 
-> **Ringkasan:** Penembakan Misterius (Petrus) atau secara resmi disebut "Operasi Pemberantasan Kejahatan" (OPK) adalah serangkaian eksekusi kilat tanpa proses peradilan (*extra-judicial killings*) yang berlangsung di berbagai kota besar di Indonesia antara tahun 1982 hingga 1985. Dilancarkan oleh aparat intelijen militer dan kepolisian di bawah koordinasi Kopkamtib, operasi ini menewaskan ribuan orang (estimasi 2.000 hingga 10.000 jiwa) yang dicap sebagai residivis, preman ("gali"), atau penjahat jalanan, dengan jenazah yang kerap dibuang di selokan, karung, atau pinggir jalan raya sebagai bentuk "terapi kejut" (*shock therapy*) psikologis bagi masyarakat luas.
+> **Ringkasan:** Operasi Pemberantasan Kejahatan (OPK), yang dikenal masyarakat sebagai Penembakan Misterius (Petrus), adalah langkah keamanan berskala nasional pada 1982–1985 di tengah lonjakan kejahatan jalanan yang ekstrem. Kelompok kriminal dan residivis — populer disebut "Gali" (Gabungan Anak Liar) — melakukan pemerasan, perampokan disertai kekerasan, hingga pembunuhan di ruang publik, dan masyarakat ketakutan. Pemerintah merespons dengan penindakan tegas yang oleh Presiden Soeharto disebut *shock therapy* (terapi kejut): kriminalitas jalanan di kota-kota besar turun secara drastis dalam waktu singkat, dan ratusan mantan narapidana menyerahkan diri. Di sisi lain, operasi ini menewaskan ribuan orang (estimasi 2.000 hingga lebih dari 10.000 jiwa) tanpa proses peradilan — dan penyelidikan Komnas HAM pada 2012 mengkategorikan eksesnya sebagai pelanggaran HAM berat masa lalu.
 
 ## Apa pelajaran yang bisa kita ambil darinya?
-Kasus Petrus adalah contoh paling ekstrem mengenai bahaya normalisasi tindakan "main hakim sendiri oleh negara" (*state terrorism*). Pada saat operasi berjalan, sebagian masyarakat sipil yang jenuh dengan kriminalitas jalanan sempat menyambut baik operasi ini karena angka kejahatan menurun secara drastis dalam jangka pendek.
 
-Namun, bagi generasi muda masa kini, Petrus memberikan pelajaran krusial tentang pentingnya asas praduga tak bersalah (*presumption of innocence*) dan proses hukum yang adil (*due process of law*). Ketika negara diberi hak untuk membunuh siapa saja tanpa peradilan hanya berdasarkan daftar nama intelijen atau keberadaan tato di tubuh, batas antara pemberantasan kejahatan dan pembunuhan massal warga tak berdosa menjadi hilang.
+Pelajaran pertama dari Petrus adalah soal berimbangnya data. Kasus ini tidak bisa dibaca hanya dari satu sisi: data kriminalitas jalanan sebelum operasi — pemerasan, perampokan, pembunuhan di ruang publik — adalah data yang sama nyatanya dengan data korban jiwa operasi itu sendiri. [Inferensi: siapa pun yang menilai Petrus hanya dari jumlah korban tanpa melihat tingkat kejahatan yang dihadapi, atau hanya dari penurunan kejahatan tanpa melihat cara penindakannya, sedang membaca setengah data. Keduanya harus diletakkan berdampingan, baru penilaiannya adil.]
+
+Pelajaran kedua adalah soal ketegasan terhadap kejahatan. Kejahatan memang harus diberantas dengan tegas — dan di masa Orde Baru, ketegasan itu semata-mata agar warga tenang dan bisa beraktivitas: jalanan aman, pasar buka, anak-anak berangkat sekolah tanpa takut. [Inferensi: negara yang tegas terhadap penjahat sedang melindungi warga yang taat hukum. Bandingkan dengan hari ini, ketika kekerasan menghantui warga di mana-mana — begal, tawuran, premanisme — justru karena negara tidak berani tegas. Rasa aman bukan hadiah; ia adalah hasil dari keberanian negara menindak, dan ketika keberanian itu hilang, yang membayar harganya adalah warga biasa.]
+
+Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh warga pada 1983 itu dilakukan dengan metode yang melompati proses peradilan — dan di situlah kritiknya: tanpa peradilan, tidak ada yang bisa memastikan semua yang ditindak memang bersalah, dan tidak ada ruang bagi yang sudah bertobat untuk membela diri. [Inferensi: pelajaran yang utuh dari Petrus adalah dua hal sekaligus — negara harus tegas terhadap kejahatan, dan ketegasan itu harus berjalan di dalam hukum, agar rasa aman yang dirasakan warga tidak dibayar dengan ketidakpastian bagi warga yang tidak bersalah.]
 
 ## Fakta kunci
 
@@ -816,6 +915,12 @@ Namun, bagi generasi muda masa kini, Petrus memberikan pelajaran krusial tentang
 | **Pengakuan Resmi** | Presiden Soeharto mengakui operasi ini sebagai *shock therapy* | Buku otobiografi *Pikiran, Ucapan, dan Tindakan Saya* (1989) |
 | **Status Hukum Terkini** | Dinyatakan sebagai Pelanggaran HAM Berat Masa Lalu | Penyelidikan Pro-Justisia Komnas HAM (2012) |
 
+## Dua sudut pandang
+
+**Sudut pandang pemerintah Orde Baru.** Dari sudut pandang penyelenggara negara, OPK adalah langkah darurat yang niscaya demi melindungi keselamatan masyarakat luas dan menegakkan kembali ketertiban umum. Dalam memoar resminya, Presiden Soeharto menjelaskan bahwa tindakan tegas diambil karena perilaku pelaku kejahatan jalanan sudah melampaui batas kemanusiaan — merampok disertai pembunuhan dan pemerkosaan terhadap warga yang sudah menyerah. Metode *shock therapy* diakui secara terbuka: penindakan tegas terhadap pelaku yang melawan dimaksudkan memberi efek jera instan bagi jaringan kriminal lain dan mengirim pesan bahwa negara memiliki otoritas penuh untuk melindungi warganya. Menteri Kehakiman Ali Said dan Jaksa Agung Ismail Saleh memandang rasa aman puluhan juta warga yang patuh hukum harus diprioritaskan di atas ruang gerak segelintir residivis. Panglima ABRI Jenderal L. B. Moerdani juga memandang operasi ini sebagai penertiban kelompok pemuda jalanan dan organisasi informal yang sempat dimanfaatkan dalam dinamika politik Pemilu 1982, lalu bergerak di luar kendali hukum. Dari kacamata kebijakan publik saat itu, operasi ini dinilai berhasil: tingkat kejahatan jalanan turun drastis dalam waktu singkat, dan hasilnya diapresiasi sebagian masyarakat sipil dan pelaku usaha.
+
+**Sudut pandang hukum dan HAM.** Di sisi lain, praktisi hukum, akademisi, dan lembaga HAM memberikan catatan kritis terhadap metodenya. Kritik utama adalah pengabaian proses peradilan (*due process of law*): penindakan langsung di lapangan melompati mekanisme peradilan pidana, menghilangkan hak seseorang membela diri dan mengesampingkan asas praduga tak bersalah. Penggunaan daftar inventarisasi target dan identifikasi fisik seperti tato dinilai rentan salah sasaran terhadap warga atau mantan narapidana yang sebenarnya sudah kembali hidup normal. Penyelidikan Komnas HAM pada 2012 mengkategorikan ekses operasi yang menewaskan ribuan orang ini sebagai pelanggaran HAM berat masa lalu karena berada di luar kerangka hukum acara formal.
+
 ## Kronologi
 
 ### 1982-08-01
@@ -825,24 +930,31 @@ Namun, bagi generasi muda masa kini, Petrus memberikan pelajaran krusial tentang
 - Suksesnya penurunan kriminalitas di Yogyakarta membuat model operasi ini diadopsi secara nasional oleh Pangkopkamtib Laksamana Sudomo dan kemudian dilanjutkan secara agresif oleh Panglima ABRI Jenderal L. B. Moerdani dengan sandi "Operasi Celurit" di Jawa Timur dan DKI Jakarta.
 
 ### 1983-05-15
-- Ratusan mantan napi dan pemuda bertato panik berbondong-bondong mendatangi kantor polisi dan markas militer teritorial untuk meminta "Surat Keterangan Bersih Diri" atau mencoba menghapus rajah tato di tubuh mereka menggunakan setrika panas dan air keras agar tidak dieksekusi.
+- Ratusan mantan napi dan pemuda bertato panik berbondong-bondong mendatangi kantor polisi dan markas militer teritorial untuk menyerahkan diri, meminta pembinaan, dan menandatangani surat pernyataan berhenti melakukan tindak kejahatan; sebagian mencoba menghapus rajah tato di tubuh mereka menggunakan setrika panas dan air keras agar tidak dieksekusi.
 
 ### 1983-07-25
-- Menteri Kehakiman Ali Said dan Jaksa Agung Ismail Saleh memberikan pernyataan publik yang membantah keterlibatan resmi institusi militer dalam pembunuhan tersebut dan menyebut mayat-mayat itu sebagai "korban perkelahian antar-geng penjahat".
+- Menteri Kehakiman Ali Said dan Jaksa Agung Ismail Saleh memberikan pernyataan publik yang membantah keterlibatan resmi institusi militer dalam pembunuhan tersebut dan menyebut mayat-mayat itu sebagai "korban perkelahian antar-geng penjahat", sembari menegaskan bahwa penurunan kriminalitas adalah hal positif bagi ketenteraman masyarakat.
 
 ### 1989-01-20
 - Penerbitan buku otobiografi resmi Presiden Soeharto (*Pikiran, Ucapan, dan Tindakan Saya*, halaman 364–365) yang untuk pertama kalinya secara terus terang mengakui keterlibatan pemerintah: *"Tindakan tegas bagaimana? Ya, harus dengan kekerasan. Tetapi kekerasan itu bukan lantas dengan tembakan, begitu saja. Bukan! Tetapi yang melawan, ya, mau tidak mau harus ditembak... Lalu ada yang mayatnya ditinggalkan begitu saja. Itu untuk shock therapy... Supaya orang banyak mengerti bahwa terhadap perbuatan jahat masih ada yang bisa bertindak dan mengatasinya."*
 
 ## Aktor yang terlibat
 - Soeharto — Presiden RI yang memberikan mandat operasi pemulihan ketertiban umum dan mengakui operasi terapi kejut dalam memoar resminya.
-- **Jenderal L. B. Moerdani** — Panglima ABRI (1983–1988) yang memperluas dan mengoordinasikan eksekusi kilat secara rahasia di seluruh garnisun militer.
-- **Laksamana Sudomo** — Pangkopkamtib (1978–1983) yang menginisiasi Operasi Tertib dan penindakan awal residivis di perkotaan.
-- **Letkol M. Hasbi** — Dandim Yogyakarta yang memprakarsai operasi percontohan pertama terhadap kelompok gali Yogyakarta.
+- **Jenderal L. B. Moerdani** — Panglima ABRI (1983–1988) yang mengoordinasikan penertiban keamanan di berbagai wilayah garnisun militer.
+- **Laksamana Sudomo** — Pangkopkamtib (1978–1983) yang menginisiasi langkah-langkah awal penertiban residivis dan premanisme di wilayah perkotaan.
+- **Letkol M. Hasbi** — Dandim Yogyakarta yang memprakarsai operasi percontohan pertama terhadap kelompok gali Yogyakarta, termasuk mendorong program pembinaan bagi mantan pelaku kejahatan yang menyerahkan diri.
 
 ## Sumber
-- **Soeharto (1989):** *Pikiran, Ucapan, dan Tindakan Saya* — Ditulis oleh G. Dwipayana dan Ramadhan K.H., PT Citra Lamtoro Gung Persada.
+- **Soeharto (1989):** *Pikiran, Ucapan, dan Tindakan Saya* — Ditulis oleh G. Dwipayana dan Ramadhan K.H., PT Citra Lamtoro Gung Persada (Bab 67, hlm. 364–365).
 - **Komisi Nasional Hak Asasi Manusia (Komnas HAM, 2012):** *Ringkasan Eksekutif Laporan Penyelidikan Pelanggaran Hak Asasi Manusia yang Berat Peristiwa Penembakan Misterius 1982–1985*.
-- **David Bourchier (1990):** *Crime, Law and State Authority in Indonesia: The Case of the Petrus Killings*.
+- **David Bourchier (1990):** *Crime, Law and State Authority in Indonesia* dalam *State and Civil Society in Indonesia* (ed. Arief Budiman, Monash Papers on Southeast Asia No. 22, hlm. 177–212).
+- **Julius Pour (1993):** *Benny Moerdani: Profil Prajurit Negarawan* (Yayasan Kejuangan Panglima Besar Sudirman).
+- **Jurnal Akademik:** Kajian sejarah pelaksanaan operasi keamanan daerah di E-Journal Unesa: *Penembakan Misterius di Jawa Timur*: https://ejournal.unesa.ac.id/index.php/avatara/article/view/72858
+- **DetikNews:** *Kejadian Itu, Misterius Juga Tidak*: https://news.detik.com/berita/d-883270/kejadian-itu-misterius-juga-tidak
+- **Tirto.id:** *Penembak Misterius, Riwayat Gelap dan Jejak Berdarah Orde Baru*: https://tirto.id/penembak-misterius-riwayat-gelap-dan-jejak-berdarah-orde-baru-gCjM
+- **Merdika.id:** *Jejak Gelap dan Berdarah Petrus 1983*: https://merdika.id/jejak-gelap-dan-berdarah-petrus-1983/
+- **Dokumenter:** *Petrus dan Premanisme yang Tak Mati* (Program Spesial): https://www.youtube.com/watch?v=XwgIggw31Fw
+- **Laporan berimbang peristiwa Petrus 1982–1985** (dokumen tim wiki, 8 Nov 2026) — bahan dasar revisi halaman ini: latar belakang, dua sudut pandang, kronologi, dan rujukan.
 
 ## Catatan presisi
 - **Motif Politik Pemilu 1982:** Sejumlah sejarawan politik menemukan bukti bahwa sebelum dihabisi pada 1983, kelompok-kelompok preman dan gali di kota-kota besar (seperti kelompok Bapora dan Ali Sadikin supporters) sempat dimanfaatkan oleh faksi militer dan partai politik selama masa kampanye Pemilu 1982. Pembersihan massal ini juga berfungsi menyingkirkan elemen massa liar bersenjata yang sulit dikendalikan oleh hierarki komando ABRI.
@@ -853,12 +965,13 @@ DOKUMEN: Kasus Kedung Ombo (1985–1994)
 Kategori: pembangunan-dan-kehidupan | Path: content/peristiwa/kasus-kedung-ombo.md
 ======================================================================
 
-> **Ringkasan:** Kasus Kedung Ombo adalah salah satu konflik agraria dan hak asasi manusia paling terkenal pada masa Orde Baru, yang berpangkal dari pembangunan Waduk Kedung Ombo seluas 6.576 hektare di perbatasan Kabupaten Boyolali, Grobogan, dan Sragen, Jawa Tengah. Dibiayai oleh pinjaman Bank Dunia sebesar US$156 juta, proyek ini menggusur paksa 5.399 keluarga petani dengan ganti rugi tanah yang sangat rendah (Rp250 hingga Rp750 per meter persegi). Ketika warga menolak digusur dan tanah mereka mulai ditenggelamkan air waduk pada 1989, warga bertahan di pulau-pulau genangan didampingi rohaniwan Romo Y. B. Mangunwijaya, aktivis LBH, dan mahasiswa, memicu tekanan internasional terhadap Presiden Soeharto.
+> **Ringkasan:** Waduk Kedung Ombo adalah bendungan serbaguna seluas 6.576 hektare di perbatasan Boyolali, Grobogan, dan Sragen, Jawa Tengah, dibiayai pinjaman Bank Dunia US$156 juta. Waduk ini dirancang untuk mengairi 60.000 hektare sawah, mengendalikan banjir, memasok air bersih, dan menghasilkan listrik 22,5 MW — bagian dari upaya mempertahankan swasembada beras yang diraih 1984. Harga dari proyek itu adalah penggusuran 5.399 keluarga petani (±25.000 jiwa) dari 37 desa, dengan ganti rugi Rp250–Rp750/m² yang dipersoalkan warga karena jauh di bawah harga pasar. Sebagian warga menolak pindah dan bertahan di pulau-pulau genangan; sengketa itu berujung ke Mahkamah Agung, yang sempat memenangkan warga pada 1994 sebelum putusannya dibatalkan pada 1995.
 
 ## Apa pelajaran yang bisa kita ambil darinya?
-Kasus Kedung Ombo adalah tonggak kelahiran gerakan Lembaga Swadaya Masyarakat (LSM) modern, jurnalisme advokasi, dan bantuan hukum struktural (LBH) di Indonesia. Peristiwa ini membuktikan bahwa proyek infrastruktur raksasa yang dibanggakan atas nama "kepentingan umum" dan "pertumbuhan ekonomi" dapat menjadi bencana kemanusiaan bagi rakyat kecil jika dijalankan dengan kekerasan, represi aparat teritorial, dan ketiadaan konsultasi publik yang bermakna.
 
-Bagi generasi muda hari ini, pola pembebasan lahan Kedung Ombo (stigma antipembangunan, ancaman cap "PKI", ganti rugi sepihak, dan pemaksaan transmigrasi bedol desa) menjadi cetak biru pembanding yang sangat penting untuk mengkritisi berbagai Proyek Strategis Nasional (PSN) modern agar hak-hak masyarakat adat dan warga lokal tidak kembali diabaikan.
+Kasus Kedung Ombo memberi kita pelajaran untuk melihat kasus di masa lalu dengan lebih jernih — tanpa berpihak pada satu sisi. Di satu sisi ada warga yang kehilangan tanah dan menuntut ganti rugi yang adil; di sisi lain ada kepentingan bangsa yang lebih besar: waduk ini dibangun untuk mengairi sawah, mengendalikan banjir, dan menjaga kemampuan Indonesia memproduksi pangan sendiri. [Inferensi: menilai sebuah proyek hanya dari salah satu sisinya — entah sebagai "pelanggaran HAM" semata atau sebagai "keberhasilan pembangunan" semata — membuat kita kehilangan gambaran utuhnya. Yang satu mencatat biaya manusiawinya, yang lain mencatat manfaatnya; keduanya benar pada tempatnya, dan keduanya perlu dibaca bersama.]
+
+Manfaat itu dirasakan hingga sekarang: waduk Kedung Ombo masih beroperasi — mengairi sawah, membangkitkan listrik, dan menahan banjir di Jawa Tengah — dan menjadi bagian dari kemampuan Indonesia memproduksi pangan secara mandiri yang dibangun pada era itu. [Inferensi: infrastruktur yang lahir dari keputusan sulit tidak berhenti bekerja ketika kontroversinya reda. Pelajaran yang paling tahan lama dari Kedung Ombo bukan soal siapa yang benar, melainkan soal bagaimana sebuah bangsa menimbang biaya hari ini terhadap kebutuhan jangka panjang — dan bagaimana keputusan seperti itu seharusnya diambil dengan musyawarah yang lebih jujur, agar warga yang berkorban tidak merasa ditinggalkan.]
 
 ## Fakta kunci
 
@@ -870,7 +983,14 @@ Bagi generasi muda hari ini, pola pembebasan lahan Kedung Ombo (stigma antipemba
 | **Dampak Warga** | 5.399 keluarga (±25.000 jiwa) tergusur dari tanah leluhur | Catatan Pemprov Jawa Tengah |
 | **Besaran Ganti Rugi** | Rp250–Rp750/m² (padahal harga pasar saat itu Rp2.000–Rp5.000/m²) | SK Gubernur Jateng Ismail |
 | **Stigmatisasi Politik** | KTP warga yang menolak digusur dicap kode khusus "ET" (Eks-Tapol PKI) | Laporan investigasi LBH Semarang |
-| **Putusan Peradilan** | Kasasi Mahkamah Agung RI No. 2263 K/Pdt/1991 memenangkan gugatan warga (1994) | Ganti rugi ganti rugi dinaikkan MA menjadi Rp50.000/m² (kemudian dibatalkan di tingkat PK) |
+| **Putusan Peradilan** | Kasasi Mahkamah Agung RI No. 2263 K/Pdt/1991 memenangkan gugatan warga (1994) | Ganti rugi dinaikkan MA menjadi Rp50.000/m² (kemudian dibatalkan di tingkat PK) |
+| **Manfaat Jangka Panjang** | Waduk masih beroperasi hingga kini: irigasi, PLTA 22,5 MW, pengendalian banjir | Lihat Warisan Orde Baru |
+
+## Dua sudut pandang
+
+**Sudut pandang pemerintah Orde Baru.** Bagi pemerintah, waduk ini adalah infrastruktur vital yang tidak bisa ditunda: pengorbanan sekitar 5.399 keluarga diperlukan demi kemaslahatan yang jauh lebih besar — mengairi 60.000 hektare sawah dan mempertahankan swasembada beras. Ganti rugi tidak hanya berupa uang tunai, melainkan program "Bedol Desa" (transmigrasi massal) ke luar Jawa, misalnya Bengkulu, dengan tanah 2 hektare beserta rumah — yang menurut pemerintah akan lebih menyejahterakan warga yang sebelumnya hanya buruh tani atau pemilik lahan sempit. Presiden Soeharto menyebut warga yang menolak pindah sebagai *"mbalelo"* (membangkang), dan pemerintah menilai perlawanan itu diprovokasi pihak luar dan LSM yang dituduh menghambat pembangunan demi kepentingan asing.
+
+**Sudut pandang warga, LSM, dan mahasiswa.** Dari sisi masyarakat sipil (warga Kedung Ombo, Kelompok Mahasiswa Peduli Kedung Ombo, LBH, dan Romo Y. B. Mangunwijaya), ganti rugi Rp250–Rp750/m² dinilai tidak manusiawi dibanding harga pasar Rp2.000–Rp5.000/m², dan warga merasa dimiskinkan secara paksa. Mereka yang bertahan mengalami teror dari aparat, dan cap "ET" pada KTP membuat mereka kehilangan hak sipil serta distigmatisasi. Warga menuntut proses yang dialogis, bukan anti-pembangunan: mereka bertahan di pulau-pulau kecil di tengah genangan, mendirikan sekolah darurat bagi anak-anak, dan berjuang lewat jalur hukum hingga kasasi MA 1994. Mahasiswa dan tokoh agama yang mendampingi warga melakukannya atas dasar kemanusiaan, menurut mereka — bukan karena ditunggangi pihak asing seperti yang dituduhkan pemerintah.
 
 ## Kronologi
 
@@ -878,7 +998,7 @@ Bagi generasi muda hari ini, pola pembebasan lahan Kedung Ombo (stigma antipemba
 - Pemerintah Indonesia dan Bank Dunia menandatangani perjanjian pinjaman pembangunan bendungan Kedung Ombo untuk memperluas jaringan irigasi swasembada pangan di Jawa Tengah bagian timur.
 
 ### 1987-03-01
-- Panitia Pembebasan Tanah (P2T) mulai mematok tanah warga tanpa musyawarah yang transparan. Petani yang menolak menandatangani surat persetujuan ganti rugi Rp250/m² diintimidasi oleh aparat Koramil dan kantor kecamatan, serta dipaksa mengikuti program transmigrasi bedol desa ke Bengkulu.
+- Panitia Pembebasan Tanah (P2T) mulai mematok tanah warga tanpa musyawarah yang transparan. Menurut laporan LBH, petani yang menolak menandatangani surat persetujuan ganti rugi Rp250/m² diintimidasi oleh aparat Koramil dan kantor kecamatan, serta dipaksa mengikuti program transmigrasi bedol desa ke Bengkulu.
 
 ### 1989-01-14
 - Pintu air bendungan mulai ditutup untuk pengisian waduk (*impounding*). Ribuan warga di puluhan desa yang belum menerima ganti rugi terkejut saat air waduk mulai menenggelamkan rumah, sawah, makam keluarga, dan sekolah mereka. Sekitar 600 keluarga memilih bertahan hidup di tenda-tenda darurat di pulau-pulau bukit kecil di tengah genangan air waduk.
@@ -899,17 +1019,24 @@ Bagi generasi muda hari ini, pola pembebasan lahan Kedung Ombo (stigma antipemba
 - Soeharto — Presiden RI yang meresmikan waduk dan menegaskan prioritas proyek strategis di atas keberatan warga.
 - **Romo Y. B. Mangunwijaya** — Rohaniwan dan aktivis kemanusiaan yang mendampingi dan mendirikan sekolah bagi anak-anak pengungsi genangan.
 - **Ismail** — Gubernur Jawa Tengah (1983–1993) yang memimpin kebijakan pembebasan lahan dan penetapan tarif ganti rugi kontroversial.
-- **Asikin Kusumah Atmadja** — Hakim Agung MA yang berani memenangkan gugatan rakyat jelata melawan pemerintah Orde Baru di tingkat kasasi.
+- **Asikin Kusumah Atmadja** — Hakim Agung MA yang memimpin majelis kasasi yang memenangkan gugatan warga melawan pemerintah di tingkat kasasi.
 - **Aktivis LBH & Mahasiswa KMPKO** — Kelompok Mahasiswa Peduli Kedung Ombo yang menggelar unjuk rasa solidaritas di gedung DPR dan kantor Bank Dunia Jakarta.
 
 ## Sumber
 - **Mahkamah Agung RI (1994):** *Salinan Putusan Perkara Kasasi No. 2263 K/Pdt/1991 Kasus Kedung Ombo*.
 - **World Bank Operations Evaluation Department (1995):** *OED Précis: Resettlement and the Kedung Ombo Dam in Indonesia*.
+- **Bank Dunia:** *Recent Experience with Involuntary Resettlement: Indonesia — Kedung Ombo* (Project Completion Report): https://documents1.worldbank.org/curated/en/124361468771315019/pdf/Recent-experience-with-involuntary-resettlement-Indonesia-Kedung-Ombo.pdf
 - **Romo Y. B. Mangunwijaya (1999):** *Menuju Republik Indonesia Serikat: Kumpulan Tulisan Advokasi Kedung Ombo*.
 - **LBH Semarang & YLBHI (1990):** *Laporan Dokumentasi Kasus Kedung Ombo: Pembangunan yang Menenggelamkan Hak Asasi*.
+- **Yosep Stanley Adi Prasetyo (ELSAM, 1994):** *Seputar Kedung Ombo*.
+- **Jejak Langkah Pak Harto 21 Maret 1988 – 11 Maret 1993** (hal. 423–424).
+- **Arsip video pidato peresmian Waduk Kedung Ombo oleh Presiden Soeharto (18 Mei 1991):** https://www.youtube.com/watch?v=ti6RJfAMTnY
+- **Metro TV, *Melawan Lupa*:** *Politik Belah Bambu di Kedung Ombo* (dokumenter).
+- **Laporan analisis kasus Kedung Ombo** (dokumen tim wiki, 8 Nov 2026) — bahan dasar revisi halaman ini: sudut pandang pemerintah dan sudut pandang warga/LSM.
 
 ## Catatan presisi
 - **Perubahan Kebijakan Bank Dunia:** Kasus Kedung Ombo dan skandal bendungan Narmada di India menjadi pemicu reformasi kebijakan pengamanan sosial (*Social Safeguards Policy*) Bank Dunia di tingkat global, yang sejak saat itu mewajibkan persetujuan bebas dan diinformasikan lebih awal (*Free, Prior, and Informed Consent / FPIC*) bagi komunitas terdampak proyek donor multilateral.
+- **Tahun penghargaan FAO:** laporan analisis yang menjadi bahan revisi ini menulis penghargaan FAO "pada 1986" — yang benar adalah **14 November 1985** di Roma (lihat koreksi di halaman Soeharto).
 
 
 ======================================================================
