@@ -19,3 +19,7 @@ __pycache__/
 
 # Quartz intermediate build output
 out/
+
+# IndexNow state and logs
+.last-indexnow-commit
+logs/

@@ -12,22 +12,22 @@ cd "$REPO_DIR"
 MD_COUNT=$(find content -name '*.md' | wc -l)
 echo "Markdown di content/: $MD_COUNT"
 
-echo "=== [1/7] Generating llms.txt & llms-full.txt ==="
+echo "=== [1/8] Generating llms.txt & llms-full.txt ==="
 /usr/bin/python3 scripts/build_llms_txt.py
 
-echo "=== [2/7] Validating frontmatter schema (fail-fast) ==="
+echo "=== [2/8] Validating frontmatter schema (fail-fast) ==="
 /usr/bin/python3 scripts/validate_frontmatter.py
 
-echo "=== [3/7] Rebuilding FTS5 index (atomic: tmp DB -> verifikasi -> swap) ==="
+echo "=== [3/8] Rebuilding FTS5 index (atomic: tmp DB -> verifikasi -> swap) ==="
 /usr/bin/python3 scripts/indexer/build-fts5.py
 
-echo "=== [4/7] MCP smoke test (12 tools, assertion nyata) ==="
+echo "=== [4/8] MCP smoke test (12 tools, assertion nyata) ==="
 /usr/bin/python3 scripts/mcp/server.py --test
 
-echo "=== [5/7] Building Quartz static pages ==="
+echo "=== [5/8] Building Quartz static pages ==="
 npx quartz build
 
-echo "=== [5b/7] Guard jumlah halaman ==="
+echo "=== [5b/8] Guard jumlah halaman ==="
 HTML_COUNT=$(find public -name '*.html' | wc -l)
 echo "Markdown: $MD_COUNT | HTML hasil build: $HTML_COUNT"
 if [ "$HTML_COUNT" -lt "$MD_COUNT" ]; then
@@ -35,10 +35,13 @@ if [ "$HTML_COUNT" -lt "$MD_COUNT" ]; then
   exit 1
 fi
 
-echo "=== [6/7] Copying root assets (robots.txt, llms.txt, llms-full.txt, yandex verification) ==="
-cp scripts/assets/robots.txt scripts/assets/llms.txt scripts/assets/llms-full.txt scripts/assets/yandex_2bee282885b1cc97.html public/
+echo "=== [6/8] Copying root assets (robots.txt, llms.txt, llms-full.txt, yandex, indexnow) ==="
+cp scripts/assets/robots.txt scripts/assets/llms.txt scripts/assets/llms-full.txt scripts/assets/yandex_2bee282885b1cc97.html scripts/assets/a20508eb3c3f5f9d83f340c121a1840c.txt public/
 
-echo "=== [7/7] Deploying to live web root (/var/www/pakharto.my.id/public/) ==="
+echo "=== [7/8] Deploying to live web root (/var/www/pakharto.my.id/public/) ==="
 rsync -a --delete /home/ubuntu/quartz/public/ /var/www/pakharto.my.id/public/
+
+echo "=== [8/8] Submitting changed URLs to IndexNow ==="
+/usr/bin/python3 scripts/submit_indexnow.py || echo "[IndexNow] Peringatan: submit IndexNow keluar dengan error, deploy tetap sukses."
 
 echo "=== DEPLOY SUKSES: pakharto.my.id telah terverifikasi live! ==="
