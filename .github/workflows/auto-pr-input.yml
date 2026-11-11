@@ -23,7 +23,7 @@ jobs:
   buat-pr:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Buat Pull Request bila belum ada
         env:
