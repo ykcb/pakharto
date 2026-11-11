@@ -2,8 +2,8 @@
 title: "Peristiwa Malari 1974"
 description: "Kerusuhan 15–16 Januari 1974 saat kunjungan PM Jepang Kakuei Tanaka: protes mahasiswa terhadap modal asing yang berujung pembakaran Pasar Senen, 11 tewas, koreksi kebijakan ekonomi 22 Januari 1974, dan pengetatan politik kampus serta pers."
 date: 1974-01-15
-updated: 2026-11-08
-last_updated: "2026-11-08"
+updated: 2026-11-11
+last_updated: "2026-11-11"
 entity_type: peristiwa
 entity_id: "malari-1974"
 aliases:
@@ -26,6 +26,18 @@ sumber:
   - url: https://koransulindo.com/mengingat-kembali-sejarah-kelam-malari-1974/
     judul: "Mengingat Kembali Sejarah Kelam Malari 1974 (mengutip Kompas, 16 Januari 1974)"
     tanggal: 2026-11-07
+  - url: https://www.amnesty.id/kabar-terbaru/siaran-pers/50-tahun-malari-represi-negara-belum-banyak-berubah/01/2024/
+    judul: "Amnesty International Indonesia (2024), 50 Tahun Malari: represi negara belum banyak berubah"
+    tanggal: 2024-01-15
+  - url: https://jurnal.uns.ac.id/candi/article/download/91141/48210
+    judul: "Peristiwa Malari dan Dampaknya terhadap Gerakan Mahasiswa (1974–1998), Candi: Jurnal Pendidikan dan Penelitian Sejarah 24(1), 2024"
+    tanggal: 2024-12-30
+  - url: https://online.flipbuilder.com/Buku/xwby/files/basic-html/page190.html
+    judul: "DPR RI Masa Orde Baru: Menguatnya Peran Negara 1967–1997, Buku Empat, hlm. 190 (keputusan 28 Januari 1974 & Dewan Stabilisasi Politik dan Keamanan Nasional)"
+    tanggal: 2026-11-11
+  - url: https://jakartasatu.com/2024/01/15/50-tahun-malari-mempertahankan-demokrasi-nan-tak-usai/
+    judul: "50 Tahun Malari Mempertahankan Demokrasi Nan Tak Usai (peringatan 50 tahun, TIM Jakarta, 15 Januari 2024)"
+    tanggal: 2024-01-15
   - url: https://repository.uai.ac.id/wp-content/uploads/2020/08/Pokok-Pokok-Pengaturan-Penanaman-Modal-Di-Indonesia_2016_SA.pdf
     judul: "Pokok-Pokok Pengaturan Penanaman Modal di Indonesia (Repository UAI)"
     tanggal: 2026-11-08
@@ -68,8 +80,10 @@ Pelajaran ketiganya terbukti setelah puluhan tahun sejak Malari: investasi asing
 | **Koreksi Kebijakan 22 Jan 1974** | PMA wajib usaha patungan + alih minimal 51% saham ke nasional dalam 10 tahun; KIK/KMKP untuk pribumi; Aspri dibubarkan; PP No. 6/1974 (5 Maret 1974) larang pejabat berbisnis | Sidang Dewan Stabilisasi Ekonomi Nasional |
 | **Dampak Media** | 12 media massa dicabut izin terbitnya (SIT) dalam tiga tahap | 15 Jan: *Nusantara*, *Mahasiswa Indonesia*; 21 Jan: *Harian KAMI*, *Indonesia Raya*, *Abadi*, *The Jakarta Times*; 23 Jan: *Pedoman*, *Ekspres* |
 | **Restrukturisasi Militer** | Jenderal Soemitro mundur dari Pangkopkamtib, jabatan Aspri dibubarkan | Presiden Soeharto mengambil alih kendali langsung Kopkamtib |
+| **Dewan Stabilisasi Politik & Keamanan** | Dibentuk 4 Februari 1974, diketuai langsung Presiden Soeharto dengan Wakil Presiden Hamengkubuwono IX sebagai wakil ketua | Keputusan 28 Januari 1974 di Istana Merdeka; bertugas membahas dan memantapkan stabilitas politik-keamanan demi kelancaran Repelita II |
+| **Pengetatan Kehidupan Kampus** | SK Mendikbud No. 028/U/1974: kegiatan kemahasiswaan — terutama yang bersifat politis — ditempatkan di bawah bimbingan dan tanggung jawab pimpinan perguruan tinggi | Awal kontrol ketat negara atas gerakan mahasiswa; dilanjutkan NKK/BKK (1978) |
 
-**Catatan angka:** jumlah korban berbeda antar sumber. Angka 11 tewas disepakati semua sumber; luka-luka dicatat 137 orang (17 kritis, 120 ringan) dalam rangkuman berbahasa Inggris atas laporan resmi, sementara *Kompas* 16 Januari 1974 mencatat 300 luka-luka; yang ditangkap dicatat 750–775 orang. Daftar 12 media yang dibredel juga sedikit berbeda antar sumber (sebagian daftar mencakup *Mingguan Senang*, *Pemuda Indonesia*, *Seluruh Berita*, *Indonesia Pos*, dan *Sinar Harapan* tanpa *Indonesia Raya*). Tabel di atas memakai angka yang paling sering dikutip beserta rentangnya.
+**Catatan angka:** jumlah korban berbeda antar sumber. Angka 11 tewas disepakati semua sumber; luka-luka dicatat 137 orang (17 kritis, 120 ringan) dalam rangkuman berbahasa Inggris atas laporan resmi, sementara *Kompas* 16 Januari 1974 mencatat 300 luka-luka; yang ditangkap dicatat 750–775 orang. Amnesty International dalam laporannya tahun 1977 mencatat angka yang lebih tinggi — sekurang-kurangnya 13 orang tewas dan 770 orang ditangkap secara sewenang-wenang; lima bulan setelah peristiwa, sekitar 50 orang masih ditahan di Jakarta dan 32 di Surabaya — serta menyebut 11 surat kabar dan jurnal yang dibredel (halaman ini mencatat 12 media, lihat perbedaan daftar di atas). Daftar 12 media yang dibredel juga sedikit berbeda antar sumber (sebagian daftar mencakup *Mingguan Senang*, *Pemuda Indonesia*, *Seluruh Berita*, *Indonesia Pos*, dan *Sinar Harapan* tanpa *Indonesia Raya*). Tabel di atas memakai angka yang paling sering dikutip beserta rentangnya.
 
 ## Dua sudut pandang
 
@@ -102,9 +116,19 @@ Pelajaran ketiganya terbukti setelah puluhan tahun sejak Malari: investasi asing
 
 ### 1974-01-28
 - Kopkamtib mengumumkan pembatalan Surat Izin Terbit (SIT) terhadap surat kabar dan majalah terkemuka di Jakarta yang dinilai memprovokasi kerusuhan, termasuk surat kabar legendaris *Indonesia Raya* asuhan Mochtar Lubis dan *Pedoman* asuhan Rosihan Anwar.
+- Pada hari yang sama, Presiden [[aktor/soeharto|Soeharto]] memutuskan dalam pertemuan di Istana Merdeka (bersama Wakil Presiden Hamengkubuwono IX dan petinggi negara/militer): jabatan Asisten Pribadi Presiden dihapus dan jabatan Pangkopkamtib langsung berada di tangan presiden.
+
+### 1974-02-04
+- Pemerintah membentuk Dewan Stabilisasi Politik dan Keamanan Nasional, diketuai langsung Presiden Soeharto dengan Wakil Presiden Hamengkubuwono IX sebagai wakil ketua, untuk membahas dan memantapkan stabilitas politik dan keamanan demi kelancaran pelaksanaan Repelita II.
+
+### 1974
+- Menteri Pendidikan dan Kebudayaan menerbitkan SK No. 028/U/1974 tentang Petunjuk-Petunjuk Kebijaksanaan dalam rangka Pembinaan Kehidupan Kampus Perguruan Tinggi: kegiatan kemahasiswaan — terutama yang bersifat politis — hanya boleh dilaksanakan dengan bimbingan dan atas tanggung jawab pimpinan perguruan tinggi; otonomi lembaga kemahasiswaan intra kampus dicabut dan tanggung jawab aktivitas kampus sepenuhnya berada di tangan rektor. Kebijakan ini menjadi awal pengetatan kontrol negara atas gerakan mahasiswa pasca-Malari, sebelum NKK/BKK 1978.
 
 ### 1978-04-19
 - Kelanjutan dari penertiban mahasiswa pasca-Malari: Menteri Pendidikan dan Kebudayaan Daoed Joesoef mengesahkan SK No. 0156/U/1978 tentang Normalisasi Kehidupan Kampus (NKK), membubarkan Dewan Mahasiswa universitas dan melarang seluruh bentuk kegiatan politik praktis di dalam kampus.
+
+### 2024-01-15
+- Peringatan 50 tahun Peristiwa Malari digelar di Teater Kecil Taman Ismail Marzuki, Jakarta, bertema "Pertahankan Demokrasi" — dihadiri para pelaku Malari dan aktivis lintas generasi. Amnesty International Indonesia dalam pernyataan yang sama memperingatkan bahwa represi negara "belum banyak berubah": laporan Amnesty tahun 1977 mencatat sekurang-kurangnya 13 orang tewas dan 770 orang ditangkap secara sewenang-wenang dalam peristiwa ini.
 
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden RI yang membuka dialog dengan mahasiswa, mengambil alih Kopkamtib, dan menetapkan paket koreksi kebijakan ekonomi pro-pribumi.
@@ -119,6 +143,10 @@ Pelajaran ketiganya terbukti setelah puluhan tahun sejak Malari: investasi asing
 - **Ramadhan K.H. (1994), *Soemitro, Mantan Pangkopkamtib: Dari Pangdam Mulawarman sampai Pangkopkamtib* (Jakarta: Pustaka Sinar Harapan, 356 hlm., ISBN 979-416-258-2)** — biografi Soemitro; Malari dibahas di dalamnya.
 - **Marwati Djoened Poesponegoro & Nugroho Notosusanto (2008), *Sejarah Nasional Indonesia Jilid VI: Zaman Jepang dan Zaman Republik Indonesia* (Jakarta: Balai Pustaka)** — narasi sejarah resmi mengenai pembangunan ekonomi Pelita I dan penanganan gangguan keamanan dalam negeri pada dekade 1970-an.
 - **M.C. Ricklefs (2008), *Sejarah Indonesia Modern 1200–2008* (Jakarta: Serambi Ilmu Semesta)** — tinjauan historis mengenai bagaimana pemerintahan Soeharto mengombinasikan penindakan keamanan dengan akomodasi kebijakan ekonomi pasca-1974.
+- **Amnesty International Indonesia (15 Januari 2024), "50 Tahun Malari: represi negara belum banyak berubah"** — https://www.amnesty.id/kabar-terbaru/siaran-pers/50-tahun-malari-represi-negara-belum-banyak-berubah/01/2024/ — mengutip laporan Amnesty 1977: sekurang-kurangnya 13 tewas, 770 ditangkap sewenang-wenang, ~50 masih ditahan di Jakarta dan 32 di Surabaya lima bulan kemudian, 11 media dibredel.
+- **"Peristiwa Malari dan Dampaknya terhadap Gerakan Mahasiswa (1974–1998)", *Candi: Jurnal Pendidikan dan Penelitian Sejarah* 24(1), 2024, hlm. 1–11** — https://jurnal.uns.ac.id/candi/article/download/91141/48210 — SK Mendikbud No. 028/U/1974 sebagai awal pengetatan kampus; 775 orang ditangkap, sebagian besar di Rutan Militer Boedi Oetomo.
+- **DPR RI, *Buku Empat — DPR RI Masa Orde Baru: Menguatnya Peran Negara 1967–1997*, hlm. 190** — https://online.flipbuilder.com/Buku/xwby/files/basic-html/page190.html — keputusan 28 Januari 1974 (Aspri dihapus, Pangkopkamtib langsung di tangan presiden) dan pembentukan Dewan Stabilisasi Politik dan Keamanan Nasional (4 Februari 1974, ketua Presiden, wakil ketua Wapres Hamengkubuwono IX).
+- **Peringatan 50 tahun Malari (15 Januari 2024), Teater Kecil TIM Jakarta** — https://jakartasatu.com/2024/01/15/50-tahun-malari-mempertahankan-demokrasi-nan-tak-usai/
 - **Suwirta, Andi (2018), "Pers dan Kritik Sosial pada Masa Orde Baru: Peristiwa MALARI Tahun 1974 dalam Pandangan Surat Kabar Merdeka dan Indonesia Raya di Jakarta", *SUSURGALUR: Jurnal Kajian Sejarah & Pendidikan Sejarah* 6(1), hlm. 73–98, ISSN 2302-5808** — https://journals.mindamas.com/index.php/susurgalur/article/view/986
 - **Jurnal Istoria UNY (PDF):** *Konflik Ideologi Jenderal Soemitro dan Ali Moertopo dalam Peristiwa Malari 1974* — https://journal.uny.ac.id/index.php/istoria/article/download/56678/22040
 - **E-Journal Unesa (Avatara):** *Peristiwa Malari 1974* — https://ejournal.unesa.ac.id/index.php/avatara/article/view/17149/15591
