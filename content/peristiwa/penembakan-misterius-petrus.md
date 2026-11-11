@@ -2,8 +2,8 @@
 title: "Penembakan Misterius (Petrus) 1982–1985"
 description: "Operasi Pemberantasan Kejahatan (1982–1985): penindakan tegas terhadap preman dan residivis yang menurunkan kriminalitas jalanan secara drastis — dengan metode di luar proses peradilan yang oleh Komnas HAM (2012) dikategorikan pelanggaran HAM berat masa lalu."
 date: 1982-08-01
-updated: 2026-11-08
-last_updated: "2026-11-08"
+updated: 2026-11-11
+last_updated: "2026-11-11"
 entity_type: peristiwa
 entity_id: "penembakan-misterius-petrus"
 aliases:
@@ -20,6 +20,21 @@ sumber:
   - url: https://soehartolibrary.id/
     judul: "Arsip Soeharto: Pikiran, Ucapan, dan Tindakan Saya — soehartolibrary.id"
     tanggal: 2026-10-18
+  - url: https://barisan.co/pemerintah-akui-12-pelanggaran-ham-berat-orba-sebut-petrus-efektif-basmi-kejahatan-2/
+    judul: "Pemerintah Akui 12 Pelanggaran HAM Berat; Orba Sebut Petrus Efektif Basmi Kejahatan (pengakuan Presiden Jokowi, 11 Januari 2023)"
+    tanggal: 2023-01-11
+  - url: https://www.asia-pacific-solidarity.net/news/2022-02-04/mysterious-shootings-investigation-stalls-police-and-tni-witnesses-uncooperative.html
+    judul: "Mysterious shootings investigation stalls, police and TNI witnesses uncooperative (CNN Indonesia, 4 Februari 2022)"
+    tanggal: 2022-02-04
+  - url: https://channel9.id/pemerintah-berikan-hak-pemulihan-korban-1998-hingga-trisakti-hari-ini/
+    judul: "Pemerintah Berikan Hak Pemulihan Korban 1998 hingga Trisakti Hari Ini (KSP: pemulihan korban Petrus dijadwalkan 2024)"
+    tanggal: 2023-12-11
+  - url: https://www.newshive.id/read/hukum/otto-hasibuan-pimpin-pokja-kasus-ham-berat
+    judul: "Otto Hasibuan Pimpin Pokja Kasus HAM Berat (9 November 2026 — pokja lintas lembaga untuk 13 kasus, termasuk Petrus)"
+    tanggal: 2026-11-09
+  - url: https://www.korankota.co.id/v151/t502/83947/presiden-prabowo-siapkan-keppres-dan-inpres-pemulihan-hak-korban-pelanggaran-ham-berat
+    judul: "Presiden Prabowo Siapkan Keppres dan Inpres Pemulihan Hak Korban Pelanggaran HAM Berat (14 Februari 2025)"
+    tanggal: 2025-02-14
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -53,11 +68,11 @@ Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh w
 | Parameter | Data Hasil Investigasi | Sumber / Rujukan |
 |---|---|---|
 | **Rentang Waktu** | 1982 hingga akhir 1985 (puncak operasi 1983) | Dimulai di Yogyakarta, menjalar ke Jawa Tengah, Jawa Timur, Jakarta, dan Sumatra |
-| **Estimasi Korban Jiwa** | 2.000 hingga lebih dari 10.000 orang | Komnas HAM (2012) & riset sejarawan David Bourchier |
+| **Estimasi Korban Jiwa** | 2.000 hingga lebih dari 10.000 orang | Pengaduan yang diterima Komnas HAM: lebih dari 2.000 korban; riset David Bourchier (1990) hingga 10.000; Komisioner Komnas HAM Beka Ulung Hapsara (2022) meyakini jumlahnya lebih dari 3.000 karena sulitnya identifikasi dan pemakaman korban |
 | **Metode Eksekusi** | Penjemputan paksa malam hari, penembakan jarak dekat, jeratan tali di leher | Jenazah dibungkus karung goni, dimasukkan kardus, atau dibuang di ruang terbuka |
 | **Kriteria Target** | Mantan narapidana (residivis), anggota geng pemuda, orang bertato | Daftar inventarisasi intelijen Kodim dan Kepolisian (Operasi Kilat) |
 | **Pengakuan Resmi** | Presiden Soeharto mengakui operasi ini sebagai *shock therapy* | Buku otobiografi *Pikiran, Ucapan, dan Tindakan Saya* (1989) |
-| **Status Hukum Terkini** | Dinyatakan sebagai Pelanggaran HAM Berat Masa Lalu | Penyelidikan Pro-Justisia Komnas HAM (2012) |
+| **Status Hukum Terkini** | Dinyatakan sebagai Pelanggaran HAM Berat Masa Lalu | Penyelidikan Pro-Justisia Komnas HAM (2012); 11 Januari 2023 Presiden Joko Widodo mengakui Petrus sebagai satu dari 12 pelanggaran HAM berat masa lalu; penyelesaian non-yudisial lewat Inpres No. 2 Tahun 2023, pemulihan hak korban dijadwalkan 2024 |
 
 ## Dua sudut pandang
 
@@ -82,6 +97,27 @@ Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh w
 ### 1989-01-20
 - Penerbitan buku otobiografi resmi Presiden [[aktor/soeharto|Soeharto]] (*Pikiran, Ucapan, dan Tindakan Saya*, halaman 364–365) yang untuk pertama kalinya secara terus terang mengakui keterlibatan pemerintah: *"Tindakan tegas bagaimana? Ya, harus dengan kekerasan. Tetapi kekerasan itu bukan lantas dengan tembakan, begitu saja. Bukan! Tetapi yang melawan, ya, mau tidak mau harus ditembak... Lalu ada yang mayatnya ditinggalkan begitu saja. Itu untuk shock therapy... Supaya orang banyak mengerti bahwa terhadap perbuatan jahat masih ada yang bisa bertindak dan mengatasinya."*
 
+### 2008
+- Komnas HAM membentuk tim ad hoc penyelidikan pelanggaran HAM berat peristiwa Petrus, berdasarkan kesepakatan dengan DPR yang merujuk UU No. 26 Tahun 2000 tentang Pengadilan HAM. Penyelidikan ini yang kemudian menghasilkan laporan penyelidikan Pro-Justisia 2012 yang mengkategorikan peristiwa ini sebagai pelanggaran HAM berat masa lalu.
+
+### 2022-02-03
+- Komisioner Komnas HAM Beka Ulung Hapsara menyatakan penyelidikan Petrus macet: dari 115 orang yang dimintai keterangan (95 saksi, 14 saksi korban, 2 aparat sipil, 2 purnawirawan TNI, 2 purnawirawan Polri), para purnawirawan TNI/Polri menolak memenuhi panggilan, dan korban yang hendak bersaksi mengalami intimidasi. Menurut Beka, kedua jalan penyelesaian — pengadilan HAM ad hoc dan Komisi Kebenaran dan Rekonsiliasi (yang sudah dibatalkan Mahkamah Konstitusi) — "macet total".
+
+### 2023-01-11
+- Presiden Joko Widodo mengakui bahwa pelanggaran HAM berat memang terjadi dalam 12 peristiwa masa lalu, termasuk Penembakan Misterius 1982–1985 (peristiwa nomor 2 dalam daftar). Pengakuan ini didasarkan pada laporan Tim Penyelesaian Non-Yudisial Pelanggaran HAM Berat Masa Lalu (Tim PPHAM, dibentuk lewat Keppres No. 17 Tahun 2022). Presiden menyatakan penyesalannya dan berkomitmen memulihkan hak-hak korban secara adil dan mencegah keberulangan.
+
+### 2023-06-27
+- Kick-off pelaksanaan rekomendasi penyelesaian non-yudisial digelar serentak, antara lain di Rumoh Geudong, Aceh: pemulihan hak korban berorientasi pada korban (*victim centered*) — antara lain Kartu Kesehatan Prioritas, tunjangan tunai bulanan, beasiswa pendidikan, pembangunan/renovasi rumah, pekerjaan, dan alat usaha — dilaksanakan oleh 19 kementerian/lembaga sesuai Inpres No. 2 Tahun 2023, dengan Tim Pemantau (Tim PKPHAM) dibentuk lewat Keppres No. 4 Tahun 2023.
+
+### 2023-12-10
+- Kantor Staf Kepresidenan menyatakan pemulihan hak korban Petrus dijadwalkan dilaksanakan pada 2024, bersama korban peristiwa 1965/1966, Talangsari, Wamena, Wasior, dan dukun santet — setelah pemulihan korban penghilangan paksa 1997/1998, Trisakti, Mei 1998, dan Semanggi I–II diserahkan pada 11 Desember 2023.
+
+### 2025-02-14
+- Wakil Menteri HAM Mugianto Sipin menyatakan pemerintahan Presiden Prabowo Subianto akan melanjutkan pemulihan hak korban dan keluarga korban 13 kasus pelanggaran HAM berat yang dirintis Presiden Jokowi, dengan Keppres dan Inpres baru sebagai dasar hukumnya.
+
+### 2026-11-09
+- Pemerintah membentuk kelompok kerja lintas lembaga yang dipimpin Wakil Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Otto Hasibuan untuk mengurai hambatan penanganan 13 kasus dugaan pelanggaran HAM berat masa lalu — termasuk penembakan misterius — yang berkasnya tertahan antara penyelidikan Komnas HAM dan penyidikan Kejaksaan Agung. Menurut Menko Kumham Imipas Yusril Ihza Mahendra, 4 dari 17 kasus sudah diproses melalui pengadilan, sedangkan 13 lainnya belum menemukan titik terang.
+
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden RI yang memberikan mandat operasi pemulihan ketertiban umum dan mengakui operasi terapi kejut dalam memoar resminya.
 - **Jenderal L. B. Moerdani** — Panglima ABRI (1983–1988) yang mengoordinasikan penertiban keamanan di berbagai wilayah garnisun militer.
@@ -91,6 +127,12 @@ Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh w
 ## Sumber
 - **Soeharto (1989):** *Pikiran, Ucapan, dan Tindakan Saya* — Ditulis oleh G. Dwipayana dan Ramadhan K.H., PT Citra Lamtoro Gung Persada (Bab 67, hlm. 364–365).
 - **Komisi Nasional Hak Asasi Manusia (Komnas HAM, 2012):** *Ringkasan Eksekutif Laporan Penyelidikan Pelanggaran Hak Asasi Manusia yang Berat Peristiwa Penembakan Misterius 1982–1985*.
+- **Komnas HAM, Beka Ulung Hapsara (3 Februari 2022), "Kasus Petrus Mandek" (CNN Indonesia, 4 Februari 2022)** — https://www.asia-pacific-solidarity.net/news/2022-02-04/mysterious-shootings-investigation-stalls-police-and-tni-witnesses-uncooperative.html — 115 orang dimintai keterangan; penyelidikan macet karena purnawirawan TNI/Polri menolak panggilan dan intimidasi terhadap korban; estimasi korban lebih dari 3.000.
+- **Presiden Joko Widodo (11 Januari 2023), pengakuan 12 pelanggaran HAM berat masa lalu** — https://barisan.co/pemerintah-akui-12-pelanggaran-ham-berat-orba-sebut-petrus-efektif-basmi-kejahatan-2/ — Petrus peristiwa nomor 2; Tim PPHAM (Keppres No. 17 Tahun 2022); Yosep Adi Prasetyo (2012): korban hingga 10.000 menurut Bourchier, pengaduan ke Komnas HAM lebih dari 2.000.
+- **Kantor Staf Kepresidenan (10–11 Desember 2023), pemulihan hak korban** — https://channel9.id/pemerintah-berikan-hak-pemulihan-korban-1998-hingga-trisakti-hari-ini/ — Inpres No. 2 Tahun 2023, Keppres No. 4 Tahun 2023; pemulihan korban Petrus dijadwalkan 2024; bentuk pemulihan: Kartu Kesehatan Prioritas, tunjangan tunai bulanan, beasiswa, renovasi rumah, pekerjaan, alat usaha.
+- **Kementerian HAM (14 Februari 2025), kelanjutan pemulihan 13 kasus di era Prabowo** — https://www.korankota.co.id/v151/t502/83947/presiden-prabowo-siapkan-keppres-dan-inpres-pemulihan-hak-korban-pelanggaran-ham-berat
+- **Pokja lintas lembaga kasus HAM berat (9 November 2026)** — https://www.newshive.id/read/hukum/otto-hasibuan-pimpin-pokja-kasus-ham-berat — dipimpin Wamenko Otto Hasibuan; 4 dari 17 kasus sudah diproses pengadilan, 13 belum tuntas, termasuk Petrus.
+- **Kontras (2002), hitungan korban tewas terdokumentasi — dikutip dalam makalah FH Universitas Palangka Raya (2023)** — https://id.scribd.com/document/699674355/Makalah-Ham-Sevita-1 — 532 tewas (1983), 107 (1984), 74 (1985).
 - **David Bourchier (1990):** *Crime, Law and State Authority in Indonesia* dalam *State and Civil Society in Indonesia* (ed. Arief Budiman, Monash Papers on Southeast Asia No. 22, hlm. 177–212).
 - **Julius Pour (1993):** *Benny Moerdani: Profil Prajurit Negarawan* (Yayasan Kejuangan Panglima Besar Sudirman).
 - **Jurnal Akademik:** Kajian sejarah pelaksanaan operasi keamanan daerah di E-Journal Unesa: *Penembakan Misterius di Jawa Timur*: https://ejournal.unesa.ac.id/index.php/avatara/article/view/72858
@@ -102,3 +144,4 @@ Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh w
 
 ## Catatan presisi
 - **Motif Politik Pemilu 1982:** Sejumlah sejarawan politik menemukan bukti bahwa sebelum dihabisi pada 1983, kelompok-kelompok preman dan gali di kota-kota besar (seperti kelompok Bapora dan Ali Sadikin supporters) sempat dimanfaatkan oleh faksi militer dan partai politik selama masa kampanye Pemilu 1982. Pembersihan massal ini juga berfungsi menyingkirkan elemen massa liar bersenjata yang sulit dikendalikan oleh hierarki komando ABRI.
+- **Hitungan korban yang terdokumentasi:** Kontras (2002) mencatat korban tewas Petrus di seluruh Indonesia sebanyak 532 orang pada 1983, 107 orang pada 1984, dan 74 orang pada 1985 — total 713 korban yang terdokumentasi namanya. Angka ini jauh lebih kecil daripada estimasi 2.000–10.000 di atas karena hanya menghitung kasus yang berhasil didokumentasikan; selisihnya menunjukkan besarnya ketidakpastian data, bukan kesalahan salah satu pihak.
