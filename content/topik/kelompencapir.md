@@ -2,8 +2,8 @@
 title: "Kelompencapir"
 description: "Kelompok Pendengar, Pembaca, dan Pemirsa (Kelompencapir): program penyuluhan pertanian Departemen Penerangan yang mempertemukan petani dan nelayan dengan penyuluh, menteri, bahkan Presiden — lewat radio, televisi, dan lomba cerdas cermat."
 date: 1984-06-18
-updated: 2026-11-08
-last_updated: "2026-11-08"
+updated: 2026-11-12
+last_updated: "2026-11-12"
 entity_type: topik
 entity_id: "kelompencapir"
 aliases:
@@ -21,6 +21,15 @@ sumber:
   - url: https://www.soehartois.com/2024/10/kesuksesan-program-kelompencapir-yang.html
     judul: "Kesuksesan Program Kelompencapir — soehartois.com"
     tanggal: 2026-11-08
+  - url: https://etd.repository.ugm.ac.id/penelitian/detail/97870
+    judul: "Siaran Pedesaan dan Transformasi Sosial Ekonomi di Pedesaan Yogyakarta 1968–1990-an — tesis UGM"
+    tanggal: 2026-11-12
+  - url: https://www.cogoipa.online/2024/06/matinya-intelektualisme-refleksi.html
+    judul: "Matinya Intelektualisme: Refleksi Komunikasi Politik di Indonesia — Made Supriatma (ISEAS), 2024"
+    tanggal: 2026-11-12
+  - url: https://id.wikipedia.org/wiki/Departemen_Penerangan_Republik_Indonesia
+    judul: "Departemen Penerangan Republik Indonesia — Wikipedia (dibubarkan 26 Okt 1999; BIKN Keppres 153/1999)"
+    tanggal: 2026-11-12
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -56,19 +65,30 @@ Sebaliknya, nasib program ini juga menunjukkan batasnya: Kelompencapir sepenuhny
 | Format | Kelompok pendengar/pembaca/pemirsa di desa + temu wicara langsung + kompetisi cerdas cermat pertanian sampai tingkat pusat |
 | Peserta | Petani, nelayan, dan peternak dari berbagai daerah |
 | Program sejenis di TVRI | Desa ke Desa, Petani Menjawab, Menteri Pertanian Menjawab, Kotak Pos |
-| Berakhir | Memudar setelah Reformasi 1998 dan dibubarkannya Departemen Penerangan |
+| Berakhir | Memudar setelah Reformasi 1998; Departemen Penerangan dibubarkan 26 Oktober 1999 oleh Presiden Abdurrahman Wahid, fungsinya dialihkan ke Badan Informasi dan Komunikasi Nasional (BIKN, Keppres 153/1999) |
+
+## Penilaian
+
+Tesis UGM tentang siaran pedesaan Yogyakarta (1968–1990-an) menempatkan Kelompencapir sebagai forum tani (*farm forum*) yang menjadi penggerak utama pembangunan pedesaan hingga 1990-an — memperkenalkan teknologi pertanian, pembangunan infrastruktur desa, dan peningkatan kesejahteraan masyarakat desa. Namun komunikasi pembangunan itu berjalan dari atas ke bawah: segalanya ditentukan pusat, desa hanya menjadi objek dan pelaksananya.
+
+Peneliti ISEAS Made Supriatma (2024) mencatat sisi yang sama dari sudut berbeda: Kelompencapir kerap dicibir, tetapi justru sukses menyebarkan informasi pertanian dengan cepat dan merata di masa sebelum grup pesan instan — dan temu wicara di dalamnya juga dipakai Soeharto dan Harmoko untuk memobilisasi massa. [Inferensi: penilaian atas Kelompencapir terbelah antara efektivitas penyuluhan dan fungsi mobilisasinya; keduanya tercatat dalam sumber yang sama, dan keduanya perlu dibaca bersama — seperti halnya program-program Orde Baru lain yang sekaligus melayani pembangunan dan kekuasaan.]
 
 ## Batas data
 
 - Artikel soehartois.com tentang Kelompencapir tidak memberi tanggal; tanggal 1978 dan 18 Juni 1984 di halaman ini berasal dari buku Sejarah Indonesia SMA Kelas XII dan catatan kontemporer.
 - Jangkauan program ini — berapa kelompok yang terbentuk, berapa petani yang ikut — tidak terdokumentasi dalam sumber yang dipakai di halaman ini. [perlu sumber primer]
 - Klaim artikel bahwa manfaat program "masih terasa hingga sekarang" tidak terverifikasi: programnya sendiri berakhir bersama Departemen Penerangan; yang tersisa adalah ingatan dan praktiknya, bukan lembaganya.
+- **Klaim Harmoko sebagai "pendiri" Kelompencapir** (Supriatma, 2024) tidak dimasukkan sebagai fakta: program diperkenalkan 1978, sementara Harmoko baru menjadi Menteri Penerangan pada 1983 — peran pastinya pada fase awal belum terverifikasi; yang terdokumentasi adalah formalisasi program lewat Kepmenpen No. 110/Kep/Menpen/1984 di masa jabatannya.
+- **Tanggal pembubaran Departemen Penerangan** kini dicatat 26 Oktober 1999 — departemen itu tidak dicantumkan dalam susunan Kabinet Persatuan Nasional (Keppres 355/M/1999); penggantinya, BIKN, dibentuk 7 Desember 1999 (Keppres 153/1999).
 
 ## Sumber
 
 - "Kesuksesan Program Kelompencapir yang Meningkatkan Pengetahuan Petani dan Nelayan", soehartois.com, 13 Okt 2024: https://www.soehartois.com/2024/10/kesuksesan-program-kelompencapir-yang.html
 - "Kelompencapir", Buku Sejarah Indonesia SMA Kelas XII (hlm. 259) — diresmikan 18 Juni 1984, Kepmenpen No. 110/Kep/Menpen/1984.
 - "Inspirasi Menulis Memoar: Kisah di Balik Foto Bersama Menteri Penerangan Harmoko", Beritajabar, 2024 — diperkenalkan 1978, memudar pascareformasi: https://beritajabar.news/inspirasi-menulis-memoar-kisah-di-balik-foto-bersama-menteri-penerangan-harmoko/
+- "Siaran Pedesaan dan Transformasi Sosial Ekonomi di Pedesaan Yogyakarta 1968-1990-an", tesis UGM (repositori): https://etd.repository.ugm.ac.id/penelitian/detail/97870
+- Made Supriatma, "Matinya Intelektualisme: Refleksi Komunikasi Politik di Indonesia", 6 Jun 2024: https://www.cogoipa.online/2024/06/matinya-intelektualisme-refleksi.html
+- "Departemen Penerangan Republik Indonesia", Wikipedia bahasa Indonesia: https://id.wikipedia.org/wiki/Departemen_Penerangan_Republik_Indonesia
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
 
 Lihat juga: [[hub/kehidupan-rakyat|Kehidupan Rakyat dan Pembangunan Sosial]] · [[hub/repelita|Repelita]] · [[hub/warisan-orde-baru|Warisan Orde Baru]]
