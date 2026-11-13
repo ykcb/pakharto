@@ -2,8 +2,8 @@
 title: "Museum Soeharto Kemusuk"
 description: "Museum Memorial Jenderal Besar Soeharto di Dusun Kemusuk, Bantul — dibangun keluarga Soeharto di tanah kelahirannya dan diresmikan 8 Juni 2013."
 date: 2013-06-08
-updated: 2026-11-08
-last_updated: "2026-11-08"
+updated: 2026-11-13
+last_updated: "2026-11-13"
 entity_type: topik
 entity_id: "museum-soeharto-kemusuk"
 aliases:
@@ -23,6 +23,12 @@ sumber:
   - url: https://id.wikipedia.org/wiki/Memorial_Jenderal_Besar_Soeharto
     judul: "Memorial Jenderal Besar Soeharto — Wikipedia bahasa Indonesia"
     tanggal: 2026-11-08
+  - url: https://joss.co.id/2026/05/museum-soeharto-bantul-diserbu-5-ribu-pengunjung-per-bulan-didominasi-pelajar/
+    judul: "Museum Soeharto Bantul Diserbu 5 Ribu Pengunjung per Bulan, Didominasi Pelajar — Joss.co.id"
+    tanggal: 2026-11-13
+  - url: https://seminar.uad.ac.id/index.php/snk/article/view/6144
+    judul: "Peranan Museum Memorial Jenderal Besar H.M Soeharto dalam Penguatan Sikap Sosial dan Cinta Tanah Air Masyarakat — Seminar Nasional Kewarganegaraan UAD"
+    tanggal: 2026-11-13
 relasi:
   - predikat: terkait_dengan
     objek: "Soeharto"
@@ -51,21 +57,22 @@ Museum ini dibangun bukan oleh negara, melainkan oleh keluarga — di tanah kelu
 | Patung | Patung besar Soeharto (2,5 m) karya Edhi Sunarso di pintu masuk, di samping batu prasasti peresmian |
 | Petilasan | Sumur tua peninggalan kakek-buyut Soeharto, di timur Gedung Notosudiro |
 | Tiket | Gratis; pengunjung mengisi buku tamu |
-| Jam buka | Selasa–Minggu 08.30–15.30 (menurut artikel 2024; dapat berubah) |
+| Jam buka | Selasa–Minggu 08.30–15.30 (menurut artikel 2024; dapat berubah — lihat Batas data) |
+| Kunjungan | ±5.000 orang/bulan (Mei 2026), sekitar 70% pelajar TK–SMA; sisanya masyarakat umum |
 
 ## Apa yang ada di dalamnya
 
 - **Pendopo:** multimedia perjuangan Soeharto, buku elektronik, dan patung setengah badan.
-- **Ruang diorama:** instalasi roll film dokumentasi visual bergerak dan diorama peristiwa penting — antara lain koordinasi dengan Panglima Sudirman saat Serangan Umum 1 Maret 1949, dan penghargaan FAO di Roma 1985 atas swasembada pangan.
+- **Ruang diorama:** instalasi roll film dokumentasi visual bergerak dan diorama peristiwa penting — antara lain koordinasi dengan Panglima Sudirman saat Serangan Umum 1 Maret 1949, dan penghargaan FAO di Roma 1985 atas swasembada pangan. Gedung Atmosudiro menampilkan selasar-selasar bertema: Selasar Serangan Umum 1 Maret, Selasar Trikora, Selasar Kesaktian Pancasila, hingga Selasar Masa Pembangunan.
 - **Koleksi:** benda kenangan sejak dinas militer hingga kepresidenan — seragam, medali, dokumen dinas dan kebijakan, foto keluarga, serta foto pertemuan dengan pemimpin dunia.
 - **Rumah keluarga:** replika/rumah masa kecil dan rumah-rumah keluarga (Notosudiro, Atmosudiro) di dalam kompleks.
-- **Kegiatan edukasi:** kunjungan sekolah dan universitas, seminar sejarah, dan lokakarya kepemimpinan.
+- **Kegiatan edukasi:** kunjungan sekolah dan universitas, seminar sejarah, dan lokakarya kepemimpinan. Menurut Kepala Museum Gatot Nugroho (Mei 2026), kunjungan mencapai sekitar 5.000 orang per bulan dan sekitar 70% di antaranya pelajar; edukasi dilakukan interaktif dan disesuaikan usia — misalnya mengajak anak menyanyikan lagu Garuda Pancasila. Sebuah makalah Seminar Nasional Kewarganegaraan (UAD) mencatat museum juga dipakai warga sekitar untuk kegiatan sosial dan keagamaan, antara lain peringatan 1 Muharram, Natal, Hari Kartini, dan Hari Pahlawan.
 
 ## Batas data
 
 - **Luas lahan:** artikel soehartois.com menyebut "lebih dari dua hektare" dan "sekitar 1.000 meter persegi" — keduanya SALAH. Lahan museum 3.620 m² menurut situs resmi Kalurahan Argomulyo, Wikipedia, dan sejumlah liputan; angka 1.000 m² kemungkinan merujuk pada luas bangunan, bukan lahan.
 - **Jumlah artefak:** "lebih dari 1.000 artefak" hanya disebut oleh artikel soehartois.com dan tidak terverifikasi di sumber lain; halaman ini tidak memakai angka itu sebagai fakta.
-- **Jam operasional** (Selasa–Minggu 08.30–15.30) hanya berasal dari satu artikel 2024 dan belum terverifikasi ulang; jam dapat berubah.
+- **Jam operasional** (Selasa–Minggu 08.30–15.30) hanya berasal dari satu artikel 2024 dan belum terverifikasi ulang; sumber lain menyebut jam berbeda — 08.00–16.00 setiap hari, atau 08.30–15.00 — jadi jam dapat berubah; konfirmasi ke pihak museum sebelum berkunjung.
 - **Narasi museum:** sebagai museum keluarga, koleksi dan narasinya menyajikan sisi pencapaian Soeharto; kontroversi pemerintahannya tidak menjadi bagian pameran. Halaman ini mencatat museum sebagai tempat penyimpanan memori, bukan sebagai sumber netral tentang [[hub/orde-baru|Orde Baru]] — lihat [[hub/warisan-orde-baru|Warisan Orde Baru]] untuk penilaian berimbang.
 
 ## Sumber
@@ -74,6 +81,8 @@ Museum ini dibangun bukan oleh negara, melainkan oleh keluarga — di tanah kelu
   - https://www.soehartois.com/2024/10/museum-presiden-soeharto-di-kemusuk.html
   - https://www.soehartois.com/2024/10/sejarah-terangkum-di-museum-soeharto.html
   - https://www.soehartois.com/2024/10/museum-soeharto-kemusuk-destinasi.html
+- "Museum Soeharto Bantul Diserbu 5 Ribu Pengunjung per Bulan, Didominasi Pelajar", Joss.co.id, 2 Mei 2026: https://joss.co.id/2026/05/museum-soeharto-bantul-diserbu-5-ribu-pengunjung-per-bulan-didominasi-pelajar/
+- "Peranan Museum Memorial Jenderal Besar H.M Soeharto dalam Penguatan Sikap Sosial dan Cinta Tanah Air Masyarakat", Seminar Nasional Kewarganegaraan, Universitas Ahmad Dahlan: https://seminar.uad.ac.id/index.php/snk/article/view/6144
 - "Memorial Jenderal Besar Soeharto", Wikipedia bahasa Indonesia: https://id.wikipedia.org/wiki/Memorial_Jenderal_Besar_Soeharto
 - "Museum Memorial Jenderal Besar Soeharto", Kalurahan Argomulyo, Bantul: https://Argomulyo.Bantulkab.Go.Id/first/artikel/136
 - "Museum Soeharto, Mengenang Soeharto di Tempat Kelahirannya", Mojok: https://mojok.co/kilas/museum-soeharto-mengenang-soeharto-di-tempat-kelahirannya/
