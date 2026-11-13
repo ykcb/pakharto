@@ -1,5 +1,5 @@
 ---
-title: "Bab 97: HUT. Pernikahan Kami yang Keempat Puluh (Otobiografi Soeharto)"
+title: "Bab 97: HUT Pernikahan Kami yang Keempat Puluh (Otobiografi Soeharto)"
 description: "Bab 97 otobiografi Soeharto, periode Masa Jabatan 1983-1988. Pada tanggal 26 Desember 1987 itu, pagi hari saya meletakkan batu pertama pembangunan Museum Puma Bhakti Pertiwi yang akan dibangun di Kelurahan Pinangranti, Jakarta Timur, persis di samping kiri pintu masuk Taman Mini (TMII)..."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-097-hut-pernikahan-kami-yang-keempat-puluh"
 aliases:
-  - "HUT. Pernikahan Kami yang Keempat Puluh"
+  - "HUT Pernikahan Kami yang Keempat Puluh"
 tags: [otobiografi, soeharto, sumber-primer, bab-97, orde-baru]
 kategori: kekuasaan-dan-legitimasi
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 97: HUT. Pernikahan Kami yang Keempat Puluh
+# Bab 97: HUT Pernikahan Kami yang Keempat Puluh
 
 > **Ringkasan:** Bab 97 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Masa Jabatan 1983-1988**. Kutipan pembuka: "Pada tanggal 26 Desember 1987 itu, pagi hari saya meletakkan batu pertama pembangunan Museum Puma Bhakti Pertiwi yang akan dibangun di Kelurahan Pinangranti, Jakarta Timur, persis di samping kiri pintu masuk Taman Mini (TMII)..."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-·r lang tahun pemikahan kami yang ke-40 kami rayakan dengan acara yang agak lain. Anak-anak kami yang menetapkan acaranya. Suasana waktu itu santai, penuh tawa riang. Maklumlah, anak cucu saya semua kumpul.
+Ulang tahun pemikahan kami yang ke-40 kami rayakan dengan acara yang agak lain. Anak-anak kami yang menetapkan acaranya. Suasana waktu itu santai, penuh tawa riang. Maklumlah, anak cucu saya semua kumpul.
 
 Pada tanggal 26 Desember 1987 itu, pagi hari saya meletakkan batu pertama pembangunan Museum Puma Bhakti Pertiwi yang akan dibangun di Kelurahan Pinangranti, Jakarta Timur, persis di samping kiri pintu masuk Taman Mini (TMII). Tanahnya seluas hampir 20 Ha.
 
@@ -84,4 +84,4 @@ lang Pemilu 1982. Issue itu berkembang di tengah mahasiswa dan ibu ibu. Padahal 
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-096-usaha-mewujudkan-amanat-pasal33-uud45|Bab 96: Usaha Mewujudkan Amanat Pasal33 UUD'45]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-098-meminta-pengertian-yang-tulus-dan-hal-pengawasan|Bab 98: Meminta Pengertian yang Tulus dan hal Pengawasan]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-096-usaha-mewujudkan-amanat-pasal33-uud45|Bab 96: Usaha Mewujudkan Amanat Pasal 33 UUD'45]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-098-meminta-pengertian-yang-tulus-dan-hal-pengawasan|Bab 98: Meminta Pengertian yang Tulus dan hal Pengawasan]]

@@ -1,5 +1,5 @@
 ---
-title: "Bab 60: Berpikir Mengenai Ti_nggal Landas (Otobiografi Soeharto)"
+title: "Bab 60: Berpikir Mengenai Tinggal Landas (Otobiografi Soeharto)"
 description: "Bab 60 otobiografi Soeharto, periode Masa Jabatan 1978-1983. Sesungguhnya sewaktu saya berbicara di Pasar Klewer sebelum Pemilu 1971 itu, saya sudah menggambarkan tahap-tahap Repelita itu. Cuma waktu itu saya belum mempergunakan istilah tinggal landas..."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-060-berpikir-mengenai-tinggal-landas"
 aliases:
-  - "Berpikir Mengenai Ti_nggal Landas"
+  - "Berpikir Mengenai Tinggal Landas"
 tags: [otobiografi, soeharto, sumber-primer, bab-60, orde-baru]
 kategori: pembangunan-dan-kehidupan
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 60: Berpikir Mengenai Ti_nggal Landas
+# Bab 60: Berpikir Mengenai Tinggal Landas
 
 > **Ringkasan:** Bab 60 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Masa Jabatan 1978-1983**. Kutipan pembuka: "Sesungguhnya sewaktu saya berbicara di Pasar Klewer sebelum Pemilu 1971 itu, saya sudah menggambarkan tahap-tahap Repelita itu. Cuma waktu itu saya belum mempergunakan istilah tinggal landas..."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-aya merenungkan lagi memikirkan Repelita-Repelita yang sudah kita mulai sejak 1969 itu.
+Saya merenungkan lagi memikirkan Repelita-Repelita yang sudah kita mulai sejak 1969 itu.
 
 Sesungguhnya sewaktu saya berbicara di Pasar Klewer sebelum Pemilu 1971 itu, saya sudah menggambarkan tahap-tahap Repelita itu. Cuma waktu itu saya belum mempergunakan istilah tinggal landas, sementara saya sudah menyebut landasan-landasannya.
 

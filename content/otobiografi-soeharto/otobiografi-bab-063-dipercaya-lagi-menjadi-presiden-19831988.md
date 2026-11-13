@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ampailah lagi kita pada masa pelaksanaan Pemilu yang sudah ditetapkan oleh MPR.
+Sampailah lagi kita pada masa pelaksanaan Pemilu yang sudah ditetapkan oleh MPR.
 
 Sebelum 4 Mei 1982, hari Pemilu, sudah terdengar lagi suara-suara yang meminta saya bersedia kembali menjadi Presiden. Saya diam saja. Saya tidak mengadakan reaksi. Saya teguh pada pendirian saya bahwa berjuang untuk rakyat banyak adalah tugas yang harus saya rampungkan. Kepercayaan rakyat harus saya hormati. Tetapi cara caranya harus tetap seperti di waktu yang sudah-sudah : konstitusional.
 
@@ -64,4 +64,4 @@ Sidang MPR 1983 ini pula yang mengukuhkan pemberian penghargaan rakyat Indonesia
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-062-masih-ada-kelompok-ekstrim|Bab 62: Masih Ada Kelompok Eks.trim]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-064-tridharma-petunjuk-bagi-kita|Bab 64: "Tridharma", Petunjuk bagi Kita]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-062-masih-ada-kelompok-ekstrim|Bab 62: Masih Ada Kelompok Ekstrim]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-064-tridharma-petunjuk-bagi-kita|Bab 64: "Tridharma", Petunjuk bagi Kita]]

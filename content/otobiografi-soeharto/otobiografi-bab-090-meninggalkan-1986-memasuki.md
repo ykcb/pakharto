@@ -1,5 +1,5 @@
 ---
-title: "Bab 90: Meninggalkan 1986, Memasuki (Otobiografi Soeharto)"
+title: "Bab 90: Meninggalkan 1986, Memasuki 1987 (Otobiografi Soeharto)"
 description: "Bab 90 otobiografi Soeharto, periode Masa Jabatan 1983-1988. Setiap tahun mempunyai makna khusus dalam perkembangan dan pertumbuhan sebagai bangsa. Setiap tahun benar-benar selalu terasa sebagai tahun yang tidak sepi dari ujian dan tantangan..."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-090-meninggalkan-1986-memasuki"
 aliases:
-  - "Meninggalkan 1986, Memasuki"
+  - "Meninggalkan 1986, Memasuki 1987"
 tags: [otobiografi, soeharto, sumber-primer, bab-90, orde-baru]
 kategori: kekuasaan-dan-legitimasi
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 90: Meninggalkan 1986, Memasuki
+# Bab 90: Meninggalkan 1986, Memasuki 1987
 
 > **Ringkasan:** Bab 90 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Masa Jabatan 1983-1988**. Kutipan pembuka: "Setiap tahun mempunyai makna khusus dalam perkembangan dan pertumbuhan sebagai bangsa. Setiap tahun benar-benar selalu terasa sebagai tahun yang tidak sepi dari ujian dan tantangan..."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-enghadapi tahun baru 1987, saya paparkan apa yang telah terjadi dan telah kita laksanakan di tahun 1986, tahun yang merupakan ujian berat di bidang ekonomi.
+Menghadapi tahun baru 1987, saya paparkan apa yang telah terjadi dan telah kita laksanakan di tahun 1986, tahun yang merupakan ujian berat di bidang ekonomi.
 
 Setiap tahun mempunyai makna khusus dalam perkembangan dan pertumbuhan sebagai bangsa. Setiap tahun benar-benar selalu terasa sebagai tahun yang tidak sepi dari ujian dan tantangan. Tetapi saya tidak pernah berkecil hati' menghadapi ujian dan tantangan itu karena saya sadar, bahwa semuanya itu adalah gelombang-gelombang dinam*a yang tidak pernah akan berhenti. Setelah setiap masalah kita selesaikan, maka segera timbul masalah baru. Setelah setiap harapan telah menjadi kenyataan, segera timbul harapanharapan baru dan aspirasi baru yang meningkat.
 

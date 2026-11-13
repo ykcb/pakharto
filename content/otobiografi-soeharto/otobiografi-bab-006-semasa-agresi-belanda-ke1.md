@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-anggal 14 Oktober 1946 tercapai kesepakatan mengenai gencatan senjata. Sebulan kemudian dilangsungkan perundingan Linggarjati yang memakan waktu empat bulan lebih sampai ditandatanganinya persetujuan itu. Sementara itu, dilakukan pemarafannya yang menimbulkan keributan di tengah masyarakat.
+Tanggal 14 Oktober 1946 tercapai kesepakatan mengenai gencatan senjata. Sebulan kemudian dilangsungkan perundingan Linggarjati yang memakan waktu empat bulan lebih sampai ditandatanganinya persetujuan itu. Sementara itu, dilakukan pemarafannya yang menimbulkan keributan di tengah masyarakat.
 
 Sebelum sampai pada saat penandatanganan "Persetujuan Linggarjati" terjadi sesuatu yang penting ialah seluruh tentara Inggris ditarik dari Indonesia. Karena itu kita hanya berhadapan langsung dengan tentara Belanda.
 

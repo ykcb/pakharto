@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ita sekarang merasa lega bahwa kita telah menegaskan, Pancasila adalah satu-satunya asas dalam kehidupan bermasyarakat, berbangsa dan bernegara. Ini merupakan keputusan nasional kita yang teramat penting dan mendasar.
+Kita sekarang merasa lega bahwa kita telah menegaskan, Pancasila adalah satu-satunya asas dalam kehidupan bermasyarakat, berbangsa dan bernegara. Ini merupakan keputusan nasional kita yang teramat penting dan mendasar.
 
 Keputusan ini merupakan langkah yang kita ambil guna meletakkan kerangka landasan di bidang ideologi dan politik sebagai persiapan menuju tahap tinggal landas nanti.
 

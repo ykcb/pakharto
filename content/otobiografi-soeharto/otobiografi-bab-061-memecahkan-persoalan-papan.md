@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-aya menyadari, rumah tinggal merupakan salah satu kebutuhan dasar manusia di samping kebutuhan-kebutuhan dasar lainnya seperti pangan, sandang, kesehatan, lapangan kerja dan pendidikan.
+Saya menyadari, rumah tinggal merupakan salah satu kebutuhan dasar manusia di samping kebutuhan-kebutuhan dasar lainnya seperti pangan, sandang, kesehatan, lapangan kerja dan pendidikan.
 
 Tanpa rumah tinggal yang layak dan memnuhi syarat, sulit mewujudkan keluarga yang bahagia dan sejahtera.
 
@@ -66,4 +66,4 @@ Dalam memberi petunjuk kepada Cosmas, saya selalu menekankan bahwa kita harus me
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-060-berpikir-mengenai-tinggal-landas|Bab 60: Berpikir Mengenai Ti_nggal Landas]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-062-masih-ada-kelompok-ekstrim|Bab 62: Masih Ada Kelompok Eks.trim]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-060-berpikir-mengenai-tinggal-landas|Bab 60: Berpikir Mengenai Tinggal Landas]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-062-masih-ada-kelompok-ekstrim|Bab 62: Masih Ada Kelompok Ekstrim]]

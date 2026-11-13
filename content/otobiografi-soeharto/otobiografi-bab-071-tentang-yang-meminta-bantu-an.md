@@ -1,5 +1,5 @@
 ---
-title: "Bab 71: Tentang yang Meminta Bantu an (Otobiografi Soeharto)"
+title: "Bab 71: Tentang yang Meminta Bantuan (Otobiografi Soeharto)"
 description: "Bab 71 otobiografi Soeharto, periode Masa Jabatan 1983-1988. Kadang-kadang saya berikan petunjuk, 'Begini lho caranya, begini, begini.' Tetapi tempo-tempo ada juga yang kemudian nampak nampaknya merasa saya perlakukan kurartg baik..."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-071-tentang-yang-meminta-bantu-an"
 aliases:
-  - "Tentang yang Meminta Bantu an"
+  - "Tentang yang Meminta Bantuan"
 tags: [otobiografi, soeharto, sumber-primer, bab-71, orde-baru]
 kategori: ekonomi-dan-kepemilikan
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 71: Tentang yang Meminta Bantu an
+# Bab 71: Tentang yang Meminta Bantuan
 
 > **Ringkasan:** Bab 71 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Masa Jabatan 1983-1988**. Kutipan pembuka: "Kadang-kadang saya berikan petunjuk, "Begini lho caranya, begini, begini." Tetapi tempo-tempo ada juga yang kemudian nampak nampaknya merasa saya perlakukan kurartg baik..."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-itengah kehidupan serba membangun ini tentu saja banyak orang yang meminta bantuan kepada saya. Bermacam-macam bantuan yang mereka harapkan. Dan dari bermacam-macam jenis lingkungan. Mulai dari anak-anak sampai kepada orang tua renta. Mulai dari soal yang menyangkut pendidikan taman kanak-kanak, sampai kepada dunia bisnis. Ya, ada yang minta bantuan mengenai bisnisnya. Ada kenalan, ada kerabat, juga anak-anak sendiri yang menginjak dunia bisnis suka-suka bertanya, meminta petunjuk saya. Kepada mereka saya berikan petunjuk, cara-cara yang sebaiknya mereka tempuh, sesuai dengan peraturanperaturan yang berlaku.
+Di tengah kehidupan serba membangun ini tentu saja banyak orang yang meminta bantuan kepada saya. Bermacam-macam bantuan yang mereka harapkan. Dan dari bermacam-macam jenis lingkungan. Mulai dari anak-anak sampai kepada orang tua renta. Mulai dari soal yang menyangkut pendidikan taman kanak-kanak, sampai kepada dunia bisnis. Ya, ada yang minta bantuan mengenai bisnisnya. Ada kenalan, ada kerabat, juga anak-anak sendiri yang menginjak dunia bisnis suka-suka bertanya, meminta petunjuk saya. Kepada mereka saya berikan petunjuk, cara-cara yang sebaiknya mereka tempuh, sesuai dengan peraturanperaturan yang berlaku.
 
 Kadang-kadang saya berikan petunjuk, "Begini lho caranya, begini, begini." Tetapi tempo-tempo ada juga yang kemudian nampak nampaknya merasa saya perlakukan kurartg baik. Saya ingat ada ternan-ternan di antara pensiunan jenderal-ienderal yang memerlukan bantuan untuk membanguh suatu proyek. Bantuan itu seperli akan mereka dapatkan dari luar negeri. Tetapi rupanya mereka. kurang mengerti bahwa kredit yang kita butuhkan itu.,{ldalah kredit yang lunak, .berjangka panjang, dan bunganya pun nngan. Kita tidak mau sembarangan menerima·bantuan pinjaman itu. Tidak semua kredit kita terima. Yang kita terima adalah yang sesuai dengan kebutuhan kita sendiri. Namun, yang terjadi, jenderal sahabat saya itu ada yang mendekati saya dengan menawarkan kredit yang tidak sedikit
 

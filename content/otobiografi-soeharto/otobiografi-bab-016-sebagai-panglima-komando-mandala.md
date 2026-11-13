@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ejak Konferensi Meja Bundar (KMB) di tahun 1949, ada satu hal yang tidak terselesaikan dan menjadi duri dalam daging bagi Republik Indonesia, yakni soal Irian Barat. Hasil KMB itu menyebutkan, bahwa dalam jangka waktu satu tahun sesudah tanggal "penyerahan" kedaulatan kepada RIS, masalah status Irian akan diselesaikan dengan jalan perundingan antara Republik Indonesia Serikat dengan Kerajaan Belanda.
+Sejak Konferensi Meja Bundar (KMB) di tahun 1949, ada satu hal yang tidak terselesaikan dan menjadi duri dalam daging bagi Republik Indonesia, yakni soal Irian Barat. Hasil KMB itu menyebutkan, bahwa dalam jangka waktu satu tahun sesudah tanggal "penyerahan" kedaulatan kepada RIS, masalah status Irian akan diselesaikan dengan jalan perundingan antara Republik Indonesia Serikat dengan Kerajaan Belanda.
 
 RIS sudah jadi RI kembali. Belanda tidak mau menyerahkan Irian Barat kepada kita. Melewati usaha-usaha diplomatik secara bilateral masalah itu tak berhasil dipecahkan.
 

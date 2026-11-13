@@ -1,5 +1,5 @@
 ---
-title: "Bab 10: Serangan Umum 1Maret (Otobiografi Soeharto)"
+title: "Bab 10: Serangan Umum 1 Maret (Otobiografi Soeharto)"
 description: "Bab 10 otobiografi Soeharto, periode Perjuangan Kemerdekaan dan Karier Militer. Sementara itu rundingan Indonesia-Belanda terus berjalan. Menteri Luar Negeri Belanda D.U.Stikker sendiri datang di Yogya dan berun.ding dengan Bung Hatta di Kaliurang."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-010-serangan-umum-1maret"
 aliases:
-  - "Serangan Umum 1Maret"
+  - "Serangan Umum 1 Maret"
 tags: [otobiografi, soeharto, sumber-primer, bab-10, orde-baru]
 kategori: kekuasaan-dan-legitimasi
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 10: Serangan Umum 1Maret
+# Bab 10: Serangan Umum 1 Maret
 
 > **Ringkasan:** Bab 10 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Perjuangan Kemerdekaan dan Karier Militer**. Kutipan pembuka: "Sementara itu rundingan Indonesia-Belanda terus berjalan. Menteri Luar Negeri Belanda D.U.Stikker sendiri datang di Yogya dan berun.ding dengan Bung Hatta di Kaliurang."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-i bulan Nopember 1948, sementara rundingan Indonesia - Belanda terus berjalan, dan melelahkan rasanya buat saya, berita sedih datang dengan tiba-tiba. Jenderal Drip Sumohardjo meninggal dengan mendadak. Seorang pemimpin yang telah mengabdikan dirinya pada Angkatan Perang kita telah meninggalkan kita untuk selama lamanya. Jenazahnya dimakamkan di Taman Makam Pahlawan Semaki.
+Di bulan Nopember 1948, sementara rundingan Indonesia - Belanda terus berjalan, dan melelahkan rasanya buat saya, berita sedih datang dengan tiba-tiba. Jenderal Drip Sumohardjo meninggal dengan mendadak. Seorang pemimpin yang telah mengabdikan dirinya pada Angkatan Perang kita telah meninggalkan kita untuk selama lamanya. Jenazahnya dimakamkan di Taman Makam Pahlawan Semaki.
 
 Sementara itu rundingan Indonesia-Belanda terus berjalan. Menteri Luar Negeri Belanda D.U.Stikker sendiri datang di Yogya dan berun.ding dengan Bung Hatta di Kaliurang.
 

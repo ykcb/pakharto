@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-aduh yang memuncak tidak terhenti, gerah meliputi dunia kampus mahasiswa.
+Gaduh yang memuncak tidak terhenti, gerah meliputi dunia kampus mahasiswa.
 
 Di tengah suasana ini Kabinet Dwikora membuat langkah yang tambah menggoncangkan. Di bulan Desember 1965 terjadi penggantian uang dan uang lama diturunkan nilainya : yang Rp 1.000,- dijadikan Rp 1,-. Tentu saja keadaan menjadi tambah goyah dan panas. Lalu pemerintah menaikkan harga BBM yang. menyebabkan harga karcis bus dan kendaraan urn urn lainnya naik juga. Tarif bus yang naik dari Rp 200,- menjadi Rp 1000,- menyebabkan para mahasiswa tidak tahan.
 

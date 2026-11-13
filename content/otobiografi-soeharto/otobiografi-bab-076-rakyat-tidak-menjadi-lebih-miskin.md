@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ita-cita kita adalah masyarakat adil dan makmur berdasarkan Pancasila. Untuk mencapai itu, kita harus bekerja giat dan membangun. Syarat pembangunan adalah stabilitas nasional.
+Cita-cita kita adalah masyarakat adil dan makmur berdasarkan Pancasila. Untuk mencapai itu, kita harus bekerja giat dan membangun. Syarat pembangunan adalah stabilitas nasional.
 
 Kalau kita jujur, sesuai dengan hukum kehidupan manusia, gambaran yang pasti mengenai masyarakat adil dan makmur itu sukar kita lukiskan dengan jelas. Abstrak sekali. Tuntutan atas jumlah, jenis dan kualitas berubah terus, meningkat terus. Setelah kita bisa makan tiga kali sehari, pakaian cukup dua stel untuk setahun, mempunyai sisa uang, bisa menyekolahkan anak, tuntutan kita berubah lagi. Kita meminta jumlah dan kualitasnya bertambah naik. Jadi, yang o;;emula kita sudah merasa puas, berubah menjadi ingin lebih, ingin tambah. Tidak ada batasnya.
 

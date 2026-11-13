@@ -1,5 +1,5 @@
 ---
-title: "Bab 81: Tata Cata Kerja Saya dan Kedudukan Para Pembantu Saya (Otobiografi Soeharto)"
+title: "Bab 81: Tata Cara Kerja Saya dan Kedudukan Para Pembantu Saya (Otobiografi Soeharto)"
 description: "Bab 81 otobiografi Soeharto, periode Masa Jabatan 1983-1988. Pembantu Saya egiatan saya berdasarkan prinsip-prinsip kepemimpinan ABRI, yaitu Ing ngarsa sung tuladha,. Ing madya mangun karsa, Tut Wuri handayani..."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-081-tata-cata-kerja-saya-dan-kedudukan-para-pembantu-saya"
 aliases:
-  - "Tata Cata Kerja Saya dan Kedudukan Para Pembantu Saya"
+  - "Tata Cara Kerja Saya dan Kedudukan Para Pembantu Saya"
 tags: [otobiografi, soeharto, sumber-primer, bab-81, orde-baru]
 kategori: ekonomi-dan-kepemilikan
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 81: Tata Cata Kerja Saya dan Kedudukan Para Pembantu Saya
+# Bab 81: Tata Cara Kerja Saya dan Kedudukan Para Pembantu Saya
 
 > **Ringkasan:** Bab 81 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Masa Jabatan 1983-1988**. Kutipan pembuka: "Pembantu Saya egiatan saya berdasarkan prinsip-prinsip kepemimpinan ABRI, yaitu Ing ngarsa sung tuladha,. Ing madya mangun karsa, Tut Wuri handayani..."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-Pembantu Saya egiatan saya berdasarkan prinsip-prinsip kepemimpinan ABRI, yaitu Ing ngarsa sung tuladha,. Ing madya mangun karsa, Tut Wuri handayani. Dan dalam rangka itu saya selalu berusaha untuk tidak menumpuk atau menyimpan atau menunda pekerjaan. Sejauh mungkin segera saya selesaikan. Tak mau saya menunda-nundanya dengan alasan 'saya capek, nanti saja' dim sebagainya. Sebab, kalau tidak saya selesaikan cepat, berarti memberi contoh kurang baik kepada bawahan. Bisa ditanyakan kepada semua pembantu saya, apakah ia ajudan atau pun yang dari Sekneg, Sekkab, dan sebagainya; apakah ada tandon, apakah ada sisa, turnpukan surat-surat yang tidak saya behandel atau yang terlalu lama menunggu? Selama 20 tahun lebih itu tidak -pernah ada dokumen atau pun masalah yang dihadapkan pada saya yang saya tunda penyelesaiannya. Saya tidak suka pada penangguhan penyelesaian masalah-masalah itu. Prinsip kerja saya: hams segera setesai, segera tuntas. Apakah itu laporan dari menteri, dari eselon satu, dari masyarakat atau pun dari tamu-tamu negara. Sekarang mengenai waktunya. Para pembantu saya memberikan laporan· secara langsung kepada saya. Secara langsung pula saya membeiikan petunjuk kepada mereka mengenai laporan itu. Ada yang secara pribadi. masing-masing, di samping dalam rapat.
+Kegiatan saya berdasarkan prinsip-prinsip kepemimpinan ABRI, yaitu Ing ngarsa sung tuladha,. Ing madya mangun karsa, Tut Wuri handayani. Dan dalam rangka itu saya selalu berusaha untuk tidak menumpuk atau menyimpan atau menunda pekerjaan. Sejauh mungkin segera saya selesaikan. Tak mau saya menunda-nundanya dengan alasan 'saya capek, nanti saja' dim sebagainya. Sebab, kalau tidak saya selesaikan cepat, berarti memberi contoh kurang baik kepada bawahan. Bisa ditanyakan kepada semua pembantu saya, apakah ia ajudan atau pun yang dari Sekneg, Sekkab, dan sebagainya; apakah ada tandon, apakah ada sisa, turnpukan surat-surat yang tidak saya behandel atau yang terlalu lama menunggu? Selama 20 tahun lebih itu tidak -pernah ada dokumen atau pun masalah yang dihadapkan pada saya yang saya tunda penyelesaiannya. Saya tidak suka pada penangguhan penyelesaian masalah-masalah itu. Prinsip kerja saya: hams segera setesai, segera tuntas. Apakah itu laporan dari menteri, dari eselon satu, dari masyarakat atau pun dari tamu-tamu negara. Sekarang mengenai waktunya. Para pembantu saya memberikan laporan· secara langsung kepada saya. Secara langsung pula saya membeiikan petunjuk kepada mereka mengenai laporan itu. Ada yang secara pribadi. masing-masing, di samping dalam rapat.
 
 Kemudian masih saya lakukan kontrol, menge-check, apakah semua itu berjalan benar, berjalan lancar.
 

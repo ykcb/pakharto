@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ersyukurlah saya, saya dan istri saya bisa melakukart umroh tahun 1977. Betul-betul umroh, menjalankan ibadah sunnah. Dengan perjalanan itu saya memenuhi pula undangan pemerintah Arab Saudi.
+Bersyukurlah saya, saya dan istri saya bisa melakukart umroh tahun 1977. Betul-betul umroh, menjalankan ibadah sunnah. Dengan perjalanan itu saya memenuhi pula undangan pemerintah Arab Saudi.
 
 Waktu saya tiba di Ka'bah, benar-benar saya pasrah, saya resapkan perasaan menyerahkan diri kepada Tuhan Yang Maha Esa.
 

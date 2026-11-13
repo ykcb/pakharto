@@ -1,5 +1,5 @@
 ---
-title: "Bab 67: Pancasila- Sosialistis Religius (Otobiografi Soeharto)"
+title: "Bab 67: Pancasila Sosialistis Religius (Otobiografi Soeharto)"
 description: "Bab 67 otobiografi Soeharto, periode Masa Jabatan 1983-1988. Bagi kita, bangsa Indonesia, seperti pernah saya katakan, sistem sistem tersebut tidak sesuai dengan sifat kodrat hidup manusia."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-067-pancasila-sosialistis-religius"
 aliases:
-  - "Pancasila- Sosialistis Religius"
+  - "Pancasila Sosialistis Religius"
 tags: [otobiografi, soeharto, sumber-primer, bab-67, orde-baru]
 kategori: kekuasaan-dan-legitimasi
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 67: Pancasila- Sosialistis Religius
+# Bab 67: Pancasila Sosialistis Religius
 
 > **Ringkasan:** Bab 67 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Masa Jabatan 1983-1988**. Kutipan pembuka: "Bagi kita, bangsa Indonesia, seperti pernah saya katakan, sistem sistem tersebut tidak sesuai dengan sifat kodrat hidup manusia."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-·r ita paham bahwa sistem kapitalisme dititikberatkan pada hal-hal individu, persaingan bebas. Siapa yang kuat dialah yang hidup dalam persaingan, ia mematikan usaha orang lain. Sedangkan, sosialisme jelas bertitik tolak dari yang lain. Memang dalam ajaran yang kedua ini kepentingan individu diabaikan akan tetapi kepentingan bersama diutamakan.
+Kita paham bahwa sistem kapitalisme dititikberatkan pada hal-hal individu, persaingan bebas. Siapa yang kuat dialah yang hidup dalam persaingan, ia mematikan usaha orang lain. Sedangkan, sosialisme jelas bertitik tolak dari yang lain. Memang dalam ajaran yang kedua ini kepentingan individu diabaikan akan tetapi kepentingan bersama diutamakan.
 
 Bagi kita, bangsa Indonesia, seperti pernah saya katakan, sistem sistem tersebut tidak sesuai dengan sifat kodrat hidup manusia.
 

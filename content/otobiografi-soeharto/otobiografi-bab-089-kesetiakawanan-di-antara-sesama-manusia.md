@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ikap adil terhadap umat yang beragama yang ada dengan sah di Indonesia ini tentu saja mesti saya tunjukkan.
+Sikap adil terhadap umat yang beragama yang ada dengan sah di Indonesia ini tentu saja mesti saya tunjukkan.
 
 Maka untuk pertama kali Presiden RI hadir pada perayaan Natal bersama pegawai negeri RI di akhir Desember 1986 yang dilangsungkan di Balai Sidang, Jakarta.
 
@@ -64,4 +64,4 @@ Dengan agama sebagai landasan moral, etik, qan spiritual dalam pelaksanaan pemba
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-088-menjelang-pemilu|Bab 88: Menjelang Pemilu]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-090-meninggalkan-1986-memasuki|Bab 90: Meninggalkan 1986, Memasuki]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-088-menjelang-pemilu|Bab 88: Menjelang Pemilu]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-090-meninggalkan-1986-memasuki|Bab 90: Meninggalkan 1986, Memasuki 1987]]

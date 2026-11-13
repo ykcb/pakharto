@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ahun 1984 merupakan tahun yang menyenangkan buat kita. Pasti kita semua gembira. Kejadian yang tak akan terlupakan selama hidup saya. Pada tahun ini kesulitan yang begitu lama mengungkung kita, bisa kita atasi. Dari sekian lama menjadi pengimpor beras terbesar di dunia, dengan usaha keras akhirnya Indonesia bisa berswasembada beras.
+Tahun 1984 merupakan tahun yang menyenangkan buat kita. Pasti kita semua gembira. Kejadian yang tak akan terlupakan selama hidup saya. Pada tahun ini kesulitan yang begitu lama mengungkung kita, bisa kita atasi. Dari sekian lama menjadi pengimpor beras terbesar di dunia, dengan usaha keras akhirnya Indonesia bisa berswasembada beras.
 
 Usaha kita telah berhasil. Cucuran keringat para petani yang sekian juta banyaknya tidak percuma. Maka para petani kita disebut oleh Dirjen FAO Edouard Saouma sebagai "para penanam sukses", "para penanam kedermawanan".
 
@@ -92,4 +92,4 @@ Usaha mempertahankan swasembada pangan khususnya beras, ierus ditingkatkan. Seja
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-069-yang-disebut-petrus-dan-hukuman-mati|Bab 69: Yang Disebut "Petrus" dan Hukuman Mati]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-071-tentang-yang-meminta-bantu-an|Bab 71: Tentang yang Meminta Bantu an]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-069-yang-disebut-petrus-dan-hukuman-mati|Bab 69: Yang Disebut "Petrus" dan Hukuman Mati]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-071-tentang-yang-meminta-bantu-an|Bab 71: Tentang yang Meminta Bantuan]]

@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ada tangga19 Juni 1971, satu bulan sebelum pemilihan umumJ Juli 1971, saya datang di. Pasar Klewer, Solo, untuk meresmikan pembukaan bangunan pasar itu. Saya berpidato di sana tanpa teks. Ternyata pidato saya itu ditanggapi oleh pembantu-pembantu saya sebagai tonggak sejarah yang penting. Pidato saya itu merupakan dasar politik pembangunan kita .
+Pada tangga19 Juni 1971, satu bulan sebelum pemilihan umumJ Juli 1971, saya datang di. Pasar Klewer, Solo, untuk meresmikan pembukaan bangunan pasar itu. Saya berpidato di sana tanpa teks. Ternyata pidato saya itu ditanggapi oleh pembantu-pembantu saya sebagai tonggak sejarah yang penting. Pidato saya itu merupakan dasar politik pembangunan kita .
 
 . Saya ingat akan mandat yang diberikan MPRS di tahun 1968 kepada saya itu sebelum dibekali dengan GBHN karena MPRS belum mampu menyusunnya. Presiden dibekali dengan Ketetapan-ketetapan MPRS, antara lain untuk melaksanakan pembangunan lima tahun pertama, menyederhanakan partai politik dalam kehidupan Demokrasi Pancasila, dan melaksanakan pemilihan umum secepatnya, selambat-lambatnya pada tahun 1971.
 

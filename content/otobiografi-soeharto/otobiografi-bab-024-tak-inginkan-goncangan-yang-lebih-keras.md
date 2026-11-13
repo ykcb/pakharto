@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-anggal 27 Maret Presiden Soekarno mengumumkan Kabinet Dwikora yang disempurnakan lagi, terdiri atas Presidium Kabinet dengan enam Waperdam. Saya di antara keenam Waperdam ad interim meraqgkap Men. Hankam I Panglima AD I Kas Koti itu bersama dr. Leimena, Pak Idham Chalid, Dr. Roeslan Abdulgani, Sri Sultan Hamengku Buwono IX, dan Pak Adam Malik.
+Tanggal 27 Maret Presiden Soekarno mengumumkan Kabinet Dwikora yang disempurnakan lagi, terdiri atas Presidium Kabinet dengan enam Waperdam. Saya di antara keenam Waperdam ad interim meraqgkap Men. Hankam I Panglima AD I Kas Koti itu bersama dr. Leimena, Pak Idham Chalid, Dr. Roeslan Abdulgani, Sri Sultan Hamengku Buwono IX, dan Pak Adam Malik.
 
 Keputusan Presiden Soekarno ini bukan menyenangkan orang banyak melainkan malahan menjadi cemoohan. Kabinet ini mendapat · julukan "Kabinet 100 Menteri". Pro dan kontra muncul lagi dengan hangat. Dan demonstrasi pun bergerak lagi.
 

@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-atu undang-undang yang lahir di masa kepemimpinan saya ialah Undang-Undang Perkawinan. Dengan susah dan dengan perjalanan yang panjang sekali undang-undang itu akhirnya disahkan pada tahun 1974.
+Satu undang-undang yang lahir di masa kepemimpinan saya ialah Undang-Undang Perkawinan. Dengan susah dan dengan perjalanan yang panjang sekali undang-undang itu akhirnya disahkan pada tahun 1974.
 
 Dari segi mental dan intelektual, wanita sama sekali bukan makhluk lemah. Jika pertanian dianggap sebagai awal peradaban manusia, maka awal bercocok tanam justru ditemukan oleh wanita.
 
@@ -98,4 +98,4 @@ Di masa saya menjadi Presiden, sampai sekarang (1988), saya telah mengangkat dua
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-042-renungan-dan-tapos|Bab 42: Renungan dan Tapos]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-044-menyelesaikan-kesulitan-pertamina|Bab 44: Menyele'saikan Kesulitan Pertamina]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-042-renungan-dan-tapos|Bab 42: Renungan dan Tapos]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-044-menyelesaikan-kesulitan-pertamina|Bab 44: Menyelesaikan Kesulitan Pertamina]]

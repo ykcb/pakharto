@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ekarang soal kebebasan mengeluakan pendapat. Di dalam GBHN, di zaman pembangunan inl, kita mengenal kebebasan mcngcluarkan pcndapat yang bertanggungjawab.
+Sekarang soal kebebasan mengeluakan pendapat. Di dalam GBHN, di zaman pembangunan inl, kita mengenal kebebasan mcngcluarkan pcndapat yang bertanggungjawab.
 
 Pengalaman kita menunjukkan, bahwa kebebasan saja tanpa tanggung jawab ternyata bisa merusak. Itulah yang menyebabkan GBHN kita menambahkan penjelasan dengan kata-kata "yang bertanggung jawab". Kita menganut demokrasi, dengan pengertian, bahwa kalau kita sudah bermusyawarah dan menemukan mufakat mengenai apa yang dimusyawarahkan, sekalipun tadinya ada perbedaan pendapat, semua jadi harus patuh dan tunduk kepada apa yang sudah diputuskan. Begitulah pengertian kita mengenai musyawarah dan mufakat itu.
 
@@ -70,4 +70,4 @@ Faktor lain yang penting dalam rangka menumbuhkan kehidupan demokrasi yang juga 
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-079-setelah-ke-turki-rumania-dan-hongaria|Bab 79: Setelah ke Turki, Rumania, dan Hongaria]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-081-tata-cata-kerja-saya-dan-kedudukan-para-pembantu-saya|Bab 81: Tata Cata Kerja Saya dan Kedudukan Para Pembantu Saya]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-079-setelah-ke-turki-rumania-dan-hongaria|Bab 79: Setelah ke Turki, Rumania, dan Hongaria]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-081-tata-cata-kerja-saya-dan-kedudukan-para-pembantu-saya|Bab 81: Tata Cara Kerja Saya dan Kedudukan Para Pembantu Saya]]

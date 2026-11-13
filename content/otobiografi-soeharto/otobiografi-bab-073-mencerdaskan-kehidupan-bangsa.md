@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-anggal 2 Mei 1984, salah satu hari yang amat menggembirakan saya. Hari itu kita memperingati Hari Pendidikan Nasional. Kita memperingati kelahiran Ki Hadjar Dewantara, seorang pemikir, pencipta, dan penggerak pendidikan kita yang meletakkan dasar-dasar pertama pendidikan nasional kita, ialah paduan yang utuh antara kecerdasan pikiran, keluhuran budi pekerti, dan semangat kebangsaan.
+Tanggal 2 Mei 1984, salah satu hari yang amat menggembirakan saya. Hari itu kita memperingati Hari Pendidikan Nasional. Kita memperingati kelahiran Ki Hadjar Dewantara, seorang pemikir, pencipta, dan penggerak pendidikan kita yang meletakkan dasar-dasar pertama pendidikan nasional kita, ialah paduan yang utuh antara kecerdasan pikiran, keluhuran budi pekerti, dan semangat kebangsaan.
 
 Tetapi yang membuat saya lebih gembira lagi pacta hari itu ialah karena saat itu kita mulai dengan gerakan Wajib Belajar. Setelah hampir 30 tahun kita merdeka, kita memulai dengan gerakan yang sangat penting itu. Itu tidak berarti bahwa selama itu kita mengabaikan pembangunan perididikan. Gerakan itu baru bisa kita mulai pacta tahun 1984 karena kita harus menyiapkan diri untuk dapat memulainya dengan sebaik-baiknya.
 

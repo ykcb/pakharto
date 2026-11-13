@@ -1,5 +1,5 @@
 ---
-title: "Bab 92: Pemilu 1987 dan HUT. Kemerdekaan RI yang ke-42 (Otobiografi Soeharto)"
+title: "Bab 92: Pemilu 1987 dan HUT Kemerdekaan RI yang ke-42 (Otobiografi Soeharto)"
 description: "Bab 92 otobiografi Soeharto, periode Masa Jabatan 1983-1988. RI yang Ke-42 ada tanggal 23 April 1987 dilangsungkan Pemilu. Selama Orde Baru, dengan ini telah dilangsungkan empat kali pemilihan umum yakni tahun 1971, 1977, 1982 dan pada bulan April 1987 itu..."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-092-pemilu-1987-dan-hut-kemerdekaan-ri-yang-ke42"
 aliases:
-  - "Pemilu 1987 dan HUT. Kemerdekaan RI yang ke-42"
+  - "Pemilu 1987 dan HUT Kemerdekaan RI yang ke-42"
 tags: [otobiografi, soeharto, sumber-primer, bab-92, orde-baru]
 kategori: kekuasaan-dan-legitimasi
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 92: Pemilu 1987 dan HUT. Kemerdekaan RI yang ke-42
+# Bab 92: Pemilu 1987 dan HUT Kemerdekaan RI yang ke-42
 
 > **Ringkasan:** Bab 92 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Masa Jabatan 1983-1988**. Kutipan pembuka: "RI yang Ke-42 ada tanggal 23 April 1987 dilangsungkan Pemilu. Selama Orde Baru, dengan ini telah dilangsungkan empat kali pemilihan umum yakni tahun 1971, 1977, 1982 dan pada bulan April 1987 itu..."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-RI yang Ke-42 ada tanggal 23 April 1987 dilangsungkan Pemilu. Selama Orde Baru, dengan ini telah dilangsungkan empat kali pemilihan umum yakni tahun 1971, 1977, 1982 dan pada bulan April 1987 itu. Menjelang Pemilu ini partai-partai dan organisasi masyarakat lainnya telah menyatakan keinginan mereka, meminta supaya saya bersedia lagi diangkat menjadi Presiden periode 1988-1993. Kebulatan tekad yang lsinya sesuai dengan itu mengalir ke meja saya.
+Pada tanggal 23 April 1987 dilangsungkan Pemilu. Selama Orde Baru, dengan ini telah dilangsungkan empat kali pemilihan umum yakni tahun 1971, 1977, 1982 dan pada bulan April 1987 itu. Menjelang Pemilu ini partai-partai dan organisasi masyarakat lainnya telah menyatakan keinginan mereka, meminta supaya saya bersedia lagi diangkat menjadi Presiden periode 1988-1993. Kebulatan tekad yang lsinya sesuai dengan itu mengalir ke meja saya.
 
 Sebelum itu peluncuran satelit Palapa B-2 P (Pengganti) sudah berjalan mulus dan sesuai dengan jadwal.
 

@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ara mahasiswa masih terus mengkritik pemerintah. Padahal se bentar lagi akan dilangsungkan Sidang Umtim V MPRS; di bulan Maret.
+Para mahasiswa masih terus mengkritik pemerintah. Padahal se bentar lagi akan dilangsungkan Sidang Umtim V MPRS; di bulan Maret.
 
 Maka saya terima para mahasiswa itu dan bicara ·dengan mereka dua jam lamanya.
 

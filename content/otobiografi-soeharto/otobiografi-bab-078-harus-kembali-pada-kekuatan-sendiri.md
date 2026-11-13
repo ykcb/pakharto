@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-i bulan Agustus 1985 saya berbicara mengenai daya upaya negaranegara berkembang di tengah situasi dunia. Saya berbicara gamblang di depan Pertemuan Komite Antar-Pemerintah tentang tindak lanjut dan koordinasi kerjasama ekonomi negara berkembang (IFCC) yang diadakan di Istana Negara waktu itu.
+Di bulan Agustus 1985 saya berbicara mengenai daya upaya negaranegara berkembang di tengah situasi dunia. Saya berbicara gamblang di depan Pertemuan Komite Antar-Pemerintah tentang tindak lanjut dan koordinasi kerjasama ekonomi negara berkembang (IFCC) yang diadakan di Istana Negara waktu itu.
 
 Saya berkata, saya pandang terlalu naif jika negara-negara sedang berkembang dalam melaksanakan pembangunan ekonominya terlalu menggantungkan dirinya kepada negara-negara industri maju. Kenyataan membuktikan bahwa negara-negara maju tetap memprioritaskan pembangunannya demi · kepentingan bangsa dan negaranya sendiri. Lihat perkembangan pelaksanaan gagasan Dialog Utara-Selatan. Dialog Utara-Selatan itu tidak lancar, kalau tidak bisa dikatakan mandeg sama sekali. Lalu adanya proteksi perdagangan yang diterapkan negara maju. ltu merupakan bukti bahwa mereka kurang memperhatikan kepentingan negara-negara sedang berkembang.
 

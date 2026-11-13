@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-atu masalah pelik yang timbul saat itu adalah belum kembalinya Panglima Besar Soedirman ke Yogya. Beliau masih bertahan di markasnya. Terbetik kabar bahwa beliau akan terus berjuang sampai kedaulatan penuh di tangan Republik.
+Satu masalah pelik yang timbul saat itu adalah belum kembalinya Panglima Besar Soedirman ke Yogya. Beliau masih bertahan di markasnya. Terbetik kabar bahwa beliau akan terus berjuang sampai kedaulatan penuh di tangan Republik.
 
 Sri Sultan telah berusaha membujuk Panglima Besar untuk kembali ke Yogya. Demikian pula Kolonel Gatot Soebroto. Gubernur Militer III, perwira yang disegani oleh Pak Dirman, telah mengirim surat kepada Panglima Besar kita itu. Tetapi tak ada reaksi yang tegas dari Pak Dirman. Akhirnya saya diserahi tugas oleh Sultan Hamengku Buwono IX sebagai Menteri Koordinator untuk menjemput Pak Dirman. Sebenarnya saya ini bukan seorang perwira yang terhitung dekat kepada Jenderal Soedirman. Saya bertemu dengan beliau pada saat saat penting saja. Tetapi toh keganjilan terjadi.
 

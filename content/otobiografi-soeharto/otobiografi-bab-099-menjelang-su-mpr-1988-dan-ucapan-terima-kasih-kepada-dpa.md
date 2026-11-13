@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-Kasih kepada DPA uasana sudah ramai membicarakan soal Sidang Umum MPR yang akan dilangsungkan di permulaan Maret 1988. Dalam pada itu saya sudah mengetahui mengenai pos1st saya. Partai-partai sudah menyampaikan keinginan mereka. Golkar sudah menyampaikan hasratnya. Tetapi bagaimanapun Majelis yang punya hak untuk menetapkan segalanya.
+Suasana sudah ramai membicarakan soal Sidang Umum MPR yang akan dilangsungkan di permulaan Maret 1988. Dalam pada itu saya sudah mengetahui mengenai pos1st saya. Partai-partai sudah menyampaikan keinginan mereka. Golkar sudah menyampaikan hasratnya. Tetapi bagaimanapun Majelis yang punya hak untuk menetapkan segalanya.
 
 Sementara itu di bulan Februari saya masih mengadakan temu wicara dengan para petani dan peternak. Kesempatan itu bukan saja saya rasakan sebagai masih kewajiban saya, tetapi juga menyenangkan saya. Di pelbagai desa, di pelbagai pulau saya adakan kesempatan bicara dengan para pet ni dan peternak itu.
 

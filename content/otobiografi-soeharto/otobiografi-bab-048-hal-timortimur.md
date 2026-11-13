@@ -1,5 +1,5 @@
 ---
-title: "Bab 48: Hal TimorTimur (Otobiografi Soeharto)"
+title: "Bab 48: Hal Timor Timur (Otobiografi Soeharto)"
 description: "Bab 48 otobiografi Soeharto, periode Presiden 1968-1978 dan Awal Pembangunan. Pendirian seperti ini dibawa oleh Menteri Luar Negeri kita Adam Malik dalam rundingan-rundingannya sewaktu terjadi pertentangan pendapat mengenai wilayah itu."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-048-hal-timortimur"
 aliases:
-  - "Hal TimorTimur"
+  - "Hal Timor Timur"
 tags: [otobiografi, soeharto, sumber-primer, bab-48, orde-baru]
 kategori: keamanan-dan-kebebasan
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 48: Hal TimorTimur
+# Bab 48: Hal Timor Timur
 
 > **Ringkasan:** Bab 48 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Presiden 1968-1978 dan Awal Pembangunan**. Kutipan pembuka: "Pendirian seperti ini dibawa oleh Menteri Luar Negeri kita Adam Malik dalam rundingan-rundingannya sewaktu terjadi pertentangan pendapat mengenai wilayah itu."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-itahun 1974 timbul masalah Timor Portugis yang memang di mata bangsa kita yang sudah tertempa dengan masalah-masalah penjajahan di atas dunia ini, Timor Timur tidak patut lagi berada di bawah kekuasaan Portugis. Dalam pada itu, tentu saja kita menganggap bahwa jalan yang terbaik bagi Timor Portugis untuk mencapai kemerdekaannya ialah melalui penggabungan dengan Indonesia, tetapi keputusan harus ditentukan oleh rakyat yang bersangkutan.
+Di tahun 1974 timbul masalah Timor Portugis yang memang di mata bangsa kita yang sudah tertempa dengan masalah-masalah penjajahan di atas dunia ini, Timor Timur tidak patut lagi berada di bawah kekuasaan Portugis. Dalam pada itu, tentu saja kita menganggap bahwa jalan yang terbaik bagi Timor Portugis untuk mencapai kemerdekaannya ialah melalui penggabungan dengan Indonesia, tetapi keputusan harus ditentukan oleh rakyat yang bersangkutan.
 
 Pendirian seperti ini dibawa oleh Menteri Luar Negeri kita Adam Malik dalam rundingan-rundingannya sewaktu terjadi pertentangan pendapat mengenai wilayah itu.
 

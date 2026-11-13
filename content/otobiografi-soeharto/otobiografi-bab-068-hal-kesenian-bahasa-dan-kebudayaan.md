@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-aya tahu perlunya kesenian. Saya tahu betapa pentingnya dunia itu, betapa pentingnya seniman-seniman dan kegiatan mereka.
+Saya tahu perlunya kesenian. Saya tahu betapa pentingnya dunia itu, betapa pentingnya seniman-seniman dan kegiatan mereka.
 
 Kita sudah memberikan penghargaan yang begitu tinggi, Bintang Jasa Utama kepada pelukis Affandi. Dan belakangan ini saya memberikan bantuan untuk modal kerja kepada pelukis Otto Djaya, yang katanya, akan membuat 250 buah lukisan. Saya juga membantu pengembangan padepokan seni tari Bagong Kussudiardjo.
 
@@ -86,4 +86,4 @@ melaksanakan pekerjaan besar, seperti pekerjaan membangun bangsa yang begini bes
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-067-pancasila-sosialistis-religius|Bab 67: Pancasila- Sosialistis Religius]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-069-yang-disebut-petrus-dan-hukuman-mati|Bab 69: Yang Disebut "Petrus" dan Hukuman Mati]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-067-pancasila-sosialistis-religius|Bab 67: Pancasila Sosialistis Religius]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-069-yang-disebut-petrus-dan-hukuman-mati|Bab 69: Yang Disebut "Petrus" dan Hukuman Mati]]

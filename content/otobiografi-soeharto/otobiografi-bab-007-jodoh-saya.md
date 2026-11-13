@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-uasana rundingan antara pemerintah Indonesia dan Belanda sedang hidup, setelah Dewan Keamanan PBB menengahi persoalan Indonesia. Terdengar bahwa rundingan itu akan dilaksanakan di atas kapal Amerika "Renville" yang telah berlabuh di permulaan Desember di Tanjung Priok. Dan suasana rundingan Indonesia - Belanda ini ternyata disambung dengan rundingan mengenai diri saya pribadi.
+Suasana rundingan antara pemerintah Indonesia dan Belanda sedang hidup, setelah Dewan Keamanan PBB menengahi persoalan Indonesia. Terdengar bahwa rundingan itu akan dilaksanakan di atas kapal Amerika "Renville" yang telah berlabuh di permulaan Desember di Tanjung Priok. Dan suasana rundingan Indonesia - Belanda ini ternyata disambung dengan rundingan mengenai diri saya pribadi.
 
 Datanglah keluarga Pak Prawirowihardjo yang tinggal di Wuryantoro ke daerah di sekitar tempat saya. Maka saya menemui mereka. Percakapan kami pada mulanya menyangkut hal-hal yang biasa saja. Tetapi tidak lama setelah itu muncul pertanyaan yang tidak s< ;ya sangka. Ibu Prawiro bertanya soal hari depan saya. Diingatkannya bahwa saya sudah berusia 26 tahun. Dan hal ini menjadi pikirannya. Sebab di kampung kita, orang seusia itu mestinya sudah erumah tangga.
 

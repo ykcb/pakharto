@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-i bulan September 1984 terjadi apa yang disebut "Peristiwa Tanjung Priok". Ramai orang membicarakannya.
+Di bulan September 1984 terjadi apa yang disebut "Peristiwa Tanjung Priok". Ramai orang membicarakannya.
 
 Sesungguhnya, peristiwa itu benar-benar basil hasutan orang yang menempatkan diri sebagai pemimpin.
 

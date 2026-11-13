@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-enjelang Pemilu 1987, Jewat pertengahan 1986, ramai Jagi terdengar orang meminta supaya saya bersedia dicalonkan kembali sebagai Presiden. Dari berbagai tempat dan daerah, dinyatakan kebulatan tekad yang isinya seperti tadi. Setiap saya mendengar peryataanpernyataan itu, terus terang saja, saya merasa miris (ngeri), berdiri bulu roma saya. Miris bukan takut menghadapi tantangan, tidak! Tetapi, miris karena mengetahui tugas yang berat yang ada di depan kita itu.
+Menjelang Pemilu 1987, Jewat pertengahan 1986, ramai Jagi terdengar orang meminta supaya saya bersedia dicalonkan kembali sebagai Presiden. Dari berbagai tempat dan daerah, dinyatakan kebulatan tekad yang isinya seperti tadi. Setiap saya mendengar peryataanpernyataan itu, terus terang saja, saya merasa miris (ngeri), berdiri bulu roma saya. Miris bukan takut menghadapi tantangan, tidak! Tetapi, miris karena mengetahui tugas yang berat yang ada di depan kita itu.
 
 Perasaan ini saya terangkan sewaktu HUT ke-22 Golkar di Balai Sidang di bulan Oktober 1986. Waktu itu secara resmi Golka ; menyatakan kebulatan tekad, mencalonkan kembali saya untuk menjadi Presiden di masa bakti 1988 - 1993.
 

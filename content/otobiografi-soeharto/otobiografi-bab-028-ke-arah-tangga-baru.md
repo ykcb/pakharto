@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-angkah-langkah saya lakukan ke arah terwujudnya keputusan keputusan MPRS yang dibebankan kepada saya. Pertama-tama ketentraman yang hams didapatkan dan dipelihara. Yang ngotot ngototan saya tekan, dari pihak mana pun datangnya. Saya berusaha mendapatkan kestabilan politik.
+Langkah-langkah saya lakukan ke arah terwujudnya keputusan keputusan MPRS yang dibebankan kepada saya. Pertama-tama ketentraman yang hams didapatkan dan dipelihara. Yang ngotot ngototan saya tekan, dari pihak mana pun datangnya. Saya berusaha mendapatkan kestabilan politik.
 
 Membenahi suasana kehidupan politik waktu itu tidak ringan. Pendekatan secara bertahap saya lakukan. Tetapi kadang-kadang yang saya tugasi untuk menyelesaikannya harus pula melakukan gebrakan.
 

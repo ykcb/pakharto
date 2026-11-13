@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ada tahun 1980 muncul apa yang menyebut dirinya "Petisi 50". Sesungguhnya saya gembira jika ada oposisi terhadap saya, dengan syarat ia adalah oposisi yang loyal. Tetapi apa yang dilakukan oleh mereka yang menamakan dirinya "Petisi 50" itu, tidak saya sukai.
+Pada tahun 1980 muncul apa yang menyebut dirinya "Petisi 50". Sesungguhnya saya gembira jika ada oposisi terhadap saya, dengan syarat ia adalah oposisi yang loyal. Tetapi apa yang dilakukan oleh mereka yang menamakan dirinya "Petisi 50" itu, tidak saya sukai.
 
 Cara-caranya tidak saya sukai. Lebih-lebih kalau melihat b4hwa mereka adalah juga yang menyebut dirinya pejuang-pejuang.
 

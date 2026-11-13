@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-etika saya kembali ke Kostrad dari Istana Bogor, sudah tidak ada lagi persoalan merebut Halim dengan kekerasl'm. Untung sudah tidak ada di sana. D.N. Aidit sudah terbang ke Yogyakarta menggunakan Dakota AURI. Omar Dhani dan keluarganya diberi perlindungan oleh Presiden Soekarno di Istan a Bogor.
+Ketika saya kembali ke Kostrad dari Istana Bogor, sudah tidak ada lagi persoalan merebut Halim dengan kekerasl'm. Untung sudah tidak ada di sana. D.N. Aidit sudah terbang ke Yogyakarta menggunakan Dakota AURI. Omar Dhani dan keluarganya diberi perlindungan oleh Presiden Soekarno di Istan a Bogor.
 
 Sarwo Edhie melaporkan waktumenyerang dan menduduki Halim, hanya ada sedikit pertempuran. Dari pihak kita hanya ada seorang yang gugur, dan dari pihak Angkatan Udara dua orang.
 

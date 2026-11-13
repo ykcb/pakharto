@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-embukaan Undang-Undang Dasar kita mengamanatkan kepada kita semua bahwa dalam alam kemerdekaan, kita harus dapat meningkatkan kesej ahteraan umum dan mencerdaskan kehidupan bangsa. Amanat inilah yang saya pegang dan harus kita jadikan toiok ukur kemajuan pembangunan kita.
+Pembukaan Undang-Undang Dasar kita mengamanatkan kepada kita semua bahwa dalam alam kemerdekaan, kita harus dapat meningkatkan kesej ahteraan umum dan mencerdaskan kehidupan bangsa. Amanat inilah yang saya pegang dan harus kita jadikan toiok ukur kemajuan pembangunan kita.
 
 Saya melihat dan merasa - sebab itu saya bersyukur dan berbahagia - bahwa tingkat kesejahteraan umum dan kecerdasan bangsa kita mengalami kemajuan-kemajuan yang bermakna.
 
@@ -66,4 +66,4 @@ Semua itu menyadarkan saya, betapa besar dan berat tantangan yang harus kita ata
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-071-tentang-yang-meminta-bantu-an|Bab 71: Tentang yang Meminta Bantu an]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-073-mencerdaskan-kehidupan-bangsa|Bab 73: Mencerdaskan Kehidupan Bangsa]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-071-tentang-yang-meminta-bantu-an|Bab 71: Tentang yang Meminta Bantuan]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-073-mencerdaskan-kehidupan-bangsa|Bab 73: Mencerdaskan Kehidupan Bangsa]]

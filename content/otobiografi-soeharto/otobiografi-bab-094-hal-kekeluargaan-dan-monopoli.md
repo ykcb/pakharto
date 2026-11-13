@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-aya tidak boleh jemu dengan memecahkan masalah-masalah sosial ekonomi. Saya seperti tidak diizinkan untuk merasa capek dengan membangun dan membangun, sementara saya harus memecahkan persoalan-persoalan mengenai pembangunan itu. Tetapi sudahlah, saya jawab tantangan-tantangan itu. Untuk rakyat yang tnenaruh kepercayaan kepada saya, saya tidak boleh menyerah. Dan saya lakukan itu dengan senang.
+Saya tidak boleh jemu dengan memecahkan masalah-masalah sosial ekonomi. Saya seperti tidak diizinkan untuk merasa capek dengan membangun dan membangun, sementara saya harus memecahkan persoalan-persoalan mengenai pembangunan itu. Tetapi sudahlah, saya jawab tantangan-tantangan itu. Untuk rakyat yang tnenaruh kepercayaan kepada saya, saya tidak boleh menyerah. Dan saya lakukan itu dengan senang.
 
 Saya pergi ke Lombok Timur, ke Sembalun. Bertemu dan tatap muka serta bicara dengan para petani bawang putih di sana. Tentu saja temu bicara dengan petani itu tanpa teks. Seperti biasa. Dengan mereka saya mesti bicara jelas, gampang, dan terinci.
 

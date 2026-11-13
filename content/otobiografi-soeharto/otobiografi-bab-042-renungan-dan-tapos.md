@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-aya bicara terus mengenai pembangunan. Dengan tidak jemu jemu dalam tiap kesempatan saya ajak semua pihak, untuk.
+Saya bicara terus mengenai pembangunan. Dengan tidak jemu jemu dalam tiap kesempatan saya ajak semua pihak, untuk.
 
 mengerti mengenai rencana dan pelaksanaan pembangunan kita. Saya dorong semua pihak untuk ikut serta dalam pembangunan kita. Tentu saja saya pun kadang-kadang merasa capek, karena hilir · mudik, ke sana ke mari\lewat daratan, terbang dari satu tempat ke tempat lainnya untuk memulai dengan pembangunan yang baru dan mengontrol pembangunan yang sedang berjalan, dan Ielah pula karena memeras otak. Tetapi saya tidak boleh mapa, tidak bo!eh mengeluh, apalagi menyerah. Pembangunan adalah perjuangan yang sengit.
 

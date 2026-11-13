@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-i pertengahan Desember 1987 terjadi pertemuan penting bagi perkembangan ASEAN.
+Di pertengahan Desember 1987 terjadi pertemuan penting bagi perkembangan ASEAN.
 
 Menjelang KTT ASEAN ketiga *) itu berlangsung, memang terdapat keragu-raguan di kalangan sementara para pemimpin ASEAN. Di Filipina keadaan sedang gawat-gawatnya. Mereka bertanya, apakah benar bisa pertemuan penting itu diadakan di Manila, dalam keadaan yang gawat seperti itu? Saya menerima beberapa surat dari organisasi kemasyarakatan dan organisasi sosial politik, bahkan ada dari anak-anak, yang menyarankan supaya saya tidak berangkat. Tetapi karena masalahnya begitu penting, maka saya mengambil sikap tegas. Keberangkatan saya akan memberi kekuatan moril bagi pemerintah Filipina, bagi pemerintah Corazon Aquino, dan kepala pemerintahan ASEAN lainnya, untuk benar-benar menunjukkan kepada dunia akan kesetiakawanan dan solidaritas ASEAN yang telah kita pupuk selama ini. Jadi jangan sampai justru pada saat ada salah satu anggota menghadapi kesulitan, maka kita cuci tangan. Kalau kita cuci tangan, itu artinya tidak ada solidaritas. Dan sikap solidaritas harus dibuktikan. ASEAN harus menunjukkan kepada dunia, bahwa di sinilah letak kesetiakawanan ASEAN terhadap anggota yang tengah menghadapi kesulitan.
 
@@ -104,4 +104,4 @@ Kepada PM Takeshita itu saya jelaskan pula keprihatinan kita disebabkan harga mi
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-094-hal-kekeluargaan-dan-monopoli|Bab 94: Hal Kekeluargaan dan Monopoli]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-096-usaha-mewujudkan-amanat-pasal33-uud45|Bab 96: Usaha Mewujudkan Amanat Pasal33 UUD'45]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-094-hal-kekeluargaan-dan-monopoli|Bab 94: Hal Kekeluargaan dan Monopoli]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-096-usaha-mewujudkan-amanat-pasal33-uud45|Bab 96: Usaha Mewujudkan Amanat Pasal 33 UUD'45]]

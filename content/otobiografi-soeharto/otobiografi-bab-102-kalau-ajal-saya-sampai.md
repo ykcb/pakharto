@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-:••·, alau saatnya tiba saya dipanggil oleh Yang Maha Kuasa," maka mengenai diri saya selanjutnya sudah saya tetapkan: saya serahkan kepada istri saya.
+Kalau saatnya tiba saya dipanggil oleh Yang Maha Kuasa," maka mengenai diri saya selanjutnya sudah saya tetapkan: saya serahkan kepada istri saya.
 
 Sebetulnya istri saya telah menerima pula "Bintang Gerilya" dan "Bintang RI." Jadi, dia juga bisa dimakamkan di Taman Makam Pahlawan. Tetapi sudahlah, ia dengan Yayasan Mangadeg Surakarta sudah merencanakan lain. Ia dengan Yayasan Mangadeg Surakarta sudah membangun makam keluarga di Mangadeg, tepatnya di Astana Giribangun. Dan masa'kan saya akan pisah dari istri saya! Dengan sendirinya saya pun akan minta dimakamkan di Astana Giribangun bersama keluarga. Kami tidak mau menyusahkan anak cucu kami, jika mereka nanti ingin berziarah.
 

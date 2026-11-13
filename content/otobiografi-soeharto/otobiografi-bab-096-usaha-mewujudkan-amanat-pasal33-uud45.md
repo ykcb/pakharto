@@ -1,5 +1,5 @@
 ---
-title: "Bab 96: Usaha Mewujudkan Amanat Pasal33 UUD'45 (Otobiografi Soeharto)"
+title: "Bab 96: Usaha Mewujudkan Amanat Pasal 33 UUD'45 (Otobiografi Soeharto)"
 description: "Bab 96 otobiografi Soeharto, periode Masa Jabatan 1983-1988. Hal yang saya lontarkan itu bertitik tolak pada tekad Orde Baru untuk menyukseskan pembangunan dalam mengisi kemerdekaan nasional. Landasan idiilnya ialah Pancasila, landasan konstitusionalnya ialah UUD'45..."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-096-usaha-mewujudkan-amanat-pasal33-uud45"
 aliases:
-  - "Usaha Mewujudkan Amanat Pasal33 UUD'45"
+  - "Usaha Mewujudkan Amanat Pasal 33 UUD'45"
 tags: [otobiografi, soeharto, sumber-primer, bab-96, orde-baru]
 kategori: ekonomi-dan-kepemilikan
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 96: Usaha Mewujudkan Amanat Pasal33 UUD'45
+# Bab 96: Usaha Mewujudkan Amanat Pasal 33 UUD'45
 
 > **Ringkasan:** Bab 96 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Masa Jabatan 1983-1988**. Kutipan pembuka: "Hal yang saya lontarkan itu bertitik tolak pada tekad Orde Baru untuk menyukseskan pembangunan dalam mengisi kemerdekaan nasional. Landasan idiilnya ialah Pancasila, landasan konstitusionalnya ialah UUD'45..."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ada tanggal 30 Desem ber 1987, dalam sidang paripurna terakhir Kabinet Pembangunan IV, saya lontarkan- atau mungkin tepatnya harus disebut lagi-lagi melontarkan - pikiran dan dorongan mengenai usaha mewujudkan amanat pasal 33 UUD'45. Penjelasan saya itu sebenarnya saya tujukan kepada para pejabat eselon I, II dan III, karena para pejabat inilah yang akan terus-menerus menggumuli masalah ini. Presiden, Wakil Presiden dan para menteri cuma bertugas selama lima tahun. Tapi para pejabat eselon I, II dan III itu akan terus bertugas, kecuali yang menemukan inasa pensiunnya. Dan hendaknya para pejabat eselon I, II dan III itu melanjutkan terus gagasan dan tugas ini kepada bawahan-bawahannya. Hendaknya semua mereka itu benar-benar merupakan satu korps yang bertanggung jawab.
+Pada tanggal 30 Desem ber 1987, dalam sidang paripurna terakhir Kabinet Pembangunan IV, saya lontarkan- atau mungkin tepatnya harus disebut lagi-lagi melontarkan - pikiran dan dorongan mengenai usaha mewujudkan amanat pasal 33 UUD'45. Penjelasan saya itu sebenarnya saya tujukan kepada para pejabat eselon I, II dan III, karena para pejabat inilah yang akan terus-menerus menggumuli masalah ini. Presiden, Wakil Presiden dan para menteri cuma bertugas selama lima tahun. Tapi para pejabat eselon I, II dan III itu akan terus bertugas, kecuali yang menemukan inasa pensiunnya. Dan hendaknya para pejabat eselon I, II dan III itu melanjutkan terus gagasan dan tugas ini kepada bawahan-bawahannya. Hendaknya semua mereka itu benar-benar merupakan satu korps yang bertanggung jawab.
 
 Hal yang saya lontarkan itu bertitik tolak pada tekad Orde Baru untuk menyukseskan pembangunan dalam mengisi kemerdekaan nasional. Landasan idiilnya ialah Pancasila, landasan konstitusionalnya ialah UUD'45, landasan operasionalnya ialah GBHN.
 
@@ -128,4 +128,4 @@ Kita hams kukuh dalam memperjuangkan hidupnya dan bangunnya koperasi kita. Ingat
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-095-saya-buktikan-solidaritas-asean|Bab 95: Saya Buktikan Solidaritas ASEAN]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-097-hut-pernikahan-kami-yang-keempat-puluh|Bab 97: HUT. Pernikahan Kami yang Keempat Puluh]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-095-saya-buktikan-solidaritas-asean|Bab 95: Saya Buktikan Solidaritas ASEAN]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-097-hut-pernikahan-kami-yang-keempat-puluh|Bab 97: HUT Pernikahan Kami yang Keempat Puluh]]

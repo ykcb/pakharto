@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-i saat demonstrasi mahasiswa mewarnai suasana Jakarta, di Istana Merdeka saya mengadakan dialog dengan Bung Karno. Itu menyambung pembicaraan mengenai situasi dan mengenai PKI. Saya berkeyakinan bahwa pikiran Bung Karno mengenai jalan keluar kurang tepat. Saya terus berusaha supaya beliau mengerti dan menyadari perubahan yang telah terjadi. Sampai akhirnya rupanya beliau bertanya-tanya, mengapa saya tidak patuh kepadanya.
+Di saat demonstrasi mahasiswa mewarnai suasana Jakarta, di Istana Merdeka saya mengadakan dialog dengan Bung Karno. Itu menyambung pembicaraan mengenai situasi dan mengenai PKI. Saya berkeyakinan bahwa pikiran Bung Karno mengenai jalan keluar kurang tepat. Saya terus berusaha supaya beliau mengerti dan menyadari perubahan yang telah terjadi. Sampai akhirnya rupanya beliau bertanya-tanya, mengapa saya tidak patuh kepadanya.
 
 Sewaktu kami berdua, Bung Karno bertanya dalam bahasa Jawa, di tengahtengah suasana Jakarta, "Harto, jane.aku iki arep kok apakake ?" (Harto, sebenarnya aku ini akan kamu apakan?) Aku ini pemimpinmu." Saya memberikan jawaban dengan satu ungkapan yang khas berakar pada Jatar belakang kehidupan saya.
 

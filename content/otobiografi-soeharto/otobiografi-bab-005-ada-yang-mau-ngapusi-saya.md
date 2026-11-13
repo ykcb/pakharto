@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ekanan dan teror NICA terhadap pihak Republik di Jakarta menjadijadi. Penembakan terhadap Perdana Menteri Sutan Sjahrir dan pejabatpejabat tinggi lainnya sangat mengganggu pemerintahan kita.
+Tekanan dan teror NICA terhadap pihak Republik di Jakarta menjadijadi. Penembakan terhadap Perdana Menteri Sutan Sjahrir dan pejabatpejabat tinggi lainnya sangat mengganggu pemerintahan kita.
 
 Tanggal 4 Januari 1946 diputuskan bahwa Presiden, Wakil Presiden, dan Pemerintahan Republik pindah dari Jakarta ke Yogyakarta. Artinya, Ibukota Republik Indonesia pindah dari Jakarta ke Yogyakarta. Dengan kepindahan tersebut, tugas saya sebagai Komandan Resimen III dengan pangkat Letnan Kolonel, menjaga keamanan kota Yogya bertambah berat. Saya hams pula menjaga keselamatan negara dan pemerintahan.
 

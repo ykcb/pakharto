@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-emilihan umum merupakan ukuran, barometer kemampuan bang sa yang menjunjung tinggi asas demokrasi dalam menyalurkan aspirasi rakyat secara demokratis dan realistis. Menjadi ukuran S?-mpai di mana pelaksanaan asas demokrasi itu sendiri.
+Pemilihan umum merupakan ukuran, barometer kemampuan bang sa yang menjunjung tinggi asas demokrasi dalam menyalurkan aspirasi rakyat secara demokratis dan realistis. Menjadi ukuran S?-mpai di mana pelaksanaan asas demokrasi itu sendiri.
 
 Walaupun demikian, bagi kita, pemilihan umum tetap suatu alat yang penggunaannya tidak boleh mengakibatkan rusaknya sendi-sendi demokrasi dan tidak boleh menyebabkan rakyat jadi menderita. Pemilu harus menjamin tetap tegaknya Pancasila dan dipertahankannya UUD'45. Sejak Orde Baru berdiri, begitulah pandangan kita mengenai pemilu.
 

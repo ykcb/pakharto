@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-enjelang perayaan Agustusan yang ke-40 saya buka Pameran Produksi Indonesia yang diadakan di lapangan Monas di depan Istana. Ini dalam rangka menghidupkan produksi sendiri.
+Menjelang perayaan Agustusan yang ke-40 saya buka Pameran Produksi Indonesia yang diadakan di lapangan Monas di depan Istana. Ini dalam rangka menghidupkan produksi sendiri.
 
 'Saya sungguh senang menyaksikannya. Pameran itu menggambarkan diri kita sendiri dan kemampuan kita sendiri setelah kita sebagai bangsa berusia empat puluh tahun. Kita lihat di sana apa yang dapat kita produksi sendiri, termasuk produksi jasa, hasil-hasil penelitian, rancang bangun dan perekayasaan. Semuanya merupakan cermin dari tekad kita untuk membangun, seperti yang menjadi cita cita kemerdekaan.
 

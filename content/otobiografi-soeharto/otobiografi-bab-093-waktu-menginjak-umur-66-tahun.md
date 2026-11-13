@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-uasana perekonomian kita di bulan-bulan permulaan tahun 1987 masih juga berat. Saya mesti memberi contoh apa yang patut kita lakukan dalam suasana seperti itu. Penghematan! ltu pasti mesti kita lakukan. Maka pada hari Lebaran tahun 1987, di bulan Mei, saya dan istri saya tidak menerima ucapan selamat Idul Fitri secara langsung (Open House) di kediaman kami di Jalan Cendana. Ini kami tetapkan dalam rangka hidup sederhana. Maklumlah, mengadakan acara Open House seperti itu tentu hams mengeluarkan biaya yang cukup besar.
+Suasana perekonomian kita di bulan-bulan permulaan tahun 1987 masih juga berat. Saya mesti memberi contoh apa yang patut kita lakukan dalam suasana seperti itu. Penghematan! ltu pasti mesti kita lakukan. Maka pada hari Lebaran tahun 1987, di bulan Mei, saya dan istri saya tidak menerima ucapan selamat Idul Fitri secara langsung (Open House) di kediaman kami di Jalan Cendana. Ini kami tetapkan dalam rangka hidup sederhana. Maklumlah, mengadakan acara Open House seperti itu tentu hams mengeluarkan biaya yang cukup besar.
 
 Untuk penjagaannya saja kita mesti menyediakan biaya.
 
@@ -98,4 +98,4 @@ Federasi Internasional Organisasi-organisasi Donor Darah (FIODS) ini kemudian me
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-092-pemilu-1987-dan-hut-kemerdekaan-ri-yang-ke42|Bab 92: Pemilu 1987 dan HUT. Kemerdekaan RI yang ke-42]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-094-hal-kekeluargaan-dan-monopoli|Bab 94: Hal Kekeluargaan dan Monopoli]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-092-pemilu-1987-dan-hut-kemerdekaan-ri-yang-ke42|Bab 92: Pemilu 1987 dan HUT Kemerdekaan RI yang ke-42]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-094-hal-kekeluargaan-dan-monopoli|Bab 94: Hal Kekeluargaan dan Monopoli]]

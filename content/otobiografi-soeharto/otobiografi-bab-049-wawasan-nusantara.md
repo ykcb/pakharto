@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-erjuangan bangsa Indonesia untuk memperoleh kemerdekaan tentunya didasarkan pula pada satu cita-cita kesatuan wilayah yang utuh. Mukadimah UUD'45 menyebut negara Kesatuan Republik Indonesia.
+Perjuangan bangsa Indonesia untuk memperoleh kemerdekaan tentunya didasarkan pula pada satu cita-cita kesatuan wilayah yang utuh. Mukadimah UUD'45 menyebut negara Kesatuan Republik Indonesia.
 
 Dengan ini berarti juga bahwa wilayah Indonesia yang terdiri atas ribuan pulau yang dipisahkan oleh selat dan laut, harus benar-benar diwujudkan dalam negara kesatuan. Karena itu pula, perjuangan untuk memperoleh pengakuan sebagai negara kepulauan secara utuh mutlak perlu. Pengakuan itu harus kita peroleh.
 
@@ -82,4 +82,4 @@ Konvensi Hukum Laut 1982 itu telah ditandatangani oleh Indonesia dan oleh lebih 
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-048-hal-timortimur|Bab 48: Hal TimorTimur]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-050-menjelmakan-sumpah-gajah-mada|Bab 50: Menjelmakan Sumpah Gajah Mada]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-048-hal-timortimur|Bab 48: Hal Timor Timur]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-050-menjelmakan-sumpah-gajah-mada|Bab 50: Menjelmakan Sumpah Gajah Mada]]

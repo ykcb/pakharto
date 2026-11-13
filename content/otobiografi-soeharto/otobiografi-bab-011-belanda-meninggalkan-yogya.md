@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-erangan Umum 1 Maret 1949 ternyata memang berpengaruh.
+Serangan Umum 1 Maret 1949 ternyata memang berpengaruh.
 
 Dewan Keamanan PBB mendesak Belanda yang angkuh itu untuk berunding dengan Indonesia dan menghentikan tembak-menembak. Rundingan berjalan lagi dengan sebutan yang terkenal "Perundingan Roem-Royen".
 
@@ -68,4 +68,4 @@ Saya berpegang teguh pada sikap, jangan sampai ada yang memandang, bahwa TNI itu
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-010-serangan-umum-1maret|Bab 10: Serangan Umum 1Maret]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-012-meyakinkan-pak-dirman|Bab 12: Meyakinkan Pak Dirman]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-010-serangan-umum-1maret|Bab 10: Serangan Umum 1 Maret]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-012-meyakinkan-pak-dirman|Bab 12: Meyakinkan Pak Dirman]]

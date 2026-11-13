@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-elakangan ini saya lcbih sering. merenungkan kembali segala pengalaman dan sejarah pengabdian Angkatan '45, seperti halnya juga mcrcka yang lainnya yang pcrnah terlibat dalam perjuangan angkatan itu. Hal ini lumrah dan patut-patut saja.
+Belakangan ini saya lcbih sering. merenungkan kembali segala pengalaman dan sejarah pengabdian Angkatan '45, seperti halnya juga mcrcka yang lainnya yang pcrnah terlibat dalam perjuangan angkatan itu. Hal ini lumrah dan patut-patut saja.
 
 Saya merenungkan kekuatan dan kelemahan Angkatan '45, keberhasilan dan kesulitan-kesulitannya.
 

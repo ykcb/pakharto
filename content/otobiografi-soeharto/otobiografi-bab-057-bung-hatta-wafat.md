@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ada tanggal 14 Maret 1980 terjadi hal yang menyedihkan seluruh bangsa : Proklamator Republik Indonesia Bung Hatta meninggal dunia setelah beberapa hari mengindap sakit tua.
+Pada tanggal 14 Maret 1980 terjadi hal yang menyedihkan seluruh bangsa : Proklamator Republik Indonesia Bung Hatta meninggal dunia setelah beberapa hari mengindap sakit tua.
 
 Disebutkan bahwa beliau, yang dilahirkan di tahun 1902 itu, telah berpesan, ingin dikuburkan di antara rakyat, sekalipun beliau berhak dimakamkan di Taman Makam Pahlawan Kalibata.
 

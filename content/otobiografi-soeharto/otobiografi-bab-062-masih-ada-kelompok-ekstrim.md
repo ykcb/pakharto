@@ -1,5 +1,5 @@
 ---
-title: "Bab 62: Masih Ada Kelompok Eks.trim (Otobiografi Soeharto)"
+title: "Bab 62: Masih Ada Kelompok Ekstrim (Otobiografi Soeharto)"
 description: "Bab 62 otobiografi Soeharto, periode Masa Jabatan 1978-1983. Tanggal 11 Maret 1981, belasan orang dari kelompok ini menyerbu Pos Polisi Cicendo di Bandung. Dalam kejadian ini, tiga orang polisi tewas dan sejumlah senjata dirampas oleh gerombolan itu..."
 date: 1988-03-01
 updated: 2026-11-14
@@ -7,7 +7,7 @@ last_updated: "2026-11-14"
 entity_type: kliping
 entity_id: "otobiografi-bab-062-masih-ada-kelompok-ekstrim"
 aliases:
-  - "Masih Ada Kelompok Eks.trim"
+  - "Masih Ada Kelompok Ekstrim"
 tags: [otobiografi, soeharto, sumber-primer, bab-62, orde-baru]
 kategori: keamanan-dan-kebebasan
 risiko_editorial: tinggi
@@ -27,14 +27,14 @@ relasi:
     objek: "soeharto"
 ---
 
-# Bab 62: Masih Ada Kelompok Eks.trim
+# Bab 62: Masih Ada Kelompok Ekstrim
 
 > **Ringkasan:** Bab 62 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Masa Jabatan 1978-1983**. Kutipan pembuka: "Tanggal 11 Maret 1981, belasan orang dari kelompok ini menyerbu Pos Polisi Cicendo di Bandung. Dalam kejadian ini, tiga orang polisi tewas dan sejumlah senjata dirampas oleh gerombolan itu..."
 
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-asih saja ada kegiatan kelompok ekstrim yang mendasarkan ajarannya pada fanatisme agama yang rupanya diilhami oleh kemenangan revolusi negara lain. Tujuan mereka, mendirikan negara berdasark n agama di negeri kita ini. Padahal kita sudah sepakat, bulat, menetapkan negeri kita ini negara Pancasila.
+Masih saja ada kegiatan kelompok ekstrim yang mendasarkan ajarannya pada fanatisme agama yang rupanya diilhami oleh kemenangan revolusi negara lain. Tujuan mereka, mendirikan negara berdasark n agama di negeri kita ini. Padahal kita sudah sepakat, bulat, menetapkan negeri kita ini negara Pancasila.
 
 Tanggal 11 Maret 1981, belasan orang dari kelompok ini menyerbu Pos Polisi Cicendo di Bandung. Dalam kejadian ini, tiga orang polisi tewas dan sejumlah senjata dirampas oleh gerombolan itu. Tetapi kesigapan alat keamanan membuat usaha gerombolan itu gagal. Beberapa pelakunya dapat ditangkap. Penyerbuan di Cicendo itu ternyata disambung dengan pembajakan pesawat Garuda DC-9 "Woyla" yang sedang terbang dari Jakarta Palembang-Medan. Pesawat itu dibajak setelah lepas landas dari Palembang, dan kemudian didaratkan di lapangan terbang Don Muang di dekat Bangkok-Muangthai. Pembajak-pembajak itu menuntut pembebasan tahanan-tahanan politik di Sumatera dan Jawa serta meminta sejumlah uang tebusan untuk ditukarkan dengan awak pesawat dan penumpang yang dijadikan sandera.
 

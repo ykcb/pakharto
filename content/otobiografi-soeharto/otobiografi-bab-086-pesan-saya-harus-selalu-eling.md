@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ersamaan dengan Air Show itu saya menulis catatan pribadi berkenaan dengan ulang tahun Dr. B.J. Habibie yang kelima puluh dan kemudian dimuatkan dalam bukunya.
+Bersamaan dengan Air Show itu saya menulis catatan pribadi berkenaan dengan ulang tahun Dr. B.J. Habibie yang kelima puluh dan kemudian dimuatkan dalam bukunya.
 
 Dengail ini pun, saya tidak mengistimewakan dia. Saya memberikan kesempatan yang sama kepada semuanya. Tetapi nyatanya, Habibie yang bisa menangani.
 

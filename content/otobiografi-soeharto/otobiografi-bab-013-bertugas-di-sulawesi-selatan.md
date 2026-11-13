@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ada tanggal27 Desember 1949 dilakukan penyerahan kedaulatan. Begitu mereka menyebutnya, sementara. bagi kita adalah pengakuan kedaulatan. Wakil Mahkota Belanda yang baru menyerahkan kedaulatan itu kepada Sri Sultan Hamengku Buwono IX, Jenderal Mayor F. Mallinger menyerahkannya kepada Kolonel Gatot Soebroto.
+Pada tanggal27 Desember 1949 dilakukan penyerahan kedaulatan. Begitu mereka menyebutnya, sementara. bagi kita adalah pengakuan kedaulatan. Wakil Mahkota Belanda yang baru menyerahkan kedaulatan itu kepada Sri Sultan Hamengku Buwono IX, Jenderal Mayor F. Mallinger menyerahkannya kepada Kolonel Gatot Soebroto.
 
 Waktu Letnan Kolonel Achmad Junus Mokoginta menerima penyerahan kekuasaan di Makassar, ia hanya dengan beherapa anggota staf dan sepasukan Polisi Militer. Kemudian anggota-anggota KNIL, yang bersedia, digabungkan ke dalam APRIS, termasuk pasukan Kapten Andi Azis pada tanggal 30 Maret 1950.
 

@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-ak dinyana, kesempatan datang untuk melamar masuk KNIL *). Pacta mulanya sama sekali tidak saya kira bahwa lamaran yang saya ajukan akan merupakan anak kunci yang membuka pintu lapangan hidup yang menyenangkan.
+Tak dinyana, kesempatan datang untuk melamar masuk KNIL *). Pacta mulanya sama sekali tidak saya kira bahwa lamaran yang saya ajukan akan merupakan anak kunci yang membuka pintu lapangan hidup yang menyenangkan.
 
 Terasa agak lama sampai saya mendapat panggilan atas lamaran saya itu. Saya ikut ujian dan ternyata lulus dan diterima.
 

@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-aya dan istri saya mempunyai cita-cita untuk membangun suatu pusat kebudayaan peninggalan nenek moyang kita yang akhirnya nanti bisa berfungsi sebagai tern pat rekreasi, tern pat pendidikan, dan juga tempat untuk mengembangkan kebudayaan.
+Saya dan istri saya mempunyai cita-cita untuk membangun suatu pusat kebudayaan peninggalan nenek moyang kita yang akhirnya nanti bisa berfungsi sebagai tern pat rekreasi, tern pat pendidikan, dan juga tempat untuk mengembangkan kebudayaan.
 
 Saya tahu bahwa ada kelompok tertentu yang ingin menjadikan proyek yang kami cita-citakan itu sebagai satu issue politik. Mereka mencari kesempatan untuk bisa mengganggu kestabilan nasional. Saya pernah mengingatkan mereka bahwa saya tidak akan membiarkan cara cara yang tidak demokratis seperti yang dilakukan oleh beberapa orang dan akan menindak orang-orang yang bersangkutan itu jika mereka terus melakukan tindakan mereka yang dapat mengganggu stabilitas nasional. "Kalau mereka tidak mengerti akan kalimat 'tidak akan saya biarkan', terus terang saja, akan saya tindak," kata saya. Demi kepentingan Negara dan Bangsa, "Supersemar" bisa saya pergunakan untuk mengatakan 'keadaan dalam darurat'. Saya bertanggungjawab kepada rakyat dan Tuhan dalam mempergunakan itu., Akhirnya proyek yang kami cita-citakan itu terlaksana, dibangun mulai tahun 1975. Kritik terhadap ide kami itu muncul lagi. Namun, sebenarnya pihak yang mengkritik itu belum tabu tujuan kami. Mereka khawatir bahwa pembangunan itu akan membuat pemborosan saja dan tidak ada artinya. Padahal tujuan kami · bukan seperti yang dikhawatirkannya itu.
 
@@ -52,4 +52,4 @@ Jika bertekad membangun manusia Indonesia seutuhnya, maka kebutuhan budaya tidak
 
 ---
 
-**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-046-mengenai-mistik-dan-kepercayaan|Bab 46: Mengenai Mistik dan Kepercayaan]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-048-hal-timortimur|Bab 48: Hal TimorTimur]]
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-046-mengenai-mistik-dan-kepercayaan|Bab 46: Mengenai Mistik dan Kepercayaan]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-048-hal-timortimur|Bab 48: Hal Timor Timur]]

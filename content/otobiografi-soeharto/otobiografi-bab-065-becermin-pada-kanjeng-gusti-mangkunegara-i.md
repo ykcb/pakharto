@@ -34,7 +34,7 @@ relasi:
 > [!NOTE]
 > **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
 
-Mangkunegara I erbetik sebuah laporan mengenai keadaan pada tahun 198211983 yang menyebutkan terjadinya kasus Pemutusan Hubungan Kerja, PHK, hampir 700 kasus yang melibatkan lebih dari 17.000 buruh, dan pada tahun 1983/1984 naik menjadi 1.000 kasus lebih yang melibatkan 48.000 orang lebih.
+Terbetik sebuah laporan mengenai keadaan pada tahun 198211983 yang menyebutkan terjadinya kasus Pemutusan Hubungan Kerja, PHK, hampir 700 kasus yang melibatkan lebih dari 17.000 buruh, dan pada tahun 1983/1984 naik menjadi 1.000 kasus lebih yang melibatkan 48.000 orang lebih.
 
 Katanya, kejadian ini disebabkan antara lain oleh perubahan yang terjadi di perusahaan-perusahaan, yakni dengan masuknya mesin-mesin yang menggantikan tenaga manusia.
 
