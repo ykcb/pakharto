@@ -2,8 +2,8 @@
 title: "Golkar"
 description: "Golongan Karya: dari Sekretariat Bersama golongan fungsional (1964) menjadi mesin pemilu Orde Baru — menang enam kali berturut-turut 1971–1997 — lalu bertransformasi menjadi partai politik pascareformasi."
 date: 1964-10-20
-updated: 2026-11-08
-last_updated: "2026-11-08"
+updated: 2026-11-12
+last_updated: "2026-11-12"
 entity_type: topik
 entity_id: "golkar"
 aliases:
@@ -23,6 +23,15 @@ sumber:
   - url: https://id.wikipedia.org/wiki/Partai_Golongan_Karya
     judul: "Partai Golongan Karya — Wikipedia bahasa Indonesia"
     tanggal: 2026-11-08
+  - url: https://goodstats.id/article/ini-daftar-lengkap-perolehan-kursi-parpol-pada-pileg-2024-MlYsI
+    judul: "Ini Daftar Lengkap Perolehan Kursi Parpol Pada Pileg 2024 — GoodStats (data KPU)"
+    tanggal: 2026-11-12
+  - url: https://setkab.go.id/pdip-menangi-pileg-kpu-tetapkan-pasangan-jokowi-maruf-amien-raih-suara-terbanyak-pilpres-2019/
+    judul: "KPU Tetapkan Hasil Pileg 2019 — Sekretariat Kabinet"
+    tanggal: 2026-11-12
+  - url: https://poskota.co/berita-utama/munas-xi-berjalan-mulus-bahlil-lahadalia-resmi-terpilih-sebagai-ketum-dpp-golkar-periode-2024-2029/
+    judul: "Munas XI: Bahlil Lahadalia Resmi Terpilih sebagai Ketum DPP Golkar 2024–2029 — Poskota (21 Agu 2024)"
+    tanggal: 2026-11-12
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -41,7 +50,7 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-> **Ringkasan:** Golkar lahir bukan sebagai partai, melainkan sebagai Sekretariat Bersama Golongan Karya (Sekber Golkar) — didirikan 20 Oktober 1964 di akhir pemerintahan Sukarno, disponsori Angkatan Darat untuk mengimbangi PKI, menghimpun 61 organisasi fungsional. Di bawah [[aktor/soeharto|Soeharto]] ia diubah menjadi mesin pemilu [[hub/orde-baru|Orde Baru]]: memenangkan enam pemilu berturut-turut 1971–1997 dengan 62–75% suara, tanpa pernah resmi menyebut dirinya partai politik — sampai reformasi memaksanya menjadi Partai Golkar pada 1999. Setelah itu ia tetap menjadi salah satu partai terbesar Indonesia: peringkat kedua pada Pemilu 1999, pemenang Pemilu 2004.
+> **Ringkasan:** Golkar lahir bukan sebagai partai, melainkan sebagai Sekretariat Bersama Golongan Karya (Sekber Golkar) — didirikan 20 Oktober 1964 di akhir pemerintahan Sukarno, disponsori Angkatan Darat untuk mengimbangi PKI, menghimpun 61 organisasi fungsional. Di bawah [[aktor/soeharto|Soeharto]] ia diubah menjadi mesin pemilu [[hub/orde-baru|Orde Baru]]: memenangkan enam pemilu berturut-turut 1971–1997 dengan 62–75% suara, tanpa pernah resmi menyebut dirinya partai politik — sampai reformasi memaksanya menjadi Partai Golkar pada 1999. Setelah itu ia tetap menjadi salah satu partai terbesar Indonesia: peringkat kedua pada Pemilu 1999, pemenang Pemilu 2004, dan kembali peringkat kedua pada Pemilu 2024 dengan 102 kursi DPR.
 
 ## Apa pelajaran yang bisa kita ambil darinya?
 
@@ -66,6 +75,8 @@ Kekuatan Golkar bukan pada ideologinya — ia sengaja non-ideologis, "karya" buk
 | Munaslub | 9–11 Juli 1998 — Akbar Tandjung terpilih ketua umum, Golkar dipertahankan sebagai partai |
 | Menjadi partai politik | 1999 (Partai Golkar); Pemilu 1999 peringkat kedua (22,4%, di bawah PDIP) |
 | Pemilu 2004 | Pemenang pemilu legislatif (21,58% suara sah) |
+| Pemilu 2019 | 12,31% — 17.229.789 suara; 85 kursi DPR (dari 575) |
+| Pemilu 2024 | 15,29% — 23.208.654 suara; 102 kursi DPR (dari 580), peringkat kedua |
 
 Angka pemilu 1971–1997 dari data KPU, dikutip dari [[hub/pemilu-orde-baru|Pemilu-pemilu Orde Baru]].
 
@@ -88,6 +99,8 @@ Tiga organisasi pendiri (Kosgoro, MKGR, SOKSI) adalah inti Sekber Golkar. Di sek
 
 Bagian ini berada di luar fokus utama wiki (1966–1998) dan dicatat ringkas sebagai kelanjutan: setelah Munaslub 1998, Golkar beradaptasi dengan demokrasi multipartai — peringkat kedua pada Pemilu 1999, pemenang Pemilu 2004, dan menjadi penentu koalisi pemerintahan di era Susilo Bambang Yudhoyono dan Joko Widodo. Kadernya menduduki jabatan strategis, antara lain Jusuf Kalla sebagai Wakil Presiden (2004–2009 dan 2014–2019).
 
+Pada Pemilu 2019 Golkar meraih 12,31% suara (85 kursi), lalu menguat pada Pemilu 2024: 15,29% suara (23.208.654 suara) dan 102 kursi — naik 17 kursi, terbanyak kedua di DPR periode 2024–2029; Golkar juga memimpin perolehan kursi DPRD provinsi (359 kursi, naik dari 309 pada 2019). Pada Agustus 2024, Airlangga Hartarto mengundurkan diri sebagai ketua umum; Munas XI (21 Agustus 2024) memilih Bahlil Lahadalia — calon tunggal — secara aklamasi sebagai ketua umum 2024–2029. Bahlil, Menteri ESDM sejak 19 Agustus 2024, dipertahankan Presiden Prabowo Subianto di Kabinet Merah Putih; per 1 Oktober 2026 ia juga menjabat Menteri Koordinator Bidang Hilirisasi dan Transisi Energi merangkap Menteri ESDM.
+
 ## Batas data
 
 - **Bingkai sumber yang satu sisi:** kelima artikel soehartois.com menyajikan Golkar dari sisi keberhasilan dan stabilitas semata; sisi koersif kemenangan pemilu (mobilisasi aparatur, pembatasan oposisi) tidak disebut di sana dan ditambahkan di halaman ini dari [[hub/pemilu-orde-baru|Pemilu-pemilu Orde Baru]] serta penelitian pemilu Orde Baru.
@@ -95,6 +108,7 @@ Bagian ini berada di luar fokus utama wiki (1966–1998) dan dicatat ringkas seb
 - **"Satkar Bhayangkara":** sayap ini disebut dalam artikel soehartois.com tetapi tidak terverifikasi di sumber lain yang dipakai halaman ini, sehingga tidak dimasukkan ke daftar di atas.
 - **Tahun pendirian sayap-sayap belakangan** (AMPG, KPPG, MDI, HWK, Al-Hidayah, GPR) tidak terdokumentasi dalam sumber yang dipakai; hanya Trikarya pendiri yang diberi tahun.
 - **Klaim "menciptakan Golkar":** seperti dicatat di halaman [[aktor/soeharto|Soeharto]], Soeharto tidak menciptakan Golkar — Sekber Golkar didirikan 1964, sebelum Orde Baru; yang dilakukan Soeharto (melalui Ali Murtopo) adalah mengubahnya menjadi mesin pemilu.
+- **Hasil Pemilu 2019 dan 2024** dari rekapitulasi resmi KPU (Keputusan KPU No. 987/PL.01.8-KPT/06/KPU/V/2019; rekapitulasi 2024 pascaputusan PHPU MK, 6 Juni 2024).
 
 ## Sumber
 
@@ -107,6 +121,11 @@ Bagian ini berada di luar fokus utama wiki (1966–1998) dan dicatat ringkas seb
 - "Partai Golongan Karya", Wikipedia bahasa Indonesia: https://id.wikipedia.org/wiki/Partai_Golongan_Karya
 - "Sejarah dan Asal Muasal Pendirian Partai Golkar", 123dok: https://123dok.com/article/sejarah-dan-asal-muasal-pendirian-partai-golkar.8yd720gy
 - Data pemilu 1971–1997: KPU, dikutip dari [[hub/pemilu-orde-baru|Pemilu-pemilu Orde Baru]]
+- "Ini Daftar Lengkap Perolehan Kursi Parpol Pada Pileg 2024", GoodStats (data KPU): https://goodstats.id/article/ini-daftar-lengkap-perolehan-kursi-parpol-pada-pileg-2024-MlYsI
+- "KPU Tetapkan Hasil Pileg 2019: PDIP Juara, Disusul Gerindra-Golkar", Sekretariat Kabinet (21 Mei 2019): https://setkab.go.id/pdip-menangi-pileg-kpu-tetapkan-pasangan-jokowi-maruf-amien-raih-suara-terbanyak-pilpres-2019/
+- "PHPU Pileg 2024 Rampung, Akhirnya Golkar Kuasai 102 Kursi Parlemen", Investor Daily (9 Jun 2024): https://investor.id/national/363814/phpu-pileg-2024-rampung-akhirnya-golkar-kuasai-102-kursi-parlemen
+- "Munas XI Berjalan Mulus, Bahlil Lahadalia Resmi Terpilih sebagai Ketum DPP Golkar Periode 2024-2029", Poskota (21 Agu 2024): https://poskota.co/berita-utama/munas-xi-berjalan-mulus-bahlil-lahadalia-resmi-terpilih-sebagai-ketum-dpp-golkar-periode-2024-2029/
+- "Bahlil Lahadalia Dilantik Jadi Menko Hilirisasi dan Transisi Energi, Rangkap Menteri ESDM", Tambang.co.id (1 Okt 2026): https://tambang.co.id/bahlil-lahadalia-dilantik-jadi-menko-hilirisasi-dan-transisi-energi-rangkap-menteri-esdm/
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
 
 Lihat juga: [[hub/pemilu-orde-baru|Pemilu-pemilu Orde Baru]] · [[hub/orde-baru|Orde Baru]] · [[aktor/soeharto|Soeharto]] · [[konsep/glosarium-istilah-orde-baru#Demokrasi Pancasila|Demokrasi Pancasila]]
