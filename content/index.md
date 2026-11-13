@@ -38,6 +38,9 @@ relasi:
 - predikat: memuat_hub
   objek: warisan-orde-baru
   sumber: https://pakharto.my.id/
+- predikat: memuat_hub
+  objek: otobiografi-soeharto
+  sumber: https://pakharto.my.id/
 ogImage: /img/og-image.jpg
 last_updated: '2026-11-08'
 confidence: high
@@ -69,6 +72,7 @@ Track baru yang menggali *best practices* era Orde Baru yang masih relevan hari 
 - **Peta Sistemik Lengkap**: [[hub/orde-baru|Orde Baru (1966–1998)]] — Ringkasan periodisasi 32 tahun, perbandingan capaian vs kelemahan, dan warisan kelembagaan.
 - **Aktor Sentral**: [[aktor/soeharto|Jenderal Besar Soeharto]] — Profil politik, jejaring kekuasaan, gaya kepemimpinan, dan posisi historisnya.
 - **Kliping Soeharto**: [[perpustakaan-soeharto|Arsip Artikel & Pidato Soeharto]] — 1.112 kliping, pidato, dan artikel dari soehartolibrary.id.
+- **Otobiografi Soeharto**: [[hub/otobiografi-soeharto|Pikiran, Ucapan dan Tindakan Saya]] — Teks lengkap 102 bab narasi Soeharto sendiri (1988), dibaca sebagai klaim tokoh, bukan fakta terverifikasi.
 
 ---
 

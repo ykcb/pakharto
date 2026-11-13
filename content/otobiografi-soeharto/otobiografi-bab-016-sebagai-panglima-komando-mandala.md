@@ -1,0 +1,145 @@
+---
+title: "Bab 16: Sebagai Panglima Komando Mandala (Otobiografi Soeharto)"
+description: "Bab 16 otobiografi Soeharto, periode Perjuangan Kemerdekaan dan Karier Militer. RIS sudah jadi RI kembali. Belanda tidak mau menyerahkan Irian Barat kepada kita. Melewati usaha-usaha diplomatik secara bilateral masalah itu tak berhasil dipecahkan."
+date: 1988-03-01
+updated: 2026-11-14
+last_updated: "2026-11-14"
+entity_type: kliping
+entity_id: "otobiografi-bab-016-sebagai-panglima-komando-mandala"
+aliases:
+  - "Sebagai Panglima Komando Mandala"
+tags: [otobiografi, soeharto, sumber-primer, bab-16, orde-baru]
+kategori: kekuasaan-dan-legitimasi
+risiko_editorial: tinggi
+status: unreviewed
+verification_status: unreviewed
+confidence: medium
+sumber:
+  - judul: "Soeharto: Pikiran, Ucapan dan Tindakan Saya - Otobiografi seperti dipaparkan kepada G. Dwipayana dan Ramadhan K.H."
+    penerbit: "PT Citra Lamtoro Gung Persada"
+    tanggal: 1988
+    jenis: "sumber primer (otobiografi/narasi tokoh)"
+    berkas: "20130925-sht-pikiran-ucapan-tindakan-3494.pdf"
+relasi:
+  - predikat: bagian_dari
+    objek: "Otobiografi Soeharto"
+  - predikat: dokumen_tentang
+    objek: "soeharto"
+---
+
+# Bab 16: Sebagai Panglima Komando Mandala
+
+> **Ringkasan:** Bab 16 dari 102 dalam otobiografi *Soeharto: Pikiran, Ucapan dan Tindakan Saya*, periode **Perjuangan Kemerdekaan dan Karier Militer**. Kutipan pembuka: "RIS sudah jadi RI kembali. Belanda tidak mau menyerahkan Irian Barat kepada kita. Melewati usaha-usaha diplomatik secara bilateral masalah itu tak berhasil dipecahkan."
+
+> [!NOTE]
+> **Catatan editorial:** Halaman ini memuat teks otobiografi apa adanya (hasil konversi PDF dengan MarkItDown, dengan pembersihan ringan nomor halaman dan pemenggalan baris). Isinya adalah **narasi dan klaim Soeharto sendiri** sebagaimana dituturkan kepada G. Dwipayana dan Ramadhan K.H. pada 1985-1988, sehingga perlu dibaca sebagai sumber primer yang subyektif dan dibandingkan dengan sumber independen. Sisa kesalahan OCR mungkin masih ada, termasuk huruf kapital pertama tiap bab (drop cap) yang kerap hilang.
+
+ejak Konferensi Meja Bundar (KMB) di tahun 1949, ada satu hal yang tidak terselesaikan dan menjadi duri dalam daging bagi Republik Indonesia, yakni soal Irian Barat. Hasil KMB itu menyebutkan, bahwa dalam jangka waktu satu tahun sesudah tanggal "penyerahan" kedaulatan kepada RIS, masalah status Irian akan diselesaikan dengan jalan perundingan antara Republik Indonesia Serikat dengan Kerajaan Belanda.
+
+RIS sudah jadi RI kembali. Belanda tidak mau menyerahkan Irian Barat kepada kita. Melewati usaha-usaha diplomatik secara bilateral masalah itu tak berhasil dipecahkan.
+
+Lalu Indonesia membawa masalah ini ke meja sidang PBB. Tetapi di forum itu kita tidak pernah memperoleh tanggapan yang positif. Mulai 1954 Indonesia membawa persoalan ini ke sidang PBB, dan disambung pada tahun-tahun berikutnya. Tetapi pihak Belanda bukan saja tidak mau menyerahkannya, bahkan untuk membicarakannya pun mereka tidak mau. Sasaran mereka akhirnya mau mendirikan "Negara Papua" di bawah mantel Kerajaan Belanda. Pendeknya, langkah-langkah Belanda membuat rakyat Indonesia menjadi kesal. Maka dilancarkanlah aksi-aksi pembebasan Irian di seluruh tanah air, dimulai dengan pengambil-alihan milik perusahaan Belanda di Indonesia. Untuk mencegah anarki dan untuk menampung keinginan rakyat banyak, maka Penguasa Perang Pusat memutuskan
+
+untuk mengambil alih semua perusahaan milik Belanda dan kemudian menyerahkannya kepada pemerintah.
+
+Kelanjutan hubungan yang tegang antara Indonesia dan Belanda itu mencapai puncaknya pada tanggal 17 Agustus 1960, dan RI memutuskan hubungan diplomatik dengan Kerajaan Belanda.
+
+Suasana jadi panas. Dalam Sidang Umum PBB 1961, kembali masalah Irian Barat diperdebatkan. Maka muncul usul yang dibuat oleh diplomat Amerika Elssworth Bunker dengan sebutan "Usul Bunker" yang menyebutkan, agar pihak Belanda menyerahkan Inan kepada Indonesia dan penyerahan itu dilakukan melalui PBB dalam jangka waktu dua tahun. Terhadap "Usul Bunker:' 1m Indonesia menyetujuinya, dengan catatan agar waktu dua tahun itu diperpendek. Sebaliknya, Belanda, akan mau melepaskan Irian Barat itu, dengan membentuk dulu perwalian di bawah PBB untuk kemudian membentuk Negara Papua.
+
+Sikap Belanda itu di Indonesia disambut dengan membul<itkan tekad untuk mengadakan perjuangan bersenjata membebaskan lri;;J.n. Mulai Desember 1961 Republiklndonesia "menjawab Belanda dengan meriam".
+
+Siasat Belanda untuk -mem!Jertahankan kepentingannya di Irian Barat itu dijawab oleh pemerintah kita dengan "Tri Komando Rakyat" atau "Trikora", pada tanggal 19 Desember 1961. Pelaksana komando itu adalah "Komando Mandala Pembebasan Irian Barat", yang dipikulkan pada pundak saya. Kejadian ini merupakan suatu tantangan, tetapi juga kehormatan yang luar biasa bagi Prajurit Sapta Marga. Dengan ini, terbuka kesempatan bagi saya, untuk menerapkan segala pengetahuan saya, pengalaman dan ilmu yang telah saya dapat di sekolah-sekolah militer dan di SSKAD. Saya tabu, kemampuan saya dicoba, dan tentunya disorot orang banyak juga. Tetapi saya senang sekali menerima tantangan ini.
+
+Sementara itu, mulai 1 Januari 1962, pangkat saya sudah naik menjadi Mayor Jenderal dan menjadi Panglima Komando Mandala, sejak surat tugas dari Presiden tertanggal 23 Januari di tahun yang sama.
+
+Wakil saya dalam melaksanakan tugas ini, sebagai Wakil Panglima adalah Kolonel (L) Subono dan Kolonel (U) Leo Watimena, dan Kepala Staf kami adalah Kolonel (Inf.) A.Tahir.
+
+Menyebutkan isi "Trikora" selengkapnya, adalah menggagalkan pembentukan negara boneka Papua buatan kolonial Belanda ,
+
+mengibarkan Sang Merah Putih di Irian Barat, dan bersiap untuk mobilisasi umum.
+
+Persiapan menghadapi "Trikora" itu mulai dari no!. Pangkalan tidak ada. Kesatuan tidak ada, karena tugasnya ditentukan dalam waktu pendek. Sebelum Komando Mandala itu terbentuk, telah dilakukan "Operasi A" langsung dipimpin oleh MEAD. Dalam rangka "Operasi A" itulah telah terjadi peristiwa pertempuran Laut Aru, antara tiga MTB kita melawan kapal perusak Belanda. Dalam pertempuran ini, gugur Deputi KASAL Komodor Laut Yos Sudarso, yang tenggelam dengan MTB "Macan Tutu!" pada tanggal 15 Januari 1962. Kita menundukkan kepala, memberi hormat kepada pahlawan kita, atas keberanian dan jasa-jasanya, untuk tanah air dan bangsa.
+
+Januari 1962 diumumkan, bahwa jabatan Deputi Wilayah Indonesia Timur diserah terimakan dari Mayjen. A. Yani kepada saya. Februari saya baru dilantik, merangkap sebagai Panglima Mandala Pembebasan Irian Barat. Maka Markas Besar Komando Mandala didirikan di Ujung Pandang (Makassar). Saya tahu, ini ujian yang besar buat saya. Ini merupakan pengerahan kekuatan militer RI yang paling besar.
+
+Ditentukan, bahwa paling lambat tanggal 17 Agustus 1962 bendera Merah Putih sudah harus berkibar di Irian Barat. Ini berarti, saya cuma diberi waktu 7 bulan. "Masya'Allah," kata saya pada waktu itu. Tetapi saya taat saja, tunduk pada perintah.
+
+Tiga rencana sekaligus kita siapkan menjadi. satu. Kita susun pasukan gabungan, kita bangun pangkalan, dan kita pelajari bagaimana situasi .keadaan di medan yang sebenarnya, di samping mempelajari kekuatan Belanda yang sesungguhnya. Kita harus sanggup berperang lama, baik dalam mempertahankan wilayah maupun menggempur kedudukan musuh. Oleh sebab itu, perlu dibentuk kawasan perang pembebasan Irian, yang kemudian dikenal dengan Komando Mandala Pembebasan Irian, dengan unsur-unsur Komando Mandala Darat yang saya rangkap pimpinannya, Komando Mandala Laut dipimpin oleh Laksamana Sudomo, dan Komando Udara dipimpin oleh Komodor Leo Watimena.
+
+Tiga tugas itu saya tentukan dalam satu strategi -sekaligus. Kita harus mempergunakan pasukan yang ada, melakukan operasi infiltrasi di Irian, melalui !aut dan udara, dengan tujuan mengenal medan; mengetahui kedudukan musuh dan kita bersikap seolah-olah akan
+
+mendarat secara konvensional, pada satu titik, padahal sebetulnya kita punya rencana lain.
+
+Untuk menghindari intaian Belanda, saya drop infiltrasi dari udara. Dengan demikian akhirnya pasukan Belanda terikat. Kal9-u ada pasukan Belanda yang minta bantuan, dengan sendirinya ia meminta cadangan tentara yang ada di Biak dan Holandia (Sekarang Jayapura), sehingga taktik menarik pasukan Belanda ke depan, nyata berhasil, menguntungkan kita.
+
+Dengan demikian saya sudah bisa menentukan, besar kekuatan musuh dan di mana saya harus melakukan gerakan selanjutnya.
+
+Karena itu, pada waktu 1tu ada sindiran, "Mengapa pasukan pilihan, RPKAD digunakan untuk infiltrasi? Dengan begitu, bukankah kita rugi?" katanya. Yang berkata demikian tidak tahu bahwa saya mempunyai siasat. Justru dengan digunakannya RPKAD kita sekaligus bisa mengetahui musuh, keadaan medan yang sebenarnya, mengikat musuh agar terpecah-pecah dan memaksa musuh menggunakan cadangim ke garis depan, agar indliknya akan menjadi lemah.
+
+Kemudian kita susun suatu kesatuan gabungan, terdiri atas satu divisi pendarat dari CADUAD dan brigade-brigade lintas udara (PARA), brigadebrigade pendarat dari KKO, yang aka membuat pancangan kaki (beach head), armada laut untuk mengangkut pasukan dan melindungi operasi ampibi, armada udara untuk keunggulan udara dan melindungi operasi gabungan. · Maka kita membangun pangkalan di Morotai, Amahai, Letfuan, Ambon, semuanya terletak eli pulau terdepan. Maksud saya, agar kapal terbang kita bisa melindungi pendaratan kita pada waktu menyerang dan bisa berada lama di daerah musuh, karena pangkalan kita dekat dari tempat musuh. * Ada sesuatu yang patut kita ketahui sewaktu kita menghadapi Belanda dalam perjuangan Irian Barat itu. Mohammad Yamin mengusulkan dalam sidang kabinet, supaya kita menenggelamkan kapal Belanda.
+
+Saya dipanggil ke Istana. Lalu diperintahkan oleh Presiden Soekarno untuk menenggelamkan kapal Belanda, demi tujuan politik.
+
+"Aneh-aneh saja," pikir saya.
+
+Lalu sayo. seperti bertanya kembali, "Baik, Pak, kalau benar kita bisa menyelesaikan perjuangan kita, memasukkan Irian Barat ke dalam
+
+negara kita dengan menenggelamkan kapal itu saja, akan saya lakukan. Tetapi kalau tidak, ini hanya akan merusak rencana saja. Karena dengan begi):u, Belanda malahan akan jadi lebih siap."
+
+Yamin kukuh mengatakan, "Ini untuk kepentingan politik."
+
+Saya jawab, "Sudah 11 tahun kita tidak berhasil. Lalu mau merusak rencana yang dipercayakan kepada saya untuk melakukan operasi militer?" Bung Karno menjelaskan, "Hams kamu laksanakan."
+
+"Akan saya lakukan. Tetapi saya betul-betul minta jaminan bahwa dengan begitu Irian bisa masuk jadi wilayah kita," saya tekankan. Saya pikir, "Semua pihak · harus mengamankan rencana operasi saya, operasi militer, supaya bisa menjamin bahwa nanti pacta tanggal 17 Agustus 1962 Irian sudah kita. kuasai."
+
+Andaikata saya menerima perintah begitu saja, tentu saya akan menggunakan TU-16 dan menenggelamkan kapal Belanda itu dengan roket jarak jauh. Tetapi kalau kemudian, setelah kapal itu tenggelam, tidak ada penyelesaian, apa yang akan terjadi? Malahan mungkin marah Belanda akan timbul dan terus mereka mendatangkan kekuatan yang lebih besar lagi. Kalau sampai demikian jadinya, bisa kacau rencana kita.
+
+Akhirnya diputuskan, gagasan Yamin dibatalkan. Yamin sendiri akhirnya mengatakan, "Ya, jangan mengorbankan operasi militer." Bung Karno yang memutuskannya.
+
+Lalu saya jalan dengan rencana penyerangan.
+
+Kemudian, setelah semua persiapan selesai, saya lapor kepada sidang kabinet bahwa operasi sudah siap untuk dilaksanakan. Keadaan sudah demikian rupa sehingga saya sudah siap memukul Biak. Maka saya minta izin kepada Presiden Soekarno untuk mencoba kekuatan senjata.
+
+"Saya akan menenggelamkan kapal Belanda," kata saya kepada Presiden. "Wah, jangan," kata Yamin menengahi.
+
+Dengan ini, jadinya satu-satu dalam percaturan kita sendiri di dalam. *
+
+Maka beberapa operasi penyusupan kami lakukan, dan beberapa operasi penerjunan udara langsung ke Irian Barat kami laksanakan. Begitulah "Operasi Banteng 1 dan 2" kami lakukan, disusul dengan "Operasi Garuda". "Operasi Srigala" dan "Operasi Naga". Operasi infiltrasi lintas udara dengan menggunakan pasukan pilihan terdiri atas RPKAD, PGT, dan RAIDER PARA, atas sasaran Sarong, Manokwari, Fak-Fak, Kaimana, dan Merauke, bertujuan untuk mengikat musuh di tempatnya, menarik cadangan untuk memperkuat posisi mereka. Dan mengelabui Belanda seolah-olah kita akan melakukan pendaratan ampibi di Kaimana sebagai pancangan kaki (beach head) untuk gerakan selanjutnya. Ternyata taktik ini berhasil. Belanda mengerahkan cadangannya ke depan dan memperkuat Kaimana. Dengan demikian, Biak menjadi lemah dan inilah yang menjadi satu-satunya sasaran utama kita. Keberhasilan itu karena para prajurit telah menunjukkan bakti mereka dengan tidak kepalang tanggung. Bayangkan, mereka telah menyediakan diri dengan dilemparkan di tengah malam buta, di tengah hutan yang tidak mereka kenai, dan entah apakah mereka akan jatuh di rawa, atau akan tersangkut di pohon. Mereka begitu taat kepada komando, yang sebenarnya, mereka taat kepada kepatriotikan mereka, membela kejayaan negara, membela kebulatan negara. Mereka cinta kepada negara dan bangsa. Lalu saya siapkan pula "Operasi Jayawijaya", sebuah operasi ampibi gabungan besar-besr.ran untuk membebaskan Irian Barat itu, dengan sasaran utamanya jantung musuh, ialah Biak.
+
+Pada waktu itu saya menunggu lahirnya anak saya yang kelima. Alhamdulillah, di tengah memimpin Komando Mandala itu kami menerima titipan-Nya, anak kami yang kelima, laki-laki, lahir dengan selamat pada tanggal 15 Juli 1962, dan kami beri dia nama Hutomo Mandala Putra. Nama itu, dengan panggilan di rumah Tomy, memberikan kenang-kenangan tersendiri pada tugas yang saya jalankan.
+
+Setelah kita mampu memperlemah musuh dan musuh terpecah pecah, sekarang bagaimana kita harus mendarat? Secara konvensional, harus kita lakukan itu di satu tempat tertentu, di tempat pilihan kita, kemudian bergerak maju, terus menerohos sasaran kedua, ketiga, ,dan seterusnya.
+
+Saya katakan kepada pasukan-pasukan kita, "Kita ini hanya mampu menyusun satu kali kekuatan pukul yang terdiri atas darat, laut dan udara. Lebih dari itu, tidak bisa. K.ita tidak punya cadangan."
+
+Pegangan saya adalah bahwa satu-satunya kekuatan kita ini harus kita gunakan untuk memukul sekali dan berhasil. Sekalipun korbannya banyak, tetapi kita harus berhasil. Sebab, kita tidak mempunyai cadangan. Ibarat dalam pertandingan tinju: sekali pukul dengan setnua tenaga yang ada dan musuh k.o. Saya tentukan, yang penting, kita membuat serangan gabungan pendaratan ampibi dan lintas udara dengan sasaran Biak. Rendezvous nya satuan ampibi di Teluk Peling kepulauan Banggai. Sedangkan satuan lintas udara di Morotai, Ambon, dan Makassar. Dengan demikian, kita kumpulkan semua pasukan armada laut yang tadinya ada di Ambon dan Makassar, bertemu di Teluk Peling.
+
+Sesuai dengan tugas yang telah ditentukan, selambat-lambatnya tanggal 17 Agustus 1962 bendera Merah Putih harus sudah berkibar di Irian, operasi diperkirakan memakan waktu lima hari. Karena itu, hari H ditentukan pada tanggal12 Agustus 1962, (hari pendaratan di Biak). H-8, semua satuan armada sudah berkumpul di Teluk Peling. H-20, kapal selam dengan membawa pasukan komando RPKAD sudah berangkat menuju posisi antara Biak ·dan Holandia (Jayapura sekarang), dengan tugas menenggelamkan kapal musuh dan mendaratkan komando untuk menyerang kota Holandia. Saya sendiri, dengan menggtmakan kapal patroli Kepolisian Negara, bersamaan dengan kapal penyapu ranjau dan kapal anti kapal selam, berangkat sebagai yang terakhir dari Ambon, menuju tempat berkumpul armada laut kita di Teluk Peling. Dalam perjalanan kami diikuti oleh kapal selam asing: Sambil mencoba born laut, kami born kapal selam asing itu, mungkin kapal selam Amerika. Ia mengeluarkan oli. Tapi barangkali itu tipu muslihatnya saja: seolah-olah rusak, padahal cuma taktik. Di samping kapal selam, radar kita juga menangkap kegiatan pesawat terbang di atas wilayah kita, tentu pesawat terbang Amerika, karena Belanda tidak mempunyai kemampuan untuk itu. Mereka memata-matai dan memotret kegiatan kita. Dari hasil pengintaiannya itu, Amerika yakin akan kesiapan perang kita.
+
+Inilah yang menjadi kunci bagaimana Amerika mengetahui bahwa Indonesia sudah betul-betul siap akan menyerang.
+
+Amerika Ialu mendesak Belanda melalui saluran politik, karena sudah tahu bahwa kita benar-benar sudah mengumpulkan tenaga kita.
+
+. Andaikata benar terjadi serangan kita, dunia Barat akan benar benar terpukul waktu itu. Akan terjadi satu peristiwa seperti pada tahun 1905, antara Jepang dan Rusia di Wladiwostok.
+
+Di tengah-tengah kita telah siap meninggalkan garis awal Teluk Peling, melakukan operasi dengan kode Jayawijaya menuju sasaran Biak, kita diperintahkan menunda operasi itu. Suatu tugas yang tidak ringan, karena tidak ditentukan batas penundaannya. Karena itu merupakan putusan politik, tidak ada jalan lain kecuali harus melaksanakan. Apalagi setelah mengetahui bahwa keputusan politik itu karena perjuangan kita berhasil, Belanda menyerah melalui PBB.
+
+Saya panjatkan syukur ke hadirat Yang Mahakuasa, bahwa Operasi Jayawijaya tidak sampai perlu kita jalankan. Saya tahu, bahwa operasi il)i akan meminta korban jiwa dan harta yang amat besar.
+
+Tanggal 16 Agustus 1962 tercapai "Persetujuan New York" tentang penyerahan Irian Barat kepada· RI.
+
+Salah satu pokok persetujuan itu menyebutkan, bahwa bendera RI mulai berkibar bersama bendera PBB pada tanggal 31 Desember 1962, dan pemulangan pegawai Belanda, sipil dan militer, harus sele ai 1 Mei 1963, dan pemerintah RI secara resmi menerima kekuasaan di Irian Barat dari UNTEA (United Nations Temporary Executive Authority).
+
+Alhasil PBB menengahi. Untuk jadi perantara dalam penyerahan kekuasaan itu. Tetapi hasil s mua itu harus dengan gebrakan yang kami lakukan dengan sungguh-sungguh. "Operasi ·Jayawijaya" dapat menerobos kemacetan diplomasi dan berhasil memasukkan Irian Barat (Irian Jaya) ke dalam pangkuan Negara Republik Indonesia.
+
+Indonesia yang menyelenggarakan "Penentuan pendapat rakyat" (Pepera) di bulan Desember 1969, dan bukan Belanda, sesuai dengan persetujuan New York itu.
+
+* Mengenai pembangunan di Irian Barat memang benar ada kekhususan. Secara nyata baru pada tahun 1962 wilayah itu termasuk. Republik Indonesia. J adi termasuk provinsi yang termuda waktu itu (di Iuar Timor-Timur yang masuk ke wilayah kita secara khusus pula). Dihitung-hitung, 17 tahun wilayah Irian J aya tertinggal oleh wilayah Indonesia Iainnya. Ini menyebabkan wilayah itu sangat ketinggalan sekali. Secara kebetulan, saya sebagai Panglima Mandala mengetahui persis, karena seluruh wilayah itu pernah saya jelajahi. Setelah wilayah itu secara resmi masuk ke dalam kekuasaan Republik Indonesia, saya
+
+kunjungi mulai dari Merauke, Sorong, sampai ke Manokwari. Kemudian saya datangi Jayawijaya dan juga Jayapura. · Keadaan daerah-daerah itu waktu itu sangat terbelakang. Sebab itu, waktu Orde Baru melaksanakan pembangunan, saya menaruh perhatian khusus kepada Irian Jaya. Saya tetapkan, daerah itu harus mengejar ketinggalannya. Maka di samping dana-dana yang diberikan, yakni dana pembangunan untuk provinsi, ada dana lainnya untuk wilayah ini, yakni yang melewati Inpres Desa, Kabupaten atau Provinsi. Begitu pula ada Inpres SD, Inpres Puskesmas, dan di samping itu ada dana khusus sebagai suatu tambahan untuk mempercepat pembangunan di wilayah itu.
+
+Memang ada kelainan dan kekhususan sampai sekarang mengenai Irian Jaya (dan Timor-Timur), dalam pengertian prioritas. dan anggarannya, jika dibandingkan dengan provinsi-provinsi lainnya. Daerah lainnya tidak perlu iri. Hendaknya semua memaklumi, bahwa Irian jauh sekali tertinggal dalam pembangunan daerahnya. Patut ia mendapat anggara dan kebijaksanaan khusus. Pelaksanaannya saya serahkan kepada Menteri Dalam Negeri. Ini keputusan politik. Irian mesti bisa cepat menikmati kemerdekaannya. Lihat sekarang apa yang telah terjadi denga wilayah itu.
+
+---
+
+**Navigasi:** Hub: [[hub/otobiografi-soeharto|Otobiografi Soeharto]] | Sebelumnya: [[otobiografi-soeharto/otobiografi-bab-015-semasa-jadi-panglima-ttivdiponegoro|Bab 15: Semasa Jadi Panglima TT-IV/Diponegoro]] | Berikutnya: [[otobiografi-soeharto/otobiografi-bab-017-di-masa-dwikora|Bab 17: Di Masa "Dwikora"]]
