@@ -2,8 +2,8 @@
 title: "Floating Mass (Massa Mengambang)"
 description: "Doktrin politik Orde Baru yang melarang pembentukan ranting partai politik di tingkat pedesaan dan kelurahan guna memutus partisipasi politik aktif rakyat akar rumput demi stabilitas pembangunan."
 date: 1971-07-03
-updated: 2026-11-09
-last_updated: "2026-11-09"
+updated: 2026-11-16
+last_updated: "2026-11-16"
 entity_type: konsep
 entity_id: "floating-mass"
 aliases:
@@ -29,6 +29,9 @@ sumber:
   - url: https://en.wikipedia.org/wiki/Ali_Moertopo
     judul: "Ali Moertopo — Wikipedia"
     tanggal: 2026-11-09
+  - url: https://merdika.id/otonomi-daerah-dalam-belitan-korupsi/
+    judul: "Otonomi Daerah dalam Belitan Korupsi — Merdika.id"
+    tanggal: 2026-11-16
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -77,6 +80,13 @@ Menurut kajian ANU Press dalam *Soeharto's New Order and its Legacy*, doktrin ma
 - **UU No. 3 Tahun 1975 tentang Partai Politik dan Golongan Karya:** Pelembagaan legal larangan pembentukan kepengurusan partai di tingkat kecamatan dan pedesaan.
 - **UU No. 5 Tahun 1979 tentang Pemerintahan Desa:** Penyeragaman struktur desa di seluruh Indonesia yang menempatkan Kepala Desa sebagai aparatur tunggal pemerintah pusat di garda depan.
 
+## Penilaian akademik dan warisan
+
+- **Dua macam depolitisasi (Affan Gaffar).** Ilmuwan politik Affan Gaffar menggolongkan depolitisasi Orde Baru menjadi dua macam: *depolitisasi argumen* — toleransi rendah terhadap ide atau pendapat yang berbeda dengan penguasa, tampak antara lain dalam mekanisme *recall* terhadap anggota DPR yang berbeda pendapat — dan depolitisasi melalui penciptaan sistem massa mengambang di tingkat pedesaan. (Dikutip dalam *Sejarah Dewan Perwakilan Rakyat Republik Indonesia 1918–2018*, Buku Empat, Setjen DPR RI, 2019.)
+- **Rasionalisasi Moertopo.** Dalam rumusan Ali Moertopo sendiri, sebagaimana dikutip David Bourchier dan Vedi R. Hadiz (*Indonesian Politics and Society: A Reader*, 2003, hlm. 46): "Rakyat di desa tidak perlu lagi menghabiskan waktu dan tenaganya yang berharga untuk melibatkan dirinya dalam kancah perjuangan politik partai dan golongan, tetapi menyibukkan dirinya dalam usaha-usaha pembangunan, sehingga didapatlah apa yang disebut sebagai 'floating mass' yang tidak terikat secara permanen dalam keanggotaan sesuatu partai politik."
+- **Kritik Mansour Fakih.** Sosiolog Mansour Fakih dalam *Runtuhnya Teori Pembangunan dan Globalisasi* (2001) menilai massa mengambang sebagai instrumen kontrol politik: larangan aktivitas politik di pedesaan bertujuan mencegah rakyat membangun kesadaran politik kritis dan memutus hubungan antara gerakan intelektual dengan basis rakyat di tingkat bawah — menciptakan depolitisasi massal yang menjadikan rakyat objek pasif kebijakan pemerintah.
+- **Warisan pasca-1998.** Doktrin ini resmi berakhir dengan UU No. 2 Tahun 1999 (lihat Catatan presisi), tetapi warisannya masih dibahas: analisis Merdika.id (2026) menilai depolitisasi selama satu generasi lebih menghasilkan "habitus politik yang sulit direkonstruksi" — kebiasaan tidak bertanya, tidak memprotes, dan tidak mengorganisir diri — sehingga partisipasi warga tetap lemah meski struktur partai di desa kini sudah dibolehkan. [Inferensi: bila penilaian ini benar, pencabutan larangan formal saja tidak otomatis memulihkan daya tawar kolektif pedesaan yang diputus selama tiga dekade.]
+
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Mengesahkan doktrin sebagai bagian integral dari pemeliharaan Stabilitas Nasional.
 - **Mayjen Ali Moertopo** — Perancang strategis konsep *floating mass* dan fusi kepartaian melalui Operasi Khusus (Opsus).
@@ -88,6 +98,10 @@ Menurut kajian ANU Press dalam *Soeharto's New Order and its Legacy*, doktrin ma
 - **Alfian (1981):** *Pemikiran dan Perubahan Politik Indonesia* — Analisis kritis ilmu politik mengenai dampak massa mengambang terhadap partisipasi publik.
 - **Populi Center (2021):** "Pemilu-pemilu Orde Baru, 1971–1997" — Data hasil Pemilu 1971 merujuk KPU dan *Tempo* (diakses 9 November 2026).
 - **Aspinall, Edward & Fealy, Greg (ed.):** *Soeharto's New Order and its Legacy* (ANU Press) — Bab 2, penilaian doktrin massa mengambang (diakses 9 November 2026).
+- **Affan Gaffar (1990):** "Partai Politik, Elite, dan Massa dalam Pembangunan Nasional" — dalam Ahmad Zaini Abar (ed.), *Beberapa Aspek Pembangunan Orde Baru* — klasifikasi dua macam depolitisasi; dikutip dalam *Sejarah DPR RI 1918–2018*, Buku Empat (Setjen DPR RI, 2019).
+- **Bourchier, David & Hadiz, Vedi R. (ed., 2003):** *Indonesian Politics and Society: A Reader* (RoutledgeCurzon) — kutipan rumusan Moertopo tentang *floating mass* (hlm. 46).
+- **Mansour Fakih (2001):** *Runtuhnya Teori Pembangunan dan Globalisasi* (INSIST Press & Pustaka Pelajar) — massa mengambang sebagai instrumen kontrol dan depolitisasi massal.
+- **Merdika.id (2026):** "Otonomi Daerah dalam Belitan Korupsi" — warisan massa mengambang sebagai habitus politik pasca-1998 (diakses 16 November 2026).
 
 ## Catatan presisi
 - **Pencabutan Pasca-Reformasi:** Konsep *floating mass* secara resmi berakhir pasca-tumbangnya Orde Baru dengan disahkannya UU No. 2 Tahun 1999 tentang Partai Politik yang kembali membolehkan partai mendirikan struktur kepengurusan hingga ke tingkat desa dan rukun warga.
