@@ -2,8 +2,8 @@
 title: "Warisan Orde Baru"
 description: "Apa yang tersisa dari Orde Baru: lembaga dan infrastruktur yang masih dipakai hari ini — Bulog, Puskesmas, SD Inpres, jalan tol, satelit Palapa — serta data kemiskinan dan catatan olahraga yang dikoreksi dari sumbernya."
 date: 1967-03-12
-updated: 2026-11-08
-last_updated: "2026-11-08"
+updated: 2026-11-15
+last_updated: "2026-11-15"
 entity_type: topik
 entity_id: "warisan-orde-baru"
 aliases:
@@ -25,6 +25,24 @@ sumber:
   - url: https://id.wikipedia.org/wiki/Tim_nasional_bulu_tangkis_Indonesia
     judul: "Tim nasional bulu tangkis Indonesia — Wikipedia bahasa Indonesia"
     tanggal: 2026-11-08
+  - url: https://ebtke.esdm.go.id/lintas/id/investasi-ebtke/sektor-panas-bumi/perkembangan-proyek
+    judul: "Sektor Panas Bumi — Ditjen EBTKE, Kementerian ESDM"
+    tanggal: 2026-11-15
+  - url: https://kemkes.go.id/id/profil-kesehatan-indonesia-2024
+    judul: "Profil Kesehatan Indonesia 2024 — Kementerian Kesehatan"
+    tanggal: 2026-11-15
+  - url: https://ekon.go.id/unduh/publikasi/871/presiden-ri-resmikan-proyek-palapa-ring-misi-pemerintah-satukan-indonesia-lewat-internet-tercapai
+    judul: "Presiden RI Resmikan Proyek Palapa Ring — Kementerian Koordinator Bidang Perekonomian"
+    tanggal: 2026-11-15
+  - url: https://id.wikipedia.org/wiki/Badan_Penyelenggara_Jaminan_Sosial_Ketenagakerjaan
+    judul: "BPJS Ketenagakerjaan — Wikipedia bahasa Indonesia"
+    tanggal: 2026-11-15
+  - url: https://id.wikipedia.org/wiki/Jalan_Tol_Jagorawi
+    judul: "Jalan Tol Jagorawi — Wikipedia bahasa Indonesia"
+    tanggal: 2026-11-15
+  - url: https://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport
+    judul: "Soekarno–Hatta International Airport — Wikipedia bahasa Inggris"
+    tanggal: 2026-11-15
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -55,29 +73,29 @@ Pelajaran sebaliknya sama pentingnya: warisan yang bertumpu pada fondasi keuanga
 
 | Warisan | Tahun | Keterangan |
 |---|---|---|
-| **Bulog** (Badan Urusan Logistik) | 1967 | Mengelola cadangan dan stabilisasi harga beras; masih beroperasi hingga kini |
+| **Bulog** (Badan Urusan Logistik) | 1967 | Mengelola cadangan dan stabilisasi harga beras; menjadi Perum Bulog 20 Januari 2003 (PP 7/2003), masih beroperasi hingga kini |
 | **ASEAN** (pendiri) | 1967 | Deklarasi Bangkok, 8 Agustus 1967; Indonesia salah satu dari lima pendiri |
-| **Puskesmas** | 1968 | Pusat kesehatan masyarakat di kecamatan; layanan kesehatan dasar, terutama pedesaan |
+| **Puskesmas** | 1968 | Pusat kesehatan masyarakat di kecamatan; layanan kesehatan dasar, terutama pedesaan — 10.268 unit pada 2024 (Kemenkes), dengan target 2.082 puskesmas baru s.d. 2029 |
 | **BKKBN** (Keluarga Berencana) | 1970 | Program KB nasional; menurunkan laju pertumbuhan penduduk |
 | **Bendungan Sutami** (Karangkates), Malang | 1972 | PLTA 105 MW dan irigasi Sungai Brantas |
-| **SD Inpres** | 1973 | Pembangunan sekolah dasar di seluruh Indonesia lewat Instruksi Presiden |
+| **SD Inpres** | 1973 | Pembangunan sekolah dasar di seluruh Indonesia lewat Instruksi Presiden — 61.807 sekolah dibangun 1973–1978 (Duflo 2001) |
 | **BKPM** (Badan Koordinasi Penanaman Modal) | 1973 | Satu pintu perizinan investasi; masih ada hingga kini |
 | **Perumnas** | 1974 | Perumahan rakyat bersubsidi bagi berpenghasilan rendah dan menengah |
 | **PMP** (Pendidikan Moral Pancasila) | 1975 | Mata pelajaran wajib di sekolah; bagian dari kurikulum 1975 |
 | **IPTN** (Industri Pesawat Terbang Nusantara) | 1976 | Industri dirgantara di bawah B.J. Habibie; cikal bakal PT Dirgantara Indonesia |
-| **Satelit Palapa** | 1976 | Satelit komunikasi domestik pertama; menyatukan jaringan telepon dan televisi antarpulau |
-| **Tol Jagorawi** | 1978 | Jalan tol pertama di Indonesia (Jakarta–Bogor–Ciawi) |
-| **Bendungan Saguling**, Sungai Citarum | 1981–1986 | PLTA 700 MW; batu pertama oleh Soeharto 31 Mei 1983, diresmikan 24 Juli 1986 |
-| **PLTP Kamojang** | 1983 | Pembangkit listrik tenaga panas bumi pertama di Indonesia |
+| **Satelit Palapa** | 1976 | Satelit komunikasi domestik pertama; menyatukan jaringan telepon dan televisi antarpulau — dilanjutkan Palapa Ring, jaringan serat optik 12.128 km yang diresmikan 14 Oktober 2019 dan menghubungkan 514 kabupaten/kota |
+| **Tol Jagorawi** | 1978 | Jalan tol pertama di Indonesia (Jakarta–Bogor–Ciawi); diresmikan 9 Maret 1978 (Keppres 3/1978), panjang 59 km, masih dikelola Jasa Marga |
+| **Bendungan Saguling**, Sungai Citarum | 1983–1986 | PLTA 700 MW; batu pertama oleh Soeharto 31 Mei 1983, diresmikan 24 Juli 1986 |
+| **PLTP Kamojang** | 1982 | Pembangkit listrik tenaga panas bumi pertama di Indonesia; Unit 1 (30 MW) beroperasi 22 Oktober 1982 |
 | **Swasembada beras** | 1984 | Indonesia mencapai swasembada beras; penghargaan FAO di Roma |
 | **Wajib Belajar 6 tahun** | 1984 | Pendidikan dasar wajib 6 tahun; diperluas menjadi 9 tahun pada 1994 |
 | **PLTU Suralaya** | 1984 | Pembangkit listrik tenaga uap pertama, unit pertama beroperasi 1984 |
 | **Posyandu** (Pos Pelayanan Terpadu) | 1984 | Layanan kesehatan dasar desa (KIA, KB, imunisasi, gizi, diare); Instruksi Bersama 1984, dicanangkan massal 1986 |
-| **Bandara Soekarno-Hatta** | 1985 | Bandara internasional utama Jakarta; dibuka 1985 |
+| **Bandara Soekarno-Hatta** | 1985 | Bandara internasional utama Jakarta; mulai beroperasi 1 Mei 1985, diresmikan Presiden Soeharto, menggantikan Bandara Kemayoran |
 | **KUT** (Kredit Usaha Tani) | 1985 | Kredit modal kerja bagi petani untuk input pertanian modern |
 | **Bendungan Kedungombo**, Sungai Serang | 1985–1989 | Irigasi + PLTA 22,5 MW; menggenangi 37 desa (Boyolali–Sragen–Grobogan) |
 | **Monumen Bumi Gora**, Mataram | 1988 | Monumen padi Gogo Rancah di Taman Udayana; diresmikan Soeharto |
-| **Jamsostek** | 1992 | Jaminan sosial tenaga kerja (UU No. 3/1992); cikal bakal BPJS Ketenagakerjaan |
+| **Jamsostek** | 1992 | Jaminan sosial tenaga kerja (UU No. 3/1992); berubah menjadi BPJS Ketenagakerjaan 1 Januari 2014 (UU 24/2011) |
 | **Bank Muamalat** | 1992 | Bank syariah pertama di Indonesia; mulai beroperasi 1 Mei 1992 |
 | **KTT Gerakan Non-Blok X, Jakarta** | 1992 | Soeharto menjadi ketua Gerakan Non-Blok 1992–1995 |
 | **IDT** (Inpres Desa Tertinggal) | 1993 | Dana langsung bagi desa tertinggal untuk infrastruktur dan ekonomi desa |
@@ -130,6 +148,8 @@ Artikel "Prestasi olahraga jaman Orde Baru" di soehartois.com memuat banyak kesa
 - **BIMAS (batch 7):** artikel swasembada menulis "Bimas (Bimbingan Masyarakat)" — SALAH; yang benar **Bimbingan Massal** (INMAS = Intensifikasi Massal). Rangkaian program padi yang terdokumentasi: Padi Sentra (1958) → BIMAS → INMAS → Insus (1979, yang membawa swasembada 1984) → Supra Insus (1987).
 - **GN-PPP (batch 7):** "Gerakan Nasional Peningkatan Produksi Padi (GN-PPP) 1984" tidak ditemukan dalam daftar program padi Kementan; tidak dipakai.
 - **DZIS 1983 (batch 7):** klaim program "Dana Zakat, Infaq, dan Shadaqah diluncurkan 1983" tidak terverifikasi di sumber lain; tidak dipakai.
+- **PLTP Kamojang (koreksi):** tabel sebelumnya menulis 1983; operasi komersial Unit 1 (30 MW) dimulai 22 Oktober 1982 menurut Ditjen EBTKE Kementerian ESDM — tabel dikoreksi menjadi 1982.
+- **Bendungan Saguling (koreksi tahun mulai dibangun):** tabel sebelumnya menulis 1981–1986; sejumlah sumber sekunder menyebut 1980 atau 1981, tetapi pembangunan bendungan dimulai 1983 (batu pertama 31 Mei 1983) dan PLTA diresmikan 24 Juli 1986 — tabel dikoreksi menjadi 1983–1986.
 - **Biaya irigasi (batch 7):** artikel irigasi sendiri mencatat sisi biaya pembangunan bendungan — penggusuran (Kedungombo, 37 desa) dan perawatan yang buruk sehingga sebagian irigasi tidak berfungsi optimal. Catatan ini dipertahankan di halaman ini sebagai penyeimbang.
 
 ## Sumber
@@ -154,6 +174,13 @@ Artikel "Prestasi olahraga jaman Orde Baru" di soehartois.com memuat banyak kesa
 - "Piala Thomas", Wikipedia bahasa Indonesia: https://id.wikipedia.org/wiki/Piala_Thomas
 - "Tim nasional bulu tangkis Indonesia", Wikipedia bahasa Indonesia: https://id.wikipedia.org/wiki/Tim_nasional_bulu_tangkis_Indonesia
 - "Indonesia pada Asian Games", Wikipedia bahasa Indonesia (perolehan medali Beijing 1990 dan Hiroshima 1994).
+- "Sektor Panas Bumi", Ditjen EBTKE Kementerian ESDM — PLTP Kamojang beroperasi 1982, Unit 1 (30 MW): https://ebtke.esdm.go.id/lintas/id/investasi-ebtke/sektor-panas-bumi/perkembangan-proyek
+- *Profil Kesehatan Indonesia 2024*, Kementerian Kesehatan — 10.268 puskesmas (6.016 non rawat inap + 4.252 rawat inap): https://kemkes.go.id/id/profil-kesehatan-indonesia-2024
+- "Presiden RI Resmikan Proyek Palapa Ring", Kementerian Koordinator Bidang Perekonomian — 12.128 km, 514 kabupaten/kota, diresmikan 14 Oktober 2019: https://ekon.go.id/unduh/publikasi/871/presiden-ri-resmikan-proyek-palapa-ring-misi-pemerintah-satukan-indonesia-lewat-internet-tercapai
+- "BPJS Ketenagakerjaan", Wikipedia bahasa Indonesia — PT Jamsostek berubah menjadi BPJS Ketenagakerjaan 1 Januari 2014 (UU 24/2011): https://id.wikipedia.org/wiki/Badan_Penyelenggara_Jaminan_Sosial_Ketenagakerjaan
+- "Jalan Tol Jagorawi", Wikipedia bahasa Indonesia — diresmikan 9 Maret 1978 (Keppres 3/1978), 59 km: https://id.wikipedia.org/wiki/Jalan_Tol_Jagorawi
+- "Soekarno–Hatta International Airport", Wikipedia bahasa Inggris — beroperasi 1 Mei 1985: https://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport
+- PP No. 7 Tahun 2003 tentang Pendirian Perum Bulog — status Bulog menjadi Perum sejak 20 Januari 2003 (teks peraturan via 123dok): https://text-id.123dok.com/document/yjdn8v6y-index-of-produkhukum-sekneg-pp-no-7-th-2003.html
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
 - Tambahan batch 3 (Program Orde Baru) — serial "50 Program", soehartois.com: Bagian 2 (IDT, KUT, Posyandu, GNOTA): https://www.soehartois.com/2024/10/2-10-program-orde-baru-atau-dimasa.html ; Bagian 3 (Wajar 9 Tahun): https://www.soehartois.com/2024/10/3-20-program-orde-baru-atau-dimasa.html
 - Tambahan batch 7 (Pertanian + Pembangunan) — soehartois.com: Irigasi (Saguling, Karangkates, Kedungombo): https://www.soehartois.com/2023/04/keberhasilan-program-irigasi.html ; Pembangunan Mesjid (Istiqlal): https://www.soehartois.com/2023/04/pembangunan-mesjid-di-era-presiden.html ; Swasembada (BIMAS): https://www.soehartois.com/2024/10/dari-krisis-ekonomi-ke-swasembada.html ; Panen Raya NTB (Bumi Gora): https://www.soehartois.com/2020/02/panen-raya-di-ntb-bukti-keberhasilan.html
