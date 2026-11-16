@@ -17,6 +17,7 @@ tags:
 - orde-baru
 - sahabat
 - widjojo-nitisastro
+- pilar/stabilisasi-ekonomi
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: rendah
@@ -35,6 +36,9 @@ relasi:
   sumber: https://docs.google.com/document/d/14rO8Q-hk1PfLG3OtZVdfBELJytnhj4N7
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://docs.google.com/document/d/14rO8Q-hk1PfLG3OtZVdfBELJytnhj4N7
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
   sumber: https://docs.google.com/document/d/14rO8Q-hk1PfLG3OtZVdfBELJytnhj4N7
 ---
 
