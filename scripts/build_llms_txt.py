@@ -63,7 +63,13 @@ CORE_PAGES = [
     "content/peristiwa/peristiwa-tanjung-priok-1984.md",
     "content/peristiwa/penembakan-misterius-petrus.md",
     "content/peristiwa/kasus-kedung-ombo.md",
-    "content/konsep/asas-tunggal-pancasila.md"
+    "content/konsep/asas-tunggal-pancasila.md",
+    "content/pelajaran/swasembada-pangan-dan-bulog.md",
+    "content/pelajaran/revolusi-sd-inpres-dan-wajib-belajar.md",
+    "content/pelajaran/stabilisasi-hiperinflasi-1966-1970.md",
+    "content/pelajaran/arsitektur-kb-dan-posyandu.md",
+    "content/pelajaran/teknokrasi-dan-disiplin-repelita.md",
+    "content/pelajaran/desentralisasi-anggaran-program-inpres.md",
 ]
 
 
