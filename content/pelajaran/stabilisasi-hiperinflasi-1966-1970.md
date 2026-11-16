@@ -25,6 +25,12 @@ sumber:
   - url: https://pakharto.my.id/hub/orde-baru
     judul: "Halaman wiki Orde Baru (1966–1998) — dibaca langsung 2026-11-16 (pointer angka kunci)"
     tanggal: 2026-11-16
+  - url: https://pakharto.my.id/hub/warisan-orde-baru
+    judul: "Halaman wiki Warisan Orde Baru — dibaca langsung 2026-11-16 (pertumbuhan rata-rata, PDB per kapita)"
+    tanggal: 2026-11-16
+  - url: https://pakharto.my.id/hub/krisis-dan-reformasi-1998
+    judul: "Halaman wiki Krisis Moneter dan Gerakan Reformasi 1998 — dibaca langsung 2026-11-16 (jatuhnya rupiah, LoI IMF, kontras penutup)"
+    tanggal: 2026-11-16
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -36,6 +42,10 @@ relasi:
     objek: "Repelita"
   - predikat: terkait_dengan
     objek: "Peristiwa Malari 1974"
+  - predikat: terkait_dengan
+    objek: "Warisan Orde Baru"
+  - predikat: terkait_dengan
+    objek: "Krisis Moneter dan Gerakan Reformasi 1998"
 ---
 
 # Pelajaran: Stabilisasi Hiperinflasi 1966–1970
@@ -70,7 +80,9 @@ relasi:
 - **Akhir IGGI.** Pemerintah membubarkan IGGI pada 25 Maret 1992 setelah ketegangan dengan Belanda pasca-Santa Cruz 1991; penggantinya, *Consultative Group on Indonesia* (CGI) yang diketuai Bank Dunia, bersidang pertama di Paris pada 16–17 Juli 1992 dan berjalan hingga awal 2007.
 - **Harga politik: Malari.** Pada 15 Januari 1974, [[peristiwa/malari-1974|Malari]] meletus di Jakarta sebagai protes mahasiswa terhadap dominasi modal asing Jepang dan kecemburuan sosial atas keistimewaan konglomerat kroni istana. Pemerintah merespons dengan mewajibkan kepemilikan saham mitra pribumi minimal 51%.
 - **Biaya sosial stabilisasi.** Dampak stabilisasi terhadap daya beli, upah, dan layanan publik pada 1966–1970 [perlu sumber primer] — tidak terdokumentasi di halaman wiki yang dibaca. Draf ini tidak mengklaim stabilisasi itu "tidak menyakitkan" atau sebaliknya.
-- **Peringatan kerapuhan.** Krisis Pertamina 1975 — utang lebih dari US$10,5 miliar yang tidak diketahui pemerintah, Dirut Ibnu Sutowo dicopot 5 Maret 1976 — memperlihatkan sisi rapuh model yang sama: BUMN tanpa pengawasan dapat menumpuk utang yang mengancam cadangan devisa, bahkan di tengah *oil boom*.
+- **Peringatan kerapuhan.** Krisis Pertamina 1975 — perusahaan minyak negara gagal membayar pinjaman jangka pendek US$40 juta kepada sekelompok bank AS pada 18 Februari 1975, gagal bayar yang membuka utang Pertamina yang jauh lebih besar dari yang diketahui pemerintah. Menteri Pertambangan Mohammad Sadli melaporkan total utang Pertamina lebih dari US$10,5 miliar kepada DPR (20 Mei 1976); Bank Indonesia menanggung kewajiban valas Pertamina dan pemerintah merestrukturisasi utangnya; Dirut Pertamina Ibnu Sutowo dicopot 5 Maret 1976 (halaman wiki Ekonomi Orde Baru, Kronologi). Peristiwa ini memperlihatkan sisi rapuh model yang sama: BUMN tanpa pengawasan dapat menumpuk utang yang mengancam cadangan devisa, bahkan di tengah *oil boom*.
+- **Kontras penutup: keruntuhan 1997–1998.** Devaluasi baht Thailand pada Juli 1997 merembet ke rupiah, yang jatuh dari Rp2.450 (Juli 1997) menjadi Rp16.650 per dolar AS pada penutupan 17 Juni 1998 (intraday Rp16.950); cadangan devisa Bank Indonesia terkuras dan utang swasta tercatat lebih dari US$70 miliar (halaman wiki Krisis Moneter dan Gerakan Reformasi 1998, Fakta kunci dan Kronologi).
+- **LoI IMF dan beban lanjutan.** Pada 15 Januari 1998 Soeharto menandatangani *Letter of Intent* paket penyelamatan ekonomi US$43 miliar dengan IMF, yang menyepakati likuidasi 16 bank swasta serta penghapusan subsidi BBM dan monopoli keluarga (halaman wiki Krisis Moneter dan Gerakan Reformasi 1998, Kronologi). Krisis itu mewariskan beban obligasi rekapitalisasi perbankan (BLBI) (halaman wiki Ekonomi Orde Baru, "Apa pelajaran yang bisa kita ambil darinya?").
 
 ## 3. Apa yang bisa dipelajari? (INFERENSI — bukan fakta)
 
@@ -86,12 +98,22 @@ relasi:
 - **Kontribusi tiap instrumen tidak terpisah.** Data yang dibaca tidak memisahkan peran deklarasi kebijakan, PMA, IGGI, dan anggaran berimbang dalam penurunan inflasi. Mengklaim satu instrumen sebagai "penyebab" stabilisasi adalah lompatan.
 - **Devaluasi, PMDN, dan rescheduling tidak terdokumentasi.** Tiga unsur yang lazim disebut dalam narasi stabilisasi ini tidak ada di halaman wiki yang dibaca; draf ini menandainya [perlu sumber primer] dan tidak mengarang angka atau tanggalnya.
 - **Biaya sosial tidak terukur di sini.** Tanpa data daya beli dan layanan publik 1966–1970, draf ini tidak bisa menilai siapa yang menanggung biaya stabilisasi.
+- **Penyebab keruntuhan 1997–1998 tidak bisa dinyatakan satu faktor.** Para peneliti berbeda pendapat: sebagian menekankan kerapuhan domestik (konsentrasi kepemilikan konglomerasi, utang jangka pendek perbankan, KKN), sebagian lain menekankan penularan krisis finansial Asia yang pada saat yang sama melanda Thailand, Korea Selatan, dan Malaysia (halaman wiki Ekonomi Orde Baru, Ringkasan). Draf ini tidak memilih satu penjelasan.
 - **"Mafia Berkeley" adalah julukan.** Istilah itu dipakai halaman wiki Ekonomi Orde Baru untuk Tim Ahli Ekonomi Presiden; draf ini memakainya sebagai julukan yang diatribusikan, bukan sebutan resmi.
+
+## Jelajahi lebih lanjut
+
+Untuk konteks yang lebih luas, halaman-halaman hub terkait:
+
+- [[hub/ekonomi-orde-baru|Ekonomi Orde Baru]] — arsitektur pembangunan ekonomi terencana 1966–1998, termasuk stabilisasi, IGGI, dan krisis Pertamina.
+- [[hub/repelita|Repelita]] — enam tahap perencanaan pembangunan 1969–1998 dan pembiayaan pinjamannya.
+- [[hub/warisan-orde-baru|Warisan Orde Baru]] — lembaga dan infrastruktur yang masih berdiri dan dipakai hari ini, serta data kemiskinan dan pendapatan.
+- [[hub/krisis-dan-reformasi-1998|Krisis Moneter dan Gerakan Reformasi 1998]] — rangkaian krisis dan reformasi 1998 selengkapnya, termasuk peristiwa politik yang tidak dibahas di halaman ini.
 
 ## Sumber
 
-- **Halaman wiki yang dibaca langsung (2026-11-16):** [[hub/ekonomi-orde-baru|Ekonomi Orde Baru]]; [[hub/repelita|Repelita]]; [[hub/orde-baru|Orde Baru (1966–1998)]]; [[hub/warisan-orde-baru|Warisan Orde Baru]] (angka pertumbuhan dan PDB per kapita); [[peristiwa/malari-1974|Malari 1974]] (disebut; detail di halaman peristiwa).
-- **Sumber sebagaimana dikutip halaman-halaman tersebut (belum dibuka langsung oleh penulis draf):** UU No. 2 Tahun 1969 tentang APBN 1969/1970 (JDIH BPK); "Sejarah Kementerian PPN/Bappenas" (bappenas.go.id); John Bresnan, *Managing Indonesia* (1993), Bab 7 "The Pertamina Crisis"; Bank Dunia / BPS (pertumbuhan dan PDB per kapita).
+- **Halaman wiki yang dibaca langsung (2026-11-16):** [[hub/ekonomi-orde-baru|Ekonomi Orde Baru]]; [[hub/repelita|Repelita]]; [[hub/orde-baru|Orde Baru (1966–1998)]]; [[hub/warisan-orde-baru|Warisan Orde Baru]] (angka pertumbuhan dan PDB per kapita); [[hub/krisis-dan-reformasi-1998|Krisis Moneter dan Gerakan Reformasi 1998]] (kontras penutup 1997–1998); [[peristiwa/malari-1974|Malari 1974]] (disebut; detail di halaman peristiwa).
+- **Sumber sebagaimana dikutip halaman-halaman tersebut (belum dibuka langsung oleh penulis draf):** UU No. 2 Tahun 1969 tentang APBN 1969/1970 (JDIH BPK); "Sejarah Kementerian PPN/Bappenas" (bappenas.go.id); John Bresnan, *Managing Indonesia* (1993), Bab 7 "The Pertamina Crisis"; Bank Dunia / BPS (pertumbuhan dan PDB per kapita); Bareksa (2014), *Pergolakan Rupiah dari Rezim Soeharto hingga SBY* (angka rupiah Juni 1998, via halaman Krisis).
 
 ## Catatan presisi
 

@@ -2,8 +2,8 @@
 title: "Kehidupan Rakyat dan Pembangunan Sosial"
 description: "Dinamika kehidupan masyarakat bawah era Orde Baru: Revolusi Hijau pedesaan, program Keluarga Berencana, SD Inpres, Transmigrasi massal, dan pengendalian perburuhan 1969–1998."
 date: 1969-04-01
-updated: 2026-11-14
-last_updated: "2026-11-14"
+updated: 2026-11-16
+last_updated: "2026-11-16"
 entity_type: topik
 entity_id: "kehidupan-rakyat"
 aliases:
@@ -65,19 +65,19 @@ relasi:
 > **Ringkasan:** Kehidupan rakyat pada masa Orde Baru ditandai oleh intervensi negara yang masif dan terstruktur hingga ke tingkat rumah tangga pedesaan melalui program-program pembangunan sosial terpusat. Pemerintah meluncurkan Revolusi Hijau (Bimas/Inmas) yang memodernisasi budidaya padi, program Keluarga Berencana (KB) yang menekan laju pertumbuhan penduduk, pendirian puluhan ribu Sekolah Dasar Inpres (SD Inpres), serta pemindahan jutaan warga melalui Transmigrasi, di samping pengendalian ketat atas pergerakan serikat buruh melalui wadah tunggal dan doktrin Hubungan Industrial Pancasila.
 
 ## Apa pelajaran yang bisa kita ambil darinya?
-Hampir setiap keluarga di Indonesia memiliki kakek-nenek atau orang tua yang riwayat hidupnya dibentuk langsung oleh intervensi sosial Orde Baru: bersekolah di gedung SD Inpres seragam merah-putih, mengikuti program KB dua anak cukup di Posyandu, atau bertransmigrasi membuka lahan perkebunan sawit di Sumatra dan Kalimantan.
+Hampir setiap keluarga di Indonesia memiliki kakek-nenek atau orang tua yang riwayat hidupnya dibentuk langsung oleh intervensi sosial Orde Baru: bersekolah di gedung SD Inpres seragam merah-putih, mengikuti program KB dua anak cukup di Posyandu, atau bertransmigrasi membuka lahan perkebunan sawit di Sumatra dan Kalimantan. Program-program itu mengubah angka-angka dasar kehidupan: produksi beras naik dari 12 juta ton (1969) menjadi 25,8 juta ton (1984), angka fertilitas turun dari 5,6 (1970) menjadi 2,8 (1997), dan 61.807 sekolah SD Inpres dibangun pada 1973–1978.
 
-Secara bersamaan, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahun 1979 menyeragamkan struktur pemerintahan desa di seluruh Indonesia; para peneliti menilai kebijakan ini mengikis keragaman hukum adat lokal (seperti sistem Nagari di Minangkabau atau Marga di Sumatra Selatan) dan menciptakan ketergantungan struktural pemerintah desa pada komando birokrasi pusat yang pola relasinya masih menjadi perdebatan dalam implementasi otonomi daerah dan Dana Desa saat ini.
+Di sisi lain, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahun 1979 menyeragamkan struktur pemerintahan desa di seluruh Indonesia. Para peneliti menilai kebijakan ini mengikis keragaman hukum adat lokal (seperti sistem Nagari di Minangkabau atau Marga di Sumatra Selatan) dan menciptakan ketergantungan struktural pemerintah desa pada komando birokrasi pusat; pola relasi itu masih menjadi perdebatan dalam implementasi otonomi daerah dan Dana Desa saat ini.
 
 ## Fakta kunci
 
-| Bidang Pembangunan | Instrumen Kebijakan Utama | Capaian Kuantitatif Terverifikasi | Konsekuensi Struktural |
+| Bidang Pembangunan | Instrumen Kebijakan Utama | Capaian Kuantitatif Terverifikasi | Catatan / konsekuensi |
 |---|---|---|---|
-| **Pangan & Pertanian** | Revolusi Hijau (Bimas, Inmas, Insus, KUD) | Produksi beras naik dari 12 juta ton (1969) ke 25,8 juta ton (1984) | Monokultur bibit unggul padi, ketergantungan pupuk kimia & pestisida |
-| **Kependudukan** | Badan Koordinasi Keluarga Berencana Nasional (BKKBN) | Angka fertilitas total (*TFR*) turun dari 5,6 (1970) ke 2,8 (1997); terus turun hingga ±2,1 pada 2024 (proyeksi BPS 2020–2050), mendekati level pengganti 2,1 | Meletakkan fondasi bonus demografi Indonesia 2020–2030; BKKBN naik status menjadi Kementerian Kependudukan dan Pembangunan Keluarga pada 21 Okt 2024 (Perpres 180 & 181/2024), dipimpin Wihaji |
+| **Pangan & Pertanian** | Revolusi Hijau (Bimas, Inmas, Insus, KUD) | Produksi beras naik dari 12 juta ton (1969) ke 25,8 juta ton (1984) | Para peneliti mencatat monokultur bibit unggul padi, ketergantungan pupuk kimia & pestisida |
+| **Kependudukan** | Badan Koordinasi Keluarga Berencana Nasional (BKKBN) | Angka fertilitas total (*TFR*) turun dari 5,6 (1970) ke 2,8 (1997); terus turun hingga ±2,1 pada 2024 (proyeksi BPS 2020–2050), mendekati level pengganti 2,1 | Meletakkan fondasi bonus demografi Indonesia 2020–2030 (menurut proyeksi BPS); BKKBN naik status menjadi Kementerian Kependudukan dan Pembangunan Keluarga pada 21 Okt 2024 (Perpres 180 & 181/2024), dipimpin Wihaji |
 | **Pendidikan Dasar** | Instruksi Presiden (Inpres) Pembangunan SD (1973–1983) | 61.807 sekolah dibangun 1973–1978 (Duflo 2001); total ±150.000 unit hingga 1993/1994 | Pemberantasan buta aksara massal; Duflo (peraih Nobel Ekonomi 2019) mengukur dampaknya: +0,12–0,19 tahun sekolah dan +1,5–2,7% upah per sekolah per 1.000 anak |
-| **Mobilitas Penduduk** | Program Transmigrasi Terencana (PIR-Trans) | Pemindahan ~1,7 juta kepala keluarga (±8 juta jiwa) ke luar Jawa | Perubahan lanskap demografi, deforestasi, konflik agraria dengan masyarakat adat; Kementerian Transmigrasi berdiri kembali 21 Okt 2024 (Perpres 172/2024) dengan program "Transmigrasi 5.0" |
-| **Ketenagakerjaan** | Wadah tunggal buruh (FBSI / SPSI) & Hubungan Industrial Pancasila (HIP) | Pemogokan buruh dilarang dan dianggap subversif; pasca-1998 hubungan industrial diatur UU 13/2003, diubah UU 6/2023 (Cipta Kerja), lalu UU Pelindungan Ketenagakerjaan disahkan DPR 6 Okt 2026 | Upah minimum rendah untuk menarik investasi pabrik manufaktur; kebebasan berserikat pulih pasca-1998; MK 168/PUU-XXI/2023 (31 Okt 2024) memerintahkan UU ketenagakerjaan baru yang terpisah dari UU Cipta Kerja |
+| **Mobilitas Penduduk** | Program Transmigrasi Terencana (PIR-Trans) | Pemindahan ~1,7 juta kepala keluarga (±8 juta jiwa) ke luar Jawa | Menurut para peneliti: perubahan lanskap demografi, deforestasi, konflik agraria dengan masyarakat adat; Kementerian Transmigrasi berdiri kembali 21 Okt 2024 (Perpres 172/2024) dengan program "Transmigrasi 5.0" |
+| **Ketenagakerjaan** | Wadah tunggal buruh (FBSI / SPSI) & Hubungan Industrial Pancasila (HIP) | Pemogokan buruh dilarang dan dianggap subversif; pasca-1998 hubungan industrial diatur UU 13/2003, diubah UU 6/2023 (Cipta Kerja), lalu UU Pelindungan Ketenagakerjaan disahkan DPR 6 Okt 2026 | Para pengamat menilai upah minimum dipertahankan rendah untuk menarik investasi pabrik manufaktur; kebebasan berserikat pulih pasca-1998; MK 168/PUU-XXI/2023 (31 Okt 2024) memerintahkan UU ketenagakerjaan baru yang terpisah dari UU Cipta Kerja |
 
 ## Kronologi
 
@@ -87,14 +87,14 @@ Secara bersamaan, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahu
 ### 1970-06-29
 - Presiden [[aktor/soeharto|Soeharto]] membentuk Badan Koordinasi Keluarga Berencana Nasional (BKKBN) melalui Keppres No. 33 Tahun 1970, memelopori kampanye nasional "Dua Anak Cukup, Laki-laki Perempuan Sama Saja" dengan jaringan Posyandu dan kader juru penerang desa.
 
-### 1973-10-18
+### 1973
 - Diterbitkannya Inpres No. 10 Tahun 1973 tentang Pembangunan Gedung Sekolah Dasar (SD Inpres) yang mendanai pendirian ribuan sekolah dasar di pelosok terpencil menggunakan surplus anggaran devisa minyak bumi (*oil boom*).
 
 ### 1979-12-01
-- Pengesahan UU No. 5 Tahun 1979 tentang Pemerintahan Desa: menyeragamkan seluruh struktur sosial masyarakat adat di Indonesia menjadi format desa gaya Jawa yang dikepalai oleh Kepala Desa dan diawasi oleh Lembaga Ketahanan Masyarakat Desa (LKMD).
+- Pengesahan UU No. 5 Tahun 1979 tentang Pemerintahan Desa: menyeragamkan struktur pemerintahan desa di seluruh Indonesia menjadi format yang dikepalai oleh Kepala Desa dan diawasi oleh Lembaga Ketahanan Masyarakat Desa (LKMD).
 
 ### 1985-11-26
-- Federasi Buruh Seluruh Indonesia (FBSI) diubah secara sepihak oleh pemerintah menjadi Serikat Pekerja Seluruh Indonesia (SPSI), menjadikannya wadah korporatis tunggal serikat pekerja di bawah binaan Departemen Tenaga Kerja dan [[lembaga/kopkamtib|Kopkamtib]].
+- Federasi Buruh Seluruh Indonesia (FBSI) diubah oleh pemerintah menjadi Serikat Pekerja Seluruh Indonesia (SPSI), menjadikannya wadah tunggal serikat pekerja di bawah binaan Departemen Tenaga Kerja dan [[lembaga/kopkamtib|Kopkamtib]].
 
 ### 1993-05-08
 - Terbunuhnya Marsinah, aktivis buruh PT Catur Putra Surya di Porong, Sidoarjo, Jawa Timur, setelah memimpin aksi pemogokan menuntut kenaikan upah sesuai instruksi gubernur. Kasus ini menjadi sorotan internasional mengenai perlakuan terhadap hak-hak buruh oleh aparat militer teritorial Orde Baru.
@@ -127,6 +127,7 @@ Secara bersamaan, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahu
 - **Jan Breman (1982):** *Control of Land and Labour in Colonial and Post-Colonial Java* — Kajian sosiologi kritis mengenai modernisasi pertanian dan buruh tani di Jawa.
 
 ## Catatan presisi
-- **Dua Sisi Revolusi Hijau:** Peningkatan panen padi melipatgandakan ketersediaan kalori nasional, namun menyingkirkan peran buruh tani perempuan yang sebelumnya bekerja memotong padi dengan alat tradisional ani-ani (tergantikan oleh sistem tebasan dan sabit), serta memusnahkan ratusan varietas padi lokal Nusantara.
+- **Dua Sisi Revolusi Hijau:** Peningkatan panen padi melipatgandakan ketersediaan kalori nasional. Menurut para peneliti, perubahan ini juga menggeser peran buruh tani perempuan yang sebelumnya bekerja memotong padi dengan alat tradisional ani-ani (tergantikan oleh sistem tebasan dan sabit), dan ratusan varietas padi lokal Nusantara hilang.
 - **Beban Utang Transmigrasi:** Program Transmigrasi didanai dengan pinjaman lunak Bank Dunia. Di beberapa wilayah sasaran (seperti Riau, Kalimantan Barat, dan Papua), proyek mengalami persoalan ketidakcocokan lahan gambut, kegagalan infrastruktur jalan, dan ketegangan hak ulayat dengan masyarakat adat setempat.
 - **Kemiskinan kini (BPS):** Tingkat kemiskinan Maret 2025 tercatat 8,47% (23,85 juta jiwa), turun menjadi 8,25% (23,36 juta jiwa) pada September 2025 — angka terendah dalam dua dekade terakhir menurut BPS. [Inferensi: penurunan ini melanjutkan tren jangka panjang sejak era Orde Baru, tetapi tidak dengan sendirinya membuktikan pemerataan — ketimpangan (gini 0,363 pada September 2025) dan kelompok rentan miskin tetap menjadi catatan.]
+- **Tanggal Inpres 10/1973:** Tanggal persis Inpres No. 10 Tahun 1973 (pernah ditulis 18 Oktober 1973 di halaman ini) belum terverifikasi di sumber mana pun dan menunggu teks Inpres; halaman ini memakai tahun 1973 saja.

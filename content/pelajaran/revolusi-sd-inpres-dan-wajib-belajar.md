@@ -34,6 +34,8 @@ relasi:
     objek: "Kehidupan Rakyat dan Pembangunan Sosial"
   - predikat: terkait_dengan
     objek: "Repelita"
+  - predikat: terkait_dengan
+    objek: "Warisan Orde Baru"
 ---
 
 # Pelajaran: Revolusi SD Inpres dan Wajib Belajar
@@ -63,6 +65,7 @@ relasi:
 | Wajib Belajar 6 tahun → 9 tahun | 1984 → 1994 | Halaman wiki Warisan Orde Baru |
 
 - **Gedung seragam.** SD Inpres dikenal dengan gedung seragam merah-putih yang hampir setiap keluarga Indonesia kenal dari riwayat orang tua atau kakek-neneknya — penanda fisik program yang masih berdiri di banyak tempat hingga kini.
+- **GNOTA (1996).** Gerakan Nasional Orang Tua Asuh mengajak masyarakat mampu menjadi "orang tua asuh" bagi anak miskin agar tetap sekolah (halaman wiki Warisan Orde Baru, tabel Fakta kunci) — program pendamping akses pendidikan pada akhir era Orde Baru, terpisah dari pembangunan gedung SD Inpres dan Wajib Belajar.
 - **Yang tidak terdokumentasi di wiki.** Halaman-halaman wiki yang dibaca tidak mencatat penilaian atas mutu guru, ketersediaan buku, atau perawatan gedung SD Inpres — sisi kualitas program ini [perlu sumber primer]. Draf ini tidak mengklaim program ini bermutu tinggi atau rendah; yang terukur hanyalah kuantitas gedung dan dampak upah/sekolah dari Duflo.
 
 ## 3. Apa yang bisa dipelajari? (INFERENSI — bukan fakta)
@@ -80,6 +83,14 @@ relasi:
 - **Tanggal Inpres belum terverifikasi.** Draf ini memakai tahun 1973 dan nomor Inpres saja; tanggal hari/bulan penetapan memerlukan teks Inpres itu sendiri.
 - **Buta huruf tidak diukur di sini.** Tanpa angka melek huruf sebelum/sesudah, draf ini tidak bisa menyatakan seberapa besar penurunan buta huruf yang disebabkan program ini.
 - **Konteks dana tidak bisa direplikasi begitu saja.** Pendanaan dari surplus minyak adalah kondisi historis spesifik; pelajaran tentang skala program tidak otomatis berlaku pada kondisi fiskal yang berbeda.
+
+## Jelajahi lebih lanjut
+
+Untuk konteks yang lebih luas, halaman-halaman hub terkait:
+
+- [[hub/kehidupan-rakyat|Kehidupan Rakyat dan Pembangunan Sosial]] — SD Inpres, Revolusi Hijau, dan program pembangunan sosial dalam konteks kehidupan rakyat.
+- [[hub/warisan-orde-baru|Warisan Orde Baru]] — lembaga dan infrastruktur yang masih berdiri dan dipakai hari ini, termasuk SD Inpres, Wajib Belajar, dan GNOTA.
+- [[hub/repelita|Repelita]] — enam tahap perencanaan pembangunan 1969–1998, termasuk pendanaan minyak Repelita II.
 
 ## Sumber
 

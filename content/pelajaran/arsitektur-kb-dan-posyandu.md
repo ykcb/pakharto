@@ -45,7 +45,7 @@ relasi:
 
 - **BKKBN.** Presiden Soeharto membentuk Badan Koordinasi Keluarga Berencana Nasional (BKKBN) melalui Keppres No. 33 Tahun 1970 pada 29 Juni 1970, memelopori kampanye nasional "Dua Anak Cukup, Laki-laki Perempuan Sama Saja" dengan jaringan Posyandu dan kader juru penerang desa.
 - **Orkestrasi jangka panjang.** Haryono Suyono — Kepala BKKBN terlama (1983–1998) — memimpin orkestrasi kampanye sosial KB hingga ke tingkat desa. Keberlangsungan kepemimpinan 15 tahun ini adalah bagian dari fakta kelembagaan program, bukan penilaian.
-- **Puskesmas.** Pusat kesehatan masyarakat di kecamatan berdiri sejak 1968 sebagai layanan kesehatan dasar, terutama pedesaan. Pada 2024 tercatat 10.268 unit (Kementerian Kesehatan, *Profil Kesehatan Indonesia 2024*), dengan target 2.082 puskesmas baru sampai 2029.
+- **Puskesmas.** Pusat kesehatan masyarakat di kecamatan berdiri sejak 1968 sebagai layanan kesehatan dasar, terutama pedesaan. Pada 2024 tercatat 10.268 unit — terdiri atas 6.016 puskesmas non rawat inap dan 4.252 puskesmas rawat inap (Kementerian Kesehatan, *Profil Kesehatan Indonesia 2024*) — dengan target 2.082 puskesmas baru sampai 2029.
 - **Posyandu.** Pos Pelayanan Terpadu berdiri 1984 — Instruksi Bersama 1984, dicanangkan massal 1986 — melayani kesehatan dasar desa: kesehatan ibu dan anak (KIA), KB, imunisasi, gizi, dan diare.
 - **Pengakuan internasional.** Soeharto menerima penghargaan kependudukan PBB (*UN Population Award*) 1989 sebagai tokoh sentral di balik program ini.
 - **Kelanjutan kelembagaan.** Pada 21 Oktober 2024 BKKBN naik status menjadi Kementerian Kependudukan dan Pembangunan Keluarga/BKKBN (Perpres No. 180 & 181 Tahun 2024), dipimpin Wihaji yang merangkap Kepala BKKBN.
@@ -77,6 +77,13 @@ relasi:
 - **Transmigrasi bukan bagian pilar ini.** Program Transmigrasi (pemindahan sekitar 1,7 juta kepala keluarga ke luar Jawa) adalah kebijakan mobilitas penduduk dengan logika, pendanaan (pinjaman lunak Bank Dunia), dan konsekuensi (deforestasi, konflik agraria) yang berbeda. Melipatnya ke dalam "arsitektur KB" akan mengaburkan keduanya. Draf ini tidak mengklaim kaitan programatik antara KB dan transmigrasi.
 - **Angka peserta tidak dicantumkan.** Jumlah peserta KB (akseptor) per tahun [perlu sumber primer] — draf ini tidak mencantumkan angka kepesertaan.
 - **"Dua anak cukup" adalah slogan kampanye.** Slogan itu dikutip sebagai fakta kampanye, bukan sebagai rekomendasi wiki tentang jumlah anak ideal.
+
+## Jelajahi lebih lanjut
+
+Untuk konteks yang lebih luas, halaman-halaman hub terkait:
+
+- [[hub/kehidupan-rakyat|Kehidupan Rakyat dan Pembangunan Sosial]] — program KB, BKKBN, dan dinamika kehidupan rakyat dalam konteks pembangunan sosial.
+- [[hub/warisan-orde-baru|Warisan Orde Baru]] — lembaga dan infrastruktur yang masih berdiri dan dipakai hari ini, termasuk Puskesmas dan Posyandu.
 
 ## Sumber
 

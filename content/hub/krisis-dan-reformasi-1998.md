@@ -2,8 +2,8 @@
 title: "Krisis Moneter dan Gerakan Reformasi 1998"
 description: "Rangkaian krisis ekonomi dan politik penutup era Orde Baru: depresiasi rupiah, kerusuhan Mei 1998, pendudukan Gedung DPR/MPR oleh mahasiswa, hingga pengunduran diri Presiden Soeharto pada 21 Mei 1998."
 date: 1997-07-02
-updated: 2026-11-14
-last_updated: "2026-11-14"
+updated: 2026-11-16
+last_updated: "2026-11-16"
 entity_type: topik
 entity_id: "krisis-dan-reformasi-1998"
 aliases:
@@ -51,14 +51,14 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-> **Ringkasan:** Krisis Moneter dan Gerakan Reformasi 1998 adalah rangkaian peristiwa dramatis yang mengakhiri 32 tahun kekuasaan Presiden Soeharto. Bermula dari penularan krisis finansial Asia pada Juli 1997 yang menghancurkan nilai tukar Rupiah dari Rp2.450 (Juli 1997) menjadi Rp16.650 per Dolar AS (Juni 1998), krisis berkembang menjadi krisis kepercayaan politik total pasca-terpilihnya kembali Soeharto dalam Sidang Umum MPR Maret 1998. Tertembaknya empat mahasiswa Universitas Trisakti pada 12 Mei memicu kerusuhan massal di Jakarta dan kota-kota besar, disusul pendudukan gedung parlemen oleh puluhan ribu mahasiswa dan pembangkangan 14 menteri Kabinet Pembangunan VII, yang memaksa Soeharto menyatakan berhenti pada 21 Mei 1998.
+> **Ringkasan:** Krisis Moneter dan Gerakan Reformasi 1998 adalah rangkaian peristiwa yang mengakhiri 32 tahun kekuasaan Presiden Soeharto. Bermula dari penularan krisis finansial Asia pada Juli 1997 yang menjatuhkan nilai tukar Rupiah dari Rp2.450 (Juli 1997) menjadi Rp16.650 per Dolar AS (Juni 1998), krisis berkembang menjadi krisis kepercayaan politik pasca-terpilihnya kembali Soeharto dalam Sidang Umum MPR Maret 1998. Tertembaknya empat mahasiswa Universitas Trisakti pada 12 Mei memicu kerusuhan massal di Jakarta dan kota-kota besar, disusul pendudukan gedung parlemen oleh puluhan ribu mahasiswa dan pembangkangan 14 menteri Kabinet Pembangunan VII, yang berakhir dengan Soeharto menyatakan berhenti pada 21 Mei 1998.
 
 ## Apa pelajaran yang bisa kita ambil darinya?
+Krisis 1997–1998 adalah krisis regional — Thailand, Korea Selatan, dan Malaysia mengalami kejatuhan mata uang dan resesi pada periode yang sama, sehingga penjelasan yang hanya bertumpu pada faktor domestik tidak lengkap. Di Indonesia, krisis itu berkembang menjadi krisis kepercayaan politik dan berakhir dengan pernyataan berhenti Presiden Soeharto pada 21 Mei 1998: “saya memutuskan untuk menyatakan berhenti dari jabatan saya sebagai Presiden Republik Indonesia”. Suara pihak yang jatuh ini melengkapi narasi perubahan kekuasaan di bawah ini.
+
 Gerakan Reformasi 1998 adalah momen historis di mana generasi muda (mahasiswa lintas kampus dari seluruh penjuru Indonesia) menjadi motor penggerak utama perubahan kekuasaan — yang oleh para aktivisnya disebut penggulingan rezim otoriter. Sejumlah tatanan demokrasi yang dinikmati anak muda Indonesia hari ini — pemilu langsung, kebebasan pers, kebebasan berpendapat dan berkumpul, penghapusan Dwifungsi ABRI, pembatasan masa jabatan presiden, serta pembentukan lembaga antikorupsi (KPK) — lahir dari rangkaian perjuangan 1998 yang menelan korban jiwa dan luka-luka.
 
-Di sisi lain, trauma kerusuhan massal 13–15 Mei 1998 yang menelan ribuan korban jiwa dan kekerasan seksual meluas terhadap perempuan etnis Tionghoa — TGPF mendokumentasikan banyak kasus, meski sejauh mana kekerasan itu diorganisasi secara sistemik masih diperdebatkan — menjadi pengingat abadi tentang bahayanya manipulasi sentimen rasial dan kegagalan negara dalam melindungi warganya di saat krisis politik memuncak.
-
-Catatan penyeimbang: krisis 1997–1998 adalah krisis regional — Thailand, Korea Selatan, dan Malaysia mengalami kejatuhan mata uang dan resesi pada periode yang sama, sehingga penjelasan yang hanya bertumpu pada faktor domestik tidak lengkap. Dalam pernyataan berhentinya pada 21 Mei 1998, Soeharto menyatakan “saya memutuskan untuk menyatakan berhenti dari jabatan saya sebagai Presiden Republik Indonesia” — suara pihak yang jatuh ini melengkapi narasi perubahan kekuasaan di atas.
+Di sisi lain, trauma kerusuhan massal 13–15 Mei 1998 yang menelan lebih dari seribu korban jiwa dan kekerasan seksual meluas terhadap perempuan etnis Tionghoa — TGPF mendokumentasikan banyak kasus, meski sejauh mana kekerasan itu diorganisasi secara sistemik masih diperdebatkan — menjadi, menurut para pengamat, pengingat tentang bahayanya manipulasi sentimen rasial dan kegagalan negara dalam melindungi warganya di saat krisis politik memuncak.
 
 ## Fakta kunci
 
@@ -75,19 +75,19 @@ Catatan penyeimbang: krisis 1997–1998 adalah krisis regional — Thailand, Kor
 ## Kronologi
 
 ### 1997-07-02
-- Pemerintah Thailand mengambangkan mata uang Baht (serangan spekulasi George Soros), memicu efek domino penarikan modal asing (*capital flight*) di Asia Tenggara yang menghantam sektor perbankan dan korporasi Indonesia yang sarat utang valas jangka pendek tanpa lindung nilai (*unhedged*).
+- Pemerintah Thailand mengambangkan mata uang Baht (serangan spekulasi yang antara lain dikaitkan dengan George Soros), memicu efek domino penarikan modal asing (*capital flight*) di Asia Tenggara yang menghantam sektor perbankan dan korporasi Indonesia yang sarat utang valas jangka pendek tanpa lindung nilai (*unhedged*).
 
 ### 1998-01-15
 - Presiden [[aktor/soeharto|Soeharto]] menandatangani *Letter of Intent* (LoI) paket penyelamatan ekonomi US$43 miliar dengan IMF di hadapan Michel Camdessus, menyepakati likuidasi 16 bank swasta dan penghapusan subsidi BBM serta monopoli keluarga.
 
 ### 1998-03-11
-- Sidang Umum MPR RI secara aklamasi kembali memilih Soeharto sebagai Presiden RI untuk periode ketujuh (1998–2003) didampingi B. J. Habibie sebagai Wakil Presiden. Tiga hari kemudian, diumumkan susunan Kabinet Pembangunan VII yang menuai penolakan keras publik karena menyertakan putri sulung Presiden (Siti Hardijanti Rukmana/Tutut) sebagai Menteri Sosial dan pengusaha kroni Bob Hasan sebagai Menteri Perindustrian dan Perdagangan.
+- Sidang Umum MPR RI secara aklamasi kembali memilih Soeharto sebagai Presiden RI untuk periode ketujuh (1998–2003) didampingi B. J. Habibie sebagai Wakil Presiden. Tiga hari kemudian, diumumkan susunan Kabinet Pembangunan VII yang menuai penolakan keras publik karena menyertakan putri sulung Presiden (Siti Hardijanti Rukmana/Tutut) sebagai Menteri Sosial dan pengusaha Bob Hasan, yang oleh para kritikus disebut kroni Presiden, sebagai Menteri Perindustrian dan Perdagangan.
 
 ### 1998-05-12
 - **Tragedi Trisakti:** Aksi unjuk rasa damai ribuan civitas akademika Universitas Trisakti di Grogol, Jakarta Barat, dihadang barikade aparat militer dan kepolisian. Saat mahasiswa hendak kembali ke dalam kampus pada sore hari, terdengar tembakan peluru tajam dari jembatan layang yang menewaskan empat mahasiswa di tempat.
 
 ### 1998-05-13
-- Kerusuhan massal merebak di Jakarta, Solo, Surabaya, dan Medan. Pembakaran pusat perbelanjaan, penjarahan toko, dan kerusuhan etnis yang terorganisir melumpuhkan ibu kota selama tiga hari berturut-turut. Presiden Soeharto yang sedang menghadiri KTT G-15 di Kairo, Mesir, memutuskan mempercepat kepulangannya.
+- Kerusuhan massal merebak di Jakarta, Solo, Surabaya, dan Medan. Pembakaran pusat perbelanjaan, penjarahan toko, dan kerusuhan etnis yang terorganisir — sebagaimana didokumentasikan TGPF — melumpuhkan ibu kota selama tiga hari berturut-turut. Presiden Soeharto yang sedang menghadiri KTT G-15 di Kairo, Mesir, memutuskan mempercepat kepulangannya.
 
 ### 1998-05-18
 - Ketua DPR/MPR Harmoko, didampingi pimpinan dewan lainnya, menggelar konferensi pers resmi di Gedung MPR/DPR Senayan yang menyatakan pimpinan dewan meminta Presiden Soeharto secara arif dan bijaksana mengundurkan diri demi persatuan bangsa. Mahasiswa mulai berdatangan dan menduduki atap kubah hijau gedung parlemen.
@@ -109,9 +109,11 @@ Catatan penyeimbang: krisis 1997–1998 adalah krisis regional — Thailand, Kor
 
 ## Gema reformasi: 2025–2026
 
+Bagian ini mencatat perkembangan 2025–2026 yang mengaitkan diri dengan agenda reformasi; penilaian atas perkembangan itu diatribusikan kepada pihak yang menyatakannya.
+
 - **Aksi "Indonesia Gelap" (17–19 Februari 2025):** Ribuan mahasiswa dari berbagai kampus turun ke jalan — dikoordinasi BEM Seluruh Indonesia — menyuarakan 13 tuntutan kepada pemerintahan Prabowo Subianto–Gibran Rakabuming Raka, antara lain pendidikan gratis dan pembatalan pemangkasan anggaran pendidikan, pencabutan PSN bermasalah, penolakan revisi UU Minerba, penolakan multifungsi ABRI, pencabutan Inpres No. 1 Tahun 2025 tentang efisiensi anggaran, evaluasi program Makan Bergizi Gratis, dan reformasi Polri. Menteri Sekretaris Negara Prasetyo Hadi menemui massa aksi pada 20 Februari 2025.
 - **28 tahun reformasi (Mei 2026):** Komnas Perempuan menggelar pameran, talk show, dan panggung ekspresi "Merawat Ingatan, Menolak Penyangkalan" di Taman Ismail Marzuki pada 25 Mei 2026, menegaskan reformasi belum tuntas selama keadilan bagi korban Mei 1998 diabaikan. Mahasiswa Universitas Trisakti berunjuk rasa di depan Kejaksaan Agung pada 12 Mei 2026, mendesak penuntasan kasus Tragedi Trisakti; berkas penyelidikan Komnas HAM atas Trisakti, Semanggi I, dan Semanggi II disebut masih bolak-balik antara Komnas HAM dan Kejaksaan Agung. Aksi Kamisan ke-909 (28 Mei 2026) mengangkat tema pengusutan penculikan dan penghilangan aktivis pro-demokrasi 1997–1998.
-- [Inferensi: berulangnya tuntutan penuntasan kasus 1998 pada setiap peringatan Mei — dari Indonesia Gelap hingga Aksi Kamisan — menunjukkan agenda reformasi di bidang keadilan dan kebenaran belum ditutup, meskipun institusi demokrasi hasil reformasi (pemilu langsung, kebebasan pers, pembatasan masa jabatan) sudah berjalan.]
+- [Inferensi: berulangnya tuntutan penuntasan kasus 1998 pada peringatan Mei 2025–2026 — dari Indonesia Gelap hingga Aksi Kamisan — menunjukkan agenda reformasi di bidang keadilan dan kebenaran belum ditutup, meskipun institusi demokrasi hasil reformasi (pemilu langsung, kebebasan pers, pembatasan masa jabatan) sudah berjalan.]
 
 ## Sumber
 - **Arsip Pidato Pengunduran Diri Presiden Soeharto (21 Mei 1998):** Sekretariat Negara RI.
@@ -124,6 +126,6 @@ Catatan penyeimbang: krisis 1997–1998 adalah krisis regional — Thailand, Kor
 - **28 Tahun Tragedi Trisakti (2026):** Aksi mahasiswa di Kejaksaan Agung, 12 Mei 2026 — https://obrolannegeri.com/2026/05/13/28-tahun-tragedi-trisakti-mahasiswa-desak-kejagung-usut-tuntas-kasus-1998/
 
 ## Catatan presisi
-- **Kontroversi Surat Pengunduran Diri vs Pertanggungjawaban:** Soeharto memilih mekanisme "menyatakan berhenti" (*resignation*) di hadapan Mahkamah Agung di Istana Negara, bukan menyampaikan pertanggungjawaban di hadapan Sidang Istimewa MPR, untuk menghindari forum politik parlemen yang dapat memperdebatkan legalitas transisi kekuasaan ke BJ Habibie.
+- **Kontroversi Surat Pengunduran Diri vs Pertanggungjawaban:** Soeharto memilih mekanisme "menyatakan berhenti" (*resignation*) di hadapan Mahkamah Agung di Istana Negara, bukan menyampaikan pertanggungjawaban di hadapan Sidang Istimewa MPR. Para pengamat menilai pilihan itu menghindari forum politik parlemen yang dapat memperdebatkan legalitas transisi kekuasaan ke BJ Habibie.
 - **Status Korban Penghilangan Paksa:** Sepanjang awal 1998, Tim Mawar Kopassus terbukti menculik aktivis mahasiswa dan pro-demokrasi. Sebagian aktivis dilepaskan (seperti Desmond J. Mahesa dan Pius Lustrilanang), namun 13 aktivis lainnya (termasuk penyair Wiji Thukul) hingga hari ini masih belum ditemukan keberadaannya.
 - **Varian angka korban kerusuhan Mei:** TGPF mencatat 1.188 orang tewas (angka yang dipakai halaman ini), sementara Komnas Perempuan dalam peringatan 28 tahun reformasi (2026) menyebut "sedikitnya 1.190 orang". Perbedaan kecil ini mencerminkan perbedaan pendataan antar-lembaga, bukan fakta yang bertentangan.

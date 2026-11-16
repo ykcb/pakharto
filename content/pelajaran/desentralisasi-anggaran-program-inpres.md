@@ -35,6 +35,8 @@ relasi:
     objek: "Kehidupan Rakyat dan Pembangunan Sosial"
   - predikat: terkait_dengan
     objek: "Pelajaran: Gotong Royong"
+  - predikat: terkait_dengan
+    objek: "Warisan Orde Baru"
 ---
 
 # Pelajaran: Desentralisasi Anggaran Program Inpres
@@ -49,7 +51,7 @@ relasi:
 
 - **Awal: Keppres No. 16 Tahun 1969.** Bantuan Pembangunan Desa ditetapkan lewat Keppres No. 16 Tahun 1969 tentang Bantuan Berupa Subsidi Kepada Desa (26 Februari 1969): subsidi Rp100.000 untuk setiap desa, satu kali, sejalan dengan dimulainya Repelita I. (Koreksi yang sudah diterapkan di halaman wiki Gotong Royong: dasarnya Keppres ini, bukan "Inpres No. 1/1969" — instrumen itu tidak ditemukan.)
 - **Berlanjut tahunan lewat Inpres.** Setelah 1969, Bantuan Pembangunan Desa diatur tahunan lewat Inpres — contoh terverifikasi: Inpres No. 9/1979 dan Inpres No. 1/1982 (Rp1.250.000 per desa, termasuk Rp250.000 untuk PKK).
-- **SD Inpres sebagai bagiannya.** Program Inpres terbesar adalah pembangunan SD Inpres (Inpres No. 10 Tahun 1973): 61.807 sekolah dibangun 1973–1978 dari surplus devisa minyak, total sekitar 150.000 unit hingga 1993/1994. (Detail program ini diuraikan pada draf pilar "Revolusi SD Inpres dan Wajib Belajar".)
+- **SD Inpres sebagai bagiannya.** Program Inpres terbesar adalah pembangunan SD Inpres (Inpres No. 10 Tahun 1973): 61.807 sekolah dibangun 1973–1978 dari surplus devisa minyak, total sekitar 150.000 unit hingga 1993/1994. Program ini berjalan dalam rentang Inpres Pembangunan SD 1973–1983 (halaman wiki Kehidupan Rakyat, Fakta kunci). (Detail program ini diuraikan pada draf pilar "Revolusi SD Inpres dan Wajib Belajar".)
 - **Pasar Inpres dan Jalan Inpres.** Keduanya disebut di halaman wiki Kehidupan Rakyat sebagai program Inpres yang diprakarsai Soeharto (bersama SD Inpres), tetapi rincian — tahun, anggaran, cakupan — [perlu sumber primer]. Draf ini tidak mengarangnya.
 - **Penghijauan.** Program penghijauan sebagai bagian dari Program Inpres [perlu sumber primer] — tidak terdokumentasi di halaman wiki kurasi yang dibaca.
 - **IDT.** Inpres Desa Tertinggal (IDT, 1993) menyalurkan dana langsung bagi desa tertinggal untuk infrastruktur dan ekonomi desa — bentuk akhir Program Inpres era Orde Baru yang terdokumentasi di halaman wiki Warisan Orde Baru.
@@ -78,6 +80,13 @@ relasi:
 - **Perbandingan Inpres vs Dana Desa bukan perbandingan apel-ke-apel.** Keduanya berbeda rezim hukum, skala harga, dan logika kewenangan. Angka Rp100.000 (1969) dan Rp71 triliun (2025) tidak boleh dibandingkan tanpa penyesuaian inflasi dan konteks — draf ini tidak membandingkannya secara kuantitatif.
 - **"Bandes" sebagai singkatan.** Singkatan "Bandes" untuk Bantuan Pembangunan Desa tidak terverifikasi di halaman wiki yang dibaca; draf ini memakai nama lengkapnya.
 
+## Jelajahi lebih lanjut
+
+Untuk konteks yang lebih luas, halaman-halaman hub terkait:
+
+- [[hub/kehidupan-rakyat|Kehidupan Rakyat dan Pembangunan Sosial]] — SD Inpres, UU Desa 1979, dan Dana Desa dalam konteks kehidupan rakyat.
+- [[hub/warisan-orde-baru|Warisan Orde Baru]] — lembaga dan infrastruktur yang masih berdiri dan dipakai hari ini, termasuk IDT.
+
 ## Sumber
 
 - **Halaman wiki yang dibaca langsung (2026-11-16):** [[pelajaran/gotong-royong|Pelajaran: Gotong Royong]]; [[hub/kehidupan-rakyat|Kehidupan Rakyat dan Pembangunan Sosial]]; [[hub/warisan-orde-baru|Warisan Orde Baru]].
@@ -87,4 +96,5 @@ relasi:
 
 - Dasar Bantuan Pembangunan Desa 1969 adalah Keppres No. 16/1969 — bukan "Inpres No. 1/1969" (instrumen itu tidak ditemukan; koreksi sudah diterapkan di halaman wiki Gotong Royong).
 - LKMD dibentuk Keppres No. 28/1980 — bukan UU No. 5/1979.
+- PNPM (2007; pendahulunya PPK 1998) lebih muda dari Orde Baru dan tidak termasuk program era Orde Baru — jangan mencatatnya sebagai program Inpres (halaman wiki Warisan Orde Baru, Batas data).
 - Penanda [perlu sumber primer] pada draf ini: (1) rincian Pasar Inpres dan Jalan Inpres; (2) program penghijauan; (3) efektivitas/penyelewengan dana Inpres; (4) singkatan "Bandes".

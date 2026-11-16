@@ -2,8 +2,8 @@
 title: "Ekonomi Orde Baru"
 description: "Arsitektur pembangunan ekonomi terencana era Orde Baru: stabilisasi moneter, Rencana Pembangunan Lima Tahun (Repelita), pengelolaan modal asing, konglomerasi, dan utang luar negeri 1966–1998."
 date: 1966-08-11
-updated: 2026-11-13
-last_updated: "2026-11-13"
+updated: 2026-11-16
+last_updated: "2026-11-16"
 entity_type: topik
 entity_id: "ekonomi-orde-baru"
 aliases:
@@ -52,14 +52,14 @@ relasi:
     sumber: https://soehartolibrary.id/
 ---
 
-> **Ringkasan:** Ekonomi Orde Baru adalah model pembangunan terpusat yang dipelopori oleh teknokrat ekonomi (Tim Ahli Ekonomi Presiden / "Mafia Berkeley") di bawah pimpinan Presiden Soeharto. Dimulai dengan stabilisasi hiperinflasi 650% pada 1966, rezim menerapkan undang-undang penanaman modal liberal, pembiayaan utang via IGGI/CGI, dan Rencana Pembangunan Lima Tahun (Repelita) yang berhasil mencatat pertumbuhan ekonomi rata-rata 7% per tahun serta swasembada beras pada 1984, namun rapuh: para peneliti berbeda pendapat soal penyebab keruntuhan moneter 1997–1998 — sebagian menekankan kerapuhan domestik (konsentrasi kepemilikan konglomerasi, utang jangka pendek perbankan, KKN), sebagian lain menekankan penularan krisis finansial Asia yang pada saat yang sama melanda Thailand, Korea Selatan, dan Malaysia.
+> **Ringkasan:** Ekonomi Orde Baru adalah model pembangunan terpusat yang dipelopori oleh teknokrat ekonomi (Tim Ahli Ekonomi Presiden / "Mafia Berkeley") di bawah pimpinan Presiden Soeharto. Dimulai dengan stabilisasi hiperinflasi 650% pada 1966, rezim menerapkan undang-undang penanaman modal liberal, pembiayaan utang via IGGI/CGI, dan Rencana Pembangunan Lima Tahun (Repelita) yang berhasil mencatat pertumbuhan ekonomi rata-rata 7% per tahun serta swasembada beras pada 1984. Model yang sama berakhir pada keruntuhan moneter 1997–1998, yang penyebabnya masih diperdebatkan para peneliti: sebagian menekankan kerapuhan domestik (konsentrasi kepemilikan konglomerasi, utang jangka pendek perbankan, KKN), sebagian lain menekankan penularan krisis finansial Asia yang pada saat yang sama melanda Thailand, Korea Selatan, dan Malaysia.
 
 ## Apa pelajaran yang bisa kita ambil darinya?
-Struktur ekonomi Indonesia hari ini—mulai dari dominasi konglomerasi swasta skala besar di sektor sumber daya alam, ketergantungan APBN pada utang luar negeri, hingga format kepemilikan tanah skala perkebunan dan tambang—merupakan warisan langsung dari kerangka hukum dan konsesi yang diterbitkan pada masa Orde Baru. 
+Kerangka ekonomi Orde Baru mewariskan fondasi yang masih dipakai hingga kini: jaringan infrastruktur (jalan, irigasi, listrik pedesaan), BUMN-BUMN strategis, industri pupuk dan baja, serta sistem logistik pangan (Bulog) — capaian yang datanya tercatat dalam tabel Fakta kunci di bawah.
+
+Di sisi lain, menurut para pengamat, struktur ekonomi Indonesia hari ini — mulai dari dominasi konglomerasi swasta skala besar di sektor sumber daya alam, ketergantungan APBN pada utang luar negeri, hingga format kepemilikan tanah skala perkebunan dan tambang — merupakan warisan langsung dari kerangka hukum dan konsesi yang diterbitkan pada masa Orde Baru.
 
 Krisis 1998 yang mewariskan beban obligasi rekapitalisasi perbankan (BLBI) puluhan tahun hingga ke generasi milenial dan Gen Z menunjukkan — menurut para pengamat — bagaimana ketiadaan transparansi kelembagaan antara regulator dan konglomerasi bisnis dapat melumpuhkan daya beli, lapangan kerja, dan stabilitas mata uang dalam hitungan bulan.
-
-Di sisi lain, kerangka ekonomi yang sama mewariskan fondasi yang masih dipakai hingga kini: jaringan infrastruktur (jalan, irigasi, listrik pedesaan), BUMN-BUMN strategis, industri pupuk dan baja, serta sistem logistik pangan (Bulog) — capaian yang datanya tercatat dalam tabel Fakta kunci di bawah.
 
 ## Fakta kunci
 
@@ -68,8 +68,8 @@ Di sisi lain, kerangka ekonomi yang sama mewariskan fondasi yang masih dipakai h
 | **1966–1968** | Stabilisasi moneter & UU Penanaman Modal Asing (UU No. 1/1967) | Inflasi turun dari 650% ke ~10% | Pembukaan keran investasi Barat |
 | **1969–1974** | Repelita I: Fokus pangan dan infrastruktur pertanian | Rehabilitasi irigasi, pembentukan Bulog | Peletakan fondasi pangan |
 | **1974–1981** | *Oil Boom* (Lonjakan harga minyak mentah global); krisis Pertamina 1975 (utang >US$10,5 miliar, Ibnu Sutowo dicopot Maret 1976, utang diambil alih negara) | Penerimaan devisa migas melimpah | Pembangunan industri berat & SD Inpres |
-| **1983–1988** | Deregulasi Perbankan (Pakjun 1983, Pakto 1988) | Bank umum 111 (1988) → 240 (1994); bank swasta nasional 66 → 166 | Liberalisasi moneter tanpa pengawasan ketat |
-| **1984** | Swasembada Pangan / Penghargaan FAO di Roma | Produksi padi melampaui kebutuhan domestik | Capaian puncak sektor pertanian |
+| **1983–1988** | Deregulasi Perbankan (Pakjun 1983, Pakto 1988) | Bank umum 111 (1988) → 240 (1994); bank swasta nasional 66 → 166 | Liberalisasi moneter; menurut para pengamat, tanpa pengawasan ketat |
+| **1984** | Swasembada beras | Produksi padi melampaui kebutuhan domestik | Capaian puncak sektor pertanian |
 | **1992** | IGGI dibubarkan (25 Mar 1992), diganti CGI yang diketuai Bank Dunia | Konsorsium donor berlanjut; CGI dibubarkan awal 2007 | Penutup ketergantungan pada forum donor era Orde Baru |
 | **1997–1998** | Krisis Moneter Asia & Penandatanganan Letter of Intent IMF | Rupiah jatuh dari Rp2.450 ke Rp16.000/USD | Runtuhnya fondasi moneter rezim |
 
@@ -88,16 +88,19 @@ Di sisi lain, kerangka ekonomi yang sama mewariskan fondasi yang masih dipakai h
 - Peluncuran Rencana Pembangunan Lima Tahun Pertama (Repelita I: 1969–1974) dengan penekanan utama pada rehabilitasi prasarana, swasembada beras, dan pemulihan industri perkebunan.
 
 ### 1974-01-15
-- Meletusnya [[peristiwa/malari-1974]] di Jakarta sebagai protes mahasiswa terhadap dominasi modal asing Jepang dan kecemburuan sosial atas keistimewaan konglomerat kroni istana. Pemerintah merespons dengan mewajibkan kepemilikan saham mitra pribumi minimal 51%.
+- Meletusnya [[peristiwa/malari-1974]] di Jakarta sebagai protes mahasiswa terhadap dominasi modal asing Jepang dan kecemburuan sosial atas keistimewaan konglomerat yang oleh para pengunjuk rasa disebut kroni istana. Pemerintah merespons dengan mewajibkan kepemilikan saham mitra pribumi minimal 51%.
 
 ### 1975-02-18
-- Krisis Pertamina: perusahaan minyak negara gagal membayar pinjaman jangka pendek US$40 juta kepada sekelompok bank AS — gagal bayar yang membuka utang Pertamina yang jauh lebih besar dari yang diketahui pemerintah. Menteri Pertambangan Mohammad Sadli melaporkan total utang Pertamina lebih dari US$10,5 miliar kepada DPR (20 Mei 1976); Bank Indonesia menanggung kewajiban valas Pertamina dan pemerintah merestrukturisasi utangnya. Dirut Pertamina Ibnu Sutowo dicopot 5 Maret 1976. [Inferensi: krisis ini memperlihatkan sisi rapuh model pembangunan Orde Baru — BUMN yang beroperasi tanpa pengawasan pemerintah dan DPR dapat menumpuk utang yang mengancam cadangan devisa negara, bahkan di tengah *oil boom*.]
+- Krisis Pertamina: perusahaan minyak negara gagal membayar pinjaman jangka pendek US$40 juta kepada sekelompok bank AS — gagal bayar yang membuka utang Pertamina yang jauh lebih besar dari yang diketahui pemerintah. Menteri Pertambangan Mohammad Sadli melaporkan total utang Pertamina lebih dari US$10,5 miliar kepada DPR (20 Mei 1976); Bank Indonesia menanggung kewajiban valas Pertamina dan pemerintah merestrukturisasi utangnya. Dirut Pertamina Ibnu Sutowo dicopot 5 Maret 1976. [Inferensi: krisis ini dinilai para peneliti memperlihatkan sisi rapuh model pembangunan Orde Baru — BUMN yang beroperasi tanpa pengawasan pemerintah dan DPR dapat menumpuk utang yang mengancam cadangan devisa negara, bahkan di tengah *oil boom*.]
 
-### 1984-11-14
-- Presiden [[aktor/soeharto|Soeharto]] menerima medali penghargaan dari Organisasi Pangan dan Pertanian Dunia (FAO) di Roma, Italia, atas keberhasilan Indonesia mengubah status dari importir beras terbesar di dunia menjadi negara yang berswasembada beras.
+### 1985-11-14
+- Presiden [[aktor/soeharto|Soeharto]] berpidato pada Konferensi FAO ke-23 di Roma, Italia, tentang keberhasilan Indonesia mengubah status dari importir beras terbesar di dunia menjadi negara yang berswasembada beras.
+
+### 1986-07
+- Organisasi Pangan dan Pertanian Dunia (FAO) menganugerahkan medali emas "From Rice Importer to Self-Sufficiency" atas pencapaian swasembada beras Indonesia; penganugerahan dilakukan oleh Direktur Jenderal FAO Edouard Saouma.
 
 ### 1988-10-27
-- Paket Kebijakan 27 Oktober 1988 (Pakto 88): pelonggaran izin pendirian bank swasta nasional hanya dengan modal setor awal Rp10 miliar. Kebijakan ini memicu ekspansi agresif kredit kelompok konglomerasi kepada bisnis mereka sendiri (*affiliated lending*). Jumlah bank umum melonjak dari 111 (1988) menjadi 240 (1994); bank swasta nasional dari 66 menjadi 166 pada 1994 — angka yang mengoreksi klaim lama "200+ bank baru" di halaman ini.
+- Paket Kebijakan 27 Oktober 1988 (Pakto 88): pelonggaran izin pendirian bank swasta nasional dengan modal setor awal Rp10 miliar. Menurut para pengamat, kebijakan ini memicu ekspansi agresif kredit kelompok konglomerasi kepada bisnis mereka sendiri (*affiliated lending*). Jumlah bank umum melonjak dari 111 (1988) menjadi 240 (1994); bank swasta nasional dari 66 menjadi 166 pada 1994 — angka yang mengoreksi klaim lama "200+ bank baru" di halaman ini.
 
 ### 1992-03-25
 - Pemerintah Indonesia membubarkan IGGI — konsorsium donor yang diketuai Belanda sejak 1967 — setelah ketuanya, Menteri Kerja Sama Pembangunan Belanda Jan Pronk, mengecam penembakan pengunjuk rasa di Timor Timur (Pembantaian Santa Cruz, 1991) dan mengaitkan bantuan dengan HAM. Penggantinya, *Consultative Group on Indonesia* (CGI), diketuai Bank Dunia; sidang pertamanya di Paris, 16–17 Juli 1992. CGI berjalan hingga awal 2007, ketika Presiden Susilo Bambang Yudhoyono menyatakan Indonesia tidak lagi membutuhkan forum donor tahunan.
