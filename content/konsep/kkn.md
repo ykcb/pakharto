@@ -2,8 +2,8 @@
 title: "KKN (Korupsi, Kolusi, dan Nepotisme)"
 description: "Istilah historis yang merangkum jaringan patronase, monopoli usaha keluarga istana, penyalahgunaan fasilitas perbankan negara, dan dugaan praktik KKN yang menjadi tuntutan sentral Gerakan Reformasi 1998."
 date: 1998-05-01
-updated: 2026-11-09
-last_updated: "2026-11-09"
+updated: 2026-11-16
+last_updated: "2026-11-16"
 entity_type: konsep
 entity_id: "kkn"
 aliases:
@@ -32,6 +32,18 @@ sumber:
   - url: https://www.bloombergtechnoz.com/detail-news/122409/bebani-negara-rp1-200-triliun-utang-blbi-kini-sudah-lunas/2
     judul: "Bebani Negara Rp1.200 Triliun, Utang BLBI Kini Sudah Lunas — Bloomberg Technoz"
     tanggal: 2026-11-09
+  - url: https://beritanasional.com/detail/81597/polemik-pencabutan-nama-soeharto-dari-tap-mpr-golkar-serukan-kebesaran-hati
+    judul: "Polemik Pencabutan Nama Soeharto dari Tap MPR, Golkar Serukan Kebesaran Hati — Berita Nasional"
+    tanggal: 2026-11-16
+  - url: https://suratkabarindonesia.com/digagas-sejak-2008-mengapa-ruu-perampasan-aset-baru-dijanjikan-sah-akhir-2026/
+    judul: "Digagas Sejak 2008, Mengapa RUU Perampasan Aset Baru Dijanjikan Sah Akhir 2026? — Surat Kabar Indonesia"
+    tanggal: 2026-11-16
+  - url: https://www.kabariku.com/2026/02/wacana-revisi-uu-kpk-johanis-tanak-buka-opsi-perubahan-status-kelembagaan/
+    judul: "Wacana Revisi UU KPK, Johanis Tanak Buka Opsi Perubahan Status Kelembagaan — Kabariku"
+    tanggal: 2026-11-16
+  - url: https://jdih.dpr.go.id/berita/detail/id/63396/t/Cucun+Tegaskan+Tak+Ada+Usulan+Pengembalian+UU+KPK+ke+Versi+Lama
+    judul: "Cucun Tegaskan Tak Ada Usulan Pengembalian UU KPK ke Versi Lama — JDIH Setjen DPR RI"
+    tanggal: 2026-11-16
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -69,6 +81,12 @@ Dalam dokumen-dokumen resmi pasca-1998 dan kajian ekonomi politik, KKN di era Or
 - **UU No. 28 Tahun 1999:** Penyelenggaraan Negara yang Bersih dan Bebas dari Korupsi, Kolusi, dan Nepotisme — Menjadi dasar pembentukan Komisi Pemeriksa Kekayaan Penyelenggara Negara (KPKPN) yang menjadi cikal bakal Komisi Pemberantasan Korupsi (KPK).
 - **UU No. 30 Tahun 2002:** Membentuk Komisi Pemberantasan Korupsi (KPK) sebagai lembaga negara yang independen — disahkan 27 Desember 2002 dan mulai bekerja 29 Desember 2003. UU ini kemudian diubah dengan UU No. 19 Tahun 2019 (17 Oktober 2019), yang menempatkan KPK dalam rumpun kekuasaan eksekutif dan membentuk Dewan Pengawas.
 
+## Perkembangan 2024–2026: TAP MPR, RUU Perampasan Aset, dan wacana revisi UU KPK
+
+- **TAP MPR XI/1998 dan nama Soeharto (September 2024).** Dalam Sidang Akhir Masa Jabatan MPR periode 2019–2024 (25 September 2024), Ketua MPR Bambang Soesatyo menyatakan penyebutan nama Soeharto dalam Pasal 4 TAP MPR Nomor XI/MPR/1998 "secara diri pribadi ... telah selesai dilaksanakan, karena yang bersangkutan telah meninggal dunia". Usulan itu diajukan Fraksi Partai Golkar (surat 18 September 2024) dan disepakati dalam rapat gabungan MPR 23 September 2024. TAP XI/MPR/1998 sendiri dinyatakan tetap berlaku berdasarkan TAP MPR Nomor I/MPR/2003 — yang berubah adalah status penyebutan nama Soeharto di dalamnya, bukan keberlakuan ketetapan itu.
+- **RUU Perampasan Aset (2025–2026).** Rancangan Undang-Undang tentang Perampasan Aset Terkait dengan Tindak Pidana — instrumen pemulihan aset hasil kejahatan yang digagas sejak 2008 — masuk Prolegnas Prioritas 2025–2026 sebagai usul inisiatif DPR (ditetapkan dalam Rapat Paripurna 23 September 2025) dan dibahas Komisi III DPR. Komisi III memulai penyusunan naskah akademik dan draf pada 15 Januari 2026, melakukan 35 kali Rapat Dengar Pendapat Umum hingga 25 Agustus 2026, menerima Daftar Inventarisasi Masalah (DIM) dari pemerintah pada 5 November 2026, dan mulai membahas DIM pada 9 November 2026 — termasuk mekanisme perampasan aset tanpa putusan pidana. DPR menargetkan RUU ini disahkan paling lambat 15 Desember 2026. [Inferensi: bila disahkan, RUU ini akan menjadi kelanjutan kelembagaan dari mandat TAP MPR XI/1998 — pemulihan aset negara — dengan mekanisme yang tidak tersedia pada 1998.]
+- **Wacana revisi UU KPK (Februari 2026).** Mantan Presiden Joko Widodo pada 13 Februari 2026 menyatakan setuju dengan wacana pengembalian UU KPK ke bentuk sebelum revisi 2019; Wakil Ketua KPK Johanis Tanak pada 20 Februari 2026 mengusulkan agar KPK ditempatkan dalam rumpun kekuasaan yudikatif — tetap berdiri sendiri, bukan bagian dari Mahkamah Agung — melalui revisi UU KPK. Namun hingga 19 Februari 2026 tidak ada usulan resmi di DPR: Menteri Sekretaris Negara Prasetyo Hadi (18 Februari 2026) menyatakan pemerintah tidak membahas pengembalian UU KPK ke versi lama, dan Wakil Ketua DPR Cucun Ahmad Syamsurijal (19 Februari 2026) menegaskan tidak ada pembahasan atau agenda resmi terkait hal itu. UU Nomor 19 Tahun 2019 tetap berlaku.
+
 ## Sumber
 - **Naskah Ketetapan MPR RI No. XI/MPR/1998:** Sekretariat Jenderal MPR-RI.
 - **Kejaksaan Agung RI (1998–2000):** Berkas Penyidikan Perkara Dugaan Korupsi Dana Yayasan Mantan Presiden Soeharto.
@@ -77,7 +95,12 @@ Dalam dokumen-dokumen resmi pasca-1998 dan kajian ekonomi politik, KKN di era Or
 - **UU No. 30 Tahun 2002 dan UU No. 19 Tahun 2019:** Naskah undang-undang tentang KPK (peraturan.info, diakses 9 November 2026).
 - **Espos.id (Juli 2016):** "Kasus Yayasan Supersemar: Kalah Gugatan, Kejakgung Pastikan Tetap Sita Aset Supersemar" — Putusan PK Mahkamah Agung 8 Juli 2015 (diakses 9 November 2026).
 - **Bloomberg Technoz (23 September 2026):** "Bebani Negara Rp1.200 Triliun, Utang BLBI Kini Sudah Lunas" — Total BLBI Rp144,5 triliun, temuan BPK sekitar Rp138 triliun, dan pernyataan pemerintah soal pelunasan (diakses 9 November 2026).
+- **Berita Nasional (28 September 2024):** "Polemik Pencabutan Nama Soeharto dari Tap MPR, Golkar Serukan Kebesaran Hati" — pernyataan Ketua MPR Bambang Soesatyo, 25 September 2024 (diakses 16 November 2026).
+- **Surat Kabar Indonesia (Agustus 2026):** "Digagas Sejak 2008, Mengapa RUU Perampasan Aset Baru Dijanjikan Sah Akhir 2026?" — Prolegnas Prioritas 2025–2026, Komisi III, 35 RDPU, DIM 5 November 2026, target sah 15 Desember 2026 (diakses 16 November 2026).
+- **Kabariku (20 Februari 2026):** "Wacana Revisi UU KPK, Johanis Tanak Buka Opsi Perubahan Status Kelembagaan" — usulan KPK di rumpun yudikatif; pernyataan Jokowi 13 Februari 2026 (diakses 16 November 2026).
+- **JDIH Setjen DPR RI (19 Februari 2026):** "Cucun Tegaskan Tak Ada Usulan Pengembalian UU KPK ke Versi Lama" — tidak ada pembahasan resmi revisi UU KPK di DPR (diakses 16 November 2026).
 
 ## Catatan presisi
 - **Perbedaan Istilah Hukum vs Sejarah:** Sebelum 1998, kata "KKN" tidak dikenal dalam perundang-undangan pidana Indonesia (hanya ada delik tindak pidana korupsi biasa). Penggunaan istilah KKN adalah konstruksi politik gerakan reformasi yang baru memperoleh definisi yuridis formal lewat UU No. 28/1999.
+- **Status RUU Perampasan Aset:** hingga 16 November 2026 RUU ini masih berstatus rancangan — belum disahkan menjadi undang-undang; target pengesahan 15 Desember 2026 adalah target DPR, bukan kepastian.
 - **Status Proses Hukum:** Pemeriksaan perkara hukum mantan Presiden Soeharto terkait dana yayasan sempat bergulir di pengadilan pada tahun 2000, namun proses peradilan pidananya dihentikan (SKP3) oleh Kejaksaan Agung karena alasan kesehatan fisik dan mental terdakwa yang permanen, dilanjutkan dengan gugatan perdata atas aset Yayasan Supersemar yang dimenangkan oleh Mahkamah Agung RI pada 2015. Dalam jalur perdata itu, Peninjauan Kembali Mahkamah Agung pada 8 Juli 2015 menguatkan kewajiban Yayasan Supersemar membayar ganti rugi negara sebesar US$315 juta dan Rp139,2 miliar (sekitar Rp4,4 triliun) atas penyelewengan dana beasiswa ke perusahaan-perusahaan terafiliasi.
