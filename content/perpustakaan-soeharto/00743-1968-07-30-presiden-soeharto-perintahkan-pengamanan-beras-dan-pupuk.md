@@ -22,6 +22,7 @@ tags:
 - presiden-soeharto
 - pupuk
 - tanjung-priok
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -33,6 +34,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1968-07-30-presiden-soeharto-perintahkan-pengamanan-beras-dan-pupuk/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1968-07-30-presiden-soeharto-perintahkan-pengamanan-beras-dan-pupuk/
 ---
 

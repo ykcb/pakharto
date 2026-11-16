@@ -20,6 +20,7 @@ tags:
 - pak-harto
 - perpustakaan-soeharto
 - presiden-soeharto
+- pilar/kb-posyandu
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -31,6 +32,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga/
+- predikat: dokumen_tentang
+  objek: arsitektur-kb-dan-posyandu
   sumber: https://soehartolibrary.id/1969-04-27-presiden-soeharto-kb-untuk-kebahagiaan-keluarga/
 ---
 

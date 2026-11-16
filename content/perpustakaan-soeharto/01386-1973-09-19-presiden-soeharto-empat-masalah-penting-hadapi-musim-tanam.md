@@ -19,6 +19,7 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - rapat-kerja
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -33,6 +34,9 @@ relasi:
   sumber: https://soehartolibrary.id/1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1973-09-19-presiden-soeharto-empat-masalah-penting-hadapi-musim-tanam/
 
 ---

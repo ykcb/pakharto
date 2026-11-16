@@ -19,6 +19,7 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - saleh-afiff
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -37,6 +38,9 @@ relasi:
   sumber: https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/
 - predikat: menyebut
   objek: glosarium-istilah-orde-baru
+  sumber: https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/saleh-afiff-pak-harto-mengambil-keputusan-besar-dan-mendasar-bagian-2-habis/
 
 ---

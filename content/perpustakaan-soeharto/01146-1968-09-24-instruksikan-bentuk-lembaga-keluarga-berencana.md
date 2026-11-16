@@ -24,6 +24,7 @@ tags:
 - presiden-soeharto
 - purareja
 - subang
+- pilar/kb-posyandu
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -35,6 +36,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1968-09-24-instruksikan-bentuk-lembaga-keluarga-berencana/
+- predikat: dokumen_tentang
+  objek: arsitektur-kb-dan-posyandu
   sumber: https://soehartolibrary.id/1968-09-24-instruksikan-bentuk-lembaga-keluarga-berencana/
 ---
 

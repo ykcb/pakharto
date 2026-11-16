@@ -22,6 +22,7 @@ tags:
 - royong
 - stabilisasi
 - sub
+- pilar/stabilisasi-ekonomi
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -33,6 +34,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1960-02-11-sidang-stabilisasi-ekonomi-presiden-soeharto-bahas-ekspor-impor/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
   sumber: https://soehartolibrary.id/1960-02-11-sidang-stabilisasi-ekonomi-presiden-soeharto-bahas-ekspor-impor/
 ---
 

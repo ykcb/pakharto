@@ -17,6 +17,7 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - susilo-bambang-yudhoyono
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -31,6 +32,9 @@ relasi:
   sumber: https://soehartolibrary.id/bulog-dirindukan-kembali/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/bulog-dirindukan-kembali/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/bulog-dirindukan-kembali/
 
 ---

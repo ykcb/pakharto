@@ -17,6 +17,7 @@ tags:
 - sidang
 - stabilisasi
 - sub
+- pilar/stabilisasi-ekonomi
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -31,6 +32,9 @@ relasi:
   sumber: https://soehartolibrary.id/1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
   sumber: https://soehartolibrary.id/1969-02-04-sidang-sub-dewan-stabilisasi-ekonomi/
 
 ---

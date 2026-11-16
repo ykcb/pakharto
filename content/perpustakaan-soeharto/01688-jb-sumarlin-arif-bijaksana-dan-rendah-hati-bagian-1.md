@@ -17,6 +17,9 @@ tags:
 - pembangunan
 - perpustakaan-soeharto
 - presiden-soeharto
+- pilar/pangan-bulog
+- pilar/sd-inpres
+- pilar/stabilisasi-ekonomi
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -34,6 +37,15 @@ relasi:
   sumber: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-1/
 - predikat: menyebut
   objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-1/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
+  sumber: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-1/
+- predikat: dokumen_tentang
+  objek: revolusi-sd-inpres-dan-wajib-belajar
+  sumber: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-1/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
   sumber: https://soehartolibrary.id/jb-sumarlin-arif-bijaksana-dan-rendah-hati-bagian-1/
 
 ---

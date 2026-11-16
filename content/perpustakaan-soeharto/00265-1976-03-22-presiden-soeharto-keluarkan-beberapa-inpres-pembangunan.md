@@ -20,6 +20,7 @@ tags:
 - presiden-soeharto
 - reboisasi
 - sd
+- pilar/program-inpres
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -34,6 +35,9 @@ relasi:
   sumber: https://soehartolibrary.id/1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan/
+- predikat: dokumen_tentang
+  objek: desentralisasi-anggaran-program-inpres
   sumber: https://soehartolibrary.id/1976-03-22-presiden-soeharto-keluarkan-beberapa-inpres-pembangunan/
 
 ---

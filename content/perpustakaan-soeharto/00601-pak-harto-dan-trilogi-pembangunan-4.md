@@ -17,6 +17,8 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tinggal-landas-2
+- pilar/stabilisasi-ekonomi
+- pilar/teknokrasi-repelita
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -37,6 +39,12 @@ relasi:
   sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-4/
 - predikat: menyebut
   objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-4/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
+  sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-4/
+- predikat: dokumen_tentang
+  objek: teknokrasi-dan-disiplin-repelita
   sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-4/
 
 ---

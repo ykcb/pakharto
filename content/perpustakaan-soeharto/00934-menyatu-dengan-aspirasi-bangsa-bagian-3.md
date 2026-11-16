@@ -18,6 +18,7 @@ tags:
 - perpustakaan-soeharto
 - pertamina
 - presiden-soeharto
+- pilar/teknokrasi-repelita
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -29,6 +30,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-3/
+- predikat: dokumen_tentang
+  objek: teknokrasi-dan-disiplin-repelita
   sumber: https://soehartolibrary.id/menyatu-dengan-aspirasi-bangsa-bagian-3/
 ---
 

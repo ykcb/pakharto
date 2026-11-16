@@ -20,6 +20,7 @@ tags:
 - presiden
 - sewasembada
 - soeharto
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -37,6 +38,9 @@ relasi:
   sumber: https://soehartolibrary.id/pak-harto-berhasil-stabilkan-harga-beras/
 - predikat: menyebut
   objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/pak-harto-berhasil-stabilkan-harga-beras/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/pak-harto-berhasil-stabilkan-harga-beras/
 
 ---

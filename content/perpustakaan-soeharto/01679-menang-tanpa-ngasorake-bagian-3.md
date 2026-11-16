@@ -17,6 +17,7 @@ tags:
 - orde-baru
 - perpustakaan-soeharto
 - presiden-soeharto
+- pilar/kb-posyandu
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -34,6 +35,9 @@ relasi:
   sumber: https://soehartolibrary.id/menang-tanpa-ngasorake-bagian-3/
 - predikat: menyebut
   objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/menang-tanpa-ngasorake-bagian-3/
+- predikat: dokumen_tentang
+  objek: arsitektur-kb-dan-posyandu
   sumber: https://soehartolibrary.id/menang-tanpa-ngasorake-bagian-3/
 
 ---

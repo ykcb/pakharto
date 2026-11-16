@@ -23,6 +23,7 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - produksi-pertanian
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -38,6 +39,9 @@ relasi:
   sumber: https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1976-09-07-presiden-soeharto-bahas-produksi-pertanian-banjir-hama-wereng-dan-kekeringan/
 
 ---

@@ -18,6 +18,8 @@ tags:
 - perpustakaan-soeharto
 - sd
 - unesco
+- pilar/sd-inpres
+- pilar/program-inpres
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -29,6 +31,12 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/presiden-soeharto-sd-inpres-dan-avicenna-award/
+- predikat: dokumen_tentang
+  objek: revolusi-sd-inpres-dan-wajib-belajar
+  sumber: https://soehartolibrary.id/presiden-soeharto-sd-inpres-dan-avicenna-award/
+- predikat: dokumen_tentang
+  objek: desentralisasi-anggaran-program-inpres
   sumber: https://soehartolibrary.id/presiden-soeharto-sd-inpres-dan-avicenna-award/
 ---
 

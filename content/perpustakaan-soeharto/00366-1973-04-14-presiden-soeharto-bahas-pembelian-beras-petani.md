@@ -19,6 +19,7 @@ tags:
 - perpustakaan-soeharto
 - petani
 - presiden-soeharto
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -30,6 +31,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1973-04-14-presiden-soeharto-bahas-pembelian-beras-petani/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1973-04-14-presiden-soeharto-bahas-pembelian-beras-petani/
 ---
 

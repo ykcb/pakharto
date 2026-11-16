@@ -17,6 +17,7 @@ tags:
 - petani
 - pupuk
 - reformasi
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -37,6 +38,9 @@ relasi:
   sumber: https://soehartolibrary.id/petani-hanya-pak-harto-yang-sayang-kami/
 - predikat: menyebut
   objek: krisis-dan-reformasi-1998
+  sumber: https://soehartolibrary.id/petani-hanya-pak-harto-yang-sayang-kami/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/petani-hanya-pak-harto-yang-sayang-kami/
 
 ---

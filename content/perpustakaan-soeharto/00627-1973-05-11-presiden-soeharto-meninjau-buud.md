@@ -18,6 +18,7 @@ tags:
 - presiden-soeharto
 - surakarta
 - yogyakarta
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -32,6 +33,9 @@ relasi:
   sumber: https://soehartolibrary.id/1973-05-11-presiden-soeharto-meninjau-buud/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1973-05-11-presiden-soeharto-meninjau-buud/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1973-05-11-presiden-soeharto-meninjau-buud/
 
 ---

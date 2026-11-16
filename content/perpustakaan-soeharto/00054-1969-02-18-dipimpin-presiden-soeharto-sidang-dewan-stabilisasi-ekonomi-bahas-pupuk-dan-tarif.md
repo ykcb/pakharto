@@ -25,6 +25,8 @@ tags:
 - repelita
 - stabilisasi
 - warehouse
+- pilar/pangan-bulog
+- pilar/stabilisasi-ekonomi
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -40,6 +42,12 @@ relasi:
   sumber: https://soehartolibrary.id/1969-02-18-dipimpin-presiden-soeharto-sidang-dewan-stabilisasi-ekonomi-bahas-pupuk-dan-tarif/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1969-02-18-dipimpin-presiden-soeharto-sidang-dewan-stabilisasi-ekonomi-bahas-pupuk-dan-tarif/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
+  sumber: https://soehartolibrary.id/1969-02-18-dipimpin-presiden-soeharto-sidang-dewan-stabilisasi-ekonomi-bahas-pupuk-dan-tarif/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
   sumber: https://soehartolibrary.id/1969-02-18-dipimpin-presiden-soeharto-sidang-dewan-stabilisasi-ekonomi-bahas-pupuk-dan-tarif/
 
 ---

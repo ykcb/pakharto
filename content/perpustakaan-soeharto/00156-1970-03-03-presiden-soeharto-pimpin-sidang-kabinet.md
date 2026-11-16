@@ -22,6 +22,7 @@ tags:
 - perpustakaan-soeharto
 - presiden
 - soeharto
+- pilar/teknokrasi-repelita
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -33,6 +34,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1970-03-03-presiden-soeharto-pimpin-sidang-kabinet/
+- predikat: dokumen_tentang
+  objek: teknokrasi-dan-disiplin-repelita
   sumber: https://soehartolibrary.id/1970-03-03-presiden-soeharto-pimpin-sidang-kabinet/
 ---
 

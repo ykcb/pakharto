@@ -16,6 +16,7 @@ tags:
 - perpustakaan-soeharto
 - repelita
 - uud-1945
+- pilar/teknokrasi-repelita
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -33,6 +34,9 @@ relasi:
   sumber: https://soehartolibrary.id/kebijakan-ekonomi-era-orde-baru/
 - predikat: menyebut
   objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/kebijakan-ekonomi-era-orde-baru/
+- predikat: dokumen_tentang
+  objek: teknokrasi-dan-disiplin-repelita
   sumber: https://soehartolibrary.id/kebijakan-ekonomi-era-orde-baru/
 
 ---

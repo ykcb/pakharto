@@ -18,6 +18,7 @@ tags:
 - presiden-soeharto
 - produksi-beras
 - target
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -29,6 +30,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1972-04-11-presiden-soeharto-evaluasi-target-produksi-beras/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1972-04-11-presiden-soeharto-evaluasi-target-produksi-beras/
 ---
 

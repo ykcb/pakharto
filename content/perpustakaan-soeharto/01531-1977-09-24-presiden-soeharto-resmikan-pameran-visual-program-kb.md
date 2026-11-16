@@ -18,6 +18,7 @@ tags:
 - pameran
 - perpustakaan-soeharto
 - presiden-soeharto
+- pilar/kb-posyandu
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -29,6 +30,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1977-09-24-presiden-soeharto-resmikan-pameran-visual-program-kb/
+- predikat: dokumen_tentang
+  objek: arsitektur-kb-dan-posyandu
   sumber: https://soehartolibrary.id/1977-09-24-presiden-soeharto-resmikan-pameran-visual-program-kb/
 ---
 

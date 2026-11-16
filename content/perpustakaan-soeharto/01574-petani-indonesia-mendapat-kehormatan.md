@@ -21,6 +21,7 @@ tags:
 - presiden-soeharto
 - roma
 - swasembada-pangan
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -35,6 +36,9 @@ relasi:
   sumber: https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/petani-indonesia-mendapat-kehormatan/
 
 ---

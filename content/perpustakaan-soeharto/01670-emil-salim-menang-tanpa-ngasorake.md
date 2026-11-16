@@ -21,6 +21,8 @@ tags:
 - roma
 - swasembada-pangan
 - vatikan
+- pilar/stabilisasi-ekonomi
+- pilar/teknokrasi-repelita
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -38,6 +40,12 @@ relasi:
   sumber: https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/
 - predikat: menyebut
   objek: orde-baru-1966-1998
+  sumber: https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
+  sumber: https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/
+- predikat: dokumen_tentang
+  objek: teknokrasi-dan-disiplin-repelita
   sumber: https://soehartolibrary.id/emil-salim-menang-tanpa-ngasorake/
 
 ---

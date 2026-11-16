@@ -20,6 +20,7 @@ tags:
 - orde-baru
 - pak-harto
 - perpustakaan-soeharto
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -40,6 +41,9 @@ relasi:
   sumber: https://soehartolibrary.id/komitmen-pak-harto-terhadap-koperasi/
 - predikat: menyebut
   objek: glosarium-istilah-orde-baru
+  sumber: https://soehartolibrary.id/komitmen-pak-harto-terhadap-koperasi/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/komitmen-pak-harto-terhadap-koperasi/
 
 ---

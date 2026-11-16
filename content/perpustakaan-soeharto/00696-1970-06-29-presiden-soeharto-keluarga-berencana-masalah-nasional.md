@@ -17,6 +17,7 @@ tags:
 - penduduk
 - perpustakaan-soeharto
 - presiden-soeharto
+- pilar/kb-posyandu
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -28,6 +29,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1970-06-29-presiden-soeharto-keluarga-berencana-masalah-nasional/
+- predikat: dokumen_tentang
+  objek: arsitektur-kb-dan-posyandu
   sumber: https://soehartolibrary.id/1970-06-29-presiden-soeharto-keluarga-berencana-masalah-nasional/
 ---
 

@@ -22,6 +22,7 @@ tags:
 - presiden-soeharto
 - pungutan-liar
 - ruu-pmdn
+- pilar/stabilisasi-ekonomi
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -34,6 +35,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1968-06-03-presiden-soeharto-tertibkan-pungutan-liar-angkutan-dan-setujui-ruu-pmdn/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
   sumber: https://soehartolibrary.id/1968-06-03-presiden-soeharto-tertibkan-pungutan-liar-angkutan-dan-setujui-ruu-pmdn/
 ---
 

@@ -17,6 +17,7 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - proyek-inpres
+- pilar/program-inpres
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -28,6 +29,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1976-03-25-presiden-soeharto-bahas-pelaksanaan-proyek-proyek-inpres/
+- predikat: dokumen_tentang
+  objek: desentralisasi-anggaran-program-inpres
   sumber: https://soehartolibrary.id/1976-03-25-presiden-soeharto-bahas-pelaksanaan-proyek-proyek-inpres/
 ---
 

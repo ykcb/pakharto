@@ -24,6 +24,7 @@ tags:
 - presiden-soeharto
 - swasembada
 - wisuda
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -36,6 +37,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1973-09-08-presiden-soeharto-dibutuhkan-sarjana-yang-bisa-mengajarkan-bertani-secara-modern/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1973-09-08-presiden-soeharto-dibutuhkan-sarjana-yang-bisa-mengajarkan-bertani-secara-modern/
 ---
 

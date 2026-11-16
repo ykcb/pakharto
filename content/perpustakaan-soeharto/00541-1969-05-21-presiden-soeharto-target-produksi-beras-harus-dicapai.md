@@ -21,6 +21,7 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - produksi-beras
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -32,6 +33,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1969-05-21-presiden-soeharto-target-produksi-beras-harus-dicapai/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1969-05-21-presiden-soeharto-target-produksi-beras-harus-dicapai/
 ---
 

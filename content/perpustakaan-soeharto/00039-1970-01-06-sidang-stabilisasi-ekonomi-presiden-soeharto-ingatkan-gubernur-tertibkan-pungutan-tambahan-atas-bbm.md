@@ -32,6 +32,7 @@ tags:
 - pungutan
 - repelita
 - tinggal-landas-2
+- pilar/stabilisasi-ekonomi
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -47,6 +48,9 @@ relasi:
   sumber: https://soehartolibrary.id/1970-01-06-sidang-stabilisasi-ekonomi-presiden-soeharto-ingatkan-gubernur-tertibkan-pungutan-tambahan-atas-bbm/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1970-01-06-sidang-stabilisasi-ekonomi-presiden-soeharto-ingatkan-gubernur-tertibkan-pungutan-tambahan-atas-bbm/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
   sumber: https://soehartolibrary.id/1970-01-06-sidang-stabilisasi-ekonomi-presiden-soeharto-ingatkan-gubernur-tertibkan-pungutan-tambahan-atas-bbm/
 
 ---

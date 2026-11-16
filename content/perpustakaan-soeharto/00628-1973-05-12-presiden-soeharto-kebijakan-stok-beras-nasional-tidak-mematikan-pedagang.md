@@ -22,6 +22,7 @@ tags:
 - perpustakaan-soeharto
 - presiden-soeharto
 - tengkulak
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -34,6 +35,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1973-05-12-presiden-soeharto-kebijakan-stok-beras-nasional-tidak-mematikan-pedagang/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1973-05-12-presiden-soeharto-kebijakan-stok-beras-nasional-tidak-mematikan-pedagang/
 ---
 

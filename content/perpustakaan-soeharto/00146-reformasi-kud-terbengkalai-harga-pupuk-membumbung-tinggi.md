@@ -17,6 +17,7 @@ tags:
 - pertanian
 - pupuk
 - ukm
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -37,6 +38,9 @@ relasi:
   sumber: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
 - predikat: menyebut
   objek: krisis-dan-reformasi-1998
+  sumber: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/reformasi-kud-terbengkalai-harga-pupuk-membumbung-tinggi/
 
 ---

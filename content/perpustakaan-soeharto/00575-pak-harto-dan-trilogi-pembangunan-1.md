@@ -19,6 +19,7 @@ tags:
 - stabilitas-nasional
 - stabilitas-politik
 - trilogi-pembangunan
+- pilar/teknokrasi-repelita
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -36,6 +37,9 @@ relasi:
   sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-1/
 - predikat: menyebut
   objek: penembakan-misterius-petrus
+  sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-1/
+- predikat: dokumen_tentang
+  objek: teknokrasi-dan-disiplin-repelita
   sumber: https://soehartolibrary.id/pak-harto-dan-trilogi-pembangunan-1/
 
 ---

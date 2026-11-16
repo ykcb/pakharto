@@ -20,6 +20,7 @@ tags:
 - pbb
 - perpustakaan-soeharto
 - presiden-soeharto
+- pilar/kb-posyandu
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -31,6 +32,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1973-10-23-penuhi-undangan-pbb-misi-parlemen-jepang-temui-presiden-soeharto/
+- predikat: dokumen_tentang
+  objek: arsitektur-kb-dan-posyandu
   sumber: https://soehartolibrary.id/1973-10-23-penuhi-undangan-pbb-misi-parlemen-jepang-temui-presiden-soeharto/
 ---
 

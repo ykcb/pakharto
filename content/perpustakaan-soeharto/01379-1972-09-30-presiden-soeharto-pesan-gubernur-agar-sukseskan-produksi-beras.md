@@ -26,6 +26,7 @@ tags:
 - solichin-gp
 - sri-paku-alam
 - wakil-gubernur-di-yogyakarta
+- pilar/pangan-bulog
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -37,6 +38,9 @@ sumber:
 relasi:
 - predikat: dokumen_tentang
   objek: soeharto
+  sumber: https://soehartolibrary.id/1972-09-30-presiden-soeharto-pesan-gubernur-agar-sukseskan-produksi-beras/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
   sumber: https://soehartolibrary.id/1972-09-30-presiden-soeharto-pesan-gubernur-agar-sukseskan-produksi-beras/
 ---
 

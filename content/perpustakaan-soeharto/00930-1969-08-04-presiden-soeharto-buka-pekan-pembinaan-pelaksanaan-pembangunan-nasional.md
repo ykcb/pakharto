@@ -38,6 +38,7 @@ tags:
 - presiden-soeharto
 - tengku-muhammad-saleh
 - yudo-paripurno-sh
+- pilar/teknokrasi-repelita
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -53,6 +54,9 @@ relasi:
   sumber: https://soehartolibrary.id/1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional/
+- predikat: dokumen_tentang
+  objek: teknokrasi-dan-disiplin-repelita
   sumber: https://soehartolibrary.id/1969-08-04-presiden-soeharto-buka-pekan-pembinaan-pelaksanaan-pembangunan-nasional/
 
 ---

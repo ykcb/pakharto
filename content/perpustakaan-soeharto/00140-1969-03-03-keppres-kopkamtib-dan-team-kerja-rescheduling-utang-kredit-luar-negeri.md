@@ -26,6 +26,7 @@ tags:
 - rescheduling
 - subversif
 - utang
+- pilar/stabilisasi-ekonomi
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -44,6 +45,9 @@ relasi:
   sumber: https://soehartolibrary.id/1969-03-03-keppres-kopkamtib-dan-team-kerja-rescheduling-utang-kredit-luar-negeri/
 - predikat: menyebut
   objek: ekonomi-orde-baru
+  sumber: https://soehartolibrary.id/1969-03-03-keppres-kopkamtib-dan-team-kerja-rescheduling-utang-kredit-luar-negeri/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
   sumber: https://soehartolibrary.id/1969-03-03-keppres-kopkamtib-dan-team-kerja-rescheduling-utang-kredit-luar-negeri/
 
 ---

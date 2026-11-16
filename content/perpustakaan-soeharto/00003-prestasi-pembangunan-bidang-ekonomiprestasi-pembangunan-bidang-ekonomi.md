@@ -15,6 +15,9 @@ tags:
 - perpustakaan-soeharto
 - prestasi-pembangunan-2
 - tinggal-landas-2
+- pilar/pangan-bulog
+- pilar/stabilisasi-ekonomi
+- pilar/kb-posyandu
 risiko_editorial: sedang
 status: cross_checked
 verification_status: cross_checked
@@ -32,6 +35,15 @@ relasi:
   sumber: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
 - predikat: menyebut
   objek: krisis-dan-reformasi-1998
+  sumber: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
+- predikat: dokumen_tentang
+  objek: swasembada-pangan-dan-bulog
+  sumber: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
+- predikat: dokumen_tentang
+  objek: stabilisasi-hiperinflasi-1966-1970
+  sumber: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
+- predikat: dokumen_tentang
+  objek: arsitektur-kb-dan-posyandu
   sumber: https://soehartolibrary.id/prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi/
 
 ---
