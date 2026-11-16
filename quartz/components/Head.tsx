@@ -46,11 +46,11 @@ export default (() => {
     // Parameter `v` dipakai untuk memaksa WhatsApp/Telegram mengambil ulang
     // gambar saat banner diganti (cache OG image cukup agresif).
     const ogImageUrl = `https://${baseUrl}/img/og-image.jpg`
-    const ogImageVersion = 2
+    const ogImageVersion = 3
     const ogImageDefaultPath = `${ogImageUrl}?v=${ogImageVersion}`
     const ogImageType = "image/jpeg"
-    const ogImageWidth = 1376
-    const ogImageHeight = 768
+    const ogImageWidth = 1280
+    const ogImageHeight = 720
 
     const coreStylesheet = css[0]?.content
     const coreScript = js.find(
