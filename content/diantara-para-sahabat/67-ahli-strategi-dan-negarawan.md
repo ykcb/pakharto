@@ -18,6 +18,7 @@ tags:
 - sahabat
 - mh-isnaeni
 - pilar/teknokrasi-repelita
+- pilar/program-inpres
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: []
 risiko_editorial: rendah
@@ -39,6 +40,9 @@ relasi:
   sumber: https://docs.google.com/document/d/14rO8Q-hk1PfLG3OtZVdfBELJytnhj4N7
 - predikat: dokumen_tentang
   objek: teknokrasi-dan-disiplin-repelita
+  sumber: https://docs.google.com/document/d/14rO8Q-hk1PfLG3OtZVdfBELJytnhj4N7
+- predikat: dokumen_tentang
+  objek: desentralisasi-anggaran-program-inpres
   sumber: https://docs.google.com/document/d/14rO8Q-hk1PfLG3OtZVdfBELJytnhj4N7
 ---
 
