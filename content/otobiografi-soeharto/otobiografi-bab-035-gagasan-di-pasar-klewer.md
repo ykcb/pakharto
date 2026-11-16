@@ -8,7 +8,7 @@ entity_type: kliping
 entity_id: "otobiografi-bab-035-gagasan-di-pasar-klewer"
 aliases:
   - "Gagasan di Pasar Klewer"
-tags: [otobiografi, soeharto, sumber-primer, bab-35, orde-baru]
+tags: [otobiografi, soeharto, sumber-primer, bab-35, orde-baru, pilar/teknokrasi-repelita]
 kategori: pembangunan-dan-kehidupan
 risiko_editorial: tinggi
 status: unreviewed
@@ -25,6 +25,8 @@ relasi:
     objek: "Otobiografi Soeharto"
   - predikat: dokumen_tentang
     objek: "soeharto"
+  - predikat: dokumen_tentang
+    objek: teknokrasi-dan-disiplin-repelita
 ---
 
 # Bab 35: Gagasan di Pasar Klewer

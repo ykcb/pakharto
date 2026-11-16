@@ -8,7 +8,7 @@ entity_type: kliping
 entity_id: "otobiografi-bab-070-penanam-kedermawanan"
 aliases:
   - "Penanam Kedermawanan"
-tags: [otobiografi, soeharto, sumber-primer, bab-70, orde-baru]
+tags: [otobiografi, soeharto, sumber-primer, bab-70, orde-baru, pilar/pangan-bulog]
 kategori: ekonomi-dan-kepemilikan
 risiko_editorial: tinggi
 status: unreviewed
@@ -25,6 +25,8 @@ relasi:
     objek: "Otobiografi Soeharto"
   - predikat: dokumen_tentang
     objek: "soeharto"
+  - predikat: dokumen_tentang
+    objek: swasembada-pangan-dan-bulog
 ---
 
 # Bab 70: Penanam Kedermawanan

@@ -8,7 +8,7 @@ entity_type: kliping
 entity_id: "otobiografi-bab-060-berpikir-mengenai-tinggal-landas"
 aliases:
   - "Berpikir Mengenai Tinggal Landas"
-tags: [otobiografi, soeharto, sumber-primer, bab-60, orde-baru]
+tags: [otobiografi, soeharto, sumber-primer, bab-60, orde-baru, pilar/teknokrasi-repelita]
 kategori: pembangunan-dan-kehidupan
 risiko_editorial: tinggi
 status: unreviewed
@@ -25,6 +25,8 @@ relasi:
     objek: "Otobiografi Soeharto"
   - predikat: dokumen_tentang
     objek: "soeharto"
+  - predikat: dokumen_tentang
+    objek: teknokrasi-dan-disiplin-repelita
 ---
 
 # Bab 60: Berpikir Mengenai Tinggal Landas

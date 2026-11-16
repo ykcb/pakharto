@@ -8,7 +8,7 @@ entity_type: kliping
 entity_id: "otobiografi-bab-073-mencerdaskan-kehidupan-bangsa"
 aliases:
   - "Mencerdaskan Kehidupan Bangsa"
-tags: [otobiografi, soeharto, sumber-primer, bab-73, orde-baru]
+tags: [otobiografi, soeharto, sumber-primer, bab-73, orde-baru, pilar/sd-inpres]
 kategori: pembangunan-dan-kehidupan
 risiko_editorial: tinggi
 status: unreviewed
@@ -25,6 +25,8 @@ relasi:
     objek: "Otobiografi Soeharto"
   - predikat: dokumen_tentang
     objek: "soeharto"
+  - predikat: dokumen_tentang
+    objek: revolusi-sd-inpres-dan-wajib-belajar
 ---
 
 # Bab 73: Mencerdaskan Kehidupan Bangsa

@@ -8,7 +8,7 @@ entity_type: kliping
 entity_id: "otobiografi-bab-032-keluarga-berencana-masalah-peka"
 aliases:
   - "Keluarga Berencana, Masalah Peka"
-tags: [otobiografi, soeharto, sumber-primer, bab-32, orde-baru]
+tags: [otobiografi, soeharto, sumber-primer, bab-32, orde-baru, pilar/kb-posyandu]
 kategori: pembangunan-dan-kehidupan
 risiko_editorial: tinggi
 status: unreviewed
@@ -25,6 +25,8 @@ relasi:
     objek: "Otobiografi Soeharto"
   - predikat: dokumen_tentang
     objek: "soeharto"
+  - predikat: dokumen_tentang
+    objek: arsitektur-kb-dan-posyandu
 ---
 
 # Bab 32: Keluarga Berencana, Masalah Peka

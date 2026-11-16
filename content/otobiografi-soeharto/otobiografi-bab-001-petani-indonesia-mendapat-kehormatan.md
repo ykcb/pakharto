@@ -8,7 +8,7 @@ entity_type: kliping
 entity_id: "otobiografi-bab-001-petani-indonesia-mendapat-kehormatan"
 aliases:
   - "Petani Indonesia Mendapat Kehormatan"
-tags: [otobiografi, soeharto, sumber-primer, bab-1, orde-baru]
+tags: [otobiografi, soeharto, sumber-primer, bab-1, orde-baru, pilar/pangan-bulog]
 kategori: pembangunan-dan-kehidupan
 risiko_editorial: tinggi
 status: unreviewed
@@ -25,6 +25,8 @@ relasi:
     objek: "Otobiografi Soeharto"
   - predikat: dokumen_tentang
     objek: "soeharto"
+  - predikat: dokumen_tentang
+    objek: swasembada-pangan-dan-bulog
 ---
 
 # Bab 1: Petani Indonesia Mendapat Kehormatan

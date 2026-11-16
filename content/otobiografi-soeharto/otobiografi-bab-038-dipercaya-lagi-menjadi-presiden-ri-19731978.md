@@ -8,7 +8,7 @@ entity_type: kliping
 entity_id: "otobiografi-bab-038-dipercaya-lagi-menjadi-presiden-ri-19731978"
 aliases:
   - "Dipercaya lagi Menjadi Presiden RI (1973-1978)"
-tags: [otobiografi, soeharto, sumber-primer, bab-38, orde-baru]
+tags: [otobiografi, soeharto, sumber-primer, bab-38, orde-baru, pilar/teknokrasi-repelita]
 kategori: kekuasaan-dan-legitimasi
 risiko_editorial: tinggi
 status: unreviewed
@@ -25,6 +25,8 @@ relasi:
     objek: "Otobiografi Soeharto"
   - predikat: dokumen_tentang
     objek: "soeharto"
+  - predikat: dokumen_tentang
+    objek: teknokrasi-dan-disiplin-repelita
 ---
 
 # Bab 38: Dipercaya lagi Menjadi Presiden RI (1973-1978)
