@@ -12,7 +12,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from collections import deque
 
-REPO_DIR = Path(os.environ.get("PAKHARTO_REPO") or "/home/ubuntu/quartz")
+REPO_DIR = Path(os.environ.get("PAKHARTO_REPO") or Path(__file__).resolve().parent.parent.parent)
 _DB_ENV = os.environ.get("PAKHARTO_DB", "")
 DB_PATH = Path(_DB_ENV) if _DB_ENV else REPO_DIR / "scripts/indexer/wiki-fts5.db"
 CONTENT_DIR = REPO_DIR / "content"

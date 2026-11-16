@@ -16,6 +16,7 @@ delay antar request + retry sekali + User-Agent jelas.
 """
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -25,7 +26,7 @@ from pathlib import Path
 
 import yaml
 
-REPO = Path("/home/ubuntu/quartz")
+REPO = Path(os.environ.get("PAKHARTO_REPO") or Path(__file__).resolve().parent.parent)
 KLIPING = REPO / "content/perpustakaan-soeharto"
 OUT = Path("/home/ubuntu/kliping-verify.jsonl")
 API_SLUG = "https://soehartolibrary.id/wp-json/wp/v2/posts?slug={}&per_page=5"

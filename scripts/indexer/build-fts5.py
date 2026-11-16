@@ -21,7 +21,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 import yaml
 
-REPO = Path(os.environ.get('PAKHARTO_REPO') or '/home/ubuntu/quartz')
+REPO = Path(os.environ.get('PAKHARTO_REPO') or Path(__file__).resolve().parent.parent.parent)
 CONTENT = REPO / 'content'
 _DB_ENV = os.environ.get('PAKHARTO_DB', '')
 DB_PATH = Path(_DB_ENV) if _DB_ENV else REPO / 'scripts/indexer/wiki-fts5.db'

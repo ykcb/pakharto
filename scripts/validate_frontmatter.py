@@ -15,7 +15,7 @@ import sys
 from pathlib import Path
 import yaml
 
-REPO = Path(os.environ.get("PAKHARTO_REPO") or "/home/ubuntu/quartz")
+REPO = Path(os.environ.get("PAKHARTO_REPO") or Path(__file__).resolve().parent.parent)
 CONTENT = REPO / "content"
 
 CANONICAL_CATEGORIES = {
@@ -37,6 +37,8 @@ ALLOWED_PREDIKAT = {
     "berisi_konsep", "berisi_hub", "berisi_peristiwa",
     "terlibat_dalam", "menunjuk", "didukung_oleh", "menentang",
     "anggota_dari", "menyebut",
+    "mengatasi_masalah", "diwujudkan_melalui",
+    "berbasis_instrumen", "dievaluasi_dalam",
 }
 CONFIDENCE = {"low", "medium", "high"}
 RISIKO = {"rendah", "sedang", "tinggi"}

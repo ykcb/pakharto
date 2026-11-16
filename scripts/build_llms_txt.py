@@ -10,7 +10,7 @@ import re
 import sys
 import yaml
 
-REPO_DIR = Path(os.environ.get("PAKHARTO_REPO") or "/home/ubuntu/quartz")
+REPO_DIR = Path(os.environ.get("PAKHARTO_REPO") or Path(__file__).resolve().parent.parent)
 CONTENT_DIR = REPO_DIR / "content"
 OUTPUT_DIR = REPO_DIR / "scripts/assets"
 
