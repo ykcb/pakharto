@@ -6,6 +6,13 @@ via tags dan relasi frontmatter, tanpa mengubah URL/nama file.
 PERILAKU DEFAULT: DRY-RUN — hanya melaporkan, TIDAK menulis file apa pun.
 Penulisan hanya terjadi dengan flag --apply yang eksplisit.
 
+Revisi v4 (16 Nov 2026, disetujui user 14:31 WIB): daftar
+pengecualian bertambah 24 pasangan (total 51) berdasarkan review
+per file atas 44 pasangan pola-tunggal aturan AND + sapuan 1+1
+(review-pasangan-lemah-lanjutan.md; sapuan 1+1 menemukan nol
+pasangan baru). Kosakata, aturan AND, dan perilaku lain tidak
+berubah dari v3.
+
 Revisi v3 (16 Nov 2026, disetujui user 14:06 WIB): mekanisme
 pengecualian EXCLUDE_FILES/EXCLUDE_REASONS — 27 pasangan file-pilar
 yang dikecualikan dari klasifikasi berdasarkan review per file atas
@@ -161,15 +168,24 @@ MIN_DISTINCT_PATTERNS = 2
 MIN_SINGLE_PATTERN_HEAD_HITS = 1
 MIN_SINGLE_PATTERN_BODY_HITS = 2
 
-# Daftar pengecualian v3 (keputusan user 16 Nov 2026, 14:06 WIB,
-# atas review per file review-28-file-terlemah.md): pasangan
-# (file, pilar) yang bukti keyword-nya dinilai bukan bahasan
-# substantif pilar itu. Pasangan di sini TIDAK dihitung sebagai
-# cocok — tidak menambah tag maupun relasi. File yang semua
-# pasangannya dikecualikan menjadi no_match. Pasangan lain pada
-# file yang sama tetap diproses normal. Jangan mengubah daftar
-# ini tanpa keputusan user + review per file.
+# Daftar pengecualian v4 (total 51 pasangan): 27 pasangan v3
+# (keputusan user 16 Nov 2026, 14:06 WIB, atas review per file
+# review-28-file-terlemah.md) ditambah 24 pasangan (keputusan
+# user 16 Nov 2026, 14:31 WIB, atas review per file
+# review-pasangan-lemah-lanjutan.md). Pasangan (file, pilar)
+# yang bukti keyword-nya dinilai bukan bahasan substantif pilar
+# itu. Pasangan di sini TIDAK dihitung sebagai cocok — tidak
+# menambah tag maupun relasi. File yang semua pasangannya
+# dikecualikan menjadi no_match. Pasangan lain pada file yang
+# sama tetap diproses normal. Jangan mengubah daftar ini tanpa
+# keputusan user + review per file.
 EXCLUDE_FILES = {
+    ("dalam-berita-jilid-1/032-djangan-bertindak-sendiri2-1000-karung-beras-20-karung-gula.md",
+     "swasembada-pangan-dan-bulog"),
+    ("dalam-berita-jilid-1/068-rakjatdan-sobsi-rakjat-serbu-gedungpemuda-dalam-gudang.md",
+     "swasembada-pangan-dan-bulog"),
+    ("dalam-berita-jilid-1/078-darisidang-gabungan-pimpinanmprs-rakjat-indonesia-lebih.md",
+     "swasembada-pangan-dan-bulog"),
     ("diantara-para-sahabat/13-pikiran-modern-dalam-pribadi-jawa.md",
      "teknokrasi-dan-disiplin-repelita"),
     ("diantara-para-sahabat/36-mencintai-petani-dan-pertanian.md",
@@ -190,11 +206,19 @@ EXCLUDE_FILES = {
      "teknokrasi-dan-disiplin-repelita"),
     ("diantara-para-sahabat/82-rasa-kesetiakawanan-yang-kuat.md",
      "desentralisasi-anggaran-program-inpres"),
+    ("otobiografi-soeharto/otobiografi-bab-038-dipercaya-lagi-menjadi-presiden-ri-19731978.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
     ("otobiografi-soeharto/otobiografi-bab-073-mencerdaskan-kehidupan-bangsa.md",
+     "teknokrasi-dan-disiplin-repelita"),
+    ("otobiografi-soeharto/otobiografi-bab-075-satusatunya-asas.md",
+     "teknokrasi-dan-disiplin-repelita"),
+    ("otobiografi-soeharto/otobiografi-bab-080-soal-kebebasan-mengeluarkan-pendapat.md",
      "teknokrasi-dan-disiplin-repelita"),
     ("otobiografi-soeharto/otobiografi-bab-094-hal-kekeluargaan-dan-monopoli.md",
      "stabilisasi-hiperinflasi-1966-1970"),
     ("otobiografi-soeharto/otobiografi-bab-101-saya-sebagai-elemen-angkatan45.md",
+     "teknokrasi-dan-disiplin-repelita"),
+    ("perpustakaan-soeharto/00003-prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi.md",
      "teknokrasi-dan-disiplin-repelita"),
     ("perpustakaan-soeharto/00004-presiden-soeharto-dan-misteri-kemelut-1998.md",
      "swasembada-pangan-dan-bulog"),
@@ -202,21 +226,55 @@ EXCLUDE_FILES = {
      "swasembada-pangan-dan-bulog"),
     ("perpustakaan-soeharto/00018-1969-01-17-presiden-soeharto-menerima-yayasan-pangdam-se-jawa-dan-resmikan-gedung-yayasan-harapan-kita.md",
      "teknokrasi-dan-disiplin-repelita"),
+    ("perpustakaan-soeharto/00022-1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat.md",
+     "teknokrasi-dan-disiplin-repelita"),
     ("perpustakaan-soeharto/00038-1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr.md",
      "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/00114-1972-02-01-sidang-sub-dewan-stabilisasi-ekonomi.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/00127-reformasi-era-ketergantungan-daging-impor.md",
+     "swasembada-pangan-dan-bulog"),
     ("perpustakaan-soeharto/00136-1968-03-29-presiden-soeharto-menjamu-kaindaren-di-tokyo.md",
      "stabilisasi-hiperinflasi-1966-1970"),
     ("perpustakaan-soeharto/00144-program-pertanian-era-pak-harto.md",
      "teknokrasi-dan-disiplin-repelita"),
+    ("perpustakaan-soeharto/00159-1970-03-11presiden-soeharto-bertemu-komisi-empat.md",
+     "swasembada-pangan-dan-bulog"),
+    ("perpustakaan-soeharto/00160-1970-03-12-presiden-soeharto-meresmikan-pabrik-deterjen-pertama.md",
+     "swasembada-pangan-dan-bulog"),
+    ("perpustakaan-soeharto/00195-1972-03-14-presiden-soeharto-terima-ketua-iggi-c-boertein.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/00315-1968-04-18-presiden-soeharto-bakukan-urutan-sila-sila-pancasila.md",
+     "desentralisasi-anggaran-program-inpres"),
     ("perpustakaan-soeharto/00384-1974-04-09-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional.md",
      "stabilisasi-hiperinflasi-1966-1970"),
     ("perpustakaan-soeharto/00384-1974-04-09-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional.md",
      "swasembada-pangan-dan-bulog"),
     ("perpustakaan-soeharto/00387-1974-04-22-presiden-soeharto-bentuk-irjenbang.md",
      "desentralisasi-anggaran-program-inpres"),
+    ("perpustakaan-soeharto/00395-1975-04-12-presiden-soeharto-bahas-persiapan-sidang-iggi-dan-plta-asahan.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/00408-1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/00602-1972-05-16-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/00614-1973-05-01-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-ekonomi.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/00858-1975-07-15-presiden-soeharto-buka-sidang-dewan-stabilisasi-ekonomi.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/00933-1969-08-07-presiden-soeharto-jawab-nixon-musuh-paling-besar-indonesia-jika-pelita-gagal.md",
+     "swasembada-pangan-dan-bulog"),
+    ("perpustakaan-soeharto/01026-1972-08-31-presiden-soeharto-harapkan-pma-dorong-usahawan-dalam-negeri.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
     ("perpustakaan-soeharto/01080-1975-08-09-menuju-lampung-presiden-soeharto-resmikan-pabrik-sepeda.md",
      "swasembada-pangan-dan-bulog"),
     ("perpustakaan-soeharto/01104-1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/01385-1973-09-18-sidang-dewan-stabilisasi-ekonomi-ubah-batas-minimum-pajak-kekayaan.md",
+     "stabilisasi-hiperinflasi-1966-1970"),
+    ("perpustakaan-soeharto/01525-1977-09-14-presiden-soeharto-menerima-bahan-bahan-gbhn-dan-p4.md",
+     "teknokrasi-dan-disiplin-repelita"),
+    ("perpustakaan-soeharto/01625-1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat.md",
      "stabilisasi-hiperinflasi-1966-1970"),
     ("perpustakaan-soeharto/01677-menang-tanpa-ngasorake-bagian-2.md",
      "arsitektur-kb-dan-posyandu"),
@@ -226,6 +284,15 @@ EXCLUDE_FILES = {
      "teknokrasi-dan-disiplin-repelita"),
 }
 EXCLUDE_REASONS = {
+    ("dalam-berita-jilid-1/032-djangan-bertindak-sendiri2-1000-karung-beras-20-karung-gula.md",
+     "swasembada-pangan-dan-bulog"):
+        "artikel 1965; beras = barang sitaan razia gudang PKI, bukan program pangan",
+    ("dalam-berita-jilid-1/068-rakjatdan-sobsi-rakjat-serbu-gedungpemuda-dalam-gudang.md",
+     "swasembada-pangan-dan-bulog"):
+        "artikel 1965; beras = temuan penyerbuan gudang SOBSI, bukan program pangan",
+    ("dalam-berita-jilid-1/078-darisidang-gabungan-pimpinanmprs-rakjat-indonesia-lebih.md",
+     "swasembada-pangan-dan-bulog"):
+        "artikel 1965; harga beras hanya pembanding dalam sidang MPRS, bukan program pangan",
     ("diantara-para-sahabat/13-pikiran-modern-dalam-pribadi-jawa.md",
      "teknokrasi-dan-disiplin-repelita"):
         "trilogi dalam daftar konsep; GBHN dalam anekdot Bank Dunia",
@@ -256,15 +323,27 @@ EXCLUDE_REASONS = {
     ("diantara-para-sahabat/82-rasa-kesetiakawanan-yang-kuat.md",
      "desentralisasi-anggaran-program-inpres"):
         "pasar inpres satu klausa observasi pedagang; bukan bahasan mekanisme Inpres",
+    ("otobiografi-soeharto/otobiografi-bab-038-dipercaya-lagi-menjadi-presiden-ri-19731978.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "satu kalimat devaluasi dalam bab pemilihan kembali 1973; hitungan terinflasi kutipan Ringkasan",
     ("otobiografi-soeharto/otobiografi-bab-073-mencerdaskan-kehidupan-bangsa.md",
      "teknokrasi-dan-disiplin-repelita"):
         "Repelita IV penanda waktu; tinggal landas retoris soal iptek; bab pendidikan",
+    ("otobiografi-soeharto/otobiografi-bab-075-satusatunya-asas.md",
+     "teknokrasi-dan-disiplin-repelita"):
+        "tinggal landas retoris satu kalimat dalam bab Asas Tunggal; hitungan terinflasi kutipan Ringkasan",
+    ("otobiografi-soeharto/otobiografi-bab-080-soal-kebebasan-mengeluarkan-pendapat.md",
+     "teknokrasi-dan-disiplin-repelita"):
+        "GBHN hanya dikutip sebagai sumber frasa; bab soal kebebasan berpendapat/pers",
     ("otobiografi-soeharto/otobiografi-bab-094-hal-kekeluargaan-dan-monopoli.md",
      "stabilisasi-hiperinflasi-1966-1970"):
         "PMA/PMDN konteks 1987 (iklim investasi), bukan stabilisasi 1966-1970",
     ("otobiografi-soeharto/otobiografi-bab-101-saya-sebagai-elemen-angkatan45.md",
      "teknokrasi-dan-disiplin-repelita"):
         "Repelita V sekali; tinggal landas retoris; refleksi Angkatan '45",
+    ("perpustakaan-soeharto/00003-prestasi-pembangunan-bidang-ekonomiprestasi-pembangunan-bidang-ekonomi.md",
+     "teknokrasi-dan-disiplin-repelita"):
+        "tinggal landas sebagai slogan/bingkai survei capaian + narasi krisis 1998; tanpa bahasan perencanaan",
     ("perpustakaan-soeharto/00004-presiden-soeharto-dan-misteri-kemelut-1998.md",
      "swasembada-pangan-dan-bulog"):
         "esai krisis 1998; swasembada/beras masing-masing 1x sepintas",
@@ -274,15 +353,36 @@ EXCLUDE_REASONS = {
     ("perpustakaan-soeharto/00018-1969-01-17-presiden-soeharto-menerima-yayasan-pangdam-se-jawa-dan-resmikan-gedung-yayasan-harapan-kita.md",
      "teknokrasi-dan-disiplin-repelita"):
         "Repelita/tinggal landas hanya dalam resolusi rapat yang dikutip; dokumen tentang peresmian yayasan",
+    ("perpustakaan-soeharto/00022-1969-01-25-menerima-perti-presiden-soeharto-repelita-tidak-akan-berhasil-tanpa-partisipasi-rakyat.md",
+     "teknokrasi-dan-disiplin-repelita"):
+        "resepsi partai PERTI; Repelita hanya konteks satu paragraf, tanpa isi perencanaan",
     ("perpustakaan-soeharto/00038-1970-01-05-lakukan-tradisi-baru-presiden-soeharto-sampaikan-rapbn-di-hadapan-dpr-gr.md",
      "stabilisasi-hiperinflasi-1966-1970"):
         "pidato RAPBN multi-topik; inflasi satu klausa pelaporan capaian",
+    ("perpustakaan-soeharto/00114-1972-02-01-sidang-sub-dewan-stabilisasi-ekonomi.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1972, di luar periode; isi soal seragam PNS; kaitan hanya nama dewan",
+    ("perpustakaan-soeharto/00127-reformasi-era-ketergantungan-daging-impor.md",
+     "swasembada-pangan-dan-bulog"):
+        "swasembada sapi era Reformasi 2013, bukan program pangan Orde Baru; nol penyebutan beras/Bulog",
     ("perpustakaan-soeharto/00136-1968-03-29-presiden-soeharto-menjamu-kaindaren-di-tokyo.md",
      "stabilisasi-hiperinflasi-1966-1970"):
         "pernyataan umum stabilisasi/inflasi dalam jamuan diplomatik, tanpa bahasan program",
     ("perpustakaan-soeharto/00144-program-pertanian-era-pak-harto.md",
      "teknokrasi-dan-disiplin-repelita"):
         "Repelita/Pelita I satu kalimat bingkai; dokumen tentang program pertanian",
+    ("perpustakaan-soeharto/00159-1970-03-11presiden-soeharto-bertemu-komisi-empat.md",
+     "swasembada-pangan-dan-bulog"):
+        "Bimas Coopa hanya nama entitas korupsi dalam pertemuan Komisi Empat; tanpa isi program",
+    ("perpustakaan-soeharto/00160-1970-03-12-presiden-soeharto-meresmikan-pabrik-deterjen-pertama.md",
+     "swasembada-pangan-dan-bulog"):
+        "intensifikasi modal (industri) bukan intensifikasi pertanian; peresmian pabrik deterjen",
+    ("perpustakaan-soeharto/00195-1972-03-14-presiden-soeharto-terima-ketua-iggi-c-boertein.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1972, di luar periode; prinsip penerimaan bantuan luar negeri, bukan program 1966-1970",
+    ("perpustakaan-soeharto/00315-1968-04-18-presiden-soeharto-bakukan-urutan-sila-sila-pancasila.md",
+     "desentralisasi-anggaran-program-inpres"):
+        "Inpres 12/1968 soal urutan sila Pancasila; instrumen hukum, bukan program transfer Inpres",
     ("perpustakaan-soeharto/00384-1974-04-09-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-politik-dan-keamanan-nasional.md",
      "stabilisasi-hiperinflasi-1966-1970"):
         "dokumen 1974, di luar cakupan periode pilar 1966–1970",
@@ -292,12 +392,42 @@ EXCLUDE_REASONS = {
     ("perpustakaan-soeharto/00387-1974-04-22-presiden-soeharto-bentuk-irjenbang.md",
      "desentralisasi-anggaran-program-inpres"):
         "Inpres/bantuan desa hanya butir daftar proyek yang diawasi Irjenbang",
+    ("perpustakaan-soeharto/00395-1975-04-12-presiden-soeharto-bahas-persiapan-sidang-iggi-dan-plta-asahan.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1975, di luar periode; IGGI hanya persiapan sidang + Asahan",
+    ("perpustakaan-soeharto/00408-1975-04-15-presiden-soeharto-pimpin-sidang-dewan-stabilisasi-ekonomi-nasional.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1975, di luar periode; moneter rutin, semen, Krakatau Steel",
+    ("perpustakaan-soeharto/00602-1972-05-16-presiden-soeharto-pimpin-sidang-sub-dewan-stabilisasi-ekonomi.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1972, di luar periode; laporan kunjungan Jepang",
+    ("perpustakaan-soeharto/00614-1973-05-01-presiden-soeharto-memimpin-sidang-dewan-stabilisasi-ekonomi.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1973, di luar periode; penyesuaian tarif angkutan",
+    ("perpustakaan-soeharto/00858-1975-07-15-presiden-soeharto-buka-sidang-dewan-stabilisasi-ekonomi.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1975, di luar periode; laporan pinjaman/proyek kunjungan luar negeri",
+    ("perpustakaan-soeharto/00933-1969-08-07-presiden-soeharto-jawab-nixon-musuh-paling-besar-indonesia-jika-pelita-gagal.md",
+     "swasembada-pangan-dan-bulog"):
+        "Bulog hanya lokasi inspeksi; isi soal Nixon + pariwisata; nol substansi Bulog",
+    ("perpustakaan-soeharto/01026-1972-08-31-presiden-soeharto-harapkan-pma-dorong-usahawan-dalam-negeri.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1972, di luar periode; harapan PMA dorong usahawan dalam negeri, bukan program stabilisasi",
     ("perpustakaan-soeharto/01080-1975-08-09-menuju-lampung-presiden-soeharto-resmikan-pabrik-sepeda.md",
      "swasembada-pangan-dan-bulog"):
         "Bimas/intensifikasi cengkeh (bukan pangan pokok), disebut sepintas",
     ("perpustakaan-soeharto/01104-1975-08-07-presiden-soeharto-resmikan-13-pabrik-di-salatiga-dan-dua-pabrik-di-gresik.md",
      "stabilisasi-hiperinflasi-1966-1970"):
         "PMDN/PMA satu klausa pendanaan pabrik",
+    ("perpustakaan-soeharto/01385-1973-09-18-sidang-dewan-stabilisasi-ekonomi-ubah-batas-minimum-pajak-kekayaan.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1973, di luar periode; perubahan batas pajak kekayaan",
+    ("perpustakaan-soeharto/01525-1977-09-14-presiden-soeharto-menerima-bahan-bahan-gbhn-dan-p4.md",
+     "teknokrasi-dan-disiplin-repelita"):
+        "GBHN hanya bahan yang diterima; dokumen soal aksi mahasiswa duduki DPR; tanpa uraian perencanaan",
+    ("perpustakaan-soeharto/01625-1979-09-05-hadapi-laju-inflasi-presiden-soeharto-instruksikan-kesungguhan-kerja-aparat.md",
+     "stabilisasi-hiperinflasi-1966-1970"):
+        "1979, di luar periode; episode inflasi berbeda (preseden 00384)",
     ("perpustakaan-soeharto/01677-menang-tanpa-ngasorake-bagian-2.md",
      "arsitektur-kb-dan-posyandu"):
         "KB sekali soal tekanan penduduk; esai tentang aparatur/transportasi/lingkungan",
@@ -308,8 +438,8 @@ EXCLUDE_REASONS = {
      "teknokrasi-dan-disiplin-repelita"):
         "Repelita I sekali historis; Bappenas hanya di catatan kaki jabatan penulis",
 }
-assert len(EXCLUDE_FILES) == 27 and set(EXCLUDE_REASONS) == EXCLUDE_FILES, \
-    "daftar pengecualian v3 tidak konsisten (harus 27 pasangan)"
+assert len(EXCLUDE_FILES) == 51 and set(EXCLUDE_REASONS) == EXCLUDE_FILES, \
+    "daftar pengecualian v4 tidak konsisten (harus 51 pasangan)"
 
 TAG_LINK_RE = re.compile(r"\[[^\]]*\]\(https?://soehartolibrary\.id/tag/[^)\s]*\)")
 IMAGE_RE = re.compile(r"!\[[^\]]*\]\([^)\s]*\)")
@@ -866,7 +996,7 @@ def write_report(report_path, mode, folders, limit, summary, results, missing_pi
         for r in summary["errors"]:
             lines.append(f"- `{r['file']}` — {r['reason']}")
     lines.append("")
-    lines.append("## Pasangan dikecualikan (daftar pengecualian v3)")
+    lines.append("## Pasangan dikecualikan (daftar pengecualian v4)")
     lines.append("")
     if summary["excluded"]:
         for fname, slug, reason, evidence in summary["excluded"]:
