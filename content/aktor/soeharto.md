@@ -2,8 +2,8 @@
 title: "Soeharto"
 description: "Presiden Republik Indonesia kedua (1968–1998) yang memimpin transisi dari Sukarno ke Orde Baru, membentuk arsitektur kekuasaan politik, ekonomi, dan keamanan yang bertahan 3 dekade."
 date: 1921-06-08
-updated: 2026-11-16
-last_updated: "2026-11-16"
+updated: 2026-11-17
+last_updated: "2026-11-17"
 entity_type: aktor
 entity_id: "soeharto"
 aliases:
@@ -91,6 +91,18 @@ Menurut otobiografinya, *Soeharto: Pikiran, Ucapan dan Tindakan Saya* (1988), ma
 
 Pada 26 Desember 1947 ia menikah dengan Siti Hartinah (Ibu Tien) di Solo. Dari pernikahan itu mereka dikaruniai enam anak: Siti Hardiyanti Hastuti (Tutut), Sigit Harjojudanto, Bambang Trihatmodjo, Siti Hediati Herijadi (Titiek), Hutomo Mandala Putra (Tommy), dan Siti Hutami Endang Adiningsih (Mamiek).
 
+## Karier militer (1940–1974)
+
+Soeharto masuk dinas militer pada 1 Juni 1940, diterima di Sekolah Militer KNIL Gombong (lihat tabel pendidikan di atas); ia lulus Sekolah Kader, menjadi sersan, dan ditempatkan di Cisarua sebelum Belanda menyerah kepada Jepang pada Maret 1942. Setelah sempat bertugas di kepolisian bentukan Jepang (Keibuho) Yogyakarta, pada Oktober 1943 ia masuk PETA, dilatih sebagai shodancho (komandan peleton) di Bogor dan ditempatkan di batalyon pertahanan pantai Wates; pada 1944 ia menjadi chudancho (komandan kompi) dan melatih rekrut PETA di Solo, Jakarta, dan Madiun. Versi Soeharto sendiri tentang masa ini ada di [[otobiografi-soeharto/otobiografi-bab-003-dari-zaman-knil-sampai-ke-zaman-peta|Bab 3: Dari Zaman KNIL sampai ke Zaman Peta]].
+
+Setelah Proklamasi, ia bergabung dengan BKR Yogyakarta; dalam alasan resmi penganugerahan gelar Pahlawan Nasional, pemerintah menyebutnya wakil komandan BKR yang memimpin pelucutan senjata pasukan Jepang di Kota Baru. Pada 5 Oktober 1945 ia masuk TKR dan kemudian menjadi komandan batalyon. Selama Agresi Militer Belanda I dan II ia bergerilya di wilayah Yogyakarta. Peran tempurnya yang paling dikenal adalah Serangan Umum 1 Maret 1949: sebagai Letnan Kolonel dan Komandan Brigade X/Wehrkreise III Yogyakarta, ia memimpin perencanaan dan pelaksanaan serangan yang merebut kembali Kota Yogyakarta selama sekitar enam jam (06.00–12.00). Naskah akademik Keppres 2/2022 menempatkan Sultan Hamengkubuwono IX sebagai penggagas, Panglima Besar Sudirman sebagai pemberi perintah, dan Soekarno–Hatta sebagai pemberi persetujuan serangan itu (versi Soeharto: [[otobiografi-soeharto/otobiografi-bab-010-serangan-umum-1maret|Bab 10: Serangan Umum 1 Maret]]).
+
+Setelah pengakuan kedaulatan, ia bertugas dalam operasi dalam negeri. Pada April 1950, sebagai bagian dari pasukan ekspedisi pimpinan Kolonel A.E. Kawilarang, ia memimpin Brigade Mataram yang mendarat di Makassar pada 26 April 1950 dan menjadi Komandan Sektor Makassar dalam penyelesaian pemberontakan Andi Azis; bentrokan dengan bekas pasukan KNIL masih terjadi hingga Agustus 1950. Pada awal 1950-an, sebagai komandan resimen di Jawa Tengah — Komandan Resimen Infanteri 15 di Solo pada 1953 — ia terlibat dalam operasi terhadap DI/TII. Pada 1956 ia menjadi Kepala Staf Panglima Tentara dan Teritorium IV/Diponegoro di Semarang, lalu Panglima TT IV/Diponegoro pada 1 Januari 1957 dengan pangkat kolonel. Pada 1959 ia ditarik dari komando itu menyusul audit internal Angkatan Darat dan mengikuti Sekolah Staf dan Komando AD (SSKAD) di Bandung, lulus Desember 1960. (Versi Soeharto tentang masa ini: [[otobiografi-soeharto/otobiografi-bab-013-bertugas-di-sulawesi-selatan|Bab 13]], [[otobiografi-soeharto/otobiografi-bab-014-semasa-menguber-ditii|Bab 14]], [[otobiografi-soeharto/otobiografi-bab-015-semasa-jadi-panglima-ttivdiponegoro|Bab 15]].)
+
+Pada 1961 ia memimpin Korps Tentara I/Caduad (Cadangan Umum Angkatan Darat), cikal bakal Kostrad, dan merangkap Panglima Kohanudad sejak Oktober 1961. Pada 2 Januari 1962 ia diangkat menjadi [[otobiografi-soeharto/otobiografi-bab-016-sebagai-panglima-komando-mandala|Panglima Komando Mandala]] Pembebasan Irian Barat untuk melaksanakan Trikora (19 Desember 1961); operasi itu berakhir dengan Perjanjian New York 15 Agustus 1962, dan Komando Mandala dibubarkan pada Mei 1963. Ia kemudian kembali memimpin Kostrad, dan dalam Konfrontasi Malaysia ([[otobiografi-soeharto/otobiografi-bab-017-di-masa-dwikora|Dwikora]], 1964) menjabat Wakil Panglima I KOLAGA di bawah Panglima Omar Dhani. Pada 1 Oktober 1965, sebagai Pangkostrad, ia mengambil alih pimpinan Angkatan Darat dan memimpin penumpasan [[otobiografi-soeharto/otobiografi-bab-018-mengatasi-g30spki|G30S]] — gerakan yang dituduh didalangi PKI — dengan merebut kembali Jakarta, RRI, dan pangkalan Halim pada 1–2 Oktober; pada 2 Oktober Soekarno menugaskannya memulihkan keamanan, dan pada 16 Oktober 1965 ia diangkat menjadi Menteri Panglima Angkatan Darat. Dari posisi inilah, lewat [[otobiografi-soeharto/otobiografi-bab-023-lahirnya-supersemar|Supersemar]] 11 Maret 1966, ia beralih ke kekuasaan politik (lihat [[hub/orde-baru#Transisi 1965–1967|Transisi 1965–1967]] dan [[lembaga/kopkamtib|Kopkamtib]]).
+
+Karier militernya tidak berhenti saat ia menjadi presiden. Ia tetap menjabat Menteri Panglima Angkatan Darat hingga 1 Mei 1968, lalu Panglima ABRI pada 6 Juni 1968–28 Maret 1973, dan memasuki masa pensiun dari dinas militer pada 1974. Pangkat kehormatan tertinggi — Jenderal Besar bintang lima — baru diterimanya pada 1997 (lihat [[peristiwa/penganugerahan-jenderal-besar-1997|Penganugerahan Jenderal Besar 1997]]).
+
 ## Peran sistemik dalam Orde Baru
 
 Soeharto bukan sekadar pemilik jabatan tertinggi; ia adalah arsitek dan penjaga hubungan antar konsep sentral Orde Baru:
@@ -160,6 +172,11 @@ Buku sejarah resmi terbaru juga menempatkan era Soeharto sebagai satu jilid ters
 - **Atribusi, bukan fakta:** penjelasan pengunduran diri 1998 sebagai "pengkhianatan para pembantu dekat" adalah penilaian para pendukungnya, bukan fakta yang bisa dicek; halaman ini mencatat pengunduran diri sebagai peristiwa (21 Mei 1998) tanpa atribusi sebab tunggal.
 - **Detail otobiografi** (garu, belut, uang tertelan, kebun Tangkil, puasa Senin-Kamis) berasal dari otobiografi Soeharto sendiri — ingatan pribadi, bukan dokumen arsip; dicatat sebagai kesaksian diri, bukan verifikasi independen.
 
+- **Penarikan dari komando Diponegoro (1959):** tanggalnya ditulis tahun saja karena sumber berbeda — 17 Oktober 1959 (ringkasan riwayat berbahasa Indonesia) vs 1 November 1959 (artikel riwayat awal berbahasa Inggris). Hamish McDonald — diikuti tulisan Christopher M. Barr — mengaitkan penarikan itu dengan dugaan penyalahgunaan usaha-usaha divisi yang ditemukan audit internal; Soeharto tidak diadili militer atas hal itu dan dikirim ke SSKAD. Seksi ini mencatat penarikan dan SSKAD sebagai fakta, dugaan penyalahgunaannya sebagai atribusi.
+- **Rincian jabatan 1953–1961 dan pensiun 1974** berasal dari ringkasan riwayat sekunder (biografi Roeder; artikel Channel8 yang mengutip laman resmi TNI; ringkasan Wikipedia) dan belum dibanding dengan dokumen kepegawaian atau arsip AD; tanggal yang dipakai adalah yang konsisten di lebih dari satu sumber, selebihnya ditulis tahun saja. Nomor Keppres pensiun (58/ABRI/1974) hanya disebut ringkasan Wikipedia dan belum diverifikasi ke naskah Keppres, sehingga tidak dicantumkan di badan seksi.
+- **Tidak dirinci di seksi ini:** peran tempur Soeharto dalam pemberontakan Madiun 1948 dan Agresi Militer Belanda I — sumber yang tersedia baru narasi otobiografi (Bab 6 dan Bab 9) tanpa corroboration independen yang dicek. Kronologi Kopkamtib selengkapnya ada di halaman [[lembaga/kopkamtib|Kopkamtib]] sendiri.
+- **Serangan Umum 1 Maret 1949:** pembagian peran penggagas/perintah/pelaksana mengikuti naskah akademik Keppres 2/2022; sebutan "aktor utama" atau "aktor tunggal" tidak dipakai.
+
 ## Sumber
 
 - **[soehartolibrary.id] ([2026-10-18]):** [Arsip pidato dan kliping berita Soeharto](https://soehartolibrary.id/)
@@ -178,3 +195,8 @@ Buku sejarah resmi terbaru juga menempatkan era Soeharto sebagai satu jilid ters
   - https://www.soehartois.com/2024/10/tahap-karier-militer-dan-perjuangan.html
   - https://www.soehartois.com/2024/10/masa-kepemimpinan-19661998.html
   - https://www.soehartois.com/2024/10/masa-purna-jabatan-dan-akhir-kehidupan.html
+- **Museum Soeharto (museumsoeharto.com):** ["Penugasan dan Karir Militer"](https://www.museumsoeharto.com/penugasan-dan-karir-militer/) — Serangan Umum 1 Maret 1949 (06.00–12.00, Komandan Brigade 10/Wehrkreise III) dan Komando Mandala (dibentuk 2 Januari 1962; diakses 17 November 2026).
+- **Fitriano & Lestari (2025):** ["Peran Strategi Militer dan Manuver Politik dalam Serangan Umum 1 Maret 1949 di Yogyakarta"](https://journal.unesa.ac.id/index.php/jhi/article/download/48393/15053/160765), Jurnal Kronik UNESA — Letkol Soeharto sebagai Komandan Wehrkreise III (diakses 17 November 2026).
+- **Naskah Akademik Keppres 2/2022** ("Serangan Umum 1 Maret 1949 sebagai Hari Nasional Penegakan Kedaulatan Negara", Dinas Kebudayaan DIY) — pembagian peran HB IX/Sudirman/Soekarno-Hatta, sebagaimana dilaporkan [bentan.co.id](https://bentan.co.id/termasuk-soeharto-tokoh-terlibat-su-1-maret-ada-di-keppres/) (naskah akademiknya sendiri tidak dibuka langsung; diakses 17 November 2026).
+- **Channel8 (17 Januari 2025):** ["Perjalanan Karir Militer Soeharto, Dari Anak Petani hingga Panglima ABRI"](https://www.channel8.co.id/1349/2025/01/perjalanan-karir-militer-soeharto-dari-anak-petani-hingga-panglima-abri.html/) — ringkasan mengutip laman resmi TNI; dipakai sebagai pemeriksa silang tanggal jabatan 1956–1965 (diakses 17 November 2026).
+- **Pemeriksa silang tanggal (bukan otoritas fakta):** "Early life and career of Suharto" (Wikipedia bahasa Inggris) untuk SSKAD/Caduad/Mandala; "Suharto"/"Soeharto" (Wikipedia bahasa Inggris/Indonesia) untuk masa jabatan Panglima ABRI dan pensiun 1974 (diakses 17 November 2026).
