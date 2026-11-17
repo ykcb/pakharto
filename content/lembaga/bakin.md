@@ -2,8 +2,8 @@
 title: "Bakin (Badan Koordinasi Intelijen Negara)"
 description: "Lembaga intelijen strategis pusat era Orde Baru yang bertugas mengkoordinasikan pengumpulan informasi rahasia, operasi kontra-subversi, dan rekayasa politik domestik 1967–2001."
 date: 1967-05-22
-updated: 2026-11-10
-last_updated: "2026-11-10"
+updated: 2026-11-17
+last_updated: "2026-11-17"
 entity_type: organisasi
 entity_id: "bakin"
 aliases:
@@ -28,6 +28,15 @@ sumber:
   - url: https://nautilus.org/wp-content/uploads/2011/12/Chapter-9.pdf
     judul: "Richard Tanter (1991), Intelligence Agencies and Third World Militarization, Bab 9 — disertasi Monash [TERVERIFIKASI 2026-11-10]"
     tanggal: 2026-11-10
+  - url: https://emedia.dpr.go.id/news/2024/10/18/paripurna-dpr-setujui-herindra-jadi-kepala-bin
+    judul: "Paripurna DPR Setujui Herindra Jadi Kepala BIN (17 Okt 2024) — DPR RI [TERVERIFIKASI 2026-11-17]"
+    tanggal: 2026-11-17
+  - url: https://id.wikipedia.org/wiki/Daftar_Kepala_Badan_Intelijen_Negara
+    judul: "Daftar Kepala Badan Intelijen Negara — Wikipedia bahasa Indonesia (silsilah kepala BIN 2004–2024) [TERVERIFIKASI 2026-11-17]"
+    tanggal: 2026-11-17
+  - url: https://www.rctiplus.com/news/detail/terkini/5508801/begini-penjelasan-polri-soal-listyo-sigit-cs-yang-jadi-tersangka-penyadapan-prabowo
+    judul: "Penjelasan Polri soal Listyo Sigit cs tersangka dugaan penyadapan Presiden (4 Nov 2026) — RCTI+ [TERVERIFIKASI 2026-11-17]"
+    tanggal: 2026-11-17
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -82,6 +91,12 @@ Menurut G. Dwipayana dkk. (*Di Antara Para Sahabat Pak Harto 70 Tahun*, 1991), Y
 ## Transformasi pasca-Orde Baru
 Pada masa Presiden Abdurrahman Wahid, nama Badan Intelijen Negara (BIN) mulai dipakai menggantikan Bakin — konsep badan baru bernama Lembaga Intelijen Negara (LIN) disetujui pada 2000, dan nama BIN dipakai sejak Januari 2001. Arie Kumaat tercatat sebagai kepala terakhir (1999–2001), dan A. M. Hendropriyono menjadi Kepala BIN pertama (9 Agustus 2001 – 8 Desember 2004). Keppres No. 103 Tahun 2001 (13 September 2001, era Presiden Megawati Soekarnoputri) mengukuhkan BIN sebagai Lembaga Pemerintah Non Departemen (LPND) — peraturan umum tentang LPND yang dalam pasalnya mencantumkan "Badan Intelijen Negara disingkat BIN" — dan Keppres No. 110 Tahun 2001 mengatur struktur eselon I BIN (Kepala, Wakil Kepala, Sekretariat Utama, lima Deputi, dan lima Staf Ahli). Dasar hukum BIN saat ini adalah UU No. 17 Tahun 2011 tentang Intelijen Negara.
 
+Setelah Hendropriyono, BIN dipimpin berturut-turut oleh Syamsir Siregar (8 Desember 2004 – 22 Oktober 2009), Sutanto (22 Oktober 2009 – 19 Oktober 2011), Marciano Norman (19 Oktober 2011 – 8 Juli 2015), Sutiyoso (8 Juli 2015 – 9 September 2016), dan Budi Gunawan (9 September 2016 – 21 Oktober 2024) — masa jabatan terlama di era Reformasi, sekitar delapan tahun. Sejak 21 Oktober 2024, Kepala BIN adalah Muhammad Herindra, purnawirawan TNI yang sebelumnya menjabat Wakil Menteri Pertahanan (23 Desember 2020 – 20 Oktober 2024); ia dilantik Presiden Prabowo Subianto melalui Keppres No. 134/P Tahun 2024 setelah DPR menyatakan dirinya layak dalam Rapat Paripurna 17 Oktober 2024. Pada 10 Agustus 2025, Herindra menerima pangkat kehormatan Jenderal TNI (Hor) bintang empat.
+
+Pada November 2026, peran deteksi dini BIN diuji oleh kasus dugaan penyadapan ilegal: Bareskrim Polri menetapkan tiga tersangka pada 3 November 2026 — mantan Kapolri Jenderal Listyo Sigit Prabowo (saat itu Kepala Staf Kepresidenan), Irjen Ahrie Sonta Nasution, dan Irjen Eko Hadi Santoso — lalu tersangka keempat, Irjen Slamet Uliandi, pada 5 November 2026. Menurut penyidik, penyadapan diduga berlangsung sepanjang 2025–2026 dengan memasukkan nomor telepon ke dalam sistem *Lawful Interception Management System* (LIMS) Polri tanpa verifikasi dan tanpa kaitan dengan penegakan hukum; sasarannya antara lain nomor telepon Presiden Prabowo Subianto, pejabat negara, tokoh politik, wartawan, tokoh ormas, aktivis LSM, dan pengusaha, dan berkas hasil sadapan diduga dihapus pada Oktober 2026. Kepala BIN Herindra, seusai dipanggil Presiden pada 6 November 2026, menilai perbuatan itu ilegal dan "mengarah ke tindakan yang makar"; sebaliknya Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra menyatakan pada 3 November 2026 bahwa pemeriksaan sementara tidak menunjukkan indikasi makar. Pada 4 November 2026, BEM Nusantara mendesak Presiden mencopot Herindra karena menilai BIN gagal mendeteksi penyadapan yang berlangsung lama terhadap komunikasi kepala negara. Perkara ini masih berjalan pada saat halaman ini diperbarui; penetapan tersangka bukan putusan pengadilan.
+
+[Inferensi: kasus ini menguji mandat deteksi dini dan peringatan dini intelijen negara sebagaimana diatur UU No. 17 Tahun 2011 — penyadapan terhadap kepala negara dari dalam institusi negara diduga berlangsung lebih dari setahun sebelum terbongkar, dan pengungkapnya bukan BIN.]
+
 ## Sumber
 - **Keppres No. 70 Tahun 1967:** Pembentukan Badan Koordinasi Intelijen Negara (22 Mei 1967; mencabut Keppres No. 181 Tahun 1966 tentang KIN).
 - **Keppres No. 103 Tahun 2001:** Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja LPND (13 Sep 2001; mencantumkan BIN).
@@ -90,10 +105,14 @@ Pada masa Presiden Abdurrahman Wahid, nama Badan Intelijen Negara (BIN) mulai di
 - **Richard Tanter (1991):** *Intelligence Agencies and Third World Militarization*, Bab 9 — Disertasi Monash tentang Bakin, Opsus, dan integrasi Bakin–Kopkamtib pasca-Malari.
 - **Harold Crouch (1978; ed. revisi 1988):** *The Army and Politics in Indonesia*, Bab 10 "The Emasculation of the Political Parties" — Rujukan klasik soal pelemahan partai politik era Orde Baru.
 - **Antoine Beaumont (2025):** "Le renseignement en Indonésie: entre autoritarisme hérité et défis démocratiques", *Études françaises de renseignement et de cyber* 5(2), hlm. 35–50. DOI: 10.3917/efrc.252.0035.
+- **DPR RI (17 Oktober 2024):** "Paripurna DPR Setujui Herindra Jadi Kepala BIN" (emedia.dpr.go.id).
+- **Bareskrim Polri (3–5 November 2026):** penetapan empat tersangka dugaan penyadapan ilegal terhadap Presiden dan pejabat negara (konferensi pers Kabareskrim; RCTI+, 4 November 2026).
+- **Daftar Kepala BIN:** silsilah kepala BIN 2004–2024 (Wikipedia bahasa Indonesia, diakses 17 November 2026).
 - **Imran Nugroho (2022):** "Jenderal Yoga Soegama: Kiprahnya Seorang Loyalis dan Tangan Kanan Intelijen Soeharto (1955–1989)", skripsi S1 Pendidikan Sejarah, Universitas Negeri Jakarta.
 
 ## Catatan presisi
 - **Perbedaan Bakin vs BAIS:** Bakin adalah badan intelijen negara strategis yang berfokus pada dinamika politik, ekonomi, dan sosial nasional/internasional, sedangkan Badan Intelijen Strategis (BAIS) ABRI berfokus pada doktrin militer operasional, persenjataan, dan operasi pertahanan teritorial ABRI.
 - **Koreksi nomor Keppres pembentukan (2026-11-10):** versi sebelumnya halaman ini menulis "Keppres No. 17 Tahun 1967" — nomor itu salah; menurut JDIH BPK, Keppres No. 17/1967 adalah tentang pemindahan duta besar ke Yugoslavia. Yang benar adalah **Keppres No. 70 Tahun 1967** (tanggal 22 Mei 1967 tetap benar).
 - **Dua versi soal kepala formal Bakin 1967–1970 (belum diputuskan — perlu keputusan user):** daftar resmi Kepala BIN menyebut Soedirgo sebagai kepala 1967–1968, lalu Yoga 1968–1969, lalu Sutopo dari 1969. Namun Richard Tanter (Bab 9, berdasarkan wawancara dan arsip) menulis kepala formal Bakin adalah Soeharto sendiri, dengan Soedirgo sebagai wakil pelaksana harian, dan Sutopo baru mengambil alih dari Soeharto pada Januari 1970. Halaman ini memakai versi daftar resmi pada tabel di atas dan mencatat versi Tanter di sini; jangan pilih satu versi sebelum ada sumber primer (Keppres pengangkatan) yang memastikan.
+- **Soedirgo ditangkap 1968 (atribusi Tanter):** menurut Richard Tanter (Bab 9), Soedirgo ditangkap pada 1968 atas dugaan keterlibatan dengan Gerakan 30 September — konteks yang mungkin menjelaskan mengapa masa jabatannya berakhir November 1968. Halaman ini mencatatnya sebagai atribusi Tanter, bukan fakta yang sudah dipastikan sumber primer.
 - **Varian ejaan nama:** "Yoga Soegomo" (daftar BIN) vs "Yoga Sugama" (biografi); "Sudibyo" (daftar BIN) vs "Soedibyo" (ejaan lama). Halaman ini memakai ejaan daftar BIN.
