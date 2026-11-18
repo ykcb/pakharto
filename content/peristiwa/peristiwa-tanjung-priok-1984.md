@@ -2,8 +2,8 @@
 title: "Peristiwa Tanjung Priok 1984"
 description: "Bentrokan berdarah 12 September 1984 di Tanjung Priok: massa menuntut pembebasan empat tahanan dihadang regu Arhanudse-6; puluhan tewas; latar belakangnya Asas Tunggal Pancasila dan kebutuhan stabilitas nasional di masa pembangunan."
 date: 1984-09-12
-updated: 2026-11-11
-last_updated: "2026-11-11"
+updated: 2026-11-18
+last_updated: "2026-11-18"
 entity_type: peristiwa
 entity_id: "peristiwa-tanjung-priok-1984"
 aliases:
@@ -40,6 +40,27 @@ sumber:
   - url: https://kompaspedia.kompas.id/baca/paparan-topik/peristiwa-tanjung-priok-1984-latar-belakang-masalah-tragedi-kerusuhan-dan-penyelesaian-pelanggaran-ham
     judul: "Kompaspedia: Peristiwa Tanjung Priok 1984"
     tanggal: 2026-11-08
+  - url: https://kontras.org/menggugat-pengabaian-negara-menolak-pemutihan-sejarah-menguatkan-solidaritas-korban/
+    judul: "KontraS (22 Jun 2026), 'Menggugat Pengabaian Negara, Menolak Pemutihan Sejarah, Menguatkan Solidaritas Korban' — pernyataan sikap Kongres Korban dan Keluarga Korban Pelanggaran Berat HAM (Jakarta, 9–11 Jun 2026; Tanjung Priok termasuk) [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://nurterbit.com/2026/09/mengenang-42-tahun-tragedi-tanjung-priok-1984/
+    judul: "Nur Terbit (15 Sep 2026), 'Mengenang 42 Tahun Tragedi Tanjung Priok 1984' — audiensi keluarga korban 12 Sep 2026 di Masjid Al Araf, Cilincing (mengutip Teropongrakyat.co) [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://www.amnesty.id/kabar-terbaru/siaran-pers/menggugatgelarpahlawansoeharto-saksi-bongkar-jejak-kejahatan-ham-dan-kasus-korupsi-soeharto-di-ptun-jakarta/09/2026/
+    judul: "Amnesty International Indonesia (28 Sep 2026), '#MenggugatGelarPahlawanSoeharto' — sidang pembuktian 151/G/2026/PTUN.JKT: saksi Fatia Nadia (Komnas Perempuan) & Usman Hamid; Priok disebut satu dari 10 pelanggaran HAM berat [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://www.amnesty.id/kabar-terbaru/siaran-pers/koalisi-hari-pahlawan-terkooptasi-kekuasaan-tolak-pemutihan-sejarah-soeharto-dan-politisasi-gelar-kepahlawanan/11/2026/
+    judul: "Amnesty International Indonesia (10 Nov 2026) — pembacaan putusan 151/G/2026/PTUN.JKT dijadwalkan 17 Nov 2026 [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional
+    judul: "wiki.iraamalia.id — 'Soeharto Pahlawan Nasional': amar putusan 151/G/2026/PTUN.JKT (gugatan ditolak seluruhnya, 17 Nov 2026, biaya Rp461.000) terverifikasi dari SIPP PTUN Jakarta, dicek 17 Nov 2026 [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://indowarta.com/113111-putusan-kasasi-paniai-vonis-5-tahun-isak-sattu-dan-kompensasi-rp23-miliar
+    judul: "IndoWarta (16 Nov 2026) — Putusan kasasi MA perkara Paniai No. 12000 K/Pid.Sus-HAM/2026 (10 Nov 2026): Isak Sattu 5 tahun + kompensasi total Rp2,3 M (pembanding; dikuatkan BBC News Indonesia 17 Nov 2026) [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://en.wikipedia.org/wiki/Hartono_Rekso_Dharsono
+    judul: "Wikipedia (EN), 'Hartono Rekso Dharsono' — divonis 10 tahun (1986), dikurangi 7 tahun di banding, bebas September 1990; dikuatkan The Jakarta Post (10 Jun 1998) [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -134,15 +155,37 @@ KPPHAM (2000) mengidentifikasi 9 korban tewas dengan nama: Amir Biki, Zainal Amr
 ### 2025-09-12
 - Pada peringatan 41 tahun peristiwa, KontraS dan Ikatan Keluarga Korban Tanjung Priok (IKAPRI) menyatakan negara masih berutang kepada korban: menuntut mekanisme reparasi bagi korban dan keluarga, pencatatan korban sebagai orang yang dihilangkan secara paksa dalam administrasi kependudukan DKI Jakarta, pembangunan memorialisasi, dan ratifikasi Konvensi Internasional tentang Perlindungan terhadap Penghilangan Paksa.
 
+### 2026-06-09
+- Kongres Korban dan Keluarga Korban Pelanggaran Berat HAM digelar di Jakarta (9–11 Juni 2026), dihadiri korban dan keluarga korban tragedi 1965–1966, Tanjung Priok, Talangsari, penghilangan paksa 1997–1998, Simpang KKA, dan Rumoh Geudong. Pernyataan sikap kongres (22 Juni 2026) menuntut antara lain: Jaksa Agung menindaklanjuti berkas penyelidikan Komnas HAM dengan Tim Penyidik ad hoc (Pasal 21 ayat (3) UU No. 26/2000), pemerintah menghentikan penyelesaian non-yudisial, DPR menyusun kembali UU komisi kebenaran, memorialisasi substantif dengan melibatkan korban, dan pemulihan nama baik korban. Pernyataan itu menilai pengadilan HAM ad hoc Tanjung Priok (bersama Timor Timur, Abepura, dan Paniai) "kian mempertebal impunitas dengan menjatuhkan vonis bebas".
+
+### 2026-09-12
+- Pada peringatan 42 tahun peristiwa, puluhan warga dan keluarga korban menggelar audiensi di Masjid Al Araf, Jl. Tipar Cakung, Cilincing, Jakarta Utara. Agenda yang dilaporkan: permohonan rehabilitasi nama Amir Biki dan kompensasi bagi keluarga korban; M. Beni Biki meminta Presiden Prabowo Subianto mengeluarkan keputusan yang menjadi dasar rehabilitasi nama Amir Biki, merujuk pada penyelesaian non-yudisial 2023. (Menurut laporan Teropongrakyat.co yang dikutip Nur Terbit, 15 September 2026.)
+
+### 2026-09-28
+- Sidang pembuktian perkara No. 151/G/PTUN.JKT di PTUN Jakarta — gugatan Gerakan Masyarakat Sipil Adili Soeharto (GEMAS) yang mendampingi korban dan keluarga korban pelanggaran HAM berat, termasuk kasus Tanjung Priok 1984, terhadap Keppres No. 116/TK/2025 tentang Penganugerahan Gelar Pahlawan Nasional kepada Soeharto. Dua saksi penggugat bersaksi: Fatia Nadia (Komnas Perempuan), yang menyebut Tanjung Priok 1984 sebagai satu dari 10 pelanggaran HAM berat di masa Soeharto, dan Usman Hamid.
+
+### 2026-11-10
+- Sebagai pembanding: Mahkamah Agung mengabulkan kasasi jaksa dalam perkara pelanggaran HAM berat Paniai (No. 12000 K/Pid.Sus-HAM/2026) — Mayor Inf (Purn) Isak Sattu dinyatakan terbukti dan divonis 5 tahun penjara plus kompensasi total Rp2,3 miliar bagi korban (Rp250 juta per korban meninggal, Rp210 juta luka berat, Rp115 juta luka sedang, Rp75 juta luka ringan). BBC News Indonesia menyebut ini putusan pertama di Indonesia dalam perkara pelanggaran HAM berat yang menjatuhkan vonis penjara disertai kompensasi — kontras dengan Tanjung Priok, yang kompensasi Rp1,0155 miliarnya (2004) tidak pernah dibayarkan.
+
+### 2026-11-17
+- Perkara 151/G/2026/PTUN.JKT diputus secara elektronik (13:00 WIB): eksepsi tergugat dan Tergugat II Intervensi dinyatakan tidak diterima; dalam pokok perkara, gugatan ditolak untuk seluruhnya; para penggugat dihukum membayar biaya perkara Rp461.000. Upaya hukum lanjutan (banding) belum diketahui.
+
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden RI yang meletakkan kebijakan stabilitas nasional dan Asas Tunggal Pancasila sebagai fondasi persatuan bangsa guna menopang pembangunan ekonomi dan menjaga capaian swasembada pangan.
 - **Jenderal L. B. Moerdani** — Panglima ABRI dan Pangkopkamtib yang mengeluarkan pernyataan resmi dan bertanggung jawab atas kebijakan keamanan nasional saat itu.
 - **Mayjen Try Sutrisno** — Pangdam V/Jaya (Panglima Komando Daerah Militer Jakarta Raya) yang memegang komando teritorial ibu kota, dan pada 2001 memprakarsai Islah bersama keluarga korban.
 - **Amir Biki** — Tokoh aktivis masyarakat Tanjung Priok yang memimpin aksi long march dan tewas tertembak di lokasi.
 - **Kapten Sutrisno Mascung** — Komandan regu Arhanudse-6 di Jalan Jampea; dibebaskan oleh Pengadilan HAM Ad-Hoc dan Mahkamah Agung (2004–2005).
-- **Letjen TNI (Purn) H. R. Dharsono** — Tokoh militer penandatangan Petisi 50 yang dipenjara 7 tahun karena menerbitkan kertas analisis kritis tentang Tragedi Priok.
+- **Letjen TNI (Purn) H. R. Dharsono** — Tokoh militer penandatangan Petisi 50 yang divonis 10 tahun penjara pada 1986 (dikurangi menjadi 7 tahun di tingkat banding) dan bebas September 1990 setelah menjalani ±5 tahun — karena menerbitkan kertas analisis kritis tentang Tragedi Priok.
 
 ## Sumber
+- **KontraS (22 Juni 2026):** "Menggugat Pengabaian Negara, Menolak Pemutihan Sejarah, Menguatkan Solidaritas Korban" — https://kontras.org/menggugat-pengabaian-negara-menolak-pemutihan-sejarah-menguatkan-solidaritas-korban/ — pernyataan sikap Kongres Korban dan Keluarga Korban Pelanggaran Berat HAM (Jakarta, 9–11 Juni 2026); tuntutan Tim Penyidik ad hoc, penghentian penyelesaian non-yudisial, UU komisi kebenaran, memorialisasi, pemulihan nama baik; penilaian atas pengadilan HAM ad hoc Tanjung Priok.
+- **Amnesty International Indonesia (28 September 2026):** "#MenggugatGelarPahlawanSoeharto: Saksi Bongkar Jejak Kejahatan HAM dan Kasus Korupsi Soeharto di PTUN Jakarta" — https://www.amnesty.id/kabar-terbaru/siaran-pers/menggugatgelarpahlawansoeharto-saksi-bongkar-jejak-kejahatan-ham-dan-kasus-korupsi-soeharto-di-ptun-jakarta/09/2026/ — sidang pembuktian 151/G/2026/PTUN.JKT (saksi Fatia Nadia & Usman Hamid).
+- **Amnesty International Indonesia (10 November 2026):** "Hari Pahlawan Terkooptasi Kekuasaan…" — https://www.amnesty.id/kabar-terbaru/siaran-pers/koalisi-hari-pahlawan-terkooptasi-kekuasaan-tolak-pemutihan-sejarah-soeharto-dan-politisasi-gelar-kepahlawanan/11/2026/ — pembacaan putusan 151/G/2026/PTUN.JKT dijadwalkan 17 November 2026.
+- **"Soeharto Pahlawan Nasional", wiki.iraamalia.id** — https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional — amar putusan 151/G/2026/PTUN.JKT (gugatan ditolak untuk seluruhnya, 17 November 2026, biaya perkara Rp461.000), terverifikasi dari SIPP PTUN Jakarta (dicek 17 November 2026 pukul 16:58–17:00 WIB).
+- **Nur Terbit (15 September 2026):** "Mengenang 42 Tahun 'Tragedi Tanjung Priok 1984'" — https://nurterbit.com/2026/09/mengenang-42-tahun-tragedi-tanjung-priok-1984/ — audiensi keluarga korban 12 September 2026 di Masjid Al Araf, Cilincing (mengutip Teropongrakyat.co, 12 September 2026).
+- **BBC News Indonesia (17 November 2026):** "Pelaku pelanggaran HAM berat kasus Paniai divonis lima tahun penjara" — https://www.bbc.com/indonesia/articles/cmkgdxzz5wlgo — kasasi MA No. 12000 K/Pid.Sus-HAM/2026 (10 November 2026): Isak Sattu 5 tahun + kompensasi total Rp2,3 miliar; putusan pertama dalam perkara pelanggaran HAM berat yang menjatuhkan vonis penjara disertai kompensasi.
+- **Hartono Rekso Dharsono:** Wikipedia bahasa Inggris — https://en.wikipedia.org/wiki/Hartono_Rekso_Dharsono — divonis 10 tahun (1986), dikurangi 7 tahun di tingkat banding, bebas September 1990; dikuatkan *The Jakarta Post*, "Govt urged to restore late Dharsono's name" (10 Juni 1998): "freed for good behavior in 1990 after serving five years of his jail term".
 - **Komnas HAM (2000):** *Laporan Akhir Komisi Penyelidik Pelanggaran HAM (KPPHAM) Kasus Tanjung Priok* — salinan: https://id.scribd.com/doc/80856428/Komnas-HAM-Tentang-Kasus-Tanjung-Priok — 79 korban (55 luka, 23–24 tewas), 9 korban tewas teridentifikasi dengan nama, 14 tak teridentifikasi.
 - **KontraS & IKAPRI (31 Januari 2007), "Request for compensation for Tanjung Priok victims"** — http://www.humanrights.asia/news/forwarded-news/FS-003-2007/ — putusan Pengadilan HAM Ad-Hoc 20 Agustus 2004: kompensasi dan restitusi Rp1.015.500.000 untuk 13 korban dan keluarga (perkara Sutrisno Mascung dkk., No. 01/Pid.HAM/Ad Hoc/2003/PN.Jkt.Pst).
 - **KontraS & IKAPRI (12 September 2025), "41 Tahun Peristiwa Tanjung Priok: Utang Negara kepada Korban Pelanggaran Berat HAM"** — https://kontras.org/artikel/rilis-pers-41-tahun-peristiwa-tanjung-priok-utang-negara-kepada-korban-pelanggaran-berat-ham — tuntutan reparasi, pencatatan korban sebagai orang hilang secara paksa, memorialisasi, ratifikasi konvensi penghilangan paksa.
@@ -167,3 +210,6 @@ KPPHAM (2000) mengidentifikasi 9 korban tewas dengan nama: Amir Biki, Zainal Amr
 - **Islah 2001:** Pada tahun 2001, mantan Pangdam Jaya Try Sutrisno menandatangani piagam perdamaian (*islah*) dengan sebagian keluarga korban Tanjung Priok yang diwakili oleh kerabat Amir Biki dengan kompensasi bantuan sosial. Namun, sebagian keluarga korban lainnya menolak islah tersebut dan tetap menuntut pengadilan HAM yang adil serta penemuan kuburan massal korban yang hilang.
 - **Angka 23 vs 24 tewas (KPPHAM 2000):** laporan tindak lanjut KP3T menyebut 79 korban — 55 luka-luka dan 24 tewas — namun rincian nama yang dapat dipastikan hanya 23 orang (9 teridentifikasi, 14 tak teridentifikasi). Selisih satu orang ini yang membuat sebagian ringkasan menulis 23 dan sebagian 24; halaman ini memakai rentang 23–24 dengan penjelasan di atas.
 - **Koreksi atas versi sebelumnya halaman ini:** versi sebelumnya menulis Pengadilan HAM Ad-Hoc "membebaskan seluruh perwira terdakwa" pada 2003–2004. Yang benar: tingkat pertama justru menyatakan 12 terdakwa bersalah (Butar Butar 10 tahun; kompensasi Rp1,0155 miliar untuk 13 korban, 20 Agustus 2004); pembebasan total baru terjadi di tingkat banding (2005) dan kasasi ditolak MA (2006).
+- **Koreksi Dharsono (2026-11-18):** versi sebelumnya menulis H. R. Dharsono "dipenjara 7 tahun". Yang terverifikasi: ia divonis 10 tahun pada 1986, dikurangi menjadi 7 tahun di tingkat banding, dan bebas September 1990 setelah menjalani ±5 tahun (The Jakarta Post, 10 Juni 1998; Wikipedia EN). Bulan vonis tidak ditulis — satu sumber sekunder menyebut 8 Januari 1986, sumber lain 8 Juni 1986; konflik minor ini tidak diputuskan.
+- **Putusan 151/G/2026/PTUN.JKT (2026-11-18):** amar putusan terverifikasi dari SIPP PTUN Jakarta (via wiki.iraamalia.id, dicek 17 November 2026); pertimbangan hakim belum diketahui (SIPP hanya memuat amar). Status upaya hukum lanjutan (banding) belum diketahui — jangan klaim ada/tidak ada banding.
+- **Ditolak/ditunda (2026-11-18):** buku/jurnal baru 2024–2026 tentang Tanjung Priok (tidak ditemukan); kemajuan ratifikasi Konvensi Penghilangan Paksa 2026 (tidak ada — Indonesia masih penandatangan sejak 27 September 2010); rincian blog Nur Terbit yang bertentangan dengan halaman — ultimatum "sebelum jam 24.00 WIB" (halaman: 23.00 WIB, bersumber KPPHAM) dan "13 bawahan" Sutrisno Mascung (halaman: 10 anggota, bersumber KPPHAM) — bersumber tunggal dari ingatan pribadi, tidak cukup kuat untuk mengubah kronologi yang sudah bersumber primer.
