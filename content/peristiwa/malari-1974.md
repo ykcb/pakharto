@@ -2,8 +2,8 @@
 title: "Peristiwa Malari 1974"
 description: "Kerusuhan 15–16 Januari 1974 saat kunjungan PM Jepang Kakuei Tanaka: protes mahasiswa terhadap modal asing yang berujung pembakaran Pasar Senen, 11 tewas, koreksi kebijakan ekonomi 22 Januari 1974, dan pengetatan politik kampus serta pers."
 date: 1974-01-15
-updated: 2026-11-11
-last_updated: "2026-11-11"
+updated: 2026-11-18
+last_updated: "2026-11-18"
 entity_type: peristiwa
 entity_id: "malari-1974"
 aliases:
@@ -41,6 +41,21 @@ sumber:
   - url: https://repository.uai.ac.id/wp-content/uploads/2020/08/Pokok-Pokok-Pengaturan-Penanaman-Modal-Di-Indonesia_2016_SA.pdf
     judul: "Pokok-Pokok Pengaturan Penanaman Modal di Indonesia (Repository UAI)"
     tanggal: 2026-11-08
+  - url: https://ciaotest.cc.columbia.edu/book/bresnan/bresnan16.html
+    judul: "Bresnan, John (1993), Managing Indonesia: The Modern Political Economy (Columbia University Press), bab 6 'The January 15 Disaster' — varian 820 ditangkap + komposisinya; pencopotan Sutopo Juwono dari Kepala Bakin [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://pdfs.semanticscholar.org/2c92/529c8542fc21ccde1090cf4dbdb33c64b538.pdf
+    judul: "Sahrasad & Ridwan (2020), 'The Malari 1974, Press and the Soeharto's New Order', BIRCI-Journal 3(4), hlm. 2796–2806, DOI 10.33258/birci.v3i4.1289 — daftar lengkap 12 media yang dibredel [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://ia802908.us.archive.org/24/items/StateDeptcable1976-17537/State%20Dept%20cable%201976-17537.pdf
+    judul: "Kabel Kedutaan Besar AS Jakarta No. 1976JAKART05218, 21 April 1976, 'Hariman Siregar Sentence Reduced' (Arsip Nasional AS/NARA, dideklasifikasi 4 Mei 2006) — banding 20 April 1976: 6 tahun → 4,5 tahun [TERVERIFIKASI PRIMER 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://jurnalekbis.com/2026/01/15/ketika-sejarah-mengingatkan-kebebasan-konstitusi-dan-etika-yang-terancam-ulang/
+    judul: "Peringatan 52 tahun Malari, Universitas Paramadina, 15 Januari 2026 (dirangkai HUT INDEMO ke-26; Hariman Siregar berpidato) [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
+  - url: https://inilahsulsel.com/tokoh-malari-hariman-siregar-saatnya-prabowo-jadi-presiden-yang-akuntabel/
+    judul: "Peringatan 51 tahun Malari, Hotel Green Forest Bogor, 15 Januari 2025 (Hariman Siregar: 'Kita belum memiliki presiden yang akuntabel') [TERVERIFIKASI 2026-11-18]"
+    tanggal: 2026-11-18
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -78,12 +93,14 @@ Pelajaran ketiganya terbukti setelah puluhan tahun sejak Malari: investasi asing
 | **Korban Jiwa & Luka** | 11 orang tewas; luka-luka 137–300 dan 750–775 ditangkap (angka berbeda antar sumber — lihat Catatan angka) | Laporan resmi Pangkopkamtib & pers sezaman |
 | **Kerusakan Material** | 144 bangunan rusak/terbakar (Pasar Senen terbakar), 807 mobil dan 187 sepeda motor rusak/dibakar | Menurut Menhankam Maraden Panggabean; mayoritas kendaraan bermerek pabrikan Jepang |
 | **Koreksi Kebijakan 22 Jan 1974** | PMA wajib usaha patungan + alih minimal 51% saham ke nasional dalam 10 tahun; KIK/KMKP untuk pribumi; Aspri dibubarkan; PP No. 6/1974 (5 Maret 1974) larang pejabat berbisnis | Sidang Dewan Stabilisasi Ekonomi Nasional |
-| **Dampak Media** | 12 media massa dicabut izin terbitnya (SIT) dalam tiga tahap | 15 Jan: *Nusantara*, *Mahasiswa Indonesia*; 21 Jan: *Harian KAMI*, *Indonesia Raya*, *Abadi*, *The Jakarta Times*; 23 Jan: *Pedoman*, *Ekspres* |
-| **Restrukturisasi Militer** | Jenderal Soemitro mundur dari Pangkopkamtib, jabatan Aspri dibubarkan | Presiden Soeharto mengambil alih kendali langsung Kopkamtib |
+| **Dampak Media** | 12 media massa dicabut izin terbitnya (SIT) dalam tiga tahap | 15 Jan: *Nusantara*, *Mahasiswa Indonesia*; 21 Jan: *Harian KAMI*, *Indonesia Raya*, *Abadi*, *The Jakarta Times*; 23 Jan: *Pedoman*, *Ekspres*. Daftar lengkap 12 media menurut Sahrasad & Ridwan (BIRCI, 2020): *Nusantara*, *Indonesia Raya*, *Pedoman*, *KAMI*, *Mahasiswa Indonesia*, *The Jakarta Times*, *Abadi*, *Suluh Berita*, *Pemuda Indonesia*, *Pos Indonesia*, *Wenang*, dan *Ekspres* |
+| **Restrukturisasi Militer** | Jenderal Soemitro mundur dari Pangkopkamtib, jabatan Aspri dibubarkan | Presiden Soeharto mengambil alih kendali langsung Kopkamtib; Soeharto juga mencopot Sutopo Juwono dari Kepala Bakin (Bresnan, 1993) |
 | **Dewan Stabilisasi Politik & Keamanan** | Dibentuk 4 Februari 1974, diketuai langsung Presiden Soeharto dengan Wakil Presiden Hamengkubuwono IX sebagai wakil ketua | Keputusan 28 Januari 1974 di Istana Merdeka; bertugas membahas dan memantapkan stabilitas politik-keamanan demi kelancaran Repelita II |
 | **Pengetatan Kehidupan Kampus** | SK Mendikbud No. 028/U/1974: kegiatan kemahasiswaan — terutama yang bersifat politis — ditempatkan di bawah bimbingan dan tanggung jawab pimpinan perguruan tinggi | Awal kontrol ketat negara atas gerakan mahasiswa; dilanjutkan NKK/BKK (1978) |
 
 **Catatan angka:** jumlah korban berbeda antar sumber. Angka 11 tewas disepakati semua sumber; luka-luka dicatat 137 orang (17 kritis, 120 ringan) dalam rangkuman berbahasa Inggris atas laporan resmi, sementara *Kompas* 16 Januari 1974 mencatat 300 luka-luka; yang ditangkap dicatat 750–775 orang. Amnesty International dalam laporannya tahun 1977 mencatat angka yang lebih tinggi — sekurang-kurangnya 13 orang tewas dan 770 orang ditangkap secara sewenang-wenang; lima bulan setelah peristiwa, sekitar 50 orang masih ditahan di Jakarta dan 32 di Surabaya — serta menyebut 11 surat kabar dan jurnal yang dibredel (halaman ini mencatat 12 media, lihat perbedaan daftar di atas). Daftar 12 media yang dibredel juga sedikit berbeda antar sumber (sebagian daftar mencakup *Mingguan Senang*, *Pemuda Indonesia*, *Seluruh Berita*, *Indonesia Pos*, dan *Sinar Harapan* tanpa *Indonesia Raya*). Tabel di atas memakai angka yang paling sering dikutip beserta rentangnya.
+
+Bresnan (1993, *Managing Indonesia*, bab 6) mencatat varian lain: sekitar **820 orang** ditangkap — 472 orang "tertangkap tangan" pada 15–16 Januari (14 mahasiswa, 83 pelajar SMA, 41 pemuda, 250 buruh, 28 pedagang, 2 tukang becak, 1 penganggur, 26 gelandangan), 330 orang ditangkap karena menjarah (radio, televisi, dan sejenisnya), sisanya termasuk 4 anggota DPR dan beberapa perwira ABRI. Bresnan juga menulis 6 harian + 4 majalah mingguan yang ditutup (10 media, bukan 12). Jurnal UNJ *Periode* 6(1) 2024 memuat daftar 13 nama — 12 nama di atas ditambah *Sinar Harapan* — apakah *Sinar Harapan* dibredel bersamaan atau pada gelombang lain belum terjawab. Varian-varian ini dicatat sebagai varian dan **tidak diputuskan**.
 
 ## Dua sudut pandang
 
@@ -130,15 +147,26 @@ Pelajaran ketiganya terbukti setelah puluhan tahun sejak Malari: investasi asing
 ### 2024-01-15
 - Peringatan 50 tahun Peristiwa Malari digelar di Teater Kecil Taman Ismail Marzuki, Jakarta, bertema "Pertahankan Demokrasi" — dihadiri para pelaku Malari dan aktivis lintas generasi. Amnesty International Indonesia dalam pernyataan yang sama memperingatkan bahwa represi negara "belum banyak berubah": laporan Amnesty tahun 1977 mencatat sekurang-kurangnya 13 orang tewas dan 770 orang ditangkap secara sewenang-wenang dalam peristiwa ini.
 
+### 2025-01-15
+- Peringatan 51 tahun Peristiwa Malari digelar di Hotel Green Forest, Bogor, dirangkai dengan 25 tahun INDEMO. Hariman Siregar menyerukan akuntabilitas presiden: "Kita belum memiliki presiden yang akuntabel," dan berharap Presiden Prabowo "mampu menjadi pemimpin yang benar-benar akuntabel, melampaui jejak pendahulunya."
+
+### 2026-01-15
+- Peringatan 52 tahun Peristiwa Malari digelar di Universitas Paramadina, Jakarta Timur, dirangkai dengan HUT INDEMO ke-26. Hariman Siregar hadir dan berpidato: "Keadaan hari ini mengulang suasana sekitar tahun 2000," menyerukan perang terhadap korupsi dan kepastian hukum yang melindungi masyarakat.
+
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden RI yang membuka dialog dengan mahasiswa, mengambil alih Kopkamtib, dan menetapkan paket koreksi kebijakan ekonomi pro-pribumi.
-- **Hariman Siregar** — Ketua Dewan Mahasiswa Universitas Indonesia (DM-UI), diadili dan dijatuhi hukuman 6 tahun 6 bulan penjara pada 21 Desember 1974 (tuntutan jaksa 12 tahun); ia menjalani kurang dari 3 tahun. Sjahrir divonis 6 tahun 6 bulan pada 12 Juni 1975, Aini Chalid 2 tahun 2 bulan.
+- **Hariman Siregar** — Ketua Dewan Mahasiswa Universitas Indonesia (DM-UI), diadili dan dijatuhi hukuman 6 tahun 6 bulan penjara pada 21 Desember 1974 (tuntutan jaksa 12 tahun); ia menjalani kurang dari 3 tahun. Pengadilan banding pada 20 April 1976 memangkas hukumannya dari 6 tahun menjadi 4,5 tahun (dikurangi masa tahanan yang sudah dijalani); kabel Kedutaan Besar AS (dideklasifikasi NARA) memperkirakan ia bebas Juli 1978 — tanggal bebas aktualnya belum terverifikasi, sehingga klaim "menjalani kurang dari 3 tahun" (*Tempo*, Edisi Khusus Malari, 2014) tetap dicatat apa adanya dan tidak ditimpa. Sjahrir divonis 6 tahun 6 bulan pada 12 Juni 1975, Aini Chalid 2 tahun 2 bulan.
 - **Jenderal Soemitro** — Wakil Panglima ABRI dan Panglima [[lembaga/kopkamtib|Kopkamtib]], yang dicopot dan dipensiunkan pasca-kerusuhan.
 - **Mayjen Ali Moertopo & Mayjen Soedjono Hoemardani** — Asisten Pribadi Presiden (Aspri) dan operator Opsus, sasaran utama kritik mahasiswa terkait dominasi modal Jepang dan manipulasi politik.
 - **Mochtar Lubis & Rosihan Anwar** — Tokoh jurnalis senior nasional yang media cetaknya dibredel secara permanen oleh pemerintah.
 - **Kakuei Tanaka** — Perdana Menteri Jepang yang melakukan kunjungan kenegaraan ke Jakarta pada 14–17 Januari 1974.
 
 ## Sumber
+- **Bresnan, John (1993), *Managing Indonesia: The Modern Political Economy* (New York: Columbia University Press), bab 6, "The January 15 'Disaster'"** — https://ciaotest.cc.columbia.edu/book/bresnan/bresnan16.html — sekitar 820 orang ditangkap beserta komposisinya (472 tertangkap tangan, 330 karena menjarah, sisanya termasuk 4 anggota DPR); 6 harian + 4 majalah mingguan ditutup; pencopotan Sutopo Juwono dari Kepala Bakin pasca-Malari.
+- **Sahrasad, Herdi & Muhammad Ridwan (2020), "The Malari 1974, Press and the Soeharto's New Order", *BIRCI-Journal* 3(4), hlm. 2796–2806, DOI 10.33258/birci.v3i4.1289** — https://pdfs.semanticscholar.org/2c92/529c8542fc21ccde1090cf4dbdb33c64b538.pdf — daftar lengkap 12 media yang dibredel.
+- **Kabel Kedutaan Besar AS Jakarta No. 1976JAKART05218, 21 April 1976, "Hariman Siregar Sentence Reduced" (Arsip Nasional AS/NARA, dideklasifikasi 4 Mei 2006)** — https://ia802908.us.archive.org/24/items/StateDeptcable1976-17537/State%20Dept%20cable%201976-17537.pdf — banding 20 April 1976: hukuman Hariman dipangkas 6 tahun → 4,5 tahun (dikurangi masa tahanan); perkiraan bebas Juli 1978.
+- **Peringatan 51 tahun Malari (15 Januari 2025), Hotel Green Forest, Bogor** — https://inilahsulsel.com/tokoh-malari-hariman-siregar-saatnya-prabowo-jadi-presiden-yang-akuntabel/
+- **Peringatan 52 tahun Malari (15 Januari 2026), Universitas Paramadina, Jakarta Timur** — https://jurnalekbis.com/2026/01/15/ketika-sejarah-mengingatkan-kebebasan-konstitusi-dan-etika-yang-terancam-ulang/
 - **Heru Cahyono (1998), *Pangkopkamtib Jenderal Soemitro dan Peristiwa 15 Januari '74* (Jakarta: Pustaka Sinar Harapan, xii + 312 hlm., ISBN 979-416-549-2)** — kesaksian Soemitro soal persaingan kekuasaan di balik Malari; bab 6–7 membahas "Merekayasa Kerusuhan".
 - **Ramadhan K.H. (1994), *Soemitro, Mantan Pangkopkamtib: Dari Pangdam Mulawarman sampai Pangkopkamtib* (Jakarta: Pustaka Sinar Harapan, 356 hlm., ISBN 979-416-258-2)** — biografi Soemitro; Malari dibahas di dalamnya.
 - **Marwati Djoened Poesponegoro & Nugroho Notosusanto (2008), *Sejarah Nasional Indonesia Jilid VI: Zaman Jepang dan Zaman Republik Indonesia* (Jakarta: Balai Pustaka)** — narasi sejarah resmi mengenai pembangunan ekonomi Pelita I dan penanganan gangguan keamanan dalam negeri pada dekade 1970-an.
@@ -162,3 +190,5 @@ Pelajaran ketiganya terbukti setelah puluhan tahun sejak Malari: investasi asing
 ## Catatan presisi
 - **Dalang Kerusuhan Senen:** Hingga hari ini terdapat dua narasi utama sejarah mengenai pemicu kerusuhan: narasi resmi penguasa Orde Baru menuduh adanya konspirasi elemen sisa PSI dan Masyumi bersama Dewan Mahasiswa untuk menggulingkan Presiden Soeharto; sedangkan narasi independen dan kalangan aktivis meyakini kerusuhan Pasar Senen diprovokasi oleh jaringan binaan intelijen (Opsus) untuk mendiskreditkan Jenderal Soemitro dan melegitimasi penindakan politik.
 - **Perbedaan Sikap Demonstrasi vs Kerusuhan:** Aksi mahasiswa pada pagi 15 Januari berlangsung tertib di dalam lingkungan kampus dan jalan raya, sementara pembakaran Pasar Senen dilakukan oleh kelompok massa luar yang bergerak secara terorganisir beberapa jam setelah unjuk rasa mahasiswa dibubarkan.
+- **Tanggal bebas Hariman Siregar (catatan 2026-11-18):** kabel Deplu AS 21 April 1976 hanya memberi *proyeksi* bebas Juli 1978 berdasarkan hukuman banding 4,5 tahun; tanggal bebas aktual belum terverifikasi dari sumber primer. Klaim halaman yang lebih lama — Hariman "menjalani kurang dari 3 tahun" (*Tempo*, 2014) — tidak ditimpa sebelum ada verifikasi; ketegangan antara keduanya dicatat di sini, bukan diputuskan.
+- **Ditolak/ditunda (2026-11-18):** klaim "160 kg emas hilang saat penjarahan Senen" (satu situs sekolah mengutip Kompas Cek Fakta 2022; artikel aslinya tidak dapat dibuka/diverifikasi); kabar Hariman Siregar wafat (tidak ada sumber; terbantahkan oleh kehadirannya berpidato 15 Januari 2025 dan 2026); buku/jurnal baru 2025–2026 khusus Malari (tidak ditemukan); pernyataan Amnesty soal Malari Januari 2026 (tidak ditemukan; yang terakhir tetap 15 Januari 2024).
