@@ -38,7 +38,7 @@ relasi:
 
 ## Apa pelajaran yang bisa kita ambil darinya?
 
-Patung ini menunjukkan bagaimana sebuah lembaga negara mengingat asal-usulnya: BIN menempatkan Soeharto di depan gedung utamanya bukan sebagai pajangan, melainkan sebagai penanda bahwa lembaga itu berawal dari KIN yang dibangun dan dipimpin Soeharto pada 1966. [Inferensi: monumen semacam ini selalu membawa dua bacaan sekaligus — bagi yang memasangnya, ia adalah penghormatan atas jasa pendiri; bagi yang menolaknya, ia adalah pengingat atas sisi gelap masa lalu. Keduanya perlu dicatat apa adanya, tanpa wiki memilih salah satunya.]
+Patung ini menunjukkan bagaimana sebuah lembaga negara mengingat asal-usulnya: BIN menempatkan Soeharto di depan gedung utamanya bukan sebagai pajangan, melainkan sebagai penanda bahwa lembaga itu berawal dari KIN yang dibangun dan dipimpin Soeharto pada 1966. [Inferensi: monumen semacam ini selalu membawa dua bacaan sekaligus — bagi yang memasangnya, ia adalah penghormatan atas jasa pendiri; bagi yang menolaknya, ia adalah pengingat atas kontroversi masa lalu. Keduanya perlu dicatat apa adanya, tanpa wiki memilih salah satunya.]
 
 ## Fakta kunci
 
