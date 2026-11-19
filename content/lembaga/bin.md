@@ -91,7 +91,7 @@ Daftar kepala BIN periode 2004–2024 belum diisi di halaman ini karena artikel 
 
 ## Patung Soeharto di BIN (2026)
 
-Pada Rabu, 18 November 2026, BIN meresmikan patung dada Soeharto di depan Gedung Utama Mabes BIN, Pejaten, Jakarta. Menurut Channel8, patung itu berdiri di sana karena sejarah lembaga itu sendiri: BIN hari ini berawal dari KIN, dan KIN adalah lembaga yang dibangun dan dipimpin Soeharto pada 1966. Kepala BIN Muhammad Herindra menyebut Soeharto bukan hanya Presiden RI kedua, melainkan negarawan yang menempatkan stabilitas dan kedaulatan nasional sebagai prasyarat mutlak pembangunan bangsa — pernyataan itu dicatat sebagai atribusi kepada Herindra.
+Pada Rabu, 18 November 2026, BIN [[peristiwa/peresmian-patung-soeharto-mabes-bin|meresmikan patung dada Soeharto]] di depan Gedung Utama Mabes BIN, Pejaten, Jakarta. Menurut Channel8, patung itu berdiri di sana karena sejarah lembaga itu sendiri: BIN hari ini berawal dari KIN, dan KIN adalah lembaga yang dibangun dan dipimpin Soeharto pada 1966. Kepala BIN Muhammad Herindra menyebut Soeharto bukan hanya Presiden RI kedua, melainkan negarawan yang menempatkan stabilitas dan kedaulatan nasional sebagai prasyarat mutlak pembangunan bangsa — pernyataan itu dicatat sebagai atribusi kepada Herindra.
 
 Titiek Soeharto hadir mewakili keluarga dan mengenang ayahnya pada peresmian itu; pesannya: kejujuran, integritas, dan kesetiaan kepada NKRI tidak boleh ditawar (menurut artikel pendamping Channel8, 18 November 2026).
 
