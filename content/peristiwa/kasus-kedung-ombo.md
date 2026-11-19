@@ -2,8 +2,8 @@
 title: "Kasus Kedung Ombo (1985–1994)"
 description: "Pembangunan Waduk Kedung Ombo (1985–1994): irigasi 60.000 hektare dan PLTA 22,5 MW untuk swasembada pangan — dengan biaya penggusuran 5.399 keluarga dan sengketa ganti rugi yang berujung ke Mahkamah Agung."
 date: 1985-05-01
-updated: 2026-11-12
-last_updated: "2026-11-12"
+updated: 2026-11-19
+last_updated: "2026-11-19"
 entity_type: peristiwa
 entity_id: "kasus-kedung-ombo"
 aliases:
@@ -38,6 +38,15 @@ sumber:
   - url: https://doaj.org/article/7775d8aa17d94ca4ba22c4ef91111529
     judul: "Dinamika Sedimentasi Waduk Kedungombo — DOAJ"
     tanggal: 2026-11-12
+  - url: https://www.inspirasiline.com/2025/10/02/perhutani-bersama-dinas-lhk-laksanakan-pertek-rencana-pembangunan-plts-terapung-kedungombo/
+    judul: "Perhutani Bersama Dinas LHK Laksanakan Pertek Rencana Pembangunan PLTS Terapung Kedungombo (30 September 2025)"
+    tanggal: 2025-10-02
+  - url: https://sda.pu.go.id/balai/bbwspemalijuana/
+    judul: "BBWS Pemali Juana — Pemeliharaan Hidromekanikal Bendungan Kedungombo & Upaya Selamatkan Produktivitas Padi di Pati (Agustus 2026)"
+    tanggal: 2026-08-28
+  - url: https://www.portalharian.com/air-waduk-kedung-ombo-mulai-masuk-pati-petani-bersihkan-sungai-juwana-sambut-kabar-baik/
+    judul: "Air Waduk Kedung Ombo Mulai Masuk Pati, Petani Bersihkan Sungai Juwana Sambut Kabar Baik (24 September 2026)"
+    tanggal: 2026-09-24
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -90,7 +99,9 @@ Waduk Kedung Ombo masih beroperasi dan menjadi penopang ketahanan pangan Jawa Te
 
 Sedimentasi menggerus tampungan waduk dari tahun ke tahun: studi dinamika sedimentasi mencatat sisa tampungan total 94,47% (pengukuran 2017), tampungan mati menyusut dari 100% (1989) menjadi 43% (2016), dan umur teknis waduk diperkirakan berakhir pada 2064. [Inferensi: waduk yang sama yang dulu menenggelamkan 37 desa kini menua — manfaatnya berlanjut, tetapi kapasitasnya menyusut, sehingga pemeliharaan dan pengendalian erosi di daerah tangkapan menjadi bagian dari warisan kasus ini.]
 
-Rencana berikutnya adalah PLTS terapung 100 MW (Proyek Strategis Nasional, PLN Indonesia Power): pembangunan ditargetkan mulai 2025 dengan operasi komersial akhir 2026/awal 2027; per September 2025 proyek masih pada tahap perizinan penggunaan kawasan hutan.
+Rencana berikutnya adalah PLTS terapung 100 MW (Proyek Strategis Nasional, PLN Indonesia Power): pembangunan ditargetkan mulai 2025 dengan operasi komersial akhir 2026/awal 2027; per September 2025 proyek masih pada tahap perizinan penggunaan kawasan hutan. Perizinan itu melangkah ke tahap pertimbangan teknis: pada 30 September 2025, Perhutani (KPH Telawa dan KPH Gundih) bersama Dinas Lingkungan Hidup dan Kehutanan Jawa Tengah melakukan peninjauan lapangan untuk Persetujuan Penggunaan Kawasan Hutan (PPKH) atas saluran udara tegangan tinggi (SUTT) 150 kV PLTS Terapung Kedungombo–Gardu Induk Kedungombo.
+
+Pada kemarau 2026, waduk kembali berfungsi sebagai penyelamat panen: BBWS Pemali Juana merilis air melalui Bendung Klambu menuju Daerah Irigasi Klambu Kanan pada 21–23 Agustus 2026 (debit sekitar 3,141 m³/detik) untuk menyelamatkan tanaman padi di Kabupaten Pati yang terancam kekeringan — bukan untuk membuka musim tanam baru. Aliran dari waduk dibuka kembali pada 15 September 2026 dan air mulai memasuki Sungai Juwana di Pati; petani membersihkan eceng gondok dan pendangkalan sungai pada 22 September 2026 agar air dapat dimanfaatkan.
 
 ## Kronologi
 
@@ -127,6 +138,12 @@ Rencana berikutnya adalah PLTS terapung 100 MW (Proyek Strategis Nasional, PLN I
 ### 2025-09-01
 - Musim tanam I 2025/2026 dimulai dengan rilis air waduk untuk pola tanam 72.664 hektare di lima kabupaten; Kementerian PU menyatakan stok air 472,39 juta m³ mencukupi kebutuhan irigasi.
 
+### 2026-08-21
+- BBWS Pemali Juana merilis air Waduk Kedungombo melalui Bendung Klambu menuju Daerah Irigasi Klambu Kanan (21–23 Agustus 2026, debit sekitar 3,141 m³/detik) untuk menyelamatkan tanaman padi di Kabupaten Pati yang terancam kekeringan — bukan untuk membuka musim tanam baru.
+
+### 2026-09-15
+- Pemerintah dan BBWS Pemali Juana membuka kembali aliran Waduk Kedungombo; air mulai memasuki Sungai Juwana di Kabupaten Pati, dan petani membersihkan eceng gondok serta pendangkalan sungai pada 22 September 2026 agar air dapat dimanfaatkan.
+
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden RI yang meresmikan waduk dan menegaskan prioritas proyek strategis di atas keberatan warga.
 - **Romo Y. B. Mangunwijaya** — Rohaniwan dan aktivis kemanusiaan yang mendampingi dan mendirikan sekolah bagi anak-anak pengungsi genangan.
@@ -153,6 +170,9 @@ Rencana berikutnya adalah PLTS terapung 100 MW (Proyek Strategis Nasional, PLN I
 - **Solopos (18 Jan 2016):** *324 Warga Penghuni Sabuk Hijau WKO Direlokasi*: https://solopos.espos.id/relokasi-warga-wko-324-warga-penghuni-sabuk-hijau-wko-direlokasi-682064
 - **Dinamika Sedimentasi Waduk Kedungombo** (DOAJ): https://doaj.org/article/7775d8aa17d94ca4ba22c4ef91111529
 - **Dinas ESDM Jawa Tengah (9 Jul 2025):** *Jawa Tengah Siap Jadi Pelopor PLTS Terapung, Dua Waduk Jadi Proyek Perdana* — PLTS terapung Kedungombo 100 MW, PSN, target operasi akhir 2026/awal 2027: https://esdm.jatengprov.go.id/berita/read/423/jawa-tengah-siap-jadi-pelopor-plts-terapung-dua-waduk-jadi-proyek-perdana
+- **Perhutani & Dinas LHK Jawa Tengah (30 September 2025):** *Pertek Rencana Pembangunan PLTS Terapung Kedungombo* — peninjauan lapangan untuk PPKH SUTT 150 kV PLTS Terapung Kedungombo–Gardu Induk Kedungombo: https://www.inspirasiline.com/2025/10/02/perhutani-bersama-dinas-lhk-laksanakan-pertek-rencana-pembangunan-plts-terapung-kedungombo/
+- **BBWS Pemali Juana (Agustus 2026):** *Pemeliharaan Hidromekanikal Bendungan Kedungombo* dan *Upaya Selamatkan Produktivitas Padi di Pati* — rilis air 21–23 Agustus 2026 (±3,141 m³/detik) via Bendung Klambu: https://sda.pu.go.id/balai/bbwspemalijuana/
+- **Portal Harian (24 September 2026):** *Air Waduk Kedung Ombo Mulai Masuk Pati* — aliran dibuka kembali 15 September 2026, air memasuki Sungai Juwana: https://www.portalharian.com/air-waduk-kedung-ombo-mulai-masuk-pati-petani-bersihkan-sungai-juwana-sambut-kabar-baik/
 
 ## Catatan presisi
 - **Perubahan Kebijakan Bank Dunia:** Kasus Kedung Ombo dan skandal bendungan Narmada di India menjadi pemicu reformasi kebijakan pengamanan sosial (*Social Safeguards Policy*) Bank Dunia di tingkat global, yang sejak saat itu mewajibkan persetujuan bebas dan diinformasikan lebih awal (*Free, Prior, and Informed Consent / FPIC*) bagi komunitas terdampak proyek donor multilateral.
