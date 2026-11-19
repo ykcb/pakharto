@@ -2,8 +2,8 @@
 title: "Soeharto"
 description: "Presiden Republik Indonesia kedua (1968–1998) yang memimpin transisi dari Sukarno ke Orde Baru, membentuk arsitektur kekuasaan politik, ekonomi, dan keamanan yang bertahan 3 dekade."
 date: 1921-06-08
-updated: 2026-11-17
-last_updated: "2026-11-17"
+updated: 2026-11-19
+last_updated: "2026-11-19"
 entity_type: aktor
 entity_id: "soeharto"
 aliases:
@@ -29,6 +29,12 @@ sumber:
   - url: https://www.amnesty.id/kabar-terbaru/siaran-pers/koalisi-hari-pahlawan-terkooptasi-kekuasaan-tolak-pemutihan-sejarah-soeharto-dan-politisasi-gelar-kepahlawanan/11/2026/
     judul: "Koalisi: Hari Pahlawan Terkooptasi Kekuasaan — Tolak Pemutihan Sejarah Soeharto — Amnesty International Indonesia"
     tanggal: 2026-11-16
+  - url: https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional
+    judul: "Ira Amalia — Soeharto Pahlawan Nasional (Wiki Ira Amalia, 18 November 2026)"
+    tanggal: 2026-11-18
+  - url: https://www.suara.com/news/2026/11/17/184731/gugatan-ditolak-hakim-gelar-pahlawan-nasional-soeharto-sah
+    judul: "Muhamad Yasir — Gugatan Ditolak Hakim! Gelar Pahlawan Nasional Soeharto Sah (Suara.com, 17 November 2026, 18:47 WIB)"
+    tanggal: 2026-11-17
   - url: https://sekaltim.co/menteri-kebudayaan-luncurkan-buku-penulisan-ulang-sejarah-indonesia-10-jilid/
     judul: "Menteri Kebudayaan Luncurkan Buku Penulisan Ulang Sejarah Indonesia 10 Jilid — Sekaltim"
     tanggal: 2026-11-16
@@ -144,7 +150,7 @@ Data yang umum dikutip untuk 32 tahun kepemimpinan Soeharto (lihat [[hub/ekonomi
 - 2024-09-25 — MPR menyatakan penyebutan nama Soeharto dalam TAP MPR XI/1998 "secara diri pribadi" selesai dilaksanakan.
 - 2025-11-10 — Dianugerahi gelar Pahlawan Nasional (Keppres 116/TK/2025).
 - 2026-09-08 — PTUN Jakarta mengucapkan putusan perkara 50/G/2026: gugatan atas Keppres gelar pahlawan dinyatakan Tidak Diterima.
-- 2026-11-17 — Pembacaan putusan perkara 151/G/2026 dijadwalkan (e-court).
+- 2026-11-17 — PTUN Jakarta membacakan putusan perkara 151/G/2026: gugatan ditolak untuk seluruhnya (lihat [[peristiwa/soeharto-pahlawan-nasional|Soeharto Pahlawan Nasional (2025–2026)]]).
 
 ## Setelah 1998: penilaian ulang dan gelar Pahlawan Nasional
 
@@ -152,7 +158,7 @@ Penilaian negara atas Soeharto berubah setelah ia wafat, dalam tiga langkah yang
 
 - **25 September 2024 — nama Soeharto dalam TAP MPR XI/1998 dinyatakan selesai dilaksanakan.** Dalam Sidang Akhir Masa Jabatan MPR periode 2019–2024, Ketua MPR Bambang Soesatyo menyatakan penyebutan nama Soeharto dalam Pasal 4 TAP MPR Nomor XI/MPR/1998 — yang memerintahkan pengusutan KKN era Orde Baru — "secara diri pribadi ... telah selesai dilaksanakan, karena yang bersangkutan telah meninggal dunia". Usulan itu diajukan Fraksi Partai Golkar lewat surat 18 September 2024 dan disepakati dalam rapat gabungan MPR 23 September 2024. TAP XI/MPR/1998 sendiri dinyatakan tetap berlaku (berdasarkan TAP MPR Nomor I/MPR/2003); surat keputusan itu diserahkan kepada keluarga Soeharto pada 28 September 2024. Ketua MPR periode berikutnya, Ahmad Muzani, pada 10 November 2025 menyatakan persoalan politik Soeharto "sudah selesai".
 - **10 November 2025 — gelar Pahlawan Nasional.** Presiden Prabowo Subianto menganugerahkan gelar Pahlawan Nasional kepada Soeharto melalui Keppres Nomor 116/TK/Tahun 2025 (ditetapkan 6 November 2025), dalam bidang Perjuangan Bersenjata dan Politik, sebagai salah satu dari 10 tokoh yang dianugerahi gelar pada Hari Pahlawan 2025. Gelar diterima ahli warisnya, Siti Hardijanti Rukmana (Tutut) dan Bambang Trihatmodjo. Pemerintah beralasan gelar diberikan atas jasa Soeharto sejak masa kemerdekaan — antara lain sebagai Wakil Komandan BKR Yogyakarta dan memimpin pelucutan senjata pasukan Jepang di Kota Baru (1945) — serta atas pembangunan nasional, termasuk swasembada pangan.
-- **2026 — gelar diuji di PTUN Jakarta.** Dua gugatan terhadap Keppres 116/TK/2025 diajukan ke PTUN Jakarta: perkara 50/G/2026/PTUN.JKT diputus 2 September 2026 dan diucapkan 8 September 2026 dengan amar gugatan "Tidak Diterima"; perkara 151/G/2026/PTUN.JKT — diajukan Gerakan Masyarakat Sipil Adili Soeharto (GEMAS) bersama korban dan keluarga korban pelanggaran HAM berat — masih berjalan, dengan sidang pembuktian ahli pada 12 Oktober 2026 (Richo Andi Wibowo dan Bivitri Susanti) dan pembacaan putusan dijadwalkan pada 17 November 2026 melalui Sistem Informasi Pengadilan (e-court).
+- **2026 — gelar diuji di PTUN Jakarta.** Dua gugatan terhadap Keppres 116/TK/2025 diajukan ke PTUN Jakarta: perkara 50/G/2026/PTUN.JKT diputus 2 September 2026 dan diucapkan 8 September 2026 dengan amar gugatan "Tidak Diterima"; perkara 151/G/2026/PTUN.JKT — diajukan Gerakan Masyarakat Adili Soeharto (GEMAS) bersama korban dan keluarga korban pelanggaran HAM berat — diputus 17 November 2026: eksepsi tergugat dinyatakan tidak diterima, majelis masuk ke pokok perkara, dan gugatan ditolak untuk seluruhnya (biaya perkara Rp461.000; sidang pembuktian ahli 12 Oktober 2026, Richo Andi Wibowo dan Bivitri Susanti). Detailnya di [[peristiwa/soeharto-pahlawan-nasional|Soeharto Pahlawan Nasional (2025–2026)]].
 
 Pro dan kontra atas gelar ini dicatat sebagai atribusi, bukan suara wiki: Menteri Kebudayaan Fadli Zon — selaku Ketua Dewan Gelar, Tanda Jasa, dan Tanda Kehormatan — menyatakan gelar itu penghargaan negara atas jasa pembangunan; Amnesty International Indonesia dan koalisi GEMAS menolaknya dengan alasan pelanggaran HAM berat masa Soeharto belum tuntas dan gelar "menormalkan impunitas"; di Muhammadiyah pun terjadi perbedaan — Usman Hamid menolak dengan alasan pelanggaran HAM dan korupsi, sementara Muhadjir Effendy menilai Soeharto layak atas jasa besarnya.
 
@@ -162,7 +168,7 @@ Buku sejarah resmi terbaru juga menempatkan era Soeharto sebagai satu jilid ters
 
 - **Koreksi tahun FAO (diperbaiki di halaman ini):** swasembada beras dicapai 1984, tetapi medali FAO diterima Soeharto di Roma pada **14 November 1985** (Konferensi FAO ke-23), bukan 1984 — versi lama halaman ini menulis 1984 untuk keduanya.
 - **Koreksi angka SD Inpres (diperbaiki di halaman ini):** tabel capaian sebelumnya menulis "150.000+ sekolah dibangun" tanpa rentang waktu; angka yang terverifikasi adalah 61.807 sekolah pada 1973–1978 (Duflo 2001), dengan total sekitar 150.000 unit hingga 1993/1994 — lihat [[hub/kehidupan-rakyat|Kehidupan Rakyat]].
-- **Putusan 151/G/2026 belum dibacakan saat halaman ini diperbarui (16 November 2026):** halaman ini hanya mencatat jadwal pembacaan putusan (17 November 2026), bukan hasil atau amar putusannya.
+- **Putusan 151/G/2026 (diperbarui 19 November 2026):** gugatan ditolak untuk seluruhnya (17 November 2026); amar terverifikasi dari SIPP PTUN Jakarta dan Suara.com — pertimbangan hakim dan status banding belum diketahui.
 - **Klaim sumber yang SALAH dan tidak dipakai:**
   1. "Resmi diangkat sebagai Presiden Indonesia pada 12 Maret 1967" — pada 12 Maret 1967 Soeharto diangkat sebagai **Pejabat Presiden**; Presiden penuh baru pada 27 Maret 1968.
   2. "Sempat diadili dengan tuduhan korupsi" — Soeharto tidak pernah menjalani persidangan; perkara pidananya dihentikan karena kondisi kesehatan.
