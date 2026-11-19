@@ -2,8 +2,8 @@
 title: "Golkar"
 description: "Golongan Karya: dari Sekretariat Bersama golongan fungsional (1964) menjadi mesin pemilu Orde Baru — menang enam kali berturut-turut 1971–1997 — lalu bertransformasi menjadi partai politik pascareformasi."
 date: 1964-10-20
-updated: 2026-11-12
-last_updated: "2026-11-12"
+updated: 2026-11-19
+last_updated: "2026-11-19"
 entity_type: topik
 entity_id: "golkar"
 aliases:
@@ -32,6 +32,18 @@ sumber:
   - url: https://poskota.co/berita-utama/munas-xi-berjalan-mulus-bahlil-lahadalia-resmi-terpilih-sebagai-ketum-dpp-golkar-periode-2024-2029/
     judul: "Munas XI: Bahlil Lahadalia Resmi Terpilih sebagai Ketum DPP Golkar 2024–2029 — Poskota (21 Agu 2024)"
     tanggal: 2026-11-12
+  - url: https://kabar.amboina.id/berita/bahlil-lantik-pengurus-golkar-maluku-target-kursi-dpr-ri-listrik-desa
+    judul: "Bahlil Lantik Pengurus Golkar Maluku, Pasang Target Kursi DPR RI dan Listrik Desa (7 November 2026)"
+    tanggal: 2026-11-07
+  - url: https://majalaheditor.com/skandal-penyadapan-dan-gejolak-golkar-ketika-loyalitas-kepada-presiden-menguji-kemandirian-partai/
+    judul: "Skandal Penyadapan dan Gejolak Golkar: Ketika Loyalitas kepada Presiden Menguji Kemandirian Partai (November 2026)"
+    tanggal: 2026-11-08
+  - url: https://lapor.co.id/berita/golkar-somasi-said-didu-dan-sri-radjasa-soal-isu-ketum-terlibat-penyadapan
+    judul: "Golkar Somasi Said Didu dan Sri Radjasa soal Isu Ketum Terlibat Penyadapan (10 November 2026)"
+    tanggal: 2026-11-10
+  - url: https://beritaprioritas.com/penyadapan-prabowo-golkar-somasi-said-didu-dan-sri-rajasa/
+    judul: "Penyadapan Prabowo, Golkar Somasi Said Didu dan Sri Rajasa (11 November 2026)"
+    tanggal: 2026-11-11
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -101,6 +113,8 @@ Bagian ini berada di luar fokus utama wiki (1966–1998) dan dicatat ringkas seb
 
 Pada Pemilu 2019 Golkar meraih 12,31% suara (85 kursi), lalu menguat pada Pemilu 2024: 15,29% suara (23.208.654 suara) dan 102 kursi — naik 17 kursi, terbanyak kedua di DPR periode 2024–2029; Golkar juga memimpin perolehan kursi DPRD provinsi (359 kursi, naik dari 309 pada 2019). Pada Agustus 2024, Airlangga Hartarto mengundurkan diri sebagai ketua umum; Munas XI (21 Agustus 2024) memilih Bahlil Lahadalia — calon tunggal — secara aklamasi sebagai ketua umum 2024–2029. Bahlil, Menteri ESDM sejak 19 Agustus 2024, dipertahankan Presiden Prabowo Subianto di Kabinet Merah Putih; per 1 Oktober 2026 ia juga menjabat Menteri Koordinator Bidang Hilirisasi dan Transisi Energi merangkap Menteri ESDM.
 
+Pada November 2026, Golkar menghadapi dua tekanan sekaligus: penyidikan dugaan penyadapan ilegal terhadap Presiden Prabowo Subianto — Bareskrim Polri menetapkan empat perwira tinggi Polri sebagai tersangka — dan beredarnya pamflet digital anonim yang mempromosikan Musyawarah Nasional Luar Biasa (Munaslub) pada 29 November 2026 dengan nama Wakil Ketua Umum Ahmad Doli Kurnia sebagai figur alternatif. Bahlil membantah keterlibatannya dan mengaku justru menjadi korban intersepsi komunikasi; Sekretaris Jenderal M. Sarmuji menyebut narasi Munaslub kabar bohong yang sengaja diembuskan untuk memecah belah soliditas partai. Pada 10 November 2026, Badan Advokasi Hukum dan HAM (Bakumham) DPP Golkar melayangkan somasi terbuka kepada Muhammad Said Didu dan Sri Radjasa Chandra (Surat No. 01/Somasi/DPP-Bakumham/11/2026, tertanggal 9 November 2026) atas narasi yang mengaitkan Bahlil dengan kasus penyadapan; keduanya diberi tenggat 3×24 jam untuk mencabut pernyataan, meminta maaf secara terbuka, dan menurunkan konten terkait. Said Didu membantah pernah menyebut atau menuduh Bahlil dalam siniar yang dipersoalkan (11 November 2026). Tiga hari sebelumnya, 7 November 2026, Bahlil melantik pengurus DPD Golkar Maluku (ketua Umar Ali Lessy, masa bakti 2025–2030) di Ambon dan menegaskan loyalitas Golkar kepada Presiden Prabowo — "Golkar memang dalam sejarahnya tidak pernah ada oposisi" — sambil menargetkan konsolidasi hingga tingkat desa selesai pada Desember 2026, merebut kembali kursi DPR RI dari Maluku, dan elektrifikasi seluruh desa di Maluku pada 2029–2030.
+
 ## Batas data
 
 - **Bingkai sumber yang satu sisi:** kelima artikel soehartois.com menyajikan Golkar dari sisi keberhasilan dan stabilitas semata; sisi koersif kemenangan pemilu (mobilisasi aparatur, pembatasan oposisi) tidak disebut di sana dan ditambahkan di halaman ini dari [[hub/pemilu-orde-baru|Pemilu-pemilu Orde Baru]] serta penelitian pemilu Orde Baru.
@@ -126,6 +140,10 @@ Pada Pemilu 2019 Golkar meraih 12,31% suara (85 kursi), lalu menguat pada Pemilu
 - "PHPU Pileg 2024 Rampung, Akhirnya Golkar Kuasai 102 Kursi Parlemen", Investor Daily (9 Jun 2024): https://investor.id/national/363814/phpu-pileg-2024-rampung-akhirnya-golkar-kuasai-102-kursi-parlemen
 - "Munas XI Berjalan Mulus, Bahlil Lahadalia Resmi Terpilih sebagai Ketum DPP Golkar Periode 2024-2029", Poskota (21 Agu 2024): https://poskota.co/berita-utama/munas-xi-berjalan-mulus-bahlil-lahadalia-resmi-terpilih-sebagai-ketum-dpp-golkar-periode-2024-2029/
 - "Bahlil Lahadalia Dilantik Jadi Menko Hilirisasi dan Transisi Energi, Rangkap Menteri ESDM", Tambang.co.id (1 Okt 2026): https://tambang.co.id/bahlil-lahadalia-dilantik-jadi-menko-hilirisasi-dan-transisi-energi-rangkap-menteri-esdm/
+- "Bahlil Lantik Pengurus Golkar Maluku, Pasang Target Kursi DPR RI dan Listrik Desa", Kabar Amboina (7 Nov 2026): https://kabar.amboina.id/berita/bahlil-lantik-pengurus-golkar-maluku-target-kursi-dpr-ri-listrik-desa
+- "Skandal Penyadapan dan Gejolak Golkar: Ketika Loyalitas kepada Presiden Menguji Kemandirian Partai", Majalah Editor (Nov 2026) — pamflet Munaslub 29 Nov 2026, Bahlil mengaku korban intersepsi, Sarmuji sebut narasi Munaslub hoaks: https://majalaheditor.com/skandal-penyadapan-dan-gejolak-golkar-ketika-loyalitas-kepada-presiden-menguji-kemandirian-partai/
+- "Golkar Somasi Said Didu dan Sri Radjasa soal Isu Ketum Terlibat Penyadapan", Detikcom (10 Nov 2026): https://lapor.co.id/berita/golkar-somasi-said-didu-dan-sri-radjasa-soal-isu-ketum-terlibat-penyadapan
+- "Penyadapan Prabowo, Golkar Somasi Said Didu dan Sri Rajasa", Berita Prioritas (11 Nov 2026) — Said Didu membantah menuduh Bahlil: https://beritaprioritas.com/penyadapan-prabowo-golkar-somasi-said-didu-dan-sri-rajasa/
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
 
 Lihat juga: [[hub/pemilu-orde-baru|Pemilu-pemilu Orde Baru]] · [[hub/orde-baru|Orde Baru]] · [[aktor/soeharto|Soeharto]] · [[konsep/glosarium-istilah-orde-baru#Demokrasi Pancasila|Demokrasi Pancasila]]
