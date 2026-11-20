@@ -2,8 +2,8 @@
 title: "Penembakan Misterius (Petrus) 1982–1985"
 description: "Operasi Pemberantasan Kejahatan (1982–1985): penindakan tegas terhadap preman dan residivis yang menurunkan kriminalitas jalanan secara drastis — dengan metode di luar proses peradilan yang oleh Komnas HAM (2012) dikategorikan pelanggaran HAM berat masa lalu."
 date: 1982-08-01
-updated: 2026-11-11
-last_updated: "2026-11-11"
+updated: 2026-11-19
+last_updated: "2026-11-19"
 entity_type: peristiwa
 entity_id: "penembakan-misterius-petrus"
 aliases:
@@ -32,6 +32,15 @@ sumber:
   - url: https://www.newshive.id/read/hukum/otto-hasibuan-pimpin-pokja-kasus-ham-berat
     judul: "Otto Hasibuan Pimpin Pokja Kasus HAM Berat (9 November 2026 — pokja lintas lembaga untuk 13 kasus, termasuk Petrus)"
     tanggal: 2026-11-09
+  - url: https://lapor.co.id/berita/alasan-komnas-ham-tolak-masuk-pokja-tangani-13-kasus-pelanggaran-berat
+    judul: "Alasan Komnas HAM Tolak Masuk Pokja Tangani 13 Kasus Pelanggaran Berat (Amiruddin, 9 November 2026)"
+    tanggal: 2026-11-09
+  - url: https://lapor.co.id/berita/yusril-tim-koordinasi-tak-campuri-independensi-komnas-ham-kejagung
+    judul: "Yusril: Tim Koordinasi Tak Campuri Independensi Komnas HAM–Kejagung (9 November 2026)"
+    tanggal: 2026-11-09
+  - url: https://www.fraksipkb.com/2026/11/13/mafirion-penolakan-komnas-ham-terlibat-dalam-pokja-penyelesaian-13-kasus-pelanggaran-ham-berat-masa-lalu-keliru/
+    judul: "Mafirion: Penolakan Komnas HAM Terlibat dalam Pokja Penyelesaian 13 Kasus Pelanggaran HAM Berat Masa Lalu Keliru (13 November 2026)"
+    tanggal: 2026-11-13
   - url: https://www.korankota.co.id/v151/t502/83947/presiden-prabowo-siapkan-keppres-dan-inpres-pemulihan-hak-korban-pelanggaran-ham-berat
     judul: "Presiden Prabowo Siapkan Keppres dan Inpres Pemulihan Hak Korban Pelanggaran HAM Berat (14 Februari 2025)"
     tanggal: 2025-02-14
@@ -117,6 +126,10 @@ Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh w
 
 ### 2026-11-09
 - Pemerintah membentuk kelompok kerja lintas lembaga yang dipimpin Wakil Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Otto Hasibuan untuk mengurai hambatan penanganan 13 kasus dugaan pelanggaran HAM berat masa lalu — termasuk penembakan misterius — yang berkasnya tertahan antara penyelidikan Komnas HAM dan penyidikan Kejaksaan Agung. Menurut Menko Kumham Imipas Yusril Ihza Mahendra, 4 dari 17 kasus sudah diproses melalui pengadilan, sedangkan 13 lainnya belum menemukan titik terang.
+- Pada malam harinya, Anggota Komnas HAM Amiruddin menyatakan lembaganya sama sekali tidak terlibat dalam pembentukan pokja itu dan menolak bergabung: sebagai lembaga negara mandiri (UU No. 39 Tahun 1999) Komnas HAM bukan bagian dari kerja-kerja eksekutif, pembentukan pokja tidak pernah dibahas dalam Rapat Paripurna Komnas HAM, dan penyelidikan atas 13 kasus tersebut sudah selesai — berkasnya telah diserahkan kepada Jaksa Agung, yang berwenang menindaklanjutinya lewat penyidikan (UU No. 26 Tahun 2000). Menko Yusril menanggapi pada malam yang sama bahwa tim koordinasi tidak bermaksud mencampuri independensi Komnas HAM dan Kejaksaan Agung, melainkan menyamakan persepsi, standar, dan prosedur penyelidikan–penyidikan.
+
+### 2026-11-13
+- Anggota Komisi XIII DPR RI dari Fraksi PKB, Mafirion Syamsuddin Rogo, menilai penolakan Komnas HAM untuk terlibat dalam pokja penyelesaian 13 kasus pelanggaran HAM berat masa lalu "kurang tepat" — Komnas HAM memiliki posisi strategis karena berdasarkan UU No. 26 Tahun 2000 berwenang menyelidiki dugaan pelanggaran HAM berat.
 
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden RI yang memberikan mandat operasi pemulihan ketertiban umum dan mengakui operasi terapi kejut dalam memoar resminya.
@@ -132,6 +145,9 @@ Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh w
 - **Kantor Staf Kepresidenan (10–11 Desember 2023), pemulihan hak korban** — https://channel9.id/pemerintah-berikan-hak-pemulihan-korban-1998-hingga-trisakti-hari-ini/ — Inpres No. 2 Tahun 2023, Keppres No. 4 Tahun 2023; pemulihan korban Petrus dijadwalkan 2024; bentuk pemulihan: Kartu Kesehatan Prioritas, tunjangan tunai bulanan, beasiswa, renovasi rumah, pekerjaan, alat usaha.
 - **Kementerian HAM (14 Februari 2025), kelanjutan pemulihan 13 kasus di era Prabowo** — https://www.korankota.co.id/v151/t502/83947/presiden-prabowo-siapkan-keppres-dan-inpres-pemulihan-hak-korban-pelanggaran-ham-berat
 - **Pokja lintas lembaga kasus HAM berat (9 November 2026)** — https://www.newshive.id/read/hukum/otto-hasibuan-pimpin-pokja-kasus-ham-berat — dipimpin Wamenko Otto Hasibuan; 4 dari 17 kasus sudah diproses pengadilan, 13 belum tuntas, termasuk Petrus.
+- **Komnas HAM menolak bergabung dalam pokja (9 November 2026)** — https://lapor.co.id/berita/alasan-komnas-ham-tolak-masuk-pokja-tangani-13-kasus-pelanggaran-berat — Amiruddin: Komnas HAM lembaga negara mandiri (UU No. 39 Tahun 1999), tidak dilibatkan dalam pembentukan pokja; penyelidikan 13 kasus sudah selesai dan berkas diserahkan ke Jaksa Agung.
+- **Yusril: tim koordinasi tak campuri independensi Komnas HAM–Kejagung (9 November 2026)** — https://lapor.co.id/berita/yusril-tim-koordinasi-tak-campuri-independensi-komnas-ham-kejagung
+- **Mafirion (Komisi XIII DPR, FPKB): penolakan Komnas HAM keliru (13 November 2026)** — https://www.fraksipkb.com/2026/11/13/mafirion-penolakan-komnas-ham-terlibat-dalam-pokja-penyelesaian-13-kasus-pelanggaran-ham-berat-masa-lalu-keliru/
 - **Kontras (2002), hitungan korban tewas terdokumentasi — dikutip dalam makalah FH Universitas Palangka Raya (2023)** — https://id.scribd.com/document/699674355/Makalah-Ham-Sevita-1 — 532 tewas (1983), 107 (1984), 74 (1985).
 - **David Bourchier (1990):** *Crime, Law and State Authority in Indonesia* dalam *State and Civil Society in Indonesia* (ed. Arief Budiman, Monash Papers on Southeast Asia No. 22, hlm. 177–212).
 - **Julius Pour (1993):** *Benny Moerdani: Profil Prajurit Negarawan* (Yayasan Kejuangan Panglima Besar Sudirman).
