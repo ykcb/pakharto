@@ -52,7 +52,7 @@ relasi:
   - predikat: terkait_dengan
     objek: "Repelita"
     sumber: https://soehartolibrary.id/
-  - predikat: dilanjutkan_oleh
+  - predikat: terkait_dengan
     objek: "Kelompok Informasi Masyarakat (KIM)"
     sumber: https://journal.ukwms.ac.id/index.php/abdimas/article/download/6524/4550
 ---
