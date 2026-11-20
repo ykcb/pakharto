@@ -2,8 +2,8 @@
 title: "Orde Baru (1966–1998)"
 description: "Era pemerintahan Indonesia di bawah Presiden Soeharto yang menandai transisi dari sistem demokrasi terpimpin menuju arsitektur kekuasaan politik, ekonomi, dan keamanan yang terstruktur selama 32 tahun."
 date: 1966-03-11
-updated: 2026-11-13
-last_updated: "2026-11-13"
+updated: 2026-11-20
+last_updated: "2026-11-20"
 entity_type: topik
 entity_id: "orde-baru-1966-1998"
 aliases:
@@ -41,6 +41,15 @@ sumber:
   - url: https://www.amnesty.id/kabar-terbaru/siaran-pers/koalisi-hari-pahlawan-terkooptasi-kekuasaan-tolak-pemutihan-sejarah-soeharto-dan-politisasi-gelar-kepahlawanan/11/2026/
     judul: "Hari Pahlawan Terkooptasi Kekuasaan: Tolak Pemutihan Sejarah Soeharto — Amnesty International Indonesia / GEMAS"
     tanggal: 2026-11-13
+  - url: https://kontras.org/penjahat-ham-tetap-jadi-pahlawan-keadilan-telah-mati-dan-impunitas-menjelma-di-pengadilan-tata-usaha-negara-jakarta/
+    judul: "Penjahat HAM tetap Jadi Pahlawan — KontraS (putusan 151/G/2026, 17 Nov 2026)"
+    tanggal: 2026-11-20
+  - url: https://www.amnesty.id/kabar-terbaru/siaran-pers/koalisi-penjahat-ham-tetap-jadi-pahlawan-keadilan-telah-mati-dan-impunitas-menjelma-di-pengadilan-tata-usaha-negara-jakarta/11/2026/
+    judul: "Penjahat HAM tetap Jadi Pahlawan — Amnesty International Indonesia (putusan 151/G/2026, 17 Nov 2026)"
+    tanggal: 2026-11-20
+  - url: https://www.channel8.co.id/10114/2026/11/peresmian-patung-jenderal-besar-tni-hm-soeharto-di-mabes-bin.html/
+    judul: "Peresmian Patung Jenderal Besar TNI HM Soeharto di Mabes BIN — Channel8 (19 Nov 2026)"
+    tanggal: 2026-11-20
 relasi:
   - predikat: dipimpin_oleh
     objek: "Soeharto"
@@ -57,6 +66,9 @@ relasi:
   - predikat: berisi_peristiwa
     objek: "Transisi 1965–1967"
     sumber: https://soehartolibrary.id/
+  - predikat: berisi_peristiwa
+    objek: "Peresmian Patung Soeharto di Mabes BIN (2026)"
+    sumber: https://www.channel8.co.id/10114/2026/11/peresmian-patung-jenderal-besar-tni-hm-soeharto-di-mabes-bin.html/
   - predikat: berisi_hub
     objek: "Pemilu-pemilu Orde Baru"
     sumber: https://soehartolibrary.id/
@@ -118,7 +130,8 @@ Penilaian atas Orde Baru terus bergerak setelah rezim berakhir — lewat keputus
 
 - **September 2024 — MPR menyatakan penyebutan nama Soeharto dalam TAP MPR XI/1998 selesai dilaksanakan.** Dalam Sidang Paripurna Akhir Masa Jabatan (25 September 2024), MPR menyatakan penyebutan Presiden Soeharto dalam Pasal 4 TAP MPR XI/1998 tentang Penyelenggaraan Negara yang Bersih dan Bebas KKN telah selesai dilaksanakan karena yang bersangkutan meninggal dunia (Januari 2008); pada kesempatan yang sama MPR menyatakan TAP MPRS XXXIII/1967 tentang pencabutan kekuasaan Presiden Soekarno tidak berlaku lagi. Ketua MPR Ahmad Muzani (10 November 2025) menyatakan persoalan hukum ketiga presiden — Soekarno, Soeharto, Gus Dur — telah dinyatakan selesai. [Kritik ber-atribusi: sejumlah pengamat hukum menilai MPR tidak lagi berwenang mencabut atau mengubah TAP MPR sejak amandemen UUD 1945 tahun 2002, sehingga keputusan itu hanya keputusan politik internal, bukan tindakan konstitusional — TAP MPR XI/1998 sendiri tetap sah secara hukum.]
 - **10 November 2025 — Soeharto dianugerahi gelar Pahlawan Nasional.** Presiden Prabowo Subianto menganugerahkan gelar kepada 10 tokoh pada Hari Pahlawan, berdasarkan Keppres No. 116/TK/Tahun 2025 (ditetapkan 6 November 2025). Soeharto diganjar gelar pada bidang Perjuangan Bersenjata dan Politik, antara lain atas perannya sejak masa kemerdekaan — Wakil Komandan BKR Yogyakarta dan memimpin pelucutan senjata Jepang di Kotabaru (1945) — serta jasa pembangunan nasional. Gelar diterima ahli warisnya, Siti Hardijanti Rukmana (Tutut) dan Bambang Trihatmodjo. [Pro dan kontra ber-atribusi: pemerintah dan pendukungnya mendasarkan gelar pada jasa militer dan pembangunan 32 tahun; Amnesty International Indonesia, Koalisi Masyarakat Sipil Melawan Impunitas, dan Gerakan Masyarakat Sipil Adili Soeharto (GEMAS) menolaknya dan menuntut pencabutan, dengan alasan pelanggaran berat HAM masa Orde Baru belum tuntas dan gelar menormalkan impunitas.]
-- **Gugatan atas gelar pahlawan di PTUN Jakarta.** Dua perkara diajukan terhadap Keppres 116/TK/2025: perkara 50/G/2026/PTUN.JKT (penggugat Bejo, petani Boyolali yang mengaku korban penggusuran Waduk Kedung Ombo) diputus 8 September 2026 dengan gugatan dinyatakan Tidak Diterima — majelis menilai penggugat tidak mempunyai kedudukan hukum. Perkara 151/G/2026/PTUN.JKT (didaftarkan 30 April 2026 oleh koalisi GEMAS) masih berjalan; pembacaan putusan dijadwalkan 17 November 2026 melalui Sistem Informasi Pengadilan.
+- **Gugatan atas gelar pahlawan di PTUN Jakarta — putusan 17 November 2026.** Dua perkara diajukan terhadap Keppres 116/TK/2025. Perkara 50/G/2026/PTUN.JKT (penggugat Bejo, petani Boyolali yang mengaku korban penggusuran Waduk Kedung Ombo) diputus 8 September 2026 dengan gugatan dinyatakan Tidak Diterima — majelis menilai penggugat tidak mempunyai kedudukan hukum. Perkara 151/G/2026/PTUN.JKT (didaftarkan 30 April 2026 oleh koalisi GEMAS; 9 penggugat — korban 1965, Tanjung Priok 1984, Mei 1998, dan penghilangan paksa 1997–1998, serta YLBHI dan ICW) diputus 17 November 2026 secara elektronik: eksepsi tergugat dan Tergugat II Intervensi (Siti Hardiyanti Hastuti Rukmana) dinyatakan tidak diterima, dan dalam pokok perkara gugatan ditolak untuk seluruhnya — kedudukan hukum para penggugat diakui, tetapi gugatan tidak dikabulkan. Para penggugat dihukum membayar biaya perkara Rp461.000. Dalam persidangan, penggugat mengajukan 92 bukti surat serta saksi dan ahli, antara lain Richo Andi Wibowo dan Bivitri Susanti (12 Oktober 2026). [Reaksi ber-atribusi: koalisi penggugat (KontraS, Amnesty International Indonesia, GEMAS) mengecam putusan itu sebagai "infrastruktur impunitas" dan menyatakan akan mengajukan banding serta menuntut pencabutan Keppres 116/TK/2025; pengajuan banding itu sendiri belum terkonfirmasi per 20 November 2026.]
+- **18 November 2026 — patung Soeharto diresmikan di Mabes BIN.** [[lembaga/bin|BIN]] meresmikan patung dada perunggu Soeharto di depan Gedung Utama Mabes BIN, Pejaten, Jakarta; Kepala BIN Muhammad Herindra memberi sambutan dan menandatangani prasasti, disaksikan Siti Hardijanti Rukmana (Tutut) dan Siti Hediati Hariyadi (Titiek). Patung itu menampilkan Soeharto berpeci, jas dan dasi, dengan prasasti bertuliskan namanya dan tahun 1921–2008. Lihat [[peristiwa/peresmian-patung-soeharto-mabes-bin|Peresmian Patung Soeharto di Mabes BIN (2026)]].
 - **14 Desember 2025 — buku sejarah nasional 10 jilid diluncurkan.** Kementerian Kebudayaan meluncurkan *Sejarah Indonesia: Dinamika Kebangsaan dalam Arus Global* (10 jilid, 7.958 halaman, 123 penulis dari 34 perguruan tinggi dan 11 lembaga non-perguruan tinggi); jilid 9 membahas "Pembangunan dan Stabilitas Era Orde Baru (1967–1998)" dan jilid 10 membahas reformasi hingga 2024. [Kritik ber-atribusi: Koalisi Masyarakat Sipil Melawan Impunitas dan Amnesty International Indonesia menilai buku itu menonjolkan keberhasilan rezim dan mengabaikan suara korban serta fakta pelanggaran HAM; Menteri Kebudayaan Fadli Zon menyatakan isi buku objektif karena ditulis sejarawan perguruan tinggi dan mempersilakan publik membaca isinya sebelum mengkritik.]
 
 ## Jalur baca
@@ -139,3 +152,6 @@ Penilaian atas Orde Baru terus bergerak setelah rezim berakhir — lewat keputus
 - **KontraS (15 Des 2025):** [Tanpa Suara Korban, Sejarah Nasional Indonesia Hanyalah Narasi Penguasa!](https://kontras.org/tanpa-suara-korban-sejarah-nasional-indonesia-hanyalah-narasi-penguasa/)
 - **Amnesty International Indonesia / GEMAS (10 Nov 2026):** [Hari Pahlawan Terkooptasi Kekuasaan: Tolak Pemutihan Sejarah Soeharto dan Politisasi Gelar Kepahlawanan](https://www.amnesty.id/kabar-terbaru/siaran-pers/koalisi-hari-pahlawan-terkooptasi-kekuasaan-tolak-pemutihan-sejarah-soeharto-dan-politisasi-gelar-kepahlawanan/11/2026/)
 - **Blog Wiki Ira Amalia (15 Okt 2026):** [Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris](https://blog.iraamalia.id/posts/gugatan-gelar-pahlawan-soeharto-ptun/) — sintesis atas Putusan 50/G/2026/PTUN.JKT
+- **KontraS / Amnesty International Indonesia (17 Nov 2026):** [Penjahat HAM tetap Jadi Pahlawan](https://kontras.org/penjahat-ham-tetap-jadi-pahlawan-keadilan-telah-mati-dan-impunitas-menjelma-di-pengadilan-tata-usaha-negara-jakarta/) — rilis pers koalisi penggugat atas putusan 151/G/2026 (amar, 92 bukti surat, pernyataan akan banding)
+- **Wiki Ira Amalia (diperiksa 20 Nov 2026):** [Soeharto Pahlawan Nasional](https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional) — amar putusan 151/G/2026 terverifikasi dari SIPP PTUN Jakarta
+- **Channel8 (19 Nov 2026):** [Peresmian Patung Jenderal Besar TNI HM Soeharto di Mabes BIN](https://www.channel8.co.id/10114/2026/11/peresmian-patung-jenderal-besar-tni-hm-soeharto-di-mabes-bin.html/) — laporan foto peresmian patung 18 Nov 2026
