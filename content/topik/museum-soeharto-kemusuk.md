@@ -2,8 +2,8 @@
 title: "Museum Soeharto Kemusuk"
 description: "Museum Memorial Jenderal Besar Soeharto di Dusun Kemusuk, Bantul — dibangun keluarga Soeharto di tanah kelahirannya dan diresmikan 8 Juni 2013."
 date: 2013-06-08
-updated: 2026-11-13
-last_updated: "2026-11-13"
+updated: 2026-11-20
+last_updated: "2026-11-20"
 entity_type: topik
 entity_id: "museum-soeharto-kemusuk"
 aliases:
@@ -29,6 +29,18 @@ sumber:
   - url: https://seminar.uad.ac.id/index.php/snk/article/view/6144
     judul: "Peranan Museum Memorial Jenderal Besar H.M Soeharto dalam Penguatan Sikap Sosial dan Cinta Tanah Air Masyarakat — Seminar Nasional Kewarganegaraan UAD"
     tanggal: 2026-11-13
+  - url: https://dutaformasi24.com/fadli-zon-dorong-penguatan-museum-tokoh-bangsa-museum/
+    judul: "Fadli Zon Dorong Penguatan Museum Tokoh Bangsa — Duta Formasi 24 (kunjungan 5 Jun 2026)"
+    tanggal: 2026-11-20
+  - url: https://rakyatmerdekanews.co.id/museum-soeharto-bantul-ramai-pengunjung-usai-ditetapkan-jadi-pahlawan-nasional/
+    judul: "Museum Soeharto Bantul Ramai Pengunjung Usai Ditetapkan Jadi Pahlawan Nasional — Rakyat Merdeka News (25 Okt 2026)"
+    tanggal: 2026-11-20
+  - url: https://pramukajogja.or.id/peringati-hari-pahlawan-2026-dkr-sedayu-ziarah-ke-makam-somenggalan/
+    judul: "Peringati Hari Pahlawan 2026, DKR Sedayu Ziarah ke Makam Somenggalan — Pramuka Jogja (15 Nov 2026)"
+    tanggal: 2026-11-20
+  - url: https://www.kesatriyanjogja.com/blog/museum-memorial-jenderal-besar-hm-soeharto-di-bantul-wisata-sejarah-di-kampung-kemusuk
+    judul: "Museum Memorial Jenderal Besar HM Soeharto di Bantul — Kesatriyan Jogja (jam buka versi Wajib Kunjung Museum DIY)"
+    tanggal: 2026-11-20
 relasi:
   - predikat: terkait_dengan
     objek: "Soeharto"
@@ -68,11 +80,17 @@ Museum ini dibangun bukan oleh negara, melainkan oleh keluarga — di tanah kelu
 - **Rumah keluarga:** replika/rumah masa kecil dan rumah-rumah keluarga (Notosudiro, Atmosudiro) di dalam kompleks.
 - **Kegiatan edukasi:** kunjungan sekolah dan universitas, seminar sejarah, dan lokakarya kepemimpinan. Menurut Kepala Museum Gatot Nugroho (Mei 2026), kunjungan mencapai sekitar 5.000 orang per bulan dan sekitar 70% di antaranya pelajar; edukasi dilakukan interaktif dan disesuaikan usia — misalnya mengajak anak menyanyikan lagu Garuda Pancasila. Sebuah makalah Seminar Nasional Kewarganegaraan (UAD) mencatat museum juga dipakai warga sekitar untuk kegiatan sosial dan keagamaan, antara lain peringatan 1 Muharram, Natal, Hari Kartini, dan Hari Pahlawan.
 
+## Perkembangan 2026
+
+- **5 Juni 2026 — Menteri Kebudayaan Fadli Zon meninjau museum.** Fadli Zon mendorong penguatan museum-museum tokoh bangsa sebagai ruang pembelajaran yang hidup — museum tidak hanya menyimpan benda bersejarah, tetapi harus menghadirkan pengalaman belajar yang relevan bagi generasi muda. Menurut laporan kunjungan itu, dokumentasi peran Soeharto sebagai Kepala Wehrkreise III pada Agresi Militer Belanda II dan Serangan Umum 1 Maret 1949 menjadi salah satu daya tarik utama museum.
+- **Juni 2026 — museum memperingati hari jadi ke-13** (diresmikan 8 Juni 2013). Laporan Oktober 2026 mencatat kunjungan terus meningkat — dari turis lokal sampai mancanegara — dan perhatian publik bertambah setelah Soeharto ditetapkan sebagai Pahlawan Nasional; angka kunjungan terbarunya tidak disebutkan, sehingga halaman ini tidak memakai angka baru.
+- **15 November 2026 — ziarah Hari Pahlawan di Makam Somenggalan.** Dewan Kerja Pramuka Penegak dan Pandega Ranting Sedayu berziarah ke Makam Somenggalan — kompleks makam yang dibangun Probosutedjo beserta Monumen Jenderal Besar Soeharto di Kemusuk — dipandu Kepala Pengelola Museum Soeharto dan Makam Somenggalan, Gatot Nugroho, yang menceritakan agresi militer Belanda terhadap warga. Kegiatan ini menunjukkan museum dan kompleks makamnya dipakai sebagai tempat peringatan di luar kunjungan wisata biasa.
+
 ## Batas data
 
 - **Luas lahan:** artikel soehartois.com menyebut "lebih dari dua hektare" dan "sekitar 1.000 meter persegi" — keduanya SALAH. Lahan museum 3.620 m² menurut situs resmi Kalurahan Argomulyo, Wikipedia, dan sejumlah liputan; angka 1.000 m² kemungkinan merujuk pada luas bangunan, bukan lahan.
 - **Jumlah artefak:** "lebih dari 1.000 artefak" hanya disebut oleh artikel soehartois.com dan tidak terverifikasi di sumber lain; halaman ini tidak memakai angka itu sebagai fakta.
-- **Jam operasional** (Selasa–Minggu 08.30–15.30) hanya berasal dari satu artikel 2024 dan belum terverifikasi ulang; sumber lain menyebut jam berbeda — 08.00–16.00 setiap hari, atau 08.30–15.00 — jadi jam dapat berubah; konfirmasi ke pihak museum sebelum berkunjung.
+- **Jam operasional** (Selasa–Minggu 08.30–15.30) hanya berasal dari satu artikel 2024 dan belum terverifikasi ulang; sumber lain menyebut jam berbeda — 08.00–16.00 setiap hari, atau 08.30–15.00 — jadi jam dapat berubah; konfirmasi ke pihak museum sebelum berkunjung. Layanan Wajib Kunjung Museum DIY (dikutip Kesatriyan Jogja) mencatat varian keempat: buka Senin–Sabtu 08.00–16.00 — juga belum terverifikasi langsung ke pengelola.
 - **Narasi museum:** sebagai museum keluarga, koleksi dan narasinya menyajikan sisi pencapaian Soeharto; kontroversi pemerintahannya tidak menjadi bagian pameran. Halaman ini mencatat museum sebagai tempat penyimpanan memori, bukan sebagai sumber netral tentang [[hub/orde-baru|Orde Baru]] — lihat [[hub/warisan-orde-baru|Warisan Orde Baru]] untuk penilaian berimbang.
 
 ## Sumber
@@ -88,5 +106,9 @@ Museum ini dibangun bukan oleh negara, melainkan oleh keluarga — di tanah kelu
 - "Museum Soeharto, Mengenang Soeharto di Tempat Kelahirannya", Mojok: https://mojok.co/kilas/museum-soeharto-mengenang-soeharto-di-tempat-kelahirannya/
 - Situs resmi museum: https://museumsoeharto.com
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
+- "Fadli Zon Dorong Penguatan Museum Tokoh Bangsa", Duta Formasi 24, 5 Jun 2026 — kunjungan Menteri Kebudayaan ke Museum Kemusuk: https://dutaformasi24.com/fadli-zon-dorong-penguatan-museum-tokoh-bangsa-museum/
+- "Museum Soeharto Bantul Ramai Pengunjung Usai Ditetapkan Jadi Pahlawan Nasional", Rakyat Merdeka News, 25 Okt 2026 — hari jadi ke-13 (Jun 2026) dan peningkatan kunjungan pasca-gelar pahlawan: https://rakyatmerdekanews.co.id/museum-soeharto-bantul-ramai-pengunjung-usai-ditetapkan-jadi-pahlawan-nasional/
+- "Peringati Hari Pahlawan 2026, DKR Sedayu Ziarah ke Makam Somenggalan", Pramuka Jogja, 15 Nov 2026: https://pramukajogja.or.id/peringati-hari-pahlawan-2026-dkr-sedayu-ziarah-ke-makam-somenggalan/
+- "Museum Memorial Jenderal Besar HM Soeharto di Bantul, Wisata Sejarah di Kampung Kemusuk", Kesatriyan Jogja — jam buka versi Wajib Kunjung Museum DIY (Senin–Sabtu 08.00–16.00): https://www.kesatriyanjogja.com/blog/museum-memorial-jenderal-besar-hm-soeharto-di-bantul-wisata-sejarah-di-kampung-kemusuk
 
 Lihat juga: [[aktor/soeharto|Soeharto]] · [[hub/warisan-orde-baru|Warisan Orde Baru]] · [[hub/orde-baru|Orde Baru]]
