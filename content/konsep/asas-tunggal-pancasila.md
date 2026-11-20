@@ -32,8 +32,8 @@ relasi:
     objek: "petisi-50"
     sumber: https://soehartolibrary.id/
 last_modified: 2026-11-09
-last_updated: "2026-11-09"
-updated: 2026-11-09
+last_updated: "2026-11-17"
+updated: 2026-11-17
 verification_status: "verified"
 ---
 
@@ -112,7 +112,19 @@ Mempelajari babak Asas Tunggal Pancasila krusial untuk memahami dinamika politik
 
 ---
 
-## 6. Catatan Presisi Sejarah
+## 6. Perkembangan pasca-2017: pembubaran ormas tanpa pengadilan
+
+Mekanisme pembubaran administratif yang diperkenalkan Perppu 2/2017 (UU 16/2017) dipakai lagi pada ormas besar berikutnya:
+
+- **Front Pembela Islam (FPI):** Surat Keterangan Terdaftar (SKT) FPI sebagai ormas berakhir 20 Juni 2019 dan tidak diperpanjang, sehingga menurut pemerintah FPI secara *de jure* telah bubar sejak 21 Juni 2019. Pada 30 Desember 2020, pemerintah melarang kegiatan, penggunaan simbol dan atribut, serta menghentikan kegiatan FPI melalui Keputusan Bersama (SKB) enam pejabat — Mendagri, Menkumham, Menkominfo, Jaksa Agung, Kapolri, dan Kepala BNPT (No. 220-4780/2020, M.HH-14.HH.05.05/2020, 690/2020, 264/2020, KB/3/XII/2020, 320/2020). Sebagai dasar hukum, pemerintah mengutip Putusan Mahkamah Konstitusi No. 82/PUU-XI/2013 (23 Desember 2014). Pendukung FPI kemudian membentuk organisasi baru: sempat bernama Front Persatuan Islam (awal Januari 2021), lalu Front Persaudaraan Islam yang dideklarasikan 8 Januari 2021.
+- **Wacana revisi UU Ormas (2025):** pada Mei 2025, koalisi masyarakat sipil — antara lain Yayasan Penguatan Partisipasi, Inisiatif, dan Kemitraan Masyarakat Indonesia (YAPPIKA) dan Koalisi Kebebasan Berserikat — menolak wacana revisi UU Ormas, karena dinilai mempertahankan pembubaran tanpa proses peradilan dan memperluas definisi ormas. Pada bulan yang sama, Kementerian Dalam Negeri menyatakan ormas yang terlibat aksi premanisme akan dicabut statusnya melalui Satuan Tugas Anti-Premanisme; pernyataan itu didukung anggota Komisi II DPR.
+- **Uji materi Pasal 59 UU Ormas (2026):** pada 1 April 2026, Mahkamah Konstitusi menyidangkan permohonan pengujian materiil Pasal 59 UU No. 16 Tahun 2017 (Permohonan No. 97/PUU-XXIV/2026), yang mempersoalkan pemberlakuan larangan bagi ormas terhadap yayasan — pemohon meminta pasal itu dimaknai tidak berlaku bagi yayasan. Perkara ini masih berjalan pada saat halaman ini diperbarui.
+
+[Inferensi: pola pembubaran HTI (2017) dan FPI (2020) menunjukkan mekanisme administratif warisan Perppu 2/2017 menjadi instrumen utama negara menertibkan ormas, dan perdebatan 2025–2026 menunjukkan mekanisme itu masih dipersoalkan dari dua arah — masyarakat sipil menilai pembubaran tanpa pengadilan terlalu represif, sementara pemerintah menilai mekanisme itu perlu untuk ormas yang melanggar ketertiban.]
+
+---
+
+## 7. Catatan Presisi Sejarah
 
 1. **Bukan Penghapusan Agama**: Secara formal, rezim Soeharto menegaskan bahwa asas tunggal bukan upaya mensekulerkan negara atau mengganti agama, melainkan kesepakatan wadah berorganisasi kemasyarakatan. Namun dalam praktiknya, menurut para peneliti, pengawasan intelijen ([[lembaga/kopkamtib|Kopkamtib]] & [[lembaga/bakin|BAKIN]]) seringkali menstigma ekspresi keagamaan kritis sebagai ancaman subversif.
 2. **Pencabutan Pasca-Reformasi**: Melalui Sidang Istimewa MPR 1998 dan pengesahan UU Parpol No. 2 Tahun 1999 pasca [[hub/krisis-dan-reformasi-1998|Reformasi 1998]], ketentuan asas tunggal dicabut. Partai politik dan ormas diizinkan kembali mencantumkan asas lain (seperti Islam atau sosial-demokrasi) sepanjang tidak bertentangan dengan Pancasila dan UUD 1945.
@@ -121,7 +133,7 @@ Mempelajari babak Asas Tunggal Pancasila krusial untuk memahami dinamika politik
 
 ---
 
-## 7. Referensi & Bacaan Lanjutan
+## 8. Referensi & Bacaan Lanjutan
 
 - Bourchier, David. (2015). *Illiberal Democracy in Indonesia: The Ideology of the Family State*. London: Routledge.
 - Ramage, Douglas E. (1995). *Politics in Indonesia: Democracy, Islam and the Ideology of Tolerance*. London: Routledge.
@@ -130,3 +142,6 @@ Mempelajari babak Asas Tunggal Pancasila krusial untuk memahami dinamika politik
 - Undang-Undang Republik Indonesia Nomor 8 Tahun 1985 tentang Organisasi Kemasyarakatan.
 - Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 tentang Organisasi Kemasyarakatan (JDIH BPK, diakses 9 November 2026).
 - Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2017 tentang Organisasi Kemasyarakatan, disahkan menjadi UU No. 16 Tahun 2017; SK Menkumham No. AHU-30.AH.01.08/2017 tentang pencabutan badan hukum HTI (diakses 9 November 2026).
+- Keputusan Bersama Mendagri, Menkumham, Menkominfo, Jaksa Agung, Kapolri, dan Kepala BNPT tentang Larangan Kegiatan, Penggunaan Simbol dan Atribut serta Penghentian Kegiatan Front Pembela Islam (30 Desember 2020; Setkab, diakses 17 November 2026).
+- IPAC (2021). *Jokowi's Crackdown on Islamist "Radicals" in Indonesia*, Report No. 71, 25 Mei 2021.
+- Mahkamah Konstitusi, Permohonan No. 97/PUU-XXIV/2026 tentang pengujian Pasal 59 UU Ormas (sidang pendahuluan 1 April 2026; mkri.id, diakses 17 November 2026).

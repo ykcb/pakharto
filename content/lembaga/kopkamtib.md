@@ -2,8 +2,8 @@
 title: "Kopkamtib (Komando Operasi Pemulihan Keamanan dan Ketertiban)"
 description: "Lembaga keamanan ekstra-yudisial terkuat era Orde Baru yang berwenang melakukan penangkapan tanpa batas waktu peradilan, penyensoran pers, dan penanganan ancaman subversi 1965–1988."
 date: 1965-10-10
-updated: 2026-11-10
-last_updated: "2026-11-10"
+updated: 2026-11-17
+last_updated: "2026-11-17"
 entity_type: organisasi
 entity_id: "kopkamtib"
 aliases:
@@ -34,6 +34,12 @@ sumber:
   - url: https://nautilus.org/wp-content/uploads/2011/12/Chapter-8.pdf
     judul: "Richard Tanter (1991), Intelligence Agencies and Third World Militarization, Bab 8 — disertasi Monash [TERVERIFIKASI 2026-11-10]"
     tanggal: 2026-11-10
+  - url: https://www.amnesty.id/kabar-terbaru/jokowi-kick-off-penyelesaian-non-yudisial-kasus-pelanggaran-ham-berat-di-aceh-pelaku-tetap-harus-diadili/06/2023/
+    judul: "Kick-off penyelesaian non-yudisial pelanggaran HAM berat (27 Jun 2023) — Amnesty International Indonesia [TERVERIFIKASI 2026-11-17]"
+    tanggal: 2026-11-17
+  - url: https://docs.antaragpt.com/Keputusan_Presiden_%28KEPPRES%29/Keputusan_Presiden_%28KEPPRES%29_Nomor_64_Tahun_1971.pdf
+    judul: "Keppres No. 64 Tahun 1971 tentang Pemberhentian Sebagian Menteri Kabinet Pembangunan (9 Sep 1971) [TERVERIFIKASI 2026-11-17]"
+    tanggal: 2026-11-17
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -114,6 +120,12 @@ Pasca-[[peristiwa/malari-1974|Malari 1974]], Soemitro menghadap Soeharto pada 17
 ## Pembubaran
 Pada tanggal 5 September 1988, Presiden Soeharto menandatangani Keputusan Presiden No. 29 Tahun 1988 yang secara resmi membubarkan Kopkamtib dan membentuk **Badan Koordinasi Bantuan Pemantapan Stabilitas Nasional (Bakorstanas)** sebagai penggantinya, dengan fungsi yang lebih bersifat koordinatif daripada operasional langsung. Bakorstanas dipimpin oleh Ketua yang dijabat ex officio oleh Panglima ABRI; ketua pertamanya Jenderal Try Sutrisno. Bakorstanas sendiri dibubarkan lewat Keppres No. 38 Tahun 2000 (10 Maret 2000) oleh Presiden Abdurrahman Wahid — jadi lembaga penerus Kopkamtib itu hidup selama sekitar 11,5 tahun (1988–2000).
 
+## Warisan dan penyelesaian non-yudisial
+
+Kopkamtib sudah bubar sejak 1988, tetapi korban penahanan dan penyaringan politik era Kopkamtib masuk dalam penyelesaian pelanggaran HAM berat masa lalu: pada 11 Januari 2023 Presiden Joko Widodo mengakui 12 pelanggaran HAM berat, termasuk Peristiwa 1965–1966 dan [[peristiwa/penembakan-misterius-petrus|Penembakan Misterius (Petrus) 1982–1985]], lalu memerintahkan pelaksanaannya melalui Inpres No. 2 Tahun 2023 (15 Maret 2023) kepada 19 kementerian/lembaga. Penyelesaian non-yudisial itu menitikberatkan pemulihan korban — antara lain kartu kesehatan prioritas, tunjangan tunai bulanan, beasiswa, dan renovasi rumah — dan diresmikan (*kick-off*) 27 Juni 2023 di Rumoh Geudong, Aceh; pemulihan korban Petrus dijadwalkan pada 2024. Perlu dicatat: [[peristiwa/peristiwa-tanjung-priok-1984|Peristiwa Tanjung Priok 1984]] tidak termasuk dalam 12 peristiwa yang diakui pemerintah itu.
+
+[Inferensi: jalur non-yudisial ini menandai pergeseran negara dari penegakan keamanan ala Kopkamtib — penahanan tanpa pengadilan — ke pemulihan korban tanpa mengadili pelaku; karena itu ia dipuji sebagai langkah pemulihan sekaligus dikritik karena tidak menyentuh akuntabilitas pelaku.]
+
 ## Sumber
 - **Keputusan Presiden/Pangti ABRI/KOTI No. 142/KOTI/1965:** Pengangkatan Soeharto sebagai Pangkopkamtib (1 Nov 1965).
 - **Keppres No. 179/KOTI/1965:** Tugas dan organisasi Kopkamtib (6 Des 1965).
@@ -121,6 +133,8 @@ Pada tanggal 5 September 1988, Presiden Soeharto menandatangani Keputusan Presid
 - **Keppres No. 38/2000:** Pembubaran Bakorstanas (10 Mar 2000).
 - **Keppres No. 16/1990:** Penelitian Khusus bagi Pegawai Negeri RI (17 Apr 1990).
 - **Keppres No. 39/2000:** Pencabutan Keppres No. 16/1990 — berakhirnya Litsus (10 Mar 2000).
+- **Inpres No. 2 Tahun 2023:** Pelaksanaan Rekomendasi Penyelesaian Non-Yudisial Pelanggaran HAM Berat (15 Mar 2023; 12 peristiwa, termasuk 1965–1966 dan Petrus).
+- **Keppres No. 64 Tahun 1971:** Perombakan Kabinet Pembangunan I (9 Sep 1971; Panggabean pindah ke Menneg/Wakil Panglima ABRI, Soemitro menjadi Pangkopkamtib).
 - **Sudomo (1983):** *Kebijaksanaan dan Langkah-langkah Kopkamtib dalam Pemulihan Keamanan Nasional*.
 - **Harold Crouch (1978):** *The Army and Politics in Indonesia* — Analisis kelembagaan Kopkamtib dalam politik militer Orde Baru.
 - **Richard Tanter (1991):** *Intelligence Agencies and Third World Militarization*, Bab 1 dan Bab 8 — Disertasi Monash tentang Kopkamtib, Opstib, dan jumlah tahanan.
@@ -131,5 +145,5 @@ Pada tanggal 5 September 1988, Presiden Soeharto menandatangani Keputusan Presid
 - **Perbedaan Kopkamtib vs Hankam:** Kopkamtib bukan bagian dari struktur organik Departemen Pertahanan Keamanan (Hankam) maupun Mabes ABRI, melainkan komando operasi darurat khusus yang bertanggung jawab langsung kepada Presiden/Panglima Tertinggi ABRI.
 - **Koreksi tanggal pembentukan (2026-11-10):** versi sebelumnya halaman ini memakai `date: 1965-11-01` dan "Keppres No. 179 Tahun 1965" seolah satu instrumen pembentukan bertanggal 1 November. Yang benar: dibentuk 10 Oktober 1965; pengangkatan Pangkopkamtib 1 November 1965 (No. 142/KOTI/1965); formalisasi organisasi 6 Desember 1965 (No. 179/KOTI/1965).
 - **Koreksi daftar Pangkopkamtib (2026-11-10):** Maraden Panggabean (1969–1971) sebelumnya hilang dari tabel; periode Soeharto pertama dan Soemitro juga dikoreksi dari "1965–1973" dan "1973–1974" menjadi 1965–1969 dan 1971–1974.
-- **Varian tanggal (belum diputuskan):** Wikipedia bahasa Inggris memakai tanggal berbeda untuk pergantian Pangkopkamtib (mis. Panggabean s.d. 27 Maret 1973; Soemitro 27 Maret 1973–28 Januari 1974) — kemungkinan karena Maret 1973 adalah saat Soemitro menjadi Wakil Panglima ABRI, bukan saat menjadi Pangkopkamtib. Halaman ini memakai versi Wikipedia bahasa Indonesia; varian ini dicatat di sini sampai ada Keppres pengangkatan sebagai sumber primer.
+- **Varian tanggal (belum diputuskan):** Wikipedia bahasa Inggris memakai tanggal berbeda untuk pergantian Pangkopkamtib (mis. Panggabean s.d. 27 Maret 1973; Soemitro 27 Maret 1973–28 Januari 1974). Bukti susunan kabinet memperkuat versi yang dipakai halaman ini untuk pergantian pertama: Keppres No. 64 Tahun 1971 (9 September 1971, dilantik 11 September 1971) merombak Kabinet Pembangunan I — Panggabean pindah menjadi Menteri Negara Pembantu Penertiban Hankam merangkap Wakil Panglima ABRI, dan Soemitro menjadi Pangkopkamtib. Adapun tanggal 27 Maret 1973 pada varian lain bertepatan dengan berakhirnya Kabinet Pembangunan I, dan Soemitro tercatat kembali sebagai Pangkopkamtib dalam Kabinet Pembangunan II sejak 4 April 1973 — sehingga varian itu kemungkinan mencampuradukkan tanggal kabinet dengan tanggal komando. Untuk ujung masa jabatan Soemitro, 28 Januari 1974 kemungkinan mencatat tanggal pengunduran dirinya, sedangkan 2 Maret 1974 adalah tanggal formalisasi pengambilalihan lewat Keppres No. 9 Tahun 1974; halaman ini memakai tanggal formalisasi. Varian ini tetap dicatat di sini sampai ada Keppres pengangkatan sebagai sumber primer yang memastikan.
 - **Skala Litsus:** halaman ini tidak menulis angka total orang yang dilitsus karena tidak ditemukan angka total dari sumber bereputasi; yang ada hanya konteks jumlah PNS (1,6 juta pada 1974; sekitar 3 juta pada 2003), yang bukan jumlah orang yang dilitsus.
