@@ -2,8 +2,8 @@
 title: "Ekonomi Orde Baru"
 description: "Arsitektur pembangunan ekonomi terencana era Orde Baru: stabilisasi moneter, Rencana Pembangunan Lima Tahun (Repelita), pengelolaan modal asing, konglomerasi, dan utang luar negeri 1966–1998."
 date: 1966-08-11
-updated: 2026-11-16
-last_updated: "2026-11-16"
+updated: 2026-11-21
+last_updated: "2026-11-21"
 entity_type: topik
 entity_id: "ekonomi-orde-baru"
 aliases:
@@ -31,6 +31,9 @@ sumber:
   - url: https://jurnal.ugm.ac.id/jieb/article/download/39361/22288
     judul: "Analisis Struktur dan Kinerja Industri Bank Swasta Nasional di Indonesia Tahun 1996 — Jurnal Ekonomi dan Bisnis Indonesia Vol. 13 No. 1 (1998)"
     tanggal: 2026-11-13
+  - url: https://www.bps.go.id/id/pressrelease/2026/11/05/169700/ekonomi-indonesia-triwulan-iii-2026-tumbuh-5-47-persen--y-on-y-.html
+    judul: "Ekonomi Indonesia Triwulan III-2026 Tumbuh 5,47 Persen (Y-on-Y) — BPS"
+    tanggal: 2026-11-21
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -108,6 +111,9 @@ Krisis 1998 yang mewariskan beban obligasi rekapitalisasi perbankan (BLBI) puluh
 ### 1998-01-15
 - Presiden Soeharto menandatangani perjanjian penyesuaian struktural (*Letter of Intent*) ke-2 dengan Direktur Pelaksana IMF Michel Camdessus di kediaman Jl. Cendana, yang mensyaratkan pembongkaran monopoli perdagangan komoditas penting dan privatisasi BUMN.
 
+### 2026-11-05
+- Badan Pusat Statistik (BPS) mencatat ekonomi Indonesia tumbuh 5,47% (y-on-y) pada triwulan III-2026 — naik dari 5,29% pada triwulan II-2026; secara kumulatif Januari–September 2026 tumbuh 5,45%. PDB atas dasar harga berlaku mencapai Rp6.741,0 triliun. Konsumsi rumah tangga tumbuh 5,04% dan menjadi penopang utama (kontribusi 2,62 poin). Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut belanja pemerintah pada triwulan II–III 2026 digenjot, antara lain lewat program Makan Bergizi Gratis (MBG) dan Koperasi Desa/Kelurahan Merah Putih (KDKMP). [Inferensi: laju pertumbuhan di kisaran 5% ini melanjutkan pola pertumbuhan era Orde Baru akhir, tetapi BPS sendiri mencatat kesenjangan antar-sektor — akomodasi dan makan minum tumbuh 11,22% sementara sektor padat karya tumbuh lebih lambat — sehingga angka agregat ini belum tentu dirasakan merata oleh pekerja.]
+
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden dan "Bapak Pembangunan Nasional", penentu arah kebijakan ekonomi tertinggi.
 - **Widjojo Nitisastro** — Menteri Perencanaan Pembangunan Nasional/Ketua Bappenas, arsitek utama tim teknokrat ekonomi Orde Baru.
@@ -117,6 +123,7 @@ Krisis 1998 yang mewariskan beban obligasi rekapitalisasi perbankan (BLBI) puluh
 - **Sudwikatmono, Liem Sioe Liong (Sudono Salim), Prajogo Pangestu** — Tokoh-tokoh pengusaha kunci yang memimpin konglomerasi swasta terkemuka era Orde Baru.
 
 ## Sumber
+- **BPS (5 Nov 2026):** *Ekonomi Indonesia Triwulan III-2026 Tumbuh 5,47 Persen (Y-on-Y)* — PDB ADHB Rp6.741,0 triliun; konsumsi rumah tangga 5,04% (kontribusi 2,62 poin); kumulatif Jan–Sep 2026 5,45%: https://www.bps.go.id/id/pressrelease/2026/11/05/169700/ekonomi-indonesia-triwulan-iii-2026-tumbuh-5-47-persen--y-on-y-.html
 - **John Bresnan, *Managing Indonesia* (1993), Bab 7 "The Pertamina Crisis":** https://ciaotest.cc.columbia.edu/book/bresnan/bresnan17.html
 - **"Kelompok Antarpemerintah bagi Indonesia (IGGI)"**, Wikipedia bahasa Indonesia: https://id.wikipedia.org/wiki/Kelompok_Antarpemerintah_bagi_Indonesia
 - **"Consultative Group on Indonesia (CGI)"**, Wikipedia bahasa Inggris: https://en.wikipedia.org/wiki/Consultative_Group_on_Indonesia
