@@ -2,8 +2,8 @@
 title: "Pemilu-pemilu Orde Baru"
 description: "Enam pemilihan umum yang digelar Orde Baru dari 1971 hingga 1997: terjadwal lima tahunan dengan partisipasi pemilih selalu di atas 90%, dimenangkan Golkar di setiap siklus — kemenangan yang menurut para peneliti tidak lepas dari mobilisasi aparatur negara dan pembatasan ruang oposisi."
 date: 1971-07-03
-updated: 2026-11-14
-last_updated: "2026-11-14"
+updated: 2026-11-21
+last_updated: "2026-11-21"
 entity_type: topik
 entity_id: "pemilu-orde-baru"
 aliases:
@@ -31,6 +31,12 @@ sumber:
   - url: https://kab-jayawijaya.kpu.go.id/blog/read/8289_presiden-ke-6-indonesia-susilo-bambang-yudhoyono-bapak-demokrasi-indonesia
     judul: "Pemilu Presiden langsung pertama 2004 (SBY–Jusuf Kalla) — KPU"
     tanggal: 2026-11-14
+  - url: https://portalpemilu.com/beritawawasan/berita/koalisi-masyarakat-sipil-sodorkan-726-pasal-ruu-pemilu-ini-delapan-pokok-usulan-kepada-dpr/
+    judul: "Koalisi Masyarakat Sipil Sodorkan 726 Pasal RUU Pemilu (RDPU 12 Nov 2026) — Portal Pemilu"
+    tanggal: 2026-11-21
+  - url: https://emedia.dpr.go.id/news/2026/11/15/agun-gunandjar-tak-persoalkan-dosen-asn-non-aktif-sementara-maju-nyaleg
+    judul: "RUU Pemilu ditarget rampung akhir Desember 2026; usulan ambang batas parlemen minimal 60 kursi (Agun Gunandjar, 13 Nov 2026) — E-Media DPR"
+    tanggal: 2026-11-21
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -86,7 +92,7 @@ Pemilu 1997 menjadi pemilu terakhir Orde Baru: Golkar meraih 74,51%, PPP 22,43%,
 - **Pemilihan presiden langsung (2004):** Amandemen UUD 1945 (2002) dan UU No. 23 Tahun 2003 membuka pemilihan presiden dan wakil presiden secara langsung oleh rakyat. Pilpres pertama digelar dua putaran (5 Juli dan 20 September 2004) dan dimenangkan Susilo Bambang Yudhoyono–Jusuf Kalla dengan 60,62% suara putaran kedua — presiden pertama yang dipilih langsung, bukan oleh MPR.
 - **Partisipasi pasca-Orde Baru:** Pada Pemilu 2024 (DPT 204.807.222 pemilih), partisipasi tercatat 81,48% untuk pilpres dan 81,14% untuk DPR (Keputusan KPU No. 1043 Tahun 2024) — di bawah angka >90% era Orde Baru. [Inferensi: selisih ini konsisten dengan hilangnya mobilisasi aparatur negara, meski faktor lain — kejenuhan pemilih, perubahan demografi, dan meluasnya pemilih muda — turut berperan, sehingga perbandingan ini bukan bukti tunggal.]
 - **Ambang batas diuji di MK:** Mahkamah Konstitusi menyatakan ambang batas parlemen 4% (Pasal 414 ayat (1) UU No. 7 Tahun 2017) tetap konstitusional untuk Pemilu 2024, tetapi konstitusional bersyarat untuk Pemilu 2029 — norma dan besarannya harus diubah lebih dulu (Putusan No. 116/PUU-XXI/2023, 29 Februari 2024). Ambang batas pencalonan presiden 20% kursi / 25% suara (Pasal 222 UU No. 7 Tahun 2017) dinyatakan bertentangan dengan UUD 1945 dan tidak berkekuatan hukum mengikat (Putusan No. 62/PUU-XXII/2024, 2 Januari 2025). MK juga memerintahkan pemisahan pemilu nasional dan daerah mulai 2029 (Putusan No. 135/PUU-XXII/2024).
-- **Revisi UU Pemilu berjalan:** Panitia Kerja RUU Pemilu di Komisi II DPR dibentuk akhir September 2026 dan pembahasan substansi dimulai 2 November 2026; hingga November 2026 belum ada ketentuan baru yang resmi berlaku untuk Pemilu 2029, termasuk soal besaran ambang batas parlemen pengganti 4%.
+- **Revisi UU Pemilu berjalan:** Panitia Kerja RUU Pemilu di Komisi II DPR dibentuk akhir September 2026 dan pembahasan substansi dimulai 2 November 2026. Pada 12 November 2026, Koalisi Masyarakat Sipil untuk Kodifikasi UU Pemilu menyampaikan rancangan alternatif 726 pasal (enam buku) dalam Rapat Dengar Pendapat Umum — delapan pokok usulan, antara lain menghapus ambang batas presiden dan parlemen, sistem proporsional campuran (50% daftar partai, 50% dapil berwakil tunggal), pemisahan pemilu nasional (April 2029) dan pemilu daerah (Oktober 2031), KPU RI tujuh anggota, serta Badan Ajudikasi Pemilu menggantikan Bawaslu; DPR belum memutuskan usulan tersebut. Wakil Ketua Komisi II Agun Gunandjar Sudarsa menargetkan draf RUU Pemilu rampung akhir Desember 2026 (pernyataan 13 November 2026) dan mengusulkan ambang batas parlemen minimal 60 kursi; sejumlah partai mengusulkan ambang batas 5–7% (Jazuli Juwaini, 2 November 2026). Hingga November 2026 belum ada ketentuan baru yang resmi berlaku untuk Pemilu 2029.
 
 ## Sumber
 
@@ -98,3 +104,5 @@ Pemilu 1997 menjadi pemilu terakhir Orde Baru: Golkar meraih 74,51%, PPP 22,43%,
 - **[KPU] ([2026-11-14]):** [Pemilu Presiden langsung pertama 2004 — SBY–Jusuf Kalla 60,62%](https://kab-jayawijaya.kpu.go.id/blog/read/8289_presiden-ke-6-indonesia-susilo-bambang-yudhoyono-bapak-demokrasi-indonesia)
 - **[Mahkamah Konstitusi] ([2026-11-14]):** [Putusan No. 116/PUU-XXI/2023 — ambang batas parlemen 4% konstitusional bersyarat untuk 2029](https://literasihukum.com/berita/ambang-batas-parlemen-melanggar-konstitusi)
 - **[Mahkamah Konstitusi] ([2026-11-14]):** [Putusan No. 62/PUU-XXII/2024, Putusan No. 135/PUU-XXII/2024, dan revisi UU Pemilu 2026](https://indowarta.com/109874-ambang-batas-parlemen-pemilu-2029-173-juta-suara-terbuang-dan-dilema-memilih-partai)
+- **[Portal Pemilu] ([2026-11-15]):** [Koalisi Masyarakat Sipil Sodorkan 726 Pasal RUU Pemilu — RDPU 12 Nov 2026](https://portalpemilu.com/beritawawasan/berita/koalisi-masyarakat-sipil-sodorkan-726-pasal-ruu-pemilu-ini-delapan-pokok-usulan-kepada-dpr/)
+- **[E-Media DPR] ([2026-11-15]):** [RUU Pemilu ditarget rampung akhir Desember 2026; usulan ambang batas parlemen minimal 60 kursi](https://emedia.dpr.go.id/news/2026/11/15/agun-gunandjar-tak-persoalkan-dosen-asn-non-aktif-sementara-maju-nyaleg)
