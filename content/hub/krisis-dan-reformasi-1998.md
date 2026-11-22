@@ -2,8 +2,8 @@
 title: "Krisis Moneter dan Gerakan Reformasi 1998"
 description: "Rangkaian krisis ekonomi dan politik penutup era Orde Baru: depresiasi rupiah, kerusuhan Mei 1998, pendudukan Gedung DPR/MPR oleh mahasiswa, hingga pengunduran diri Presiden Soeharto pada 21 Mei 1998."
 date: 1997-07-02
-updated: 2026-11-16
-last_updated: "2026-11-16"
+updated: 2026-11-22
+last_updated: "2026-11-22"
 entity_type: topik
 entity_id: "krisis-dan-reformasi-1998"
 aliases:
@@ -36,6 +36,15 @@ sumber:
   - url: https://marsinah.id/menolak-lupa-28-tahun-reformasi-dan-payung-hitam-yang-tak-kunjung-usai/
     judul: "28 tahun reformasi dan Aksi Kamisan — Marsinah.ID"
     tanggal: 2026-11-14
+  - url: https://nusantara-news.id/berita/pemerintah-bentuk-tim-koordinasi-untuk-urai-13-kasus-pelanggaran-ham-berat
+    judul: "Pemerintah Bentuk Tim Koordinasi untuk Urai 13 Kasus Pelanggaran HAM Berat — Nusantara News, 10 Nov 2026"
+    tanggal: 2026-11-22
+  - url: https://kontras.org/penjahat-ham-tetap-jadi-pahlawan-keadilan-telah-mati-dan-impunitas-menjelma-di-pengadilan-tata-usaha-negara-jakarta/
+    judul: "Koalisi: Putusan 151/G/2026 dan rencana banding — Kontras, 17 Nov 2026"
+    tanggal: 2026-11-22
+  - url: https://ruangbicara.co.id/kementerian-kebudayaan-rilis-buku-sejarah-indonesia-123-pakar-terlibat
+    judul: "Kementerian Kebudayaan Rilis Buku Sejarah Indonesia, 123 Pakar Terlibat — Ruang Bicara, 31 Agu 2026"
+    tanggal: 2026-11-22
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -113,7 +122,10 @@ Bagian ini mencatat perkembangan 2025–2026 yang mengaitkan diri dengan agenda 
 
 - **Aksi "Indonesia Gelap" (17–19 Februari 2025):** Ribuan mahasiswa dari berbagai kampus turun ke jalan — dikoordinasi BEM Seluruh Indonesia — menyuarakan 13 tuntutan kepada pemerintahan Prabowo Subianto–Gibran Rakabuming Raka, antara lain pendidikan gratis dan pembatalan pemangkasan anggaran pendidikan, pencabutan PSN bermasalah, penolakan revisi UU Minerba, penolakan multifungsi ABRI, pencabutan Inpres No. 1 Tahun 2025 tentang efisiensi anggaran, evaluasi program Makan Bergizi Gratis, dan reformasi Polri. Menteri Sekretaris Negara Prasetyo Hadi menemui massa aksi pada 20 Februari 2025.
 - **28 tahun reformasi (Mei 2026):** Komnas Perempuan menggelar pameran, talk show, dan panggung ekspresi "Merawat Ingatan, Menolak Penyangkalan" di Taman Ismail Marzuki pada 25 Mei 2026, menegaskan reformasi belum tuntas selama keadilan bagi korban Mei 1998 diabaikan. Mahasiswa Universitas Trisakti berunjuk rasa di depan Kejaksaan Agung pada 12 Mei 2026, mendesak penuntasan kasus Tragedi Trisakti; berkas penyelidikan Komnas HAM atas Trisakti, Semanggi I, dan Semanggi II disebut masih bolak-balik antara Komnas HAM dan Kejaksaan Agung. Aksi Kamisan ke-909 (28 Mei 2026) mengangkat tema pengusutan penculikan dan penghilangan aktivis pro-demokrasi 1997–1998.
-- [Inferensi: berulangnya tuntutan penuntasan kasus 1998 pada peringatan Mei 2025–2026 — dari Indonesia Gelap hingga Aksi Kamisan — menunjukkan agenda reformasi di bidang keadilan dan kebenaran belum ditutup, meskipun institusi demokrasi hasil reformasi (pemilu langsung, kebebasan pers, pembatasan masa jabatan) sudah berjalan.]
+- **Buku Sejarah Indonesia (31 Agustus 2026):** Kementerian Kebudayaan meluncurkan seri *Sejarah Indonesia: Dinamika Kebangsaan dalam Arus Global* — lima jilid pertama dari 10 jilid yang direncanakan, disusun 123 pakar dari 34 perguruan tinggi dan 11 lembaga non-perguruan tinggi, dan dapat diakses gratis oleh publik. Jilid 9 (Orde Baru) dan Jilid 10 (Reformasi) belum terbit pada peluncuran ini. Pro-kontra menyertainya: anggota Komisi X DPR Mercy Chriesty Barends (PDI-P) meminta proyek dihentikan karena berpotensi menimbulkan persoalan baru bagi korban pelanggaran HAM (1 September 2026), sementara Menteri Kebudayaan Fadli Zon menyatakan buku itu tidak sempurna dan terbuka atas kritik.
+- **Tim Koordinasi 13 kasus HAM berat (9 November 2026):** Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra mengumumkan pembentukan kelompok kerja — dipimpin Wakil Menko Otto Hasibuan — untuk mengurai mandeknya penanganan 13 kasus dugaan pelanggaran HAM berat, termasuk Kerusuhan Mei 1998, Trisakti dan Semanggi I–II, serta penghilangan paksa 1997–1998; berkas penyelidikan Komnas HAM disebut bolak-balik dengan Kejaksaan Agung tanpa masuk tahap penyidikan. Komnas HAM (Amiruddin) membantah telah menyepakati keterlibatan — lembaganya independen menurut UU No. 39 Tahun 1999 — dan Yusril mengganti nama tim menjadi Tim Koordinasi.
+- **Putusan 151/G/2026 (17 November 2026):** PTUN Jakarta menolak seluruh gugatan terhadap Keppres No. 116/TK/2025 tentang gelar Pahlawan Nasional Soeharto. Sehari sebelumnya, Gerakan Masyarakat Sipil Adili Soeharto (GEMAS) menggelar konferensi pers (10 November 2026) mengawal pembacaan putusan; setelah putusan dibacakan, koalisi penggugat menyatakan akan mengajukan banding — pengajuan bandingnya belum terkonfirmasi pada 22 November 2026.
+- [Inferensi: berulangnya tuntutan penuntasan kasus 1998 pada peringatan Mei 2025–2026 — dari Indonesia Gelap hingga Aksi Kamisan — menunjukkan agenda reformasi di bidang keadilan dan kebenaran belum ditutup, meskipun institusi demokrasi hasil reformasi (pemilu langsung, kebebasan pers, pembatasan masa jabatan) sudah berjalan. Perkembangan November 2026 — tim koordinasi 13 kasus dan rencana banding 151/G — memperpanjang daftar yang sama.]
 
 ## Sumber
 - **Arsip Pidato Pengunduran Diri Presiden Soeharto (21 Mei 1998):** Sekretariat Negara RI.
@@ -124,6 +136,9 @@ Bagian ini mencatat perkembangan 2025–2026 yang mengaitkan diri dengan agenda 
 - **Komnas Perempuan (2026):** *Merawat Ingatan, Menolak Penyangkalan* — peringatan 28 tahun reformasi, 25 Mei 2026, Taman Ismail Marzuki — https://komnasperempuan.go.id/kabar-perempuan-detail/merawat-ingatan-menolak-penyangkalan-reformasi-belum-tuntas-selama-keadilan-bagi-korban-mei-1998-diabaikan
 - **Aksi "Indonesia Gelap" (2025):** 13 tuntutan mahasiswa, 17–19 Februari 2025 — https://thephrase.id/demo-indonesia-gelap-mahasiswa-suarakan-13-tuntutan-cabut-psn-hingga-efisiensi-anggaran
 - **28 Tahun Tragedi Trisakti (2026):** Aksi mahasiswa di Kejaksaan Agung, 12 Mei 2026 — https://obrolannegeri.com/2026/05/13/28-tahun-tragedi-trisakti-mahasiswa-desak-kejagung-usut-tuntas-kasus-1998/
+- **Tim Koordinasi 13 kasus HAM berat (2026):** diumumkan Menko Kumham Imipas Yusril Ihza Mahendra, 9 November 2026; dipimpin Wamenko Otto Hasibuan; Komnas HAM membantah menyepakati keterlibatan — https://nusantara-news.id/berita/pemerintah-bentuk-tim-koordinasi-untuk-urai-13-kasus-pelanggaran-ham-berat
+- **Putusan 151/G/2026 (2026):** PTUN Jakarta menolak seluruh gugatan terhadap Keppres No. 116/TK/2025, 17 November 2026; koalisi menyatakan akan banding — https://kontras.org/penjahat-ham-tetap-jadi-pahlawan-keadilan-telah-mati-dan-impunitas-menjelma-di-pengadilan-tata-usaha-negara-jakarta/
+- **Buku Sejarah Indonesia (2026):** peluncuran lima jilid pertama, 31 Agustus 2026, 123 pakar dari 34 perguruan tinggi — https://ruangbicara.co.id/kementerian-kebudayaan-rilis-buku-sejarah-indonesia-123-pakar-terlibat
 
 ## Catatan presisi
 - **Kontroversi Surat Pengunduran Diri vs Pertanggungjawaban:** Soeharto memilih mekanisme "menyatakan berhenti" (*resignation*) di hadapan Mahkamah Agung di Istana Negara, bukan menyampaikan pertanggungjawaban di hadapan Sidang Istimewa MPR. Para pengamat menilai pilihan itu menghindari forum politik parlemen yang dapat memperdebatkan legalitas transisi kekuasaan ke BJ Habibie.
