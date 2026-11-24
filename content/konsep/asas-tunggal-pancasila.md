@@ -31,9 +31,9 @@ relasi:
   - predikat: ditentang_oleh
     objek: "petisi-50"
     sumber: https://soehartolibrary.id/
-last_modified: 2026-11-09
-last_updated: "2026-11-17"
-updated: 2026-11-17
+last_modified: 2026-11-24
+last_updated: "2026-11-24"
+updated: 2026-11-24
 verification_status: "verified"
 ---
 
@@ -119,6 +119,8 @@ Mekanisme pembubaran administratif yang diperkenalkan Perppu 2/2017 (UU 16/2017)
 - **Front Pembela Islam (FPI):** Surat Keterangan Terdaftar (SKT) FPI sebagai ormas berakhir 20 Juni 2019 dan tidak diperpanjang, sehingga menurut pemerintah FPI secara *de jure* telah bubar sejak 21 Juni 2019. Pada 30 Desember 2020, pemerintah melarang kegiatan, penggunaan simbol dan atribut, serta menghentikan kegiatan FPI melalui Keputusan Bersama (SKB) enam pejabat — Mendagri, Menkumham, Menkominfo, Jaksa Agung, Kapolri, dan Kepala BNPT (No. 220-4780/2020, M.HH-14.HH.05.05/2020, 690/2020, 264/2020, KB/3/XII/2020, 320/2020). Sebagai dasar hukum, pemerintah mengutip Putusan Mahkamah Konstitusi No. 82/PUU-XI/2013 (23 Desember 2014). Pendukung FPI kemudian membentuk organisasi baru: sempat bernama Front Persatuan Islam (awal Januari 2021), lalu Front Persaudaraan Islam yang dideklarasikan 8 Januari 2021.
 - **Wacana revisi UU Ormas (2025):** pada Mei 2025, koalisi masyarakat sipil — antara lain Yayasan Penguatan Partisipasi, Inisiatif, dan Kemitraan Masyarakat Indonesia (YAPPIKA) dan Koalisi Kebebasan Berserikat — menolak wacana revisi UU Ormas, karena dinilai mempertahankan pembubaran tanpa proses peradilan dan memperluas definisi ormas. Pada bulan yang sama, Kementerian Dalam Negeri menyatakan ormas yang terlibat aksi premanisme akan dicabut statusnya melalui Satuan Tugas Anti-Premanisme; pernyataan itu didukung anggota Komisi II DPR.
 - **Uji materi Pasal 59 UU Ormas (2026):** pada 1 April 2026, Mahkamah Konstitusi menyidangkan permohonan pengujian materiil Pasal 59 UU No. 16 Tahun 2017 (Permohonan No. 97/PUU-XXIV/2026), yang mempersoalkan pemberlakuan larangan bagi ormas terhadap yayasan — pemohon meminta pasal itu dimaknai tidak berlaku bagi yayasan. Perkara ini masih berjalan pada saat halaman ini diperbarui.
+- **Desakan pembubaran GRIB Jaya (September 2026):** pada 7 September 2026, Aliansi Masyarakat Anti Kekerasan dan Premanisme mendatangi Kementerian Hukum dan mendesak pemeriksaan serta pembubaran ormas Gerakan Rakyat Indonesia Bersatu Jaya (GRIB Jaya), dengan alasan dugaan pelanggaran Pasal 59 ayat (3) huruf d UU Ormas — larangan ormas melakukan kegiatan yang menjadi tugas dan wewenang penegak hukum — terkait kerusuhan 27 Agustus 2026. Kementerian Hukum menyatakan akan memberikan jawaban tertulis setelah pengkajian dan rapat koordinasi antarkementerian; hingga halaman ini diperbarui, belum ada keputusan pembubaran.
+- **Penertiban ormas ber-atribut lembaga negara (November 2026):** pada November 2026, Wakil Menteri Dalam Negeri Bima Arya Sugiarto meminta kepala daerah menertibkan ormas yang memakai nama, lambang, atau atribut menyerupai lembaga negara — antara lain TNI, Polri, dan Kejaksaan — dengan dasar Pasal 59 ayat (1) huruf a–c dan Pasal 61 UU Ormas (UU No. 16 Tahun 2017), yang mengatur sanksi administratif hingga pencabutan status badan hukum. Penertiban ini menyasar pelanggaran yang sama dengan yang dipersoalkan dalam uji materi Pasal 59 di Mahkamah Konstitusi (Permohonan No. 97/PUU-XXIV/2026, lihat di atas).
 
 [Inferensi: pola pembubaran HTI (2017) dan FPI (2020) menunjukkan mekanisme administratif warisan Perppu 2/2017 menjadi instrumen utama negara menertibkan ormas, dan perdebatan 2025–2026 menunjukkan mekanisme itu masih dipersoalkan dari dua arah — masyarakat sipil menilai pembubaran tanpa pengadilan terlalu represif, sementara pemerintah menilai mekanisme itu perlu untuk ormas yang melanggar ketertiban.]
 
@@ -145,3 +147,5 @@ Mekanisme pembubaran administratif yang diperkenalkan Perppu 2/2017 (UU 16/2017)
 - Keputusan Bersama Mendagri, Menkumham, Menkominfo, Jaksa Agung, Kapolri, dan Kepala BNPT tentang Larangan Kegiatan, Penggunaan Simbol dan Atribut serta Penghentian Kegiatan Front Pembela Islam (30 Desember 2020; Setkab, diakses 17 November 2026).
 - IPAC (2021). *Jokowi's Crackdown on Islamist "Radicals" in Indonesia*, Report No. 71, 25 Mei 2021.
 - Mahkamah Konstitusi, Permohonan No. 97/PUU-XXIV/2026 tentang pengujian Pasal 59 UU Ormas (sidang pendahuluan 1 April 2026; mkri.id, diakses 17 November 2026).
+- Aliansi Masyarakat Anti Kekerasan dan Premanisme — desakan pemeriksaan dan pembubaran GRIB Jaya (7 September 2026; Repelita, diakses 24 November 2026).
+- Kementerian Dalam Negeri — instruksi penertiban ormas yang memakai atribut menyerupai lembaga negara, Pasal 59 ayat (1) huruf a–c dan Pasal 61 UU Ormas (November 2026; Info Kejaksaan/Detikcom, diakses 24 November 2026).
