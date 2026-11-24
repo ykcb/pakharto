@@ -2,8 +2,8 @@
 title: "Kasus Kedung Ombo (1985–1994)"
 description: "Pembangunan Waduk Kedung Ombo (1985–1994): irigasi 60.000 hektare dan PLTA 22,5 MW untuk swasembada pangan — dengan biaya penggusuran 5.399 keluarga dan sengketa ganti rugi yang berujung ke Mahkamah Agung."
 date: 1985-05-01
-updated: 2026-11-19
-last_updated: "2026-11-19"
+updated: 2026-11-24
+last_updated: "2026-11-24"
 entity_type: peristiwa
 entity_id: "kasus-kedung-ombo"
 aliases:
@@ -144,6 +144,9 @@ Pada kemarau 2026, waduk kembali berfungsi sebagai penyelamat panen: BBWS Pemali
 ### 2026-09-15
 - Pemerintah dan BBWS Pemali Juana membuka kembali aliran Waduk Kedungombo; air mulai memasuki Sungai Juwana di Kabupaten Pati, dan petani membersihkan eceng gondok serta pendangkalan sungai pada 22 September 2026 agar air dapat dimanfaatkan.
 
+### 2026-11-24
+- Pengadilan Tinggi Tata Usaha Negara Jakarta mengucapkan Putusan Nomor 228/B/2026/PTTUN.JKT yang **menguatkan** penolakan gugatan atas Keppres No. 116/TK/Tahun 2025 tentang gelar Pahlawan Nasional almarhum Soeharto. Penggugat Bejo — ahli waris almarhum Parman Sopawiro, yang namanya tercatat dalam gugatan warga Kedung Ombo di Pengadilan Negeri Semarang — dinyatakan tidak mempunyai kepentingan langsung dengan Keppres; majelis berpedoman pada *notoire feiten* dan Peninjauan Kembali MA Nomor 650 PK/Pdt/1994. Biaya perkara tingkat banding sebesar Rp250.000,00 dibebankan kepada Pembanding. Rincian lengkap: [[hub/orde-baru|Orde Baru setelah 1998]].
+
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden RI yang meresmikan waduk dan menegaskan prioritas proyek strategis di atas keberatan warga.
 - **Romo Y. B. Mangunwijaya** — Rohaniwan dan aktivis kemanusiaan yang mendampingi dan mendirikan sekolah bagi anak-anak pengungsi genangan.
@@ -173,6 +176,7 @@ Pada kemarau 2026, waduk kembali berfungsi sebagai penyelamat panen: BBWS Pemali
 - **Perhutani & Dinas LHK Jawa Tengah (30 September 2025):** *Pertek Rencana Pembangunan PLTS Terapung Kedungombo* — peninjauan lapangan untuk PPKH SUTT 150 kV PLTS Terapung Kedungombo–Gardu Induk Kedungombo: https://www.inspirasiline.com/2025/10/02/perhutani-bersama-dinas-lhk-laksanakan-pertek-rencana-pembangunan-plts-terapung-kedungombo/
 - **BBWS Pemali Juana (Agustus 2026):** *Pemeliharaan Hidromekanikal Bendungan Kedungombo* dan *Upaya Selamatkan Produktivitas Padi di Pati* — rilis air 21–23 Agustus 2026 (±3,141 m³/detik) via Bendung Klambu: https://sda.pu.go.id/balai/bbwspemalijuana/
 - **Portal Harian (24 September 2026):** *Air Waduk Kedung Ombo Mulai Masuk Pati* — aliran dibuka kembali 15 September 2026, air memasuki Sungai Juwana: https://www.portalharian.com/air-waduk-kedung-ombo-mulai-masuk-pati-petani-bersihkan-sungai-juwana-sambut-kabar-baik/
+- **PTTUN Jakarta (24 November 2026):** *Salinan Putusan Nomor 228/B/2026/PTTUN.JKT* (berkas PDF salinan putusan) — banding atas PTUN Jakarta No. 50/G/2026/PTUN.JKT; gugatan Bejo dinyatakan Tidak Diterima dan putusan tingkat pertama dikuatkan.
 
 ## Catatan presisi
 - **Perubahan Kebijakan Bank Dunia:** Kasus Kedung Ombo dan skandal bendungan Narmada di India menjadi pemicu reformasi kebijakan pengamanan sosial (*Social Safeguards Policy*) Bank Dunia di tingkat global, yang sejak saat itu mewajibkan persetujuan bebas dan diinformasikan lebih awal (*Free, Prior, and Informed Consent / FPIC*) bagi komunitas terdampak proyek donor multilateral.

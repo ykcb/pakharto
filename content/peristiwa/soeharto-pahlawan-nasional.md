@@ -1,15 +1,16 @@
 ---
 title: "Soeharto Pahlawan Nasional (2025–2026)"
-description: "Penganugerahan gelar Pahlawan Nasional kepada Soeharto (Keppres 116/TK/2025, 10 November 2025) dan dua gugatan PTUN Jakarta atas Keppres itu: 50/G/2026 dinyatakan Tidak Diterima (8 September 2026) dan 151/G/2026 ditolak untuk seluruhnya (17 November 2026)."
+description: "Penganugerahan gelar Pahlawan Nasional kepada Soeharto (Keppres 116/TK/2025, 10 November 2025) dan gugatan PTUN Jakarta atas Keppres itu: 50/G/2026 dinyatakan Tidak Diterima (8 September 2026; dikuatkan PTTUN Jakarta lewat Putusan 228/B/2026/PTTUN.JKT, 24 November 2026) dan 151/G/2026 ditolak untuk seluruhnya (17 November 2026)."
 date: 2025-11-06
-updated: 2026-11-19
-last_updated: "2026-11-19"
+updated: 2026-11-24
+last_updated: "2026-11-24"
 entity_type: peristiwa
 entity_id: "soeharto-pahlawan-nasional"
 aliases:
   - "Gelar Pahlawan Nasional Soeharto"
   - "Gugatan Gelar Pahlawan Soeharto"
   - "Perkara 151/G/2026"
+  - "Perkara 228/B/2026"
 tags: [peristiwa, pahlawan-nasional, soeharto, keppres-116-2025, ptun, gemas, orde-baru]
 kategori: kekuasaan-dan-legitimasi
 kategori_tambahan: [keamanan-dan-kebebasan]
@@ -37,7 +38,7 @@ relasi:
     sumber: https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional
 ---
 
-> **Ringkasan:** Presiden Prabowo Subianto menganugerahkan gelar Pahlawan Nasional kepada Almarhum Jenderal Besar TNI H.M. [[aktor/soeharto|Soeharto]] pada 10 November 2025, bertepatan dengan Hari Pahlawan, berdasarkan Keppres Nomor 116/TK/Tahun 2025 (ditetapkan 6 November 2025; Soeharto tercantum pada nomor urut 2, dari Provinsi Jawa Tengah). Keppres itu diuji di Pengadilan Tata Usaha Negara (PTUN) Jakarta dalam dua perkara. Perkara **50/G/2026/PTUN.JKT** diputus 2 September 2026 dan diucapkan 8 September 2026 dengan amar gugatan dinyatakan **Tidak Diterima**, karena penggugat dinilai tidak mempunyai kedudukan hukum — pokok perkara tidak dipertimbangkan. Perkara **151/G/2026/PTUN.JKT** melewati ambang itu: eksepsi tergugat dinyatakan tidak diterima, majelis masuk ke pokok perkara, dan pada 17 November 2026 gugatan **ditolak untuk seluruhnya**. Upaya hukum lanjutan atas kedua perkara belum diketahui per 19 November 2026.
+> **Ringkasan:** Presiden Prabowo Subianto menganugerahkan gelar Pahlawan Nasional kepada Almarhum Jenderal Besar TNI H.M. [[aktor/soeharto|Soeharto]] pada 10 November 2025, bertepatan dengan Hari Pahlawan, berdasarkan Keppres Nomor 116/TK/Tahun 2025 (ditetapkan 6 November 2025; Soeharto tercantum pada nomor urut 2, dari Provinsi Jawa Tengah). Keppres itu diuji di Pengadilan Tata Usaha Negara (PTUN) Jakarta dalam dua perkara. Perkara **50/G/2026/PTUN.JKT** diputus 2 September 2026 dan diucapkan 8 September 2026 dengan amar gugatan dinyatakan **Tidak Diterima**, karena penggugat dinilai tidak mempunyai kedudukan hukum — pokok perkara tidak dipertimbangkan. Perkara **151/G/2026/PTUN.JKT** melewati ambang itu: eksepsi tergugat dinyatakan tidak diterima, majelis masuk ke pokok perkara, dan pada 17 November 2026 gugatan **ditolak untuk seluruhnya**. Pada tingkat banding, penolakan atas perkara 50/G diperkuat: Putusan PTTUN Jakarta Nomor 228/B/2026/PTTUN.JKT (amar 18 November 2026, diucapkan 24 November 2026) menerima permohonan banding Bejo lalu menguatkan gugatan **Tidak Diterima** karena Penggugat tidak mempunyai kepentingan langsung dengan Keppres. Upaya hukum lanjutan (kasasi) atas putusan-putusan tersebut belum diketahui per 24 November 2026.
 
 ## Apa pelajaran yang bisa kita ambil darinya?
 
@@ -54,6 +55,7 @@ Peristiwa ini juga menunjukkan batas dari apa yang bisa diputuskan pengadilan: P
 | **Dasar hukum** | UU No. 20 Tahun 2009 tentang Gelar, Tanda Jasa, dan Tanda Kehormatan | Wiki Ira Amalia |
 | **Perkara 50/G/2026/PTUN.JKT** | Terdaftar 9 Februari 2026; diputus 2 September 2026, diucapkan 8 September 2026; gugatan Tidak Diterima; biaya perkara Rp489.000 | Salinan resmi putusan (117 hlm) |
 | **Perkara 151/G/2026/PTUN.JKT** | Terdaftar 30 April 2026; sidang pembuktian ahli 12 Oktober 2026; diputus 17 November 2026, pukul 13:00 WIB (e-Court); gugatan ditolak untuk seluruhnya; biaya perkara Rp461.000 | SIPP PTUN Jakarta; Suara.com, 17 November 2026, 18:47 WIB |
+| **Perkara banding 228/B/2026/PTTUN.JKT** | Banding atas 50/G/2026; amar 18 November 2026, diucapkan 24 November 2026; menguatkan gugatan Tidak Diterima; biaya perkara tingkat banding Rp250.000 | Salinan Putusan 228/B/2026/PTTUN.JKT (10 hlm) |
 | **Rekam jejak hukum** | Soeharto ditetapkan tersangka dugaan korupsi dana tujuh yayasan pada 3 Agustus 2000; penuntutan dihentikan lewat SKP3 11 Mei 2006 karena alasan medis, bukan vonis bebas | Dokumen ringkasan kasus (sumber tunggal) |
 
 ## Latar belakang
@@ -102,6 +104,10 @@ Sidang perkara **151/G/2026/PTUN.JKT** di PTUN Jakarta (Cakung), tahap pembuktia
 
 Perkara **151/G/2026/PTUN.JKT** diputus: gugatan para penggugat — koalisi GEMAS (Nona Nani Nurani, Mudjiati, Utati, Irta Sumitra, Magdalena Martina Wulandari, Kusmiyati, Hardingga, YLBHI, ICW) — terhadap Keppres 116/TK/2025 ditolak untuk seluruhnya. Putusan dibacakan secara elektronik pada Selasa, 17 November 2026, pukul 13:00 WIB (agenda sidang ke-21, e-Court). Amar: eksepsi Tergugat (Presiden RI) dan Tergugat II Intervensi (Siti Hardiyanti Hastuti Rukmana) dinyatakan tidak diterima; dalam pokok perkara, gugatan ditolak untuk seluruhnya dan para penggugat dihukum membayar biaya perkara Rp461.000. Status putusan di SIPP: Ditolak; putusan verstek: Tidak.
 
+### 2026-11-24
+
+Putusan banding atas perkara **50/G/2026/PTUN.JKT** diucapkan: Pengadilan Tinggi Tata Usaha Negara Jakarta mengeluarkan Putusan Nomor 228/B/2026/PTTUN.JKT (amar diambil Rabu 18 November 2026, diucapkan Selasa 24 November 2026) yang menerima permohonan banding Bejo lalu **menguatkan** Putusan PTUN Jakarta Nomor 50/G/2026/PTUN.JKT. Gugatan atas Keppres 116/TK/2025 dinyatakan **Tidak Diterima**, dan Pembanding dihukum membayar biaya perkara tingkat banding Rp250.000. Majelis berpendapat Penggugat tidak mempunyai kepentingan langsung dengan objek sengketa — merujuk *notoire feiten* dan Peninjauan Kembali MA Nomor 650 PK/Pdt/1994 — sehingga pokok perkara kembali tidak dipertimbangkan. Siti Hardijanti Hastuti Rukmana hadir sebagai Terbanding II Intervensi; Terbanding I, Presiden RI, tidak mengajukan kontra memori banding.
+
 ## Pokok sengketa hukum
 
 Seluruh substansi di bawah ini bersumber tunggal dari dokumen ringkasan kasus (dilaporkan, belum terverifikasi independen), kecuali amar dan tanggal putusan yang terverifikasi dari salinan resmi putusan 50/G dan SIPP PTUN Jakarta untuk 151/G.
@@ -129,6 +135,17 @@ Seluruh substansi di bawah ini bersumber tunggal dari dokumen ringkasan kasus (d
 - **Para pihak:** penggugat 9 pihak (Nona Nani Nurani, Mudjiati, Utati, Irta Sumitra, Magdalena Martina Wulandari, Kusmiyati, Hardingga, YLBHI, ICW); tergugat Presiden RI; Tergugat II Intervensi Siti Hardiyanti Hastuti Rukmana.
 - **Belum diketahui:** pertimbangan hakim (SIPP hanya memuat amar dan status putusan), respons para pihak, dan rencana banding.
 
+## Putusan banding 228/B/2026/PTTUN.JKT
+
+> Terverifikasi dari salinan resmi Putusan Nomor 228/B/2026/PTTUN.JKT (10 halaman) — salinan putusan yang diunggah ke wiki ini dan dibaca 24 November 2026.
+
+- **Diambil / diucapkan:** amar diambil dalam rapat permusyawaratan Majelis Hakim pada Rabu 18 November 2026; diucapkan dalam sidang terbuka untuk umum secara elektronik pada Selasa 24 November 2026. Pembanding dan Terbanding tidak hadir saat pengucapan.
+- **Majelis Hakim:** Dr. Bambang Heriyanto, S.H., M.H. (Ketua), Irhamto, S.H., M.H., dan Indaryadi, S.H., M.H. (Anggota); Panitera Pengganti: Khairunnas, S.H.
+- **Amar:** (1) menerima permohonan banding Pembanding; (2) menguatkan Putusan PTUN Jakarta Nomor 50/G/2026/PTUN.JKT tanggal 8 September 2026; (3) menghukum Pembanding membayar biaya perkara pada kedua tingkat, yang untuk tingkat banding ditetapkan Rp250.000 (redaksi Rp10.000, meterai Rp10.000, biaya proses banding Rp230.000).
+- **Proses banding:** permohonan banding diajukan 21 September 2026 (Akta Permohonan Banding Nomor 50/G/2026/PTUN.JKT), yaitu 13 hari kalender setelah putusan diucapkan 8 September 2026, sehingga secara formal diterima; memori banding disampaikan 23 September 2026. Terbanding I (Presiden RI) tidak mengajukan kontra memori; Terbanding II Intervensi (Siti Hardijanti Hastuti Rukmana) mengajukan kontra memori 5 Oktober 2026 yang membantah dalil-dalil memori banding dan memohon putusan tingkat pertama dikuatkan.
+- **Pertimbangan inti (parafrase, bukan kutipan):** kepentingan menggugat dalam perkara tata usaha negara harus bersifat langsung, bukan derivatif — Penggugat harus mengalami kerugian yang bersifat pribadi, nyata, dan bersebab-akibat langsung dengan Keputusan Tata Usaha Negara. Dalam perkara ini Penggugat sebagai warga negara Indonesia tidak mengalami hak yang dikurangi, dihalangi, atau diabaikan akibat terbitnya Keppres 116/TK/2025. Kerugian terkait pembangunan Waduk Kedung Ombo dinilai peristiwa masa lalu yang perkaranya telah berakhir melalui gugatan di Pengadilan Negeri Semarang hingga Peninjauan Kembali MA Nomor 650 PK/Pdt/1994, di mana gugatan para penggugat asal dinyatakan tidak dapat diterima (*niet ontvankelijke verklaard*) — doktrin *notoire feiten*. Atas dasar itu Pengadilan tingkat banding sepakat dengan pertimbangan tingkat pertama: gugatan dinyatakan Tidak Diterima, dan pokok perkara tidak dipertimbangkan.
+- **Catatan pencatatan:** putusan ini menyangkut kepentingan menggugat (standing) dan hubungan hukum para pihak, bukan penilaian atas substansi gelar Pahlawan Nasional maupun pertanggungjawaban pelanggaran HAM masa Orde Baru.
+
 ## Dua sudut pandang
 
 **Sudut pandang pendukung gelar dan ahli waris.** Bagi kubu ahli waris, kedua putusan adalah validasi: gelar pahlawan adalah penghargaan kehormatan negara yang tidak menimbulkan akibat hukum bagi pihak ketiga, dan pengadilan mengamini logika itu — pada perkara pertama lewat kedudukan hukum, pada perkara kedua setelah memeriksa pokoknya. Penganugerahan dinilai didasarkan pada jasa Soeharto sejak masa kemerdekaan dan pembangunan nasional, dan prosedurnya disebut telah ditempuh secara berjenjang.
@@ -143,6 +160,7 @@ Seluruh substansi di bawah ini bersumber tunggal dari dokumen ringkasan kasus (d
 | Siti Hardiyanti Hastuti Rukmana (Mbak Tutut) | Tergugat II Intervensi | Ahli waris Soeharto; masuk sebagai intervensi. |
 | Bejo | Penggugat 50/G/2026/PTUN.JKT | Petani asal Boyolali; ahli waris Parman Sopawiro; terkait kerugian akibat pembangunan Waduk Kedung Ombo. Kuasa hukum: Marselinus Edwin & Co. Law Office. |
 | Dafrian, S.H. (Ketua), Kemas Mendi Zatmiko, S.H., M.H., Yustika Hardwiandita, S.H. (Anggota) | Majelis Hakim 50/G | Panitera Pengganti: Mulyati, S.H., M.H. |
+| Dr. Bambang Heriyanto, S.H., M.H. (Ketua), Irhamto, S.H., M.H., Indaryadi, S.H., M.H. (Anggota) | Majelis Hakim PTTUN 228/B/2026 | Panitera Pengganti: Khairunnas, S.H. |
 | Prabowo Subianto | Presiden RI | Menganugerahkan gelar, 10 November 2025. |
 | TP2GP Kementerian Sosial | — | Tim Peneliti dan Pengkajian Gelar Pusat; disebut menolak usulan gelar Soeharto pada 2010 dan 2016 (sumber tunggal). |
 | Dewan Gelar, Tanda Jasa, dan Tanda Kehormatan | — | Lembaga verifikasi usulan gelar. |
@@ -150,7 +168,7 @@ Seluruh substansi di bawah ini bersumber tunggal dari dokumen ringkasan kasus (d
 
 ## Status terkini
 
-- **50/G/2026/PTUN.JKT:** sudah diputus — gugatan Tidak Diterima (diputus 2 September 2026, diucapkan 8 September 2026). Alasan: eksepsi kepentingan dikabulkan; pokok perkara tidak dipertimbangkan. Putusan tingkat pertama; upaya hukum lanjutan (banding) belum diketahui.
+- **50/G/2026/PTUN.JKT:** sudah diputus — gugatan Tidak Diterima (diputus 2 September 2026, diucapkan 8 September 2026). Alasan: eksepsi kepentingan dikabulkan; pokok perkara tidak dipertimbangkan. Banding diajukan 21 September 2026 dan diputus PTTUN Jakarta lewat Putusan Nomor 228/B/2026/PTTUN.JKT (diucapkan 24 November 2026): banding diterima, putusan tingkat pertama **dikuatkan**, Pembanding dihukum membayar biaya Rp250.000. Upaya hukum lanjutan (kasasi) belum diketahui per 24 November 2026.
 - **151/G/2026/PTUN.JKT:** sudah diputus — gugatan ditolak untuk seluruhnya (dibacakan 17 November 2026 secara elektronik, 13:00 WIB). Eksepsi tergugat dan Tergugat II Intervensi tidak diterima; majelis masuk pokok perkara. Upaya hukum lanjutan (banding) belum diketahui.
 
 ## Sumber
@@ -162,10 +180,12 @@ Seluruh substansi di bawah ini bersumber tunggal dari dokumen ringkasan kasus (d
 5. **Salinan resmi Putusan 50/G/2026/PTUN.JKT (117 hlm, dibaca 14 Oktober 2026)** — sumber amar, tanggal diputus/diucapkan, majelis, dan pertimbangan inti 50/G. Sumber file: Drive user — https://drive.google.com/file/d/1JnadHSNQiTInxWopfehkZ4WHQXAYSKCc/view?usp=drive_link (judul file: "IBU SHR PTUN No.50 - Salinan Resmi PTUN No.50.pdf").
 6. **SIPP PTUN Jakarta, tab Putusan perkara 151/G/2026/PTUN.JKT (dicek langsung 17 November 2026, 16:58–17:00 WIB)** — sumber tanggal putusan, status putusan (Ditolak), dan amar.
 7. **"Ringkasan Kasus: Sengketa Hukum Penganugerahan Gelar Pahlawan Nasional (Perkara PTUN No. 50/G/2026/PTUN.JKT)"** — dokumen Google Docs, diakses 12 Oktober 2026. Sumber bagi: nomor dan tanggal Keppres, identitas para pihak, dalil penggugat, eksepsi dan jawaban tergugat, riwayat litigasi Kedung Ombo, status tersangka 2000 dan SKP3 2006, serta riwayat penolakan TP2GP 2010 dan 2016.
+8. **Salinan resmi Putusan PTTUN Jakarta Nomor 228/B/2026/PTTUN.JKT (10 hlm, dibaca 24 November 2026)** — sumber amar, tanggal diambil (18 November 2026) dan diucapkan (24 November 2026), majelis hakim, proses banding (memori/kontra memori), rincian biaya perkara, dan pertimbangan hukum. Berkas: *salinan_putusan_228_B_2026_PTTUN_JKT.pdf*.
 
 ## Catatan presisi
 
 - **Terverifikasi:** penganugerahan 10 November 2025 dan dasar Keppres 116/TK/2025 tercatat di beberapa sumber; amar, tanggal, dan majelis perkara 50/G/2026/PTUN.JKT dibaca dari salinan resmi putusan (117 hlm), 14 Oktober 2026.
+- **Terverifikasi:** amar, tanggal diambil/diucapkan, majelis hakim, proses banding (memori 23 September 2026; kontra memori 5 Oktober 2026), rincian biaya Rp250.000, dan pertimbangan hukum Putusan PTTUN Jakarta Nomor 228/B/2026/PTTUN.JKT dibaca dari salinan resmi putusan (10 hlm) yang diunggah ke wiki ini, 24 November 2026.
 - **Dilaporkan, belum independen:** identitas para pihak, dalil penggugat, dan eksepsi tergugat bersumber tunggal dari dokumen ringkasan kasus — bukan dari salinan berkas perkara.
 - **Dilaporkan, belum independen:** klaim bahwa TP2GP menolak usulan gelar pada 2010 dan 2016 bersumber dokumen yang sama.
 - **Sudah diputus:** 151/G/2026/PTUN.JKT diputus 17 November 2026 — gugatan ditolak untuk seluruhnya; amar dan status putusan terverifikasi dari SIPP PTUN Jakarta (tab Putusan).
