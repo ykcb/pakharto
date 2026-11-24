@@ -2,8 +2,8 @@
 title: "Warisan Orde Baru"
 description: "Apa yang tersisa dari Orde Baru: lembaga dan infrastruktur yang masih dipakai hari ini — Bulog, Puskesmas, SD Inpres, jalan tol, satelit Palapa — serta data kemiskinan dan catatan olahraga yang dikoreksi dari sumbernya."
 date: 1967-03-12
-updated: 2026-11-15
-last_updated: "2026-11-15"
+updated: 2026-11-22
+last_updated: "2026-11-22"
 entity_type: topik
 entity_id: "warisan-orde-baru"
 aliases:
@@ -43,6 +43,18 @@ sumber:
   - url: https://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport
     judul: "Soekarno–Hatta International Airport — Wikipedia bahasa Inggris"
     tanggal: 2026-11-15
+  - url: https://www.bps.go.id/id/pressrelease/2026/08/05/2594/persentase-penduduk-miskin-maret-2026-turun-menjadi-8-07-persen-.html
+    judul: "Persentase Penduduk Miskin Maret 2026 turun menjadi 8,07 persen — BPS, 5 Agu 2026"
+    tanggal: 2026-11-22
+  - url: https://setneg.go.id/baca/index/di_puncak_natal_nasional_2025_presiden_prabowo_umumkan_indonesia_capai_swasembada_beras
+    judul: "Presiden Prabowo Umumkan Indonesia Capai Swasembada Beras — Sekretariat Negara, 5 Jan 2026"
+    tanggal: 2026-11-22
+  - url: http://bpmsph.ditjenpkh.pertanian.go.id/berita/dua-tahun-prabowo---gibran-memperkuat-swasembada-pangan-berkelanjutan
+    judul: "Dua Tahun Prabowo–Gibran, Memperkuat Swasembada Pangan Berkelanjutan — Kementerian Pertanian, 24 Okt 2026"
+    tanggal: 2026-11-22
+  - url: https://www.rctiplus.com/news/detail/berita-utama/5502893/bulog-kuasai-4-5-juta-ton--cadangan-beras-pemerintah-indonesia-unggul-jauh-dibanding-sejumlah-negara-asia-tenggara
+    judul: "Bulog Kuasai 4,5 Juta Ton, CBP Indonesia Unggul di Asia Tenggara — iNews, Okt 2026"
+    tanggal: 2026-11-22
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -73,7 +85,7 @@ Pelajaran sebaliknya sama pentingnya: warisan yang bertumpu pada fondasi keuanga
 
 | Warisan | Tahun | Keterangan |
 |---|---|---|
-| **Bulog** (Badan Urusan Logistik) | 1967 | Mengelola cadangan dan stabilisasi harga beras; menjadi Perum Bulog 20 Januari 2003 (PP 7/2003), masih beroperasi hingga kini |
+| **Bulog** (Badan Urusan Logistik) | 1967 | Mengelola cadangan dan stabilisasi harga beras; menjadi Perum Bulog 20 Januari 2003 (PP 7/2003), masih beroperasi hingga kini. Pada Oktober 2026 Cadangan Beras Pemerintah (CBP) yang dikelolanya mencapai sekitar 4,5 juta ton — disebut Perum Bulog sebagai yang terbesar di ASEAN — dengan realisasi pengadaan gabah dan beras dalam negeri 4.238.543 ton setara beras hingga 27 Oktober 2026 (105,96% dari target 4 juta ton), rekor pengadaan tertinggi sepanjang sejarah Bulog; Bantuan Pangan Beras Oktober–Desember 2026 menyasar sekitar 33,2 juta penerima |
 | **ASEAN** (pendiri) | 1967 | Deklarasi Bangkok, 8 Agustus 1967; Indonesia salah satu dari lima pendiri |
 | **Puskesmas** | 1968 | Pusat kesehatan masyarakat di kecamatan; layanan kesehatan dasar, terutama pedesaan — 10.268 unit pada 2024 (Kemenkes), dengan target 2.082 puskesmas baru s.d. 2029 |
 | **BKKBN** (Keluarga Berencana) | 1970 | Program KB nasional; menurunkan laju pertumbuhan penduduk |
@@ -87,7 +99,7 @@ Pelajaran sebaliknya sama pentingnya: warisan yang bertumpu pada fondasi keuanga
 | **Tol Jagorawi** | 1978 | Jalan tol pertama di Indonesia (Jakarta–Bogor–Ciawi); diresmikan 9 Maret 1978 (Keppres 3/1978), panjang 59 km, masih dikelola Jasa Marga |
 | **Bendungan Saguling**, Sungai Citarum | 1983–1986 | PLTA 700 MW; batu pertama oleh Soeharto 31 Mei 1983, diresmikan 24 Juli 1986 |
 | **PLTP Kamojang** | 1982 | Pembangkit listrik tenaga panas bumi pertama di Indonesia; Unit 1 (30 MW) beroperasi 22 Oktober 1982 |
-| **Swasembada beras** | 1984 | Indonesia mencapai swasembada beras; penghargaan FAO di Roma |
+| **Swasembada beras** | 1984 | Indonesia mencapai swasembada beras; penghargaan FAO di Roma. Swasembada kembali dinyatakan pemerintah per 31 Desember 2025 (diumumkan 5 Januari 2026): produksi beras 2025 mencapai 34,69 juta ton (BPS) dan Indonesia tidak mengimpor beras sepanjang 2025; pada Agustus 2026 dilaporkan mengekspor 1.000 ton beras ke Malaysia dan 2.280 ton ke Arab Saudi |
 | **Wajib Belajar 6 tahun** | 1984 | Pendidikan dasar wajib 6 tahun; diperluas menjadi 9 tahun pada 1994 |
 | **PLTU Suralaya** | 1984 | Pembangkit listrik tenaga uap pertama, unit pertama beroperasi 1984 |
 | **Posyandu** (Pos Pelayanan Terpadu) | 1984 | Layanan kesehatan dasar desa (KIA, KB, imunisasi, gizi, diare); Instruksi Bersama 1984, dicanangkan massal 1986 |
@@ -110,11 +122,12 @@ Pelajaran sebaliknya sama pentingnya: warisan yang bertumpu pada fondasi keuanga
 | Tingkat kemiskinan 1993 | 13,7% | BPS |
 | Tingkat kemiskinan 1996 | 11,3% (metode lama) / 17,5% (metode baru) | BPS |
 | Tingkat kemiskinan 1998 | 24,2% | BPS |
+| Tingkat kemiskinan Maret 2026 | 8,07% (22,93 juta jiwa) | BPS (rilis 5 Agu 2026) |
 | PDB per kapita 1967 | US$54 | BPS / Bank Dunia |
 | PDB per kapita 1997 | US$1.064 | BPS / Bank Dunia |
 | Pertumbuhan ekonomi rata-rata 1968–1997 | ~7% per tahun | Bank Dunia |
 
-Catatan: angka kemiskinan 1996 bergantung pada metode — BPS merevisi garis kemiskinan pada 1998, sehingga angka metode lama (11,3%) dan metode baru (17,5%) tidak bisa dibandingkan begitu saja. Yang tidak berubah oleh metode: arahnya turun selama 25 tahun, lalu melonjak kembali pada krisis 1997–1998.
+Catatan: angka kemiskinan 1996 bergantung pada metode — BPS merevisi garis kemiskinan pada 1998, sehingga angka metode lama (11,3%) dan metode baru (17,5%) tidak bisa dibandingkan begitu saja. Yang tidak berubah oleh metode: arahnya turun selama 25 tahun, lalu melonjak kembali pada krisis 1997–1998. Pada Maret 2026 kemiskinan tercatat 8,07% (22,93 juta jiwa; garis kemiskinan Rp669.235/kapita/bulan) — turun dari 8,25% pada September 2025 — tetapi kesenjangan kota–desa tetap lebar (6,34% perkotaan berbanding 10,67% perdesaan).
 
 ## Olahraga: catatan yang dikoreksi
 
@@ -180,6 +193,10 @@ Artikel "Prestasi olahraga jaman Orde Baru" di soehartois.com memuat banyak kesa
 - "BPJS Ketenagakerjaan", Wikipedia bahasa Indonesia — PT Jamsostek berubah menjadi BPJS Ketenagakerjaan 1 Januari 2014 (UU 24/2011): https://id.wikipedia.org/wiki/Badan_Penyelenggara_Jaminan_Sosial_Ketenagakerjaan
 - "Jalan Tol Jagorawi", Wikipedia bahasa Indonesia — diresmikan 9 Maret 1978 (Keppres 3/1978), 59 km: https://id.wikipedia.org/wiki/Jalan_Tol_Jagorawi
 - "Soekarno–Hatta International Airport", Wikipedia bahasa Inggris — beroperasi 1 Mei 1985: https://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport
+- "Persentase Penduduk Miskin Maret 2026 Turun Menjadi 8,07 Persen", BPS — 5 Agustus 2026: https://www.bps.go.id/id/pressrelease/2026/08/05/2594/persentase-penduduk-miskin-maret-2026-turun-menjadi-8-07-persen-.html
+- "Presiden Prabowo Umumkan Indonesia Capai Swasembada Beras", Sekretariat Negara — 5 Januari 2026: https://setneg.go.id/baca/index/di_puncak_natal_nasional_2025_presiden_prabowo_umumkan_indonesia_capai_swasembada_beras
+- "Dua Tahun Prabowo–Gibran, Memperkuat Swasembada Pangan Berkelanjutan", Kementerian Pertanian — produksi beras 2025, pengadaan Bulog, ekspor Agustus 2026: http://bpmsph.ditjenpkh.pertanian.go.id/berita/dua-tahun-prabowo---gibran-memperkuat-swasembada-pangan-berkelanjutan
+- "Bulog Kuasai 4,5 Juta Ton, Cadangan Beras Pemerintah Indonesia Unggul Jauh", iNews — CBP Oktober 2026, pengadaan 4.238.543 ton, Bantuan Pangan Beras 33,2 juta penerima: https://www.rctiplus.com/news/detail/berita-utama/5502893/bulog-kuasai-4-5-juta-ton--cadangan-beras-pemerintah-indonesia-unggul-jauh-dibanding-sejumlah-negara-asia-tenggara
 - PP No. 7 Tahun 2003 tentang Pendirian Perum Bulog — status Bulog menjadi Perum sejak 20 Januari 2003 (teks peraturan via 123dok): https://text-id.123dok.com/document/yjdn8v6y-index-of-produkhukum-sekneg-pp-no-7-th-2003.html
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
 - Tambahan batch 3 (Program Orde Baru) — serial "50 Program", soehartois.com: Bagian 2 (IDT, KUT, Posyandu, GNOTA): https://www.soehartois.com/2024/10/2-10-program-orde-baru-atau-dimasa.html ; Bagian 3 (Wajar 9 Tahun): https://www.soehartois.com/2024/10/3-20-program-orde-baru-atau-dimasa.html

@@ -2,8 +2,8 @@
 title: "Repelita"
 description: "Rencana Pembangunan Lima Tahun (Repelita) 1969–1998: enam tahap perencanaan pembangunan Orde Baru — dari stabilisasi dan pangan, industrialisasi, sampai terhenti oleh krisis 1997."
 date: 1969-04-01
-updated: 2026-11-15
-last_updated: "2026-11-15"
+updated: 2026-11-22
+last_updated: "2026-11-22"
 entity_type: topik
 entity_id: "repelita"
 aliases:
@@ -37,6 +37,18 @@ sumber:
   - url: https://id.wikipedia.org/wiki/Garis-Garis_Besar_Haluan_Negara
     judul: "Garis-Garis Besar Haluan Negara — Wikipedia bahasa Indonesia"
     tanggal: 2026-11-15
+  - url: https://www.setneg.go.id/baca/index/rpjmn_2025_2029_fondasi_awal_wujudkan_visi_indonesia_emas_2045
+    judul: "RPJMN 2025–2029: Fondasi Awal Wujudkan Visi Indonesia Emas 2045 — Sekretariat Negara"
+    tanggal: 2026-11-22
+  - url: https://www.bappenas.go.id/berita/presiden-prabowo-sampaikan-arah-5-tahun-mendatang-dalam-musrenbangnas-rpjmn-2025-bHXlH
+    judul: "Musrenbangnas RPJMN 2025–2029 — Kementerian PPN/Bappenas, 30 Des 2024"
+    tanggal: 2026-11-22
+  - url: https://setneg.go.id/baca/index/di_puncak_natal_nasional_2025_presiden_prabowo_umumkan_indonesia_capai_swasembada_beras
+    judul: "Presiden Prabowo Umumkan Indonesia Capai Swasembada Beras — Sekretariat Negara, 5 Jan 2026"
+    tanggal: 2026-11-22
+  - url: http://bpmsph.ditjenpkh.pertanian.go.id/berita/dua-tahun-prabowo---gibran-memperkuat-swasembada-pangan-berkelanjutan
+    judul: "Dua Tahun Prabowo–Gibran, Memperkuat Swasembada Pangan Berkelanjutan — Kementerian Pertanian, 24 Okt 2026"
+    tanggal: 2026-11-22
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -87,6 +99,10 @@ Repelita dirancang di bawah arahan Widjojo Nitisastro — Ketua Bappenas sejak 2
 
 GBHN 1998 sudah merencanakan Repelita VII mulai 1998, tetapi rencana itu tidak pernah dijalankan — krisis dan pergantian rezim memutus siklusnya. Sebagai gantinya, pasca-amandemen UUD 1945, UU No. 25 Tahun 2004 tentang Sistem Perencanaan Pembangunan Nasional menggantikan GBHN: arah pembangunan jangka panjang dituangkan dalam RPJP Nasional 20 tahun, yang dijabarkan dalam RPJM Nasional lima tahunan — ritme lima tahunan warisan Repelita, tetapi kini berpedoman pada visi-misi presiden terpilih, bukan GBHN. RPJP Nasional pertama (2005–2025, UU 17/2007) berakhir Desember 2024 dan digantikan RPJP Nasional 2025–2045 (UU 59/2024, visi Indonesia Emas 2045).
 
+Ritme lima tahunan itu berlanjut di bawah nama baru. Peraturan Presiden No. 12 Tahun 2025 (10 Februari 2025) menetapkan Rencana Pembangunan Jangka Menengah Nasional (RPJMN) 2025–2029 sebagai tahap pertama RPJP Nasional 2025–2045 — penjabaran Asta Cita dengan tiga sasaran utama: kemiskinan turun menjadi 4,5–5% pada 2029, kemiskinan ekstrem 0% pada 2026, Indeks Modal Manusia 0,59 pada 2029, dan pertumbuhan ekonomi menuju 8% pada 2029 (dari 5,3% pada 2025). Musyawarah Perencanaan Pembangunan Nasional (Musrenbangnas) RPJMN digelar 30 Desember 2024. [Inferensi: RPJMN mempertahankan ritme lima tahunan warisan Repelita, tetapi tolok ukurnya bergeser — dari target pertumbuhan sektoral yang ditetapkan GBHN menjadi sasaran kemiskinan, modal manusia, dan pertumbuhan yang dijabarkan dari visi-misi presiden terpilih.]
+
+Swasembada beras yang dicapai Repelita III pada 1984 kembali dinyatakan pemerintah empat dekade kemudian. Presiden Prabowo Subianto mengumumkan Indonesia swasembada beras per 31 Desember 2025 (5 Januari 2026), diikuti deklarasi swasembada pangan di Karawang pada 7 Januari 2026. Produksi beras 2025 mencapai 34,69 juta ton (BPS, angka tetap) — naik 13,29% dari 30,62 juta ton pada 2024 — dan sepanjang 2025 Indonesia tidak mengimpor beras, setelah mengimpor 3,06 juta ton pada 2023 dan 4,52 juta ton pada 2024. Impor yang dihentikan adalah beras umum untuk konsumsi; beras khusus yang belum dapat diproduksi di dalam negeri tetap diimpor dalam volume kecil. Pada Agustus 2026 Indonesia dilaporkan mengekspor 1.000 ton beras ke Malaysia dan 2.280 ton ke Arab Saudi (untuk kebutuhan jemaah haji), dan Menteri Pertanian pada 8 November 2026 menyatakan 2026 menjadi tahun kedua tanpa impor beras.
+
 ## Batas data
 
 - Ringkasan fokus tiap tahap berbeda-beda antar sumber sekunder — misalnya Repelita V ditekankan sebagai industri berorientasi ekspor di satu sumber, dan sebagai transportasi–komunikasi–pendidikan di sumber lain. Tabel di atas memakai rumusan yang didukung lebih dari satu sumber.
@@ -111,6 +127,10 @@ GBHN 1998 sudah merencanakan Repelita VII mulai 1998, tetapi rencana itu tidak p
 - "Sejarah Kementerian PPN/Bappenas", bappenas.go.id — Widjojo Ketua Bappenas sejak Keppres 80/1967: https://www.bappenas.go.id/sejarah
 - UU No. 2 Tahun 1969 tentang APBN 1969/1970 (JDIH BPK) — disahkan 31 Maret 1969, berlaku 1 April 1969, menimbang TAP MPRS XXIII/MPRS/1966: https://Peraturan.BPK.go.id/Details/49095/uu-no-2-tahun-1969
 - "Garis-Garis Besar Haluan Negara", Wikipedia bahasa Indonesia — GBHN digantikan UU 25/2004, RPJP 20 tahun / RPJM 5 tahun: https://id.wikipedia.org/wiki/Garis-Garis_Besar_Haluan_Negara
+- "RPJMN 2025–2029", Sekretariat Negara — Perpres 12/2025, 10 Februari 2025; sasaran pertumbuhan menuju 8% pada 2029: https://www.setneg.go.id/baca/index/rpjmn_2025_2029_fondasi_awal_wujudkan_visi_indonesia_emas_2045
+- "Musrenbangnas RPJMN 2025–2029", Kementerian PPN/Bappenas — 30 Desember 2024: https://www.bappenas.go.id/berita/presiden-prabowo-sampaikan-arah-5-tahun-mendatang-dalam-musrenbangnas-rpjmn-2025-bHXlH
+- "Presiden Prabowo Umumkan Indonesia Capai Swasembada Beras", Sekretariat Negara — 5 Januari 2026: https://setneg.go.id/baca/index/di_puncak_natal_nasional_2025_presiden_prabowo_umumkan_indonesia_capai_swasembada_beras
+- "Dua Tahun Prabowo–Gibran, Memperkuat Swasembada Pangan Berkelanjutan", Kementerian Pertanian — produksi beras 2025, pengadaan Bulog, ekspor Agustus 2026: http://bpmsph.ditjenpkh.pertanian.go.id/berita/dua-tahun-prabowo---gibran-memperkuat-swasembada-pangan-berkelanjutan
 - UU No. 59 Tahun 2024 tentang RPJP Nasional 2025–2045 (disahkan 13 September 2024): https://www.slideshare.net/slideshow/uu-rencana-pembangunan-jangka-pamjang-n-asional-2025-2045-no-59-tahun-2024-pdf/275945803
 - "Garis-garis Besar Haluan Negara (GBHN) dalam Penyelenggaraan Negara", ResearchGate — GBHN 1998 merencanakan Repelita VII: https://www.researchgate.net/publication/364947241_Garis-garis_Besar_Haluan_Negara_GBHN_dalam_Penyelenggaraan_Negara
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
