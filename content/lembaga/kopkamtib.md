@@ -2,8 +2,8 @@
 title: "Kopkamtib (Komando Operasi Pemulihan Keamanan dan Ketertiban)"
 description: "Lembaga keamanan ekstra-yudisial terkuat era Orde Baru yang berwenang melakukan penangkapan tanpa batas waktu peradilan, penyensoran pers, dan penanganan ancaman subversi 1965–1988."
 date: 1965-10-10
-updated: 2026-11-17
-last_updated: "2026-11-17"
+updated: 2026-11-24
+last_updated: "2026-11-24"
 entity_type: organisasi
 entity_id: "kopkamtib"
 aliases:
@@ -40,6 +40,21 @@ sumber:
   - url: https://docs.antaragpt.com/Keputusan_Presiden_%28KEPPRES%29/Keputusan_Presiden_%28KEPPRES%29_Nomor_64_Tahun_1971.pdf
     judul: "Keppres No. 64 Tahun 1971 tentang Pemberhentian Sebagian Menteri Kabinet Pembangunan (9 Sep 1971) [TERVERIFIKASI 2026-11-17]"
     tanggal: 2026-11-17
+  - url: https://www.rctiplus.com/news/detail/inews/5512755/tim-khusus-penyelesaian-13-kasus-pelanggaran-ham-berat-dibentuk--dipimpin-otto-hasibuan
+    judul: "Tim khusus penyelesaian 13 kasus pelanggaran HAM berat dibentuk, dipimpin Otto Hasibuan (9 Nov 2026) — RCTI+/iNews [TERVERIFIKASI 2026-11-24]"
+    tanggal: 2026-11-24
+  - url: https://majalahnusantara.id/komnas-ham-tegaskan-tak-terlibat-dalam-tim-penanganan-pelanggaran-ham-berat
+    judul: "Komnas HAM tegaskan tak terlibat dalam tim penanganan pelanggaran HAM berat (9 Nov 2026) — Majalah Nusantara [TERVERIFIKASI 2026-11-24]"
+    tanggal: 2026-11-24
+  - url: https://lapor.co.id/berita/yusril-tim-koordinasi-tak-campuri-independensi-komnas-ham-kejagung
+    judul: "Yusril: Tim koordinasi tak campuri independensi Komnas HAM-Kejagung (ANTARA, Nov 2026) — Lapor [TERVERIFIKASI 2026-11-24]"
+    tanggal: 2026-11-24
+  - url: https://www.penadata.com/kemenham-inpres-pemulihan-korban-ham
+    judul: "KemenHAM rampungkan draf Inpres pemulihan korban 12 kasus HAM; Pigai di Komisi XIII DPR (17 Nov 2026) — Penadata [TERVERIFIKASI 2026-11-24]"
+    tanggal: 2026-11-24
+  - url: https://www.terasjakarta.id/pigai-koordinasi-penanganan-kasus-ham
+    judul: "Pigai soroti minimnya koordinasi Kemenko dalam penanganan HAM (17–18 Nov 2026) — Teras Jakarta [TERVERIFIKASI 2026-11-24]"
+    tanggal: 2026-11-24
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -126,6 +141,12 @@ Kopkamtib sudah bubar sejak 1988, tetapi korban penahanan dan penyaringan politi
 
 [Inferensi: jalur non-yudisial ini menandai pergeseran negara dari penegakan keamanan ala Kopkamtib — penahanan tanpa pengadilan — ke pemulihan korban tanpa mengadili pelaku; karena itu ia dipuji sebagai langkah pemulihan sekaligus dikritik karena tidak menyentuh akuntabilitas pelaku.]
 
+Pada 9 November 2026, pemerintah membentuk tim khusus (kelompok kerja) untuk menangani 13 kasus dugaan pelanggaran HAM berat yang mandek, dipimpin Wakil Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Otto Hasibuan, sebagai tindak lanjut arahan Presiden Prabowo Subianto. Menurut Menko Kumham Imipas Yusril Ihza Mahendra, dari 17 kasus dugaan pelanggaran HAM berat yang telah diproses, baru empat yang sampai ke pengadilan — Timor Timur, Tanjung Priok, Abepura, dan Paniai, yang seluruh terdakwanya dinyatakan bebas — sedangkan 13 lainnya masih bolak-balik antara penyelidikan Komnas HAM dan penyidikan Kejaksaan Agung. Dua dari 13 kasus itu berkaitan langsung dengan era Kopkamtib: Peristiwa 1965–1966 dan [[peristiwa/penembakan-misterius-petrus|Penembakan Misterius (Petrus) 1982–1985]]. Komnas HAM, melalui anggotanya Amiruddin, menyatakan tidak terlibat dalam pembentukan kelompok kerja itu dan menolak bergabung, dengan alasan Komnas HAM adalah lembaga negara mandiri (UU No. 39 Tahun 1999) dan bukan bagian dari kerja-kerja eksekutif; Yusril menanggapi bahwa tim itu tidak dimaksudkan mencampuri independensi Komnas HAM maupun Kejaksaan Agung, melainkan menyamakan persepsi, standar, dan prosedur penyelidikan-penyidikan.
+
+Di jalur non-yudisial, Kementerian HAM telah merampungkan draf revisi Inpres No. 2 Tahun 2023 tentang pemulihan korban 12 peristiwa pelanggaran HAM berat: menurut Menteri HAM Natalius Pigai dalam rapat dengan Komisi XIII DPR pada 17 November 2026, draf itu selesai sekitar enam bulan sebelumnya dan sudah diserahkan ke Istana sekitar lima bulan sebelumnya, lalu dikoordinasikan harmonisasinya oleh Yusril dan tinggal diserahkan ke Kementerian Sekretariat Negara untuk ditandatangani Presiden. Menurut Komnas HAM, sekitar 7.000 korban telah teridentifikasi, tetapi baru sekitar 600 orang — kurang dari 10 persen — yang sudah dipulihkan haknya (pernyataan Direktur Jenderal Pelayanan dan Kepatuhan HAM Munafrizal Manan, 15 Desember 2025); pemulihan itu meliputi antara lain bantuan perumahan, bantuan sosial, pendidikan, dan ibadah haji, dan baru dapat disalurkan setelah revisi Inpres ditandatangani. Dalam rapat yang sama, Pigai juga menyoroti minimnya koordinasi lintas kementerian: menurutnya, selama dua tahun tiga bulan masa kepemimpinannya, Kementerian HAM, Kementerian Hukum, dan Kementerian Imigrasi tidak pernah diundang rapat koordinasi oleh Kemenko Kumham Imipas.
+
+[Inferensi: dua jalur 2026 — kelompok kerja yudisial untuk 13 kasus dan revisi Inpres non-yudisial untuk 12 peristiwa — menunjukkan pemerintah memisahkan penyelesaian yudisial dan pemulihan korban, tetapi keduanya masih tertahan di tahap koordinasi antarlembaga: pokja ditolak Komnas HAM, draf Inpres menunggu tanda tangan Presiden.]
+
 ## Sumber
 - **Keputusan Presiden/Pangti ABRI/KOTI No. 142/KOTI/1965:** Pengangkatan Soeharto sebagai Pangkopkamtib (1 Nov 1965).
 - **Keppres No. 179/KOTI/1965:** Tugas dan organisasi Kopkamtib (6 Des 1965).
@@ -134,6 +155,9 @@ Kopkamtib sudah bubar sejak 1988, tetapi korban penahanan dan penyaringan politi
 - **Keppres No. 16/1990:** Penelitian Khusus bagi Pegawai Negeri RI (17 Apr 1990).
 - **Keppres No. 39/2000:** Pencabutan Keppres No. 16/1990 — berakhirnya Litsus (10 Mar 2000).
 - **Inpres No. 2 Tahun 2023:** Pelaksanaan Rekomendasi Penyelesaian Non-Yudisial Pelanggaran HAM Berat (15 Mar 2023; 12 peristiwa, termasuk 1965–1966 dan Petrus).
+- **Tim khusus 13 kasus HAM berat (9 Nov 2026):** dibentuk Kemenko Kumham Imipas bersama Kejaksaan Agung, dipimpin Otto Hasibuan; Yusril: baru 4 dari 17 kasus disidangkan (RCTI+/iNews).
+- **Komnas HAM (9 Nov 2026):** menolak bergabung dengan kelompok kerja 13 kasus; Yusril: tim tidak campuri independensi Komnas HAM-Kejagung (Majalah Nusantara; ANTARA via Lapor).
+- **Kementerian HAM (17 Nov 2026):** draf revisi Inpres pemulihan korban 12 peristiwa selesai dan menunggu tanda tangan Presiden; ~7.000 korban teridentifikasi, ~600 sudah dipulihkan (Penadata; Teras Jakarta; ANTARA).
 - **Keppres No. 64 Tahun 1971:** Perombakan Kabinet Pembangunan I (9 Sep 1971; Panggabean pindah ke Menneg/Wakil Panglima ABRI, Soemitro menjadi Pangkopkamtib).
 - **Sudomo (1983):** *Kebijaksanaan dan Langkah-langkah Kopkamtib dalam Pemulihan Keamanan Nasional*.
 - **Harold Crouch (1978):** *The Army and Politics in Indonesia* — Analisis kelembagaan Kopkamtib dalam politik militer Orde Baru.

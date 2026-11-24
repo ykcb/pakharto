@@ -2,8 +2,8 @@
 title: "Bakin (Badan Koordinasi Intelijen Negara)"
 description: "Lembaga intelijen strategis pusat era Orde Baru yang bertugas mengkoordinasikan pengumpulan informasi rahasia, operasi kontra-subversi, dan rekayasa politik domestik 1967–2001."
 date: 1967-05-22
-updated: 2026-11-17
-last_updated: "2026-11-17"
+updated: 2026-11-24
+last_updated: "2026-11-24"
 entity_type: organisasi
 entity_id: "bakin"
 aliases:
@@ -37,6 +37,18 @@ sumber:
   - url: https://www.rctiplus.com/news/detail/terkini/5508801/begini-penjelasan-polri-soal-listyo-sigit-cs-yang-jadi-tersangka-penyadapan-prabowo
     judul: "Penjelasan Polri soal Listyo Sigit cs tersangka dugaan penyadapan Presiden (4 Nov 2026) — RCTI+ [TERVERIFIKASI 2026-11-17]"
     tanggal: 2026-11-17
+  - url: https://bogor.voa.co.id/berita/6660/bareskrim-tetapkan-listyo-sigit-dan-dua-jenderal-polri-sebagai-tersangka-penyadapan-ilegal/
+    judul: "Bareskrim tetapkan Listyo Sigit dan dua jenderal Polri tersangka penyadapan ilegal (3 Nov 2026) — VOA Bogor [TERVERIFIKASI 2026-11-24]"
+    tanggal: 2026-11-24
+  - url: https://bernasnews.com/2026/11/04/rangkuman-konferensi-pers-polri-3-november-2026-kasus-listyo-sigit-hingga-dugaan-penyadapan-prabowo/
+    judul: "Rangkuman konferensi pers Polri 3 November 2026: laporan 30 Okt 2026, pasal & ancaman pidana (4 Nov 2026) — Bernas News [TERVERIFIKASI 2026-11-24]"
+    tanggal: 2026-11-24
+  - url: https://validnews.id/nasional/2026/11/06/penyadapan-presiden-bin-mengarah-ke-makar-174700440
+    judul: "Penyadapan Presiden, BIN: Mengarah ke Makar (6 Nov 2026) — Validnews [TERVERIFIKASI 2026-11-24]"
+    tanggal: 2026-11-24
+  - url: https://www.asatunews.co.id/penyadapan-prabowo-mengarah-makar
+    judul: "Kepala BIN sebut penyadapan Prabowo mengarah makar; tiga tersangka di Rutan Mako Brimob Depok (6 Nov 2026) — Asatu News [TERVERIFIKASI 2026-11-24]"
+    tanggal: 2026-11-24
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -95,6 +107,8 @@ Setelah Hendropriyono, BIN dipimpin berturut-turut oleh Syamsir Siregar (8 Desem
 
 Pada November 2026, peran deteksi dini BIN diuji oleh kasus dugaan penyadapan ilegal: Bareskrim Polri menetapkan tiga tersangka pada 3 November 2026 — mantan Kapolri Jenderal Listyo Sigit Prabowo (saat itu Kepala Staf Kepresidenan), Irjen Ahrie Sonta Nasution, dan Irjen Eko Hadi Santoso — lalu tersangka keempat, Irjen Slamet Uliandi, pada 5 November 2026. Menurut penyidik, penyadapan diduga berlangsung sepanjang 2025–2026 dengan memasukkan nomor telepon ke dalam sistem *Lawful Interception Management System* (LIMS) Polri tanpa verifikasi dan tanpa kaitan dengan penegakan hukum; sasarannya antara lain nomor telepon Presiden Prabowo Subianto, pejabat negara, tokoh politik, wartawan, tokoh ormas, aktivis LSM, dan pengusaha, dan berkas hasil sadapan diduga dihapus pada Oktober 2026. Kepala BIN Herindra, seusai dipanggil Presiden pada 6 November 2026, menilai perbuatan itu ilegal dan "mengarah ke tindakan yang makar"; sebaliknya Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra menyatakan pada 3 November 2026 bahwa pemeriksaan sementara tidak menunjukkan indikasi makar. Pada 4 November 2026, BEM Nusantara mendesak Presiden mencopot Herindra karena menilai BIN gagal mendeteksi penyadapan yang berlangsung lama terhadap komunikasi kepala negara. Perkara ini masih berjalan pada saat halaman ini diperbarui; penetapan tersangka bukan putusan pengadilan.
 
+Kasus ini terungkap setelah seorang petugas membuat laporan polisi pada 30 Oktober 2026. Penyidik memeriksa 10 saksi dan tiga ahli serta menyita 11 telepon genggam, satu iPad, dan empat flashdisk. Para tersangka dijerat antara lain Pasal 258 dan Pasal 332 KUHP (UU No. 1 Tahun 2023) serta Pasal 32 UU ITE, dengan ancaman pidana maksimal 10 tahun penjara. Menurut Yusril, penyadapan diduga berlangsung sejak Januari 2025 — sekitar dua bulan setelah Prabowo dilantik sebagai presiden pada 20 Oktober 2024. Pada 5 November 2026, tiga tersangka pertama ditempatkan di rumah tahanan Mako Brimob, Depok. Herindra mengaku terkejut — "Saya tidak pernah membayangkan itu, ternyata itu ada" — dan tidak menjawab pertanyaan wartawan soal dugaan kaitan Presiden ke-7 Joko Widodo dengan perkara itu; Menteri Sekretaris Negara Prasetyo Hadi turut menilai perbuatan itu berpotensi mengarah ke makar.
+
 [Inferensi: kasus ini menguji mandat deteksi dini dan peringatan dini intelijen negara sebagaimana diatur UU No. 17 Tahun 2011 — penyadapan terhadap kepala negara dari dalam institusi negara diduga berlangsung lebih dari setahun sebelum terbongkar, dan pengungkapnya bukan BIN.]
 
 ## Sumber
@@ -107,6 +121,8 @@ Pada November 2026, peran deteksi dini BIN diuji oleh kasus dugaan penyadapan il
 - **Antoine Beaumont (2025):** "Le renseignement en Indonésie: entre autoritarisme hérité et défis démocratiques", *Études françaises de renseignement et de cyber* 5(2), hlm. 35–50. DOI: 10.3917/efrc.252.0035.
 - **DPR RI (17 Oktober 2024):** "Paripurna DPR Setujui Herindra Jadi Kepala BIN" (emedia.dpr.go.id).
 - **Bareskrim Polri (3–5 November 2026):** penetapan empat tersangka dugaan penyadapan ilegal terhadap Presiden dan pejabat negara (konferensi pers Kabareskrim; RCTI+, 4 November 2026).
+- **Bareskrim Polri (3 November 2026):** laporan polisi 30 Oktober 2026, 10 saksi dan tiga ahli diperiksa, barang bukti 11 telepon genggam, satu iPad, empat flashdisk; pasal yang disangkakan dan ancaman pidana (VOA Bogor; Bernas News, 4 November 2026).
+- **Kepala BIN Herindra (6 November 2026):** penyadapan ilegal "mengarah ke tindakan yang makar"; Herindra mengaku terkejut dan tidak menjawab dugaan kaitan Joko Widodo (Validnews; Asatu News, 6 November 2026).
 - **Daftar Kepala BIN:** silsilah kepala BIN 2004–2024 (Wikipedia bahasa Indonesia, diakses 17 November 2026).
 - **Imran Nugroho (2022):** "Jenderal Yoga Soegama: Kiprahnya Seorang Loyalis dan Tangan Kanan Intelijen Soeharto (1955–1989)", skripsi S1 Pendidikan Sejarah, Universitas Negeri Jakarta.
 
