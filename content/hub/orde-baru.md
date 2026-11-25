@@ -2,8 +2,8 @@
 title: "Orde Baru (1966–1998)"
 description: "Era pemerintahan Indonesia di bawah Presiden Soeharto yang menandai transisi dari sistem demokrasi terpimpin menuju arsitektur kekuasaan politik, ekonomi, dan keamanan yang terstruktur selama 32 tahun."
 date: 1966-03-11
-updated: 2026-11-24
-last_updated: "2026-11-24"
+updated: 2026-11-25
+last_updated: "2026-11-25"
 entity_type: topik
 entity_id: "orde-baru-1966-1998"
 aliases:
@@ -156,4 +156,5 @@ Penilaian atas Orde Baru terus bergerak setelah rezim berakhir — lewat keputus
 - **KontraS / Amnesty International Indonesia (17 Nov 2026):** [Penjahat HAM tetap Jadi Pahlawan](https://kontras.org/penjahat-ham-tetap-jadi-pahlawan-keadilan-telah-mati-dan-impunitas-menjelma-di-pengadilan-tata-usaha-negara-jakarta/) — rilis pers koalisi penggugat atas putusan 151/G/2026 (amar, 92 bukti surat, pernyataan akan banding)
 - **Wiki Ira Amalia (diperiksa 20 Nov 2026):** [Soeharto Pahlawan Nasional](https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional) — amar putusan 151/G/2026 terverifikasi dari SIPP PTUN Jakarta
 - **PTTUN Jakarta (24 November 2026):** *Salinan Putusan Nomor 228/B/2026/PTTUN.JKT* (10 hlm, berkas PDF salinan putusan) — banding atas 50/G/2026; gugatan Tidak Diterima dikuatkan
+- **PTUN Jakarta (25 November 2026):** *Salinan Putusan Nomor 151/G/2026/PTUN.JKT* (226 hlm, berkas PDF salinan putusan) — amar, majelis, dan pertimbangan hakim perkara GEMAS
 - **Channel8 (19 Nov 2026):** [Peresmian Patung Jenderal Besar TNI HM Soeharto di Mabes BIN](https://www.channel8.co.id/10114/2026/11/peresmian-patung-jenderal-besar-tni-hm-soeharto-di-mabes-bin.html/) — laporan foto peresmian patung 18 Nov 2026
