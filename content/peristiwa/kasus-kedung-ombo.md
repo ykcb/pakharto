@@ -2,8 +2,8 @@
 title: "Kasus Kedung Ombo (1985–1994)"
 description: "Pembangunan Waduk Kedung Ombo (1985–1994): irigasi 60.000 hektare dan PLTA 22,5 MW untuk swasembada pangan — dengan biaya penggusuran 5.399 keluarga dan sengketa ganti rugi yang berujung ke Mahkamah Agung."
 date: 1985-05-01
-updated: 2026-11-24
-last_updated: "2026-11-24"
+updated: 2026-11-26
+last_updated: "2026-11-26"
 entity_type: peristiwa
 entity_id: "kasus-kedung-ombo"
 aliases:
@@ -47,6 +47,18 @@ sumber:
   - url: https://www.portalharian.com/air-waduk-kedung-ombo-mulai-masuk-pati-petani-bersihkan-sungai-juwana-sambut-kabar-baik/
     judul: "Air Waduk Kedung Ombo Mulai Masuk Pati, Petani Bersihkan Sungai Juwana Sambut Kabar Baik (24 September 2026)"
     tanggal: 2026-09-24
+  - url: https://humas.jatengprov.go.id/detail_berita_gubernur?id=11612
+    judul: "Humas Pemprov Jateng (25 Agu 2026), 'PLTS Gajah Mungkur Mulai Dibangun, Diproyeksikan Hasilkan Listrik 218 GWh' — groundbreaking PLTS terapung Gajah Mungkur (134,2 MWp), target operasi Des 2027 [TERVERIFIKASI 2026-11-26]"
+    tanggal: 2026-11-26
+  - url: https://digilib.uns.ac.id/dokumen/abstrak/1008136/Optimalisasi-Operasi-Waduk-Kedungombo-Untuk-Pemenuhan-Kebutuhan-Air-Irigasi
+    judul: "Teguh Wibowo Mukti (UNS, Tesis 2026), 'Optimalisasi Operasi Waduk Kedungombo Untuk Pemenuhan Kebutuhan Air Irigasi' — optimasi operasi waduk (data inflow 2005–2025) [TERVERIFIKASI 2026-11-26]"
+    tanggal: 2026-11-26
+  - url: https://jasatirta1.co.id/pengelolaan-ketersediaan-air/
+    judul: "Perum Jasa Tirta I, 'Pengelolaan Ketersediaan Air' — tampungan Waduk Kedungombo 2024: 544,28 juta m³; laju sedimentasi 1,96 juta m³/tahun (pengukuran 2025) [TERVERIFIKASI 2026-11-26]"
+    tanggal: 2026-11-26
+  - url: https://www.perhutani.co.id/perhutani-dan-dinas-lhk-laksanakan-pertek-rencana-pembangunan-plts-terapung-kedungombo/
+    judul: "Perhutani (30 Sep 2025), 'Perhutani dan Dinas LHK Laksanakan Pertek Rencana Pembangunan PLTS Terapung Kedungombo' — sumber primer peninjauan lapangan PPKH SUTT 150 kV [TERVERIFIKASI 2026-11-26]"
+    tanggal: 2026-11-26
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -97,9 +109,11 @@ Manfaat itu dirasakan hingga sekarang: waduk Kedung Ombo masih beroperasi — me
 
 Waduk Kedung Ombo masih beroperasi dan menjadi penopang ketahanan pangan Jawa Tengah. Menurut Kementerian Pekerjaan Umum (Agustus 2025), kapasitas tampung normal waduk 561,2 juta m³; airnya mengairi 64.364 hektare sawah (DI Sidorejo, Sedadi, dan Klambu), memasok air baku 1.770 liter/detik, membangkitkan PLTA 22,5 MW, dan mereduksi banjir hingga 4.249 m³/detik. Menjelang musim tanam I 2025/2026 (mulai 1 September 2025), stok air tercatat 472,39 juta m³ — cukup untuk pola tanam 72.664 hektare di lima kabupaten (Grobogan, Kudus, Pati, Demak, Jepara).
 
-Sedimentasi menggerus tampungan waduk dari tahun ke tahun: studi dinamika sedimentasi mencatat sisa tampungan total 94,47% (pengukuran 2017), tampungan mati menyusut dari 100% (1989) menjadi 43% (2016), dan umur teknis waduk diperkirakan berakhir pada 2064. [Inferensi: waduk yang sama yang dulu menenggelamkan 37 desa kini menua — manfaatnya berlanjut, tetapi kapasitasnya menyusut, sehingga pemeliharaan dan pengendalian erosi di daerah tangkapan menjadi bagian dari warisan kasus ini.]
+Sedimentasi menggerus tampungan waduk dari tahun ke tahun: studi dinamika sedimentasi mencatat sisa tampungan total 94,47% (pengukuran 2017), tampungan mati menyusut dari 100% (1989) menjadi 43% (2016), dan umur teknis waduk diperkirakan berakhir pada 2064. Pengukuran Perum Jasa Tirta I (2025) mencatat tampungan 544,28 juta m³ pada 2024 dengan laju sedimentasi 1,96 juta m³ per tahun. [Inferensi: waduk yang sama yang dulu menenggelamkan 37 desa kini menua — manfaatnya berlanjut, tetapi kapasitasnya menyusut, sehingga pemeliharaan dan pengendalian erosi di daerah tangkapan menjadi bagian dari warisan kasus ini.]
 
-Rencana berikutnya adalah PLTS terapung 100 MW (Proyek Strategis Nasional, PLN Indonesia Power): pembangunan ditargetkan mulai 2025 dengan operasi komersial akhir 2026/awal 2027; per September 2025 proyek masih pada tahap perizinan penggunaan kawasan hutan. Perizinan itu melangkah ke tahap pertimbangan teknis: pada 30 September 2025, Perhutani (KPH Telawa dan KPH Gundih) bersama Dinas Lingkungan Hidup dan Kehutanan Jawa Tengah melakukan peninjauan lapangan untuk Persetujuan Penggunaan Kawasan Hutan (PPKH) atas saluran udara tegangan tinggi (SUTT) 150 kV PLTS Terapung Kedungombo–Gardu Induk Kedungombo.
+Kajian akademik 2026 (tesis magister Universitas Sebelas Maret, Teguh Wibowo Mukti) mengoptimalkan pola operasi waduk berdasarkan data inflow 2005–2025 dari BBWS Pemali Juana: kebutuhan air irigasi tertinggi terjadi pada Mei Periode II (128,81 juta m³) dan terendah pada Maret Periode II (31,16 juta m³); optimasi menaikkan reliabilitas pasokan dari 70,83% menjadi 95,83% pada skenario debit andalan Q20, dan hasilnya dipakai sebagai dasar penyusunan Rencana Tahunan Operasi Waduk (RTOW) alternatif.
+
+Rencana berikutnya adalah PLTS terapung 100 MW (Proyek Strategis Nasional, PLN Indonesia Power): pembangunan ditargetkan mulai 2025 dengan operasi komersial akhir 2026/awal 2027; per September 2025 proyek masih pada tahap perizinan penggunaan kawasan hutan. Perizinan itu melangkah ke tahap pertimbangan teknis: pada 30 September 2025, Perhutani (KPH Telawa dan KPH Gundih) bersama Dinas Lingkungan Hidup dan Kehutanan Jawa Tengah melakukan peninjauan lapangan untuk Persetujuan Penggunaan Kawasan Hutan (PPKH) atas saluran udara tegangan tinggi (SUTT) 150 kV PLTS Terapung Kedungombo–Gardu Induk Kedungombo. Proyek kembarnya di Waduk Gajahmungkur, Wonogiri — sesama PSN PLTS terapung Jawa Tengah — sudah mulai dibangun: groundbreaking 25 Agustus 2026 bersamaan dengan peluncuran program nasional PLTS 100 GWp oleh Presiden Prabowo Subianto, kapasitas 134,2 MWp (100 MWac), investasi sekitar Rp1,6 triliun, dan target beroperasi Desember 2027 dengan proyeksi 218 GWh listrik per tahun. Untuk PLTS Terapung Kedungombo sendiri belum ada kabar pembangunan setelah tahap Pertek September 2025.
 
 Pada kemarau 2026, waduk kembali berfungsi sebagai penyelamat panen: BBWS Pemali Juana merilis air melalui Bendung Klambu menuju Daerah Irigasi Klambu Kanan pada 21–23 Agustus 2026 (debit sekitar 3,141 m³/detik) untuk menyelamatkan tanaman padi di Kabupaten Pati yang terancam kekeringan — bukan untuk membuka musim tanam baru. Aliran dari waduk dibuka kembali pada 15 September 2026 dan air mulai memasuki Sungai Juwana di Pati; petani membersihkan eceng gondok dan pendangkalan sungai pada 22 September 2026 agar air dapat dimanfaatkan.
 
@@ -145,7 +159,7 @@ Pada kemarau 2026, waduk kembali berfungsi sebagai penyelamat panen: BBWS Pemali
 - Pemerintah dan BBWS Pemali Juana membuka kembali aliran Waduk Kedungombo; air mulai memasuki Sungai Juwana di Kabupaten Pati, dan petani membersihkan eceng gondok serta pendangkalan sungai pada 22 September 2026 agar air dapat dimanfaatkan.
 
 ### 2026-11-24
-- Pengadilan Tinggi Tata Usaha Negara Jakarta mengucapkan Putusan Nomor 228/B/2026/PTTUN.JKT yang **menguatkan** penolakan gugatan atas Keppres No. 116/TK/Tahun 2025 tentang gelar Pahlawan Nasional almarhum Soeharto. Penggugat Bejo — ahli waris almarhum Parman Sopawiro, yang namanya tercatat dalam gugatan warga Kedung Ombo di Pengadilan Negeri Semarang — dinyatakan tidak mempunyai kepentingan langsung dengan Keppres; majelis berpedoman pada *notoire feiten* dan Peninjauan Kembali MA Nomor 650 PK/Pdt/1994. Biaya perkara tingkat banding sebesar Rp250.000,00 dibebankan kepada Pembanding. Rincian lengkap: [[hub/orde-baru|Orde Baru setelah 1998]].
+- Pengadilan Tinggi Tata Usaha Negara Jakarta mengucapkan Putusan Nomor 228/B/2026/PT.TUN.JKT yang **menguatkan** putusan tingkat pertama (gugatan dinyatakan Tidak Diterima) atas Keppres No. 116/TK/Tahun 2025 tentang gelar Pahlawan Nasional almarhum Soeharto. Penggugat Bejo — ahli waris almarhum Parman Sopawiro, yang namanya tercatat dalam gugatan warga Kedung Ombo di Pengadilan Negeri Semarang — dinyatakan tidak mempunyai kepentingan langsung dengan Keppres; majelis berpedoman pada *notoire feiten* dan Peninjauan Kembali MA Nomor 650 PK/Pdt/1994. Biaya perkara tingkat banding sebesar Rp250.000,00 dibebankan kepada Pembanding. Rincian lengkap: [[hub/orde-baru|Orde Baru setelah 1998]].
 
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden RI yang meresmikan waduk dan menegaskan prioritas proyek strategis di atas keberatan warga.
@@ -176,10 +190,16 @@ Pada kemarau 2026, waduk kembali berfungsi sebagai penyelamat panen: BBWS Pemali
 - **Perhutani & Dinas LHK Jawa Tengah (30 September 2025):** *Pertek Rencana Pembangunan PLTS Terapung Kedungombo* — peninjauan lapangan untuk PPKH SUTT 150 kV PLTS Terapung Kedungombo–Gardu Induk Kedungombo: https://www.inspirasiline.com/2025/10/02/perhutani-bersama-dinas-lhk-laksanakan-pertek-rencana-pembangunan-plts-terapung-kedungombo/
 - **BBWS Pemali Juana (Agustus 2026):** *Pemeliharaan Hidromekanikal Bendungan Kedungombo* dan *Upaya Selamatkan Produktivitas Padi di Pati* — rilis air 21–23 Agustus 2026 (±3,141 m³/detik) via Bendung Klambu: https://sda.pu.go.id/balai/bbwspemalijuana/
 - **Portal Harian (24 September 2026):** *Air Waduk Kedung Ombo Mulai Masuk Pati* — aliran dibuka kembali 15 September 2026, air memasuki Sungai Juwana: https://www.portalharian.com/air-waduk-kedung-ombo-mulai-masuk-pati-petani-bersihkan-sungai-juwana-sambut-kabar-baik/
-- **PTTUN Jakarta (24 November 2026):** *Salinan Putusan Nomor 228/B/2026/PTTUN.JKT* (berkas PDF salinan putusan) — banding atas PTUN Jakarta No. 50/G/2026/PTUN.JKT; gugatan Bejo dinyatakan Tidak Diterima dan putusan tingkat pertama dikuatkan.
+- **Humas Pemprov Jawa Tengah (25 Agustus 2026):** "PLTS Gajah Mungkur Mulai Dibangun, Diproyeksikan Hasilkan Listrik 218 GWh" — https://humas.jatengprov.go.id/detail_berita_gubernur?id=11612 — groundbreaking PLTS Terapung Gajah Mungkur (134,2 MWp/100 MWac, Rp1,6 T, target operasi Desember 2027, 218 GWh/tahun), bagian dari program PLTS 100 GWp.
+- **Teguh Wibowo Mukti (Universitas Sebelas Maret, Tesis 2026):** "Optimalisasi Operasi Waduk Kedungombo Untuk Pemenuhan Kebutuhan Air Irigasi" — https://digilib.uns.ac.id/dokumen/abstrak/1008136/Optimalisasi-Operasi-Waduk-Kedungombo-Untuk-Pemenuhan-Kebutuhan-Air-Irigasi — optimasi operasi waduk (inflow 2005–2025, HEC-ResSim & Excel Solver); reliabilitas Q20 naik 70,83%→95,83%; dasar RTOW alternatif.
+- **Perum Jasa Tirta I:** "Pengelolaan Ketersediaan Air" — https://jasatirta1.co.id/pengelolaan-ketersediaan-air/ — tampungan Waduk Kedungombo 2024 sebesar 544,28 juta m³; laju sedimentasi 1,96 juta m³/tahun (pengukuran 2025).
+- **Perhutani (30 September 2025):** "Perhutani dan Dinas LHK Laksanakan Pertek Rencana Pembangunan PLTS Terapung Kedungombo" — https://www.perhutani.co.id/perhutani-dan-dinas-lhk-laksanakan-pertek-rencana-pembangunan-plts-terapung-kedungombo/ — sumber primer peninjauan lapangan PPKH SUTT 150 kV PLTS Terapung Kedungombo–Gardu Induk Kedungombo.
+- **PTTUN Jakarta (24 November 2026):** *Salinan Putusan Nomor 228/B/2026/PT.TUN.JKT* (berkas PDF salinan putusan) — banding atas PTUN Jakarta No. 50/G/2026/PTUN.JKT; gugatan Bejo dinyatakan Tidak Diterima dan putusan tingkat pertama dikuatkan.
 
 ## Catatan presisi
 - **Perubahan Kebijakan Bank Dunia:** Kasus Kedung Ombo dan skandal bendungan Narmada di India menjadi pemicu reformasi kebijakan pengamanan sosial (*Social Safeguards Policy*) Bank Dunia di tingkat global, yang sejak saat itu mewajibkan persetujuan bebas dan diinformasikan lebih awal (*Free, Prior, and Informed Consent / FPIC*) bagi komunitas terdampak proyek donor multilateral.
 - **Tahun penghargaan FAO:** laporan analisis yang menjadi bahan revisi ini menulis penghargaan FAO "pada 1986" — yang benar adalah **14 November 1985** di Roma (lihat koreksi di halaman [[aktor/soeharto|Soeharto]]).
 - **Angka kapasitas tampung berbeda antar sumber:** 703 juta m³ adalah daya tampung awal (lihat tabel Fakta kunci), 634,6 juta m³ kapasitas aktif (Wikipedia, "Waduk Kedungombo"), dan 561,2 juta m³ kapasitas tampung normal menurut Kementerian PU (2025). Perbedaan ini mencerminkan definisi dan tahun pengukuran yang berbeda, ditambah penyusutan akibat sedimentasi — bukan kesalahan salah satu sumber.
 - **Tanggal putusan kasasi:** halaman ini sebelumnya menulis 11 Juli 1994; yang benar **18 Juli 1993** (Jurnal Hukum dan Peradilan, 2016; dikuatkan KYRI), dan PK pembatalnya **29 Oktober 1994** (bukan 1995). Salinan putusan dalam tesis UGM bertanggal 23 Juli 1993 — kemungkinan tanggal salinan, bukan tanggal putusan.
+- **Sungai Juwana / Silugonggo:** dua nama untuk sungai yang sama di Pati (Portal Harian, 24 September 2026, menulis "Sungai Juwana atau Silugonggo") — halaman memakai "Sungai Juwana" mengikuti sumber Portal Harian; rencana pembukaan aliran 15 September 2026 yang disebut Humas Pemkab Pati (7 September 2026) menuju "Sungai Silugonggo" merujuk aliran yang sama.
+- **Ditolak/ditunda (2026-11-26):** angka luas kekeringan Pati 2.655 ha vs 1.700 ha (Portal Harian 24 September 2026 memuat keduanya — tetap bertentangan, tidak dipakai); status pembangunan PLTS Terapung Kedungombo sendiri setelah Pertek September 2025 (belum ada kabar — hanya proyek kembarnya di Gajahmungkur yang sudah groundbreaking); pengajuan kasasi atas putusan 228/B/2026/PT.TUN.JKT (belum ada kabar hingga 26 November 2026).
