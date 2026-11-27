@@ -2,8 +2,8 @@
 title: "Golkar"
 description: "Golongan Karya: dari Sekretariat Bersama golongan fungsional (1964) menjadi mesin pemilu Orde Baru — menang enam kali berturut-turut 1971–1997 — lalu bertransformasi menjadi partai politik pascareformasi."
 date: 1964-10-20
-updated: 2026-11-19
-last_updated: "2026-11-19"
+updated: 2026-11-27
+last_updated: "2026-11-27"
 entity_type: topik
 entity_id: "golkar"
 aliases:
@@ -44,6 +44,24 @@ sumber:
   - url: https://beritaprioritas.com/penyadapan-prabowo-golkar-somasi-said-didu-dan-sri-rajasa/
     judul: "Penyadapan Prabowo, Golkar Somasi Said Didu dan Sri Rajasa (11 November 2026)"
     tanggal: 2026-11-11
+  - url: https://lidik.id/bahlil-bantah-terlibat-dugaan-penyadapan-prabowo-dan-siap-layangkan-somasi
+    judul: "Bahlil Bantah Terlibat Dugaan Penyadapan Prabowo dan Siap Layangkan Somasi — Lidik.id (7 November 2026)"
+    tanggal: 2026-11-27
+  - url: https://boyolali.net/poster-munaslub-golkar-dinyatakan-hoaks-bahlil-ultimatum-3x24-jam/
+    judul: "Poster Munaslub Golkar Dinyatakan Hoaks, Bahlil Ultimatum 3×24 Jam — Boyolali.net (7 November 2026)"
+    tanggal: 2026-11-27
+  - url: https://jatengprov.go.id/padhang-nasional/hoaks-poster-munaslub-golkar-yang-mencatut-nama-ahmad-doli-kurnia-tanjung/
+    judul: "[HOAKS] Poster Munaslub Golkar yang Mencatut Nama Ahmad Doli Kurnia Tanjung — Pemprov Jawa Tengah (11 November 2026)"
+    tanggal: 2026-11-27
+  - url: https://sumbarsatu.com/berita/35925-golkar-somasi-said-didu-dan-sri-radjasa-beri-tenggat-3x24-jam-soal-tuduhan-penyadapan-prabowo
+    judul: "Golkar Somasi Said Didu dan Sri Radjasa, Beri Tenggat 3×24 Jam soal Tuduhan Penyadapan Prabowo — Sumbarsatu (10 November 2026)"
+    tanggal: 2026-11-27
+  - url: https://pintoe.co/berita/read/12931/Golkar-Resmi-Somasi-Said-Didu-dan-Sri-Radjasa-Minta-Konten-Diturunkan-dalam-324-Jam
+    judul: "Golkar Resmi Somasi Said Didu dan Sri Radjasa, Minta Konten Diturunkan dalam 3×24 Jam — Pintoe.co (10 November 2026)"
+    tanggal: 2026-11-27
+  - url: https://indonesiaonline.co.id/golkar-somasi-said-didu-soal-penyadapan-prabowo-malah-direspons-salah-alamat-dan-salah-substansi/
+    judul: "Golkar Somasi Said Didu soal Penyadapan Prabowo, Malah Direspons Salah Alamat dan Salah Substansi — Indonesia Online (11 November 2026)"
+    tanggal: 2026-11-27
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -115,6 +133,10 @@ Pada Pemilu 2019 Golkar meraih 12,31% suara (85 kursi), lalu menguat pada Pemilu
 
 Pada November 2026, Golkar menghadapi dua tekanan sekaligus: penyidikan dugaan penyadapan ilegal terhadap Presiden Prabowo Subianto — Bareskrim Polri menetapkan empat perwira tinggi Polri sebagai tersangka — dan beredarnya pamflet digital anonim yang mempromosikan Musyawarah Nasional Luar Biasa (Munaslub) pada 29 November 2026 dengan nama Wakil Ketua Umum Ahmad Doli Kurnia sebagai figur alternatif. Bahlil membantah keterlibatannya dan mengaku justru menjadi korban intersepsi komunikasi; Sekretaris Jenderal M. Sarmuji menyebut narasi Munaslub kabar bohong yang sengaja diembuskan untuk memecah belah soliditas partai. Pada 10 November 2026, Badan Advokasi Hukum dan HAM (Bakumham) DPP Golkar melayangkan somasi terbuka kepada Muhammad Said Didu dan Sri Radjasa Chandra (Surat No. 01/Somasi/DPP-Bakumham/11/2026, tertanggal 9 November 2026) atas narasi yang mengaitkan Bahlil dengan kasus penyadapan; keduanya diberi tenggat 3×24 jam untuk mencabut pernyataan, meminta maaf secara terbuka, dan menurunkan konten terkait. Said Didu membantah pernah menyebut atau menuduh Bahlil dalam siniar yang dipersoalkan (11 November 2026). Tiga hari sebelumnya, 7 November 2026, Bahlil melantik pengurus DPD Golkar Maluku (ketua Umar Ali Lessy, masa bakti 2025–2030) di Ambon dan menegaskan loyalitas Golkar kepada Presiden Prabowo — "Golkar memang dalam sejarahnya tidak pernah ada oposisi" — sambil menargetkan konsolidasi hingga tingkat desa selesai pada Desember 2026, merebut kembali kursi DPR RI dari Maluku, dan elektrifikasi seluruh desa di Maluku pada 2029–2030.
 
+Poster Munaslub itu beredar sejak 5 November 2026 di media sosial dan grup WhatsApp — tanpa penanggung jawab, panitia, maupun surat resmi partai — dengan jadwal Minggu, 29 November 2026 di Hotel Mercure Convention Center Ancol, Jakarta, dan narasi "Selamatkan Partai Golkar dari Gank Solo". Bantahan datang berlapis: Sarmuji menyebut poster itu "hoaks semata" pada 7 November 2026; Ahmad Doli Kurnia dalam pernyataan tertulis hari yang sama menyatakan tidak ada kaitannya dan tidak tahu-menahu soal penyebaran poster, menegaskan hubungannya dengan Bahlil harmonis, dan menyebut ada pihak yang berupaya memperkeruh suasana demi keuntungan politik; Ketua DPD Golkar Jawa Barat Daniel Mutaqien menyebut isu itu "100 persen hoax"; dan Pemerintah Provinsi Jawa Tengah (11 November 2026) menyatakan klaim poster tersebut hoaks. Bahlil sendiri, di Ambon pada 7 November 2026, menyebut poster itu hoaks dan "isu murahan untuk mengguncang legitimasi Partai Golkar", sekaligus membantah keterlibatan dalam penyadapan — "Tidak hanya kepala negara yang disadap, saya pun disadap" — dan memberi ultimatum somasi 3×24 jam kepada para penuduh.
+
+Somasi itu disampaikan secara terbuka oleh Bakumham DPP Golkar dalam konferensi pers di Kantor DPP Golkar, Slipi, pada 10 November 2026 — tepat saat berakhirnya tenggat ultimatum Bahlil — dengan tenggat baru 3×24 jam untuk mencabut pernyataan, menurunkan konten, dan meminta maaf secara terbuka kepada Bahlil, pengurus, kader, dan simpatisan Golkar. Tiga narasi yang dipersoalkan: Bahlil terlibat dalam penyadapan terhadap Presiden Prabowo; Bahlil menghadiri pertemuan dengan sejumlah jenderal sekitar tiga jam sebelum penangkapan tersangka; dan Bahlil melakukan kriminalisasi dalam proses memperoleh jabatan ketua umum. Somasi itu mencantumkan Pasal 27A juncto Pasal 45 ayat (4) UU ITE serta Pasal 433 ayat (1) dan Pasal 434 ayat (1) KUHP, dan Bakumham menyatakan akan melapor ke polisi bila somasi tidak diindahkan — rencana laporan polisi yang semula disiapkan untuk Selasa pagi itu ditunda atas arahan Bahlil agar somasi didahulukan. Said Didu menanggapi pada 11 November 2026 bahwa somasi itu "salah alamat dan salah substansi": ia mengaku tidak pernah menyebut atau menuduh Bahlil dalam siniar yang dipersoalkan, dan menilai pernyataannya adalah produk pers sehingga penyelesaiannya seharusnya melalui Dewan Pers, bukan jalur hukum.
+
 ## Batas data
 
 - **Bingkai sumber yang satu sisi:** kelima artikel soehartois.com menyajikan Golkar dari sisi keberhasilan dan stabilitas semata; sisi koersif kemenangan pemilu (mobilisasi aparatur, pembatasan oposisi) tidak disebut di sana dan ditambahkan di halaman ini dari [[hub/pemilu-orde-baru|Pemilu-pemilu Orde Baru]] serta penelitian pemilu Orde Baru.
@@ -123,6 +145,8 @@ Pada November 2026, Golkar menghadapi dua tekanan sekaligus: penyidikan dugaan p
 - **Tahun pendirian sayap-sayap belakangan** (AMPG, KPPG, MDI, HWK, Al-Hidayah, GPR) tidak terdokumentasi dalam sumber yang dipakai; hanya Trikarya pendiri yang diberi tahun.
 - **Klaim "menciptakan Golkar":** seperti dicatat di halaman [[aktor/soeharto|Soeharto]], Soeharto tidak menciptakan Golkar — Sekber Golkar didirikan 1964, sebelum Orde Baru; yang dilakukan Soeharto (melalui Ali Murtopo) adalah mengubahnya menjadi mesin pemilu.
 - **Hasil Pemilu 2019 dan 2024** dari rekapitulasi resmi KPU (Keputusan KPU No. 987/PL.01.8-KPT/06/KPU/V/2019; rekapitulasi 2024 pascaputusan PHPU MK, 6 Juni 2024).
+- **Nomor surat somasi Bakumham:** media mengutip nomornya secara berbeda — "01/Somasi/DPP-Bakumham/11/2026" (tertanggal 9 November 2026) dan "01/SOM/PP-BAKUMHAM/XI/2026" (konferensi pers 10 November 2026). Halaman ini memakai keduanya sebagaimana dikutip sumbernya masing-masing, tanpa memutuskan mana yang benar; yang terverifikasi adalah isi somasi dan tanggal penyampaiannya.
+- **Laporan polisi lanjutan:** hingga 26 November 2026 tidak ditemukan kabar bahwa Bakumham Golkar benar-benar melaporkan Said Didu dan Sri Radjasa ke polisi setelah tenggat somasi berakhir — yang tercatat baru ancaman untuk melapor dan menginstruksikan DPD provinsi/kabupaten/kota mengawal proses hukum.
 
 ## Sumber
 
@@ -144,6 +168,12 @@ Pada November 2026, Golkar menghadapi dua tekanan sekaligus: penyidikan dugaan p
 - "Skandal Penyadapan dan Gejolak Golkar: Ketika Loyalitas kepada Presiden Menguji Kemandirian Partai", Majalah Editor (Nov 2026) — pamflet Munaslub 29 Nov 2026, Bahlil mengaku korban intersepsi, Sarmuji sebut narasi Munaslub hoaks: https://majalaheditor.com/skandal-penyadapan-dan-gejolak-golkar-ketika-loyalitas-kepada-presiden-menguji-kemandirian-partai/
 - "Golkar Somasi Said Didu dan Sri Radjasa soal Isu Ketum Terlibat Penyadapan", Detikcom (10 Nov 2026): https://lapor.co.id/berita/golkar-somasi-said-didu-dan-sri-radjasa-soal-isu-ketum-terlibat-penyadapan
 - "Penyadapan Prabowo, Golkar Somasi Said Didu dan Sri Rajasa", Berita Prioritas (11 Nov 2026) — Said Didu membantah menuduh Bahlil: https://beritaprioritas.com/penyadapan-prabowo-golkar-somasi-said-didu-dan-sri-rajasa/
+- "Bahlil Bantah Terlibat Dugaan Penyadapan Prabowo dan Siap Layangkan Somasi", Lidik.id (7 Nov 2026) — Bahlil mengaku turut disadap, ultimatum somasi 3×24 jam: https://lidik.id/bahlil-bantah-terlibat-dugaan-penyadapan-prabowo-dan-siap-layangkan-somasi
+- "Poster Munaslub Golkar Dinyatakan Hoaks, Bahlil Ultimatum 3×24 Jam", Boyolali.net (7 Nov 2026) — poster beredar sejak 5 Nov, tanpa penanggung jawab/panitia/surat resmi; Sarmuji "hoaks semata": https://boyolali.net/poster-munaslub-golkar-dinyatakan-hoaks-bahlil-ultimatum-3x24-jam/
+- "[HOAKS] Poster Munaslub Golkar yang Mencatut Nama Ahmad Doli Kurnia Tanjung", Pemerintah Provinsi Jawa Tengah (11 Nov 2026): https://jatengprov.go.id/padhang-nasional/hoaks-poster-munaslub-golkar-yang-mencatut-nama-ahmad-doli-kurnia-tanjung/
+- "Golkar Somasi Said Didu dan Sri Radjasa, Beri Tenggat 3×24 Jam soal Tuduhan Penyadapan Prabowo", Sumbarsatu (10 Nov 2026) — konferensi pers Bakumham, tiga narasi yang dipersoalkan, dasar hukum UU ITE & KUHP: https://sumbarsatu.com/berita/35925-golkar-somasi-said-didu-dan-sri-radjasa-beri-tenggat-3x24-jam-soal-tuduhan-penyadapan-prabowo
+- "Golkar Resmi Somasi Said Didu dan Sri Radjasa, Minta Konten Diturunkan dalam 3×24 Jam", Pintoe.co (10 Nov 2026) — rencana laporan polisi ditunda, somasi didahulukan: https://pintoe.co/berita/read/12931/Golkar-Resmi-Somasi-Said-Didu-dan-Sri-Radjasa-Minta-Konten-Diturunkan-dalam-324-Jam
+- "Golkar Somasi Said Didu soal Penyadapan Prabowo, Malah Direspons Salah Alamat dan Salah Substansi", Indonesia Online (11 Nov 2026) — tanggapan Said Didu, mekanisme Dewan Pers: https://indonesiaonline.co.id/golkar-somasi-said-didu-soal-penyadapan-prabowo-malah-direspons-salah-alamat-dan-salah-substansi/
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
 
 Lihat juga: [[hub/pemilu-orde-baru|Pemilu-pemilu Orde Baru]] · [[hub/orde-baru|Orde Baru]] · [[aktor/soeharto|Soeharto]] · [[konsep/glosarium-istilah-orde-baru#Demokrasi Pancasila|Demokrasi Pancasila]]
