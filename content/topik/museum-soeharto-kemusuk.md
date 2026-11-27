@@ -2,8 +2,8 @@
 title: "Museum Soeharto Kemusuk"
 description: "Museum Memorial Jenderal Besar Soeharto di Dusun Kemusuk, Bantul — dibangun keluarga Soeharto di tanah kelahirannya dan diresmikan 8 Juni 2013."
 date: 2013-06-08
-updated: 2026-11-20
-last_updated: "2026-11-20"
+updated: 2026-11-27
+last_updated: "2026-11-27"
 entity_type: topik
 entity_id: "museum-soeharto-kemusuk"
 aliases:
@@ -41,6 +41,9 @@ sumber:
   - url: https://www.kesatriyanjogja.com/blog/museum-memorial-jenderal-besar-hm-soeharto-di-bantul-wisata-sejarah-di-kampung-kemusuk
     judul: "Museum Memorial Jenderal Besar HM Soeharto di Bantul — Kesatriyan Jogja (jam buka versi Wajib Kunjung Museum DIY)"
     tanggal: 2026-11-20
+  - url: https://lintastidarnews.id/antusiasme-warga-magelang-kunjungi-museum-soeharto-napak-tilas-perjalanan-anak-desa-hingga-presiden-ri/
+    judul: "Antusiasme Warga Magelang Kunjungi Museum Soeharto, Napak Tilas Perjalanan Anak Desa hingga Presiden RI — Lintas Tidar News (25 Okt 2026)"
+    tanggal: 2026-11-27
 relasi:
   - predikat: terkait_dengan
     objek: "Soeharto"
@@ -84,6 +87,7 @@ Museum ini dibangun bukan oleh negara, melainkan oleh keluarga — di tanah kelu
 
 - **5 Juni 2026 — Menteri Kebudayaan Fadli Zon meninjau museum.** Fadli Zon mendorong penguatan museum-museum tokoh bangsa sebagai ruang pembelajaran yang hidup — museum tidak hanya menyimpan benda bersejarah, tetapi harus menghadirkan pengalaman belajar yang relevan bagi generasi muda. Menurut laporan kunjungan itu, dokumentasi peran Soeharto sebagai Kepala Wehrkreise III pada Agresi Militer Belanda II dan Serangan Umum 1 Maret 1949 menjadi salah satu daya tarik utama museum.
 - **Juni 2026 — museum memperingati hari jadi ke-13** (diresmikan 8 Juni 2013). Laporan Oktober 2026 mencatat kunjungan terus meningkat — dari turis lokal sampai mancanegara — dan perhatian publik bertambah setelah Soeharto ditetapkan sebagai Pahlawan Nasional; angka kunjungan terbarunya tidak disebutkan, sehingga halaman ini tidak memakai angka baru.
+- **25 Oktober 2026 — rombongan warga Magelang.** Sekitar 40 warga dari Kota Magelang, Grabag, Secang, dan sekitarnya berkunjung dengan satu bus, menyimak perjalanan Soeharto dari masa kecil di desa, perjuangan sebagai prajurit, hingga kiprahnya sebagai presiden — contoh konkret kunjungan rombongan pasca-penetapan gelar Pahlawan Nasional, setelah laporan Oktober 2026 mencatat kunjungan terus meningkat dari turis lokal sampai mancanegara. Angka kunjungan terbaru per bulan tidak disebutkan, sehingga halaman ini tetap memakai angka Mei 2026 (±5.000/bulan).
 - **15 November 2026 — ziarah Hari Pahlawan di Makam Somenggalan.** Dewan Kerja Pramuka Penegak dan Pandega Ranting Sedayu berziarah ke Makam Somenggalan — kompleks makam yang dibangun Probosutedjo beserta Monumen Jenderal Besar Soeharto di Kemusuk — dipandu Kepala Pengelola Museum Soeharto dan Makam Somenggalan, Gatot Nugroho, yang menceritakan agresi militer Belanda terhadap warga. Kegiatan ini menunjukkan museum dan kompleks makamnya dipakai sebagai tempat peringatan di luar kunjungan wisata biasa.
 
 ## Batas data
@@ -110,5 +114,6 @@ Museum ini dibangun bukan oleh negara, melainkan oleh keluarga — di tanah kelu
 - "Museum Soeharto Bantul Ramai Pengunjung Usai Ditetapkan Jadi Pahlawan Nasional", Rakyat Merdeka News, 25 Okt 2026 — hari jadi ke-13 (Jun 2026) dan peningkatan kunjungan pasca-gelar pahlawan: https://rakyatmerdekanews.co.id/museum-soeharto-bantul-ramai-pengunjung-usai-ditetapkan-jadi-pahlawan-nasional/
 - "Peringati Hari Pahlawan 2026, DKR Sedayu Ziarah ke Makam Somenggalan", Pramuka Jogja, 15 Nov 2026: https://pramukajogja.or.id/peringati-hari-pahlawan-2026-dkr-sedayu-ziarah-ke-makam-somenggalan/
 - "Museum Memorial Jenderal Besar HM Soeharto di Bantul, Wisata Sejarah di Kampung Kemusuk", Kesatriyan Jogja — jam buka versi Wajib Kunjung Museum DIY (Senin–Sabtu 08.00–16.00): https://www.kesatriyanjogja.com/blog/museum-memorial-jenderal-besar-hm-soeharto-di-bantul-wisata-sejarah-di-kampung-kemusuk
+- "Antusiasme Warga Magelang Kunjungi Museum Soeharto, Napak Tilas Perjalanan Anak Desa hingga Presiden RI", Lintas Tidar News, 25 Okt 2026 — rombongan ±40 warga Magelang, satu bus: https://lintastidarnews.id/antusiasme-warga-magelang-kunjungi-museum-soeharto-napak-tilas-perjalanan-anak-desa-hingga-presiden-ri/
 
 Lihat juga: [[aktor/soeharto|Soeharto]] · [[hub/warisan-orde-baru|Warisan Orde Baru]] · [[hub/orde-baru|Orde Baru]]
