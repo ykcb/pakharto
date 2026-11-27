@@ -2,8 +2,8 @@
 title: "Kelompencapir"
 description: "Kelompok Pendengar, Pembaca, dan Pemirsa (Kelompencapir): program penyuluhan pertanian Departemen Penerangan yang mempertemukan petani dan nelayan dengan penyuluh, menteri, bahkan Presiden — lewat radio, televisi, dan lomba cerdas cermat."
 date: 1984-06-18
-updated: 2026-11-20
-last_updated: "2026-11-20"
+updated: 2026-11-27
+last_updated: "2026-11-27"
 entity_type: topik
 entity_id: "kelompencapir"
 aliases:
@@ -39,6 +39,15 @@ sumber:
   - url: https://journals.mindamas.com/index.php/susurgalur/article/download/1362/1180
     judul: "Kedudukan dan Peranan Politik Harmoko pada Masa Orde Baru, 1983–1999 — SUSURGALUR 8(1), 2020 (Harmoko membangun Kelompencapir)"
     tanggal: 2026-11-20
+  - url: https://bppsdmp.pertanian.go.id/post/berita/penguatan-sistem-informasi-penyuluhan-kementan-dorong-seluruh-penyuluh-tergabung-dalam-kelompencapi
+    judul: "Penguatan Sistem Informasi Penyuluhan, Kementan Dorong Seluruh Penyuluh Tergabung dalam Kelompencapir Digital — BPPSDMP Kementan (rakor 14 Mar 2026)"
+    tanggal: 2026-11-27
+  - url: https://kominfo.slemankab.go.id/pemkab-sleman-perkuat-ketahanan-daerah-melalui-inovasi-digital-pangan-dan-pemuda/
+    judul: "Pemkab Sleman Perkuat Ketahanan Daerah Melalui Inovasi Digital, Pangan, dan Pemuda — Kominfo Sleman (HPS 2026, Lomba Kelompencapir antar-kapanewon)"
+    tanggal: 2026-11-27
+  - url: https://ketik.com/sleman/daerah/peringatan-hari-pangan-sedunia-2026-di-sleman-siap-digelar-wadahi-inovasi-kuliner-lokal-hingga-lomba-kelompencapir
+    judul: "Peringatan Hari Pangan Sedunia 2026 di Sleman Siap Digelar, Wadahi Inovasi Kuliner Lokal hingga Lomba Kelompencapir — Ketik (Okt 2026)"
+    tanggal: 2026-11-27
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -79,6 +88,8 @@ Sebaliknya, nasib program ini juga menunjukkan batasnya: Kelompencapir sepenuhny
 | Program sejenis di TVRI | Desa ke Desa, Petani Menjawab, Menteri Pertanian Menjawab, Kotak Pos |
 | Berakhir | Memudar setelah Reformasi 1998; Departemen Penerangan dibubarkan 26 Oktober 1999 oleh Presiden Abdurrahman Wahid, fungsinya dialihkan ke Badan Informasi dan Komunikasi Nasional (BIKN, Keppres 153/1999) |
 | Kelanjutan | Kelompok Informasi Masyarakat (KIM) di bawah Dishubkominfo — diharapkan lebih demokratis dan bottom-up, tetapi perkembangannya tersendat karena masyarakat masih "alergi" pada yang berbau Orde Baru |
+| Kelompencapir Digital | 2026: Kementerian Pertanian mendorong ±35–38 ribu penyuluh pertanian tergabung dalam Kelompencapir Digital — sistem komunikasi dan pelaporan penyuluhan berbasis teknologi (rakor 14 Mar 2026, Bogor) |
+| Lomba Kelompencapir | 21 Okt 2026: Lomba Kelompencapir antar-kapanewon dalam peringatan Hari Pangan Sedunia tingkat Kabupaten Sleman (±500 peserta) |
 | Program terkait | Koran Masuk Desa (KMD) — koran masuk desa untuk mengatasi buta huruf, gagasan Harmoko di era yang sama |
 
 ## Penilaian
@@ -91,6 +102,12 @@ Peneliti ISEAS Made Supriatma (2024) mencatat sisi yang sama dari sudut berbeda:
 
 Setelah Departemen Penerangan dibubarkan, fungsi Kelompencapir diteruskan dalam bentuk baru: Kelompok Informasi Masyarakat (KIM), yang dibentuk di bawah koordinasi Dinas Perhubungan, Komunikasi dan Informatika (Dishubkominfo) daerah. Menurut jurnal pengabdian masyarakat Universitas Katolik Widya Mandala Surabaya (Wenny Wijayanti dkk.), KIM pada zaman Orde Baru dikenal sebagai Kelompencapir — bedanya, KIM diharapkan menjadi lembaga masyarakat yang lebih demokratis dan bersifat bottom-up, bukan sekadar corong pemerintah. Namun peralihan itu tersendat: masyarakat masih "alergi" dengan segala yang berbau Orde Baru, apalagi yang berkaitan dengan Departemen Penerangan yang sudah dilikuidasi, sehingga pembentukan dan kegiatan KIM kurang ditanggapi positif dan perkembangannya melambat. [Inferensi: nama boleh berganti, tetapi ingatan atas lembaga lamanya ikut menentukan nasib lembaga barunya — KIM mewarisi fungsi Kelompencapir sekaligus beban citranya.]
 
+## Kelanjutan 2026: Kelompencapir Digital dan lomba cerdas cermat
+
+Nama Kelompencapir muncul kembali pada 2026 dalam dua bentuk yang berbeda. Pertama, **Kelompencapir Digital** di Kementerian Pertanian: dalam rapat koordinasi di Bogor pada Sabtu, 14 Maret 2026, Kementerian Pertanian (Kementan) mendorong seluruh penyuluh pertanian di Indonesia — sekitar 35 hingga 38 ribu orang — tergabung dalam Kelompencapir Digital, sistem komunikasi dan pelaporan penyuluhan berbasis teknologi. Menteri Pertanian Andi Amran Sulaiman menekankan sistem ini dipakai untuk mempercepat penyebaran informasi teknologi budidaya, penggunaan pupuk, pengendalian hama-penyakit, dan kebijakan pemerintah kepada petani melalui kelembagaan kelompok tani dan penyuluh; Kepala BPPSDMP Idha Widi Arsanti menyebut penyuluh sebagai fasilitator utamanya, yang mendampingi petani mengakses informasi dan memanfaatkan teknologi digital. Pelaporan berjalan berjenjang — dari tingkat bawah ke Balai Penyuluhan Pertanian (BPP), lalu kabupaten, hingga pusat — dan kemampuan penyuluh menyampaikan informasi kepada petani direncanakan menjadi salah satu indikator kinerja utama dengan bobot sekitar 30 hingga 40 persen. [Inferensi: nama Kelompencapir yang lahir sebagai forum tatap muka kini dipakai ulang untuk jaringan digital penyuluh — fungsinya sama, menyebarkan informasi pertanian, medianya berganti dari radio dan temu wicara menjadi grup pesan dan aplikasi; yang belum terjawab adalah apakah petani ikut di dalam jaringannya atau hanya penyuluh.]
+
+Kedua, **lomba cerdas cermat** yang memakai nama lamanya: dalam peringatan Hari Pangan Sedunia (HPS) 2026 tingkat Kabupaten Sleman pada Rabu, 21 Oktober 2026 di halaman Dinas Pertanian, Pangan, dan Perikanan Sleman, digelar Lomba Kelompencapir antar-kapanewon — lomba adu cerdas, cermat, dan tangkas yang menguji pengetahuan, kekompakan, serta pemahaman penyuluh dan kelompok tani mengenai teknologi pertanian modern dan ketahanan pangan, diikuti sekitar 500 peserta dari petani, kelompok tani, kelompok wanita tani, gabungan kelompok tani, dan Desa Mandiri Pangan.
+
 ## Batas data
 
 - Artikel soehartois.com tentang Kelompencapir tidak memberi tanggal; tanggal 1978 dan 18 Juni 1984 di halaman ini berasal dari buku Sejarah Indonesia SMA Kelas XII dan catatan kontemporer.
@@ -98,6 +115,8 @@ Setelah Departemen Penerangan dibubarkan, fungsi Kelompencapir diteruskan dalam 
 - Klaim artikel bahwa manfaat program "masih terasa hingga sekarang" tidak terverifikasi: programnya sendiri berakhir bersama Departemen Penerangan; yang tersisa adalah ingatan dan praktiknya, bukan lembaganya.
 - **Klaim Harmoko sebagai "pendiri" Kelompencapir** (Supriatma, 2024) tidak dimasukkan sebagai fakta: program diperkenalkan 1978, sementara Harmoko baru menjadi Menteri Penerangan pada 1983 — peran pastinya pada fase awal belum terverifikasi; yang terdokumentasi adalah formalisasi program lewat Kepmenpen No. 110/Kep/Menpen/1984 di masa jabatannya. Beberapa sumber lain justru menyebut Harmoko sebagai penggagasnya — Bimas Islam Kemenag menulis "Ia menggagas Kelompencapir … dan mengadakan lomba Kelompencapir sampai tingkat nasional"; jurnal SUSURGALUR (2020) menyebut Harmoko "membangun institusi baru di tengah masyarakat desa, yaitu KELOMPENCAPIR"; tesis UPI (2016) menyebut ia "menciptakan Kelompencapir". Ketiganya tidak menjelaskan tanggal 1978, sehingga konflik dengan tanggal perkenalan program tetap terbuka: yang terverifikasi adalah peran Harmoko pada formalisasi 1984 dan lomba tingkat nasional, bukan pada fase perkenalan 1978.
 - **Tanggal pembubaran Departemen Penerangan** kini dicatat 26 Oktober 1999 — departemen itu tidak dicantumkan dalam susunan Kabinet Persatuan Nasional (Keppres 355/M/1999); penggantinya, BIKN, dibentuk 7 Desember 1999 (Keppres 153/1999).
+- **Kelompencapir Digital bukan kelanjutan lembaga yang sama:** menurut Kementan, yang tergabung adalah penyuluh pertanian (±35–38 ribu orang), bukan kelompok petani/nelayan/peternak seperti Kelompencapir 1978–1984. Halaman ini mencatatnya sebagai kelanjutan nama dan fungsi penyuluhan, bukan kelanjutan lembaganya.
+- **Rencana RRI–Pemkab Rembang (2026) yang mengadopsi konsep Kelompencapir** tidak dimasukkan: tanggal beritanya (31 Januari) belum terverifikasi tahunnya dari sumber yang tersedia.
 
 ## Sumber
 
@@ -111,6 +130,9 @@ Setelah Departemen Penerangan dibubarkan, fungsi Kelompencapir diteruskan dalam 
 - "Menpen Harmoko, Sumbangsihnya di Bidang Keagamaan", Bimas Islam, Kementerian Agama — Harmoko menggagas Kelompencapir dan lomba tingkat nasional: https://bimasislam.kemenag.go.id/artikel/menpen-harmoko-sumbangsihnya-di-bidang-keagamaan
 - "Kedudukan dan Peranan Politik Harmoko pada Masa Orde Baru, 1983–1999", SUSURGALUR: Jurnal Kajian Sejarah & Pendidikan Sejarah 8(1), Maret 2020 — Harmoko membangun Kelompencapir: https://journals.mindamas.com/index.php/susurgalur/article/download/1362/1180
 - Gina Siti Rahmah, "Kiprah Politik Harmoko pada Masa Orde Baru melalui Analisis Biografi (1983–1999)", Universitas Pendidikan Indonesia, 2016 — Kelompencapir dan Koran Masuk Desa (KMD): http://repository.upi.edu/23931/8/S_SEJ_1205113_Chapter5.pdf
+- "Penguatan Sistem Informasi Penyuluhan, Kementan Dorong Seluruh Penyuluh Tergabung dalam Kelompencapir Digital", BPPSDMP Kementerian Pertanian — rakor 14 Mar 2026, ±35–38 ribu penyuluh, pelaporan berjenjang BPP–kabupaten–pusat: https://bppsdmp.pertanian.go.id/post/berita/penguatan-sistem-informasi-penyuluhan-kementan-dorong-seluruh-penyuluh-tergabung-dalam-kelompencapi
+- "Pemkab Sleman Perkuat Ketahanan Daerah Melalui Inovasi Digital, Pangan, dan Pemuda", Kominfo Kabupaten Sleman — HPS 2026, Lomba Kelompencapir antar-kapanewon, 21 Okt 2026: https://kominfo.slemankab.go.id/pemkab-sleman-perkuat-ketahanan-daerah-melalui-inovasi-digital-pangan-dan-pemuda/
+- "Peringatan Hari Pangan Sedunia 2026 di Sleman Siap Digelar, Wadahi Inovasi Kuliner Lokal hingga Lomba Kelompencapir", Ketik, Okt 2026 — ±500 peserta, Lomba Kelompencapir antar-kapanewon: https://ketik.com/sleman/daerah/peringatan-hari-pangan-sedunia-2026-di-sleman-siap-digelar-wadahi-inovasi-kuliner-lokal-hingga-lomba-kelompencapir
 - Arsip Pidato dan Dokumen Pembangunan, soehartolibrary.id: https://soehartolibrary.id/
 
 Lihat juga: [[hub/kehidupan-rakyat|Kehidupan Rakyat dan Pembangunan Sosial]] · [[hub/repelita|Repelita]] · [[hub/warisan-orde-baru|Warisan Orde Baru]]
