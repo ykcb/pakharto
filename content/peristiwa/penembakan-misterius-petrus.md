@@ -2,8 +2,8 @@
 title: "Penembakan Misterius (Petrus) 1982–1985"
 description: "Operasi Pemberantasan Kejahatan (1982–1985): penindakan tegas terhadap preman dan residivis yang menurunkan kriminalitas jalanan secara drastis — dengan metode di luar proses peradilan yang oleh Komnas HAM (2012) dikategorikan pelanggaran HAM berat masa lalu."
 date: 1982-08-01
-updated: 2026-11-19
-last_updated: "2026-11-19"
+updated: 2026-11-26
+last_updated: "2026-11-26"
 entity_type: peristiwa
 entity_id: "penembakan-misterius-petrus"
 aliases:
@@ -44,6 +44,15 @@ sumber:
   - url: https://www.korankota.co.id/v151/t502/83947/presiden-prabowo-siapkan-keppres-dan-inpres-pemulihan-hak-korban-pelanggaran-ham-berat
     judul: "Presiden Prabowo Siapkan Keppres dan Inpres Pemulihan Hak Korban Pelanggaran HAM Berat (14 Februari 2025)"
     tanggal: 2025-02-14
+  - url: https://kumham-imipas.go.id/ruang-berita/berita-list/percepat-penyelesaian-pelanggaran-ham-yang-berat-menko-yusril-dorong-pembentukan-pokja
+    judul: "Kemenko Kumham Imipas (9 Nov 2026), 'Percepat Penyelesaian Pelanggaran HAM yang Berat, Menko Yusril Dorong Pembentukan Pokja' — sumber primer pembentukan pokja (opsi supervisi Kejagung atas penyelidikan Komnas HAM) [TERVERIFIKASI 2026-11-26]"
+    tanggal: 2026-11-26
+  - url: https://indowarta.com/107627-rakor-menteri-soal-ham-berat-13-peristiwa-belum-tuntas-pokja-baru-dibentuk
+    judul: "IndoWarta (10 Nov 2026), 'Rakor Menteri soal HAM Berat: 13 Peristiwa Belum Tuntas, Pokja Baru Dibentuk' — rapat 9 Nov tidak mengumumkan tenggat/target pokja [TERVERIFIKASI 2026-11-26]"
+    tanggal: 2026-11-26
+  - url: https://mohammadidris.id/pigai-koordinasi-ham-inpres-korban/
+    judul: "Mohammad Idris (19 Nov 2026), 'Pigai Soroti Koordinasi HAM dan Siapkan Inpres Pemulihan Korban' — RDP Komisi XIII DPR 17–18 Nov 2026: draf revisi Inpres 2/2023 tinggal menunggu tanda tangan Presiden [TERVERIFIKASI 2026-11-26]"
+    tanggal: 2026-11-26
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -126,10 +135,14 @@ Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh w
 
 ### 2026-11-09
 - Pemerintah membentuk kelompok kerja lintas lembaga yang dipimpin Wakil Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Otto Hasibuan untuk mengurai hambatan penanganan 13 kasus dugaan pelanggaran HAM berat masa lalu — termasuk penembakan misterius — yang berkasnya tertahan antara penyelidikan Komnas HAM dan penyidikan Kejaksaan Agung. Menurut Menko Kumham Imipas Yusril Ihza Mahendra, 4 dari 17 kasus sudah diproses melalui pengadilan, sedangkan 13 lainnya belum menemukan titik terang.
+- Salah satu opsi yang dikaji pokja, menurut Otto Hasibuan, adalah pelibatan personel Kejaksaan Agung sebagai supervisor dalam penyelidikan Komnas HAM, agar aspek pembuktian, kriminologi, dan penafsiran kualifikasi pelanggaran HAM berat terpenuhi sejak tahap penyelidikan. Rapat 9 November itu tidak mengumumkan tenggat kerja maupun target jumlah perkara untuk pokja.
 - Pada malam harinya, Anggota Komnas HAM Amiruddin menyatakan lembaganya sama sekali tidak terlibat dalam pembentukan pokja itu dan menolak bergabung: sebagai lembaga negara mandiri (UU No. 39 Tahun 1999) Komnas HAM bukan bagian dari kerja-kerja eksekutif, pembentukan pokja tidak pernah dibahas dalam Rapat Paripurna Komnas HAM, dan penyelidikan atas 13 kasus tersebut sudah selesai — berkasnya telah diserahkan kepada Jaksa Agung, yang berwenang menindaklanjutinya lewat penyidikan (UU No. 26 Tahun 2000). Menko Yusril menanggapi pada malam yang sama bahwa tim koordinasi tidak bermaksud mencampuri independensi Komnas HAM dan Kejaksaan Agung, melainkan menyamakan persepsi, standar, dan prosedur penyelidikan–penyidikan.
 
 ### 2026-11-13
 - Anggota Komisi XIII DPR RI dari Fraksi PKB, Mafirion Syamsuddin Rogo, menilai penolakan Komnas HAM untuk terlibat dalam pokja penyelesaian 13 kasus pelanggaran HAM berat masa lalu "kurang tepat" — Komnas HAM memiliki posisi strategis karena berdasarkan UU No. 26 Tahun 2000 berwenang menyelidiki dugaan pelanggaran HAM berat.
+
+### 2026-11-17
+- Dalam rapat kerja Komisi XIII DPR (17–18 November 2026), Menteri HAM Natalius Pigai menyampaikan perkembangan draf revisi Inpres No. 2 Tahun 2023 tentang pemulihan korban 12 peristiwa pelanggaran HAM berat masa lalu — termasuk Petrus: draf telah diselesaikan Kementerian HAM enam bulan sebelumnya dan diserahkan ke Istana lima bulan sebelumnya; setelah harmonisasi yang dikoordinasikan Menko Kumham Imipas Yusril Ihza Mahendra, rancangan itu tinggal diserahkan kepada Kementerian Sekretariat Negara untuk ditandatangani Presiden. Pigai meminta 12 kasus yang sudah diproses pada era Presiden Joko Widodo — termasuk Petrus — tidak dipersoalkan lagi karena sudah melalui mekanisme keadilan restoratif, dan jalur yudisial hanya untuk lima kasus lainnya. Dalam rapat yang sama Pigai juga menyampaikan bahwa Kementerian HAM, Kementerian Imigrasi, dan Kementerian Hukum tidak pernah menerima undangan rapat koordinasi dari Menko Kumham Imipas selama dua tahun tiga bulan masa jabatannya.
 
 ## Aktor yang terlibat
 - [[aktor/soeharto|Soeharto]] — Presiden RI yang memberikan mandat operasi pemulihan ketertiban umum dan mengakui operasi terapi kejut dalam memoar resminya.
@@ -148,6 +161,9 @@ Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh w
 - **Komnas HAM menolak bergabung dalam pokja (9 November 2026)** — https://lapor.co.id/berita/alasan-komnas-ham-tolak-masuk-pokja-tangani-13-kasus-pelanggaran-berat — Amiruddin: Komnas HAM lembaga negara mandiri (UU No. 39 Tahun 1999), tidak dilibatkan dalam pembentukan pokja; penyelidikan 13 kasus sudah selesai dan berkas diserahkan ke Jaksa Agung.
 - **Yusril: tim koordinasi tak campuri independensi Komnas HAM–Kejagung (9 November 2026)** — https://lapor.co.id/berita/yusril-tim-koordinasi-tak-campuri-independensi-komnas-ham-kejagung
 - **Mafirion (Komisi XIII DPR, FPKB): penolakan Komnas HAM keliru (13 November 2026)** — https://www.fraksipkb.com/2026/11/13/mafirion-penolakan-komnas-ham-terlibat-dalam-pokja-penyelesaian-13-kasus-pelanggaran-ham-berat-masa-lalu-keliru/
+- **Kemenko Kumham Imipas (9 November 2026), "Percepat Penyelesaian Pelanggaran HAM yang Berat, Menko Yusril Dorong Pembentukan Pokja"** — https://kumham-imipas.go.id/ruang-berita/berita-list/percepat-penyelesaian-pelanggaran-ham-yang-berat-menko-yusril-dorong-pembentukan-pokja — sumber primer pembentukan pokja 9 November 2026; opsi supervisi Kejagung atas penyelidikan Komnas HAM; 4 dari 17 kasus sudah diadili (Timor Timur, Tanjung Priok, Abepura, Paniai).
+- **IndoWarta (10 November 2026), "Rakor Menteri soal HAM Berat: 13 Peristiwa Belum Tuntas, Pokja Baru Dibentuk"** — https://indowarta.com/107627-rakor-menteri-soal-ham-berat-13-peristiwa-belum-tuntas-pokja-baru-dibentuk — rapat 9 November tidak mengumumkan tenggat kerja maupun target jumlah perkara pokja.
+- **Mohammad Idris (19 November 2026), "Pigai Soroti Koordinasi HAM dan Siapkan Inpres Pemulihan Korban"** — https://mohammadidris.id/pigai-koordinasi-ham-inpres-korban/ — RDP Komisi XIII DPR 17–18 November 2026: draf revisi Inpres 2/2023 tinggal menunggu tanda tangan Presiden; posisi Pigai soal 12 kasus era Jokowi; keluhan minim koordinasi Menko.
 - **Kontras (2002), hitungan korban tewas terdokumentasi — dikutip dalam makalah FH Universitas Palangka Raya (2023)** — https://id.scribd.com/document/699674355/Makalah-Ham-Sevita-1 — 532 tewas (1983), 107 (1984), 74 (1985).
 - **David Bourchier (1990):** *Crime, Law and State Authority in Indonesia* dalam *State and Civil Society in Indonesia* (ed. Arief Budiman, Monash Papers on Southeast Asia No. 22, hlm. 177–212).
 - **Julius Pour (1993):** *Benny Moerdani: Profil Prajurit Negarawan* (Yayasan Kejuangan Panglima Besar Sudirman).
@@ -161,3 +177,4 @@ Pelajaran ketiganya adalah soal cara. Ketegasan yang dirasakan manfaatnya oleh w
 ## Catatan presisi
 - **Motif Politik Pemilu 1982:** Sejumlah sejarawan politik menemukan bukti bahwa sebelum dihabisi pada 1983, kelompok-kelompok preman dan gali di kota-kota besar (seperti kelompok Bapora dan Ali Sadikin supporters) sempat dimanfaatkan oleh faksi militer dan partai politik selama masa kampanye Pemilu 1982. Pembersihan massal ini juga berfungsi menyingkirkan elemen massa liar bersenjata yang sulit dikendalikan oleh hierarki komando ABRI.
 - **Hitungan korban yang terdokumentasi:** Kontras (2002) mencatat korban tewas Petrus di seluruh Indonesia sebanyak 532 orang pada 1983, 107 orang pada 1984, dan 74 orang pada 1985 — total 713 korban yang terdokumentasi namanya. Angka ini jauh lebih kecil daripada estimasi 2.000–10.000 di atas karena hanya menghitung kasus yang berhasil didokumentasikan; selisihnya menunjukkan besarnya ketidakpastian data, bukan kesalahan salah satu pihak.
+- **Ditolak/ditunda (2026-11-26):** pertemuan atau rapat lanjutan pokja setelah 9 November 2026 (tidak ditemukan laporan hingga 26 November 2026); tanggal penandatanganan revisi Inpres 2/2023 (masih menunggu, per 18 November 2026); daftar lengkap 13 kasus versi satu media yang memasukkan Tanjung Priok dan Timor Timur ke dalam 13 (bertentangan dengan pernyataan Yusril bahwa keempatnya sudah diadili — halaman tidak menulis daftar lengkap).
