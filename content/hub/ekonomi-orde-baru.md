@@ -2,8 +2,8 @@
 title: "Ekonomi Orde Baru"
 description: "Arsitektur pembangunan ekonomi terencana era Orde Baru: stabilisasi moneter, Rencana Pembangunan Lima Tahun (Repelita), pengelolaan modal asing, konglomerasi, dan utang luar negeri 1966–1998."
 date: 1966-08-11
-updated: 2026-11-21
-last_updated: "2026-11-21"
+updated: 2026-11-28
+last_updated: "2026-11-28"
 entity_type: topik
 entity_id: "ekonomi-orde-baru"
 aliases:
@@ -34,6 +34,15 @@ sumber:
   - url: https://www.bps.go.id/id/pressrelease/2026/11/05/169700/ekonomi-indonesia-triwulan-iii-2026-tumbuh-5-47-persen--y-on-y-.html
     judul: "Ekonomi Indonesia Triwulan III-2026 Tumbuh 5,47 Persen (Y-on-Y) — BPS"
     tanggal: 2026-11-21
+  - url: https://www.bps.go.id/id/news/2026/11/02/944/bps-catat-inflasi-tahunan-oktober-2026-mencapai-3-23-persen.html
+    judul: "BPS Catat Inflasi Tahunan Oktober 2026 Mencapai 3,23 Persen (neraca perdagangan September 2026 surplus US$3,36 miliar)"
+    tanggal: 2026-11-28
+  - url: https://www.bi.go.id/id/publikasi/laporan/Pages/TKM-November-2026.aspx
+    judul: "Tinjauan Kebijakan Moneter November 2026 — BI-Rate naik 25 bps menjadi 6,00% (RDG 17–18 Nov 2026)"
+    tanggal: 2026-11-28
+  - url: https://www.bi.go.id/id/iru/highlight-news/Pages/Neraca-Pembayaran-Indonesia-Triwulan-III-2026-Surplus,-Ketahanan-Eksternal-Terjaga.aspx
+    judul: "Neraca Pembayaran Indonesia Triwulan III 2026 Surplus, Ketahanan Eksternal Terjaga — BI (20 Nov 2026)"
+    tanggal: 2026-11-28
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -111,6 +120,15 @@ Krisis 1998 yang mewariskan beban obligasi rekapitalisasi perbankan (BLBI) puluh
 ### 1998-01-15
 - Presiden Soeharto menandatangani perjanjian penyesuaian struktural (*Letter of Intent*) ke-2 dengan Direktur Pelaksana IMF Michel Camdessus di kediaman Jl. Cendana, yang mensyaratkan pembongkaran monopoli perdagangan komoditas penting dan privatisasi BUMN.
 
+### 2026-11-02
+- Badan Pusat Statistik (BPS) mencatat neraca perdagangan September 2026 surplus US$3,36 miliar — turun dari US$3,55 miliar pada Agustus 2026. Surplus nonmigas US$5,67 miliar menutup defisit migas US$2,31 miliar; ekspor tercatat US$27,59 miliar (tumbuh 11,87% y-on-y) dan impor US$24,23 miliar. Secara kumulatif Januari–September 2026, neraca perdagangan surplus US$10,61 miliar. Dalam rilis yang sama, BPS mencatat inflasi Oktober 2026 sebesar 3,23% (y-on-y).
+
+### 2026-11-18
+- Rapat Dewan Gubernur Bank Indonesia (RDG BI) 17–18 November 2026 menaikkan BI-Rate 25 bps menjadi 6,00% — kenaikan pertama sejak Juni 2026 (BI-Rate bertahan 5,75% pada Juli–Oktober 2026); suku bunga Deposit Facility naik menjadi 5,25% dan Lending Facility menjadi 6,75%. BI menyebut langkah ini untuk semakin memperkuat stabilisasi nilai tukar rupiah dari dampak meningkatnya ketidakpastian global serta sebagai langkah pre-emptive untuk menjaga inflasi tahun 2026–2027 tetap dalam sasaran 2,5±1%.
+
+### 2026-11-20
+- Bank Indonesia mencatat Neraca Pembayaran Indonesia (NPI) triwulan III-2026 surplus US$0,1 miliar, berbalik dari defisit US$0,9 miliar pada triwulan II-2026. Defisit transaksi berjalan menyusut menjadi US$2,0 miliar (0,5% PDB) dari US$12,6 miliar (3,4% PDB) pada triwulan sebelumnya, ditopang meningkatnya surplus neraca perdagangan barang nonmigas dan menurunnya defisit perdagangan migas; transaksi modal dan finansial tetap surplus US$2,1 miliar. Posisi cadangan devisa meningkat menjadi US$146,3 miliar pada akhir September 2026.
+
 ### 2026-11-05
 - Badan Pusat Statistik (BPS) mencatat ekonomi Indonesia tumbuh 5,47% (y-on-y) pada triwulan III-2026 — naik dari 5,29% pada triwulan II-2026; secara kumulatif Januari–September 2026 tumbuh 5,45%. PDB atas dasar harga berlaku mencapai Rp6.741,0 triliun. Konsumsi rumah tangga tumbuh 5,04% dan menjadi penopang utama (kontribusi 2,62 poin). Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut belanja pemerintah pada triwulan II–III 2026 digenjot, antara lain lewat program Makan Bergizi Gratis (MBG) dan Koperasi Desa/Kelurahan Merah Putih (KDKMP). [Inferensi: laju pertumbuhan di kisaran 5% ini melanjutkan pola pertumbuhan era Orde Baru akhir, tetapi BPS sendiri mencatat kesenjangan antar-sektor — akomodasi dan makan minum tumbuh 11,22% sementara sektor padat karya tumbuh lebih lambat — sehingga angka agregat ini belum tentu dirasakan merata oleh pekerja.]
 
@@ -124,6 +142,9 @@ Krisis 1998 yang mewariskan beban obligasi rekapitalisasi perbankan (BLBI) puluh
 
 ## Sumber
 - **BPS (5 Nov 2026):** *Ekonomi Indonesia Triwulan III-2026 Tumbuh 5,47 Persen (Y-on-Y)* — PDB ADHB Rp6.741,0 triliun; konsumsi rumah tangga 5,04% (kontribusi 2,62 poin); kumulatif Jan–Sep 2026 5,45%: https://www.bps.go.id/id/pressrelease/2026/11/05/169700/ekonomi-indonesia-triwulan-iii-2026-tumbuh-5-47-persen--y-on-y-.html
+- **BPS (2 Nov 2026):** *BPS Catat Inflasi Tahunan Oktober 2026 Mencapai 3,23 Persen* — neraca perdagangan September 2026 surplus US$3,36 miliar (nonmigas US$5,67 miliar, migas defisit US$2,31 miliar; ekspor US$27,59 miliar, impor US$24,23 miliar; kumulatif Jan–Sep 2026 US$10,61 miliar); inflasi Oktober 2026 3,23% (y-on-y): https://www.bps.go.id/id/news/2026/11/02/944/bps-catat-inflasi-tahunan-oktober-2026-mencapai-3-23-persen.html
+- **Bank Indonesia (18 Nov 2026):** *Tinjauan Kebijakan Moneter November 2026* — RDG 17–18 Nov 2026 menaikkan BI-Rate 25 bps menjadi 6,00%, Deposit Facility 5,25%, Lending Facility 6,75% (Siaran Pers No. 28/254/DKom): https://www.bi.go.id/id/publikasi/laporan/Pages/TKM-November-2026.aspx
+- **Bank Indonesia (20 Nov 2026):** *Neraca Pembayaran Indonesia Triwulan III 2026 Surplus, Ketahanan Eksternal Terjaga* — NPI surplus US$0,1 miliar; defisit transaksi berjalan US$2,0 miliar (0,5% PDB); transaksi modal dan finansial surplus US$2,1 miliar; cadangan devisa US$146,3 miliar akhir September 2026: https://www.bi.go.id/id/iru/highlight-news/Pages/Neraca-Pembayaran-Indonesia-Triwulan-III-2026-Surplus,-Ketahanan-Eksternal-Terjaga.aspx
 - **John Bresnan, *Managing Indonesia* (1993), Bab 7 "The Pertamina Crisis":** https://ciaotest.cc.columbia.edu/book/bresnan/bresnan17.html
 - **"Kelompok Antarpemerintah bagi Indonesia (IGGI)"**, Wikipedia bahasa Indonesia: https://id.wikipedia.org/wiki/Kelompok_Antarpemerintah_bagi_Indonesia
 - **"Consultative Group on Indonesia (CGI)"**, Wikipedia bahasa Inggris: https://en.wikipedia.org/wiki/Consultative_Group_on_Indonesia
