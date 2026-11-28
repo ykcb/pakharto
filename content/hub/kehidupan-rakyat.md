@@ -2,8 +2,8 @@
 title: "Kehidupan Rakyat dan Pembangunan Sosial"
 description: "Dinamika kehidupan masyarakat bawah era Orde Baru: Revolusi Hijau pedesaan, program Keluarga Berencana, SD Inpres, Transmigrasi massal, dan pengendalian perburuhan 1969–1998."
 date: 1969-04-01
-updated: 2026-11-21
-last_updated: "2026-11-21"
+updated: 2026-11-28
+last_updated: "2026-11-28"
 entity_type: topik
 entity_id: "kehidupan-rakyat"
 aliases:
@@ -50,6 +50,21 @@ sumber:
   - url: https://most1058fm.com/2026/07/kementerian-transmigrasi-kirim-1-476-patriot-ke-53-kawasan-transmigrasi/?v=1787889527
     judul: "Kementerian Transmigrasi Kirim 1.476 Patriot ke 53 Kawasan Transmigrasi (TEP 2026, 31 Jul–27 Nov 2026) — MOST 1058 FM"
     tanggal: 2026-11-21
+  - url: "https://jdih.kemenkeu.go.id/api/download/da4ae3ff-7568-4d40-9fc9-f762636d96b3/7 Tahun 2026.pdf"
+    judul: "PMK No. 7 Tahun 2026 tentang Pengelolaan Dana Desa TA 2026 (pagu Rp60,57 triliun; 58,03% untuk KDMP) — JDIH Kemenkeu"
+    tanggal: 2026-11-28
+  - url: https://wartatrans.com/program-ekspedisi-patriot-berakhir-kontribusi-bagi-masyarakat-fakfak-terap-dilanjutkan/
+    judul: "Program Ekspedisi Patriot Berakhir, Kontribusi Bagi Masyarakat Fakfak Tetap Dilanjutkan — WartaTrans (23 Nov 2026)"
+    tanggal: 2026-11-28
+  - url: https://matakita.co/2026/11/27/empat-bulan-mengabdi-di-anawua-tim-ekspedisi-patriot-unhas-serahkan-12-capaian-program-kepada-pemkab-kolaka/
+    judul: "Empat Bulan Mengabdi di Anawua, Tim Ekspedisi Patriot Unhas Serahkan 12 Capaian Program kepada Pemkab Kolaka — MataKita (27 Nov 2026)"
+    tanggal: 2026-11-28
+  - url: https://unair.ac.id/dari-meja-posyandu-ke-pasar-lokal-kader-prafi-siapkan-langkah-usai-ekspedisi-patriot/
+    judul: "Dari Meja Posyandu ke Pasar Lokal, Kader Prafi Siapkan Langkah Usai Ekspedisi Patriot — UNAIR (diseminasi Manokwari, 20 Nov 2026)"
+    tanggal: 2026-11-28
+  - url: https://undip.ac.id/post/60645/gelar-karya-ekspedisi-patriot-undip-2026-senggi-keerom-papua.html
+    judul: "Gelar Karya dan Festival Budaya Ekspedisi Patriot UNDIP di Senggi — UNDIP (21 Nov 2026)"
+    tanggal: 2026-11-28
 relasi:
   - predikat: bagian_dari
     objek: "Orde Baru (1966–1998)"
@@ -82,7 +97,7 @@ Di sisi lain, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahun 19
 | **Pangan & Pertanian** | Revolusi Hijau (Bimas, Inmas, Insus, KUD) | Produksi beras naik dari 12 juta ton (1969) ke 25,8 juta ton (1984) | Para peneliti mencatat monokultur bibit unggul padi, ketergantungan pupuk kimia & pestisida |
 | **Kependudukan** | Badan Koordinasi Keluarga Berencana Nasional (BKKBN) | Angka fertilitas total (*TFR*) turun dari 5,6 (1970) ke 2,8 (1997); terus turun hingga ±2,1 pada 2024 (proyeksi BPS 2020–2050), mendekati level pengganti 2,1 | Meletakkan fondasi bonus demografi Indonesia 2020–2030 (menurut proyeksi BPS); BKKBN naik status menjadi Kementerian Kependudukan dan Pembangunan Keluarga pada 21 Okt 2024 (Perpres 180 & 181/2024), dipimpin Wihaji |
 | **Pendidikan Dasar** | Instruksi Presiden (Inpres) Pembangunan SD (1973–1983) | 61.807 sekolah dibangun 1973–1978 (Duflo 2001); total ±150.000 unit hingga 1993/1994 | Pemberantasan buta aksara massal; Duflo (peraih Nobel Ekonomi 2019) mengukur dampaknya: +0,12–0,19 tahun sekolah dan +1,5–2,7% upah per sekolah per 1.000 anak |
-| **Mobilitas Penduduk** | Program Transmigrasi Terencana (PIR-Trans) | Pemindahan ~1,7 juta kepala keluarga (±8 juta jiwa) ke luar Jawa | Menurut para peneliti: perubahan lanskap demografi, deforestasi, konflik agraria dengan masyarakat adat; Kementerian Transmigrasi berdiri kembali 21 Okt 2024 (Perpres 172/2024) dengan program "Transmigrasi 5.0"; Tim Ekspedisi Patriot (TEP) 2026 menerjunkan 1.476 civitas akademika ke 53 kawasan transmigrasi prioritas (31 Jul–27 Nov 2026) untuk memetakan potensi dan merumuskan rekomendasi berbasis data |
+| **Mobilitas Penduduk** | Program Transmigrasi Terencana (PIR-Trans) | Pemindahan ~1,7 juta kepala keluarga (±8 juta jiwa) ke luar Jawa | Menurut para peneliti: perubahan lanskap demografi, deforestasi, konflik agraria dengan masyarakat adat; Kementerian Transmigrasi berdiri kembali 21 Okt 2024 (Perpres 172/2024) dengan program "Transmigrasi 5.0"; Tim Ekspedisi Patriot (TEP) 2026 menerjunkan 1.476 civitas akademika ke 53 kawasan transmigrasi prioritas (31 Jul–27 Nov 2026) untuk memetakan potensi dan merumuskan rekomendasi berbasis data; penugasan non-Papua berakhir 27 Nov 2026, TEP Papua berlanjut s.d. 25 Jul 2027 |
 | **Ketenagakerjaan** | Wadah tunggal buruh (FBSI / SPSI) & Hubungan Industrial Pancasila (HIP) | Pemogokan buruh dilarang dan dianggap subversif; pasca-1998 hubungan industrial diatur UU 13/2003, diubah UU 6/2023 (Cipta Kerja), lalu UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan (disahkan DPR 6 Okt 2026, diundangkan & berlaku 28 Okt 2026; 313 pasal, 23 bab) yang mencabut UU 13/2003 dan klaster ketenagakerjaan UU Cipta Kerja, antara lain mewajibkan dana cadangan pesangon (Pasal 253, kecuali usaha mikro/kecil) | Para pengamat menilai upah minimum dipertahankan rendah untuk menarik investasi pabrik manufaktur; kebebasan berserikat pulih pasca-1998; MK 168/PUU-XXI/2023 (31 Okt 2024) memerintahkan UU ketenagakerjaan baru yang terpisah dari UU Cipta Kerja |
 
 ## Kronologi
@@ -114,8 +129,14 @@ Di sisi lain, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahun 19
 ### 2025-11-10
 - Marsinah dianugerahi gelar Pahlawan Nasional (Keppres No. 116/TK/2025) — keputusan yang sama yang menganugerahkan gelar kepada Soeharto. Menteri Sekretaris Negara Prasetyo Hadi menyatakan pemberian gelar tidak berkaitan dengan penyelidikan kasus pembunuhannya, dan pemerintah belum berencana melanjutkan penyelidikan. Komnas HAM (Ketua Anis Hidayah) menilai negara masih berutang keadilan atas kasus ini; pada Mei 2026, sayap perempuan Partai Buruh (Suara Marsinah) kembali mendesak negara membuka penyelidikan kasus Marsinah sebagai kejahatan terhadap kemanusiaan.
 
+### 2026-02-12
+- Peraturan Menteri Keuangan No. 7 Tahun 2026 tentang Pengelolaan Dana Desa Tahun Anggaran 2026 (ditetapkan 9 Februari 2026, diundangkan 12 Februari 2026) menetapkan pagu Dana Desa 2026 sebesar Rp60,57 triliun — Rp59,57 triliun alokasi formula dan Rp1 triliun insentif desa — turun dari Rp71 triliun pada 2025. Sebesar 58,03% dari pagu (Rp34,57 triliun) dialokasikan untuk mendukung Koperasi Desa/Kelurahan Merah Putih (KDMP).
+
 ### 2026-07-31
 - Kementerian Transmigrasi menerjunkan 1.476 civitas akademika (dosen, mahasiswa, tenaga kependidikan) ke 53 kawasan transmigrasi prioritas lewat Program Tim Ekspedisi Patriot (TEP) 2026 — tahun kedua program ini — untuk memetakan potensi daerah, mengidentifikasi persoalan masyarakat, dan merumuskan rekomendasi berbasis data; penugasan berlangsung empat bulan, 31 Juli–27 November 2026, melibatkan 10 perguruan tinggi mitra dan 155 perguruan tinggi nonmitra.
+
+### 2026-11-27
+- Penugasan Tim Ekspedisi Patriot (TEP) 2026 non-Papua berakhir setelah 120 hari (31 Juli–27 November 2026); penutupan ditandai diseminasi hasil di kawasan — Fakfak (23 November 2026, Unpad: instalasi PLTS di 4 lokasi, pendampingan UMKM, 55 buku ajar dan satu printer untuk madrasah), Kolaka (24 November 2026, Unhas: 12 luaran, antara lain pemecah ombak bambu 90 meter, penanaman 3.200 mangrove, dan peta batas desa), Manokwari (20 November 2026, UNAIR: kader Posyandu merambah pasar lokal) dan Senggi, Keerom (21 November 2026, UNDIP: gelar karya dan festival budaya, diapresiasi Menteri Transmigrasi secara daring). TEP Papua berlanjut hingga 25 Juli 2027 (360 hari).
 
 ### 2026-10-28
 - UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan diundangkan dan mulai berlaku — tindak lanjut Putusan MK No. 168/PUU-XXI/2023 yang memerintahkan UU ketenagakerjaan terpisah dari UU Cipta Kerja. UU ini (313 pasal, 23 bab) mencabut UU No. 13 Tahun 2003 dan klaster ketenagakerjaan UU No. 6 Tahun 2023; antara lain mewajibkan pengusaha menyediakan dana cadangan pesangon (Pasal 253, dikelola lembaga pemerintah, kecuali usaha mikro dan kecil) dan memerintahkan peraturan pelaksanaan ditetapkan paling lama satu tahun sejak pengundangan.
@@ -137,6 +158,8 @@ Di sisi lain, kebijakan penyeragaman administrasi desa melalui UU No. 5 Tahun 19
 - **Marsinah (2025–2026):** Gelar Pahlawan Nasional (Keppres 116/TK/2025) dan pernyataan pemerintah soal penyelidikan — https://joss.co.id/2025/11/pemerintah-belum-akan-lanjutkan-penyelidikan-kasus-marsinah-meski-dapat-gelar-pahlawan-nasional/ ; desakan pembukaan kembali penyelidikan (Mei 2026) — https://holopis.com/2026/05/08/suara-marsinah-desak-negara-tuntaskan-kasus-ham-berat-dan-lindungi-buruh-perempuan/
 - **UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan (Liputan6, 9 Nov 2026):** Disahkan DPR 6 Okt 2026, diundangkan & berlaku 28 Okt 2026; 313 pasal, 23 bab; dana cadangan pesangon (Pasal 253) — https://lapor.co.id/berita/pekerja-wajib-tahu-ini-link-uu-pelindungan-ketenagakerjaan-terbaru
 - **Tim Ekspedisi Patriot 2026 (MOST 1058 FM, 27 Jul 2026):** 1.476 civitas akademika ke 53 kawasan transmigrasi prioritas, 31 Jul–27 Nov 2026 — https://most1058fm.com/2026/07/kementerian-transmigrasi-kirim-1-476-patriot-ke-53-kawasan-transmigrasi/?v=1787889527
+- **PMK No. 7 Tahun 2026 (JDIH Kemenkeu, ditetapkan 9 Feb 2026, diundangkan 12 Feb 2026):** Pagu Dana Desa 2026 Rp60,57 triliun (Rp59,57 triliun formula + Rp1 triliun insentif); 58,03% (Rp34,57 triliun) untuk KDMP — https://jdih.kemenkeu.go.id/api/download/da4ae3ff-7568-4d40-9fc9-f762636d96b3/7 Tahun 2026.pdf
+- **Penutupan TEP 2026 non-Papua (23–27 Nov 2026):** Diseminasi Fakfak (Unpad) — https://wartatrans.com/program-ekspedisi-patriot-berakhir-kontribusi-bagi-masyarakat-fakfak-terap-dilanjutkan/ ; Kolaka (Unhas, 12 luaran) — https://matakita.co/2026/11/27/empat-bulan-mengabdi-di-anawua-tim-ekspedisi-patriot-unhas-serahkan-12-capaian-program-kepada-pemkab-kolaka/ ; Manokwari (UNAIR) — https://unair.ac.id/dari-meja-posyandu-ke-pasar-lokal-kader-prafi-siapkan-langkah-usai-ekspedisi-patriot/ ; Senggi, Keerom (UNDIP) — https://undip.ac.id/post/60645/gelar-karya-ekspedisi-patriot-undip-2026-senggi-keerom-papua.html
 - **BPS, *Proyeksi Penduduk Indonesia 2020–2050*:** TFR terus turun hingga ±2,1 pada 2024–2025, mendekati level pengganti — https://tricruise.id/column/indonesias-birth-rate-trends-and-projections/
 - **Jan Breman (1982):** *Control of Land and Labour in Colonial and Post-Colonial Java* — Kajian sosiologi kritis mengenai modernisasi pertanian dan buruh tani di Jawa.
 
